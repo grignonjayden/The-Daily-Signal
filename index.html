@@ -964,6 +964,25 @@ function renderNews(data, dateKey) {
   widget.appendChild(list);
   mainPanel.appendChild(widget);
 
+  // Official releases — Fed, Bank of Canada, Finance Canada, StatCan, SEC
+  if (Array.isArray(data.official) && data.official.length) {
+    const offWidget = widgetShell('w-span-12', 'bank', 'var(--sky-soft)', 'var(--sky)', 'Official releases', data.official.length);
+    const offList = el('div', { className: 'news-list' });
+    data.official.forEach((a, i) => {
+      const card = el('a', { className: 'news-card', href: a.url || '#' });
+      card.style.animationDelay = (i * 0.05) + 's';
+      const top = el('div', { className: 'news-card-top' });
+      top.appendChild(el('span', { className: 'news-source', text: a.source || '' }));
+      if (a.time) top.appendChild(el('span', { className: 'news-time', text: a.time }));
+      card.appendChild(top);
+      card.appendChild(el('p', { className: 'news-title', text: a.title || '' }));
+      if (a.snippet) card.appendChild(el('p', { className: 'news-snippet', text: a.snippet }));
+      offList.appendChild(card);
+    });
+    offWidget.appendChild(offList);
+    mainPanel.appendChild(offWidget);
+  }
+
   // Throughout the day — a denser, hourly-ish ticker beneath the main headlines
   if (Array.isArray(data.ticker) && data.ticker.length) {
     const tickerWidget = widgetShell('w-span-12', 'pulse', 'var(--pink-soft)', 'var(--pink-deep)', 'Throughout the Day', data.ticker.length);

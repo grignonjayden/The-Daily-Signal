@@ -4,11 +4,11 @@ import { writeFileSync } from 'node:fs';
 
 const FEEDS = [
   // Central banks, regulators and governments
-  { source: 'Federal Reserve', url: 'https://www.federalreserve.gov/feeds/press_all.xml' },
-  { source: 'Bank of Canada', url: 'https://www.bankofcanada.ca/content_type/press-releases/feed/' },
-  { source: 'Finance Canada', url: 'https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentfinance&sort=publishedDate&orderBy=desc&pick=20&format=atom' },
-  { source: 'Statistics Canada', url: 'https://www150.statcan.gc.ca/n1/rss/dai-quo/0-eng.atom' },
-  { source: 'U.S. SEC', url: 'https://www.sec.gov/news/pressreleases.rss' },
+  { source: 'Federal Reserve', official: true, url: 'https://www.federalreserve.gov/feeds/press_all.xml' },
+  { source: 'Bank of Canada', official: true, url: 'https://www.bankofcanada.ca/content_type/press-releases/feed/' },
+  { source: 'Finance Canada', official: true, url: 'https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentfinance&sort=publishedDate&orderBy=desc&pick=20&format=atom' },
+  { source: 'Statistics Canada', official: true, url: 'https://www150.statcan.gc.ca/n1/rss/dai-quo/0-eng.atom' },
+  { source: 'U.S. SEC', official: true, url: 'https://www.sec.gov/news/pressreleases.rss' },
   // Wall Street and Canadian business news
   { source: 'WSJ Markets', url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml' },
   { source: 'CNBC', url: 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114' },
@@ -17,8 +17,11 @@ const FEEDS = [
   { source: 'CBC Business', url: 'https://www.cbc.ca/webfeed/rss/rss-business' },
 ];
 
-const PER_SOURCE = 2;   // headlines per source in the main list
-const MAX_TICKER = 12;  // rows in "Throughout the Day"
+const MAX_ARTICLES = 12; // main "Latest headlines" list (news outlets only)
+const PER_SOURCE = 4;    // cap per outlet so one source can't take over the list
+const MAX_OFFICIAL = 8;  // "Official releases" card
+const OFFICIAL_PER_SOURCE = 2;
+const MAX_TICKER = 12;   // rows in "Throughout the Day"
 const MAX_AGE_DAYS = 7;
 const TZ = 'America/Toronto';
 
@@ -56,7 +59,7 @@ async function load(feed) {
       signal: AbortSignal.timeout(20000),
     });
     if (!res.ok) throw new Error('HTTP ' + res.status);
-    const items = parse(await res.text(), feed.source);
+    const items = parse(await res.text(), feed.source).map(i => ({ ...i, official: !!feed.official }));
     console.log(`${feed.source}: ${items.length} items`);
     return items;
   } catch (e) {
@@ -76,19 +79,23 @@ if (!all.length) { console.error('No feeds returned anything; leaving news.json 
 const seen = new Set();
 const unique = all.filter(i => !seen.has(i.url) && seen.add(i.url));
 
-const perSource = {};
-const articles = unique.filter(i => (perSource[i.source] = (perSource[i.source] || 0) + 1) <= PER_SOURCE);
+const capBy = (items, per, max) => { const n = {}; return items.filter(i => (n[i.source] = (n[i.source] || 0) + 1) <= per).slice(0, max); };
+const news = unique.filter(i => !i.official);
+const articles = capBy(news, PER_SOURCE, MAX_ARTICLES);
 const used = new Set(articles.map(a => a.url));
-const ticker = unique.filter(i => !used.has(i.url)).slice(0, MAX_TICKER);
+const ticker = news.filter(i => !used.has(i.url)).slice(0, MAX_TICKER);
+const official = capBy(unique.filter(i => i.official), OFFICIAL_PER_SOURCE, MAX_OFFICIAL);
 
 const now = new Date();
+const card = a => ({
+  title: a.title, source: a.source, url: a.url, snippet: a.snippet,
+  time: fmt(a.date, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }),
+});
 const out = {
   generated_at: fmt(now, { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' ET',
   date_key: now.toLocaleDateString('en-CA', { timeZone: TZ }),
-  articles: articles.map(a => ({
-    title: a.title, source: a.source, url: a.url, snippet: a.snippet,
-    time: fmt(a.date, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }),
-  })),
+  articles: articles.map(card),
+  official: official.map(card),
   ticker: ticker.map(t => {
     const sameDay = t.date.toLocaleDateString('en-CA', { timeZone: TZ }) === now.toLocaleDateString('en-CA', { timeZone: TZ });
     return { time: fmt(t.date, sameDay ? { hour: 'numeric', minute: '2-digit' } : { month: 'short', day: 'numeric' }), title: t.source + ' — ' + t.title, url: t.url };
@@ -96,4 +103,4 @@ const out = {
 };
 
 writeFileSync('news.json', JSON.stringify(out, null, 2) + '\n');
-console.log(`Wrote news.json: ${out.articles.length} articles, ${out.ticker.length} ticker rows.`);
+console.log(`Wrote news.json: ${out.articles.length} articles, ${out.official.length} official, ${out.ticker.length} ticker rows.`);
