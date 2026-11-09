@@ -39,6 +39,25 @@ const tag = (block, names) => {
   return '';
 };
 
+// Pulls a thumbnail from media:content / media:thumbnail / image enclosure / first <img> in the item.
+function findImage(b) {
+  const pats = [
+    /<media:thumbnail[^>]*url="([^"]+)"/i,
+    /<media:content[^>]*url="([^"]+\.(?:jpe?g|png|webp)[^"]*)"/i,
+    /<media:content[^>]*medium="image"[^>]*url="([^"]+)"/i,
+    /<media:content[^>]*url="([^"]+)"[^>]*medium="image"/i,
+    /<enclosure[^>]*url="([^"]+)"[^>]*type="image/i,
+    /<enclosure[^>]*type="image[^"]*"[^>]*url="([^"]+)"/i,
+    /<img[^>]*src=["']([^"']+)["']/i,
+    /&lt;img[^&]*src=(?:&quot;|")([^"&]+)/i,
+  ];
+  for (const re of pats) {
+    const m = b.match(re);
+    if (m && /^https:\/\//.test(m[1])) return m[1].replace(/&amp;/g, '&');
+  }
+  return '';
+}
+
 function parse(xml, source) {
   const blocks = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/gi) || [];
   return blocks.map(b => {
@@ -47,7 +66,7 @@ function parse(xml, source) {
     const date = new Date(decode(tag(b, ['pubDate', 'published', 'updated', 'dc:date'])));
     let snippet = decode(tag(b, ['description', 'summary', 'content']));
     if (snippet.length > 220) snippet = snippet.slice(0, 217).replace(/\s+\S*$/, '') + '…';
-    return { source, title: decode(tag(b, ['title'])), url, snippet, date };
+    return { source, title: decode(tag(b, ['title'])), url, snippet, date, image: findImage(b) };
   }).filter(i => i.title && /^https?:\/\//.test(i.url) && !isNaN(i.date));
 }
 
@@ -88,7 +107,7 @@ const official = capBy(unique.filter(i => i.official), OFFICIAL_PER_SOURCE, MAX_
 
 const now = new Date();
 const card = a => ({
-  title: a.title, source: a.source, url: a.url, snippet: a.snippet,
+  title: a.title, source: a.source, url: a.url, snippet: a.snippet, image: a.image || undefined,
   time: fmt(a.date, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }),
 });
 const out = {

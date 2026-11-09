@@ -147,6 +147,17 @@
   }
   .news-card-body { flex: 1; min-width: 0; }
 
+  /* ---------- Small headline thumbnails ---------- */
+  .news-card.has-thumb { display: flex; gap: 12px; align-items: flex-start; }
+  .news-thumb-sm {
+    flex: none; width: 72px; height: 72px; border-radius: 10px; overflow: hidden;
+    background: linear-gradient(135deg, var(--mint), #2A4270);
+    display: flex; align-items: center; justify-content: center;
+    color: #fff; font-size: 13px; font-weight: 800; letter-spacing: 0.02em; text-align: center;
+  }
+  .news-thumb-sm.official { background: linear-gradient(135deg, var(--pink), var(--pink-deep)); }
+  .news-thumb-sm img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
   /* ---------- Hourly ticker ---------- */
   .ticker-list { position: relative; padding-left: 4px; }
   .ticker-row {
@@ -915,6 +926,21 @@ function renderCrypto(data, dateKey) {
   loadPastList('crypto');
 }
 
+const SOURCE_BADGES = { 'Federal Reserve': 'FED', 'Bank of Canada': 'BoC', 'Finance Canada': 'FIN CA', 'Statistics Canada': 'StatCan', 'U.S. SEC': 'SEC', 'WSJ Markets': 'WSJ', 'CNBC': 'CNBC', 'MarketWatch': 'MW', 'Globe and Mail': 'G&M' };
+// Small photo beside a headline; falls back to a source badge if there's no image or it fails to load.
+function newsThumb(a, official) {
+  const wrap = el('div', { className: 'news-thumb-sm' + (official ? ' official' : '') });
+  const badge = () => { wrap.innerHTML = ''; wrap.textContent = SOURCE_BADGES[a.source] || (a.source || '').slice(0, 4).toUpperCase(); };
+  if (a.image) {
+    const img = document.createElement('img');
+    img.alt = ''; img.loading = 'lazy'; img.referrerPolicy = 'no-referrer';
+    img.onerror = badge;
+    img.src = a.image;
+    wrap.appendChild(img);
+  } else badge();
+  return wrap;
+}
+
 function renderNews(data, dateKey) {
   if (data.date_key) dateKey = data.date_key;
   dateline.textContent = 'News dispatch for ' + fmtDateHuman(dateKey) + ' · generated ' + (data.generated_at || '');
@@ -931,7 +957,7 @@ function renderNews(data, dateKey) {
   const list = el('div', { className: 'news-list' });
   data.articles.forEach((a, i) => {
     const hasVideo = !!(a.video && a.video.url);
-    const card = el('a', { className: 'news-card' + (hasVideo ? ' has-video' : ''), href: (hasVideo ? a.video.url : a.url) || '#' });
+    const card = el('a', { className: 'news-card' + (hasVideo ? ' has-video' : ' has-thumb'), href: (hasVideo ? a.video.url : a.url) || '#' });
     card.style.animationDelay = (i * 0.05) + 's';
 
     if (hasVideo) {
@@ -950,7 +976,8 @@ function renderNews(data, dateKey) {
       card.appendChild(thumbWrap);
     }
 
-    const body = el('div', { className: hasVideo ? 'news-card-body' : '' });
+    if (!hasVideo) card.appendChild(newsThumb(a, false));
+    const body = el('div', { className: 'news-card-body' });
     const top = el('div', { className: 'news-card-top' });
     top.appendChild(el('span', { className: 'news-source', text: a.source || 'Yahoo Finance' }));
     if (a.time) top.appendChild(el('span', { className: 'news-time', text: a.time }));
@@ -969,14 +996,17 @@ function renderNews(data, dateKey) {
     const offWidget = widgetShell('w-span-12', 'bank', 'var(--sky-soft)', 'var(--sky)', 'Official releases', data.official.length);
     const offList = el('div', { className: 'news-list' });
     data.official.forEach((a, i) => {
-      const card = el('a', { className: 'news-card', href: a.url || '#' });
+      const card = el('a', { className: 'news-card has-thumb', href: a.url || '#' });
       card.style.animationDelay = (i * 0.05) + 's';
+      card.appendChild(newsThumb(a, true));
+      const body = el('div', { className: 'news-card-body' });
       const top = el('div', { className: 'news-card-top' });
       top.appendChild(el('span', { className: 'news-source', text: a.source || '' }));
       if (a.time) top.appendChild(el('span', { className: 'news-time', text: a.time }));
-      card.appendChild(top);
-      card.appendChild(el('p', { className: 'news-title', text: a.title || '' }));
-      if (a.snippet) card.appendChild(el('p', { className: 'news-snippet', text: a.snippet }));
+      body.appendChild(top);
+      body.appendChild(el('p', { className: 'news-title', text: a.title || '' }));
+      if (a.snippet) body.appendChild(el('p', { className: 'news-snippet', text: a.snippet }));
+      card.appendChild(body);
       offList.appendChild(card);
     });
     offWidget.appendChild(offList);
