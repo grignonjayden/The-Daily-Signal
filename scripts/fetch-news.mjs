@@ -10,15 +10,17 @@ const FEEDS = [
   { source: 'Statistics Canada', official: true, url: 'https://www150.statcan.gc.ca/n1/rss/dai-quo/0-eng.atom' },
   { source: 'U.S. SEC', official: true, url: 'https://www.sec.gov/news/pressreleases.rss' },
   // Wall Street and Canadian business news
-  { source: 'WSJ Markets', url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml' },
+  { source: 'WSJ Markets', url: 'https://feeds.content.dowjones.io/public/rss/RSSMarketsMain' },
   { source: 'CNBC', url: 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114' },
-  { source: 'MarketWatch', url: 'https://feeds.content.dowjones.io/public/rss/mw_marketpulse' },
+  { source: 'MarketWatch', url: 'https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines' },
+  { source: 'MarketWatch', url: 'https://feeds.content.dowjones.io/public/rss/mw_topstories' },
   { source: 'Globe and Mail', url: 'https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/' },
   { source: 'CBC Business', url: 'https://www.cbc.ca/webfeed/rss/rss-business' },
+  { source: 'Financial Post', url: 'https://financialpost.com/feed/' },
 ];
 
 const MAX_ARTICLES = 12; // main "Latest headlines" list (news outlets only)
-const PER_SOURCE = 4;    // cap per outlet so one source can't take over the list
+const PER_SOURCE = 3;    // cap per outlet so one source can't take over the list
 const MAX_OFFICIAL = 8;  // "Official releases" card
 const OFFICIAL_PER_SOURCE = 2;
 const MAX_TICKER = 12;   // rows in "Throughout the Day"
@@ -60,7 +62,8 @@ async function load(feed) {
     });
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const items = parse(await res.text(), feed.source).map(i => ({ ...i, official: !!feed.official }));
-    console.log(`${feed.source}: ${items.length} items`);
+    const newest = items.reduce((m, i) => (i.date > m ? i.date : m), new Date(0));
+    console.log(`${feed.source}: ${items.length} items, newest ${newest.toISOString()} (${feed.url})`);
     return items;
   } catch (e) {
     console.warn(`${feed.source}: skipped (${e.message})`);
