@@ -1,0 +1,1306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Daily Signal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F2F2F5;
+    --surface: #FFFFFF;
+    --surface-alt: #E8E8EC;
+    --ink: #14161D;
+    --ink-soft: #585A66;
+    --ink-faint: #8E909A;
+
+    --pink: #D9722C;
+    --pink-soft: #FBE6D3;
+    --pink-deep: #A6591F;
+
+    --mint: #1C2E52;
+    --mint-soft: #DFE3EC;
+    --mint-deep: #10192E;
+
+    --lavender: #4B2E6B;
+    --lavender-soft: #E6DFEE;
+
+    --peach: #4B2E6B;
+    --peach-soft: #E6DFEE;
+
+    --sky: #5A5D68;
+    --sky-soft: #E7E7EB;
+
+    --line: #E1E1E6;
+    --shadow-sm: 0 1px 2px rgba(20,20,25,0.05);
+    --shadow-md: 0 10px 28px rgba(20,20,25,0.08);
+    --shadow-lg: 0 24px 56px rgba(20,20,25,0.14);
+    --ease: cubic-bezier(0.22, 1, 0.36, 1);
+    --r-lg: 28px;
+    --r-md: 20px;
+    --r-sm: 14px;
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) {
+    * { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
+  }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+  }
+
+  h1, h2, h3, .num, .gen-btn, .nav-pill, .chip { font-family: 'Manrope', sans-serif; }
+
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 20px 70px; }
+
+  /* ---------- Header ---------- */
+  .hero {
+    position: relative;
+    overflow: hidden;
+    padding: 44px 28px 40px;
+    margin: 0 0 22px;
+    border-radius: var(--r-lg);
+    background:
+      radial-gradient(480px 260px at 8% -10%, rgba(28,46,82,0.14), transparent 60%),
+      radial-gradient(420px 260px at 95% 0%, rgba(217,114,44,0.11), transparent 60%),
+      radial-gradient(520px 320px at 60% 120%, rgba(75,46,107,0.13), transparent 60%),
+      var(--surface);
+    box-shadow: var(--shadow-md);
+  }
+  .hero-row { display: flex; justify-content: space-between; align-items: flex-end; gap: 20px; flex-wrap: wrap; }
+  .greeting { font-size: 13px; font-weight: 600; color: var(--ink-soft); margin: 0 0 6px; display: flex; align-items: center; gap: 8px; }
+  .live-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--pink); position: relative; }
+  .live-dot::after {
+    content: ''; position: absolute; inset: -5px; border-radius: 50%;
+    border: 1.5px solid var(--pink); opacity: 0.6; animation: ping 2.2s var(--ease) infinite;
+  }
+  @keyframes ping { 0% { transform: scale(0.6); opacity: 0.7; } 100% { transform: scale(2); opacity: 0; } }
+  h1.title { font-size: clamp(30px, 4.6vw, 42px); font-weight: 800; margin: 0; letter-spacing: -0.02em; line-height: 1.05; }
+  .dateline { font-size: 13px; color: var(--ink-soft); margin-top: 10px; font-weight: 500; }
+
+  .gen-btn {
+    font-size: 14px; font-weight: 700; letter-spacing: -0.01em;
+    background: var(--ink); color: #fff; border: none;
+    padding: 14px 22px; border-radius: 999px; cursor: pointer;
+    transition: transform 0.16s var(--ease), box-shadow 0.16s var(--ease), background 0.16s var(--ease);
+    box-shadow: var(--shadow-sm);
+  }
+  .gen-btn:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); background: #262832; }
+  .gen-btn:active { transform: translateY(0); }
+  .gen-btn:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
+
+  /* ---------- Tab bar ---------- */
+  .tab-bar { display: flex; gap: 8px; margin: 18px 0 22px; flex-wrap: wrap; }
+  .tab-btn {
+    font-family: 'Manrope', sans-serif; font-size: 13.5px; font-weight: 700;
+    background: var(--surface); color: var(--ink-soft); border: 1px solid var(--line);
+    padding: 10px 18px; border-radius: 999px; cursor: pointer;
+    display: inline-flex; align-items: center; gap: 8px;
+    transition: all 0.16s var(--ease); box-shadow: var(--shadow-sm);
+  }
+  .tab-btn svg { width: 15px; height: 15px; }
+  .tab-btn:hover:not(.active) { border-color: var(--ink-faint); color: var(--ink); }
+  .tab-btn.active { background: var(--ink); border-color: var(--ink); color: #fff; }
+
+  /* ---------- News list ---------- */
+  .news-list { display: flex; flex-direction: column; gap: 2px; }
+  .news-card {
+    display: block; padding: 16px 14px; border-radius: var(--r-sm); text-decoration: none; color: inherit;
+    border-bottom: 1px solid var(--line); transition: background 0.16s var(--ease), transform 0.16s var(--ease);
+    opacity: 0; transform: translateY(8px); animation: rise 0.45s var(--ease) forwards;
+  }
+  .news-card:last-child { border-bottom: none; }
+  .news-card:hover { background: var(--surface-alt); transform: translateX(2px); }
+  .news-card-top { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin-bottom: 5px; }
+  .news-source { font-size: 11px; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase; color: var(--mint); }
+  .news-time { font-size: 11px; font-weight: 600; color: var(--ink-faint); white-space: nowrap; }
+  .news-title { font-size: 15.5px; font-weight: 700; margin: 0 0 4px; letter-spacing: -0.005em; }
+  .news-snippet { font-size: 13.5px; line-height: 1.5; color: var(--ink-soft); margin: 0; font-weight: 500; }
+
+  /* ---------- Video thumbnails ---------- */
+  .news-card.has-video { display: flex; gap: 14px; align-items: flex-start; }
+  .news-thumb-wrap {
+    position: relative; flex: none; width: 148px; aspect-ratio: 16/9; border-radius: 10px; overflow: hidden;
+    background: linear-gradient(135deg, var(--mint), #2A4270);
+  }
+  .news-thumb-img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .news-play-btn {
+    position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+    background: linear-gradient(0deg, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.05) 55%, transparent 100%);
+  }
+  .news-play-circle {
+    width: 34px; height: 34px; border-radius: 50%; background: rgba(255,255,255,0.92);
+    display: flex; align-items: center; justify-content: center; box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    transition: transform 0.16s var(--ease);
+  }
+  .news-card.has-video:hover .news-play-circle { transform: scale(1.1); }
+  .video-badge {
+    position: absolute; top: 6px; left: 6px; font-size: 9.5px; font-weight: 700; letter-spacing: 0.03em;
+    text-transform: uppercase; color: #fff; background: rgba(0,0,0,0.55); padding: 2px 6px; border-radius: 4px;
+  }
+  .news-card-body { flex: 1; min-width: 0; }
+
+  /* ---------- Hourly ticker ---------- */
+  .ticker-list { position: relative; padding-left: 4px; }
+  .ticker-row {
+    display: flex; gap: 14px; align-items: flex-start; padding: 10px 6px;
+    border-radius: var(--r-sm); text-decoration: none; color: inherit;
+    transition: background 0.14s var(--ease), transform 0.14s var(--ease);
+    opacity: 0; transform: translateY(6px); animation: rise 0.4s var(--ease) forwards;
+  }
+  .ticker-row:hover { background: var(--surface-alt); transform: translateX(2px); }
+  .ticker-time-col { flex: none; width: 62px; display: flex; flex-direction: column; align-items: center; }
+  .ticker-time { font-size: 10.5px; font-weight: 700; color: var(--ink-faint); white-space: nowrap; }
+  .ticker-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--mint); margin: 5px 0 0; flex: none; }
+  .ticker-rail { width: 1px; flex: 1; background: var(--line); margin-top: 2px; min-height: 14px; }
+  .ticker-headline { font-size: 13.5px; font-weight: 600; line-height: 1.4; padding-top: 1px; }
+  .ticker-caption { font-size: 11px; color: var(--ink-faint); font-weight: 500; margin-top: 10px; padding: 0 6px; line-height: 1.5; }
+
+  /* ---------- Bento grid ---------- */
+  .bento {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 16px;
+    align-items: start;
+  }
+  .widget {
+    background: var(--surface);
+    border-radius: var(--r-md);
+    padding: 22px 22px 20px;
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--line);
+    transition: transform 0.18s var(--ease), box-shadow 0.18s var(--ease);
+    opacity: 0; transform: translateY(10px); animation: rise 0.5s var(--ease) forwards;
+  }
+  @keyframes rise { to { opacity: 1; transform: translateY(0); } }
+  .widget:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); }
+  .w-span-12 { grid-column: span 12; }
+  .w-span-8 { grid-column: span 8; }
+  .w-span-7 { grid-column: span 7; }
+  .w-span-6 { grid-column: span 6; }
+  .w-span-5 { grid-column: span 5; }
+  .w-span-4 { grid-column: span 4; }
+  @media (max-width: 900px) {
+    .w-span-8, .w-span-7, .w-span-6, .w-span-5, .w-span-4 { grid-column: span 12; }
+  }
+
+  .widget-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 16px; }
+  .widget-title { display: flex; align-items: center; gap: 9px; }
+  .w-icon {
+    width: 30px; height: 30px; border-radius: 10px; flex: none;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .widget-title h2 { font-size: 14.5px; font-weight: 700; margin: 0; letter-spacing: -0.01em; }
+  .widget-count { font-size: 12px; font-weight: 600; color: var(--ink-faint); }
+
+  /* ---------- Confidence ring widget ---------- */
+  .ring-widget {
+    background: linear-gradient(150deg, #FFE9EE 0%, #F4EEFF 55%, #E7F6F1 100%);
+    display: flex; flex-direction: column; align-items: center; text-align: center;
+    justify-content: center;
+    min-height: 260px;
+  }
+  .ring-wrap { position: relative; width: 168px; height: 168px; margin-bottom: 14px; }
+  .ring-wrap svg { transform: rotate(-90deg); }
+  .ring-center { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+  .ring-num { font-size: 32px; font-weight: 800; letter-spacing: -0.02em; line-height: 1; }
+  .ring-sub { font-size: 11px; color: var(--ink-soft); font-weight: 600; margin-top: 4px; }
+  .ring-legend { display: flex; gap: 16px; margin-top: 4px; }
+  .ring-legend span { font-size: 12px; font-weight: 600; display: inline-flex; align-items: center; gap: 6px; color: var(--ink-soft); }
+  .ring-legend .dot { width: 8px; height: 8px; border-radius: 50%; }
+
+  /* ---------- Pulse chips ---------- */
+  .pulse-scroll { display: flex; gap: 12px; overflow-x: auto; padding-bottom: 4px; margin: 0 -2px; }
+  .pulse-chip {
+    flex: none; min-width: 168px;
+    background: var(--surface-alt); border-radius: var(--r-sm); padding: 14px 16px;
+    transition: transform 0.16s var(--ease);
+  }
+  .pulse-chip:hover { transform: translateY(-2px); }
+  .pulse-chip-top { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 8px; }
+  .pulse-chip .idx { font-size: 12.5px; font-weight: 700; }
+  .delta-pill {
+    font-size: 11px; font-weight: 700; padding: 3px 8px; border-radius: 999px; white-space: nowrap;
+  }
+  .delta-pill.up { background: var(--mint-soft); color: var(--mint-deep); }
+  .delta-pill.down { background: var(--pink-soft); color: var(--pink-deep); }
+  .delta-pill.flat { background: var(--surface); color: var(--ink-faint); border: 1px solid var(--line); }
+  .pulse-chip svg.spark { display: block; margin: 4px 0 8px; }
+  .pulse-chip .note { font-size: 12px; line-height: 1.4; color: var(--ink-soft); font-weight: 500; }
+
+  /* ---------- Filter chips ---------- */
+  .filter-row { display: flex; gap: 8px; margin-bottom: 14px; }
+  .chip {
+    font-size: 12px; font-weight: 700; background: var(--surface-alt); color: var(--ink-soft);
+    border: none; padding: 7px 14px; border-radius: 999px; cursor: pointer;
+    transition: all 0.14s var(--ease); display: inline-flex; align-items: center; gap: 6px;
+  }
+  .chip .dot { width: 6px; height: 6px; border-radius: 50%; }
+  .chip.active { background: var(--ink); color: #fff; }
+  .chip:hover:not(.active) { background: #E7E4DC; }
+
+  /* ---------- List items (themes / watchlist) ---------- */
+  .item {
+    display: flex; gap: 12px; padding: 13px 10px; border-radius: var(--r-sm);
+    transition: background 0.16s var(--ease), transform 0.16s var(--ease);
+    opacity: 0; transform: translateY(8px); animation: rise 0.45s var(--ease) forwards;
+  }
+  .item:hover { background: var(--surface-alt); transform: translateX(2px); }
+  .item + .item { margin-top: 2px; }
+  .item-dot { flex: none; width: 10px; height: 10px; border-radius: 50%; margin-top: 5px; }
+  .item-dot.confirmed { background: var(--mint); }
+  .item-dot.developing { background: var(--peach); }
+  .item-body { flex: 1; }
+  .item-title { font-size: 15px; font-weight: 700; margin: 0 0 4px; letter-spacing: -0.005em; }
+  .item-summary { font-size: 13.5px; line-height: 1.5; color: var(--ink-soft); margin: 0; font-weight: 500; }
+  .badge {
+    display: inline-block; font-size: 10px; font-weight: 700; letter-spacing: 0.02em;
+    padding: 2px 8px; border-radius: 999px; margin-left: 8px; position: relative; top: -1px;
+  }
+  .badge.confirmed { background: var(--mint-soft); color: var(--mint-deep); }
+  .badge.developing { background: var(--peach-soft); color: #4B2E6B; }
+  .item.filtered-out { display: none; }
+
+  /* ---------- Sector tag cloud ---------- */
+  .sector-cloud { display: flex; flex-wrap: wrap; gap: 10px; }
+  .sector-tag {
+    border-radius: var(--r-sm); padding: 14px 16px; flex: 1 1 160px;
+    transition: transform 0.16s var(--ease);
+    opacity: 0; transform: translateY(8px); animation: rise 0.45s var(--ease) forwards;
+  }
+  .sector-tag:hover { transform: translateY(-3px); }
+  .sector-icon {
+    width: 34px; height: 34px; border-radius: 10px; display: flex; align-items: center; justify-content: center;
+    background: rgba(255,255,255,0.55); margin-bottom: 10px;
+  }
+  .sector-tag .name { font-size: 13.5px; font-weight: 700; margin-bottom: 4px; }
+  .sector-tag .note { font-size: 12.5px; line-height: 1.4; font-weight: 500; opacity: 0.85; }
+
+  /* ---------- Sector leaderboard ---------- */
+  .leader-feature {
+    display: flex; align-items: center; gap: 16px;
+    background: var(--surface-alt); border-radius: var(--r-sm); padding: 16px; margin-bottom: 14px;
+  }
+  .leader-ring-wrap { position: relative; flex: none; width: 84px; height: 84px; }
+  .leader-ring-wrap svg { transform: rotate(-90deg); }
+  .leader-ring-center { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 800; }
+  .leader-feature-body { flex: 1; }
+  .leader-feature-label { font-size: 10.5px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-faint); margin-bottom: 2px; }
+  .leader-feature-name { font-size: 16.5px; font-weight: 800; margin-bottom: 2px; }
+  .leader-feature-note { font-size: 12.5px; color: var(--ink-soft); font-weight: 500; }
+  .leader-row {
+    display: flex; align-items: center; gap: 12px; padding: 9px 4px;
+    opacity: 0; transform: translateY(6px); animation: rise 0.4s var(--ease) forwards;
+  }
+  .leader-ring-mini { position: relative; flex: none; width: 36px; height: 36px; }
+  .leader-ring-mini svg { transform: rotate(-90deg); }
+  .leader-ring-mini-num {
+    position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+    font-size: 9px; font-weight: 800;
+  }
+  .leader-row-name { flex: 1; font-size: 13px; font-weight: 600; }
+  .leader-caption { font-size: 11px; color: var(--ink-faint); font-weight: 500; margin-top: 10px; line-height: 1.5; }
+
+  /* ---------- Sources ---------- */
+  .sources { display: flex; flex-direction: column; gap: 2px; }
+  .sources a {
+    color: var(--ink-soft); font-size: 13px; font-weight: 600; text-decoration: none;
+    padding: 10px 10px; border-radius: var(--r-sm); transition: all 0.14s var(--ease);
+    display: flex; align-items: center; gap: 8px;
+  }
+  .sources a .arrow { color: var(--sky); font-size: 12px; }
+  .sources a:hover { color: var(--ink); background: var(--sky-soft); }
+
+  /* ---------- History widget ---------- */
+  .history-list { display: flex; flex-direction: column; gap: 4px; max-height: 220px; overflow-y: auto; }
+  .past-item {
+    display: block; width: 100%; text-align: left; background: var(--surface-alt); border: none;
+    color: var(--ink); font-size: 12.5px; font-weight: 600;
+    padding: 10px 12px; border-radius: var(--r-sm); cursor: pointer;
+    transition: all 0.14s var(--ease);
+  }
+  .past-item:hover { background: var(--lavender-soft); }
+  .past-empty { color: var(--ink-faint); font-size: 12.5px; font-weight: 600; }
+
+  /* ---------- Empty / error / note ---------- */
+  .empty { display: flex; flex-direction: column; align-items: flex-start; gap: 14px; padding: 10px 4px 6px; }
+  .empty p { font-size: 16px; color: var(--ink-soft); max-width: 480px; line-height: 1.55; margin: 0; font-weight: 500; }
+  .error-box {
+    background: var(--pink-soft); color: var(--pink-deep); border-radius: var(--r-sm);
+    padding: 14px 16px; font-size: 13.5px; font-weight: 600; margin-bottom: 14px;
+  }
+  .note-box { background: var(--sky-soft); color: #5A5D68; }
+
+  .disclaimer {
+    margin-top: 26px; font-size: 12px; line-height: 1.65; color: var(--ink-faint);
+    max-width: 760px; font-weight: 500;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hero">
+    <div class="hero-row">
+      <div>
+        <p class="greeting"><span class="live-dot"></span>Market Dispatch · Personal Edition</p>
+        <h1 class="title">The Daily Signal</h1>
+        <p class="dateline" id="dateline">Not yet generated today</p>
+      </div>
+      <button class="gen-btn" id="genBtn">Show today's briefing</button>
+    </div>
+  </div>
+
+  <div class="tab-bar" id="tabBar"></div>
+
+  <div id="mainPanel">
+    <div class="widget w-span-12">
+      <div class="empty">
+        <p>Click <strong>Show today's briefing</strong> to load Markets, Crypto and News all at once — then switch tabs freely without pressing it again. To get a new one each day, ask Claude in chat: "update my daily signal for today." Nothing here is a recommendation — it's a starting point for your own thinking.</p>
+      </div>
+    </div>
+  </div>
+
+  <p class="disclaimer">This is a research digest generated from current news, not investment advice. It does not recommend buying or selling any security. Market news is noisy — a single day's headlines rarely justify a large change in belief. Always do your own research and consider talking to a licensed financial advisor before making investment decisions.</p>
+
+</div>
+
+<script>
+const genBtn = document.getElementById('genBtn');
+const mainPanel = document.getElementById('mainPanel');
+const dateline = document.getElementById('dateline');
+
+window.addEventListener('error', function(e) { showFatalError('Script error: ' + e.message); });
+window.addEventListener('unhandledrejection', function(e) {
+  showFatalError('Unhandled error: ' + (e.reason && e.reason.message ? e.reason.message : e.reason));
+});
+function showFatalError(msg) {
+  const box = document.createElement('div');
+  box.className = 'error-box';
+  box.textContent = msg;
+  mainPanel.prepend(box);
+}
+
+function el(tag, opts) {
+  const node = document.createElement(tag);
+  opts = opts || {};
+  if (opts.className) node.className = opts.className;
+  if (opts.text !== undefined) node.textContent = opts.text;
+  if (opts.href !== undefined) { node.href = opts.href; node.target = '_blank'; node.rel = 'noopener'; }
+  return node;
+}
+function svgIcon(pathData, viewBox) {
+  const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('viewBox', viewBox || '0 0 24 24');
+  svg.setAttribute('width', '16'); svg.setAttribute('height', '16');
+  svg.setAttribute('fill', 'none');
+  const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+  path.setAttribute('d', pathData);
+  path.setAttribute('stroke', 'currentColor');
+  path.setAttribute('stroke-width', '2');
+  path.setAttribute('stroke-linecap', 'round');
+  path.setAttribute('stroke-linejoin', 'round');
+  svg.appendChild(path);
+  return svg;
+}
+const ICONS = {
+  pulse: 'M2 12h4l2.5-7 4 14L15 9l2 3h5',
+  themes: 'M4 4h16v4H4zM4 10h10v10H4zM16 10h4v10h-4z',
+  sectors: 'M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z',
+  watch: 'M11 4a7 7 0 100 14 7 7 0 000-14zM21 21l-4.3-4.3',
+  sources: 'M10 13a5 5 0 007.1 0l3-3a5 5 0 00-7.1-7.1l-1.5 1.5M14 11a5 5 0 00-7.1 0l-3 3a5 5 0 007.1 7.1l1.5-1.5',
+  history: 'M12 8v5l3 3M3 12a9 9 0 109-9 9 9 0 00-9 9z',
+  trophy: 'M8 21h8M12 17v4M6 4h12v3a6 6 0 01-12 0V4zM6 5H3v2a3 3 0 003 3M18 5h3v2a3 3 0 01-3 3',
+  lightbulb: 'M9 18h6M10 21h4M12 3a6 6 0 00-3.75 10.68c.47.38.75.96.75 1.57V16h6v-.75c0-.6.28-1.19.75-1.57A6 6 0 0012 3z',
+  chip: 'M6 6h12v12H6zM9 3v3M15 3v3M9 18v3M15 18v3M3 9h3M3 15h3M18 9h3M18 15h3',
+  drill: 'M3 21l4-4M5 15l3-3 4 4-3 3-4-4zM10 12l7-7M16 5l3 3M9 9l2 2',
+  bank: 'M3 21h18M5 21V10M9 21V10M15 21V10M19 21V10M3 10l9-6 9 6M4 10h16',
+  health: 'M4 12h3l2-4 4 8 2-4h5',
+  cart: 'M3 4h2l2.4 12.4a2 2 0 002 1.6h7.2a2 2 0 002-1.96L19 8H6M9 21a1 1 0 100-2 1 1 0 000 2zM17 21a1 1 0 100-2 1 1 0 000 2z',
+  flask: 'M9 3h6M10 3v5l-5 9a2 2 0 001.8 3h10.4a2 2 0 001.8-3l-5-9V3',
+  building: 'M4 21V7l8-4 8 4v14M9 21v-6h6v6M9 11h.01M15 11h.01M9 15h.01M15 15h.01',
+  bolt: 'M13 2L4 14h6l-1 8 9-12h-6l1-8z',
+  car: 'M3 13l2-6a2 2 0 012-1h10a2 2 0 012 1l2 6M5 13h14v5H5zM7 18v2M17 18v2M5 15h.01M19 15h.01',
+  signal: 'M4 20h2v-3H4zM9 20h2v-7H9zM14 20h2v-11h-2zM19 20h2v-15h-2z',
+  gem: 'M6 3h12l3 6-9 12L3 9zM3 9h18M9 3l3 6 3-6',
+  coin: 'M12 3a9 9 0 100 18 9 9 0 000-18zM12 7v10M9.3 9.6c0-1.1 1-1.7 2.7-1.7s2.7.7 2.7 1.7-1.1 1.4-2.7 1.9-2.7 1.1-2.7 2 1.1 1.5 2.7 1.5 2.7-.6 2.7-1.5',
+  newspaper: 'M4 4h13a2 2 0 012 2v13a1 1 0 01-1.4.9L14 18H4a2 2 0 01-2-2V6a2 2 0 012-2z M7 8h7M7 11h7M7 14h4M17 8v9'
+};
+function sectorIconKey(name) {
+  const n = (name || '').toLowerCase();
+  if (n.includes('energy') || n.includes('oil')) return 'lightbulb';
+  if (n.includes('semiconductor') || n.includes('chip')) return 'chip';
+  if (n.includes('industrial')) return 'drill';
+  if (n.includes('financ') || n.includes('bank')) return 'bank';
+  if (n.includes('health') || n.includes('pharma') || n.includes('biotech')) return 'health';
+  if (n.includes('consumer') || n.includes('retail')) return 'cart';
+  if (n.includes('precious') || n.includes('gold') || n.includes('metal') && n.includes('precious')) return 'gem';
+  if (n.includes('material') || n.includes('mining') || n.includes('metal')) return 'flask';
+  if (n.includes('real estate') || n.includes('reit')) return 'building';
+  if (n.includes('utilit') || n.includes('rate-sensitive')) return 'bolt';
+  if (n.includes('auto')) return 'car';
+  if (n.includes('telecom') || n.includes('communication')) return 'signal';
+  if (n.includes('tech')) return 'chip';
+  return 'sectors';
+}
+function cryptoIconKey(name) {
+  const n = (name || '').toLowerCase();
+  if (n.includes('defi')) return 'chip';
+  if (n.includes('stablecoin')) return 'bank';
+  if (n.includes('meme') || n.includes('alt') || n.includes('small-cap')) return 'gem';
+  if (n.includes('layer')) return 'signal';
+  return 'coin';
+}
+function widgetIcon(key, bg, color) {
+  const wrap = el('div', { className: 'w-icon' });
+  wrap.style.background = bg;
+  wrap.style.color = color;
+  wrap.appendChild(svgIcon(ICONS[key]));
+  return wrap;
+}
+
+function todayKey() {
+  return new Date().toISOString().slice(0,10);
+}
+function fmtDateHuman(key) {
+  const d = new Date(key + 'T12:00:00');
+  return d.toLocaleDateString(undefined, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+}
+
+/* --- direction inference --- */
+const UP_WORDS = ['rose','gained','record','climbed','jumped','higher','surged','extended','rallied','advanced','popped'];
+const DOWN_WORDS = ['fell','fall','fallen','dropped','slipped','declined','tumbled','lower','sank','sunk','down','pulled back','eased','slid','retreated'];
+function inferDirection(note) {
+  const t = (note || '').toLowerCase();
+  const up = UP_WORDS.some(w => t.includes(w));
+  const down = DOWN_WORDS.some(w => t.includes(w));
+  if (up && !down) return 'up';
+  if (down && !up) return 'down';
+  return 'flat';
+}
+function sparkline(direction) {
+  const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('class', 'spark');
+  svg.setAttribute('width', '100%'); svg.setAttribute('height', '26');
+  svg.setAttribute('viewBox', '0 0 120 26'); svg.setAttribute('preserveAspectRatio', 'none');
+  const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+  let d, color;
+  if (direction === 'up') { d = 'M2,21 C20,19 35,17 50,13 C65,9 80,8 100,4 C108,2.5 112,2 118,1'; color = 'var(--mint)'; }
+  else if (direction === 'down') { d = 'M2,4 C20,6 35,9 50,12 C65,15 80,18 100,21 C108,22.5 112,23 118,24'; color = 'var(--pink-deep)'; }
+  else { d = 'M2,13 C25,11 40,15 55,13 C70,11 85,15 100,13 C108,12 112,14 118,13'; color = 'var(--ink-faint)'; }
+  path.setAttribute('d', d); path.setAttribute('fill', 'none');
+  path.setAttribute('stroke', color); path.setAttribute('stroke-width', '2.5'); path.setAttribute('stroke-linecap', 'round');
+  svg.appendChild(path);
+  return svg;
+}
+function deltaLabel(direction) {
+  if (direction === 'up') return { text: '▲ Up', cls: 'up' };
+  if (direction === 'down') return { text: '▼ Down', cls: 'down' };
+  return { text: '● Flat', cls: 'flat' };
+}
+
+function widgetShell(spanClass, iconKey, iconBg, iconColor, title, count) {
+  const widget = el('div', { className: 'widget ' + spanClass });
+  const head = el('div', { className: 'widget-head' });
+  const titleWrap = el('div', { className: 'widget-title' });
+  titleWrap.appendChild(widgetIcon(iconKey, iconBg, iconColor));
+  titleWrap.appendChild(el('h2', { text: title }));
+  head.appendChild(titleWrap);
+  if (count !== undefined) head.appendChild(el('span', { className: 'widget-count', text: String(count) }));
+  widget.appendChild(head);
+  return widget;
+}
+
+function buildFilterRow(container, onFilter) {
+  const row = el('div', { className: 'filter-row' });
+  const options = [
+    { key: 'all', label: 'All' },
+    { key: 'confirmed', label: 'Confirmed', dot: 'var(--mint)' },
+    { key: 'developing', label: 'Developing', dot: 'var(--peach)' }
+  ];
+  options.forEach((opt, i) => {
+    const chip = el('button', { className: 'chip' + (i === 0 ? ' active' : '') });
+    if (opt.dot) { const d = el('span', { className: 'dot' }); d.style.background = opt.dot; chip.appendChild(d); }
+    chip.appendChild(document.createTextNode(opt.label));
+    chip.onclick = () => {
+      row.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      onFilter(opt.key);
+    };
+    row.appendChild(chip);
+  });
+  container.appendChild(row);
+}
+
+function makeItem(titleText, bodyText, confidence, delayIndex) {
+  const conf = confidence === 'confirmed' ? 'confirmed' : 'developing';
+  const item = el('div', { className: 'item' });
+  item.dataset.confidence = conf;
+  item.style.animationDelay = (delayIndex * 0.05) + 's';
+  item.appendChild(el('div', { className: 'item-dot ' + conf }));
+  const body = el('div', { className: 'item-body' });
+  const titleP = el('p', { className: 'item-title', text: titleText });
+  titleP.appendChild(el('span', { className: 'badge ' + conf, text: conf }));
+  body.appendChild(titleP);
+  body.appendChild(el('p', { className: 'item-summary', text: bodyText }));
+  item.appendChild(body);
+  return item;
+}
+
+function buildRing(size, stroke, pct, fgVar, trackRgba) {
+  const r = (size - stroke) / 2, c = 2 * Math.PI * r;
+  const filledLen = (pct / 100) * c;
+  const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('width', size); svg.setAttribute('height', size);
+  svg.setAttribute('viewBox', '0 0 ' + size + ' ' + size);
+
+  const bgCircle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+  bgCircle.setAttribute('cx', size/2); bgCircle.setAttribute('cy', size/2); bgCircle.setAttribute('r', r);
+  bgCircle.setAttribute('fill', 'none'); bgCircle.setAttribute('stroke', trackRgba);
+  bgCircle.setAttribute('stroke-width', stroke);
+  svg.appendChild(bgCircle);
+
+  const fgCircle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+  fgCircle.setAttribute('cx', size/2); fgCircle.setAttribute('cy', size/2); fgCircle.setAttribute('r', r);
+  fgCircle.setAttribute('fill', 'none'); fgCircle.setAttribute('stroke', fgVar);
+  fgCircle.setAttribute('stroke-width', stroke); fgCircle.setAttribute('stroke-linecap', 'round');
+  fgCircle.setAttribute('stroke-dasharray', c);
+  fgCircle.setAttribute('stroke-dashoffset', c);
+  fgCircle.style.transition = 'stroke-dashoffset 1.1s cubic-bezier(0.22,1,0.36,1)';
+  svg.appendChild(fgCircle);
+
+  requestAnimationFrame(() => requestAnimationFrame(() => {
+    fgCircle.setAttribute('stroke-dashoffset', String(c - filledLen));
+  }));
+
+  return svg;
+}
+
+const SECTOR_PALETTE = [
+  { bg: 'var(--pink-soft)', fg: 'var(--pink-deep)' },
+  { bg: 'var(--mint-soft)', fg: 'var(--mint-deep)' },
+  { bg: 'var(--lavender-soft)', fg: '#4B2E6B' },
+  { bg: 'var(--sky-soft)', fg: '#5A5D68' }
+];
+
+function buildConfidenceRing(confirmedCount, developingCount) {
+  const total = confirmedCount + developingCount;
+  const pct = total ? Math.round((confirmedCount / total) * 100) : 0;
+  const widget = el('div', { className: 'widget w-span-4 ring-widget' });
+  const wrap = el('div', { className: 'ring-wrap' });
+  wrap.appendChild(buildRing(168, 16, pct, 'var(--mint)', 'rgba(75,46,107,0.20)'));
+
+  const center = el('div', { className: 'ring-center' });
+  center.appendChild(el('div', { className: 'ring-num', text: pct + '%' }));
+  center.appendChild(el('div', { className: 'ring-sub', text: 'confirmed today' }));
+  wrap.appendChild(center);
+  widget.appendChild(wrap);
+
+  const legend = el('div', { className: 'ring-legend' });
+  const l1 = el('span'); const d1 = el('span', { className: 'dot' }); d1.style.background = 'var(--mint)';
+  l1.appendChild(d1); l1.appendChild(document.createTextNode(confirmedCount + ' confirmed'));
+  const l2 = el('span'); const d2 = el('span', { className: 'dot' }); d2.style.background = 'var(--peach)';
+  l2.appendChild(d2); l2.appendChild(document.createTextNode(developingCount + ' developing'));
+  legend.appendChild(l1); legend.appendChild(l2);
+  widget.appendChild(legend);
+
+  return widget;
+}
+
+function buildSectorLeaderboard(sectors) {
+  const scored = sectors
+    .map((s, i) => ({ ...s, _momentum: typeof s.momentum === 'number' ? s.momentum : 50, _i: i }))
+    .sort((a, b) => b._momentum - a._momentum);
+  const top = scored[0];
+  const rest = scored.slice(1);
+
+  const widget = widgetShell('w-span-5', 'trophy', 'var(--peach-soft)', '#4B2E6B', 'Best Performing Sector');
+
+  const feature = el('div', { className: 'leader-feature' });
+  const ringWrap = el('div', { className: 'leader-ring-wrap' });
+  ringWrap.appendChild(buildRing(84, 9, top._momentum, 'var(--mint)', 'rgba(75,46,107,0.18)'));
+  ringWrap.appendChild(el('div', { className: 'leader-ring-center', text: top._momentum + '%' }));
+  feature.appendChild(ringWrap);
+  const body = el('div', { className: 'leader-feature-body' });
+  body.appendChild(el('div', { className: 'leader-feature-label', text: "Today's leader" }));
+  body.appendChild(el('div', { className: 'leader-feature-name', text: top.name || '' }));
+  body.appendChild(el('div', { className: 'leader-feature-note', text: top.note || '' }));
+  feature.appendChild(body);
+  widget.appendChild(feature);
+
+  rest.forEach((s, i) => {
+    const row = el('div', { className: 'leader-row' });
+    row.style.animationDelay = (i * 0.06) + 's';
+    const miniWrap = el('div', { className: 'leader-ring-mini' });
+    miniWrap.appendChild(buildRing(36, 4, s._momentum, 'var(--sky)', 'rgba(90,93,104,0.18)'));
+    miniWrap.appendChild(el('div', { className: 'leader-ring-mini-num', text: s._momentum + '%' }));
+    row.appendChild(miniWrap);
+    row.appendChild(el('div', { className: 'leader-row-name', text: s.name || '' }));
+    widget.appendChild(row);
+  });
+
+  widget.appendChild(el('div', { className: 'leader-caption', text: "Momentum is a directional read on today's coverage, not a precise index-level return." }));
+  return widget;
+}
+
+function buildCryptoLeaderboard(movers) {
+  const sorted = movers.slice().sort((a, b) => b.pct - a.pct);
+  const top = sorted[0];
+  const rest = sorted.slice(1);
+  const gaugeFill = (pct) => Math.max(5, Math.min(95, 50 + pct * 3));
+  const fmtPct = (pct) => (pct >= 0 ? '+' : '') + pct.toFixed(2) + '%';
+
+  const widget = widgetShell('w-span-5', 'trophy', 'var(--peach-soft)', '#4B2E6B', "Today's Biggest Movers");
+
+  const feature = el('div', { className: 'leader-feature' });
+  const ringWrap = el('div', { className: 'leader-ring-wrap' });
+  ringWrap.appendChild(buildRing(84, 9, gaugeFill(top.pct), top.pct >= 0 ? 'var(--mint)' : 'var(--pink)', 'rgba(75,46,107,0.18)'));
+  ringWrap.appendChild(el('div', { className: 'leader-ring-center', text: fmtPct(top.pct) }));
+  feature.appendChild(ringWrap);
+  const body = el('div', { className: 'leader-feature-body' });
+  body.appendChild(el('div', { className: 'leader-feature-label', text: 'Top 24h gainer' }));
+  body.appendChild(el('div', { className: 'leader-feature-name', text: top.name || '' }));
+  body.appendChild(el('div', { className: 'leader-feature-note', text: top.note || '' }));
+  feature.appendChild(body);
+  widget.appendChild(feature);
+
+  rest.forEach((s, i) => {
+    const row = el('div', { className: 'leader-row' });
+    row.style.animationDelay = (i * 0.06) + 's';
+    const miniWrap = el('div', { className: 'leader-ring-mini' });
+    miniWrap.appendChild(buildRing(36, 4, gaugeFill(s.pct), s.pct >= 0 ? 'var(--mint)' : 'var(--pink)', 'rgba(90,93,104,0.18)'));
+    miniWrap.appendChild(el('div', { className: 'leader-ring-mini-num', text: fmtPct(s.pct) }));
+    row.appendChild(miniWrap);
+    row.appendChild(el('div', { className: 'leader-row-name', text: s.name || '' }));
+    widget.appendChild(row);
+  });
+
+  widget.appendChild(el('div', { className: 'leader-caption', text: '24-hour price change, gauge scaled for visibility — not to scale with the percentage itself.' }));
+  return widget;
+}
+
+function renderBriefing(data, dateKey) {
+  dateline.textContent = 'Dispatch for ' + fmtDateHuman(dateKey) + ' · generated ' + (data.generated_at || '');
+  mainPanel.innerHTML = '';
+
+  const hasAny = [data.market_pulse, data.themes, data.sectors, data.watch_list, data.sources].some(a => Array.isArray(a) && a.length);
+  if (!hasAny) {
+    const w = el('div', { className: 'widget w-span-12' });
+    w.appendChild(el('div', { className: 'error-box', text: 'The briefing came back empty. Try generating again.' }));
+    mainPanel.appendChild(w);
+    return;
+  }
+
+  // Themes
+  if (Array.isArray(data.themes) && data.themes.length) {
+    const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', '#4B2E6B', "Today's Themes", data.themes.length);
+    const itemsWrap = el('div');
+    buildFilterRow(widget, (key) => {
+      itemsWrap.querySelectorAll('.item').forEach(it => {
+        it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key);
+      });
+    });
+    data.themes.forEach((t, i) => itemsWrap.appendChild(makeItem(t.title || '', t.summary || '', t.confidence, i)));
+    widget.appendChild(itemsWrap);
+    mainPanel.appendChild(widget);
+  }
+
+  // Watch list
+  if (Array.isArray(data.watch_list) && data.watch_list.length) {
+    const widget = widgetShell('w-span-6', 'watch', 'var(--peach-soft)', '#4B2E6B', 'Worth Researching', data.watch_list.length);
+    const itemsWrap = el('div');
+    buildFilterRow(widget, (key) => {
+      itemsWrap.querySelectorAll('.item').forEach(it => {
+        it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key);
+      });
+    });
+    data.watch_list.forEach((w, i) => itemsWrap.appendChild(makeItem(w.topic || '', w.why || '', w.confidence, i)));
+    widget.appendChild(itemsWrap);
+    mainPanel.appendChild(widget);
+  }
+
+  // Market pulse
+  if (Array.isArray(data.market_pulse) && data.market_pulse.length) {
+    const widget = widgetShell('w-span-8', 'pulse', 'var(--pink-soft)', 'var(--pink-deep)', 'Market Pulse');
+    const scroll = el('div', { className: 'pulse-scroll' });
+    data.market_pulse.forEach((p, i) => {
+      const dir = inferDirection(p.note);
+      const dl = deltaLabel(dir);
+      const chip = el('div', { className: 'pulse-chip' });
+      chip.style.animationDelay = (i * 0.06) + 's';
+      const top = el('div', { className: 'pulse-chip-top' });
+      top.appendChild(el('div', { className: 'idx', text: p.index || '' }));
+      top.appendChild(el('div', { className: 'delta-pill ' + dl.cls, text: dl.text }));
+      chip.appendChild(top);
+      chip.appendChild(sparkline(dir));
+      chip.appendChild(el('div', { className: 'note', text: p.note || '' }));
+      scroll.appendChild(chip);
+    });
+    widget.appendChild(scroll);
+    mainPanel.appendChild(widget);
+  }
+
+  // Confidence ring
+  const allConfItems = [].concat(data.themes || [], data.watch_list || []);
+  if (allConfItems.length) {
+    const confirmedCount = allConfItems.filter(x => x.confidence === 'confirmed').length;
+    const developingCount = allConfItems.length - confirmedCount;
+    mainPanel.appendChild(buildConfidenceRing(confirmedCount, developingCount));
+  }
+
+  // Sectors
+  if (Array.isArray(data.sectors) && data.sectors.length) {
+    const widget = widgetShell('w-span-7', 'sectors', 'var(--sky-soft)', '#5A5D68', 'Sectors in Motion');
+    const cloud = el('div', { className: 'sector-cloud' });
+    data.sectors.forEach((s, i) => {
+      const palette = SECTOR_PALETTE[i % SECTOR_PALETTE.length];
+      const tag = el('div', { className: 'sector-tag' });
+      tag.style.background = palette.bg; tag.style.color = palette.fg;
+      tag.style.animationDelay = (i * 0.06) + 's';
+      const iconBadge = el('div', { className: 'sector-icon' });
+      iconBadge.appendChild(svgIcon(ICONS[sectorIconKey(s.name)]));
+      tag.appendChild(iconBadge);
+      tag.appendChild(el('div', { className: 'name', text: s.name || '' }));
+      tag.appendChild(el('div', { className: 'note', text: s.note || '' }));
+      cloud.appendChild(tag);
+    });
+    widget.appendChild(cloud);
+    mainPanel.appendChild(widget);
+  }
+
+  // Best performing sector (momentum leaderboard)
+  if (Array.isArray(data.sectors) && data.sectors.length) {
+    mainPanel.appendChild(buildSectorLeaderboard(data.sectors));
+  }
+
+  // Sources
+  if (Array.isArray(data.sources) && data.sources.length) {
+    const widget = widgetShell('w-span-12', 'sources', 'var(--sky-soft)', 'var(--sky)', 'Sources');
+    const list = el('div', { className: 'sources' });
+    data.sources.forEach(s => {
+      const a = el('a', { href: s.url || '#' });
+      a.appendChild(el('span', { className: 'arrow', text: '↗' }));
+      a.appendChild(document.createTextNode(s.title || s.url || ''));
+      list.appendChild(a);
+    });
+    widget.appendChild(list);
+    mainPanel.appendChild(widget);
+  }
+
+  // History
+  mainPanel.appendChild(buildHistoryWidget());
+  loadPastList('markets');
+}
+
+function buildHistoryWidget() {
+  const historyWidget = widgetShell('w-span-12', 'history', 'var(--surface-alt)', 'var(--ink-soft)', 'Past Dispatches');
+  const historyList = el('div', { className: 'history-list', id: 'historyList' });
+  historyList.appendChild(el('p', { className: 'past-empty', text: 'Loading…' }));
+  historyWidget.appendChild(historyList);
+  return historyWidget;
+}
+
+function renderCrypto(data, dateKey) {
+  dateline.textContent = 'Crypto dispatch for ' + fmtDateHuman(dateKey) + ' · generated ' + (data.generated_at || '');
+  mainPanel.innerHTML = '';
+
+  const hasAny = [data.market_pulse, data.themes, data.categories, data.watch_list, data.movers, data.sources].some(a => Array.isArray(a) && a.length);
+  if (!hasAny) {
+    const w = el('div', { className: 'widget w-span-12' });
+    w.appendChild(el('div', { className: 'error-box', text: 'The crypto briefing came back empty. Try generating again.' }));
+    mainPanel.appendChild(w);
+    return;
+  }
+
+  // Themes
+  if (Array.isArray(data.themes) && data.themes.length) {
+    const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', '#4B2E6B', "Today's Crypto Themes", data.themes.length);
+    const itemsWrap = el('div');
+    buildFilterRow(widget, (key) => {
+      itemsWrap.querySelectorAll('.item').forEach(it => it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key));
+    });
+    data.themes.forEach((t, i) => itemsWrap.appendChild(makeItem(t.title || '', t.summary || '', t.confidence, i)));
+    widget.appendChild(itemsWrap);
+    mainPanel.appendChild(widget);
+  }
+
+  // Watch list
+  if (Array.isArray(data.watch_list) && data.watch_list.length) {
+    const widget = widgetShell('w-span-6', 'watch', 'var(--peach-soft)', '#4B2E6B', 'Worth Researching', data.watch_list.length);
+    const itemsWrap = el('div');
+    buildFilterRow(widget, (key) => {
+      itemsWrap.querySelectorAll('.item').forEach(it => it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key));
+    });
+    data.watch_list.forEach((w, i) => itemsWrap.appendChild(makeItem(w.topic || '', w.why || '', w.confidence, i)));
+    widget.appendChild(itemsWrap);
+    mainPanel.appendChild(widget);
+  }
+
+  // Pulse (BTC / ETH / market cap / dominance)
+  if (Array.isArray(data.market_pulse) && data.market_pulse.length) {
+    const widget = widgetShell('w-span-8', 'pulse', 'var(--pink-soft)', 'var(--pink-deep)', 'Crypto Pulse');
+    const scroll = el('div', { className: 'pulse-scroll' });
+    data.market_pulse.forEach((p, i) => {
+      const dir = inferDirection(p.note);
+      const dl = deltaLabel(dir);
+      const chip = el('div', { className: 'pulse-chip' });
+      chip.style.animationDelay = (i * 0.06) + 's';
+      const top = el('div', { className: 'pulse-chip-top' });
+      top.appendChild(el('div', { className: 'idx', text: p.index || '' }));
+      top.appendChild(el('div', { className: 'delta-pill ' + dl.cls, text: dl.text }));
+      chip.appendChild(top);
+      chip.appendChild(sparkline(dir));
+      chip.appendChild(el('div', { className: 'note', text: p.note || '' }));
+      scroll.appendChild(chip);
+    });
+    widget.appendChild(scroll);
+    mainPanel.appendChild(widget);
+  }
+
+  // Confidence ring
+  const allConfItems = [].concat(data.themes || [], data.watch_list || []);
+  if (allConfItems.length) {
+    const confirmedCount = allConfItems.filter(x => x.confidence === 'confirmed').length;
+    const developingCount = allConfItems.length - confirmedCount;
+    mainPanel.appendChild(buildConfidenceRing(confirmedCount, developingCount));
+  }
+
+  // Categories
+  if (Array.isArray(data.categories) && data.categories.length) {
+    const widget = widgetShell('w-span-7', 'sectors', 'var(--sky-soft)', '#5A5D68', 'Crypto Categories in Motion');
+    const cloud = el('div', { className: 'sector-cloud' });
+    data.categories.forEach((s, i) => {
+      const palette = SECTOR_PALETTE[i % SECTOR_PALETTE.length];
+      const tag = el('div', { className: 'sector-tag' });
+      tag.style.background = palette.bg; tag.style.color = palette.fg;
+      tag.style.animationDelay = (i * 0.06) + 's';
+      const iconBadge = el('div', { className: 'sector-icon' });
+      iconBadge.appendChild(svgIcon(ICONS[cryptoIconKey(s.name)]));
+      tag.appendChild(iconBadge);
+      tag.appendChild(el('div', { className: 'name', text: s.name || '' }));
+      tag.appendChild(el('div', { className: 'note', text: s.note || '' }));
+      cloud.appendChild(tag);
+    });
+    widget.appendChild(cloud);
+    mainPanel.appendChild(widget);
+  }
+
+  // Biggest movers
+  if (Array.isArray(data.movers) && data.movers.length) {
+    mainPanel.appendChild(buildCryptoLeaderboard(data.movers));
+  }
+
+  // Sources
+  if (Array.isArray(data.sources) && data.sources.length) {
+    const widget = widgetShell('w-span-12', 'sources', 'var(--sky-soft)', 'var(--sky)', 'Sources');
+    const list = el('div', { className: 'sources' });
+    data.sources.forEach(s => {
+      const a = el('a', { href: s.url || '#' });
+      a.appendChild(el('span', { className: 'arrow', text: '↗' }));
+      a.appendChild(document.createTextNode(s.title || s.url || ''));
+      list.appendChild(a);
+    });
+    widget.appendChild(list);
+    mainPanel.appendChild(widget);
+  }
+
+  mainPanel.appendChild(buildHistoryWidget());
+  loadPastList('crypto');
+}
+
+function renderNews(data, dateKey) {
+  dateline.textContent = 'News dispatch for ' + fmtDateHuman(dateKey) + ' · generated ' + (data.generated_at || '');
+  mainPanel.innerHTML = '';
+
+  if (!Array.isArray(data.articles) || !data.articles.length) {
+    const w = el('div', { className: 'widget w-span-12' });
+    w.appendChild(el('div', { className: 'error-box', text: 'No news came back. Try generating again.' }));
+    mainPanel.appendChild(w);
+    return;
+  }
+
+  const widget = widgetShell('w-span-12', 'newspaper', 'var(--mint-soft)', 'var(--mint-deep)', 'Latest from Yahoo Finance', data.articles.length);
+  const list = el('div', { className: 'news-list' });
+  data.articles.forEach((a, i) => {
+    const hasVideo = !!(a.video && a.video.url);
+    const card = el('a', { className: 'news-card' + (hasVideo ? ' has-video' : ''), href: (hasVideo ? a.video.url : a.url) || '#' });
+    card.style.animationDelay = (i * 0.05) + 's';
+
+    if (hasVideo) {
+      const thumbWrap = el('div', { className: 'news-thumb-wrap' });
+      if (a.video.thumb) {
+        thumbWrap.appendChild(el('img', { className: 'news-thumb-img' }));
+        thumbWrap.lastChild.src = a.video.thumb;
+        thumbWrap.lastChild.alt = '';
+      }
+      thumbWrap.appendChild(el('span', { className: 'video-badge', text: '▶ Video' }));
+      const playOverlay = el('div', { className: 'news-play-btn' });
+      const playCircle = el('div', { className: 'news-play-circle' });
+      playCircle.appendChild(svgIcon('M8 5v14l11-7z'));
+      playOverlay.appendChild(playCircle);
+      thumbWrap.appendChild(playOverlay);
+      card.appendChild(thumbWrap);
+    }
+
+    const body = el('div', { className: hasVideo ? 'news-card-body' : '' });
+    const top = el('div', { className: 'news-card-top' });
+    top.appendChild(el('span', { className: 'news-source', text: a.source || 'Yahoo Finance' }));
+    if (a.time) top.appendChild(el('span', { className: 'news-time', text: a.time }));
+    body.appendChild(top);
+    body.appendChild(el('p', { className: 'news-title', text: a.title || '' }));
+    body.appendChild(el('p', { className: 'news-snippet', text: a.snippet || '' }));
+    card.appendChild(body);
+
+    list.appendChild(card);
+  });
+  widget.appendChild(list);
+  mainPanel.appendChild(widget);
+
+  // Throughout the day — a denser, hourly-ish ticker beneath the main headlines
+  if (Array.isArray(data.ticker) && data.ticker.length) {
+    const tickerWidget = widgetShell('w-span-12', 'pulse', 'var(--pink-soft)', 'var(--pink-deep)', 'Throughout the Day', data.ticker.length);
+    const tickerList = el('div', { className: 'ticker-list' });
+    data.ticker.forEach((t, i) => {
+      const row = el('a', { className: 'ticker-row', href: t.url || '#' });
+      row.style.animationDelay = (i * 0.04) + 's';
+      const timeCol = el('div', { className: 'ticker-time-col' });
+      timeCol.appendChild(el('div', { className: 'ticker-time', text: t.time || '' }));
+      timeCol.appendChild(el('div', { className: 'ticker-dot' }));
+      if (i < data.ticker.length - 1) timeCol.appendChild(el('div', { className: 'ticker-rail' }));
+      row.appendChild(timeCol);
+      row.appendChild(el('div', { className: 'ticker-headline', text: t.title || '' }));
+      tickerList.appendChild(row);
+    });
+    tickerWidget.appendChild(tickerList);
+    tickerWidget.appendChild(el('div', { className: 'ticker-caption', text: "This page itself doesn't refresh on a timer — every entry here was pulled just now. For genuinely hands-free hourly updates, the self-hosted version from earlier can run on an hourly cron instead of daily." }));
+    mainPanel.appendChild(tickerWidget);
+  }
+
+  mainPanel.appendChild(buildHistoryWidget());
+  loadPastList('news');
+}
+
+async function loadPastList(tab) {
+  const historyList = document.getElementById('historyList');
+  if (!historyList) return;
+  const prefix = 'briefing:' + tab + ':';
+  try {
+    const res = await window.storage.list(prefix, false);
+    const keys = (res && res.keys) ? res.keys.slice().sort().reverse() : [];
+    if (keys.length === 0) { historyList.innerHTML = ''; historyList.appendChild(el('p', { className: 'past-empty', text: 'None saved yet' })); return; }
+    historyList.innerHTML = '';
+    keys.forEach(k => {
+      const dateKey = k.replace(prefix, '');
+      const btn = el('button', { className: 'past-item', text: dateKey });
+      btn.onclick = () => loadBriefing(tab, dateKey);
+      historyList.appendChild(btn);
+    });
+  } catch (e) {
+    historyList.innerHTML = '';
+    historyList.appendChild(el('p', { className: 'past-empty', text: 'None saved yet' }));
+  }
+}
+
+async function loadBriefing(tab, dateKey) {
+  try {
+    const res = await window.storage.get('briefing:' + tab + ':' + dateKey, false);
+    if (res && res.value) TAB_CONFIG[tab].render(JSON.parse(res.value), dateKey);
+  } catch (e) {
+    const w = el('div', { className: 'widget w-span-12' });
+    w.appendChild(el('div', { className: 'error-box', text: 'Could not load that dispatch. It may have been cleared from storage.' }));
+    mainPanel.innerHTML = '';
+    mainPanel.appendChild(w);
+  }
+}
+
+// Today's briefing — researched by Claude via web search and baked in directly,
+// since live in-page API calls aren't reachable in this environment.
+const TODAYS_BRIEFING = {
+  generated_at: "Aug 6, 2026, market close",
+  market_pulse: [
+    { index: "Dow Jones", note: "Slid 0.85%, snapping its recent record-setting win streak." },
+    { index: "S&P 500", note: "Fell 0.18% as Treasury yields rose and earnings reactions were punishing for some AI names." },
+    { index: "Nasdaq Composite", note: "Down 0.06%, roughly flat after a volatile session for chip-adjacent stocks." },
+    { index: "WTI Crude Oil", note: "Rose about 1%, even as hopes for a Strait of Hormuz deal continued." }
+  ],
+  themes: [
+    {
+      title: "Storage-chip earnings punished hard",
+      summary: "Sandisk and Western Digital both tumbled sharply after earnings, weighing on the broader semiconductor group despite strong AI-driven demand narratives.",
+      confidence: "confirmed"
+    },
+    {
+      title: "July layoffs hit a two-year low",
+      summary: "Employers announced 33,429 job cuts in July, down 27% from June — but AI was cited as the top reason for a fifth straight month.",
+      confidence: "confirmed"
+    },
+    {
+      title: "Strait of Hormuz deal still in focus",
+      summary: "Iran's parliament is reportedly reviewing a bill affecting vessel transit as talks continue; markets stayed cautious on the unfinished deal.",
+      confidence: "developing"
+    },
+    {
+      title: "Earnings season delivers a mixed bag",
+      summary: "Motorola Solutions and Albemarle jumped on strong results while Honeywell Aerospace tumbled over 21% on a weak 2026 outlook.",
+      confidence: "confirmed"
+    },
+    {
+      title: "AI capex debate still weighing on tech",
+      summary: "Investors remain hyper-focused on whether heavy AI infrastructure spending is translating into profit, a theme carried through this week's AMD, SpaceX, Sandisk and Western Digital reactions.",
+      confidence: "developing"
+    }
+  ],
+  sectors: [
+    { name: "Energy", note: "Among the pockets holding up the market amid the broader pullback.", momentum: 66 },
+    { name: "Semiconductors", note: "Also cushioning losses, though the AI-spending debate continues.", momentum: 58 },
+    { name: "Industrials", note: "Split sharply — Parker-Hannifin up 7.6% on earnings, Honeywell Aerospace down over 21%.", momentum: 47 },
+    { name: "Rate-sensitive sectors", note: "Under pressure as Treasury yields climb ahead of Friday's jobs report.", momentum: 28 }
+  ],
+  watch_list: [
+    {
+      topic: "Friday's July jobs report",
+      why: "Economists expect payrolls up roughly 80,000 and unemployment holding at 4.2% — a notable miss or beat could quickly move rate-cut expectations.",
+      confidence: "developing"
+    },
+    {
+      topic: "Honeywell Aerospace's guidance cut",
+      why: "A 21%+ single-day drop on lowered 2026 sales guidance is a large move — worth understanding whether it's company-specific or a read on broader industrial demand.",
+      confidence: "confirmed"
+    },
+    {
+      topic: "AI's role in layoffs",
+      why: "AI has now been the top-cited layoff reason for five straight months, concentrated in tech — worth tracking whether that broadens to other sectors.",
+      confidence: "confirmed"
+    }
+  ],
+  sources: [
+    { title: "Yahoo Finance — Stock market today, Aug 6", url: "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html" },
+    { title: "TheStreet — Stock Market Today, Aug 6", url: "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-6-2026" },
+    { title: "CBS News — July job cuts hit 2-year low", url: "https://www.cbsnews.com/news/july-layoffs-drop-two-year-low/" },
+    { title: "CNN Business — July jobs report preview", url: "https://www.cnn.com/2026/08/06/economy/us-jobs-report-july-preview-teens" },
+    { title: "investingLive — Fewest job cuts in two years", url: "https://investinglive.com/news/us-based-employers-announce-fewest-job-cuts-in-two-years-in-july/" }
+  ]
+};
+
+// Crypto tab — researched by Claude via web search and baked in directly.
+const TODAYS_CRYPTO = {
+  generated_at: "Aug 6, 2026, midday",
+  market_pulse: [
+    { index: "Bitcoin (BTC)", note: "Trading near $64,500, up about 0.6% on the day and holding this week's highs." },
+    { index: "Ethereum (ETH)", note: "Around $1,905, up roughly 1.9% and outpacing Bitcoin's gain today." },
+    { index: "Total Crypto Market Cap", note: "About $2.29 trillion, up 0.9% over the last 24 hours." },
+    { index: "Bitcoin Dominance", note: "Holding steady near 56.5% of total crypto market cap." }
+  ],
+  themes: [
+    {
+      title: "Bitcoin firms near multi-day highs",
+      summary: "BTC opened at its highest level all week, helped by optimism over progress in Strait of Hormuz negotiations.",
+      confidence: "confirmed"
+    },
+    {
+      title: "Ethereum outpaces Bitcoin today",
+      summary: "ETH is up close to 2% versus Bitcoin's more modest gain, continuing a pattern of relative strength this week.",
+      confidence: "confirmed"
+    },
+    {
+      title: "A soft ADP jobs report eased rate-hike fears",
+      summary: "An underwhelming ADP private payrolls read is being read by crypto investors as reducing the odds of a rate increase, a tailwind for risk assets.",
+      confidence: "confirmed"
+    },
+    {
+      title: "DeFi activity reportedly slumped sharply",
+      summary: "Some trackers flagged a sharp one-day pullback in DeFi trading activity even as headline prices rose — a divergence worth treating cautiously pending more sources.",
+      confidence: "developing"
+    },
+    {
+      title: "Sentiment reads cautious despite the price gains",
+      summary: "Fear-and-greed style sentiment gauges are still showing 'Extreme Fear' territory, an unusual mismatch with today's modest market-wide gains.",
+      confidence: "developing"
+    }
+  ],
+  categories: [
+    { name: "Majors (BTC/ETH)", note: "Holding gains and leading the market's modest advance today." },
+    { name: "DeFi", note: "Reportedly the weakest corner of the market today despite the broader uptick." },
+    { name: "Stablecoins", note: "Activity ticked lower, a mild signal of reduced trading turnover." },
+    { name: "Alt/Meme coins", note: "Mixed — a handful of small-caps posted outsized double-digit swings both ways." }
+  ],
+  watch_list: [
+    {
+      topic: "Whether BTC holds $64K into the weekend",
+      why: "Bitcoin is firming near multi-day highs on Hormuz optimism — worth watching if that support holds once the news cycle cools.",
+      confidence: "developing"
+    },
+    {
+      topic: "DeFi's reported pullback",
+      why: "A steep single-day decline in DeFi activity is an unusually large move — worth verifying whether it's broad-based before reading too much into it.",
+      confidence: "developing"
+    },
+    {
+      topic: "Clarity Act legislative progress",
+      why: "Crypto market-structure legislation has been moving slowly through Congress; a change in pace either way could shift sentiment quickly.",
+      confidence: "developing"
+    }
+  ],
+  movers: [
+    { name: "Pi (PI)", pct: 11.31, note: "Today's largest 24-hour gainer among widely tracked tokens." },
+    { name: "Lighter (LIT)", pct: 7.05, note: "Second-largest gainer, extending a strong recent run." },
+    { name: "Uniswap (UNI)", pct: 5.56, note: "A notable move for a large, established DeFi token." },
+    { name: "Artificial Superintelligence Alliance (FET)", pct: -4.42, note: "Among today's larger decliners." },
+    { name: "Canton (CC)", pct: -4.89, note: "Down alongside broader softness in newer alt tokens." },
+    { name: "Audiera (BEAT)", pct: -11.16, note: "Today's steepest decline among widely tracked tokens." }
+  ],
+  sources: [
+    { title: "Yahoo Finance — Bitcoin & Ethereum prices today, Aug 6", url: "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-6-2026-prices-firm-as-hormuz-negotiations-continue-and-adp-jobs-report-misses-134510256.html" },
+    { title: "Fortune — Current price of Bitcoin, Aug 6", url: "https://fortune.com/article/price-of-bitcoin-08-06-2026/" },
+    { title: "CoinGabbar — Crypto News Today, Aug 6", url: "https://www.coingabbar.com/en/crypto-currency-news/crypto-news-today-august-6-bitcoin-gains-defi-stablecoin-drops" },
+    { title: "cryptoticker.io — Crypto prices today, Aug 6", url: "https://cryptoticker.io/en/crypto-prices-today-august-6-2026/" }
+  ]
+};
+
+// News tab — latest Yahoo Finance headlines, researched by Claude and baked in directly.
+const TODAYS_NEWS = {
+  generated_at: "Aug 6, 2026, evening",
+  articles: [
+    {
+      title: "Pre-Market Fly By for Thursday, August 6th: Breaking Stock Market News",
+      source: "TipRanks (YouTube)",
+      time: "Pre-market",
+      snippet: "A quick video recap of overnight developments and analyst calls heading into Thursday's session.",
+      video: {
+        url: "https://www.youtube.com/watch?v=DOOmX6WH-bs",
+        thumb: "https://img.youtube.com/vi/DOOmX6WH-bs/hqdefault.jpg"
+      }
+    },
+    {
+      title: "S&P 500, Dow futures steady as Mideast deal in focus; chips stumble",
+      source: "Yahoo Finance / Reuters",
+      time: "2:46 PM ET",
+      snippet: "U.S. stocks paused Thursday as investors weighed a fresh batch of earnings and watched for progress toward a peace deal between the U.S. and Iran; oil prices climbed on the news.",
+      url: "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-steady-094518940.html"
+    },
+    {
+      title: "Stock market today: Dow slips from record, S&P 500 and Nasdaq drop as oil gains, Treasury yields rise",
+      source: "Yahoo Finance",
+      time: "5:55 PM ET",
+      snippet: "The Dow snapped its record-setting win streak, falling 0.85%, while the S&P 500 and Nasdaq posted smaller declines. Rising yields and punishing earnings reactions for AI-linked chip names weighed on sentiment.",
+      url: "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html"
+    },
+    {
+      title: "Post Market Wrap: August 6, 2026",
+      source: "CNBC Video",
+      time: "After close",
+      snippet: "CNBC's end-of-day video recap of the session's biggest moves and what's ahead tomorrow.",
+      video: {
+        url: "https://www.cnbc.com/video/2026/08/06/post-market-wrap-august-6-2026.html"
+      }
+    },
+    {
+      title: "Bitcoin and ethereum prices today: prices firm as Hormuz negotiations continue and ADP jobs report misses",
+      source: "Yahoo Finance",
+      time: "Morning",
+      snippet: "Both major cryptocurrencies opened at their strongest levels of the week, with investors reading a soft ADP payrolls report as reducing the odds of a Fed rate hike.",
+      url: "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-6-2026-prices-firm-as-hormuz-negotiations-continue-and-adp-jobs-report-misses-134510256.html"
+    },
+    {
+      title: "Daily market roundup",
+      source: "Yahoo Finance",
+      time: "Aug 6",
+      snippet: "A summary of the day's corporate announcements and market-moving press releases across sectors.",
+      url: "https://finance.yahoo.com/economy/policy/articles/thursday-august-6-2026-215300690.html"
+    },
+    {
+      title: "Latest financial news, quotes, and market data",
+      source: "Yahoo Finance",
+      time: "Ongoing",
+      snippet: "Yahoo Finance's continuously updated feed of stock quotes, market news, and portfolio tools.",
+      url: "https://finance.yahoo.com/"
+    }
+  ],
+  ticker: [
+    { time: "7:00 AM", title: "Oil holds near $83.64 a barrel on the Brent benchmark, roughly flat overnight", url: "https://finance.yahoo.com/energy/articles/current-price-oil-august-6-110019443.html" },
+    { time: "8:15 AM", title: "ADP report shows softer-than-expected private payrolls ahead of Friday's jobs data", url: "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html" },
+    { time: "9:35 AM", title: "Motorola Solutions, Albemarle shares jump on strong earnings", url: "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-6-094500461.html" },
+    { time: "10:10 AM", title: "Honeywell Aerospace tumbles over 21% on weak 2026 guidance", url: "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-6-094500461.html" },
+    { time: "11:00 AM", title: "477 companies report earnings today — one of the busiest days of the season", url: "https://finance.yahoo.com/calendar/earnings/" },
+    { time: "1:20 PM", title: "Sandisk, Western Digital shares slide sharply after earnings", url: "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html" },
+    { time: "2:46 PM", title: "Chips stumble as investors focus on a possible Mideast deal", url: "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-steady-094518940.html" },
+    { time: "5:55 PM", title: "Dow snaps its record win streak, closing down 0.85%", url: "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html" }
+  ]
+};
+
+const TAB_CONFIG = {
+  markets: { label: 'Markets', icon: 'pulse', data: TODAYS_BRIEFING, render: renderBriefing },
+  crypto: { label: 'Crypto', icon: 'coin', data: TODAYS_CRYPTO, render: renderCrypto },
+  news: { label: 'News', icon: 'newspaper', data: TODAYS_NEWS, render: renderNews }
+};
+let activeTab = 'markets';
+let generatedToday = false;
+
+function renderTabBar() {
+  const bar = document.getElementById('tabBar');
+  bar.innerHTML = '';
+  Object.keys(TAB_CONFIG).forEach(key => {
+    const cfg = TAB_CONFIG[key];
+    const btn = el('button', { className: 'tab-btn' + (key === activeTab ? ' active' : '') });
+    btn.appendChild(svgIcon(ICONS[cfg.icon]));
+    btn.appendChild(document.createTextNode(cfg.label));
+    btn.onclick = () => switchTab(key);
+    bar.appendChild(btn);
+  });
+}
+
+async function switchTab(key) {
+  if (key === activeTab) return;
+  activeTab = key;
+  renderTabBar();
+  mainPanel.innerHTML = '';
+  try {
+    const res = await window.storage.get('briefing:' + key + ':' + todayKey(), false);
+    if (res && res.value) { TAB_CONFIG[key].render(JSON.parse(res.value), todayKey()); return; }
+  } catch (e) { /* nothing saved yet today for this tab */ }
+  dateline.textContent = 'Not yet generated today';
+  const empty = el('div', { className: 'widget w-span-12' });
+  empty.appendChild(el('div', { className: 'empty' }));
+  empty.querySelector('.empty').appendChild(el('p', { text: 'Click "Show today\'s briefing" to load Markets, Crypto and News all at once.' }));
+  mainPanel.appendChild(empty);
+}
+
+async function generateBriefing() {
+  const key = todayKey();
+  // Save every tab's data up front so switching tabs never needs a second click.
+  for (const tabKey of Object.keys(TAB_CONFIG)) {
+    try {
+      await window.storage.set('briefing:' + tabKey + ':' + key, JSON.stringify(TAB_CONFIG[tabKey].data), false);
+    } catch (storageErr) {
+      console.error('Could not save briefing for ' + tabKey + ':', storageErr);
+    }
+  }
+  generatedToday = true;
+  TAB_CONFIG[activeTab].render(TAB_CONFIG[activeTab].data, key);
+  try {
+    await loadPastList(activeTab);
+  } catch (e) { /* handled inside loadPastList */ }
+  const note = el('div', { className: 'error-box note-box' });
+  note.textContent = "This dispatch was pulled together in chat, not live from this page. To get a new one, just ask Claude: \"update my daily signal for today.\"";
+  mainPanel.prepend(note);
+}
+
+genBtn.addEventListener('click', generateBriefing);
+
+(async function init() {
+  renderTabBar();
+  try {
+    const res = await window.storage.get('briefing:markets:' + todayKey(), false);
+    if (res && res.value) { renderBriefing(JSON.parse(res.value), todayKey()); return; }
+  } catch (e) { /* no briefing yet today */ }
+})();
+</script>
+</body>
+</html>
