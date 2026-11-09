@@ -1309,9 +1309,10 @@ function renderTabBar() {
 async function switchTab(key) {
   if (key === activeTab) return;
   activeTab = key;
+  tabSwitched = true;
   renderTabBar();
   mainPanel.innerHTML = '';
-  if (key === 'news' && liveNewsLoaded) { renderNews(TAB_CONFIG.news.data, todayKey()); return; }
+  if (liveLoaded[key]) { TAB_CONFIG[key].render(TAB_CONFIG[key].data, todayKey()); return; }
   try {
     const res = await window.storage.get('briefing:' + key + ':' + todayKey(), false);
     if (res && res.value) { TAB_CONFIG[key].render(JSON.parse(res.value), todayKey()); return; }
@@ -1339,32 +1340,36 @@ async function generateBriefing() {
     await loadPastList(activeTab);
   } catch (e) { /* handled inside loadPastList */ }
   const note = el('div', { className: 'error-box note-box' });
-  note.textContent = "This dispatch was pulled together in chat, not live from this page. To get a new one, just ask Claude: \"update my daily signal for today.\"";
+  note.textContent = "Markets and Crypto are researched and rewritten by Claude each morning. News refreshes automatically about every 30 minutes.";
   mainPanel.prepend(note);
 }
 
 genBtn.addEventListener('click', generateBriefing);
 
-// Live news: news.json is refreshed by a GitHub Action every ~30 minutes.
-let liveNewsLoaded = false;
-async function loadLiveNews() {
-  const urls = ['https://raw.githubusercontent.com/grignonjayden/The-Daily-Signal/main/news.json', 'news.json'];
+// Live data: news.json refreshes every ~30 min (GitHub Action);
+// markets.json and crypto.json are rewritten by Claude each morning (scheduled task).
+const liveLoaded = { markets: false, crypto: false, news: false };
+let tabSwitched = false;
+async function loadLive(tab) {
+  const file = tab + '.json';
+  const urls = ['https://raw.githubusercontent.com/grignonjayden/The-Daily-Signal/main/' + file, file];
   for (const u of urls) {
     try {
       const res = await fetch(u + '?t=' + Date.now(), { cache: 'no-store' });
       if (!res.ok) continue;
       const data = await res.json();
-      if (Array.isArray(data.articles) && data.articles.length) {
-        TAB_CONFIG.news.data = data;
-        liveNewsLoaded = true;
-        if (activeTab === 'news' && (generatedToday || mainPanel.querySelector('.news-list'))) renderNews(data, todayKey());
+      if (data && data.generated_at) {
+        TAB_CONFIG[tab].data = data;
+        liveLoaded[tab] = true;
+        if (activeTab === tab && (generatedToday || tabSwitched)) TAB_CONFIG[tab].render(data, todayKey());
         return;
       }
     } catch (e) { /* try the next source */ }
   }
 }
-loadLiveNews();
-setInterval(loadLiveNews, 10 * 60 * 1000);
+function loadAllLive() { Object.keys(liveLoaded).forEach(loadLive); }
+loadAllLive();
+setInterval(loadAllLive, 10 * 60 * 1000);
 
 (async function init() {
   renderTabBar();
