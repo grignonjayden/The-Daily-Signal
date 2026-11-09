@@ -1,0 +1,100 @@
+// Pulls the latest headlines from official and Wall Street news feeds and writes news.json.
+// Runs on a schedule in GitHub Actions (.github/workflows/update-news.yml). No dependencies.
+import { writeFileSync } from 'node:fs';
+
+const FEEDS = [
+  // Central banks, regulators and governments
+  { source: 'Federal Reserve', url: 'https://www.federalreserve.gov/feeds/press_all.xml' },
+  { source: 'Bank of Canada', url: 'https://www.bankofcanada.ca/content_type/press-releases/feed/' },
+  { source: 'Finance Canada', url: 'https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentfinance&sort=publishedDate&orderBy=desc&pick=20&format=atom' },
+  { source: 'Statistics Canada', url: 'https://www150.statcan.gc.ca/n1/rss/dai-quo/0-eng.atom' },
+  { source: 'U.S. SEC', url: 'https://www.sec.gov/news/pressreleases.rss' },
+  // Wall Street and Canadian business news
+  { source: 'WSJ Markets', url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml' },
+  { source: 'CNBC', url: 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114' },
+  { source: 'MarketWatch', url: 'https://feeds.content.dowjones.io/public/rss/mw_topstories' },
+  { source: 'Yahoo Finance', url: 'https://finance.yahoo.com/news/rssindex' },
+  { source: 'Globe and Mail', url: 'https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/' },
+  { source: 'CBC Business', url: 'https://www.cbc.ca/webfeed/rss/rss-business' },
+];
+
+const PER_SOURCE = 2;   // headlines per source in the main list
+const MAX_TICKER = 12;  // rows in "Throughout the Day"
+const MAX_AGE_DAYS = 7;
+const TZ = 'America/Toronto';
+
+const decode = s => s
+  .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+  .replace(/<[^>]+>/g, ' ')
+  .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;|&apos;|&#8217;/g, "'")
+  .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n)).replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
+  .replace(/\s+/g, ' ').trim();
+
+const tag = (block, names) => {
+  for (const n of names) {
+    const m = block.match(new RegExp(`<${n}[^>]*>([\\s\\S]*?)</${n}>`, 'i'));
+    if (m) return m[1];
+  }
+  return '';
+};
+
+function parse(xml, source) {
+  const blocks = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/gi) || [];
+  return blocks.map(b => {
+    let url = decode(tag(b, ['link']));
+    if (!url) { const m = b.match(/<link[^>]*href="([^"]+)"/i); url = m ? m[1].replace(/&amp;/g, '&') : ''; }
+    const date = new Date(decode(tag(b, ['pubDate', 'published', 'updated', 'dc:date'])));
+    let snippet = decode(tag(b, ['description', 'summary', 'content']));
+    if (snippet.length > 220) snippet = snippet.slice(0, 217).replace(/\s+\S*$/, '') + '…';
+    return { source, title: decode(tag(b, ['title'])), url, snippet, date };
+  }).filter(i => i.title && /^https?:\/\//.test(i.url) && !isNaN(i.date));
+}
+
+async function load(feed) {
+  try {
+    const res = await fetch(feed.url, {
+      headers: { 'User-Agent': 'TheDailySignal/1.0 (personal news digest; github.com/grignonjayden/the-daily-signal)', 'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml' },
+      signal: AbortSignal.timeout(20000),
+    });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const items = parse(await res.text(), feed.source);
+    console.log(`${feed.source}: ${items.length} items`);
+    return items;
+  } catch (e) {
+    console.warn(`${feed.source}: skipped (${e.message})`);
+    return [];
+  }
+}
+
+const fmt = (d, opts) => d.toLocaleString('en-US', { timeZone: TZ, ...opts });
+
+const cutoff = Date.now() - MAX_AGE_DAYS * 864e5;
+const results = await Promise.all(FEEDS.map(load));
+const all = results.flat().filter(i => i.date.getTime() >= cutoff).sort((a, b) => b.date - a.date);
+
+if (!all.length) { console.error('No feeds returned anything; leaving news.json unchanged.'); process.exit(0); }
+
+const seen = new Set();
+const unique = all.filter(i => !seen.has(i.url) && seen.add(i.url));
+
+const perSource = {};
+const articles = unique.filter(i => (perSource[i.source] = (perSource[i.source] || 0) + 1) <= PER_SOURCE);
+const used = new Set(articles.map(a => a.url));
+const ticker = unique.filter(i => !used.has(i.url)).slice(0, MAX_TICKER);
+
+const now = new Date();
+const out = {
+  generated_at: fmt(now, { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' ET',
+  date_key: now.toLocaleDateString('en-CA', { timeZone: TZ }),
+  articles: articles.map(a => ({
+    title: a.title, source: a.source, url: a.url, snippet: a.snippet,
+    time: fmt(a.date, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }),
+  })),
+  ticker: ticker.map(t => {
+    const sameDay = t.date.toLocaleDateString('en-CA', { timeZone: TZ }) === now.toLocaleDateString('en-CA', { timeZone: TZ });
+    return { time: fmt(t.date, sameDay ? { hour: 'numeric', minute: '2-digit' } : { month: 'short', day: 'numeric' }), title: t.source + ' — ' + t.title, url: t.url };
+  }),
+};
+
+writeFileSync('news.json', JSON.stringify(out, null, 2) + '\n');
+console.log(`Wrote news.json: ${out.articles.length} articles, ${out.ticker.length} ticker rows.`);

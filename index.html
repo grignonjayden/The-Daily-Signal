@@ -916,6 +916,7 @@ function renderCrypto(data, dateKey) {
 }
 
 function renderNews(data, dateKey) {
+  if (data.date_key) dateKey = data.date_key;
   dateline.textContent = 'News dispatch for ' + fmtDateHuman(dateKey) + ' · generated ' + (data.generated_at || '');
   mainPanel.innerHTML = '';
 
@@ -926,7 +927,7 @@ function renderNews(data, dateKey) {
     return;
   }
 
-  const widget = widgetShell('w-span-12', 'newspaper', 'var(--mint-soft)', 'var(--mint-deep)', 'Latest from Yahoo Finance', data.articles.length);
+  const widget = widgetShell('w-span-12', 'newspaper', 'var(--mint-soft)', 'var(--mint-deep)', 'Latest headlines', data.articles.length);
   const list = el('div', { className: 'news-list' });
   data.articles.forEach((a, i) => {
     const hasVideo = !!(a.video && a.video.url);
@@ -979,7 +980,7 @@ function renderNews(data, dateKey) {
       tickerList.appendChild(row);
     });
     tickerWidget.appendChild(tickerList);
-    tickerWidget.appendChild(el('div', { className: 'ticker-caption', text: "This page itself doesn't refresh on a timer — every entry here was pulled just now. For genuinely hands-free hourly updates, the self-hosted version from earlier can run on an hourly cron instead of daily." }));
+    tickerWidget.appendChild(el('div', { className: 'ticker-caption', text: "Updates automatically about every 30 minutes from the Federal Reserve, Bank of Canada, Finance Canada, Statistics Canada, the SEC and major Wall Street and Canadian business outlets. Tap any headline to read the original source." }));
     mainPanel.appendChild(tickerWidget);
   }
 
@@ -1261,6 +1262,7 @@ async function switchTab(key) {
   activeTab = key;
   renderTabBar();
   mainPanel.innerHTML = '';
+  if (key === 'news' && liveNewsLoaded) { renderNews(TAB_CONFIG.news.data, todayKey()); return; }
   try {
     const res = await window.storage.get('briefing:' + key + ':' + todayKey(), false);
     if (res && res.value) { TAB_CONFIG[key].render(JSON.parse(res.value), todayKey()); return; }
@@ -1293,6 +1295,27 @@ async function generateBriefing() {
 }
 
 genBtn.addEventListener('click', generateBriefing);
+
+// Live news: news.json is refreshed by a GitHub Action every ~30 minutes.
+let liveNewsLoaded = false;
+async function loadLiveNews() {
+  const urls = ['https://raw.githubusercontent.com/grignonjayden/the-daily-signal/main/news.json', 'news.json'];
+  for (const u of urls) {
+    try {
+      const res = await fetch(u + '?t=' + Date.now(), { cache: 'no-store' });
+      if (!res.ok) continue;
+      const data = await res.json();
+      if (Array.isArray(data.articles) && data.articles.length) {
+        TAB_CONFIG.news.data = data;
+        liveNewsLoaded = true;
+        if (activeTab === 'news' && (generatedToday || mainPanel.querySelector('.news-list'))) renderNews(data, todayKey());
+        return;
+      }
+    } catch (e) { /* try the next source */ }
+  }
+}
+loadLiveNews();
+setInterval(loadLiveNews, 10 * 60 * 1000);
 
 (async function init() {
   renderTabBar();
