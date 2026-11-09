@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 9, 2026, 5:31 PM ET",
+  "generated_at": "Nov 9, 2026, 5:33 PM ET",
   "date_key": "2026-11-09",
   "articles": [
     {
@@ -22,20 +22,6 @@
       "url": "https://www.cnbc.com/2026/11/09/stock-market-movers-live-updates.html",
       "snippet": "The stock market is kicking off the week on a strong note following a losing week. That wasn't the case for every name, however.",
       "time": "Nov 9, 5:13 PM"
-    },
-    {
-      "title": "As Nvidia&#x2019;s stock falls, here&#x2019;s what Wall Street has to say about the Jensen Huang scandal",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-      "snippet": "The fallout from the board&#x2019;s new investigation could become &#x201c;a longer-lasting problem for the company,&#x201d; analysts say.",
-      "time": "Nov 9, 4:55 PM"
-    },
-    {
-      "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn&#x2019;t over yet.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
-      "snippet": "&#x201c;It took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,&#x201d; says strategist.",
-      "time": "Nov 9, 4:52 PM"
     },
     {
       "title": "China to issue sovereign green bonds in Canada",
@@ -103,16 +89,6 @@
   ],
   "ticker": [
     {
-      "time": "4:45 PM",
-      "title": "MarketWatch — &#x2018;We had the worst fight&#x2019;: I want my husband to retire at 65, but I don&#x2019;t want to lose his $280,000 salary. Is that unreasonable?",
-      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories"
-    },
-    {
-      "time": "4:43 PM",
-      "title": "MarketWatch — Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-      "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories"
-    },
-    {
       "time": "4:29 PM",
       "title": "CNBC — Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
       "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html"
@@ -143,24 +119,34 @@
       "url": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html"
     },
     {
-      "time": "4:24 PM",
-      "title": "MarketWatch — The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-      "url": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories"
-    },
-    {
-      "time": "4:21 PM",
-      "title": "MarketWatch — A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-      "url": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories"
-    },
-    {
       "time": "4:15 PM",
       "title": "CNBC — Hegseth impeachment articles introduced by Rep. Massie",
       "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html"
     },
     {
-      "time": "4:14 PM",
-      "title": "MarketWatch — Why prediction markets and Wall Street pros so often fail to see what&#x2019;s coming",
-      "url": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories"
+      "time": "4:05 PM",
+      "title": "CNBC — Nvidia's China revenue exposure: What New Street estimates",
+      "url": "https://www.cnbc.com/2026/11/09/nvidias-china-revenue-exposure-what-new-street-estimates-.html"
+    },
+    {
+      "time": "4:04 PM",
+      "title": "CNBC — Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+      "url": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html"
+    },
+    {
+      "time": "4:03 PM",
+      "title": "CNBC — A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
+    },
+    {
+      "time": "3:57 PM",
+      "title": "CNBC — Children’s Place files for bankruptcy protection, seeks buyer",
+      "url": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html"
+    },
+    {
+      "time": "3:41 PM",
+      "title": "CNBC — PepsiCo to cut about 1,000 jobs as North American business struggles",
+      "url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html"
     }
   ]
 }
