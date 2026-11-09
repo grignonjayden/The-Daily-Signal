@@ -1299,7 +1299,7 @@ genBtn.addEventListener('click', generateBriefing);
 // Live news: news.json is refreshed by a GitHub Action every ~30 minutes.
 let liveNewsLoaded = false;
 async function loadLiveNews() {
-  const urls = ['https://raw.githubusercontent.com/grignonjayden/the-daily-signal/main/news.json', 'news.json'];
+  const urls = ['https://raw.githubusercontent.com/grignonjayden/The-Daily-Signal/main/news.json', 'news.json'];
   for (const u of urls) {
     try {
       const res = await fetch(u + '?t=' + Date.now(), { cache: 'no-store' });
