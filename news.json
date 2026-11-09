@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 9, 2026, 6:45 PM ET",
+  "generated_at": "Nov 9, 2026, 6:47 PM ET",
   "date_key": "2026-11-09",
   "articles": [
     {
@@ -24,18 +24,18 @@
       "time": "Nov 9, 6:31 PM"
     },
     {
-      "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
-      "snippet": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
-      "time": "Nov 9, 6:14 PM"
-    },
-    {
       "title": "Nvidia’s board signals Jensen Huang is too big to fire",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/commentary/article-nvidias-board-signals-jensen-huang-is-too-big-to-fire/",
       "snippet": "Directors should await the findings of an investigation into the CEO’s ties to an alleged Chinese spy before backing him",
       "time": "Nov 9, 6:06 PM"
+    },
+    {
+      "title": "Investors Brush Off Election, Selloff and Even Nvidia’s Spy Scandal to Buy Stocks",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/investors-brush-off-election-selloff-and-even-nvidias-spy-scandal-to-buy-stocks-8f6d406a?mod=rss_markets_main",
+      "snippet": "Faith in tech stocks wobbled last week. By Monday, cooler heads had prevailed; eulogies for the AI trade appear “hyperbolic at best right now.”",
+      "time": "Nov 9, 6:04 PM"
     },
     {
       "title": "‘Maple washing’ violations spiked this year, food watchdog data shows",
@@ -52,11 +52,39 @@
       "time": "Nov 9, 5:55 PM"
     },
     {
-      "title": "Ottawa extends tariff relief program for firms importing U.S. goods",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/canada/article-tariff-relief-us-import-trump/",
-      "snippet": "Temporary remission program aims to reduce burden on Canadian firms caught in tariff crossfire",
-      "time": "Nov 9, 5:30 PM"
+      "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+      "snippet": "The rocket-launch company just posted a steeper loss than analysts were expecting.",
+      "time": "Nov 9, 5:49 PM"
+    },
+    {
+      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "snippet": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+      "time": "Nov 9, 5:49 PM"
+    },
+    {
+      "title": "WSJ Dollar Index Falls 0.46% to 97.07",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/currencies/new-zealand-dollar-climbs-as-traders-await-election-result-033c6116?mod=rss_markets_main",
+      "snippet": "The WSJ Dollar Index fell 0.5%, snapping a two-trading-day winning streak.",
+      "time": "Nov 9, 5:36 PM"
+    },
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-2e0e19ff?mod=rss_markets_main",
+      "snippet": "Find insight on AstraZeneca, Argenx, Fresenius and more in the latest Market Talks covering the Health Care sector.",
+      "time": "Nov 9, 5:06 PM"
+    },
+    {
+      "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "snippet": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say.",
+      "time": "Nov 9, 4:55 PM"
     }
   ],
   "official": [
@@ -119,6 +147,11 @@
   ],
   "ticker": [
     {
+      "time": "6:14 PM",
+      "title": "CNBC — Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+      "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html"
+    },
+    {
       "time": "6:05 PM",
       "title": "CNBC — Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
       "url": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html"
@@ -149,6 +182,11 @@
       "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html"
     },
     {
+      "time": "5:30 PM",
+      "title": "Globe and Mail — Ottawa extends tariff relief program for firms importing U.S. goods",
+      "url": "https://www.theglobeandmail.com/canada/article-tariff-relief-us-import-trump/"
+    },
+    {
       "time": "5:25 PM",
       "title": "Globe and Mail — Should Canada’s health care system be more like Sweden’s? Ask our reporter about what he learned",
       "url": "https://www.theglobeandmail.com/business/article-should-canadas-health-care-system-be-more-like-swedens/"
@@ -159,24 +197,14 @@
       "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html"
     },
     {
-      "time": "4:46 PM",
-      "title": "Globe and Mail — China to issue sovereign green bonds in Canada",
-      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-china-to-issue-sovereign-green-bonds-in-canada/"
+      "time": "5:00 PM",
+      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-cfd812a8?mod=rss_markets_main"
     },
     {
-      "time": "4:29 PM",
-      "title": "Globe and Mail — Stellantis finalizes sale of Brampton auto plant to defence contractor Roshel for undisclosed amount",
-      "url": "https://www.theglobeandmail.com/business/article-stellantis-sale-brampton-auto-plant-roshel-november-9/"
-    },
-    {
-      "time": "4:24 PM",
-      "title": "CNBC — Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
-      "url": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html"
-    },
-    {
-      "time": "4:05 PM",
-      "title": "CNBC — Nvidia's China revenue exposure: What New Street estimates",
-      "url": "https://www.cnbc.com/2026/11/09/nvidias-china-revenue-exposure-what-new-street-estimates-.html"
+      "time": "5:00 PM",
+      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-85312ac7?mod=rss_markets_main"
     }
   ]
 }
