@@ -1,47 +1,47 @@
 {
-  "generated_at": "Nov 9, 2026, 7:05 PM ET (Monday close)",
+  "generated_at": "Nov 10, 2026, 7:35 AM ET (Monday close; Tuesday pre-market)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Jumped 1,104.02 points (+2.15%) to 52,389.75, recovering ground lost after the midterm elections."
+      "note": "Monday's last session: jumped 1,104.02 points (+2.15%) to 52,389.75. Dow futures were up about 0.4% early Tuesday ahead of the CPI report."
     },
     {
       "index": "S&P 500",
-      "note": "Rose 2.35% to 7,549.94, rebounding from its worst week since April 2025; still about 3.4% below last month's record."
+      "note": "Rose 2.35% Monday to 7,549.94, its best day in seven months; S&P 500 futures were up about 0.1% early Tuesday."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Gained 2.74% to 25,253.14 and moved out of correction territory as chip stocks rebounded."
+      "note": "Gained 2.74% Monday to 25,253.14 as chip stocks rebounded; Nasdaq-100 futures were slightly lower (about -0.3%) early Tuesday."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "Fell more than 4% to roughly $87 a barrel as President Trump called renewed strikes on Iran unlikely if talks progress; Brent dropped 5.8% to $92.57."
+      "note": "Fell more than 4% Monday to roughly $87 a barrel; December WTI slid a further ~1.9% to about $85.23 early Tuesday on U.S.–Iran diplomacy hopes."
     }
   ],
   "themes": [
     {
-      "title": "Broad rebound after a rough week",
-      "summary": "Dip buyers returned after last week's sell-off; all three major U.S. indexes rose 2% or more on the same day for the first time since April.",
+      "title": "Two-day rebound after the Nov. 5 drop",
+      "summary": "Stocks added more than $1.6 trillion in value over the two sessions after the S&P 500's 4.4% fall on Nov. 5; Monday was the first day since April that all three major indexes rose 2% or more.",
       "confidence": "confirmed"
     },
     {
-      "title": "Chip and AI-infrastructure stocks bounce back",
-      "summary": "AMD surged 13.3% on an analyst upgrade, Micron and Sandisk rose about 6%, and power names such as Constellation Energy (+10.5% on earnings) recovered from last week's data-centre worries tied to the midterm results.",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Nvidia slides on internal inquiry",
-      "summary": "Nvidia fell 4.3% after its board opened an inquiry into CEO Jensen Huang's relationship with a business executive; the company said it has no reason to believe national security or company secrets were compromised.",
+      "title": "Chip stocks lead, Nvidia lags",
+      "summary": "AMD (+13.3% on an analyst upgrade) and Broadcom led Monday's chip rally, while Nvidia fell 4.3% after its board opened an inquiry involving CEO Jensen Huang; Nvidia was little changed pre-market Tuesday.",
       "confidence": "developing"
     },
     {
-      "title": "Oil drops on Iran diplomacy hopes",
-      "summary": "Crude fell sharply after Trump signalled restraint on Iran despite fresh shipping attacks; Brent is down from more than $112 at the start of the month.",
+      "title": "All eyes on October inflation",
+      "summary": "Economists expect October CPI to rise 0.3% month over month (core +0.2%), cooler than September; the release will not include an official year-over-year rate because of last year's government shutdown.",
       "confidence": "confirmed"
     },
     {
-      "title": "Rate-hike odds stay elevated",
-      "summary": "CME FedWatch showed futures pricing about an 84% chance of a quarter-point Fed hike in December, while the 10-year Treasury yield edged up to about 4.87%.",
+      "title": "Oil keeps sliding on Iran talks",
+      "summary": "Brent and WTI were each down more than 2% early Tuesday, extending Monday's drop as reported progress in U.S.–Iran talks eased supply worries.",
+      "confidence": "developing"
+    },
+    {
+      "title": "Rate-hike expectations stay high",
+      "summary": "Futures still price a December Fed hike as likely, and the 10-year Treasury yield held near 4.86% early Tuesday; Fed Governor Waller has said a hot reading could argue for a larger move.",
       "confidence": "developing"
     }
   ],
@@ -69,22 +69,26 @@
   ],
   "watch_list": [
     {
-      "topic": "October CPI report (Tuesday, 8:30 a.m. ET)",
-      "why": "Economists expect a 0.2% monthly rise; the report won't include a year-over-year figure because of last year's government shutdown, and it could shift December rate-hike odds.",
+      "topic": "October CPI (Tuesday, 8:30 a.m. ET)",
+      "why": "Consensus is +0.3% headline and +0.2% core month over month; a hotter print could raise odds of a bigger December Fed hike.",
       "confidence": "confirmed"
     },
     {
-      "topic": "Nvidia's board inquiry",
-      "why": "The outcome of the review into the CEO matters for the largest AI chipmaker and the broader AI trade.",
-      "confidence": "developing"
+      "topic": "Earnings: CoreWeave, D-Wave, Rigetti, eToro",
+      "why": "AI-infrastructure and quantum names report after Tuesday's close, a test of the rebound in AI-linked stocks; Cisco reports Nov. 13.",
+      "confidence": "confirmed"
     },
     {
-      "topic": "U.S.–Iran negotiations and oil",
-      "why": "Oil has swung sharply on diplomacy headlines; any change in the talks or new shipping attacks could move crude quickly.",
+      "topic": "October PPI (Friday, Nov. 13) and U.S.–Iran talks",
+      "why": "Producer prices add another inflation read, while diplomacy headlines continue to drive large swings in oil.",
       "confidence": "developing"
     }
   ],
   "sources": [
+    {
+      "title": "Yahoo Finance — Stock market today, Nov. 10: Futures mixed ahead of key inflation data",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+    },
     {
       "title": "Yahoo Finance — Stock Market Today, Nov. 9: Markets rally as semiconductor gains lift Nasdaq",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-222339218.html"
@@ -94,16 +98,12 @@
       "url": "https://kiplinger.com/investing/stocks/dow-adds-1-104-points-even-as-nvidia-stock-sinks-stock-market-today"
     },
     {
-      "title": "BNN Bloomberg — U.S. stocks rally as oil prices swing lower",
-      "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/11/09/world-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street"
-    },
-    {
       "title": "GV Wire (Reuters) — Oil slides as Trump signals restraint on Iran",
       "url": "https://gvwire.com/2026/11/09/oil-slides-as-trump-signals-restraint-on-iran-despite-fresh-shipping-attacks/"
     },
     {
-      "title": "crypto.news — Week ahead: U.S. CPI on Nov. 10",
-      "url": "https://crypto.news/crypto-week-ahead-bitcoin-price-us-inflation/"
+      "title": "KuCoin — Crypto Daily Market Report, Nov. 10 (macro calendar)",
+      "url": "https://kucoin.com/news/articles/crypto-daily-market-report-november-10-2026"
     }
   ]
 }

@@ -1,133 +1,133 @@
 {
-  "generated_at": "Nov 9, 2026, 7:05 PM ET",
+  "generated_at": "Nov 10, 2026, 7:35 AM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "Around $74,800 this evening, roughly flat over 24 hours after briefly dipping to $73,510 early Monday."
+      "note": "About $74,500–$74,600, down roughly 0.4% over 24 hours, after trading between about $73,700 and $75,500; down 2.8% over seven days."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "Near $2,127, about flat on the day after a roughly 5% slide into Monday's open."
+      "note": "Near $2,112, down about 1.3% over 24 hours."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.59 trillion, down 0.4% over the last 24 hours."
+      "note": "About $2.59 trillion, up roughly 0.7% over 24 hours, on about $75 billion in trading volume."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 58.1% of total crypto market cap, with Ethereum near 10%."
+      "note": "About 57.8% of total crypto market cap, with Ethereum near 10%."
     }
   ],
   "themes": [
     {
-      "title": "Crypto lags a big tech rally",
-      "summary": "Bitcoin and Ether barely moved while the Nasdaq rose nearly 3%, a sign of weaker appetite for crypto relative to stocks.",
+      "title": "Cautious trading before CPI",
+      "summary": "Bitcoin hovered near $74,600 as traders waited for Tuesday's October inflation report, with a December Fed rate hike widely priced in.",
       "confidence": "confirmed"
     },
     {
-      "title": "Spot ETF outflows weigh",
-      "summary": "U.S. spot Bitcoin ETFs saw about $1.28 billion in net outflows last week, the largest since late June, and Ether ETFs lost about $365 million.",
+      "title": "ETF outflows remain in focus",
+      "summary": "U.S. spot Bitcoin ETFs saw about $1.28 billion in net outflows in the first week of November, the most since late June.",
       "confidence": "confirmed"
     },
     {
-      "title": "Early-Monday liquidations",
-      "summary": "About $803 million in positions were liquidated over four hours as BTC briefly fell to $73,510 and ETH touched $2,060.",
+      "title": "Sentiment edges up but stays fearful",
+      "summary": "The Fear & Greed Index rose to 32 from 29 a day earlier, still in fear territory.",
       "confidence": "confirmed"
     },
     {
-      "title": "Ethereum value debate",
-      "summary": "Vitalik Buterin argued Ethereum's value should rest more on security, decentralization and stability than on fee burns.",
-      "confidence": "confirmed"
+      "title": "Avalanche gains on NYSE news",
+      "summary": "AVAX rose roughly 6%–8% over 24 hours after reports that the NYSE selected Avalanche as core settlement ledger technology.",
+      "confidence": "developing"
     },
     {
-      "title": "Sentiment stays fearful",
-      "summary": "The Fear & Greed Index sits around 29, still in fear territory.",
-      "confidence": "confirmed"
+      "title": "Binance scrutiny continues",
+      "summary": "Media reports describe a probe of about $1.2 billion in flows tied to suspected Iran-linked accounts; Binance denies claims that investigations were obstructed.",
+      "confidence": "developing"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Holding roughly flat on the day after weekend and early-Monday losses."
+      "note": "Slightly lower over 24 hours, with ETH (-1.3%) underperforming BTC (-0.4%)."
     },
     {
-      "name": "Large-cap alts",
-      "note": "Mostly softer — XRP fell about 4.8% and BNB and TRON slipped about 1%."
+      "name": "Tokenized assets / RWA",
+      "note": "The strongest category over the past day, helped by tokenization headlines."
     },
     {
-      "name": "Privacy coins",
-      "note": "Zcash was the weakest top-10 token, down about 5.6%."
+      "name": "DeFi & stablecoins",
+      "note": "DeFi tokens slipped about 0.7% and the stablecoin category was down about 0.1%."
     },
     {
       "name": "Small caps",
-      "note": "Select smaller tokens posted outsized gains, led by HOT at about +12%."
+      "note": "Low-volume tokens swung sharply in both directions, with triple-digit gains and 50%+ losses among the extremes."
     }
   ],
   "watch_list": [
     {
       "topic": "U.S. October CPI (Tuesday, 8:30 a.m. ET)",
-      "why": "Inflation data could shift Fed rate expectations, which have been weighing on risk assets including crypto.",
+      "why": "Consensus is +0.3% headline and +0.2% core month over month; the result could shift Fed rate expectations that have weighed on crypto.",
       "confidence": "confirmed"
     },
     {
-      "topic": "Whether BTC holds the $74,000–$75,000 zone",
-      "why": "Analysts flag this range as near-term support, with $80,000 seen as a key level on the upside.",
+      "topic": "Whether BTC holds the $74,000–$76,000 zone",
+      "why": "Market reports flag about $74,000 as near-term support and $76,000 as a level to reclaim for a sustained rebound.",
       "confidence": "developing"
     },
     {
-      "topic": "Crypto earnings and token unlocks",
-      "why": "Bitdeer and eToro report Tuesday and Gemini Thursday; Solayer (LAYER) and Pump.fun (PUMP) have unlocks on Nov. 10–11.",
+      "topic": "Token unlocks and earnings this week",
+      "why": "ALLO unlocks Nov. 11 (about 88.5% of circulating supply) and AZTEC on Nov. 13; CoreWeave and eToro report Tuesday, with October PPI due Nov. 13.",
       "confidence": "confirmed"
     }
   ],
   "movers": [
     {
-      "name": "Holo (HOT)",
-      "pct": 12.0,
-      "note": "Among the day's larger gainers, up about 12%."
+      "name": "Super Inu (SI)",
+      "pct": 116.6,
+      "note": "Top 24-hour gainer in a thin, low-volume market."
     },
     {
-      "name": "Solana (SOL)",
-      "pct": 0.2,
-      "note": "Little changed near $86."
+      "name": "PIEVERSE",
+      "pct": 40.0,
+      "note": "Rose about 40% on speculation around an AI-agent trading product teaser."
     },
     {
-      "name": "BNB (BNB)",
-      "pct": -1.0,
-      "note": "Slightly lower over 24 hours."
+      "name": "Avalanche (AVAX)",
+      "pct": 8.0,
+      "note": "Up about 8% (other trackers show about 6%) after the NYSE settlement-ledger news."
     },
     {
-      "name": "TRON (TRX)",
-      "pct": -1.1,
-      "note": "Slightly lower over 24 hours."
+      "name": "Bitcoin (BTC)",
+      "pct": -0.4,
+      "note": "Little changed near $74,500 ahead of CPI."
     },
     {
-      "name": "XRP (XRP)",
-      "pct": -4.8,
-      "note": "One of the weaker top-10 tokens."
+      "name": "Ethereum (ETH)",
+      "pct": -1.3,
+      "note": "Slightly weaker than Bitcoin, near $2,112."
     },
     {
-      "name": "Zcash (ZEC)",
-      "pct": -5.6,
-      "note": "Steepest decline among the top 10 by market cap."
+      "name": "Dessa (DESSA)",
+      "pct": -57.4,
+      "note": "Steepest 24-hour decline among tracked tokens."
     }
   ],
   "sources": [
     {
-      "title": "The Motley Fool — Crypto Market Today, Nov. 9",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/09/crypto-market-today-nov-9-bitcoin-and-ethereum-lag-as-nasdaq-surges-nearly-3/"
+      "title": "Coin Gabbar — Crypto News Nov 10: BTC falls, market cautious ahead of US CPI (CoinGecko data)",
+      "url": "https://www.coingabbar.com/en/crypto-news-nov-10-btc-eth-dacity-cpi-report-fed-rate-hike"
     },
     {
-      "title": "CoinGecko — Global cryptocurrency market cap charts",
-      "url": "https://www.coingecko.com/en/global-charts"
+      "title": "KuCoin — Crypto Daily Market Report, Nov. 10",
+      "url": "https://kucoin.com/news/articles/crypto-daily-market-report-november-10-2026"
     },
     {
-      "title": "KuCoin — Crypto Daily Market Report, Nov. 9",
-      "url": "https://kucoin.com/news/articles/crypto-daily-market-report-november-9-2026"
+      "title": "CryptoTicker — Bitcoin price $74,600: US CPI without an annual rate",
+      "url": "https://cryptoticker.io/en/bitcoin-price-us-cpi-no-annual-rate/"
     },
     {
-      "title": "crypto.news — Crypto week ahead",
-      "url": "https://crypto.news/crypto-week-ahead-bitcoin-price-us-inflation/"
+      "title": "Yahoo Finance — Stock market today, Nov. 10: CPI expectations",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
     }
   ]
 }
