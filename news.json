@@ -1,101 +1,116 @@
 {
-  "generated_at": "Nov 10, 2026, 10:44 AM ET",
+  "generated_at": "Nov 10, 2026, 4:27 PM ET",
   "date_key": "2026-11-10",
   "articles": [
     {
-      "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-      "snippet": "Anthropic's IPO is expected to come roughly five months after Elon Musk took SpaceX public in a record offering.",
-      "time": "Nov 10, 10:42 AM"
+      "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "snippet": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+      "time": "Nov 10, 4:25 PM"
     },
     {
-      "title": "Stocks making the biggest moves in early trading: Sanmina, Hims & Hers, Securitize & more",
+      "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
-      "snippet": "Follow below as CNBC breaks down the biggest stock market moves of the day.",
-      "time": "Nov 10, 10:40 AM"
+      "url": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+      "snippet": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
+      "time": "Nov 10, 4:22 PM"
     },
     {
-      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
+      "title": "Google Agrees to Privacy in Spirit Airlines Data Sale",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?mod=rss_markets_main",
-      "snippet": "The Claude maker’s stock-market debut is seen as a litmus test for investors on edge over the AI trade.",
-      "image": "https://images.wsj.net/im-64711330",
-      "time": "Nov 10, 10:40 AM"
+      "url": "https://www.wsj.com/pro/bankruptcy/google-agrees-to-privacy-in-spirit-airlines-data-sale-474550e4?mod=rss_markets_main",
+      "snippet": "Revised bankruptcy pact carves out personnel files and installs an independent monitor to address union and congressional pushback over AI training.",
+      "image": "https://images.wsj.net/im-52886573",
+      "time": "Nov 10, 4:22 PM"
     },
     {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "title": "My friend feels trapped at her job but won’t do anything about it. Am I supposed to step in?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "snippet": "There’s already a demographic ‘run’ on Social Security.",
-      "image": "https://images.mktw.net/im-49247042",
-      "time": "Nov 10, 10:30 AM"
+      "url": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
+      "snippet": "“She’s handed over the fate of her happiness to this job.”",
+      "image": "https://images.mktw.net/im-94166547",
+      "time": "Nov 10, 4:22 PM"
     },
     {
-      "title": "Elon Musk was half right in his comment last week about SoftBank backpedaling on a gas-turbine order",
+      "title": "U.S. Stocks Slip on Inflation, AI Worries",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slip-on-inflation-ai-worries-feb790bc?mod=rss_markets_main",
+      "snippet": "U.S. stocks fell after hotter-than-expected inflation data and a more modest valuation for one of the leading artificial-intelligence players.",
+      "image": "https://images.wsj.net/im-48846711",
+      "time": "Nov 10, 4:21 PM"
+    },
+    {
+      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/elon-musk-was-half-right-in-his-comment-last-week-about-softbank-back-pedaling-on-a-gas-turbine-order-c293d335?mod=mw_rss_topstories",
-      "snippet": "Elon Musk in a social-media post last week said that SoftBank “defaulted” on a gas-turbine order. The truth, revealed Tuesday in the Japanese’s investment company’s second-quarter earnings, wasn’t far off.",
-      "image": "https://images.mktw.net/im-96202299",
-      "time": "Nov 10, 10:30 AM"
+      "url": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+      "snippet": "Here’s what might be coming for Social Security, Medicare and long-term care.",
+      "image": "https://images.mktw.net/im-78474852",
+      "time": "Nov 10, 4:20 PM"
     },
     {
-      "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
+      "title": "Yields Jump as Inflation Comes in Hotter Than Expected",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/yields-jump-as-inflation-comes-in-hotter-than-expected-77358c3f?mod=rss_markets_main",
+      "snippet": "Plus, stocks fall as the case for interest-rate hikes grows.",
+      "image": "https://images.wsj.net/im-32241576",
+      "time": "Nov 10, 4:17 PM"
+    },
+    {
+      "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
-      "snippet": "Rivian CEO RJ Scaringe says 2027 will be an “inflection year” as the EV maker scales R2 and invests in autonomy.",
-      "time": "Nov 10, 10:11 AM"
+      "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "snippet": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
+      "time": "Nov 10, 4:11 PM"
     },
     {
-      "title": "Forget happy hour. ‘Money parties’ are having a moment.",
+      "title": "Ottawa won’t lift Arctic oil and gas moratorium without Inuvialuit input, Carney says",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/politics/article-arctic-offshore-oil-gas-moratorium-carney-november-10/",
+      "snippet": "NWT and Nunavut leaders have called for removal of drilling ban put in place by Trudeau government a decade ago",
+      "image": "https://www.theglobeandmail.com/resizer/v2/QO3UWLEIPVHDTDNVHPX7CK7FN4.jpg?auth=564e216deefa321734e7d029369ffa53c3ced46a74f0f38d3547eb85120ebdbc&smart=true&width=3000&height=1868",
+      "time": "Nov 10, 3:54 PM"
+    },
+    {
+      "title": "Ignore the wild swings in chip stocks until they reach these ‘lines in the sand’",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
-      "snippet": "There’s evidence showing that talking about finances with your friends can help you save money.",
-      "image": "https://images.mktw.net/im-14269692",
-      "time": "Nov 10, 9:58 AM"
+      "url": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+      "snippet": "Investors shouldn’t pay much attention to how the SOX chip-sector index trades until it reaches key technical battleground areas above and below current levels.",
+      "image": "https://images.mktw.net/im-22774698",
+      "time": "Nov 10, 3:53 PM"
     },
     {
-      "title": "AI told me to buy this stock. Should I?",
+      "title": "Nvidia investors may make peace with Jensen Huang affair sooner than you think",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-ai-told-me-to-buy-this-stock-should-i/",
-      "snippet": "More young Canadians are using AI chatbots to pick their stocks",
-      "image": "https://www.theglobeandmail.com/resizer/v2/XQQ7ZTG2WREQHBQUHALUQROCJA.jpg?auth=3fd3e22061e8c703617fdaaaea01d5ec391eda23f979e5cee1d6a2e658ab2be7&smart=true&width=2946&height=1800",
-      "time": "Nov 10, 9:57 AM"
+      "url": "https://www.theglobeandmail.com/business/commentary/article-nvidia-ceo-jensen-alice-huang/",
+      "snippet": "As Gordon Gekko might say, ethics are for wimps",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TGA5VMSSMVC4VFTNYXGR4PZNVE.jpg?auth=28a0a2a36497d25e0a9341768fa63e418d76b4b3b9e08514980ba5e95f2fb854&smart=true&width=4843&height=3228",
+      "time": "Nov 10, 3:26 PM"
     },
     {
-      "title": "Stocks Move Lower as Inflation Remains Elevated",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-557620e0?mod=rss_markets_main",
-      "snippet": "Stocks fell after October inflation data showed that prices rose 0.4% from the previous month, compared with a 0.6% rise in September and economists’ expectations of a 0.3% increase.",
-      "image": "https://images.wsj.net/im-62673494",
-      "time": "Nov 10, 9:52 AM"
-    },
-    {
-      "title": "GFL Environmental stock price falls as waste company shuts down strategic review",
+      "title": "Bank of Canada moving carefully, but more hikes might be needed, meeting summary shows",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-gfl-environmental-stock-price-after-shutting-down-strategic-review/",
-      "snippet": "Special committee rejected take-private offer that valued the company at $22-billion",
-      "image": "https://www.theglobeandmail.com/resizer/v2/P5WNG772BVB3XH3TDIDXWMMNOA.JPG?auth=6e8129b74c204e4a61e9af63d73f3953413f2d7cddb267c7f1bde4b4348b37d0&smart=true&width=6192&height=4128",
-      "time": "Nov 10, 9:48 AM"
-    },
-    {
-      "title": "Oil Futures Extend Slide as Trump Indicates Restraint on Iran",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-u-s-iran-conflict-risks-ease-32fa5d4f?mod=rss_markets_main",
-      "snippet": "Oil futures extended Monday’s selloff after President Trump reiterated that it’s unlikely the U.S. will re-escalate its conflict with Iran.",
-      "time": "Nov 10, 9:41 AM"
-    },
-    {
-      "title": "At Operation Maple Disruption, cybercrime fighters stress need for collaboration",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-operation-maple-disruption-cybercrime-fighters-need-for-collaboration/",
-      "snippet": "More than 50 organizations came together to combat fraud during a weeklong event led by the RCMP",
-      "image": "https://www.theglobeandmail.com/resizer/v2/66SRJVRMSZATXOA4BP3YICOGVY.jpg?auth=14efd9534c0d90a878c6be20cfaa383dcba78206d5b94bd93fadee4ff0ee3bc9&smart=true&width=3600&height=2400",
-      "time": "Nov 10, 9:19 AM"
+      "url": "https://www.theglobeandmail.com/business/article-bank-of-canada-interest-rate-deliberations-oct-28-decision/",
+      "snippet": "Bank raised policy interest rate to 2.5% last month to reduce risk that stubbornly high oil prices become persistent inflation",
+      "image": "https://www.theglobeandmail.com/resizer/v2/4HCJEAU3BJA6NGPT5UJ3A53NJA.jpg?auth=097eb5992e53850f85b0bb359653f2f626459d758217e9d75745e8d1613c92bf&smart=true&width=6847&height=4292",
+      "time": "Nov 10, 2:14 PM"
     }
   ],
   "official": [
+    {
+      "title": "Secretary of State Long in Saint John to discuss Budget 2026",
+      "source": "Finance Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/secretary-of-state-long-in-saint-john-to-discuss-budget-2026.html",
+      "snippet": "The Honourable Wayne Long, Secretary of State responsible for the Canada Revenue Agency and Financial Institutions, will highlight measures from Budget 2026, including how the government’s ambitious plan will make…",
+      "time": "Nov 10, 12:02 PM"
+    },
+    {
+      "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
+      "source": "U.S. SEC",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
+      "snippet": "The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the SEC’s Division of Enforcement remained focused on its…",
+      "time": "Nov 10, 11:15 AM"
+    },
     {
       "title": "Trends in police-reported family violence and intimate partner violence in Canada, 2025",
       "source": "Statistics Canada",
@@ -125,13 +140,6 @@
       "time": "Nov 9, 4:00 PM"
     },
     {
-      "title": "Joint Factsheet: Second Canada–China Economic and Financial Strategic Dialogue",
-      "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/joint-factsheet-second-canadachina-economic-and-financial-strategic-dialogue.html",
-      "snippet": "On November 8 to 9, 2026, Vice Premier He Lifeng of China and Canada’s Minister of Finance and National Revenue François-Philippe Champagne and Minister of International Trade Maninder Sidhu co-chaired the Second…",
-      "time": "Nov 9, 3:11 PM"
-    },
-    {
       "title": "Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework",
       "source": "Bank of Canada",
       "url": "https://www.bankofcanada.ca/2026/11/joint-statement-of-the-government-of-canada-and-the-bank-of-canada-on-the-renewal-of-the-monetary-policy-framework-2026/",
@@ -144,75 +152,68 @@
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
       "snippet": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
       "time": "Nov 5, 11:00 AM"
-    },
-    {
-      "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
-      "source": "U.S. SEC",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
-      "snippet": "The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and business development companies qualify as small entities for…",
-      "time": "Nov 4, 11:28 AM"
     }
   ],
   "ticker": [
     {
-      "time": "10:04 AM",
-      "title": "CNBC — Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-      "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
+      "time": "3:53 PM",
+      "title": "WSJ Markets — U.S. Natural Gas Extends Gains on Coming Cold Spell",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-gains-274c489d?mod=rss_markets_main"
     },
     {
-      "time": "10:01 AM",
-      "title": "CNBC — CoreWeave earnings put debt-fueled AI build-out under scrutiny",
-      "url": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html"
+      "time": "3:52 PM",
+      "title": "WSJ Markets — Hot Inflation Revives Wall Street’s Rate Hike Fears",
+      "url": "https://www.wsj.com/finance/investing/hot-inflation-revives-wall-streets-rate-hike-fears-1ce54f85?mod=rss_markets_main"
     },
     {
-      "time": "9:59 AM",
-      "title": "CNBC — Market spooked because now the Fed may need a supersized hike in December",
-      "url": "https://www.cnbc.com/2026/11/10/market-spooked-because-now-the-fed-may-need-a-supersized-hike-in-december.html"
+      "time": "3:52 PM",
+      "title": "WSJ Markets — Oil Futures Settle Lower as Talks Remain in Focus",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-u-s-iran-conflict-risks-ease-32fa5d4f?mod=rss_markets_main"
     },
     {
-      "time": "9:50 AM",
-      "title": "CNBC — Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
-    },
-    {
-      "time": "9:48 AM",
-      "title": "CNBC — Pete Hegseth decries impeachment push, defends Iran war handling",
-      "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
-    },
-    {
-      "time": "9:43 AM",
-      "title": "CNBC — FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
-      "url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html"
-    },
-    {
-      "time": "9:43 AM",
-      "title": "CNBC — Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "url": "https://www.cnbc.com/investingclub/2026/11/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html"
-    },
-    {
-      "time": "9:38 AM",
-      "title": "WSJ Markets — Dollar Strengthens as Sticky Inflation Fuels Fed Hike Bets",
-      "url": "https://www.wsj.com/articles/dollar-weakens-ahead-of-u-s-inflation-data-c7cddfbe?mod=rss_markets_main"
-    },
-    {
-      "time": "9:30 AM",
-      "title": "CNBC — Does anyone feel safe from layoffs right now?",
-      "url": "https://www.cnbc.com/make-it/2026/11/10/layoff-announcements-are-slowing-this-year-workers-are-still-worried.html"
-    },
-    {
-      "time": "9:12 AM",
-      "title": "CNBC — How much you can make in 2027 and still pay 0% capital gains tax",
-      "url": "https://www.cnbc.com/2026/11/10/2027-zero-percent-capital-gains-tax.html"
-    },
-    {
-      "time": "9:10 AM",
-      "title": "MarketWatch — Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories"
-    },
-    {
-      "time": "9:05 AM",
-      "title": "WSJ Markets — Gold Falls on Fed Governor Hawkish Remarks, Inflation Data",
+      "time": "3:48 PM",
+      "title": "WSJ Markets — Gold Futures Fall as Yields, Dollar Rise on U.S. CPI Data",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-await-key-u-s-inflation-data-d4a0623a?mod=rss_markets_main"
+    },
+    {
+      "time": "3:43 PM",
+      "title": "WSJ Markets — Oil Prices Extend Decline After Trump Signals Restraint on Iran",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-extend-decline-after-trump-signals-restraint-on-iran-0441437f?mod=rss_markets_main"
+    },
+    {
+      "time": "3:37 PM",
+      "title": "MarketWatch — Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal",
+      "url": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories"
+    },
+    {
+      "time": "3:33 PM",
+      "title": "CNBC — GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
+      "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html"
+    },
+    {
+      "time": "3:28 PM",
+      "title": "CNBC — White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+      "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html"
+    },
+    {
+      "time": "3:27 PM",
+      "title": "MarketWatch — Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist",
+      "url": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories"
+    },
+    {
+      "time": "3:26 PM",
+      "title": "CNBC — It's time to buy the dip on this key aerospace supplier. Why the shares can rebound",
+      "url": "https://www.cnbc.com/2026/11/10/its-time-to-buy-the-dip-on-this-key-aerospace-supplier-why-im-buying.html"
+    },
+    {
+      "time": "3:24 PM",
+      "title": "CNBC — Jim Jordan elected House GOP leader",
+      "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html"
+    },
+    {
+      "time": "3:01 PM",
+      "title": "CNBC — Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html"
     }
   ]
 }
