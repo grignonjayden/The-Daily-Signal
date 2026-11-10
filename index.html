@@ -245,6 +245,10 @@
   .delta-pill.flat { background: var(--surface); color: var(--ink-faint); border: 1px solid var(--line); }
   .pulse-chip svg.spark { display: block; margin: 4px 0 8px; }
   .pulse-chip .note { font-size: 12px; line-height: 1.4; color: var(--ink-soft); font-weight: 500; }
+  a.pulse-chip { color: inherit; text-decoration: none; display: block; }
+  .pulse-chip .price { font-size: 19px; font-weight: 800; letter-spacing: -0.01em; }
+  .live-updated { font-size: 11px; font-weight: 600; color: var(--ink-faint); margin: 10px 2px 0; }
+  .live-updated a { color: inherit; }
 
   /* ---------- Filter chips ---------- */
   .filter-row { display: flex; gap: 8px; margin-bottom: 14px; }
@@ -517,6 +521,78 @@ function deltaLabel(direction) {
   return { text: '● Flat', cls: 'flat' };
 }
 
+/* --- live prices (prices.json, refreshed ~every 15 min) --- */
+let PRICES = null;
+function liveSpark(points, up) {
+  const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('class', 'spark');
+  svg.setAttribute('width', '100%'); svg.setAttribute('height', '26');
+  svg.setAttribute('viewBox', '0 0 120 26'); svg.setAttribute('preserveAspectRatio', 'none');
+  const pts = (points || []).filter(v => typeof v === 'number');
+  if (pts.length < 2) return sparkline(up === null ? 'flat' : (up ? 'up' : 'down'));
+  const min = Math.min(...pts), max = Math.max(...pts), span = (max - min) || 1;
+  const d = pts.map((v, i) => (i ? 'L' : 'M') + (2 + i * 116 / (pts.length - 1)).toFixed(1) + ',' + (23 - (v - min) / span * 21).toFixed(1)).join(' ');
+  const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+  path.setAttribute('d', d); path.setAttribute('fill', 'none');
+  path.setAttribute('stroke', up === null ? 'var(--ink-faint)' : (up ? 'var(--mint)' : 'var(--pink-deep)'));
+  path.setAttribute('stroke-width', '2.5'); path.setAttribute('stroke-linecap', 'round'); path.setAttribute('stroke-linejoin', 'round');
+  svg.appendChild(path);
+  return svg;
+}
+function fmtNum(v) {
+  if (typeof v !== 'number') return '—';
+  if (Math.abs(v) >= 1e12) return (v / 1e12).toFixed(2) + 'T';
+  if (Math.abs(v) >= 1e9) return (v / 1e9).toFixed(1) + 'B';
+  if (Math.abs(v) >= 1) return v.toLocaleString('en-US', { maximumFractionDigits: 2, minimumFractionDigits: Math.abs(v) < 100 ? 2 : 0 });
+  return v.toPrecision(4);
+}
+function pctPill(pct) {
+  if (typeof pct !== 'number') return el('div', { className: 'delta-pill flat', text: '● —' });
+  const cls = pct > 0.05 ? 'up' : pct < -0.05 ? 'down' : 'flat';
+  return el('div', { className: 'delta-pill ' + cls, text: (pct > 0 ? '▲ +' : pct < 0 ? '▼ ' : '● ') + pct.toFixed(2) + '%' });
+}
+function priceChip(p, i) {
+  const chip = el('a', { className: 'pulse-chip', href: p.url || '#' });
+  chip.style.animationDelay = (i * 0.04) + 's';
+  const top = el('div', { className: 'pulse-chip-top' });
+  top.appendChild(el('div', { className: 'idx', text: p.name || '' }));
+  top.appendChild(pctPill(p.change_pct));
+  chip.appendChild(top);
+  chip.appendChild(el('div', { className: 'price', text: (p.prefix || '') + fmtNum(p.price) + (p.suffix || '') }));
+  chip.appendChild(liveSpark(p.spark, typeof p.change_pct === 'number' ? p.change_pct >= 0 : null));
+  return chip;
+}
+function buildLivePrices(title, items) {
+  const widget = widgetShell('w-span-12', 'pulse', 'var(--mint-soft)', 'var(--mint-deep)', title);
+  const scroll = el('div', { className: 'pulse-scroll' });
+  items.forEach((p, i) => scroll.appendChild(priceChip(p, i)));
+  widget.appendChild(scroll);
+  const note = el('p', { className: 'live-updated' });
+  note.appendChild(document.createTextNode('Live · updated ' + (PRICES.generated_at || '') + ' · refreshes about every 15 minutes · '));
+  (PRICES.sources || []).forEach((src, i) => {
+    if (i) note.appendChild(document.createTextNode(', '));
+    note.appendChild(el('a', { href: src.url, text: src.title.split(' — ')[0] }));
+  });
+  widget.appendChild(note);
+  return widget;
+}
+function buildLiveMoves(title, iconKey, rows) {
+  const widget = widgetShell('w-span-12', iconKey, 'var(--pink-soft)', 'var(--pink-deep)', title, rows.length);
+  const scroll = el('div', { className: 'pulse-scroll' });
+  rows.forEach((r, i) => {
+    const chip = el('a', { className: 'pulse-chip', href: r.url || '#' });
+    chip.style.animationDelay = (i * 0.04) + 's';
+    const top = el('div', { className: 'pulse-chip-top' });
+    top.appendChild(el('div', { className: 'idx', text: r.name }));
+    top.appendChild(pctPill(r.pct));
+    chip.appendChild(top);
+    if (r.sub) chip.appendChild(el('div', { className: 'note', text: r.sub }));
+    scroll.appendChild(chip);
+  });
+  widget.appendChild(scroll);
+  return widget;
+}
+
 function widgetShell(spanClass, iconKey, iconBg, iconColor, title, count) {
   const widget = el('div', { className: 'widget ' + spanClass });
   const head = el('div', { className: 'widget-head' });
@@ -709,6 +785,16 @@ function renderBriefing(data, dateKey) {
     return;
   }
 
+  // Live prices
+  if (PRICES && Array.isArray(PRICES.markets) && PRICES.markets.length) {
+    mainPanel.appendChild(buildLivePrices('Live Markets', PRICES.markets));
+    if (Array.isArray(PRICES.sectors) && PRICES.sectors.length) {
+      const rows = PRICES.sectors.slice().sort((a, b) => (b.change_pct ?? 0) - (a.change_pct ?? 0))
+        .map(s => ({ name: s.name, pct: s.change_pct, url: s.url, sub: s.symbol + ' sector ETF' }));
+      mainPanel.appendChild(buildLiveMoves('Sectors Today (live)', 'sectors', rows));
+    }
+  }
+
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
     const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', '#4B2E6B', "Today's Themes", data.themes.length);
@@ -828,6 +914,21 @@ function renderCrypto(data, dateKey) {
     w.appendChild(el('div', { className: 'error-box', text: 'The crypto briefing came back empty. Try generating again.' }));
     mainPanel.appendChild(w);
     return;
+  }
+
+  // Live prices
+  if (PRICES && Array.isArray(PRICES.crypto) && PRICES.crypto.length) {
+    const items = [];
+    const g = PRICES.crypto_global;
+    if (g) {
+      items.push({ name: 'Total market cap', price: g.market_cap_usd, prefix: '$', change_pct: g.market_cap_change_pct, url: g.url });
+      items.push({ name: 'BTC dominance', price: g.btc_dominance, suffix: '%', change_pct: null, url: g.url });
+    }
+    mainPanel.appendChild(buildLivePrices('Live Crypto', items.concat(PRICES.crypto)));
+    if (Array.isArray(PRICES.crypto_movers) && PRICES.crypto_movers.length) {
+      const rows = PRICES.crypto_movers.map(m => ({ name: m.name, pct: m.pct, url: m.url, sub: '$' + fmtNum(m.price) }));
+      mainPanel.appendChild(buildLiveMoves('Biggest 24h Moves (top 100, live)', 'trophy', rows));
+    }
   }
 
   // Themes
@@ -1326,6 +1427,9 @@ async function switchTab(key) {
 
 async function generateBriefing() {
   const key = todayKey();
+  genBtn.disabled = true;
+  try { await loadAllLive(); } catch (e) { /* fall back to what's already loaded */ }
+  genBtn.disabled = false;
   // Save every tab's data up front so switching tabs never needs a second click.
   for (const tabKey of Object.keys(TAB_CONFIG)) {
     try {
@@ -1367,9 +1471,20 @@ async function loadLive(tab) {
     } catch (e) { /* try the next source */ }
   }
 }
-function loadAllLive() { Object.keys(liveLoaded).forEach(loadLive); }
+async function loadPrices() {
+  for (const u of ['https://raw.githubusercontent.com/grignonjayden/The-Daily-Signal/main/prices.json', 'prices.json']) {
+    try {
+      const res = await fetch(u + '?t=' + Date.now(), { cache: 'no-store' });
+      if (!res.ok) continue;
+      PRICES = await res.json();
+      if (activeTab !== 'news' && (generatedToday || tabSwitched)) TAB_CONFIG[activeTab].render(TAB_CONFIG[activeTab].data, todayKey());
+      return;
+    } catch (e) { /* try the next source */ }
+  }
+}
+function loadAllLive() { return Promise.all(Object.keys(liveLoaded).map(loadLive).concat(loadPrices())); }
 loadAllLive();
-setInterval(loadAllLive, 10 * 60 * 1000);
+setInterval(loadAllLive, 5 * 60 * 1000);
 
 (async function init() {
   renderTabBar();
