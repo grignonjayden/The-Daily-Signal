@@ -1,32 +1,32 @@
 {
-  "generated_at": "Nov 10, 2026, 12:45 PM ET",
+  "generated_at": "Nov 10, 2026, 4:44 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "Around $73,000 late Tuesday morning, down about 2.3%–2.7% over 24 hours after the hot CPI report; it hit an intraday low near $72,787, its lowest since Aug. 21."
+      "note": "About $73,858 late Tuesday, down about 1.5% over 24 hours (CoinGecko); it fell to about $72,787 after the hot CPI report, its lowest level since Aug. 21."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "Around $2,015–$2,025, down roughly 4.7%–5.6% over 24 hours."
+      "note": "About $2,057 late Tuesday, down about 3.3% over 24 hours (CoinGecko), after trading near $2,120 early in the day."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.49 trillion as of 1 a.m. ET Tuesday (CoinCodex), before the CPI-driven selloff that pushed most major tokens lower."
+      "note": "About $2.54 trillion, down about 2.1% over 24 hours (CoinGecko)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 60.5% as of 1 a.m. ET Tuesday (CoinCodex)."
+      "note": "About 58.6% by CoinGecko's measure; CoinMarketCap, which counts a different set of assets, shows about 60.3%."
     }
   ],
   "themes": [
     {
       "title": "Hot CPI pushes Bitcoin to an 11-week low",
-      "summary": "October consumer prices rose 0.4% versus 0.3% expected; Bitcoin slipped from about $74,300 before the release to below $73,000 as December rate-hike odds firmed.",
+      "summary": "October consumer prices rose 0.4% versus 0.3% expected; Bitcoin fell to as low as about $72,787 after the release, its weakest level since Aug. 21, as bets on a December Fed hike firmed.",
       "confidence": "confirmed"
     },
     {
-      "title": "ETF outflows keep building",
-      "summary": "U.S. spot Bitcoin ETFs lost about $201 million on Monday, bringing outflows since Nov. 2 to roughly $1.5 billion; BlackRock's IBIT has seen seven straight days of redemptions, and spot Ether ETFs lost about $185 million.",
+      "title": "ETF outflows continue",
+      "summary": "U.S. spot Bitcoin ETFs have seen roughly $1.5 billion of outflows since Nov. 2, and BlackRock's Bitcoin ETF has had about $1.66 billion of outflows over seven trading sessions.",
       "confidence": "confirmed"
     },
     {
@@ -35,43 +35,43 @@
       "confidence": "confirmed"
     },
     {
-      "title": "Long positions liquidated",
-      "summary": "More than $632 million in crypto positions were liquidated over 24 hours, about $511 million of them longs, per Coinglass data.",
+      "title": "BitMine keeps adding Ether",
+      "summary": "BitMine Immersion bought 9,587 ETH last week, bringing its holdings to about 6.07 million ETH, roughly 4.97% of circulating supply, though Ether still fell on the day.",
       "confidence": "confirmed"
     },
     {
       "title": "NYSE picks Avalanche for tokenized trading",
-      "summary": "The NYSE chose Avalanche to settle trades on a planned 24/7 tokenized securities platform, lifting AVAX about 5% before the CPI release.",
+      "summary": "The NYSE chose Avalanche to settle trades on a planned 24/7 tokenized securities platform; the plan is still pending.",
       "confidence": "developing"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Both fell after the CPI report, with Ether (down about 5%) dropping more than Bitcoin (down about 2.5%)."
-    },
-    {
-      "name": "Tokenized assets / RWA",
-      "note": "Traders rotated toward real-world-asset tokens early Tuesday; XDC Network led the CoinDesk 100, up about 7% since midnight UTC."
+      "note": "Both fell after the CPI report, with Ether (down about 3.3%) weaker than Bitcoin (down about 1.5%) over 24 hours."
     },
     {
       "name": "Privacy coins",
-      "note": "Among the weakest groups, with Monero down about 7.8% and Zcash down about 6.3% over 24 hours."
+      "note": "Zcash was among the biggest 24-hour decliners, down about 11.5% (CoinMarketCap)."
     },
     {
-      "name": "Memecoins",
-      "note": "The CoinDesk Memecoin Index was up about 0.4% early Tuesday, before the post-CPI decline."
+      "name": "Layer 2 / AI tokens",
+      "note": "Arbitrum fell about 10.6% and Venice Token about 10.8% over 24 hours, among the weakest large tokens (CoinMarketCap)."
+    },
+    {
+      "name": "Tokenized assets / RWA",
+      "note": "The NYSE's plan to use Avalanche for tokenized securities settlement kept attention on real-world-asset projects, though the platform is still pending."
     }
   ],
   "watch_list": [
     {
       "topic": "Fed meeting, Dec. 8–9",
-      "why": "After the CPI report, futures price about 85% odds of a quarter-point hike and about 15% odds of a half-point hike; rate expectations have weighed on crypto.",
+      "why": "The hotter CPI report raised expectations for a December rate hike, and rate expectations have weighed on crypto.",
       "confidence": "confirmed"
     },
     {
       "topic": "Whether BTC holds the $73,000 area",
-      "why": "Market reports flag $73,000–$73,500 as near-term support; Tuesday's low was the weakest level since late August.",
+      "why": "Tuesday's low near $72,787 was the weakest level since late August and close to Sunday's low.",
       "confidence": "developing"
     },
     {
@@ -82,48 +82,48 @@
   ],
   "movers": [
     {
-      "name": "Pieverse (PIEVERSE)",
-      "pct": 30.0,
-      "note": "Among the day's top performers, up about 30% (CoinDesk, early Tuesday)."
+      "name": "Gram (GRAM, formerly Toncoin)",
+      "pct": 7.47,
+      "note": "Top 24-hour gainer on CoinMarketCap's gainers list."
     },
     {
-      "name": "Gram (GRAM, formerly Toncoin)",
-      "pct": 8.94,
-      "note": "Top 24-hour gainer in CoinCodex's 1 a.m. ET snapshot."
+      "name": "Pi (PI)",
+      "pct": 6.94,
+      "note": "Among the top 24-hour gainers (CoinMarketCap)."
     },
     {
       "name": "Midnight (NIGHT)",
-      "pct": 8.77,
-      "note": "Second-largest gainer in CoinCodex's 1 a.m. ET snapshot."
+      "pct": 5.79,
+      "note": "Among the top 24-hour gainers (CoinMarketCap)."
     },
     {
-      "name": "Avalanche (AVAX)",
-      "pct": 5.0,
-      "note": "Up about 5% after the NYSE tokenized-trading news (CoinDesk, early Tuesday)."
+      "name": "Arbitrum (ARB)",
+      "pct": -10.63,
+      "note": "Among the largest 24-hour decliners (CoinMarketCap)."
     },
     {
       "name": "Zcash (ZEC)",
-      "pct": -6.3,
-      "note": "Privacy coins lagged as traders rotated into real-world-asset tokens (CoinDesk)."
+      "pct": -11.49,
+      "note": "Privacy coins lagged over 24 hours (CoinMarketCap)."
     },
     {
-      "name": "Monero (XMR)",
-      "pct": -7.8,
-      "note": "Among the weakest large tokens over 24 hours (CoinDesk)."
+      "name": "Pieverse (PIEVERSE)",
+      "pct": -13.17,
+      "note": "Gave back part of Monday's surge; the largest 24-hour decliner on CoinMarketCap's list."
     }
   ],
   "sources": [
     {
-      "title": "CoinDesk — Bitcoin slips as ETF outflows mount ahead of U.S. CPI data: Crypto Markets Today",
-      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report"
+      "title": "CoinGecko — Cryptocurrency Prices, Charts, and Crypto Market Cap",
+      "url": "https://www.coingecko.com/"
     },
     {
-      "title": "CoinDesk — Bitcoin breaks with stocks as ETF outflows mount, MARA sells some BTC",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings"
+      "title": "CoinMarketCap — Top Crypto Gainers and Losers",
+      "url": "https://coinmarketcap.com/gainers-losers/"
     },
     {
-      "title": "CoinCodex — Daily Market Update for Nov 10, 2026",
-      "url": "https://coincodex.com/article/95134/daily-market-update-for-november-10-2026"
+      "title": "CoinMarketCap — Cryptocurrency Prices, Charts And Market Capitalizations",
+      "url": "https://coinmarketcap.com/"
     },
     {
       "title": "Bitcoin.com News — Bitcoin price falls to $72,787 after hotter-than-expected CPI",
@@ -134,12 +134,12 @@
       "url": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation"
     },
     {
-      "title": "Altcoin Buzz — Bitcoin trades near $73K as hot CPI fuels Fed rate hike fears",
-      "url": "https://www.altcoinbuzz.io/bitcoin-falls-below-74k-hot-cpi-fed-rate-hike-fears"
+      "title": "CoinDesk — Bitcoin breaks with stocks as ETF outflows mount, MARA sells some BTC",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings"
     },
     {
-      "title": "Yahoo Finance — 'Not great': October CPI inflation rises 0.4%",
-      "url": "https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html"
+      "title": "crypto.news — Ethereum price falls despite BitMine buying another 9,587 ETH",
+      "url": "https://crypto.news/why-is-ethereum-price-down-today-november-10-2026"
     }
   ]
 }
