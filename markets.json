@@ -1,109 +1,109 @@
 {
-  "generated_at": "Aug 6, 2026, market close",
+  "generated_at": "Nov 9, 2026, 7:05 PM ET (Monday close)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Slid 0.85%, snapping its recent record-setting win streak."
+      "note": "Jumped 1,104.02 points (+2.15%) to 52,389.75, recovering ground lost after the midterm elections."
     },
     {
       "index": "S&P 500",
-      "note": "Fell 0.18% as Treasury yields rose and earnings reactions were punishing for some AI names."
+      "note": "Rose 2.35% to 7,549.94, rebounding from its worst week since April 2025; still about 3.4% below last month's record."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Down 0.06%, roughly flat after a volatile session for chip-adjacent stocks."
+      "note": "Gained 2.74% to 25,253.14 and moved out of correction territory as chip stocks rebounded."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "Rose about 1%, even as hopes for a Strait of Hormuz deal continued."
+      "note": "Fell more than 4% to roughly $87 a barrel as President Trump called renewed strikes on Iran unlikely if talks progress; Brent dropped 5.8% to $92.57."
     }
   ],
   "themes": [
     {
-      "title": "Storage-chip earnings punished hard",
-      "summary": "Sandisk and Western Digital both tumbled sharply after earnings, weighing on the broader semiconductor group despite strong AI-driven demand narratives.",
+      "title": "Broad rebound after a rough week",
+      "summary": "Dip buyers returned after last week's sell-off; all three major U.S. indexes rose 2% or more on the same day for the first time since April.",
       "confidence": "confirmed"
     },
     {
-      "title": "July layoffs hit a two-year low",
-      "summary": "Employers announced 33,429 job cuts in July, down 27% from June — but AI was cited as the top reason for a fifth straight month.",
+      "title": "Chip and AI-infrastructure stocks bounce back",
+      "summary": "AMD surged 13.3% on an analyst upgrade, Micron and Sandisk rose about 6%, and power names such as Constellation Energy (+10.5% on earnings) recovered from last week's data-centre worries tied to the midterm results.",
       "confidence": "confirmed"
     },
     {
-      "title": "Strait of Hormuz deal still in focus",
-      "summary": "Iran's parliament is reportedly reviewing a bill affecting vessel transit as talks continue; markets stayed cautious on the unfinished deal.",
+      "title": "Nvidia slides on internal inquiry",
+      "summary": "Nvidia fell 4.3% after its board opened an inquiry into CEO Jensen Huang's relationship with a business executive; the company said it has no reason to believe national security or company secrets were compromised.",
       "confidence": "developing"
     },
     {
-      "title": "Earnings season delivers a mixed bag",
-      "summary": "Motorola Solutions and Albemarle jumped on strong results while Honeywell Aerospace tumbled over 21% on a weak 2026 outlook.",
+      "title": "Oil drops on Iran diplomacy hopes",
+      "summary": "Crude fell sharply after Trump signalled restraint on Iran despite fresh shipping attacks; Brent is down from more than $112 at the start of the month.",
       "confidence": "confirmed"
     },
     {
-      "title": "AI capex debate still weighing on tech",
-      "summary": "Investors remain hyper-focused on whether heavy AI infrastructure spending is translating into profit, a theme carried through this week's AMD, SpaceX, Sandisk and Western Digital reactions.",
+      "title": "Rate-hike odds stay elevated",
+      "summary": "CME FedWatch showed futures pricing about an 84% chance of a quarter-point Fed hike in December, while the 10-year Treasury yield edged up to about 4.87%.",
       "confidence": "developing"
     }
   ],
   "sectors": [
     {
-      "name": "Energy",
-      "note": "Among the pockets holding up the market amid the broader pullback.",
-      "momentum": 66
+      "name": "Industrials",
+      "note": "Led the market, up about 4.6%; Caterpillar rose 7.2% to top the Dow after falling more than 10% last week.",
+      "momentum": 85
     },
     {
       "name": "Semiconductors",
-      "note": "Also cushioning losses, though the AI-spending debate continues.",
-      "momentum": 58
+      "note": "Rebounded strongly behind AMD, Micron and Broadcom, even as Nvidia fell 4.3%.",
+      "momentum": 78
     },
     {
-      "name": "Industrials",
-      "note": "Split sharply — Parker-Hannifin up 7.6% on earnings, Honeywell Aerospace down over 21%.",
-      "momentum": 47
+      "name": "Utilities / Power",
+      "note": "Constellation Energy jumped 10.5% after beating estimates and raising guidance; NRG Energy and GE Vernova also gained.",
+      "momentum": 72
     },
     {
-      "name": "Rate-sensitive sectors",
-      "note": "Under pressure as Treasury yields climb ahead of Friday's jobs report.",
-      "momentum": 28
+      "name": "Energy",
+      "note": "Every sector finished higher, but the group traded against a backdrop of crude falling more than 4%.",
+      "momentum": 45
     }
   ],
   "watch_list": [
     {
-      "topic": "Friday's July jobs report",
-      "why": "Economists expect payrolls up roughly 80,000 and unemployment holding at 4.2% — a notable miss or beat could quickly move rate-cut expectations.",
+      "topic": "October CPI report (Tuesday, 8:30 a.m. ET)",
+      "why": "Economists expect a 0.2% monthly rise; the report won't include a year-over-year figure because of last year's government shutdown, and it could shift December rate-hike odds.",
+      "confidence": "confirmed"
+    },
+    {
+      "topic": "Nvidia's board inquiry",
+      "why": "The outcome of the review into the CEO matters for the largest AI chipmaker and the broader AI trade.",
       "confidence": "developing"
     },
     {
-      "topic": "Honeywell Aerospace's guidance cut",
-      "why": "A 21%+ single-day drop on lowered 2026 sales guidance is a large move — worth understanding whether it's company-specific or a read on broader industrial demand.",
-      "confidence": "confirmed"
-    },
-    {
-      "topic": "AI's role in layoffs",
-      "why": "AI has now been the top-cited layoff reason for five straight months, concentrated in tech — worth tracking whether that broadens to other sectors.",
-      "confidence": "confirmed"
+      "topic": "U.S.–Iran negotiations and oil",
+      "why": "Oil has swung sharply on diplomacy headlines; any change in the talks or new shipping attacks could move crude quickly.",
+      "confidence": "developing"
     }
   ],
   "sources": [
     {
-      "title": "Yahoo Finance — Stock market today, Aug 6",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html"
+      "title": "Yahoo Finance — Stock Market Today, Nov. 9: Markets rally as semiconductor gains lift Nasdaq",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-222339218.html"
     },
     {
-      "title": "TheStreet — Stock Market Today, Aug 6",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-6-2026"
+      "title": "Kiplinger — Dow adds 1,104 points even as Nvidia sinks",
+      "url": "https://kiplinger.com/investing/stocks/dow-adds-1-104-points-even-as-nvidia-stock-sinks-stock-market-today"
     },
     {
-      "title": "CBS News — July job cuts hit 2-year low",
-      "url": "https://www.cbsnews.com/news/july-layoffs-drop-two-year-low/"
+      "title": "BNN Bloomberg — U.S. stocks rally as oil prices swing lower",
+      "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/11/09/world-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street"
     },
     {
-      "title": "CNN Business — July jobs report preview",
-      "url": "https://www.cnn.com/2026/08/06/economy/us-jobs-report-july-preview-teens"
+      "title": "GV Wire (Reuters) — Oil slides as Trump signals restraint on Iran",
+      "url": "https://gvwire.com/2026/11/09/oil-slides-as-trump-signals-restraint-on-iran-despite-fresh-shipping-attacks/"
     },
     {
-      "title": "investingLive — Fewest job cuts in two years",
-      "url": "https://investinglive.com/news/us-based-employers-announce-fewest-job-cuts-in-two-years-in-july/"
+      "title": "crypto.news — Week ahead: U.S. CPI on Nov. 10",
+      "url": "https://crypto.news/crypto-week-ahead-bitcoin-price-us-inflation/"
     }
   ]
 }

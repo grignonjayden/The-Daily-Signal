@@ -1,133 +1,133 @@
 {
-  "generated_at": "Aug 6, 2026, midday",
+  "generated_at": "Nov 9, 2026, 7:05 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "Trading near $64,500, up about 0.6% on the day and holding this week's highs."
+      "note": "Around $74,800 this evening, roughly flat over 24 hours after briefly dipping to $73,510 early Monday."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "Around $1,905, up roughly 1.9% and outpacing Bitcoin's gain today."
+      "note": "Near $2,127, about flat on the day after a roughly 5% slide into Monday's open."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.29 trillion, up 0.9% over the last 24 hours."
+      "note": "About $2.59 trillion, down 0.4% over the last 24 hours."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "Holding steady near 56.5% of total crypto market cap."
+      "note": "About 58.1% of total crypto market cap, with Ethereum near 10%."
     }
   ],
   "themes": [
     {
-      "title": "Bitcoin firms near multi-day highs",
-      "summary": "BTC opened at its highest level all week, helped by optimism over progress in Strait of Hormuz negotiations.",
+      "title": "Crypto lags a big tech rally",
+      "summary": "Bitcoin and Ether barely moved while the Nasdaq rose nearly 3%, a sign of weaker appetite for crypto relative to stocks.",
       "confidence": "confirmed"
     },
     {
-      "title": "Ethereum outpaces Bitcoin today",
-      "summary": "ETH is up close to 2% versus Bitcoin's more modest gain, continuing a pattern of relative strength this week.",
+      "title": "Spot ETF outflows weigh",
+      "summary": "U.S. spot Bitcoin ETFs saw about $1.28 billion in net outflows last week, the largest since late June, and Ether ETFs lost about $365 million.",
       "confidence": "confirmed"
     },
     {
-      "title": "A soft ADP jobs report eased rate-hike fears",
-      "summary": "An underwhelming ADP private payrolls read is being read by crypto investors as reducing the odds of a rate increase, a tailwind for risk assets.",
+      "title": "Early-Monday liquidations",
+      "summary": "About $803 million in positions were liquidated over four hours as BTC briefly fell to $73,510 and ETH touched $2,060.",
       "confidence": "confirmed"
     },
     {
-      "title": "DeFi activity reportedly slumped sharply",
-      "summary": "Some trackers flagged a sharp one-day pullback in DeFi trading activity even as headline prices rose — a divergence worth treating cautiously pending more sources.",
-      "confidence": "developing"
+      "title": "Ethereum value debate",
+      "summary": "Vitalik Buterin argued Ethereum's value should rest more on security, decentralization and stability than on fee burns.",
+      "confidence": "confirmed"
     },
     {
-      "title": "Sentiment reads cautious despite the price gains",
-      "summary": "Fear-and-greed style sentiment gauges are still showing 'Extreme Fear' territory, an unusual mismatch with today's modest market-wide gains.",
-      "confidence": "developing"
+      "title": "Sentiment stays fearful",
+      "summary": "The Fear & Greed Index sits around 29, still in fear territory.",
+      "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Holding gains and leading the market's modest advance today."
+      "note": "Holding roughly flat on the day after weekend and early-Monday losses."
     },
     {
-      "name": "DeFi",
-      "note": "Reportedly the weakest corner of the market today despite the broader uptick."
+      "name": "Large-cap alts",
+      "note": "Mostly softer — XRP fell about 4.8% and BNB and TRON slipped about 1%."
     },
     {
-      "name": "Stablecoins",
-      "note": "Activity ticked lower, a mild signal of reduced trading turnover."
+      "name": "Privacy coins",
+      "note": "Zcash was the weakest top-10 token, down about 5.6%."
     },
     {
-      "name": "Alt/Meme coins",
-      "note": "Mixed — a handful of small-caps posted outsized double-digit swings both ways."
+      "name": "Small caps",
+      "note": "Select smaller tokens posted outsized gains, led by HOT at about +12%."
     }
   ],
   "watch_list": [
     {
-      "topic": "Whether BTC holds $64K into the weekend",
-      "why": "Bitcoin is firming near multi-day highs on Hormuz optimism — worth watching if that support holds once the news cycle cools.",
+      "topic": "U.S. October CPI (Tuesday, 8:30 a.m. ET)",
+      "why": "Inflation data could shift Fed rate expectations, which have been weighing on risk assets including crypto.",
+      "confidence": "confirmed"
+    },
+    {
+      "topic": "Whether BTC holds the $74,000–$75,000 zone",
+      "why": "Analysts flag this range as near-term support, with $80,000 seen as a key level on the upside.",
       "confidence": "developing"
     },
     {
-      "topic": "DeFi's reported pullback",
-      "why": "A steep single-day decline in DeFi activity is an unusually large move — worth verifying whether it's broad-based before reading too much into it.",
-      "confidence": "developing"
-    },
-    {
-      "topic": "Clarity Act legislative progress",
-      "why": "Crypto market-structure legislation has been moving slowly through Congress; a change in pace either way could shift sentiment quickly.",
-      "confidence": "developing"
+      "topic": "Crypto earnings and token unlocks",
+      "why": "Bitdeer and eToro report Tuesday and Gemini Thursday; Solayer (LAYER) and Pump.fun (PUMP) have unlocks on Nov. 10–11.",
+      "confidence": "confirmed"
     }
   ],
   "movers": [
     {
-      "name": "Pi (PI)",
-      "pct": 11.31,
-      "note": "Today's largest 24-hour gainer among widely tracked tokens."
+      "name": "Holo (HOT)",
+      "pct": 12.0,
+      "note": "Among the day's larger gainers, up about 12%."
     },
     {
-      "name": "Lighter (LIT)",
-      "pct": 7.05,
-      "note": "Second-largest gainer, extending a strong recent run."
+      "name": "Solana (SOL)",
+      "pct": 0.2,
+      "note": "Little changed near $86."
     },
     {
-      "name": "Uniswap (UNI)",
-      "pct": 5.56,
-      "note": "A notable move for a large, established DeFi token."
+      "name": "BNB (BNB)",
+      "pct": -1.0,
+      "note": "Slightly lower over 24 hours."
     },
     {
-      "name": "Artificial Superintelligence Alliance (FET)",
-      "pct": -4.42,
-      "note": "Among today's larger decliners."
+      "name": "TRON (TRX)",
+      "pct": -1.1,
+      "note": "Slightly lower over 24 hours."
     },
     {
-      "name": "Canton (CC)",
-      "pct": -4.89,
-      "note": "Down alongside broader softness in newer alt tokens."
+      "name": "XRP (XRP)",
+      "pct": -4.8,
+      "note": "One of the weaker top-10 tokens."
     },
     {
-      "name": "Audiera (BEAT)",
-      "pct": -11.16,
-      "note": "Today's steepest decline among widely tracked tokens."
+      "name": "Zcash (ZEC)",
+      "pct": -5.6,
+      "note": "Steepest decline among the top 10 by market cap."
     }
   ],
   "sources": [
     {
-      "title": "Yahoo Finance — Bitcoin & Ethereum prices today, Aug 6",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-6-2026-prices-firm-as-hormuz-negotiations-continue-and-adp-jobs-report-misses-134510256.html"
+      "title": "The Motley Fool — Crypto Market Today, Nov. 9",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/09/crypto-market-today-nov-9-bitcoin-and-ethereum-lag-as-nasdaq-surges-nearly-3/"
     },
     {
-      "title": "Fortune — Current price of Bitcoin, Aug 6",
-      "url": "https://fortune.com/article/price-of-bitcoin-08-06-2026/"
+      "title": "CoinGecko — Global cryptocurrency market cap charts",
+      "url": "https://www.coingecko.com/en/global-charts"
     },
     {
-      "title": "CoinGabbar — Crypto News Today, Aug 6",
-      "url": "https://www.coingabbar.com/en/crypto-currency-news/crypto-news-today-august-6-bitcoin-gains-defi-stablecoin-drops"
+      "title": "KuCoin — Crypto Daily Market Report, Nov. 9",
+      "url": "https://kucoin.com/news/articles/crypto-daily-market-report-november-9-2026"
     },
     {
-      "title": "cryptoticker.io — Crypto prices today, Aug 6",
-      "url": "https://cryptoticker.io/en/crypto-prices-today-august-6-2026/"
+      "title": "crypto.news — Crypto week ahead",
+      "url": "https://crypto.news/crypto-week-ahead-bitcoin-price-us-inflation/"
     }
   ]
 }
