@@ -482,7 +482,7 @@ function widgetIcon(key, bg, color) {
 }
 
 function todayKey() {
-  return new Date().toISOString().slice(0,10);
+  return new Date().toLocaleDateString('en-CA'); // local date, not UTC
 }
 function fmtDateHuman(key) {
   const d = new Date(key + 'T12:00:00');
@@ -1130,7 +1130,7 @@ function renderNews(data, dateKey) {
       tickerList.appendChild(row);
     });
     tickerWidget.appendChild(tickerList);
-    tickerWidget.appendChild(el('div', { className: 'ticker-caption', text: "Updates automatically about every 30 minutes from the Federal Reserve, Bank of Canada, Finance Canada, Statistics Canada and the SEC, plus WSJ, CNBC, MarketWatch and the Globe and Mail. Tap any headline to read the original source." }));
+    tickerWidget.appendChild(el('div', { className: 'ticker-caption', text: "Updates automatically about every 15 minutes from the Federal Reserve, Bank of Canada, Finance Canada, Statistics Canada and the SEC, plus WSJ, CNBC, MarketWatch and the Globe and Mail. Tap any headline to read the original source." }));
     mainPanel.appendChild(tickerWidget);
   }
 
@@ -1444,7 +1444,7 @@ async function generateBriefing() {
     await loadPastList(activeTab);
   } catch (e) { /* handled inside loadPastList */ }
   const note = el('div', { className: 'error-box note-box' });
-  note.textContent = "Markets and Crypto are researched and rewritten by Claude each morning. News refreshes automatically about every 30 minutes.";
+  note.textContent = "Prices refresh about every 15 minutes and news about every 15 minutes. Themes and analysis are researched and rewritten by Claude at 7:35 AM, 12:35 PM and 4:35 PM ET.";
   mainPanel.prepend(note);
 }
 
