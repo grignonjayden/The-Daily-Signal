@@ -559,7 +559,6 @@ function priceChip(p, i) {
   top.appendChild(pctPill(p.change_pct));
   chip.appendChild(top);
   chip.appendChild(el('div', { className: 'price', text: (p.prefix || '') + fmtNum(p.price) + (p.suffix || '') }));
-  chip.appendChild(liveSpark(p.spark, typeof p.change_pct === 'number' ? p.change_pct >= 0 : null));
   return chip;
 }
 function buildLivePrices(title, items) {
