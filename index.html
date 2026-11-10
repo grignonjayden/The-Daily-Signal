@@ -247,6 +247,14 @@
   .pulse-chip .note { font-size: 12px; line-height: 1.4; color: var(--ink-soft); font-weight: 500; }
   a.pulse-chip { color: inherit; text-decoration: none; display: block; }
   .pulse-chip .price { font-size: 19px; font-weight: 800; letter-spacing: -0.01em; }
+  .pulse-chip { max-width: 250px; }
+  .mood { margin: 6px 0 10px; }
+  .mood-bar { display: flex; gap: 4px; }
+  .mood-bar span { flex: 1; height: 8px; border-radius: 4px; background: var(--line); }
+  .mood-bar span.on.up { background: var(--mint); }
+  .mood-bar span.on.down { background: var(--pink); }
+  .mood-bar span.on.flat { background: var(--ink-faint); }
+  .mood-scale { display: flex; justify-content: space-between; font-size: 10.5px; font-weight: 600; color: var(--ink-faint); margin-top: 5px; }
   .widget-desc { font-size: 12.5px; line-height: 1.45; color: var(--ink-soft); font-weight: 500; margin: -4px 2px 12px; }
   .live-updated { font-size: 11px; font-weight: 600; color: var(--ink-faint); margin: 10px 2px 0; }
   .live-updated a { color: inherit; }
@@ -593,6 +601,43 @@ function buildLiveMoves(title, iconKey, rows) {
   return widget;
 }
 
+// Mood meter: turns a % move into a plain-language level (1 big drop … 5 strong day).
+const MOODS = [null,
+  { label: 'Big drop', cls: 'down' }, { label: 'Slight dip', cls: 'down' }, { label: 'Calm', cls: 'flat' },
+  { label: 'Slight gain', cls: 'up' }, { label: 'Strong day', cls: 'up' }];
+function pulsePct(p, dir) {
+  const name = (p.index || '').toLowerCase();
+  if (PRICES) {
+    if (name.includes('dominance')) return null;
+    if (name.includes('market cap') && PRICES.crypto_global) return PRICES.crypto_global.market_cap_change_pct;
+    const first = name.split(' ')[0];
+    const hit = [].concat(PRICES.markets || [], PRICES.crypto || []).find(x => (x.name || '').toLowerCase().split(' ')[0] === first);
+    // Futures (oil) trade overnight, so their live move can differ from the session the note describes.
+    if (hit && typeof hit.change_pct === 'number' && !(hit.symbol || '').includes('=F')) return hit.change_pct;
+  }
+  if (dir === 'flat' || name.includes('dominance')) return null;
+  const m = (p.note || '').match(/(\d+(?:\.\d+)?)\s*%/);
+  if (!m || +m[1] > 20) return null;
+  return dir === 'down' ? -m[1] : +m[1];
+}
+function moodFor(p, dir) {
+  const pct = pulsePct(p, dir);
+  let lvl;
+  if (typeof pct === 'number') lvl = pct <= -1.5 ? 1 : pct <= -0.5 ? 2 : pct < 0.5 ? 3 : pct < 1.5 ? 4 : 5;
+  else lvl = dir === 'up' ? 4 : dir === 'down' ? 2 : 3;
+  return { level: lvl, ...MOODS[lvl] };
+}
+function moodMeter(mood) {
+  const wrap = el('div', { className: 'mood' });
+  const bar = el('div', { className: 'mood-bar' });
+  for (let i = 1; i <= 5; i++) bar.appendChild(el('span', { className: i === mood.level ? 'on ' + mood.cls : '' }));
+  wrap.appendChild(bar);
+  const scale = el('div', { className: 'mood-scale' });
+  ['Big drop', 'Calm', 'Big gain'].forEach(t => scale.appendChild(el('span', { text: t })));
+  wrap.appendChild(scale);
+  return wrap;
+}
+
 // Pulse first, then Themes, at the top of the Markets and Crypto tabs.
 function moveToTop() {
   ['2', '1'].forEach(n => { const w = mainPanel.querySelector('[data-top="' + n + '"]'); if (w) mainPanel.prepend(w); });
@@ -842,9 +887,10 @@ function renderBriefing(data, dateKey) {
       chip.style.animationDelay = (i * 0.06) + 's';
       const top = el('div', { className: 'pulse-chip-top' });
       top.appendChild(el('div', { className: 'idx', text: p.index || '' }));
-      top.appendChild(el('div', { className: 'delta-pill ' + dl.cls, text: dl.text }));
+      const mood = moodFor(p, dir);
+      top.appendChild(el('div', { className: 'delta-pill ' + mood.cls, text: mood.label }));
       chip.appendChild(top);
-      chip.appendChild(sparkline(dir));
+      chip.appendChild(moodMeter(mood));
       chip.appendChild(el('div', { className: 'note', text: p.note || '' }));
       scroll.appendChild(chip);
     });
@@ -978,9 +1024,10 @@ function renderCrypto(data, dateKey) {
       chip.style.animationDelay = (i * 0.06) + 's';
       const top = el('div', { className: 'pulse-chip-top' });
       top.appendChild(el('div', { className: 'idx', text: p.index || '' }));
-      top.appendChild(el('div', { className: 'delta-pill ' + dl.cls, text: dl.text }));
+      const mood = moodFor(p, dir);
+      top.appendChild(el('div', { className: 'delta-pill ' + mood.cls, text: mood.label }));
       chip.appendChild(top);
-      chip.appendChild(sparkline(dir));
+      chip.appendChild(moodMeter(mood));
       chip.appendChild(el('div', { className: 'note', text: p.note || '' }));
       scroll.appendChild(chip);
     });
