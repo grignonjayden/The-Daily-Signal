@@ -1,21 +1,21 @@
 {
-  "generated_at": "Nov 10, 2026, 7:35 AM ET",
+  "generated_at": "Nov 10, 2026, 9:05 AM ET (corrected)",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $74,500–$74,600, down roughly 0.4% over 24 hours, after trading between about $73,700 and $75,500; down 2.8% over seven days."
+      "note": "Around $73,800–$74,300 Tuesday morning, little changed over 24 hours (moves of under 1% on CoinGecko and CoinMarketCap)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "Near $2,112, down about 1.3% over 24 hours."
+      "note": "Around $2,060–$2,095, little changed over 24 hours (under 1%)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.59 trillion, up roughly 0.7% over 24 hours, on about $75 billion in trading volume."
+      "note": "About $2.48 trillion on CoinMarketCap, up about 0.15% over 24 hours; CoinGecko, which tracks more tokens, shows about $2.54 trillion."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 57.8% of total crypto market cap, with Ethereum near 10%."
+      "note": "About 58%–60% depending on the tracker (CoinGecko about 58.3%, CoinMarketCap about 60.3%)."
     }
   ],
   "themes": [
@@ -35,9 +35,9 @@
       "confidence": "confirmed"
     },
     {
-      "title": "Avalanche gains on NYSE news",
-      "summary": "AVAX rose roughly 6%–8% over 24 hours after reports that the NYSE selected Avalanche as core settlement ledger technology.",
-      "confidence": "developing"
+      "title": "Pieverse leads top-100 gainers",
+      "summary": "Pieverse (PIEVERSE) was the largest 24-hour gainer among CoinGecko's top 100 coins by market cap on Tuesday, as smaller tokens outpaced Bitcoin and Ether.",
+      "confidence": "confirmed"
     },
     {
       "title": "Binance scrutiny continues",
@@ -48,11 +48,11 @@
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Slightly lower over 24 hours, with ETH (-1.3%) underperforming BTC (-0.4%)."
+      "note": "Little changed over 24 hours, both moving less than 1% ahead of the CPI report."
     },
     {
       "name": "Tokenized assets / RWA",
-      "note": "The strongest category over the past day, helped by tokenization headlines."
+      "note": "Reported as the strongest category over the past day, helped by tokenization headlines."
     },
     {
       "name": "DeFi & stablecoins",
@@ -60,7 +60,7 @@
     },
     {
       "name": "Small caps",
-      "note": "Low-volume tokens swung sharply in both directions, with triple-digit gains and 50%+ losses among the extremes."
+      "note": "Mid-sized tokens such as Pieverse, Midnight and Jupiter posted double-digit gains, outpacing the majors."
     }
   ],
   "watch_list": [
@@ -82,40 +82,52 @@
   ],
   "movers": [
     {
-      "name": "Super Inu (SI)",
-      "pct": 116.6,
-      "note": "Top 24-hour gainer in a thin, low-volume market."
+      "name": "Pieverse (PIEVERSE)",
+      "pct": 30.67,
+      "note": "Largest 24-hour gain in CoinGecko's top 100 as of about 2:20 a.m. ET Tuesday."
     },
     {
-      "name": "PIEVERSE",
-      "pct": 40.0,
-      "note": "Rose about 40% on speculation around an AI-agent trading product teaser."
+      "name": "Midnight (NIGHT)",
+      "pct": 14.6,
+      "note": "Among the top-100 gainers as of about 2:20 a.m. ET."
     },
     {
-      "name": "Avalanche (AVAX)",
-      "pct": 8.0,
-      "note": "Up about 8% (other trackers show about 6%) after the NYSE settlement-ledger news."
+      "name": "Jupiter (JUP)",
+      "pct": 10.83,
+      "note": "Solana-based exchange token, up double digits as of about 2:20 a.m. ET."
     },
     {
-      "name": "Bitcoin (BTC)",
-      "pct": -0.4,
-      "note": "Little changed near $74,500 ahead of CPI."
+      "name": "Pi Network (PI)",
+      "pct": 9.58,
+      "note": "Among the top-100 gainers as of about 2:20 a.m. ET."
     },
     {
-      "name": "Ethereum (ETH)",
-      "pct": -1.3,
-      "note": "Slightly weaker than Bitcoin, near $2,112."
+      "name": "Monero (XMR)",
+      "pct": -5.36,
+      "note": "Among the larger top-100 decliners as of about 2:20 a.m. ET."
     },
     {
-      "name": "Dessa (DESSA)",
-      "pct": -57.4,
-      "note": "Steepest 24-hour decline among tracked tokens."
+      "name": "Bitway (BTW)",
+      "pct": -9.62,
+      "note": "Largest 24-hour decline in CoinGecko's top 100 as of about 2:20 a.m. ET."
     }
   ],
   "sources": [
     {
-      "title": "Coin Gabbar — Crypto News Nov 10: BTC falls, market cautious ahead of US CPI (CoinGecko data)",
-      "url": "https://www.coingabbar.com/en/crypto-news-nov-10-btc-eth-dacity-cpi-report-fed-rate-hike"
+      "title": "CoinGecko — Cryptocurrency prices by market cap",
+      "url": "https://www.coingecko.com/"
+    },
+    {
+      "title": "CoinMarketCap — Cryptocurrency prices and market cap",
+      "url": "https://coinmarketcap.com/"
+    },
+    {
+      "title": "CoinGecko — Pieverse (PIEVERSE)",
+      "url": "https://www.coingecko.com/en/coins/pieverse"
+    },
+    {
+      "title": "CoinGecko — Bitway (BTW)",
+      "url": "https://www.coingecko.com/en/coins/bitway"
     },
     {
       "title": "KuCoin — Crypto Daily Market Report, Nov. 10",
@@ -126,8 +138,8 @@
       "url": "https://cryptoticker.io/en/bitcoin-price-us-cpi-no-annual-rate/"
     },
     {
-      "title": "Yahoo Finance — Stock market today, Nov. 10: CPI expectations",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+      "title": "Coin Gabbar — Crypto News Nov 10 (category moves)",
+      "url": "https://www.coingabbar.com/en/crypto-news-nov-10-btc-eth-dacity-cpi-report-fed-rate-hike"
     }
   ]
 }
