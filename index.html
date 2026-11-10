@@ -247,6 +247,7 @@
   .pulse-chip .note { font-size: 12px; line-height: 1.4; color: var(--ink-soft); font-weight: 500; }
   a.pulse-chip { color: inherit; text-decoration: none; display: block; }
   .pulse-chip .price { font-size: 19px; font-weight: 800; letter-spacing: -0.01em; }
+  .widget-desc { font-size: 12.5px; line-height: 1.45; color: var(--ink-soft); font-weight: 500; margin: -4px 2px 12px; }
   .live-updated { font-size: 11px; font-weight: 600; color: var(--ink-faint); margin: 10px 2px 0; }
   .live-updated a { color: inherit; }
 
@@ -592,6 +593,11 @@ function buildLiveMoves(title, iconKey, rows) {
   return widget;
 }
 
+// Pulse first, then Themes, at the top of the Markets and Crypto tabs.
+function moveToTop() {
+  ['2', '1'].forEach(n => { const w = mainPanel.querySelector('[data-top="' + n + '"]'); if (w) mainPanel.prepend(w); });
+}
+
 function widgetShell(spanClass, iconKey, iconBg, iconColor, title, count) {
   const widget = el('div', { className: 'widget ' + spanClass });
   const head = el('div', { className: 'widget-head' });
@@ -797,6 +803,7 @@ function renderBriefing(data, dateKey) {
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
     const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', '#4B2E6B', "Today's Themes", data.themes.length);
+    widget.dataset.top = '2';
     const itemsWrap = el('div');
     buildFilterRow(widget, (key) => {
       itemsWrap.querySelectorAll('.item').forEach(it => {
@@ -825,6 +832,8 @@ function renderBriefing(data, dateKey) {
   // Market pulse
   if (Array.isArray(data.market_pulse) && data.market_pulse.length) {
     const widget = widgetShell('w-span-8', 'pulse', 'var(--pink-soft)', 'var(--pink-deep)', 'Market Pulse');
+    widget.dataset.top = '1';
+    widget.appendChild(el('p', { className: 'widget-desc', text: 'A quick snapshot of how the major stock indexes and oil moved in the latest trading session: up, down or flat.' }));
     const scroll = el('div', { className: 'pulse-scroll' });
     data.market_pulse.forEach((p, i) => {
       const dir = inferDirection(p.note);
@@ -891,6 +900,7 @@ function renderBriefing(data, dateKey) {
   }
 
   // History
+  moveToTop();
   mainPanel.appendChild(buildHistoryWidget());
   loadPastList('markets');
 }
@@ -933,6 +943,7 @@ function renderCrypto(data, dateKey) {
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
     const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', '#4B2E6B', "Today's Crypto Themes", data.themes.length);
+    widget.dataset.top = '2';
     const itemsWrap = el('div');
     buildFilterRow(widget, (key) => {
       itemsWrap.querySelectorAll('.item').forEach(it => it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key));
@@ -957,6 +968,8 @@ function renderCrypto(data, dateKey) {
   // Pulse (BTC / ETH / market cap / dominance)
   if (Array.isArray(data.market_pulse) && data.market_pulse.length) {
     const widget = widgetShell('w-span-8', 'pulse', 'var(--pink-soft)', 'var(--pink-deep)', 'Crypto Pulse');
+    widget.dataset.top = '1';
+    widget.appendChild(el('p', { className: 'widget-desc', text: 'A quick snapshot of where Bitcoin, Ethereum and the overall crypto market stand right now: up, down or flat.' }));
     const scroll = el('div', { className: 'pulse-scroll' });
     data.market_pulse.forEach((p, i) => {
       const dir = inferDirection(p.note);
@@ -1022,6 +1035,7 @@ function renderCrypto(data, dateKey) {
     mainPanel.appendChild(widget);
   }
 
+  moveToTop();
   mainPanel.appendChild(buildHistoryWidget());
   loadPastList('crypto');
 }
