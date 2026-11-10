@@ -1,109 +1,109 @@
 {
-  "generated_at": "Nov 10, 2026, 7:35 AM ET (Monday close; Tuesday pre-market)",
+  "generated_at": "Nov 10, 2026, 12:45 PM ET (Tuesday intraday; Monday close for reference)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Monday's last session: jumped 1,104.02 points (+2.15%) to 52,389.75. Dow futures were up about 0.4% early Tuesday ahead of the CPI report."
+      "note": "Down about 0.66% (-347 points) to roughly 52,042 as of 11:45 a.m. ET Tuesday, after Monday's 2.15% gain to a 52,389.75 close."
     },
     {
       "index": "S&P 500",
-      "note": "Rose 2.35% Monday to 7,549.94, its best day in seven months; S&P 500 futures were up about 0.1% early Tuesday."
+      "note": "Down about 0.80% to roughly 7,490 as of 11:45 a.m. ET Tuesday, giving back part of Monday's 2.35% rise to 7,549.94."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Gained 2.74% Monday to 25,253.14 as chip stocks rebounded; Nasdaq-100 futures were slightly lower (about -0.3%) early Tuesday."
+      "note": "Down about 1.15% to roughly 24,963 as of 11:45 a.m. ET Tuesday, after Monday's 2.74% gain to 25,253.14."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "Fell more than 4% Monday to roughly $87 a barrel; December WTI slid a further ~1.9% to about $85.23 early Tuesday on U.S.–Iran diplomacy hopes."
+      "note": "December WTI was near $86.35 a barrel late Tuesday morning, down about 0.6%; it touched about $85.53 earlier, its lowest level since late August."
     }
   ],
   "themes": [
     {
-      "title": "Two-day rebound after the Nov. 5 drop",
-      "summary": "Stocks added more than $1.6 trillion in value over the two sessions after the S&P 500's 4.4% fall on Nov. 5; Monday was the first day since April that all three major indexes rose 2% or more.",
+      "title": "October CPI comes in hotter than expected",
+      "summary": "Consumer prices rose 0.4% in October (forecast 0.3%) and core prices rose 0.3% (forecast 0.2%), led by food, transportation and shelter; no year-over-year rate was published because of last year's government shutdown.",
       "confidence": "confirmed"
     },
     {
-      "title": "Chip stocks lead, Nvidia lags",
-      "summary": "AMD (+13.3% on an analyst upgrade) and Broadcom led Monday's chip rally, while Nvidia fell 4.3% after its board opened an inquiry involving CEO Jensen Huang; Nvidia was little changed pre-market Tuesday.",
-      "confidence": "developing"
-    },
-    {
-      "title": "All eyes on October inflation",
-      "summary": "Economists expect October CPI to rise 0.3% month over month (core +0.2%), cooler than September; the release will not include an official year-over-year rate because of last year's government shutdown.",
+      "title": "Bets on a bigger December Fed hike rise",
+      "summary": "Futures now show about 85% odds of a quarter-point hike at the Dec. 8–9 meeting and roughly 15% odds of a half-point move, up from near zero; Governor Waller had said a core reading around 0.3% would justify considering 50 basis points.",
       "confidence": "confirmed"
     },
     {
-      "title": "Oil keeps sliding on Iran talks",
-      "summary": "Brent and WTI were each down more than 2% early Tuesday, extending Monday's drop as reported progress in U.S.–Iran talks eased supply worries.",
+      "title": "Treasury yields climb",
+      "summary": "The 10-year yield rose to about 4.93% and the 5-year to about 4.75% after the report, putting pressure on rate-sensitive and growth stocks.",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Tech gives back Monday's rally",
+      "summary": "The Nasdaq is the weakest major index as chip stocks slip; Nvidia fell more than 3% in morning trading, extending Monday's drop amid a board inquiry involving CEO Jensen Huang.",
       "confidence": "developing"
     },
     {
-      "title": "Rate-hike expectations stay high",
-      "summary": "Futures still price a December Fed hike as likely, and the 10-year Treasury yield held near 4.86% early Tuesday; Fed Governor Waller has said a hot reading could argue for a larger move.",
+      "title": "Oil eases on Iran restraint",
+      "summary": "Crude prices dipped to their lowest since late August after President Trump said he plans to hold off on new strikes against Iran.",
       "confidence": "developing"
     }
   ],
   "sectors": [
     {
-      "name": "Industrials",
-      "note": "Led the market, up about 4.6%; Caterpillar rose 7.2% to top the Dow after falling more than 10% last week.",
-      "momentum": 85
+      "name": "Semiconductors / AI",
+      "note": "Lagging after Monday's rebound: Nvidia, Marvell, Intel and Micron were all lower in early trading as investors rotated out of AI-linked names.",
+      "momentum": 30
     },
     {
-      "name": "Semiconductors",
-      "note": "Rebounded strongly behind AMD, Micron and Broadcom, even as Nvidia fell 4.3%.",
-      "momentum": 78
+      "name": "Health Care",
+      "note": "Described as a beneficiary of the rotation into defensive sectors, though Hims & Hers fell as much as 15% after a weak fourth-quarter forecast.",
+      "momentum": 58
     },
     {
-      "name": "Utilities / Power",
-      "note": "Constellation Energy jumped 10.5% after beating estimates and raising guidance; NRG Energy and GE Vernova also gained.",
-      "momentum": 72
+      "name": "Power / Utilities",
+      "note": "GE Vernova was down about 5.4% in morning trading, reversing part of Monday's gains for power-related stocks.",
+      "momentum": 38
     },
     {
-      "name": "Energy",
-      "note": "Every sector finished higher, but the group traded against a backdrop of crude falling more than 4%.",
-      "momentum": 45
+      "name": "Small Caps",
+      "note": "The Russell 2000 was down about 1.2% late Tuesday morning as higher yields weighed on smaller companies.",
+      "momentum": 35
     }
   ],
   "watch_list": [
     {
-      "topic": "October CPI (Tuesday, 8:30 a.m. ET)",
-      "why": "Consensus is +0.3% headline and +0.2% core month over month; a hotter print could raise odds of a bigger December Fed hike.",
+      "topic": "Earnings after the close: CoreWeave, D-Wave, Rigetti",
+      "why": "AI-infrastructure and quantum-computing results report Tuesday evening, a test for AI-linked stocks after two volatile sessions.",
       "confidence": "confirmed"
     },
     {
-      "topic": "Earnings: CoreWeave, D-Wave, Rigetti, eToro",
-      "why": "AI-infrastructure and quantum names report after Tuesday's close, a test of the rebound in AI-linked stocks; Cisco reports Nov. 13.",
+      "topic": "Fed meeting, Dec. 8–9",
+      "why": "October CPI was the last CPI report before the meeting; the PCE price index, the Fed's preferred gauge, is due later this month.",
       "confidence": "confirmed"
     },
     {
-      "topic": "October PPI (Friday, Nov. 13) and U.S.–Iran talks",
-      "why": "Producer prices add another inflation read, while diplomacy headlines continue to drive large swings in oil.",
+      "topic": "Nvidia board inquiry and AI stock volatility",
+      "why": "Nvidia has fallen in back-to-back sessions; further details from the board's inquiry could keep pressure on chip stocks.",
       "confidence": "developing"
     }
   ],
   "sources": [
     {
-      "title": "Yahoo Finance — Stock market today, Nov. 10: Futures mixed ahead of key inflation data",
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq slip after CPI data raises Fed rate-hike bets",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
     },
     {
-      "title": "Yahoo Finance — Stock Market Today, Nov. 9: Markets rally as semiconductor gains lift Nasdaq",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-222339218.html"
+      "title": "Yahoo Finance — 'Not great': October CPI inflation rises 0.4% as food and rent costs spike",
+      "url": "https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html"
     },
     {
-      "title": "Kiplinger — Dow adds 1,104 points even as Nvidia sinks",
+      "title": "TheStreet — Stock Market Today (Nov. 10, 2026): Nasdaq falls after key inflation report",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    },
+    {
+      "title": "Stock Titan — The Stock Market Today Live, November 10, 2026",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+    },
+    {
+      "title": "Kiplinger — Dow adds 1,104 points even as Nvidia sinks (Monday close)",
       "url": "https://kiplinger.com/investing/stocks/dow-adds-1-104-points-even-as-nvidia-stock-sinks-stock-market-today"
-    },
-    {
-      "title": "GV Wire (Reuters) — Oil slides as Trump signals restraint on Iran",
-      "url": "https://gvwire.com/2026/11/09/oil-slides-as-trump-signals-restraint-on-iran-despite-fresh-shipping-attacks/"
-    },
-    {
-      "title": "KuCoin — Crypto Daily Market Report, Nov. 10 (macro calendar)",
-      "url": "https://kucoin.com/news/articles/crypto-daily-market-report-november-10-2026"
     }
   ]
 }

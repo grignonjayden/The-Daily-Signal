@@ -1,145 +1,145 @@
 {
-  "generated_at": "Nov 10, 2026, 9:05 AM ET (corrected)",
+  "generated_at": "Nov 10, 2026, 12:45 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "Around $73,800–$74,300 Tuesday morning, little changed over 24 hours (moves of under 1% on CoinGecko and CoinMarketCap)."
+      "note": "Around $73,000 late Tuesday morning, down about 2.3%–2.7% over 24 hours after the hot CPI report; it hit an intraday low near $72,787, its lowest since Aug. 21."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "Around $2,060–$2,095, little changed over 24 hours (under 1%)."
+      "note": "Around $2,015–$2,025, down roughly 4.7%–5.6% over 24 hours."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.48 trillion on CoinMarketCap, up about 0.15% over 24 hours; CoinGecko, which tracks more tokens, shows about $2.54 trillion."
+      "note": "About $2.49 trillion as of 1 a.m. ET Tuesday (CoinCodex), before the CPI-driven selloff that pushed most major tokens lower."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 58%–60% depending on the tracker (CoinGecko about 58.3%, CoinMarketCap about 60.3%)."
+      "note": "About 60.5% as of 1 a.m. ET Tuesday (CoinCodex)."
     }
   ],
   "themes": [
     {
-      "title": "Cautious trading before CPI",
-      "summary": "Bitcoin hovered near $74,600 as traders waited for Tuesday's October inflation report, with a December Fed rate hike widely priced in.",
+      "title": "Hot CPI pushes Bitcoin to an 11-week low",
+      "summary": "October consumer prices rose 0.4% versus 0.3% expected; Bitcoin slipped from about $74,300 before the release to below $73,000 as December rate-hike odds firmed.",
       "confidence": "confirmed"
     },
     {
-      "title": "ETF outflows remain in focus",
-      "summary": "U.S. spot Bitcoin ETFs saw about $1.28 billion in net outflows in the first week of November, the most since late June.",
+      "title": "ETF outflows keep building",
+      "summary": "U.S. spot Bitcoin ETFs lost about $201 million on Monday, bringing outflows since Nov. 2 to roughly $1.5 billion; BlackRock's IBIT has seen seven straight days of redemptions, and spot Ether ETFs lost about $185 million.",
       "confidence": "confirmed"
     },
     {
-      "title": "Sentiment edges up but stays fearful",
-      "summary": "The Fear & Greed Index rose to 32 from 29 a day earlier, still in fear territory.",
+      "title": "Miner selling adds supply",
+      "summary": "MARA Holdings sold 13,597 BTC, about $1.1 billion, over six weeks and has said it plans to sell more.",
       "confidence": "confirmed"
     },
     {
-      "title": "Pieverse leads top-100 gainers",
-      "summary": "Pieverse (PIEVERSE) was the largest 24-hour gainer among CoinGecko's top 100 coins by market cap on Tuesday, as smaller tokens outpaced Bitcoin and Ether.",
+      "title": "Long positions liquidated",
+      "summary": "More than $632 million in crypto positions were liquidated over 24 hours, about $511 million of them longs, per Coinglass data.",
       "confidence": "confirmed"
     },
     {
-      "title": "Binance scrutiny continues",
-      "summary": "Media reports describe a probe of about $1.2 billion in flows tied to suspected Iran-linked accounts; Binance denies claims that investigations were obstructed.",
+      "title": "NYSE picks Avalanche for tokenized trading",
+      "summary": "The NYSE chose Avalanche to settle trades on a planned 24/7 tokenized securities platform, lifting AVAX about 5% before the CPI release.",
       "confidence": "developing"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Little changed over 24 hours, both moving less than 1% ahead of the CPI report."
+      "note": "Both fell after the CPI report, with Ether (down about 5%) dropping more than Bitcoin (down about 2.5%)."
     },
     {
       "name": "Tokenized assets / RWA",
-      "note": "Reported as the strongest category over the past day, helped by tokenization headlines."
+      "note": "Traders rotated toward real-world-asset tokens early Tuesday; XDC Network led the CoinDesk 100, up about 7% since midnight UTC."
     },
     {
-      "name": "DeFi & stablecoins",
-      "note": "DeFi tokens slipped about 0.7% and the stablecoin category was down about 0.1%."
+      "name": "Privacy coins",
+      "note": "Among the weakest groups, with Monero down about 7.8% and Zcash down about 6.3% over 24 hours."
     },
     {
-      "name": "Small caps",
-      "note": "Mid-sized tokens such as Pieverse, Midnight and Jupiter posted double-digit gains, outpacing the majors."
+      "name": "Memecoins",
+      "note": "The CoinDesk Memecoin Index was up about 0.4% early Tuesday, before the post-CPI decline."
     }
   ],
   "watch_list": [
     {
-      "topic": "U.S. October CPI (Tuesday, 8:30 a.m. ET)",
-      "why": "Consensus is +0.3% headline and +0.2% core month over month; the result could shift Fed rate expectations that have weighed on crypto.",
+      "topic": "Fed meeting, Dec. 8–9",
+      "why": "After the CPI report, futures price about 85% odds of a quarter-point hike and about 15% odds of a half-point hike; rate expectations have weighed on crypto.",
       "confidence": "confirmed"
     },
     {
-      "topic": "Whether BTC holds the $74,000–$76,000 zone",
-      "why": "Market reports flag about $74,000 as near-term support and $76,000 as a level to reclaim for a sustained rebound.",
+      "topic": "Whether BTC holds the $73,000 area",
+      "why": "Market reports flag $73,000–$73,500 as near-term support; Tuesday's low was the weakest level since late August.",
       "confidence": "developing"
     },
     {
-      "topic": "Token unlocks and earnings this week",
-      "why": "ALLO unlocks Nov. 11 (about 88.5% of circulating supply) and AZTEC on Nov. 13; CoreWeave and eToro report Tuesday, with October PPI due Nov. 13.",
-      "confidence": "confirmed"
+      "topic": "ETF flows and miner sales",
+      "why": "Continued redemptions from spot ETFs and further selling by miners such as MARA would add supply to the market.",
+      "confidence": "developing"
     }
   ],
   "movers": [
     {
       "name": "Pieverse (PIEVERSE)",
-      "pct": 30.67,
-      "note": "Largest 24-hour gain in CoinGecko's top 100 as of about 2:20 a.m. ET Tuesday."
+      "pct": 30.0,
+      "note": "Among the day's top performers, up about 30% (CoinDesk, early Tuesday)."
+    },
+    {
+      "name": "Gram (GRAM, formerly Toncoin)",
+      "pct": 8.94,
+      "note": "Top 24-hour gainer in CoinCodex's 1 a.m. ET snapshot."
     },
     {
       "name": "Midnight (NIGHT)",
-      "pct": 14.6,
-      "note": "Among the top-100 gainers as of about 2:20 a.m. ET."
+      "pct": 8.77,
+      "note": "Second-largest gainer in CoinCodex's 1 a.m. ET snapshot."
     },
     {
-      "name": "Jupiter (JUP)",
-      "pct": 10.83,
-      "note": "Solana-based exchange token, up double digits as of about 2:20 a.m. ET."
+      "name": "Avalanche (AVAX)",
+      "pct": 5.0,
+      "note": "Up about 5% after the NYSE tokenized-trading news (CoinDesk, early Tuesday)."
     },
     {
-      "name": "Pi Network (PI)",
-      "pct": 9.58,
-      "note": "Among the top-100 gainers as of about 2:20 a.m. ET."
+      "name": "Zcash (ZEC)",
+      "pct": -6.3,
+      "note": "Privacy coins lagged as traders rotated into real-world-asset tokens (CoinDesk)."
     },
     {
       "name": "Monero (XMR)",
-      "pct": -5.36,
-      "note": "Among the larger top-100 decliners as of about 2:20 a.m. ET."
-    },
-    {
-      "name": "Bitway (BTW)",
-      "pct": -9.62,
-      "note": "Largest 24-hour decline in CoinGecko's top 100 as of about 2:20 a.m. ET."
+      "pct": -7.8,
+      "note": "Among the weakest large tokens over 24 hours (CoinDesk)."
     }
   ],
   "sources": [
     {
-      "title": "CoinGecko — Cryptocurrency prices by market cap",
-      "url": "https://www.coingecko.com/"
+      "title": "CoinDesk — Bitcoin slips as ETF outflows mount ahead of U.S. CPI data: Crypto Markets Today",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report"
     },
     {
-      "title": "CoinMarketCap — Cryptocurrency prices and market cap",
-      "url": "https://coinmarketcap.com/"
+      "title": "CoinDesk — Bitcoin breaks with stocks as ETF outflows mount, MARA sells some BTC",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings"
     },
     {
-      "title": "CoinGecko — Pieverse (PIEVERSE)",
-      "url": "https://www.coingecko.com/en/coins/pieverse"
+      "title": "CoinCodex — Daily Market Update for Nov 10, 2026",
+      "url": "https://coincodex.com/article/95134/daily-market-update-for-november-10-2026"
     },
     {
-      "title": "CoinGecko — Bitway (BTW)",
-      "url": "https://www.coingecko.com/en/coins/bitway"
+      "title": "Bitcoin.com News — Bitcoin price falls to $72,787 after hotter-than-expected CPI",
+      "url": "https://news.bitcoin.com/market-updates/bitcoin-price-crashes-72787-hotter-than-expected-cpi/"
     },
     {
-      "title": "KuCoin — Crypto Daily Market Report, Nov. 10",
-      "url": "https://kucoin.com/news/articles/crypto-daily-market-report-november-10-2026"
+      "title": "Cointelegraph — Bitcoin retests $73,500 on high US CPI inflation",
+      "url": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation"
     },
     {
-      "title": "CryptoTicker — Bitcoin price $74,600: US CPI without an annual rate",
-      "url": "https://cryptoticker.io/en/bitcoin-price-us-cpi-no-annual-rate/"
+      "title": "Altcoin Buzz — Bitcoin trades near $73K as hot CPI fuels Fed rate hike fears",
+      "url": "https://www.altcoinbuzz.io/bitcoin-falls-below-74k-hot-cpi-fed-rate-hike-fears"
     },
     {
-      "title": "Coin Gabbar — Crypto News Nov 10 (category moves)",
-      "url": "https://www.coingabbar.com/en/crypto-news-nov-10-btc-eth-dacity-cpi-report-fed-rate-hike"
+      "title": "Yahoo Finance — 'Not great': October CPI inflation rises 0.4%",
+      "url": "https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html"
     }
   ]
 }
