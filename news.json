@@ -1,43 +1,74 @@
 {
-  "generated_at": "Nov 11, 2026, 11:30 AM ET",
+  "generated_at": "Nov 11, 2026, 6:07 PM ET",
   "date_key": "2026-11-11",
   "articles": [
     {
-      "title": "JetBlue unveils new first class seats to bring back profits",
+      "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-      "snippet": "JetBlue will give reporters a look at its new first class seats on Wednesday.",
-      "time": "Nov 11, 11:27 AM"
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+      "snippet": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+      "time": "Nov 11, 6:05 PM"
     },
     {
-      "title": "Bessent moved to military base amid 'growing threats': Source",
+      "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-      "snippet": "Bessent's role leading Operation Economic Outcast has made him a one of the top Trump administration targets of Iranian threats, The New York Times reported..",
-      "time": "Nov 11, 11:17 AM"
+      "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+      "snippet": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
+      "time": "Nov 11, 5:58 PM"
     },
     {
-      "title": "Democrats could snarl Trump administration stakes in companies; Watch U.S. Steel CEO speak",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
-      "snippet": "The Trump administration had established some form of equity position in 41 companies as of November, according to the CATO Institute's tally.",
-      "time": "Nov 11, 11:11 AM"
-    },
-    {
-      "title": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
+      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories",
-      "snippet": "Despite nagging concerns over the AI trade, Anthropic’s IPO is reportedly seeing very strong demand.",
-      "image": "https://images.mktw.net/im-91816851",
-      "time": "Nov 11, 11:03 AM"
+      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+      "snippet": "Nvidia’s board of directors could reportedly meet as soon as today to determine the CEO’s fate.",
+      "image": "https://images.mktw.net/im-16739210",
+      "time": "Nov 11, 5:47 PM"
     },
     {
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+      "snippet": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
+      "time": "Nov 11, 5:46 PM"
+    },
+    {
+      "title": "CAE raises earnings forecast even as profits fall",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-cae-raises-earnings-forecast-even-as-profits-fall/",
+      "snippet": "Company remains focused on continuing year-old transformation plan, CEO Matthew Bromberg says",
+      "image": "https://www.theglobeandmail.com/resizer/v2/CO6Y2O6UYJHDXEIDEGT45BRZQI.jpg?auth=1bc1e575ba471360483d04e37b712b018aacea98678cf1f56f38e1f186f182dc&smart=true&width=8121&height=5643",
+      "time": "Nov 11, 5:40 PM"
+    },
+    {
+      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "snippet": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-      "image": "https://images.mktw.net/im-62799282",
-      "time": "Nov 11, 10:30 AM"
+      "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "snippet": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
+      "image": "https://images.mktw.net/im-83882608",
+      "time": "Nov 11, 5:30 PM"
+    },
+    {
+      "title": "WSJ Dollar Index Rises 0.44% to 97.97",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-soften-after-u-s-cpi-data-boosts-dollar-26f03632?mod=rss_markets_main",
+      "snippet": "The WSJ Dollar Index rose 0.4%, up for two consecutive trading days.",
+      "time": "Nov 11, 5:29 PM"
+    },
+    {
+      "title": "The Global Economy Looks Vulnerable to an AI Bust",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/economy/the-global-economy-looks-vulnerable-to-an-ai-bust-a04bb0f1?mod=rss_markets_main",
+      "snippet": "Some countries, particularly in Asia, are seen as heavily exposed to the U.S. data-center build-out.",
+      "image": "https://images.wsj.net/im-91455807",
+      "time": "Nov 11, 5:15 PM"
+    },
+    {
+      "title": "U.S. Stocks Gain After CoreWeave Update Eases Some AI Concerns",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-coreweave-update-eases-some-ai-worries-f8bfbaa7?mod=rss_markets_main",
+      "snippet": "U.S. stocks rose after CoreWeave’s earnings update quelled worries that AI profits would not come soon enough to cover infrastructure debt burdens.",
+      "image": "https://images.wsj.net/im-24576166",
+      "time": "Nov 11, 5:07 PM"
     },
     {
       "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
@@ -45,54 +76,23 @@
       "url": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
       "snippet": "CoreWeave’s improved AI economics and its vow to show some discipline around debt are sparking a broad rally across the chip sector.",
       "image": "https://images.mktw.net/im-19395705",
-      "time": "Nov 11, 10:26 AM"
+      "time": "Nov 11, 5:05 PM"
     },
     {
-      "title": "Poland’s Orlen Cancels Qatar LNG Supply Deal After Months of Force Majeure",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/polands-orlen-cancels-qatar-lng-supply-deal-after-months-of-force-majeure-88f37e7b?mod=rss_markets_main",
-      "snippet": "The termination of the long-term LNG supply contract with QatarEnergy marks the first-known cancellation of an agreement with the exporter since the Iran war began.",
-      "image": "https://images.wsj.net/im-13493423",
-      "time": "Nov 11, 10:23 AM"
-    },
-    {
-      "title": "China says it doesn’t use ‘honey traps’ – but warns citizens against seductive foreign spies",
+      "title": "Russian diesel tanker idles off U.S. east coast despite Trump’s export waiver",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/article-china-honey-traps-nvidia-ceo-affair/",
-      "snippet": "Country has denied any suggestion it spied on Nvidia CEO Jensen Huang, calling such claims ‘groundless speculation and slander’",
-      "image": "https://www.theglobeandmail.com/resizer/v2/RLDFJTQ64ZAHZHF7BP3WW6J3LQ.JPG?auth=a875838794602b71f4ee0887680ba806d34768b4525efd1018835a4286c20c4a&smart=true&width=3024&height=1701",
-      "time": "Nov 11, 10:19 AM"
+      "url": "https://www.theglobeandmail.com/business/article-russian-diesel-tanker-idles-of-us-coast-donald-trump-export-waiver/",
+      "snippet": "U.S. companies are shunning the fuel over legal concerns and operational challenges",
+      "image": "https://www.theglobeandmail.com/resizer/v2/JMKB3W7GCNDU5FN3YFQGKVFBQQ.jpg?auth=be1018da25028ad95e9bc30ddcc81543cab723e29f552b0fa943500e16a79bcb&smart=true&width=6192&height=4128",
+      "time": "Nov 11, 1:53 PM"
     },
     {
-      "title": "Nasdaq Jumps After CoreWeave Earnings",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62?mod=rss_markets_main",
-      "snippet": "U.S. stocks were making gains as tech names rallied after upbeat earnings from CoreWeave eased investors’ fears about the AI trade.",
-      "image": "https://images.wsj.net/im-52162808",
-      "time": "Nov 11, 10:06 AM"
-    },
-    {
-      "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia",
+      "title": "Maker of muscular dystrophy drug will stop supplying Canada, patients told",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-opec-oil-output-in-october-saudi-arabia/",
-      "snippet": "Producer group’s output rose to 41.23 million barrels per day last month",
-      "image": "https://www.theglobeandmail.com/resizer/v2/34Q2WWJFSVBLDBIEVSWF37LIL4.JPG?auth=244164e2b2075fe5b3da5ffcbf5fae5bebf1c230b80e0dbdc3fb2c3dbaf1338c&smart=true&width=4898&height=3342",
-      "time": "Nov 11, 9:36 AM"
-    },
-    {
-      "title": "Crude Futures Pick Up After Heavy Selling",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-middle-east-risks-linger-53d39c2e?mod=rss_markets_main",
-      "snippet": "Oil futures picked up after sliding to two-month lows on optimism about a possible negotiated solution to the U.S.-Iran conflict.",
-      "time": "Nov 11, 9:28 AM"
-    },
-    {
-      "title": "Returning to the office doesn’t guarantee collaboration",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/careers/leadership/article-returning-to-the-office-doesnt-guarantee-collaboration/",
-      "snippet": "Getting people into the office is a question of attendance. Helping them do something worthwhile together is a question of leadership, Dorothy Kudla writes",
-      "image": "https://www.theglobeandmail.com/resizer/v2/QYFKUQ66GFHCZHMS4DNGRLXL2Q.jpg?auth=d8bb8903f47d523a5e656c18b594170fc96f9291fe9e8542f14065938d0e0669&smart=true&width=2384&height=1257",
-      "time": "Nov 11, 9:00 AM"
+      "url": "https://www.theglobeandmail.com/business/economy/article-canadian-patients-duchenne-muscular-dystrophy-deflazacort/",
+      "snippet": "Families have limited amount of time to find new supplier of deflazacort or switch to higher-priced drug not yet covered by most insurance plans",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ACPNKQ2DBFDJDKJDPQEXYFPF3E.JPG?auth=2a23ef6ef2c41b6788ebae2ec870cf2163028b01e3dfd1898baf66c1efee2f60&smart=true&width=4500&height=3000",
+      "time": "Nov 11, 1:18 PM"
     }
   ],
   "official": [
@@ -155,64 +155,64 @@
   ],
   "ticker": [
     {
-      "time": "11:00 AM",
-      "title": "CNBC — Winter is approaching, and this ski resort stock has found a bottom. How to trade it",
-      "url": "https://www.cnbc.com/2026/11/11/winter-is-approaching-and-this-ski-resort-stock-has-found-a-bottom-how-to-trade-it-.html"
+      "time": "5:30 PM",
+      "title": "CNBC — Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+      "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html"
     },
     {
-      "time": "10:53 AM",
-      "title": "CNBC — CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
-      "url": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html"
+      "time": "5:20 PM",
+      "title": "CNBC — American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+      "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html"
     },
     {
-      "time": "10:46 AM",
-      "title": "CNBC — Mississippi Senate: Scott Colom leads Hyde-Smith by more than 3,000 votes",
-      "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html"
+      "time": "5:10 PM",
+      "title": "CNBC — JetBlue unveils new first-class seats to bring back profits",
+      "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html"
     },
     {
-      "time": "10:30 AM",
-      "title": "CNBC — JPMorgan upgrades this aerospace stock after earnings beat",
-      "url": "https://www.cnbc.com/2026/11/11/jpmorgan-mercury-systems-upgrade.html"
+      "time": "4:59 PM",
+      "title": "WSJ Markets — Health Care Roundup: Market Talk",
+      "url": "https://www.wsj.com/articles/health-care-roundup-market-talk-ab29df4c?mod=rss_markets_main"
     },
     {
-      "time": "10:29 AM",
-      "title": "CNBC — Stocks making the biggest moves Wednesday: CoreWeave, Nvidia, NextNav & more",
-      "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html"
+      "time": "4:58 PM",
+      "title": "WSJ Markets — Investors Run Back to AI Stocks, Less Than a Week After a Historic Selloff",
+      "url": "https://www.wsj.com/finance/stocks/investors-run-back-to-ai-stocks-less-than-a-week-after-a-historic-selloff-854483e8?mod=rss_markets_main"
     },
     {
-      "time": "10:25 AM",
-      "title": "MarketWatch — I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-      "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories"
+      "time": "4:55 PM",
+      "title": "WSJ Markets — Tech, Media & Telecom Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d1ea7fbd?mod=rss_markets_main"
     },
     {
-      "time": "10:20 AM",
-      "title": "CNBC — WNBA Finals MVP Gabby Williams: 'Our existence is political'",
-      "url": "https://www.cnbc.com/2026/11/11/gabby-williams-embraces-role-in-wnbas-political-and-cultural-debates-.html"
+      "time": "4:55 PM",
+      "title": "MarketWatch — Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.",
+      "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories"
     },
     {
-      "time": "10:15 AM",
-      "title": "MarketWatch — Market angst is driving investors into low-volatility stocks as AI trade stumbles",
-      "url": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories"
+      "time": "4:42 PM",
+      "title": "MarketWatch — Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
+      "url": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories"
     },
     {
-      "time": "10:14 AM",
-      "title": "CNBC — Measles is surging in the U.S. — and outbreaks can cost millions",
-      "url": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html"
+      "time": "4:40 PM",
+      "title": "MarketWatch — Sandisk’s stock just staged a big gain. Here’s how it could march even higher.",
+      "url": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories"
     },
     {
-      "time": "10:08 AM",
-      "title": "MarketWatch — From living in his car to a 756 credit score: How one veteran rebuilt his finances",
-      "url": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories"
+      "time": "4:27 PM",
+      "title": "WSJ Markets — Oil Futures Halt Slide Awaiting Clarity on Middle East Talks",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-middle-east-risks-linger-53d39c2e?mod=rss_markets_main"
     },
     {
-      "time": "9:49 AM",
-      "title": "CNBC — CFTC investigates if Kalshi improperly self-certified event contracts",
-      "url": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html"
+      "time": "4:22 PM",
+      "title": "CNBC — Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade",
+      "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
     },
     {
-      "time": "9:39 AM",
-      "title": "CNBC — Capri Holdings names longtime Estee Lauder executive Justin Boxford new CEO",
-      "url": "https://www.cnbc.com/2026/11/11/capri-holdings-names-estee-lauder-executive-justin-boxford-new-ceo.html"
+      "time": "4:21 PM",
+      "title": "MarketWatch — Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+      "url": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories"
     }
   ]
 }
