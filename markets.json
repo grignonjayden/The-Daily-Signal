@@ -1,109 +1,109 @@
 {
-  "generated_at": "Nov 10, 2026, 4:44 PM ET (Tuesday close)",
+  "generated_at": "Nov 11, 2026, 7:42 AM ET (Tuesday close; Wednesday pre-market)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed Tuesday at about 52,231, down 0.3%, after Monday's 2.15% gain to 52,389.75."
+      "note": "Closed Tuesday at 52,231.89, down 157.86 points or 0.30%; Dow futures were up about 0.2% Tuesday evening."
     },
     {
       "index": "S&P 500",
-      "note": "Closed Tuesday at about 7,520, down 0.4%, trimming a midday loss of roughly 0.9%."
+      "note": "Closed Tuesday at 7,520.93, down 29.01 points or 0.38%; S&P 500 futures were up about 0.2% Tuesday evening."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed Tuesday at about 25,065, down 0.7%, the weakest of the three major indexes as tech led the decline."
+      "note": "Closed Tuesday at 25,065.87, down 187.26 points or 0.74%, the weakest of the three major indexes; Nasdaq 100 futures rose after CoreWeave's results."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "December WTI traded near $86.37 a barrel late Tuesday morning, down about 0.6% from Monday's $86.85 settlement, as prices hovered near their lowest since August."
+      "note": "December WTI settled Tuesday at $86.04 a barrel, down $0.81 or 0.93%; Brent settled at $91.49, down 1.17%."
     }
   ],
   "themes": [
     {
       "title": "October CPI runs hotter than expected",
-      "summary": "Consumer prices rose 0.4% in October versus 0.3% expected, and core prices rose 0.3%, renewing concerns about inflation.",
+      "summary": "Consumer prices rose 0.4% in October versus 0.3% expected, and core prices rose 0.3% versus 0.2% expected.",
       "confidence": "confirmed"
     },
     {
-      "title": "December Fed hike odds firm up",
-      "summary": "Futures traders price about 90% odds of a quarter-point hike in December and about 10% odds of a half-point move; Governor Waller said a hike of at least 25 basis points is warranted.",
+      "title": "December Fed hike odds near 90%",
+      "summary": "Markets price roughly a 91% chance of a quarter-point hike in December; Governor Waller backs at least a quarter-point move and said a half-point should be considered if core prices keep rising 0.3% or more.",
       "confidence": "confirmed"
     },
     {
-      "title": "Treasury yields jump",
-      "summary": "The 10-year yield rose about 12.6 basis points to roughly 4.99% and the 2-year about 18.9 basis points to roughly 4.74%, both the highest since late October.",
+      "title": "10-year yield touches 5%",
+      "summary": "The 10-year Treasury yield rose about 13.8 basis points to around 5.00%, and the 2-year approached 4.75%.",
       "confidence": "confirmed"
     },
     {
-      "title": "Nvidia drags on tech",
-      "summary": "Nvidia fell 5.5%, the Dow's worst performer for a second straight session, amid a board inquiry involving CEO Jensen Huang; the stock is down nearly 30% since early October.",
+      "title": "Nvidia extends slide",
+      "summary": "Nvidia fell about 5.5% on Tuesday amid concerns involving CEO Jensen Huang and an internal probe into alleged chip shipments to China, weighing on tech.",
       "confidence": "confirmed"
     },
     {
-      "title": "Anthropic sets IPO terms",
-      "summary": "Anthropic plans to sell 825 million shares at $70 to $78 each, which would raise more than $64 billion at the top of the range and value the company at about $1.4 trillion.",
-      "confidence": "developing"
+      "title": "CoreWeave beat lifts futures",
+      "summary": "CoreWeave shares rose more than 5% after hours on better-than-expected revenue, and stock futures turned higher Tuesday evening.",
+      "confidence": "confirmed"
     }
   ],
   "sectors": [
     {
-      "name": "Semiconductors / AI",
-      "note": "Led the decline as higher yields weighed on growth stocks; Nvidia fell 5.5%, and Intel and Marvell were lower before the open.",
-      "momentum": 28
+      "name": "Technology",
+      "note": "The worst sector on Tuesday, down 1.13% and the only group to fall more than 1%, led by Nvidia's drop.",
+      "momentum": 30
     },
     {
-      "name": "Financials / Energy",
-      "note": "Held up best in early trading, each down 0.2% or less as of 10:30 a.m. ET.",
-      "momentum": 52
+      "name": "Financials / Energy / Communication Services",
+      "note": "Led the market, up 0.49%, 0.41% and 0.38% respectively; six sectors finished higher.",
+      "momentum": 60
     },
     {
-      "name": "Materials / Industrials / Utilities",
-      "note": "Among the weakest groups in early trading, each down about 0.7% to 0.8% as of 10:30 a.m. ET, after industrials led Monday's rally.",
-      "momentum": 36
+      "name": "Materials / Utilities / Real Estate",
+      "note": "Edged lower, down 0.25%, 0.23% and 0.17% respectively, while industrials slipped 0.08%.",
+      "momentum": 44
     },
     {
       "name": "Small Caps",
-      "note": "The Russell 2000 closed down about 0.6%, recovering from a 1% drop in morning trading.",
-      "momentum": 40
+      "note": "The Russell 2000 closed at 2,821.38, down 0.68%, and about 61% of U.S. issues declined.",
+      "momentum": 38
     }
   ],
   "watch_list": [
     {
-      "topic": "CoreWeave earnings after Tuesday's close",
-      "why": "AI-infrastructure results are a test for AI-linked stocks; CoreWeave and Nebius fell more than 4% before the open ahead of the report.",
-      "confidence": "confirmed"
+      "topic": "Whether the CoreWeave bounce holds at Wednesday's open",
+      "why": "AI-linked stocks led Tuesday's decline, and futures rose after CoreWeave's results; Nvidia remains under pressure.",
+      "confidence": "developing"
     },
     {
       "topic": "Veterans Day on Wednesday",
-      "why": "The bond market is closed Wednesday, while stocks trade normally.",
+      "why": "The U.S. bond market is closed Wednesday, while stocks trade normally.",
       "confidence": "confirmed"
     },
     {
-      "topic": "Anthropic IPO timing",
-      "why": "Shares could begin trading as early as next week, though no date has been set.",
+      "topic": "Anthropic IPO",
+      "why": "The company set a $70 to $78 range for 825 million shares; trading is expected to begin around Nov. 19, though timing could change.",
       "confidence": "developing"
     }
   ],
   "sources": [
     {
-      "title": "Kiplinger — Stocks Drop as Rate-Hike Worries Rise: Stock Market Today",
-      "url": "https://www.kiplinger.com/investing/stocks/stocks-drop-as-rate-hike-worries-rise-stock-market-today"
+      "title": "TheStreet — Stock Market Today (Nov. 10, 2026): Nasdaq falls after key inflation report derails strong start to week",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
     },
     {
-      "title": "24/7 Wall St. — S&P 500 Drops Nearly 1% as Hot Inflation Pushes Yields Toward 5%",
-      "url": "https://247wallst.com/cards/a-hotter-inflation-reading-pushed-the-10-year-treasury-yield-gspc-market-bell-01m736jv8b304zems20e9w1wgx"
+      "title": "Eurasia Business News — Dow Jones, Nasdaq, S&P 500 Fall on November 10, 2026; Oil and Gold Retreat",
+      "url": "https://eurasiabusinessnews.com/2026/11/11/stock-market-today-dow-jones-nasdaq-sp-500-fall-on-november-10-2026-oil-and-gold-retreat/"
     },
     {
-      "title": "24/7 Wall St. — US stocks are lower; Utilities and Materials lag while Energy holds up best",
-      "url": "https://247wallst.com/cards/us-stocks-are-lower-utilities-and-materials-lag-while-energy-holds-up-best-spy-market-explainer-01m731khkgehcv66th3qtshc5e"
+      "title": "24/7 Wall St. — US stocks closed lower; Technology lags while Financials and Communication Services lead",
+      "url": "https://247wallst.com/cards/us-stocks-closed-lower-technology-lags-while-financials-and-communication-servic-spy-market-explainer-01m73qyjzbtvqd6e7bax73kfa0"
     },
     {
-      "title": "Yahoo Finance (Reuters) — Wall St retreats as hot inflation data, Fed comments fuel rate worries",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html"
+      "title": "Yahoo Finance — Nasdaq futures jump on CoreWeave earnings; hot CPI reinforces Fed hike bets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-tick-higher-011241932.html"
     },
     {
-      "title": "OilPrice.com — Oil Falls to Lowest Level Since August",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Falls-to-Lowest-Level-Since-August.html"
+      "title": "CoinDesk — Bitcoin barely flinches at hot U.S. CPI data as ETF selling slows",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows"
     }
   ]
 }
