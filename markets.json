@@ -1,109 +1,109 @@
 {
-  "generated_at": "Nov 11, 2026, 7:42 AM ET (Tuesday close; Wednesday pre-market)",
+  "generated_at": "Nov 11, 2026, 12:42 PM ET (Wednesday midday; markets still open)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed Tuesday at 52,231.89, down 157.86 points or 0.30%; Dow futures were up about 0.2% Tuesday evening."
+      "note": "At 52,341.96 at 12:27 PM ET Wednesday, up 110.07 points or 0.21% (Yahoo Finance), lagging the other major indexes; it closed Tuesday at 52,231.89."
     },
     {
       "index": "S&P 500",
-      "note": "Closed Tuesday at 7,520.93, down 29.01 points or 0.38%; S&P 500 futures were up about 0.2% Tuesday evening."
+      "note": "At 7,629.01 at 12:27 PM ET Wednesday, up 108.08 points or 1.44% (Yahoo Finance), after closing Tuesday at 7,520.93."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed Tuesday at 25,065.87, down 187.26 points or 0.74%, the weakest of the three major indexes; Nasdaq 100 futures rose after CoreWeave's results."
+      "note": "At 25,599.52 at 12:27 PM ET Wednesday, up 533.64 points or 2.13% (Yahoo Finance), leading the major indexes after Tuesday's 0.74% drop."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "December WTI settled Tuesday at $86.04 a barrel, down $0.81 or 0.93%; Brent settled at $91.49, down 1.17%."
+      "note": "December crude was at $87.33 a barrel at 12:27 PM ET, up $1.29 or 1.50% (Yahoo Finance); Brent was at $92.70, up 1.32%, earlier in the morning (TheStreet)."
     }
   ],
   "themes": [
     {
-      "title": "October CPI runs hotter than expected",
-      "summary": "Consumer prices rose 0.4% in October versus 0.3% expected, and core prices rose 0.3% versus 0.2% expected.",
+      "title": "AI and chip stocks rebound",
+      "summary": "Tech led the market after two days of losses; 18 of the S&P 500's top 20 performers by late morning were tech names, according to TheStreet.",
       "confidence": "confirmed"
     },
     {
-      "title": "December Fed hike odds near 90%",
-      "summary": "Markets price roughly a 91% chance of a quarter-point hike in December; Governor Waller backs at least a quarter-point move and said a half-point should be considered if core prices keep rising 0.3% or more.",
+      "title": "CoreWeave surges on results",
+      "summary": "CoreWeave rose about 25% to around $60.72 after third-quarter results and a raised outlook, lifting other AI infrastructure names such as Nebius, Bloom Energy and Lumentum.",
       "confidence": "confirmed"
     },
     {
-      "title": "10-year yield touches 5%",
-      "summary": "The 10-year Treasury yield rose about 13.8 basis points to around 5.00%, and the 2-year approached 4.75%.",
+      "title": "Nvidia recovers part of its slide",
+      "summary": "Nvidia rose about 4.5% to $176.30 but remains down about 14% in November; Baird downgraded it to Neutral, and its board is investigating reports involving CEO Jensen Huang.",
       "confidence": "confirmed"
     },
     {
-      "title": "Nvidia extends slide",
-      "summary": "Nvidia fell about 5.5% on Tuesday amid concerns involving CEO Jensen Huang and an internal probe into alleged chip shipments to China, weighing on tech.",
+      "title": "Fed hike still expected in December",
+      "summary": "After Tuesday's hotter-than-expected October CPI, a quarter-point hike in December is the base case, with about 11% odds of a half-point move; the bond market is closed for Veterans Day.",
       "confidence": "confirmed"
     },
     {
-      "title": "CoreWeave beat lifts futures",
-      "summary": "CoreWeave shares rose more than 5% after hours on better-than-expected revenue, and stock futures turned higher Tuesday evening.",
-      "confidence": "confirmed"
+      "title": "Oil rises on Iran tensions",
+      "summary": "Crude gained after Iran said it would not give up enriched nuclear material and an oil tanker reportedly hit a mine in the Strait of Hormuz.",
+      "confidence": "developing"
     }
   ],
   "sectors": [
     {
       "name": "Technology",
-      "note": "The worst sector on Tuesday, down 1.13% and the only group to fall more than 1%, led by Nvidia's drop.",
-      "momentum": 30
+      "note": "The top sector, up about 3.0% in the morning (24/7 Wall St.), led by semiconductors and AI cloud providers.",
+      "momentum": 85
     },
     {
-      "name": "Financials / Energy / Communication Services",
-      "note": "Led the market, up 0.49%, 0.41% and 0.38% respectively; six sectors finished higher.",
-      "momentum": 60
+      "name": "Energy / Industrials",
+      "note": "Energy rose about 1.6% and industrials about 0.8% in the morning as oil prices climbed.",
+      "momentum": 66
     },
     {
-      "name": "Materials / Utilities / Real Estate",
-      "note": "Edged lower, down 0.25%, 0.23% and 0.17% respectively, while industrials slipped 0.08%.",
-      "momentum": 44
+      "name": "Health Care / Consumer Staples / Consumer Discretionary",
+      "note": "The laggards, down about 0.7%, 0.5% and 0.4% respectively in the morning; Clorox, lululemon and Airbnb were among notable decliners.",
+      "momentum": 38
     },
     {
       "name": "Small Caps",
-      "note": "The Russell 2000 closed at 2,821.38, down 0.68%, and about 61% of U.S. issues declined.",
-      "momentum": 38
+      "note": "The Russell 2000 opened down 0.68% (TheStreet) but turned higher, up about 0.5% by mid-morning (24/7 Wall St.).",
+      "momentum": 54
     }
   ],
   "watch_list": [
     {
-      "topic": "Whether the CoreWeave bounce holds at Wednesday's open",
-      "why": "AI-linked stocks led Tuesday's decline, and futures rose after CoreWeave's results; Nvidia remains under pressure.",
-      "confidence": "developing"
+      "topic": "Thursday: jobless claims, 30-year Treasury auction and earnings",
+      "why": "Bond trading resumes after Veterans Day, and Cisco, Applied Materials and Nebius report results.",
+      "confidence": "confirmed"
     },
     {
-      "topic": "Veterans Day on Wednesday",
-      "why": "The U.S. bond market is closed Wednesday, while stocks trade normally.",
+      "topic": "Friday: October producer prices",
+      "why": "Another inflation reading ahead of the Fed's Dec. 8–9 meeting, where a rate hike is widely expected.",
       "confidence": "confirmed"
     },
     {
       "topic": "Anthropic IPO",
-      "why": "The company set a $70 to $78 range for 825 million shares; trading is expected to begin around Nov. 19, though timing could change.",
+      "why": "The company set a $70 to $78 range, and shares could begin trading as soon as next week, though timing could change.",
       "confidence": "developing"
     }
   ],
   "sources": [
     {
+      "title": "Yahoo Finance — Stock market today: Nasdaq, S&P 500, Dow rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    },
+    {
+      "title": "TheStreet — Stock Market Today (Nov. 11, 2026): S&P 500 rises on CoreWeave earnings, AI rebound",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    },
+    {
+      "title": "24/7 Wall St. — S&P 500 Up 1.3% at Midday While the Dow Lags Behind",
+      "url": "https://247wallst.com/cards/the-nasdaq-is-up-nearly-2-at-midday-while-the-dow-sits-esse-gspc-market-bell-01m75ryqzvfnqaxj8qn8yw7tr9"
+    },
+    {
+      "title": "Nexo — Markets Today, November 11, 2026",
+      "url": "https://nexo.com/blog/markets-today-november-11"
+    },
+    {
       "title": "TheStreet — Stock Market Today (Nov. 10, 2026): Nasdaq falls after key inflation report derails strong start to week",
       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
-    },
-    {
-      "title": "Eurasia Business News — Dow Jones, Nasdaq, S&P 500 Fall on November 10, 2026; Oil and Gold Retreat",
-      "url": "https://eurasiabusinessnews.com/2026/11/11/stock-market-today-dow-jones-nasdaq-sp-500-fall-on-november-10-2026-oil-and-gold-retreat/"
-    },
-    {
-      "title": "24/7 Wall St. — US stocks closed lower; Technology lags while Financials and Communication Services lead",
-      "url": "https://247wallst.com/cards/us-stocks-closed-lower-technology-lags-while-financials-and-communication-servic-spy-market-explainer-01m73qyjzbtvqd6e7bax73kfa0"
-    },
-    {
-      "title": "Yahoo Finance — Nasdaq futures jump on CoreWeave earnings; hot CPI reinforces Fed hike bets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-tick-higher-011241932.html"
-    },
-    {
-      "title": "CoinDesk — Bitcoin barely flinches at hot U.S. CPI data as ETF selling slows",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows"
     }
   ]
 }
