@@ -1,115 +1,115 @@
 {
-  "generated_at": "Nov 11, 2026, 12:42 PM ET",
+  "generated_at": "Nov 11, 2026, 4:50 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $74,417, up about 1.4% over 24 hours (CoinGecko), recovering from a dip to about $72,700 on Tuesday."
+      "note": "About $74,489, up about 1.6% over 24 hours (CoinGecko), after dipping to around $73,800 overnight (KuCoin)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $2,089, up about 2.5% over 24 hours (CoinGecko), after trading between roughly $2,010 and $2,091."
+      "note": "About $2,076, up about 1.9% over 24 hours (CoinGecko), recovering from about $2,053 early Wednesday (KuCoin)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.56 trillion, up about 1.5% over 24 hours (CoinGecko)."
+      "note": "About $2.56 trillion, up about 0.7% over 24 hours, on roughly $66 billion in 24-hour trading volume (CoinGecko)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 58.5% by CoinGecko's measure; CoinMarketCap puts it near 60.4%."
+      "note": "About 58.5% by CoinGecko's measure."
     }
   ],
   "themes": [
     {
-      "title": "Crypto turns higher with stocks",
-      "summary": "Bitcoin lagged the early stock rebound but moved up by midday as the Nasdaq rose about 2% on an AI and chip rally led by CoreWeave.",
+      "title": "Crypto rises with stocks",
+      "summary": "Bitcoin rose about 1% to near $74,500 as the Nasdaq gained 1.6% on a chip and AI rally led by CoreWeave (Yahoo Finance).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Deutsche Bank launches crypto custody",
+      "summary": "Deutsche Bank opened a MiCA-regulated custody service for Bitcoin, Ether, USDC, EURC and EURAU for institutional clients across Europe; retail customers are excluded (Bitcoin.com News).",
       "confidence": "confirmed"
     },
     {
       "title": "ETF outflows slow",
-      "summary": "U.S. spot Bitcoin ETFs lost about $95 million on Tuesday, a fourth straight day of outflows but smaller than prior days; spot Ether ETF outflows fell to about $1.3 million Tuesday from $185 million Monday.",
+      "summary": "U.S. spot Bitcoin ETFs lost about $95 million on Tuesday, a fourth straight day of outflows but smaller than prior days (CoinDesk), after $201 million left on Monday (KuCoin).",
       "confidence": "confirmed"
     },
     {
       "title": "Rate-hike expectations weigh",
-      "summary": "After hotter-than-expected October CPI, a quarter-point Fed hike in December is the base case, which has lifted the dollar and yields.",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Futures positioning builds",
-      "summary": "Bitcoin futures open interest rose to about 493,000 BTC, the highest since Aug. 19, while liquidations jumped to about $725 million over 24 hours earlier in the day.",
+      "summary": "Hotter-than-expected October CPI (up 0.4% month over month) has lifted rate-hike expectations and Treasury yields, which tends to pressure risk assets (KuCoin).",
       "confidence": "confirmed"
     },
     {
       "title": "Sentiment stays fearful",
-      "summary": "CoinGecko's Fear & Greed gauge reads 'Fear' at 35, and CoinMarketCap's reads 25; Nexo described Bitcoin's overnight dip as a three-month low.",
+      "summary": "CoinGecko's Fear & Greed gauge reads 'Fear' at 35, up from a reading of 29 reported early Wednesday (KuCoin).",
       "confidence": "developing"
     }
   ],
   "categories": [
     {
-      "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin rose about 1.4% and Ether about 2.5% over 24 hours; Solana and Hyperliquid each rose about 3.1% (CoinGecko)."
+      "name": "Majors (BTC/ETH/SOL)",
+      "note": "Bitcoin rose about 1.6%, Ether 1.9% and Solana 2.6% over 24 hours, while XRP was flat near $1.06 (CoinGecko)."
     },
     {
       "name": "Privacy coins",
-      "note": "Zcash fell about 11.5% and Monero about 7.1% over 24 hours (CoinMarketCap), extending Tuesday's liquidation-driven decline."
+      "note": "Zcash fell about 11.1% over 24 hours to about $1,036 (CoinGecko), extending this week's liquidation-driven decline."
     },
     {
-      "name": "Memecoins / broad altcoins",
-      "note": "The CoinDesk Memecoin Index fell 1.2% early Wednesday and the Altcoin Season Index sat at 40; Pepe was up about 1.9% (CoinMarketCap)."
+      "name": "AI tokens",
+      "note": "CoinGecko's AI category rose about 2.9% over 24 hours, in step with the rebound in AI stocks."
     },
     {
-      "name": "Tokenized assets / RWA",
-      "note": "CoinMarketCap's Tokenized Assets category was up about 4.5% and Real World Assets Protocols about 3.0% over 24 hours."
+      "name": "Memecoins",
+      "note": "CoinGecko's Meme category was roughly flat, up about 0.3% over 24 hours."
     }
   ],
   "watch_list": [
     {
-      "topic": "Friday's October producer prices",
-      "why": "Another inflation reading ahead of the Fed's Dec. 8–9 meeting, where a rate hike is widely expected.",
+      "topic": "U.S. producer prices this week",
+      "why": "Another inflation reading after the hot October CPI, ahead of the Fed's December meeting where a hike is widely expected (KuCoin).",
       "confidence": "confirmed"
     },
     {
-      "topic": "Whether BTC holds above Tuesday's low near $72,700",
-      "why": "Options traders have been active in puts for Nov. 12–27 expiries, and Bitcoin is near a three-month low.",
+      "topic": "Whether BTC holds the $72,700–$73,000 area",
+      "why": "Analysts cite that zone as support, with $74,500–$75,000 as the level to reclaim for a recovery (KuCoin).",
       "confidence": "developing"
     },
     {
-      "topic": "ETF flows",
-      "why": "Outflows from spot Bitcoin and Ether ETFs have slowed; a return to inflows would signal buyers returning.",
+      "topic": "ETF flows and institutional adoption",
+      "why": "Spot ETF outflows have slowed; a return to inflows, along with uptake of new bank custody services like Deutsche Bank's, would signal buyers returning.",
       "confidence": "developing"
     }
   ],
   "movers": [
     {
+      "name": "aelf (ELF)",
+      "pct": 74.4,
+      "note": "Top 24-hour gainer among the top 1,000 coins (CoinGecko)."
+    },
+    {
+      "name": "Initia (INIT)",
+      "pct": 32.4,
+      "note": "Rallied despite a reported network attack and halt, helped by a short squeeze (KuCoin; CoinGecko)."
+    },
+    {
       "name": "Gram (GRAM)",
-      "pct": 7.47,
-      "note": "Top 24-hour gainer in the top 100 (CoinMarketCap) after Telegram's founder cited 700,000+ new wallets."
-    },
-    {
-      "name": "Pi (PI)",
-      "pct": 6.94,
-      "note": "Among the top 24-hour gainers in the top 100 (CoinMarketCap)."
-    },
-    {
-      "name": "Midnight (NIGHT)",
-      "pct": 5.79,
-      "note": "Among the top 24-hour gainers in the top 100 (CoinMarketCap)."
+      "pct": 9.8,
+      "note": "Formerly Toncoin; gained after reported growth in self-custodial wallets (CoinGecko; KuCoin)."
     },
     {
       "name": "Solana (SOL)",
-      "pct": 3.1,
-      "note": "About $85.31, among the strongest top-10 coins over 24 hours (CoinGecko)."
-    },
-    {
-      "name": "Arbitrum (ARB)",
-      "pct": -10.63,
-      "note": "Among the largest 24-hour decliners in the top 100 (CoinMarketCap)."
+      "pct": 2.6,
+      "note": "About $84.67, among the stronger large-cap coins over 24 hours (CoinGecko)."
     },
     {
       "name": "Zcash (ZEC)",
-      "pct": -11.49,
-      "note": "Among the largest 24-hour decliners in the top 100 (CoinMarketCap) amid long liquidations."
+      "pct": -11.1,
+      "note": "Among the largest 24-hour decliners among the top 1,000 coins (CoinGecko)."
+    },
+    {
+      "name": "Waves (WAVES)",
+      "pct": -15.5,
+      "note": "Among the largest 24-hour decliners among the top 1,000 coins (CoinGecko)."
     }
   ],
   "sources": [
@@ -118,27 +118,27 @@
       "url": "https://www.coingecko.com/"
     },
     {
-      "title": "CoinGecko — Ethereum Price: ETH/USD",
-      "url": "https://www.coingecko.com/en/coins/ethereum"
+      "title": "CoinGecko — Top Crypto Gainers & Losers Today",
+      "url": "https://www.coingecko.com/en/crypto-gainers-losers"
     },
     {
-      "title": "CoinMarketCap — Top Crypto Gainers and Losers Today",
-      "url": "https://coinmarketcap.com/gainers-losers/"
-    },
-    {
-      "title": "CoinMarketCap — Cryptocurrency Sectors by 24h Price Change",
-      "url": "https://coinmarketcap.com/cryptocurrency-category/"
+      "title": "CoinGecko — Top Crypto Categories",
+      "url": "https://www.coingecko.com/en/categories"
     },
     {
       "title": "CoinDesk — Bitcoin sits out stock rebound as ETF outflows continue: Crypto Markets Today",
       "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day"
     },
     {
-      "title": "Nexo — Markets Today, November 11, 2026",
-      "url": "https://nexo.com/blog/markets-today-november-11"
+      "title": "KuCoin — Crypto Daily Market Report, November 11, 2026",
+      "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-11-2026"
     },
     {
-      "title": "Yahoo Finance — Stock market today: Nasdaq, S&P 500, Dow rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings",
+      "title": "Bitcoin.com News — Deutsche Bank Brings Bitcoin Custody Into Its Institutional Banking Empire",
+      "url": "https://news.bitcoin.com/crypto-news/deutsche-bank-brings-bitcoin-custody-institutional-banking-empire/"
+    },
+    {
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq rise as chip stock rally rekindles AI trade",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
     }
   ]

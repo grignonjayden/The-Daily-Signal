@@ -1,105 +1,105 @@
 {
-  "generated_at": "Nov 11, 2026, 12:42 PM ET (Wednesday midday; markets still open)",
+  "generated_at": "Nov 11, 2026, 4:50 PM ET (Wednesday close)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "At 52,341.96 at 12:27 PM ET Wednesday, up 110.07 points or 0.21% (Yahoo Finance), lagging the other major indexes; it closed Tuesday at 52,231.89."
+      "note": "Closed Wednesday at 52,486.49, up 254.60 points or 0.49% (Yahoo Finance), the smallest gain of the three major indexes."
     },
     {
       "index": "S&P 500",
-      "note": "At 7,629.01 at 12:27 PM ET Wednesday, up 108.08 points or 1.44% (Yahoo Finance), after closing Tuesday at 7,520.93."
+      "note": "Closed at 7,619.38, up 98.45 points or 1.31% (Yahoo Finance), after Tuesday's decline following the October CPI report."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "At 25,599.52 at 12:27 PM ET Wednesday, up 533.64 points or 2.13% (Yahoo Finance), leading the major indexes after Tuesday's 0.74% drop."
+      "note": "Closed at 25,466.19, up 400.31 points or 1.60% (Yahoo Finance), led by chip and AI stocks and erasing its post-election losses."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "December crude was at $87.33 a barrel at 12:27 PM ET, up $1.29 or 1.50% (Yahoo Finance); Brent was at $92.70, up 1.32%, earlier in the morning (TheStreet)."
+      "note": "December crude settled near $86.41 a barrel, up $0.37 or 0.43% (Yahoo Finance), after trading near $87 in the afternoon (TheStreet)."
     }
   ],
   "themes": [
     {
       "title": "AI and chip stocks rebound",
-      "summary": "Tech led the market after two days of losses; 18 of the S&P 500's top 20 performers by late morning were tech names, according to TheStreet.",
+      "summary": "Tech carried the market after two days of losses; 18 of the S&P 500's top 20 performers in late morning were tech names (TheStreet), and SanDisk, Dell and Arm each closed up more than 11% (24/7 Wall St.).",
       "confidence": "confirmed"
     },
     {
       "title": "CoreWeave surges on results",
-      "summary": "CoreWeave rose about 25% to around $60.72 after third-quarter results and a raised outlook, lifting other AI infrastructure names such as Nebius, Bloom Energy and Lumentum.",
+      "summary": "CoreWeave closed up about 24% at $60.51 (24/7 Wall St.) after third-quarter revenue rose 168% to $3.7 billion and it raised its full-year outlook, though it still posted a $709 million net loss (TheStreet).",
       "confidence": "confirmed"
     },
     {
-      "title": "Nvidia recovers part of its slide",
-      "summary": "Nvidia rose about 4.5% to $176.30 but remains down about 14% in November; Baird downgraded it to Neutral, and its board is investigating reports involving CEO Jensen Huang.",
+      "title": "Nvidia snaps a two-day slide",
+      "summary": "Nvidia rose about 3% to $173.73 but remains down roughly 12% to 14% in November (Yahoo Finance); Baird downgraded it to Neutral and its board is investigating reports involving CEO Jensen Huang (TheStreet).",
       "confidence": "confirmed"
     },
     {
       "title": "Fed hike still expected in December",
-      "summary": "After Tuesday's hotter-than-expected October CPI, a quarter-point hike in December is the base case, with about 11% odds of a half-point move; the bond market is closed for Veterans Day.",
+      "summary": "After Tuesday's hotter-than-expected October CPI, traders see a December rate hike as nearly fully priced in, with about an 11% chance of a half-point move (TheStreet); the bond market was closed for Veterans Day.",
       "confidence": "confirmed"
     },
     {
-      "title": "Oil rises on Iran tensions",
-      "summary": "Crude gained after Iran said it would not give up enriched nuclear material and an oil tanker reportedly hit a mine in the Strait of Hormuz.",
+      "title": "Oil edges up on Iran tensions",
+      "summary": "Crude posted a small gain as Iran's stance on the Strait of Hormuz kept supply concerns in focus (24/7 Wall St.); WTI remains well below the $100-plus levels seen before the midterm elections (TheStreet).",
       "confidence": "developing"
     }
   ],
   "sectors": [
     {
       "name": "Technology",
-      "note": "The top sector, up about 3.0% in the morning (24/7 Wall St.), led by semiconductors and AI cloud providers.",
+      "note": "The top sector, up about 3.0% in the morning (24/7 Wall St.), led by semiconductors, storage and AI cloud names; Coherent and Monolithic Power gained more than 13% midday (TheStreet).",
       "momentum": 85
     },
     {
       "name": "Energy / Industrials",
-      "note": "Energy rose about 1.6% and industrials about 0.8% in the morning as oil prices climbed.",
-      "momentum": 66
+      "note": "Energy rose about 1.6% and industrials about 0.8% in the morning (24/7 Wall St.), with Bloom Energy closing up 12.5%.",
+      "momentum": 64
     },
     {
       "name": "Health Care / Consumer Staples / Consumer Discretionary",
-      "note": "The laggards, down about 0.7%, 0.5% and 0.4% respectively in the morning; Clorox, lululemon and Airbnb were among notable decliners.",
+      "note": "The laggards, down about 0.7%, 0.5% and 0.4% respectively in the morning (24/7 Wall St.); Lululemon, Clorox, Brown-Forman and Airbnb were among notable decliners (TheStreet).",
       "momentum": 38
     },
     {
       "name": "Small Caps",
-      "note": "The Russell 2000 opened down 0.68% (TheStreet) but turned higher, up about 0.5% by mid-morning (24/7 Wall St.).",
-      "momentum": 54
+      "note": "The Russell 2000 opened down 0.68% (TheStreet) but finished up 0.79% at 2,848.04 (24/7 Wall St.).",
+      "momentum": 57
     }
   ],
   "watch_list": [
     {
-      "topic": "Thursday: jobless claims, 30-year Treasury auction and earnings",
-      "why": "Bond trading resumes after Veterans Day, and Cisco, Applied Materials and Nebius report results.",
+      "topic": "Thursday: bond market reopens and earnings",
+      "why": "Treasury trading resumes after Veterans Day and the CPI-driven jump in yields; Nebius reports before the bell (Yahoo Finance) and Cisco reports this week (KuCoin).",
       "confidence": "confirmed"
     },
     {
-      "topic": "Friday: October producer prices",
-      "why": "Another inflation reading ahead of the Fed's Dec. 8–9 meeting, where a rate hike is widely expected.",
+      "topic": "U.S. producer prices this week",
+      "why": "Another inflation reading after the hot October CPI, ahead of the Fed's December meeting where a hike is widely expected.",
       "confidence": "confirmed"
     },
     {
       "topic": "Anthropic IPO",
-      "why": "The company set a $70 to $78 range, and shares could begin trading as soon as next week, though timing could change.",
+      "why": "The offering is reportedly targeting a valuation of about $1.4 trillion, with trading possibly starting next week; timing could change (Yahoo Finance).",
       "confidence": "developing"
     }
   ],
   "sources": [
     {
-      "title": "Yahoo Finance — Stock market today: Nasdaq, S&P 500, Dow rise as Nvidia stock recovers, chip stocks rally after CoreWeave earnings",
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq rise as chip stock rally rekindles AI trade",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
     },
     {
-      "title": "TheStreet — Stock Market Today (Nov. 11, 2026): S&P 500 rises on CoreWeave earnings, AI rebound",
+      "title": "TheStreet — Stock Market Today (Nov. 11, 2026): Nasdaq, S&P 500 gain after CoreWeave earnings beat",
       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
     },
     {
-      "title": "24/7 Wall St. — S&P 500 Up 1.3% at Midday While the Dow Lags Behind",
-      "url": "https://247wallst.com/cards/the-nasdaq-is-up-nearly-2-at-midday-while-the-dow-sits-esse-gspc-market-bell-01m75ryqzvfnqaxj8qn8yw7tr9"
+      "title": "24/7 Wall St. — S&P 500 Closes Up 1.3% as Tech Pulls the Market Higher",
+      "url": "https://247wallst.com/cards/tech-did-the-heavy-lifting-again-the-nasdaq-s-1-55-close-m-gspc-market-bell-01m766s5wqxj8egm37q8ks13gp"
     },
     {
-      "title": "Nexo — Markets Today, November 11, 2026",
-      "url": "https://nexo.com/blog/markets-today-november-11"
+      "title": "KuCoin — Crypto Daily Market Report, November 11, 2026",
+      "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-11-2026"
     },
     {
       "title": "TheStreet — Stock Market Today (Nov. 10, 2026): Nasdaq falls after key inflation report derails strong start to week",
