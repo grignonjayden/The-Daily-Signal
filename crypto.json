@@ -1,145 +1,145 @@
 {
-  "generated_at": "Nov 12, 2026, 7:35 AM ET",
+  "generated_at": "Nov 12, 2026, 12:40 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $73,583, down about 0.46% over 24 hours (CoinCodex), after trading between roughly $73,358 and $74,771 (KuCoin)."
+      "note": "About $71,842, down about 3.5% over 24 hours (CoinDesk), after touching a low near $71,635 (Coinpedia)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $2,045, down about 1.16% over 24 hours (CoinCodex)."
+      "note": "About $2,012, down about 3.7% over 24 hours, after briefly slipping below $2,000 (CoinDesk; Coinpedia)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.51 trillion, down about 0.49% over 24 hours, on roughly $60 billion in 24-hour trading volume (CoinGecko)."
+      "note": "Nearly $2.48 trillion, down more than $560 billion from about $3.04 trillion on Sept. 22 (Coinpedia)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 59.0% by CoinGecko's measure (CoinCodex puts it at 60.5%)."
+      "note": "About 58% to 60%: 59.9% early Thursday by TokenPost's measure and 58.4% on CoinGecko."
     }
   ],
   "themes": [
     {
-      "title": "Crypto slips with tech futures",
-      "summary": "Bitcoin eased below $74,000 early Thursday as Nasdaq futures fell on reports that Nvidia's board was weighing CEO Jensen Huang's future (Yahoo Finance).",
+      "title": "Crypto slides with Nvidia shock",
+      "summary": "Bitcoin fell below $72,000 as Nvidia CEO Jensen Huang's resignation rattled AI and tech stocks (CoinDesk; Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "ETF outflows widen",
-      "summary": "U.S. spot Bitcoin ETFs saw about $300 million in net outflows on Nov. 11, a fifth straight day, while spot Ether ETFs lost about $145 million, mostly from BlackRock's ETHA (KuCoin).",
+      "title": "Strategy to be removed from MSCI indexes",
+      "summary": "MSCI said Strategy (MSTR) will be removed from its global equity indexes after the close on Nov. 30, which could prompt selling by index funds; the stock fell about 6% to 7% (CoinDesk; Reuters via Kitco).",
       "confidence": "confirmed"
     },
     {
-      "title": "Stablecoin supply shrinks",
-      "summary": "Stablecoin supply fell about $14.2 billion over 30 days, the largest decline since 2022, according to Glassnode data cited by KuCoin.",
+      "title": "Rising yields weigh on risk assets",
+      "summary": "The 10-year Treasury yield moved above 5% and markets put about a 94% chance on a quarter-point Fed hike Dec. 9 (CoinDesk).",
       "confidence": "confirmed"
     },
     {
-      "title": "Rate-hike worries persist",
-      "summary": "Hot October inflation data has kept a December Fed hike in view, with October producer prices due Friday (KuCoin).",
+      "title": "ETF outflows continue",
+      "summary": "U.S. spot bitcoin ETFs lost about $300 million on Wednesday, nearly $270 million of it from BlackRock's IBIT, and ether ETFs lost about $145 million (CoinDesk, citing SoSoValue).",
       "confidence": "confirmed"
     },
     {
-      "title": "Sentiment in fear",
-      "summary": "The Fear & Greed Index reads 28, down from 29, and daily RSI near 29.5 is in oversold territory (KuCoin).",
+      "title": "Leveraged positions flushed",
+      "summary": "About $750 million in crypto positions were liquidated over 24 hours as prices fell (Coinpedia).",
       "confidence": "developing"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin fell about 0.5% and Ether about 1.2% over 24 hours, though 87% of the top coins posted gains in the same window (CoinCodex)."
+      "note": "Bitcoin and Ether both fell about 3.5% to 3.7% over 24 hours; Ether is down about 24% this quarter versus about 12% for Bitcoin (CoinDesk)."
+    },
+    {
+      "name": "Large-cap altcoins",
+      "note": "XRP fell about 4% and Solana about 4.5% over 24 hours (CoinDesk); XRP is down about 22% this week (Coinpedia)."
     },
     {
       "name": "Memecoins",
-      "note": "Pepe was among the weakest large coins, down about 14.5% over 24 hours (CoinCodex)."
+      "note": "Pepe was among the weakest coins again, down about 15.8% over 24 hours (CoinGecko)."
     },
     {
-      "name": "Exchange and DeFi tokens",
-      "note": "OKB rose about 5% and Hyperliquid (HYPE) about 4% over 24 hours (KuCoin)."
-    },
-    {
-      "name": "Tokenization",
-      "note": "The OKX–ICE tokenized securities platform is scheduled to launch Nov. 23, and tokenized assets remain a key industry theme (KuCoin)."
+      "name": "Crypto-linked stocks",
+      "note": "Strategy fell on the MSCI decision, and bitcoin miners and AI hosts IREN, Applied Digital and Core Scientific fell 3% to 5% (Reuters via Kitco)."
     }
   ],
   "watch_list": [
     {
       "topic": "U.S. producer prices on Friday",
-      "why": "Another inflation reading ahead of the Fed's December meeting, followed by remarks from Fed Vice Chair Philip Jefferson on Saturday (KuCoin).",
+      "why": "Another inflation reading ahead of the Fed's Dec. 9 meeting, where a rate hike is widely expected (CoinDesk; Reuters via Kitco).",
       "confidence": "confirmed"
     },
     {
-      "topic": "Whether BTC holds about $73,300",
-      "why": "Analysts flag $73.3K as a level to hold, with the recent low near $72.7K below and $74K–$74.8K as the area to reclaim (KuCoin).",
+      "topic": "Whether BTC holds the low $70,000s",
+      "why": "Bitcoin is trading just above $71,000, with $70,000 being watched as the next support area (CoinDesk; crypto.news).",
       "confidence": "developing"
     },
     {
-      "topic": "Token unlocks and ETF flows",
-      "why": "A RAIN unlock of about $197 million (5.08% of supply) is due Thursday; a return to ETF inflows would signal buyers coming back (KuCoin).",
-      "confidence": "developing"
+      "topic": "Strategy index exit and Nvidia results",
+      "why": "Strategy's MSCI removal takes effect after the Nov. 30 close, and Nvidia reports results Nov. 17, both of which could affect sentiment (CoinDesk).",
+      "confidence": "confirmed"
     }
   ],
   "movers": [
     {
       "name": "Ozone Chain (OZO)",
-      "pct": 67.61,
-      "note": "Top 24-hour gainer among the top 200 coins (CoinCodex)."
+      "pct": 67.4,
+      "note": "Top 24-hour gainer among the top 1,000 coins (CoinGecko)."
     },
     {
-      "name": "Midnight (NIGHT)",
-      "pct": 6.61,
-      "note": "About $0.046 after a 24-hour gain (CoinCodex)."
+      "name": "Bitcoin (BTC)",
+      "pct": -3.51,
+      "note": "About $71,842 (CoinDesk)."
     },
     {
-      "name": "OKB (OKB)",
-      "pct": 5.0,
-      "note": "Approximate 24-hour gain, amid news of the OKX–ICE tokenization platform (KuCoin)."
+      "name": "Ethereum (ETH)",
+      "pct": -3.72,
+      "note": "About $2,012 (CoinDesk)."
     },
     {
-      "name": "Hyperliquid (HYPE)",
-      "pct": 4.0,
-      "note": "Approximate 24-hour gain (KuCoin)."
+      "name": "XRP (XRP)",
+      "pct": -4.01,
+      "note": "About $1.03 (CoinDesk)."
     },
     {
-      "name": "MultiversX (EGLD)",
-      "pct": -11.7,
-      "note": "Among the largest 24-hour decliners in the top 200 (CoinCodex)."
+      "name": "Solana (SOL)",
+      "pct": -4.45,
+      "note": "About $81.51 (CoinDesk)."
     },
     {
-      "name": "Pepe (PEPE)",
-      "pct": -14.51,
-      "note": "Largest 24-hour decliner in the top 200 (CoinCodex)."
+      "name": "Initia (INIT)",
+      "pct": -43.1,
+      "note": "Largest 24-hour decliner among the top 1,000 coins (CoinGecko)."
     }
   ],
   "sources": [
     {
-      "title": "CoinGecko — Global Cryptocurrency Market Cap Charts",
-      "url": "https://www.coingecko.com/en/global-charts"
+      "title": "CoinDesk — Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
+      "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
     },
     {
-      "title": "CoinCodex — Daily Market Update for Nov 12, 2026",
-      "url": "https://coincodex.com/article/95266/daily-market-update-for-november-12-2026/"
+      "title": "Coinpedia — Why Is Crypto Crashing? $560 Billion Wiped Out as Bitcoin Price Falls Below $72K",
+      "url": "https://coinpedia.org/news/why-is-crypto-crashing-560-billion-wiped-out-as-bitcoin-price-falls-below-72k/"
     },
     {
-      "title": "KuCoin — Crypto Daily Market Report, November 12, 2026",
-      "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-12-2026"
+      "title": "TokenPost — Crypto Market Cap Falls 2.90% to $2.46 Trillion as Tokens Decline",
+      "url": "https://www.tokenpost.com/news/investing/55357"
     },
     {
-      "title": "KuCoin — BTC Spot, Futures & Market Structure, November 12, 2026",
-      "url": "https://www.kucoin.com/news/insight/BTC/6af579f8777a440007552bfa"
+      "title": "CoinGecko — Top Crypto Gainers & Losers Today",
+      "url": "https://www.coingecko.com/en/crypto-gainers-losers"
     },
     {
-      "title": "KuCoin — Bitcoin and Ethereum ETFs Record $445M in Outflows on November 11",
-      "url": "https://www.kucoin.com/news/flash/bitcoin-and-ethereum-etfs-record-445m-in-outflows-on-november-11"
+      "title": "crypto.news — Bitcoin falls below $72,000 as $70,000 comes into focus",
+      "url": "https://crypto.news/bitcoin-price-below-72000-weekly-support-70000"
     },
     {
-      "title": "Yahoo Finance — Stock market today: S&P 500, Nasdaq futures sink as Nvidia CEO turmoil jolts confidence",
+      "title": "Reuters via Kitco — S&P 500, Nasdaq fall as Nvidia CEO's exit rattles AI stocks",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-12/sp-500-nasdaq-fall-nvidia-ceos-exit-rattles-ai-stocks"
+    },
+    {
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia stock slides after CEO Jensen Huang resigns",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
-    },
-    {
-      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq rise as chip stock rally rekindles AI trade",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
     }
   ]
 }
