@@ -1,117 +1,117 @@
 {
-  "generated_at": "Nov 12, 2026, 12:40 PM ET (Wednesday close; Thursday midday)",
+  "generated_at": "Nov 12, 2026, 4:50 PM ET (Thursday close)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Last closed Wednesday at 52,486.49, up 0.49% (Yahoo Finance). Up about 0.4% around midday Thursday (TipRanks)."
+      "note": "Closed Thursday at 52,297.09, down 189.40 points or 0.36% (Yahoo Finance)."
     },
     {
       "index": "S&P 500",
-      "note": "Last closed Wednesday at 7,619.38, up 1.31% (Yahoo Finance). Opened lower Thursday, down 0.29% at 7,597.32 shortly after the open (Reuters via Kitco), then turned up about 0.15% around midday (TipRanks)."
+      "note": "Closed Thursday at 7,592.40, down 26.98 points or 0.35% (Yahoo Finance), after an early dip and a midday move into positive territory. 24/7 Wall St. reported a slightly larger decline of about 0.43%."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Last closed Wednesday at 25,466.19, up 1.60% (Yahoo Finance). Down 0.56% at 25,322.31 shortly after Thursday's open (Reuters via Kitco); the Nasdaq 100 was about flat around midday (TipRanks)."
+      "note": "Closed Thursday at 25,366.09, down 100.10 points or 0.39% (Yahoo Finance), as rate-hike expectations weighed on growth stocks (24/7 Wall St.)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "December crude settled Wednesday near $86.41, up 0.43% (Yahoo Finance), and was up about 0.32% at $86.81 around midday Thursday; Brent rose 1.14% to $93.82 (TipRanks)."
+      "note": "Rose about 2.8% to near $88.95 a barrel Thursday, a second straight gain after a ten-week low near $86 on Nov. 10 (Trading Economics). Brent traded above $94, up about 1.4% (The Private Banker, citing Bloomberg)."
     }
   ],
   "themes": [
     {
-      "title": "Jensen Huang resigns as Nvidia CEO",
-      "summary": "Huang stepped down as president, CEO and board member effective immediately; CFO Colette Kress is interim CEO while a permanent successor is sought (Yahoo Finance; Nvidia 8-K). Nvidia fell as much as 14% at the open before trimming losses to about 5% to 8% (Yahoo Finance; TipRanks).",
+      "title": "Nvidia falls after Jensen Huang resigns",
+      "summary": "Nvidia closed at $166.19, down 4.34%, after CEO Jensen Huang stepped down; the stock had fallen as much as 13% to 14% early before recovering more than half of the loss (Yahoo Finance; 24/7 Wall St.).",
       "confidence": "confirmed"
     },
     {
-      "title": "Indexes recover from early dip",
-      "summary": "The S&P 500 and Nasdaq opened lower as tech and chip stocks fell, but broader indexes turned higher by midday, helped by gains in AMD (about +7%) and Broadcom (about +5%) (Reuters via Kitco; TipRanks).",
-      "confidence": "developing"
-    },
-    {
-      "title": "AI infrastructure names under pressure",
-      "summary": "Nebius fell about 16% to 17% after saying 2026 revenue would land at the low end of its forecast, and CoreWeave fell about 7% (Reuters via Kitco; TipRanks).",
+      "title": "10-year yield climbs above 5%",
+      "summary": "The 10-year Treasury yield rose about 10 basis points to 5.10%, briefly touching 5.12%, as markets priced in a possible Fed rate hike in December after a hotter-than-expected October inflation report (Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "10-year yield above 5%",
-      "summary": "The 10-year Treasury yield climbed above 5% and the 2-year rose about 7 basis points to 4.80% as markets priced a December Fed rate hike as all but certain (CoinDesk; Reuters via Kitco).",
+      "title": "Oil jumps on Trump's Iran remarks",
+      "summary": "Crude reversed early losses after President Trump said the U.S. no longer needs a deal with Iran, clouding a plan to reopen the Strait of Hormuz (Trading Economics; The Private Banker).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Chipmakers split",
+      "summary": "Broadcom rose 5.5% and AMD gained 5.3%, while Intel and Micron fell and Applied Materials slipped ahead of its earnings report (24/7 Wall St.; Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
       "title": "Jobless claims tick up",
-      "summary": "Initial jobless claims rose 9,000 to 200,000 for the week ended Nov. 7, above the 195,000 expected; continuing claims fell to about 1.7 million (Yahoo Finance).",
+      "summary": "Initial jobless claims rose 9,000 to 200,000 for the week ended Nov. 7, above the 195,000 expected; the four-week average was 195,250 (Yahoo Finance).",
       "confidence": "confirmed"
     }
   ],
   "sectors": [
     {
       "name": "Technology",
-      "note": "The S&P 500 tech sector fell about 1.3% early Thursday, with the semiconductor index also down 1.3% and Intel, Marvell and Micron off 2.8% to 4.2% (Reuters via Kitco).",
-      "momentum": 45
-    },
-    {
-      "name": "Communication Services / Mega-caps",
-      "note": "Amazon rose about 2.3%, while Alphabet, Microsoft and Apple traded slightly higher early Thursday (Reuters via Kitco).",
-      "momentum": 58
+      "note": "Tech was the weakest S&P 500 sector in the morning, down about 0.9% at 10:30 a.m. ET, with Nvidia's drop offset in part by gains in Broadcom and AMD (24/7 Wall St.; Yahoo Finance).",
+      "momentum": 44
     },
     {
       "name": "Energy",
-      "note": "Oil edged higher Thursday, with Brent up about 1.1% (TipRanks); six of 11 major S&P sectors were positive early in the session (Reuters via Kitco).",
-      "momentum": 56
+      "note": "Energy led the sectors in the morning, up about 0.9% at 10:30 a.m. ET, as oil rose; Equinor gained 3.4% (24/7 Wall St.).",
+      "momentum": 62
     },
     {
       "name": "Small Caps",
-      "note": "The Russell 2000 was down about 0.6% at 2,829.29 Thursday as yields rose (Yahoo Finance), after closing up 0.79% Wednesday (24/7 Wall St.).",
-      "momentum": 42
+      "note": "The Russell 2000 fell 1.66% to 2,799.06, underperforming the large-cap indexes as yields rose (Yahoo Finance).",
+      "momentum": 36
+    },
+    {
+      "name": "Speculative Growth",
+      "note": "Archer Aviation and Lucid fell about 11%, IonQ fell 9.5% and Joby Aviation fell 8.9% (24/7 Wall St.).",
+      "momentum": 30
     }
   ],
   "watch_list": [
     {
-      "topic": "Cisco and Applied Materials earnings",
-      "why": "Both report after Thursday's close; analysts expect Cisco revenue of about $18.1 billion (TipRanks; Yahoo Finance).",
-      "confidence": "confirmed"
-    },
-    {
-      "topic": "Nvidia leadership and Nov. 17 results",
-      "why": "Nvidia has named only an interim CEO and reports quarterly results Nov. 17; Bernstein and Baird downgraded the stock to Hold (CoinDesk; TipRanks).",
+      "topic": "Cisco and Applied Materials results",
+      "why": "Both reported after Thursday's close, so Friday's trading will show the first full reaction to their results (Yahoo Finance).",
       "confidence": "developing"
     },
     {
+      "topic": "Nvidia earnings and Anthropic IPO",
+      "why": "Nvidia reports results Tuesday, Nov. 17, and the Anthropic IPO is set to price Wednesday, Nov. 18, with trading expected Nov. 19 (Yahoo Finance).",
+      "confidence": "confirmed"
+    },
+    {
       "topic": "Producer prices on Friday",
-      "why": "October PPI could shape inflation expectations after a hotter-than-expected CPI, ahead of the Fed's Dec. 9 meeting (Reuters via Kitco; CoinDesk).",
+      "why": "The October PPI report is due Friday morning and is another inflation reading ahead of the Fed's December meeting (The Crypto Desk; Yahoo Finance).",
       "confidence": "confirmed"
     }
   ],
   "sources": [
     {
-      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia stock slides after CEO Jensen Huang resigns",
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq slip as Nvidia stock falls on CEO exit, bond yields rise",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     },
     {
-      "title": "Reuters via Kitco — S&P 500, Nasdaq fall as Nvidia CEO's exit rattles AI stocks",
-      "url": "https://www.kitco.com/news/off-the-wire/2026-11-12/sp-500-nasdaq-fall-nvidia-ceos-exit-rattles-ai-stocks"
+      "title": "24/7 Wall St. — S&P 500 Closes Down 0.43% as Rate-Hike Odds Weigh on Growth Stocks",
+      "url": "https://247wallst.com/cards/rate-hike-odds-are-doing-the-damage-and-the-nasdaq-s-0-61-gspc-market-bell-01m78s60347w0kk4y4pfd5e2p6"
     },
     {
-      "title": "TipRanks — Stocks Recover as Nvidia Falls Following Jensen Huang's Resignation",
-      "url": "https://www.tipranks.com/news/stocks-recover-as-nvidia-falls-following-jensen-huangs-resignation"
+      "title": "Trading Economics — Crude Oil",
+      "url": "https://tradingeconomics.com/commodity/crude-oil"
     },
     {
-      "title": "Nvidia — Form 8-K: NVIDIA announces CEO transition (SEC)",
-      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+      "title": "The Private Banker — Oil Jumps Above $94 After Trump Says US Doesn't Need an Iran Deal",
+      "url": "https://leprivatebanker.com/2026/11/12/oil-jumps-above-94-after-trump-says-us-doesnt-need-an-iran-deal-clouding-a-qatari-plan-to-reopen-hormuz/"
     },
     {
-      "title": "CoinDesk — Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
-      "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
+      "title": "Bloomberg — Oil Prices Rise After Trump Says US Doesn't Need Iran Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/oil-jumps-after-trump-says-us-doesn-t-need-deal-with-iran"
     },
     {
-      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq rise as chip stock rally rekindles AI trade",
+      "title": "The Crypto Desk — Thursday, 12 November 2026",
+      "url": "https://thecryptodesk.substack.com/p/the-crypto-desk-thursday-12-november"
+    },
+    {
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq rise as chip stock rally rekindles AI trade (Wednesday)",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
-    },
-    {
-      "title": "24/7 Wall St. — S&P 500 Closes Up 1.3% as Tech Pulls the Market Higher",
-      "url": "https://247wallst.com/cards/tech-did-the-heavy-lifting-again-the-nasdaq-s-1-55-close-m-gspc-market-bell-01m766s5wqxj8egm37q8ks13gp"
     }
   ]
 }

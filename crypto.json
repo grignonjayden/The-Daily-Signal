@@ -1,144 +1,144 @@
 {
-  "generated_at": "Nov 12, 2026, 12:40 PM ET",
+  "generated_at": "Nov 12, 2026, 4:50 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $71,842, down about 3.5% over 24 hours (CoinDesk), after touching a low near $71,635 (Coinpedia)."
+      "note": "About $71,652, down about 3.9% over 24 hours as of 12:20 PM ET, in a 24-hour range of $71,238 to $74,695 (Cryptonro). CoinDesk's ticker showed about $71,518, down 3.8%."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $2,012, down about 3.7% over 24 hours, after briefly slipping below $2,000 (CoinDesk; Coinpedia)."
+      "note": "About $2,004, down about 4.2% over 24 hours as of 12:20 PM ET (Cryptonro)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "Nearly $2.48 trillion, down more than $560 billion from about $3.04 trillion on Sept. 22 (Coinpedia)."
+      "note": "About $2.42 trillion, down about 5.7% over 24 hours as of 3:47 PM ET (TokenPost); CoinGecko showed about $2.49 trillion, down 3.3%."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 58% to 60%: 59.9% early Thursday by TokenPost's measure and 58.4% on CoinGecko."
+      "note": "About 58% to 60%: 59.47% by TokenPost's 3:47 PM ET measure and 57.74% on CoinGecko."
     }
   ],
   "themes": [
     {
-      "title": "Crypto slides with Nvidia shock",
-      "summary": "Bitcoin fell below $72,000 as Nvidia CEO Jensen Huang's resignation rattled AI and tech stocks (CoinDesk; Yahoo Finance).",
+      "title": "Crypto falls with tech stocks",
+      "summary": "Bitcoin dropped below $72,000 as Nvidia CEO Jensen Huang's resignation and rising Treasury yields hit risk assets; it is down about 8% in November (Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "Strategy to be removed from MSCI indexes",
-      "summary": "MSCI said Strategy (MSTR) will be removed from its global equity indexes after the close on Nov. 30, which could prompt selling by index funds; the stock fell about 6% to 7% (CoinDesk; Reuters via Kitco).",
+      "title": "Bitcoin below its 50-week average",
+      "summary": "BTC fell below its 50-week moving average near $75,153, reversing a September breakout that some analysts had read as the start of a new rally (CoinDesk).",
       "confidence": "confirmed"
     },
     {
-      "title": "Rising yields weigh on risk assets",
-      "summary": "The 10-year Treasury yield moved above 5% and markets put about a 94% chance on a quarter-point Fed hike Dec. 9 (CoinDesk).",
+      "title": "Stronger dollar and Fed hike expectations",
+      "summary": "The U.S. Dollar Index briefly topped 103, its highest since March 2025, and markets have largely priced in a December Fed rate increase (CoinDesk).",
       "confidence": "confirmed"
     },
     {
-      "title": "ETF outflows continue",
-      "summary": "U.S. spot bitcoin ETFs lost about $300 million on Wednesday, nearly $270 million of it from BlackRock's IBIT, and ether ETFs lost about $145 million (CoinDesk, citing SoSoValue).",
+      "title": "Fifth straight day of ETF outflows",
+      "summary": "U.S. spot bitcoin ETFs lost about $300 million on Wednesday, nearly $270 million of it from BlackRock's IBIT, and ether ETFs lost about $145 million (The Crypto Desk, citing SoSoValue).",
       "confidence": "confirmed"
     },
     {
-      "title": "Leveraged positions flushed",
-      "summary": "About $750 million in crypto positions were liquidated over 24 hours as prices fell (Coinpedia).",
+      "title": "Stablecoin supply shrinking",
+      "summary": "Glassnode data show stablecoin supply fell about $14.2 billion in the 30 days to Nov. 9, the fastest contraction since June 2022 (The Crypto Desk).",
       "confidence": "developing"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin and Ether both fell about 3.5% to 3.7% over 24 hours; Ether is down about 24% this quarter versus about 12% for Bitcoin (CoinDesk)."
+      "note": "Bitcoin fell about 3.9% and Ether about 4.2% over 24 hours as of midday ET (Cryptonro)."
     },
     {
       "name": "Large-cap altcoins",
-      "note": "XRP fell about 4% and Solana about 4.5% over 24 hours (CoinDesk); XRP is down about 22% this week (Coinpedia)."
+      "note": "Solana fell about 5.1%, XRP 5.1%, BNB 4.9%, Dogecoin 5.4% and Cardano 5.5% over 24 hours (Cryptonro)."
     },
     {
-      "name": "Memecoins",
-      "note": "Pepe was among the weakest coins again, down about 15.8% over 24 hours (CoinGecko)."
+      "name": "DeFi",
+      "note": "Arbitrum fell about 9.6%, Ethena 9.5% and Aave 8.5% over the 24 hours to 11:05 a.m. ET; 76 of the top 90 coins declined (TokenPost)."
     },
     {
       "name": "Crypto-linked stocks",
-      "note": "Strategy fell on the MSCI decision, and bitcoin miners and AI hosts IREN, Applied Digital and Core Scientific fell 3% to 5% (Reuters via Kitco)."
+      "note": "Strategy (MSTR) fell as much as 6% after MSCI said it will remove the company from its indexes (Yahoo Finance)."
     }
   ],
   "watch_list": [
     {
       "topic": "U.S. producer prices on Friday",
-      "why": "Another inflation reading ahead of the Fed's Dec. 9 meeting, where a rate hike is widely expected (CoinDesk; Reuters via Kitco).",
+      "why": "The October PPI report is due Friday at 8:30 AM ET and could shape expectations for the Fed's December decision (The Crypto Desk; CoinDesk).",
       "confidence": "confirmed"
     },
     {
-      "topic": "Whether BTC holds the low $70,000s",
-      "why": "Bitcoin is trading just above $71,000, with $70,000 being watched as the next support area (CoinDesk; crypto.news).",
+      "topic": "Key bitcoin levels",
+      "why": "Wintermute says $68,000 is the next level down it is watching and that reclaiming $80,000 would change its cautious view (CoinDesk).",
       "confidence": "developing"
     },
     {
-      "topic": "Strategy index exit and Nvidia results",
-      "why": "Strategy's MSCI removal takes effect after the Nov. 30 close, and Nvidia reports results Nov. 17, both of which could affect sentiment (CoinDesk).",
+      "topic": "FOMC minutes and Strategy index exit",
+      "why": "Minutes from the Fed's October meeting are due Nov. 18, and MSCI removes Strategy from its global standard indexes after the Nov. 30 close (The Crypto Desk).",
       "confidence": "confirmed"
     }
   ],
   "movers": [
     {
-      "name": "Ozone Chain (OZO)",
-      "pct": 67.4,
-      "note": "Top 24-hour gainer among the top 1,000 coins (CoinGecko)."
+      "name": "Gram (GRAM)",
+      "pct": 7.96,
+      "note": "Biggest gainer among the top 90 coins, about $1.27, in the 24 hours to 11:05 a.m. ET (TokenPost)."
     },
     {
       "name": "Bitcoin (BTC)",
-      "pct": -3.51,
-      "note": "About $71,842 (CoinDesk)."
+      "pct": -3.94,
+      "note": "About $71,652 as of 12:20 PM ET (Cryptonro)."
     },
     {
       "name": "Ethereum (ETH)",
-      "pct": -3.72,
-      "note": "About $2,012 (CoinDesk)."
+      "pct": -4.24,
+      "note": "About $2,004 as of 12:20 PM ET (Cryptonro)."
     },
     {
       "name": "XRP (XRP)",
-      "pct": -4.01,
-      "note": "About $1.03 (CoinDesk)."
+      "pct": -5.12,
+      "note": "About $1.02 as of 12:20 PM ET (Cryptonro)."
     },
     {
       "name": "Solana (SOL)",
-      "pct": -4.45,
-      "note": "About $81.51 (CoinDesk)."
+      "pct": -5.06,
+      "note": "About $81.10 as of 12:20 PM ET (Cryptonro)."
     },
     {
-      "name": "Initia (INIT)",
-      "pct": -43.1,
-      "note": "Largest 24-hour decliner among the top 1,000 coins (CoinGecko)."
+      "name": "Pepe (PEPE)",
+      "pct": -12.39,
+      "note": "Steepest decline among the top 90 coins in the 24 hours to 11:05 a.m. ET (TokenPost)."
     }
   ],
   "sources": [
     {
-      "title": "CoinDesk — Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
-      "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
+      "title": "Cryptonro — Crypto Market Today, 12 November 2026",
+      "url": "https://cryptonro.com/articles/crypto-market-today-2026-11-12"
     },
     {
-      "title": "Coinpedia — Why Is Crypto Crashing? $560 Billion Wiped Out as Bitcoin Price Falls Below $72K",
-      "url": "https://coinpedia.org/news/why-is-crypto-crashing-560-billion-wiped-out-as-bitcoin-price-falls-below-72k/"
+      "title": "TokenPost — Crypto Market Capitalization Falls 5.72% in Thursday Snapshot",
+      "url": "https://www.tokenpost.com/news/investing/55915"
     },
     {
-      "title": "TokenPost — Crypto Market Cap Falls 2.90% to $2.46 Trillion as Tokens Decline",
-      "url": "https://www.tokenpost.com/news/investing/55357"
+      "title": "TokenPost — Pepe Leads Crypto Losses as 76 of 90 Assets Fall in Nov. 12 Snapshot",
+      "url": "https://www.tokenpost.com/news/investing/55832"
     },
     {
-      "title": "CoinGecko — Top Crypto Gainers & Losers Today",
-      "url": "https://www.coingecko.com/en/crypto-gainers-losers"
+      "title": "CoinGecko — Crypto Market Cap Charts",
+      "url": "https://www.coingecko.com/en/charts"
     },
     {
-      "title": "crypto.news — Bitcoin falls below $72,000 as $70,000 comes into focus",
-      "url": "https://crypto.news/bitcoin-price-below-72000-weekly-support-70000"
+      "title": "CoinDesk — Bitcoin price weakness erases September's bullish signal: Crypto Daily",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal"
     },
     {
-      "title": "Reuters via Kitco — S&P 500, Nasdaq fall as Nvidia CEO's exit rattles AI stocks",
-      "url": "https://www.kitco.com/news/off-the-wire/2026-11-12/sp-500-nasdaq-fall-nvidia-ceos-exit-rattles-ai-stocks"
+      "title": "The Crypto Desk — Thursday, 12 November 2026",
+      "url": "https://thecryptodesk.substack.com/p/the-crypto-desk-thursday-12-november"
     },
     {
-      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq turn higher as Nvidia stock slides after CEO Jensen Huang resigns",
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq slip as Nvidia stock falls on CEO exit, bond yields rise",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     }
   ]
