@@ -1,113 +1,142 @@
 {
-  "generated_at": "Nov 12, 2026, 7:30 AM ET",
+  "generated_at": "Nov 12, 2026, 3:29 PM ET",
   "date_key": "2026-11-12",
   "articles": [
     {
-      "title": "Nvidia’s Jensen Huang dilemma is a test of the AI industry’s dependence on one flawed man",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-jensen-huang-dilemma-is-a-test-of-the-ai-industrys-dependence-on-one-flawed-man-a9a1d99c?mod=mw_rss_topstories",
-      "snippet": "Huang’s exit could fray tight bonds among AI businesses. Plus, Oracle’s potential AI catalyst, a $1.5 trillion Social Security stock proposal and what the oil-yield split may mean for inflation.",
-      "image": "https://images.mktw.net/im-83493626",
-      "time": "Nov 12, 7:29 AM"
-    },
-    {
-      "title": "Canadian Tire tops estimates on high gas prices, hikes dividend",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-canadian-tire-third-quarter-results-sales-profit-gas-prices-dividend/",
-      "snippet": "Comparable sales, excluding petroleum, rose 1.7% in the latest quarter",
-      "image": "https://www.theglobeandmail.com/resizer/v2/7IHWV67ERBEFLE6U7EXAVDP6JY.JPG?auth=fd5a7325b91ce1b4b625d75a2734b4c455e1496f95ed6abea2c3f0d40ed46f46&smart=true&width=5412&height=3712",
-      "time": "Nov 12, 7:21 AM"
-    },
-    {
-      "title": "Nvidia stock falls 8% as investors await Jensen Huang’s fate",
+      "title": "Trump says ‘we don’t need a deal with Iran’",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-      "snippet": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
-      "time": "Nov 12, 7:05 AM"
+      "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+      "snippet": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.",
+      "time": "Nov 12, 3:28 PM"
     },
     {
-      "title": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-      "snippet": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
-      "time": "Nov 12, 7:03 AM"
-    },
-    {
-      "title": "Praise Was Heaped on Jensen Huang. That Might Be Part of the Problem.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/articles/praise-was-heaped-on-jensen-huang-that-might-be-part-of-the-problem-4cfa876c?mod=rss_markets_main",
-      "snippet": "",
-      "image": "https://images.wsj.net/im-39651282",
-      "time": "Nov 12, 7:03 AM"
-    },
-    {
-      "title": "Euro Could Struggle to Sustainably Reverse Weakness",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/currencies/yen-hitting-160-to-dollar-again-wont-be-surprising-f82f47e6?mod=rss_markets_main",
-      "snippet": "The euro traded flat against the dollar and rose slightly against sterling. Convera said it could struggle to sustainably recover given turmoil in France and the geopolitical tensions between Ukraine and Russia.",
-      "time": "Nov 12, 7:03 AM"
-    },
-    {
-      "title": "Ivanhoe Mines signs memorandum of understanding with Pakistan’s Mari Energies",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-ivanhoe-mines-signs-mou-mari-energies-pakistan/",
-      "snippet": "Company in early stages of setting up a local office in Pakistan, chairman says",
-      "image": "https://www.theglobeandmail.com/resizer/v2/NLFUVAKSORBCHPJATFHYCXV6II.JPG?auth=73035f83195db828bc0b650aec48ed21520cef38755155bc9eea9386ccc9a939&smart=true&width=6500&height=4305",
-      "time": "Nov 12, 6:59 AM"
-    },
-    {
-      "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
-      "snippet": "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang.",
-      "time": "Nov 12, 6:57 AM"
-    },
-    {
-      "title": "What happens if Jensen Huang is ousted at Nvidia?",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/video-what-happens-if-jensen-huang-is-ousted-at-nvidia/",
-      "snippet": "Nvidia's board is meeting late Wednesday to decide whether to oust CEO Jensen Huang, a source familiar with the matter told Reuters, as the world's dominant supplier of AI chips grapples with reports of two…",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-12-2026%2Ft_c38738e70c4140d68004f0993b7ead64_name_2026_11_12T062937Z_1_LOP774012112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=ed00cd1ca2edc792173d8983ba39a26b6a3f1410d5de38c217b8d3c743a8c024&smart=true&width=1920&height=1080",
-      "time": "Nov 12, 6:52 AM"
-    },
-    {
-      "title": "CoreWeave Balances Capital Needs Against Expanding Data Center Footprint",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/coreweave-balances-capital-needs-against-expanding-data-center-footprint-1933f5b5?mod=rss_markets_main",
-      "snippet": "Some of the best analysis and insight on investing, the wealth-management business and more.",
-      "time": "Nov 12, 6:38 AM"
-    },
-    {
-      "title": "Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait",
+      "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
-      "snippet": "Jim Thorne, Wellington-Altus Private Wealth’s chief market strategist, says investors should not get tempted too fast into a tech stock bounce.",
-      "image": "https://images.mktw.net/im-45979367",
-      "time": "Nov 12, 6:34 AM"
+      "url": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
+      "snippet": "“I‘’m considering a pre-law track … I’m just a bit hesitant because of how expensive law school is.”",
+      "image": "https://images.mktw.net/im-33216329",
+      "time": "Nov 12, 3:17 PM"
     },
     {
-      "title": "Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
+      "title": "Nvidia’s Meteoric Rise, in One Chart",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/tech/nvidias-meteoric-rise-in-one-chart-2f47d54e?mod=rss_markets_main",
+      "snippet": "A once-modest company soared after ChatGPT unleashed demand for its chips.",
+      "image": "https://images.wsj.net/im-66696514",
+      "time": "Nov 12, 3:14 PM"
+    },
+    {
+      "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "snippet": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
+      "time": "Nov 12, 3:10 PM"
+    },
+    {
+      "title": "Nvidia live updates: Jensen Huang had ‘intimate relationship’ with second employee, Reuters reports",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+      "snippet": "Nvidia CFO Colette Kress has been named interim CEO during the search for Huang’s replacement.",
+      "time": "Nov 12, 3:08 PM"
+    },
+    {
+      "title": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
-      "snippet": "The Singaporean company Megaspeed, at the center of the scandal engulfing Nvidia, on Thursday issued its first public statement since the scandal erupted.",
-      "image": "https://images.mktw.net/im-64547181",
-      "time": "Nov 12, 5:57 AM"
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+      "snippet": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
+      "image": "https://images.mktw.net/im-18929988",
+      "time": "Nov 12, 2:52 PM"
+    },
+    {
+      "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
+      "snippet": "The Treasury Department proposes to pay debt collectors much less than in the past to help borrowers get out of default.",
+      "image": "https://images.mktw.net/im-75780824",
+      "time": "Nov 12, 2:46 PM"
+    },
+    {
+      "title": "Ousted Nvidia CEO Huang had affair with second employee, sources say",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/article-nvidia-ceo-jensen-huang-affair/",
+      "snippet": "Revelation follows two other extramarital affairs that led to Huang’s Thursday resignation",
+      "image": "https://www.theglobeandmail.com/resizer/v2/KLZGWM7AYBB25PKDS7GG5PJPFE.JPG?auth=cf25caf9e5912996424a274af3df432b9884d883e540e51f3c28ed532f88bd5c&smart=true&width=5500&height=3974",
+      "time": "Nov 12, 2:39 PM"
+    },
+    {
+      "title": "Gold Falls to More Than 1-Year Low As U.S. Dollar, Yields Rise",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-dims-amid-rising-fed-rate-hike-expectations-22fab6f0?mod=rss_markets_main",
+      "snippet": "Gold futures fell for a third consecutive session as the dollar gained and yields rose, with the market concerned about higher interest rates and a rebound in oil prices that could fuel more inflation.",
+      "time": "Nov 12, 2:36 PM"
+    },
+    {
+      "title": "Microsoft apps hit by widespread outage",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-microsoft-apps-outage-tech-outlook/",
+      "snippet": "More than 120,000 users reported problems accessing Outlook and other apps run by the tech giant",
+      "image": "https://www.theglobeandmail.com/resizer/v2/IGOPBMKEAVABRG4JAX3DI3W4WM.JPG?auth=c4f2885609419be19b3c3510153b404e3821ead89b64630f0bf4a034d095fd44&smart=true&width=4000&height=2666",
+      "time": "Nov 12, 2:27 PM"
+    },
+    {
+      "title": "Why do Nvidia investors care who Jensen Huang sleeps with?",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-why-do-nvidia-investors-care-who-jensen-huang-sleeps-with/",
+      "snippet": "The answer lies in the vibe economy",
+      "image": "https://www.theglobeandmail.com/resizer/v2/3SI6BVNAMVARNH5S2ZIDD4RFEI.jpg?auth=b2d640164d0a8bbbc4963b82b667a74ece54c2812770ea82ed66c0b222b6750b&smart=true&width=3884&height=2590",
+      "time": "Nov 12, 2:08 PM"
+    },
+    {
+      "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
+      "snippet": "Prosecutors said the employee netted $70,000 in profits related to client matters including Paramount’s acquisition of Warner Bros.",
+      "image": "https://images.wsj.net/im-66268585",
+      "time": "Nov 12, 2:08 PM"
     }
   ],
   "official": [
     {
-      "title": "Minister Champagne in Nova Scotia to discuss Budget 2026",
+      "title": "Secretary Long in Toronto to highlight tax reform in Budget 2026",
       "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-in-nova-scotia-to-discuss-budget-2026.html",
-      "snippet": "On November 12th, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will deliver the keynote remarks and participate in an armchair discussion at a breakfast event hosted by the…",
-      "time": "Nov 10, 5:22 PM"
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/secretary-long-in-toronto-to-highlight-tax-reform-in-budget-2026.html",
+      "snippet": "The Honourable Wayne Long, Secretary of State responsible for the Canada Revenue Agency and Financial Institutions, will highlight the Government of Canada's Productivity Mega Deduction and other measures in Budget…",
+      "time": "Nov 12, 1:41 PM"
     },
     {
-      "title": "Secretary of State Long in Saint John to discuss Budget 2026",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "snippet": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "time": "Nov 12, 1:30 PM"
+    },
+    {
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "snippet": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "time": "Nov 12, 12:45 PM"
+    },
+    {
+      "title": "Parliamentary Secretary Turnbull to highlight Budget 2026 federal support for industry in Guelph",
       "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/secretary-of-state-long-in-saint-john-to-discuss-budget-2026.html",
-      "snippet": "The Honourable Wayne Long, Secretary of State responsible for the Canada Revenue Agency and Financial Institutions, will highlight measures from Budget 2026, including how the government’s ambitious plan will make…",
-      "time": "Nov 10, 12:02 PM"
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/parliamentary-secretary-turnbull-to-highlight-budget-2026-federal-support-for-industry-in-guelph.html",
+      "snippet": "On November 13th, Ryan Turnbull, Parliamentary Secretary to the Minister of Finance and National Revenue, will visit a local manufacturing facility. He will highlight measures in Budget 2026 to build a stronger, more…",
+      "time": "Nov 12, 11:34 AM"
+    },
+    {
+      "title": "Building permits, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112a-eng.htm",
+      "snippet": "In September, the total value of building permits issued in Canada declined $552.8 million (-4.1%) to $12.9 billion.",
+      "time": "Nov 12, 8:30 AM"
+    },
+    {
+      "title": "Characteristics of self-employed workers, 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112b-eng.htm",
+      "snippet": "Self-employed workers represent a diverse group, spanning a wide range of situations, from gig workers to the owners of large businesses. Understanding their diverse and evolving circumstances can shed light on the…",
+      "time": "Nov 12, 8:30 AM"
     },
     {
       "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
@@ -115,103 +144,68 @@
       "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
       "snippet": "The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the SEC’s Division of Enforcement remained focused on its…",
       "time": "Nov 10, 11:15 AM"
-    },
-    {
-      "title": "Trends in police-reported family violence and intimate partner violence in Canada, 2025",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261110/dq261110a-eng.htm",
-      "snippet": "According to police, in 2025, there were 147,030 victims of family violence and 133,256 victims of intimate partner violence. This marked the highest rates for family violence (357 victims per 100,000 population) and…",
-      "time": "Nov 10, 8:30 AM"
-    },
-    {
-      "title": "Energy supply and demand, 2025",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261110/dq261110b-eng.htm",
-      "snippet": "Canada had higher production, greater exports, and rising consumption of energy products in 2025. The first full year of operation of the expanded Trans Mountain Pipeline facilitated higher exports and access to…",
-      "time": "Nov 10, 8:30 AM"
-    },
-    {
-      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "snippet": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "time": "Nov 9, 4:00 PM"
-    },
-    {
-      "title": "Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework",
-      "source": "Bank of Canada",
-      "url": "https://www.bankofcanada.ca/2026/11/joint-statement-of-the-government-of-canada-and-the-bank-of-canada-on-the-renewal-of-the-monetary-policy-framework-2026/",
-      "snippet": "The Government and the Bank agree that monetary policy must work to promote the economic and financial well-being of Canadians. We also agree that the best way monetary policy can do this is by keeping inflation low,…",
-      "time": "Nov 5, 11:00 AM"
-    },
-    {
-      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-      "snippet": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "time": "Nov 5, 11:00 AM"
     }
   ],
   "ticker": [
     {
-      "time": "6:38 AM",
-      "title": "Globe and Mail — Business Brief: Nvidia weighs firing Huang",
-      "url": "https://www.theglobeandmail.com/business/article-business-brief-nvidia-weighs-firing-huang/"
+      "time": "3:03 PM",
+      "title": "CNBC — Donald Trump Jr. exits advisory role at Kalshi prediction market",
+      "url": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html"
     },
     {
-      "time": "6:30 AM",
-      "title": "CNBC — Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-      "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html"
+      "time": "3:00 PM",
+      "title": "CNBC — Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO",
+      "url": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html"
     },
     {
-      "time": "6:30 AM",
-      "title": "Globe and Mail — Climate remains on investor agenda despite economic and geopolitical tensions",
-      "url": "https://www.theglobeandmail.com/business/article-climate-remains-on-investor-agenda-despite-economic-and-geopolitical/"
+      "time": "2:58 PM",
+      "title": "CNBC — Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html"
     },
     {
-      "time": "6:23 AM",
-      "title": "CNBC — Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-      "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html"
+      "time": "2:47 PM",
+      "title": "CNBC — ‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
+      "url": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html"
     },
     {
-      "time": "6:21 AM",
-      "title": "CNBC — Nasdaq-100 futures slide as Nvidia sell-off resumes: Live updates",
+      "time": "2:43 PM",
+      "title": "CNBC — Watch these levels to know if Nasdaq-100 is set to break out",
+      "url": "https://www.cnbc.com/2026/11/12/watch-these-levels-to-know-if-nasdaq-100-is-set-to-break-out.html"
+    },
+    {
+      "time": "2:42 PM",
+      "title": "CNBC — Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+    },
+    {
+      "time": "2:42 PM",
+      "title": "CNBC — Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html"
+    },
+    {
+      "time": "2:35 PM",
+      "title": "CNBC — Stocks making the biggest moves Thursday: Super Micro Computer, Nvidia, CoreWeave, Nebius, Yeti & more",
+      "url": "https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html"
+    },
+    {
+      "time": "2:33 PM",
+      "title": "CNBC — Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html"
+    },
+    {
+      "time": "2:29 PM",
+      "title": "MarketWatch — The bond market now has an even bigger fear than AI fallout",
+      "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories"
+    },
+    {
+      "time": "2:15 PM",
+      "title": "CNBC — Nasdaq wavers as traders weigh Nvidia CEO exit, AMD climbs: Live updates",
       "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
     },
     {
-      "time": "6:09 AM",
-      "title": "WSJ Markets — Hoping to Sell Your Home in the Spring? It’s Not Looking Good",
-      "url": "https://www.wsj.com/finance/stocks/hoping-to-sell-your-home-in-the-spring-its-not-looking-good-8dc94d1c?mod=rss_markets_main"
-    },
-    {
-      "time": "6:00 AM",
-      "title": "Globe and Mail — The epic collapse of U.S. law firm Weil Gotshal may happen in Canada, again",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-the-epic-collapse-of-us-law-firm-weil-gotshal-may-happen-in-canada/"
-    },
-    {
-      "time": "6:00 AM",
-      "title": "Globe and Mail — Canada can lead on AI by making trust a competitive advantage",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-canada-can-lead-on-ai-by-making-trust-a-competitive-advantage/"
-    },
-    {
-      "time": "5:57 AM",
-      "title": "WSJ Markets — The Inflation Fight May Be About to Turn Painful",
-      "url": "https://www.wsj.com/finance/investing/the-inflation-fight-may-be-about-to-turn-painful-1d053d79?mod=rss_markets_main"
-    },
-    {
-      "time": "5:15 AM",
-      "title": "MarketWatch — I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories"
-    },
-    {
-      "time": "5:07 AM",
-      "title": "MarketWatch — Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories"
-    },
-    {
-      "time": "5:03 AM",
-      "title": "MarketWatch — Prince Harry and Meghan Markle move into new home in Cotswolds",
-      "url": "https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories"
+      "time": "2:15 PM",
+      "title": "MarketWatch — Nvidia’s stock selloff may be just beginning, even after shedding 30% from its peak",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories"
     }
   ]
 }
