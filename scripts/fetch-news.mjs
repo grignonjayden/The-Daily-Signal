@@ -1,6 +1,6 @@
 // Pulls the latest headlines from official and Wall Street news feeds and writes news.json.
 // Runs on a schedule in GitHub Actions (.github/workflows/update-news.yml). No dependencies.
-import { writeFileSync } from 'node:fs';
+import { writeFileSync, existsSync, readFileSync } from 'node:fs';
 
 const FEEDS = [
   // Central banks, regulators and governments
@@ -105,9 +105,91 @@ const used = new Set(articles.map(a => a.url));
 const ticker = news.filter(i => !used.has(i.url)).slice(0, MAX_TICKER);
 const official = capBy(unique.filter(i => i.official), OFFICIAL_PER_SOURCE, MAX_OFFICIAL);
 
+// ---------- Better photos ----------
+// 1) reuse images already found on earlier runs, 2) read the article page's share image (og:image / twitter:image),
+// 3) StatCan: use the chart from that day's release, 4) last resort: a real photo of the source from Wikipedia.
+const PAGE_UA = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36', 'Accept': 'text/html' };
+const BAD_IMG = /\.svg(\?|$)|logo|favicon|sprite|placeholder|default[-_]?(og|share|image)|blank\.(gif|png)|1x1|pixel/i;
+const prevImages = {};
+try {
+  if (existsSync('news.json')) {
+    const prev = JSON.parse(readFileSync('news.json', 'utf8'));
+    [].concat(prev.articles || [], prev.official || []).forEach(a => { if (a.url && a.image && !a.fallback_image) prevImages[a.url] = a.image; });
+  }
+} catch (e) { /* first run */ }
+
+const abs = (u, base) => { try { return new URL(u.replace(/&amp;/g, '&'), base).href; } catch (e) { return ''; } };
+function metaImage(html, base) {
+  const pats = [
+    /<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]*content=["']([^"']+)["']/i,
+    /<meta[^>]+content=["']([^"']+)["'][^>]*property=["']og:image(?::secure_url)?["']/i,
+    /<meta[^>]+name=["']twitter:image(?::src)?["'][^>]*content=["']([^"']+)["']/i,
+    /<meta[^>]+content=["']([^"']+)["'][^>]*name=["']twitter:image(?::src)?["']/i,
+  ];
+  for (const re of pats) { const m = html.match(re); if (m) { const u = abs(m[1], base); if (/^https:/.test(u) && !BAD_IMG.test(u)) return u; } }
+  return '';
+}
+function statcanChart(html, base) {
+  const m = html.match(/<img[^>]+src=["']([^"']*(?:cg-?[a-z]?\d+|chart|graph)[^"']*\.(?:png|jpe?g))["']/i);
+  return m ? abs(m[1], base) : '';
+}
+async function pageImage(item) {
+  try {
+    const res = await fetch(item.url, { headers: PAGE_UA, redirect: 'follow', signal: AbortSignal.timeout(9000) });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const html = (await res.text()).slice(0, 400000);
+    if (item.source === 'Statistics Canada') { const c = statcanChart(html, res.url); if (c) return c; }
+    return metaImage(html, res.url);
+  } catch (e) { console.log(`  no page image for ${item.source}: ${e.message}`); return ''; }
+}
+
+// Wikipedia lead photos of each source (fetched by title; logos/.svg are skipped).
+const SOURCE_PHOTO_PAGES = {
+  'Federal Reserve': ['Eccles Building', 'Federal Reserve'],
+  'Bank of Canada': ['Bank of Canada Building', 'Bank of Canada'],
+  'Finance Canada': ['Parliament Hill', 'Centre Block'],
+  'Statistics Canada': ['Statistics Canada', 'Tunney\'s Pasture', 'Ottawa'],
+  'U.S. SEC': ['Station Place (Washington, D.C.)', 'U.S. Securities and Exchange Commission'],
+  'WSJ Markets': ['Wall Street', 'New York Stock Exchange'],
+  'MarketWatch': ['New York Stock Exchange', 'Wall Street'],
+  'CNBC': ['New York Stock Exchange', 'Wall Street'],
+  'Globe and Mail': ['Toronto Stock Exchange', 'Bay Street', 'Financial District, Toronto'],
+};
+const sourcePhoto = {};
+async function wikiPhoto(source) {
+  if (source in sourcePhoto) return sourcePhoto[source];
+  for (const t of SOURCE_PHOTO_PAGES[source] || []) {
+    try {
+      const res = await fetch('https://en.wikipedia.org/api/rest_v1/page/summary/' + encodeURIComponent(t.replace(/ /g, '_')), {
+        headers: { 'User-Agent': 'TheDailySignal/1.0 (personal news digest; github.com/grignonjayden/the-daily-signal)' }, signal: AbortSignal.timeout(9000) });
+      if (!res.ok) continue;
+      const j = await res.json();
+      const u = (j.thumbnail && j.thumbnail.source) || '';
+      if (u && !BAD_IMG.test(u) && !/\.svg/i.test((j.originalimage && j.originalimage.source) || '')) {
+        console.log(`  source photo for ${source}: ${t} -> ${u}`);
+        return (sourcePhoto[source] = u);
+      }
+    } catch (e) { /* try next title */ }
+  }
+  return (sourcePhoto[source] = '');
+}
+
+async function fillImages(items) {
+  const queue = items.filter(i => !i.image);
+  queue.forEach(i => { if (prevImages[i.url]) i.image = prevImages[i.url]; });
+  const todo = queue.filter(i => !i.image);
+  for (let k = 0; k < todo.length; k += 6) {
+    await Promise.all(todo.slice(k, k + 6).map(async i => { i.image = await pageImage(i); }));
+  }
+  for (const i of items) if (!i.image) { i.image = await wikiPhoto(i.source); if (i.image) i.fallback_image = true; }
+  const n = items.filter(i => i.image).length;
+  console.log(`Images: ${n}/${items.length} (${items.filter(i => i.fallback_image).length} are source photos)`);
+}
+await fillImages([...articles, ...official]);
+
 const now = new Date();
 const card = a => ({
-  title: a.title, source: a.source, url: a.url, snippet: a.snippet, image: a.image || undefined,
+  title: a.title, source: a.source, url: a.url, snippet: a.snippet, image: a.image || undefined, fallback_image: a.fallback_image || undefined,
   time: fmt(a.date, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }),
 });
 const out = {
