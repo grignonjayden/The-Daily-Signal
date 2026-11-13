@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 13, 2026, 12:17 AM ET",
+  "generated_at": "Nov 13, 2026, 1:04 AM ET",
   "date_key": "2026-11-13",
   "sections": [
     {
@@ -12,7 +12,8 @@
           "name": "Gas (regular, national avg.)",
           "value": "153.0¢/L",
           "delta": {
-            "text": "▼ 2.0¢ vs yesterday",
+            "value": "2.0¢",
+            "label": "vs yesterday",
             "dir": "down"
           },
           "note": "Week ago 165.3¢ · month ago 176.5¢ · year ago 132.5¢",
@@ -23,7 +24,8 @@
           "name": "Canadian dollar",
           "value": "$0.7015 US",
           "delta": {
-            "text": "▼ 0.37¢ US vs day before",
+            "value": "0.37¢ US",
+            "label": "vs day before",
             "dir": "down"
           },
           "note": "What 1 Canadian dollar buys in U.S. dollars. US$1 = C$1.4255.",
@@ -34,7 +36,8 @@
           "name": "5-year Canada bond yield",
           "value": "3.46%",
           "delta": {
-            "text": "▲ 11 bps vs day before",
+            "value": "11 bps",
+            "label": "vs day before",
             "dir": "up"
           },
           "note": "Fixed mortgage rates tend to follow this yield.",
@@ -53,8 +56,9 @@
           "name": "Bank of Canada rate",
           "value": "2.50%",
           "delta": {
-            "text": "Next decision Dec 9",
-            "dir": "flat"
+            "value": "Dec 9",
+            "label": "next decision",
+            "dir": "event"
           },
           "note": "Raised 0.25 pts, in effect since Oct 29, 2026. Sets the base for prime, variable mortgages and savings rates.",
           "as_of": "Bank of Canada · Nov 11, 2026",
@@ -64,7 +68,8 @@
           "name": "Prime rate",
           "value": "4.70%",
           "delta": {
-            "text": "● No change this week",
+            "value": "No change",
+            "label": "this week",
             "dir": "flat"
           },
           "note": "What banks charge their best customers; variable loans and lines of credit move with it.",
@@ -75,7 +80,8 @@
           "name": "5-yr fixed mortgage (posted)",
           "value": "6.19%",
           "delta": {
-            "text": "● No change this week",
+            "value": "No change",
+            "label": "this week",
             "dir": "flat"
           },
           "note": "Big banks’ advertised rate. Most borrowers get a lower, discounted rate.",
@@ -86,7 +92,8 @@
           "name": "1-year GIC",
           "value": "2.45%",
           "delta": {
-            "text": "● No change this week",
+            "value": "No change",
+            "label": "this week",
             "dir": "flat"
           },
           "note": "Typical rate banks pay on a 1-year guaranteed investment certificate.",
@@ -105,8 +112,9 @@
           "name": "Inflation (CPI)",
           "value": "3.1%",
           "delta": {
-            "text": "was 3.0% the month before",
-            "dir": "flat"
+            "value": "0.1 pts",
+            "label": "from 3.0% last month",
+            "dir": "up"
           },
           "note": "How much prices overall rose over the past 12 months. The Bank of Canada aims for 2%.",
           "as_of": "Statistics Canada · September 2026",
@@ -116,8 +124,9 @@
           "name": "Food prices",
           "value": "2.2%",
           "delta": {
-            "text": "was 2.8% the month before",
-            "dir": "flat"
+            "value": "0.6 pts",
+            "label": "from 2.8% last month",
+            "dir": "down"
           },
           "note": "How much food prices rose over the past 12 months.",
           "as_of": "Statistics Canada · September 2026",
@@ -127,7 +136,8 @@
           "name": "Unemployment rate",
           "value": "6.7%",
           "delta": {
-            "text": "▲ 0.2 pts vs last month",
+            "value": "0.2 pts",
+            "label": "vs last month",
             "dir": "up"
           },
           "note": "Share of people looking for work who can’t find a job.",
