@@ -1,145 +1,145 @@
 {
-  "generated_at": "Nov 13, 2026, 12:40 PM ET",
+  "generated_at": "Nov 13, 2026, 4:45 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $68,470, down about 4.7% over 24 hours as of 12:22 PM ET (Yahoo Finance), after touching about $67,555 around midnight ET, its lowest since mid-August (KuCoin News)."
+      "note": "About $68,251, down about 3.9% over 24 hours as of Friday afternoon (CoinGecko), after a low near $67,555 overnight, its weakest since mid-August (KuCoin News)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,958, down 3.1% over 24 hours and 12.4% over seven days as of 7:25 AM ET, in a day's range of $1,905 to $2,023 (KuCoin News, citing CoinGecko)."
+      "note": "About $1,927, down about 3.5% over 24 hours as of Friday afternoon (CoinGecko); it traded near $1,954 at 8:30 AM ET (Fortune)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.44 trillion, down 1.9% over 24 hours, with $100.5 billion in 24-hour trading volume (CoinGecko). CoinCodex showed $2.34 trillion, down 3.67%, as of 1:00 AM ET."
+      "note": "About $2.42 trillion, down about 2.5% over 24 hours, with about $96.4 billion in 24-hour trading volume (CoinGecko)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 56.8%, with Ether at 9.73% (CoinGecko); CoinCodex showed 58.50% as of 1:00 AM ET."
+      "note": "About 56.9%, with Ether at 9.76% (CoinGecko)."
     }
   ],
   "themes": [
     {
-      "title": "Bitcoin breaks below $70,000",
-      "summary": "Bitcoin fell through $70,000 Thursday night and dipped below its 200-week moving average near $68,000, reaching its lowest level since mid-August before a partial rebound Friday morning (KuCoin News; Yahoo Finance).",
+      "title": "Bitcoin holds below $70,000",
+      "summary": "Bitcoin stayed under $70,000 through Friday after breaking below it Thursday night; Fortune put it at $69,135 at 8:30 AM ET, down about 5.6% from the previous morning and about 15% over the past month (Fortune; KuCoin News).",
       "confidence": "confirmed"
     },
     {
-      "title": "Rate-hike bets and a strong dollar",
-      "summary": "Traders priced in about an 88% chance of a quarter-point Fed hike in December, the 10-year Treasury yield was near 5.15% and the U.S. Dollar Index held above 103, near a 19-month high (KuCoin News).",
+      "title": "Rate-hike bets and higher yields",
+      "summary": "Hotter U.S. inflation data lifted expectations of a December Fed rate hike, pushing the dollar and Treasury yields higher and weighing on risk assets, along with the selloff in AI-linked stocks after Nvidia's CEO resigned (crypto.news; Kiplinger).",
       "confidence": "confirmed"
     },
     {
       "title": "Heavy liquidations",
-      "summary": "About $1.3 billion to $1.64 billion of leveraged crypto positions were liquidated over 24 hours, depending on the snapshot, with longs making up nearly 89% (KuCoin News; CryptoTicker).",
+      "summary": "CoinGlass data showed about $1.23 billion of leveraged positions liquidated over 24 hours early Friday, including about $677.5 million in bitcoin and $249.8 million in ether, mostly bets on rising prices (crypto.news).",
       "confidence": "confirmed"
     },
     {
       "title": "ETF outflows continue",
-      "summary": "U.S. spot bitcoin ETFs had $47.7 million of net outflows on Nov. 12, a sixth straight day, bringing the streak to about $1.49 billion; spot ether ETFs have seen about $696 million of outflows so far in November (KuCoin News).",
+      "summary": "U.S. spot bitcoin ETFs had $47.7 million of net outflows on Nov. 12, a sixth straight day; Glassnode counted about $1.6 billion of outflows over 20 trading sessions (KuCoin News; crypto.news).",
       "confidence": "confirmed"
     },
     {
-      "title": "Sentiment at extreme fear",
-      "summary": "The Crypto Fear and Greed Index fell to 20, its lowest since July 8, and average perpetual futures funding rates turned negative for the first time in a month (KuCoin News).",
+      "title": "Shrinking stablecoin supply",
+      "summary": "Glassnode reported stablecoin supply fell $14.2 billion over the 30 days through Nov. 9, the largest contraction since June 2022 (crypto.news).",
       "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin was down about 4.7% and Ether about 3% over 24 hours by Friday morning, after deeper overnight losses of 6% to 7% (Yahoo Finance; KuCoin News; FinFly, citing CoinGecko)."
+      "note": "Bitcoin was down about 3.9% and Ether about 3.5% over 24 hours by Friday afternoon, after deeper overnight losses of 6% to 7% (CoinGecko; crypto.news)."
     },
     {
       "name": "Large-cap altcoins",
-      "note": "BNB fell 6.52% to about $631, Solana 5.63% to about $78.24 and XRP 3.74% to about $1 over 24 hours (FinFly, citing CoinGecko)."
+      "note": "BNB was near $630, down about 2.8%, Solana near $79.20, down about 2.1%, and XRP near $1.01, down about 1% over 24 hours (CoinGecko)."
     },
     {
-      "name": "Ether staking",
-      "note": "About 44.6 million ETH, or 36.51% of supply, is staked, and the validator exit queue holds about 270,000 ETH with a wait of about five and a half days (KuCoin News)."
+      "name": "DeFi tokens",
+      "note": "Mixed: Injective rose about 9.6%, while Aero fell 8.2%, ether.fi 6.6% and Raydium 4.6% over 24 hours (CoinMarketCap)."
     },
     {
-      "name": "Crypto stocks",
-      "note": "Coinbase, Robinhood and Circle shares declined Friday along with the drop in bitcoin (Yahoo Finance)."
+      "name": "Stablecoins and liquidity",
+      "note": "Stablecoin supply contracted by $14.2 billion over 30 days, which Glassnode said leaves less fuel for a rally (crypto.news)."
     }
   ],
   "watch_list": [
     {
-      "topic": "Rates after the PPI report",
-      "why": "October producer prices rose 0.3%, slightly below forecasts, but the 6.5% annual gain was the largest since 2022, keeping a December Fed hike in focus (KuCoin News; TheStreet).",
+      "topic": "Key bitcoin price zones",
+      "why": "Glassnode noted buy orders clustered between $68,000 and $72,500, heavy past accumulation in the $62,000 to $66,000 range, and recent buyers' average cost near $75,600 (crypto.news).",
       "confidence": "developing"
     },
     {
-      "topic": "The 200-week moving average",
-      "why": "Bitcoin is trading near its 200-week moving average around $68,000, a level analysts are watching after the overnight break below it (KuCoin News).",
+      "topic": "Fed December decision",
+      "why": "Futures traders see about a 90% chance of a quarter-point rate hike in December, keeping pressure on yields and the dollar (Kiplinger).",
       "confidence": "developing"
     },
     {
-      "topic": "Thin liquidity and ETF flows",
-      "why": "Order-book depth was about 33% below normal earlier this week while leverage stays elevated, which Talos said leaves the market open to sharp moves either way; ETF flows are being watched for a turn (KuCoin News).",
+      "topic": "ETF flows and Nvidia earnings",
+      "why": "Spot ETF outflows are being watched for a turn, and Nvidia's results after Tuesday's close are a key test for AI-linked risk sentiment (KuCoin News; Kiplinger).",
       "confidence": "developing"
     }
   ],
   "movers": [
     {
-      "name": "XPR Network (XPR)",
-      "pct": 14.06,
-      "note": "Top gainer in CoinCodex's daily update as of 1:00 AM ET."
+      "name": "Bitway",
+      "pct": 23.3,
+      "note": "Largest 24-hour gain among the top 100 coins on CoinGecko Friday afternoon."
     },
     {
-      "name": "Prom (PROM)",
-      "pct": 7.75,
-      "note": "Second-largest gainer in CoinCodex's daily update."
+      "name": "Pearl",
+      "pct": 11.3,
+      "note": "Second-largest 24-hour gain among the top 100 on CoinGecko."
+    },
+    {
+      "name": "Injective (INJ)",
+      "pct": 9.58,
+      "note": "About $8.07; top gainer on CoinMarketCap's 24-hour list."
     },
     {
       "name": "Bitcoin (BTC)",
-      "pct": -4.67,
-      "note": "About $68,470 as of 12:22 PM ET (Yahoo Finance)."
+      "pct": -3.9,
+      "note": "About $68,251 (CoinGecko)."
     },
     {
       "name": "Ethereum (ETH)",
-      "pct": -3.1,
-      "note": "About $1,958 as of 7:25 AM ET (KuCoin News, citing CoinGecko)."
+      "pct": -3.5,
+      "note": "About $1,927 (CoinGecko)."
     },
     {
-      "name": "Solana (SOL)",
-      "pct": -5.63,
-      "note": "About $78.24 (FinFly, citing CoinGecko)."
-    },
-    {
-      "name": "Ultima (ULTIMA)",
-      "pct": -12.65,
-      "note": "Largest decliner in CoinCodex's daily update as of 1:00 AM ET."
+      "name": "Aero (AERO)",
+      "pct": -8.23,
+      "note": "About $0.48; largest decliner on CoinMarketCap's 24-hour list."
     }
   ],
   "sources": [
+    {
+      "title": "CoinGecko — Cryptocurrency Prices, Charts, and Crypto Market Cap",
+      "url": "https://www.coingecko.com/"
+    },
+    {
+      "title": "CoinMarketCap — Top Crypto Gainers and Losers",
+      "url": "https://coinmarketcap.com/gainers-losers/"
+    },
+    {
+      "title": "Fortune — Current price of Bitcoin for November 13, 2026",
+      "url": "https://fortune.com/article/price-of-bitcoin-11-13-2026/"
+    },
+    {
+      "title": "crypto.news — Why are Bitcoin, Ethereum and XRP crashing as crypto liquidity dries up?",
+      "url": "https://crypto.news/why-is-crypto-market-crashing-bitcoin-ethereum-xrp/"
+    },
     {
       "title": "KuCoin News — Bitcoin Price Drops to $67,555, Lowest Since Mid-August",
       "url": "https://www.kucoin.com/news/flash/bitcoin-price-drops-to-67-555-lowest-since-mid-august"
     },
     {
-      "title": "KuCoin News — Ethereum Price Drops to $1,958 as ETF Outflows Reach $696M",
-      "url": "https://kucoin.com/news/flash/ethereum-price-drops-to-1-958-as-etf-outflows-reach-696m"
-    },
-    {
-      "title": "CoinGecko — Crypto Market Cap Charts",
-      "url": "https://www.coingecko.com/en/charts"
+      "title": "Kiplinger — Nasdaq Drops Friday on Nvidia Fallout But Ends the Week Up: Stock Market Today",
+      "url": "https://www.kiplinger.com/investing/stocks/nasdaq-drops-friday-on-nvidia-fallout-but-ends-the-week-up-stock-market-today"
     },
     {
       "title": "CoinCodex — Daily Market Update for Nov 13, 2026",
       "url": "https://coincodex.com/article/95338/daily-market-update-for-november-13-2026"
-    },
-    {
-      "title": "FinFly — Bitcoin and crypto prices on November 13, 2026",
-      "url": "https://finfly.news/en/crypto/crypto-prices-2026-11-13"
-    },
-    {
-      "title": "CryptoTicker — Crypto news, November 13: bitcoin down 6%, over $1.3 billion liquidated",
-      "url": "https://cryptoticker.io/en/crypto-news-bitcoin-crash-liquidations-etf-outflows-november-13-2026/"
-    },
-    {
-      "title": "Yahoo Finance — Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
   ]
 }
