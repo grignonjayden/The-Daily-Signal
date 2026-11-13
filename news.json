@@ -1,56 +1,30 @@
 {
-  "generated_at": "Nov 13, 2026, 3:42 AM ET",
+  "generated_at": "Nov 13, 2026, 11:47 AM ET",
   "date_key": "2026-11-13",
   "articles": [
     {
-      "title": "European Stock Nudge Lower in Muted Opening Trade",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-1-led-by-chip-stocks-eb2ed881?mod=rss_markets_main",
-      "snippet": "European stock indexes edged lower in muted early trade, pulling back from record highs.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 13, 3:30 AM"
-    },
-    {
-      "title": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know",
+      "title": "How Apple became the safe ‘Costco’ of tech. Bernstein says keep buying",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
-      "snippet": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108211784-17604498902025-10-14t121921z_1221478754_rc2lega250jk_rtrmadp_0_amd-oracle-ai.jpeg?v=1760449905&w=1920&h=1080",
-      "time": "Nov 13, 3:27 AM"
+      "url": "https://www.cnbc.com/2026/11/13/how-apple-became-the-safe-costco-of-tech-bernstein-says-keep-buying.html",
+      "snippet": "Apple's safe haven status has driven its multiples to all-time highs, bringing it in line with some high quality consumer stocks",
+      "image": "https://image.cnbcfm.com/api/v1/image/108360543-1788969838655-gettyimages-2293355243-tang-applesto260906_nptCS.jpeg?v=1788969862&w=1920&h=1080",
+      "time": "Nov 13, 11:41 AM"
     },
     {
-      "title": "Stock futures edge lower after markets slide amid Nvidia woes: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-      "snippet": "Major indexes sagged in Thursday's regular trading as Nvidia shares dove on Jensen Huang's exit.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550258-1794502895373-gettyimages-2304263485-US_STOCKS.jpeg?v=1794502956&w=1920&h=1080",
-      "time": "Nov 13, 3:20 AM"
-    },
-    {
-      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+      "title": "Microsoft says email delivery and service availability 'improving' across more infrastructure",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "snippet": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+      "snippet": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
       "image": "https://image.cnbcfm.com/api/v1/image/108550678-1794525756680-gettyimages-2304840767-l1090279_copy_dnqn1zyt.jpeg?v=1794525804&w=1920&h=1080",
-      "time": "Nov 13, 3:05 AM"
+      "time": "Nov 13, 11:38 AM"
     },
     {
-      "title": "Dollar Remains Firm on U.S. Rate Rise Prospects",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/currencies/french-political-and-fiscal-uncertainty-could-weigh-on-euro-c7deca5f?mod=rss_markets_main",
-      "snippet": "The U.S. dollar eased slightly against a basket of currencies, but remained near the 19-month high reached Thursday.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 13, 2:35 AM"
-    },
-    {
-      "title": "Asia’s Stock Rebound Fades as Nvidia Uncertainty Lingers",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/asia-stocks-stage-tentative-rebound-as-nvidia-uncertainty-lingers-c0953e15?mod=rss_markets_main",
-      "snippet": "The tentative rebound in Asia’s bruised technology stocks faded Friday afternoon as bearish sentiment overpowered the initial lift.",
-      "image": "https://images.wsj.net/im-04258422",
-      "time": "Nov 13, 2:09 AM"
+      "title": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+      "snippet": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550258-1794502895373-gettyimages-2304263485-US_STOCKS.jpeg?v=1794502956&w=1920&h=1080",
+      "time": "Nov 13, 11:35 AM"
     },
     {
       "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
@@ -58,50 +32,100 @@
       "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
       "snippet": "There is already a demographic ‘run’ on Social Security.",
       "image": "https://images.mktw.net/im-49247042",
-      "time": "Nov 12, 11:46 PM"
+      "time": "Nov 13, 11:30 AM"
     },
     {
-      "title": "Experts warn of depending on single provider in light of Microsoft outage",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-microsoft-outage-experts-warn-risks-single-provider/",
-      "snippet": "Company’s Outlook, Teams and AI assistant Copilot were down for hours on Thursday",
-      "image": "https://www.theglobeandmail.com/resizer/v2/PSAS756255E65ESJYPOSECQIZM.JPG?auth=58103dac5a804bb716886bd23730d28fd2b84b04248da57b979729cc3ca2f066&smart=true&width=5400&height=3600",
-      "time": "Nov 12, 9:41 PM"
-    },
-    {
-      "title": "Darth Vader’s lightsaber from iconic ‘Star Wars’ duel sells for nearly $5-million",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/article-darth-vaders-lightsaber-from-iconic-star-wars-duel-sells-for-nearly-5/",
-      "snippet": "Sale sets new record for a Star Wars collectible, surpassing the $3.75-million sale of a Luke Skywalker prop earlier this year",
-      "image": "https://www.theglobeandmail.com/resizer/v2/ILMJG5RN5ZDVXDXIMFHJTD6ZF4.jpeg?auth=cf72e51309047812fbad773f6c74f3d437fcb8978173b3bfb50ec8abd17ecb1d&smart=true&width=1429&height=755",
-      "time": "Nov 12, 9:19 PM"
-    },
-    {
-      "title": "U.S. Senate Banking Committee chair calls on Huang, Lutnick to testify over Nvidia scandal",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/article-nvidia-jensen-huang-lutnick-senate-testify/",
-      "snippet": "Commerce Secretary’s future is reportedly in doubt while former Nvidia CEO Huang has resigned",
-      "image": "https://www.theglobeandmail.com/resizer/v2/GIXVCLC3N5DM5BKE63NUA5656M.JPG?auth=74894c0d06f96a6a942955d91274ebabd7546c08097deddc6349bb30da615182&smart=true&width=7373&height=4918",
-      "time": "Nov 12, 8:12 PM"
-    },
-    {
-      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
-      "snippet": "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
-      "image": "https://images.mktw.net/im-25209832",
-      "time": "Nov 12, 5:57 PM"
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "snippet": "Nvidia has wiped out $657 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+      "image": "https://images.mktw.net/im-33661435",
+      "time": "Nov 13, 11:26 AM"
     },
     {
-      "title": "Opening trading-card packs has become a $2 billion market",
+      "title": "Gold Little Changed With Focus on Yields, Geopolitical Tension",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211?mod=rss_markets_main",
+      "snippet": "Gold futures were slightly lower after briefly recovering to the $4,000 level earlier in the session.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 13, 11:12 AM"
+    },
+    {
+      "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-      "snippet": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
-      "image": "https://images.mktw.net/im-87023125",
-      "time": "Nov 12, 5:38 PM"
+      "url": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
+      "snippet": "Many service members face an often invisible financial trap when they step out of uniform.",
+      "image": "https://images.mktw.net/im-36135071",
+      "time": "Nov 13, 11:10 AM"
+    },
+    {
+      "title": "Cravath Employee Is Charged With Insider Trading Using Confidential Deal Information",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/regulation/cravath-employee-is-charged-with-insider-trading-using-confidential-deal-information-a5cdd0a9?mod=rss_markets_main",
+      "snippet": "Prosecutors said the employee netted $70,000 in profits related to client matters including Paramount’s acquisition of Warner Bros.",
+      "image": "https://images.wsj.net/im-66268585",
+      "time": "Nov 13, 10:18 AM"
+    },
+    {
+      "title": "U.S. Stocks Fall as Nvidia Shares Drop Again",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?mod=rss_markets_main",
+      "snippet": "U.S. stocks fell as the tumult surrounding Jensen Huang’s ouster from Nvidia continues to cloud the outlook for the AI trade.",
+      "image": "https://images.wsj.net/im-53331774",
+      "time": "Nov 13, 10:17 AM"
+    },
+    {
+      "title": "From faxes to phones, old-school technology makes a comeback during the Microsoft outage",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/article-microsoft-outage-faxes-phones-bluetooth/",
+      "snippet": "Disruption is the latest reminder of how much of the world’s commerce, public services and communications run on a handful of technology providers",
+      "image": "https://www.theglobeandmail.com/resizer/v2/MBUHLQSSF5C7TNZ5DYXYQLJTCU.JPG?auth=87fb5f18e69e19e79dc4045ebe8731d64f2638ec021563b007c131c04bcb28cc&smart=true&width=4000&height=2667",
+      "time": "Nov 13, 10:06 AM"
+    },
+    {
+      "title": "A startup for condo discounts, the Home of the Week and more top real estate stories",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-quietmarket-condo-discounts-ndas-canada-real-estate-news-nov-13/",
+      "snippet": "Plus, house-hunting in St. John’s, N.L.",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ODZPPYW5OBHFFL7YDZCTF7SLDI.JPG?auth=b678d0671e4e2e4f7019417f587ec06409e9990266224f0ddfa19ec7c2e909a0&smart=true&width=5568&height=3713",
+      "time": "Nov 13, 10:05 AM"
+    },
+    {
+      "title": "U.S. producer prices climb at highest annual rate in four years",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-producer-prices-climb-at-highest-annual-rate-in-four-years/",
+      "snippet": "Supports view that the Fed could continue raising interest rates after next month’s widely expected increase",
+      "image": "https://www.theglobeandmail.com/resizer/v2/47SIRZQ2CZBYTNSP4BCDLGUMW4.jpg?auth=d49bafbad053bd7f35f0f548162d0e096483bfee64665594af29d4796fc03e2d&smart=true&width=6000&height=4000",
+      "time": "Nov 13, 9:53 AM"
     }
   ],
   "official": [
+    {
+      "title": "Parliamentary Secretary Turnbull in Oshawa to highlight Budget 2026 investments in community recreational facilities and ice rinks",
+      "source": "Finance Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/parliamentary-secretary-turnbull-in-oshawa-to-highlight-budget-2026-investments-in-community-recreational-facilities-and-ice-rinks.html",
+      "snippet": "On November 14th, Ryan Turnbull, Parliamentary Secretary to the Minister of Finance and National Revenue, will visit a local recreational facility to highlight Budget 2026 investments to build a stronger, more…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 13, 11:28 AM"
+    },
+    {
+      "title": "Monthly Survey of Manufacturing, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261113/dq261113a-eng.htm",
+      "snippet": "Manufacturing sales were essentially unchanged in September. Sales in the primary metal subsector declined the most, while the petroleum and coal product subsector posted the largest increase. On a quarterly basis,…",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261113/cg261113a001-eng.png",
+      "time": "Nov 13, 8:30 AM"
+    },
+    {
+      "title": "Wholesale trade, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261113/dq261113b-eng.htm",
+      "snippet": "Wholesale sales (excluding petroleum, petroleum products, and other hydrocarbons and excluding oilseed and grain) rose 0.7% to $92.5 billion in September.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261113/cg261113b001-eng.png",
+      "time": "Nov 13, 8:30 AM"
+    },
     {
       "title": "Government of Canada adjusts the taxable value threshold for zero-emission vehicles",
       "source": "Finance Canada",
@@ -110,15 +134,6 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 12, 7:41 PM"
-    },
-    {
-      "title": "Minister Champagne in Toronto to highlight Budget 2026",
-      "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-in-toronto-to-highlight-budget-2026.html",
-      "snippet": "On November 13th, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will be in Toronto to highlight Budget 2026, the government’s ambitious plan to build a stronger, more…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 12, 3:59 PM"
     },
     {
       "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
@@ -139,22 +154,6 @@
       "time": "Nov 12, 12:45 PM"
     },
     {
-      "title": "Building permits, September 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112a-eng.htm",
-      "snippet": "In September, the total value of building permits issued in Canada declined $552.8 million (-4.1%) to $12.9 billion.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261112/cg261112a001-eng.png",
-      "time": "Nov 12, 8:30 AM"
-    },
-    {
-      "title": "Characteristics of self-employed workers, 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112b-eng.htm",
-      "snippet": "Self-employed workers represent a diverse group, spanning a wide range of situations, from gig workers to the owners of large businesses. Understanding their diverse and evolving circumstances can shed light on the…",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261112/cg261112b001-eng.png",
-      "time": "Nov 12, 8:30 AM"
-    },
-    {
       "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
@@ -166,64 +165,64 @@
   ],
   "ticker": [
     {
-      "time": "2:15 AM",
-      "title": "CNBC — Why Singapore keeps turning up in the fight over Nvidia chips and China",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html"
+      "time": "11:24 AM",
+      "title": "CNBC — HSBC downgrades Nvidia, says stock to struggle until new CEO named",
+      "url": "https://www.cnbc.com/2026/11/13/hsbc-downgrades-nvidia-says-stock-to-struggle-until-new-ceo-named.html"
     },
     {
-      "time": "1:21 AM",
-      "title": "WSJ Markets — Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert",
-      "url": "https://www.wsj.com/finance/currencies/japans-finance-minister-warns-against-rapid-yen-moves-cb65cc67?mod=rss_markets_main"
+      "time": "11:17 AM",
+      "title": "CNBC — Stocks making the biggest moves Friday: Nvidia, Microsoft, Cerebras, Modine & more",
+      "url": "https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html"
     },
     {
-      "time": "12:51 AM",
-      "title": "CNBC — Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+      "time": "11:03 AM",
+      "title": "CNBC — Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+      "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html"
     },
     {
-      "time": "Nov 12",
-      "title": "CNBC — Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html"
+      "time": "11:01 AM",
+      "title": "MarketWatch — ‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 12",
-      "title": "CNBC — The best CD rates of November 2026: Earn up to 5.05% APY",
-      "url": "https://www.cnbc.com/select/best-certificates-of-deposits/"
+      "time": "11:01 AM",
+      "title": "MarketWatch — 14 dividend stocks selected for long-term growth",
+      "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 12",
-      "title": "CNBC — Chris Van Hollen announces run for U.S. Senate majority leader, challenging Schumer",
-      "url": "https://www.cnbc.com/2026/11/13/van-hollen-schumer-us-senate-majority-leader.html"
+      "time": "11:00 AM",
+      "title": "MarketWatch — I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 12",
-      "title": "CNBC — Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
+      "time": "10:49 AM",
+      "title": "CNBC — Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html"
     },
     {
-      "time": "Nov 12",
-      "title": "CNBC — The world's super-rich are piling into alternative investments. Here's why",
-      "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html"
+      "time": "10:44 AM",
+      "title": "CNBC — Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+      "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
     },
     {
-      "time": "Nov 12",
-      "title": "WSJ Markets — Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
-      "url": "https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?mod=rss_markets_main"
+      "time": "10:44 AM",
+      "title": "MarketWatch — Microsoft Outlook outage stretches into a second day, causing widespread disruption",
+      "url": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 12",
-      "title": "WSJ Markets — Oil Slips Again as Traders Weigh Diplomacy Hopes",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-slips-again-as-traders-weigh-diplomacy-hopes-808f1641?mod=rss_markets_main"
+      "time": "10:40 AM",
+      "title": "CNBC — 10-year Treasury yield moves to 5.15% as traders weigh producer price report",
+      "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
     },
     {
-      "time": "Nov 12",
-      "title": "WSJ Markets — Gold Edges Higher in Technical Rebound",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211?mod=rss_markets_main"
+      "time": "10:37 AM",
+      "title": "MarketWatch — I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
+      "url": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 12",
-      "title": "WSJ Markets — AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
-      "url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?mod=rss_markets_main"
+      "time": "10:34 AM",
+      "title": "CNBC — What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html"
     }
   ]
 }
