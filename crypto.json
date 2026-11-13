@@ -1,129 +1,133 @@
 {
-  "generated_at": "Nov 12, 2026, 4:50 PM ET",
+  "generated_at": "Nov 13, 2026, 7:45 AM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $71,652, down about 3.9% over 24 hours as of 12:20 PM ET, in a 24-hour range of $71,238 to $74,695 (Cryptonro). CoinDesk's ticker showed about $71,518, down 3.8%."
+      "note": "About $69,000, down about 6.2% over 24 hours as of 2:30 AM ET, after an intraday low of $67,922 (CryptoTicker, citing CoinGecko). CoinCodex showed $68,214, down 7.31%, as of 1:00 AM ET."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $2,004, down about 4.2% over 24 hours as of 12:20 PM ET (Cryptonro)."
+      "note": "About $1,942, down about 5.2% over 24 hours as of 2:30 AM ET (CryptoTicker, citing CoinGecko); CoinCodex showed $1,913.62, down 6.41%."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.42 trillion, down about 5.7% over 24 hours as of 3:47 PM ET (TokenPost); CoinGecko showed about $2.49 trillion, down 3.3%."
+      "note": "About $2.34 trillion to $2.35 trillion early Friday, down roughly 4% to 7% over 24 hours depending on the measure (CryptoTicker; CoinCodex). CoinGabbar, citing CoinGecko, showed $2.45 trillion, down 3.8%."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 58% to 60%: 59.47% by TokenPost's 3:47 PM ET measure and 57.74% on CoinGecko."
+      "note": "About 57% to 59%: 58.50% on CoinCodex as of 1:00 AM ET and 56.6% per CoinGabbar's CoinGecko data as of 11:00 PM ET Thursday."
     }
   ],
   "themes": [
     {
-      "title": "Crypto falls with tech stocks",
-      "summary": "Bitcoin dropped below $72,000 as Nvidia CEO Jensen Huang's resignation and rising Treasury yields hit risk assets; it is down about 8% in November (Yahoo Finance).",
+      "title": "Bitcoin drops to its lowest since August",
+      "summary": "Bitcoin fell below $69,000 overnight, its lowest level since August, extending Thursday's slide as rising rate-hike odds and Nvidia CEO Jensen Huang's resignation weighed on risk assets (CoinCentral).",
       "confidence": "confirmed"
     },
     {
-      "title": "Bitcoin below its 50-week average",
-      "summary": "BTC fell below its 50-week moving average near $75,153, reversing a September breakout that some analysts had read as the start of a new rally (CoinDesk).",
+      "title": "More than $1.3 billion in liquidations",
+      "summary": "About $1.47 billion in leveraged positions were liquidated over 24 hours, about 89% of them longs, hitting more than 175,000 traders; the largest single liquidation was a $31.09 million bitcoin long on Hyperliquid (CoinCentral; CryptoTicker).",
       "confidence": "confirmed"
     },
     {
-      "title": "Stronger dollar and Fed hike expectations",
-      "summary": "The U.S. Dollar Index briefly topped 103, its highest since March 2025, and markets have largely priced in a December Fed rate increase (CoinDesk).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Fifth straight day of ETF outflows",
-      "summary": "U.S. spot bitcoin ETFs lost about $300 million on Wednesday, nearly $270 million of it from BlackRock's IBIT, and ether ETFs lost about $145 million (The Crypto Desk, citing SoSoValue).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Stablecoin supply shrinking",
-      "summary": "Glassnode data show stablecoin supply fell about $14.2 billion in the 30 days to Nov. 9, the fastest contraction since June 2022 (The Crypto Desk).",
+      "title": "ETF outflows continue",
+      "summary": "U.S. spot bitcoin ETFs saw about $1.44 billion of net outflows over five sessions through Wednesday, and preliminary Farside data showed another $47.7 million out on Thursday (CryptoTicker).",
       "confidence": "developing"
+    },
+    {
+      "title": "Yields and the dollar weigh on crypto",
+      "summary": "The 10-year Treasury yield climbed above 5% and the U.S. Dollar Index rose above 103 as markets raised the odds of a December Fed rate hike after hotter-than-expected October inflation (CryptoTicker).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Sentiment hits extreme fear",
+      "summary": "The Crypto Fear and Greed Index fell to 20, or extreme fear, from 28 a day earlier, its lowest reading since July 8 (CryptoTicker; CoinGabbar, citing Alternative.me).",
+      "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin fell about 3.9% and Ether about 4.2% over 24 hours as of midday ET (Cryptonro)."
+      "note": "Bitcoin fell about 6% to 7% and Ether about 5% to 6% over 24 hours to early Friday (CryptoTicker; CoinCodex)."
     },
     {
       "name": "Large-cap altcoins",
-      "note": "Solana fell about 5.1%, XRP 5.1%, BNB 4.9%, Dogecoin 5.4% and Cardano 5.5% over 24 hours (Cryptonro)."
+      "note": "BNB fell about 5.9% to near $634, Solana 2.9% to about $80.50 and XRP 1.3% to about $1.03 over 24 hours; over seven days XRP is down about 14% and Solana about 10% (CryptoTicker)."
     },
     {
       "name": "DeFi",
-      "note": "Arbitrum fell about 9.6%, Ethena 9.5% and Aave 8.5% over the 24 hours to 11:05 a.m. ET; 76 of the top 90 coins declined (TokenPost)."
+      "note": "The DeFi sector's market cap was about $62.2 billion, down 4.1% over 24 hours, per CoinGecko data cited by CoinGabbar."
     },
     {
-      "name": "Crypto-linked stocks",
-      "note": "Strategy (MSTR) fell as much as 6% after MSCI said it will remove the company from its indexes (Yahoo Finance)."
+      "name": "Derivatives",
+      "note": "Liquidations totaled about $783 million in bitcoin, $260 million in ether and $54 million in Solana positions over 24 hours (CoinCentral)."
     }
   ],
   "watch_list": [
     {
       "topic": "U.S. producer prices on Friday",
-      "why": "The October PPI report is due Friday at 8:30 AM ET and could shape expectations for the Fed's December decision (The Crypto Desk; CoinDesk).",
+      "why": "The October PPI report is due Friday and could shape expectations for the Fed's December decision (CoinCentral; CoinGabbar).",
       "confidence": "confirmed"
     },
     {
-      "topic": "Key bitcoin levels",
-      "why": "Wintermute says $68,000 is the next level down it is watching and that reclaiming $80,000 would change its cautious view (CoinDesk).",
+      "topic": "The $68,000 level",
+      "why": "Bitcoin is trading just above $68,000, the next downside level Wintermute said it was watching earlier this week (CoinCentral; CoinDesk).",
       "confidence": "developing"
     },
     {
-      "topic": "FOMC minutes and Strategy index exit",
-      "why": "Minutes from the Fed's October meeting are due Nov. 18, and MSCI removes Strategy from its global standard indexes after the Nov. 30 close (The Crypto Desk).",
-      "confidence": "confirmed"
+      "topic": "ETF flows and stablecoin supply",
+      "why": "Glassnode data show stablecoin supply fell about $14.2 billion over 30 days, and analysts are watching ETF flows and stablecoins for signs of returning demand (CoinCentral).",
+      "confidence": "developing"
     }
   ],
   "movers": [
     {
-      "name": "Gram (GRAM)",
-      "pct": 7.96,
-      "note": "Biggest gainer among the top 90 coins, about $1.27, in the 24 hours to 11:05 a.m. ET (TokenPost)."
+      "name": "XPR Network (XPR)",
+      "pct": 14.06,
+      "note": "Top gainer in CoinCodex's daily update as of 1:00 AM ET."
+    },
+    {
+      "name": "Prom (PROM)",
+      "pct": 7.75,
+      "note": "Second-largest gainer in CoinCodex's daily update."
     },
     {
       "name": "Bitcoin (BTC)",
-      "pct": -3.94,
-      "note": "About $71,652 as of 12:20 PM ET (Cryptonro)."
+      "pct": -6.2,
+      "note": "About $69,000 as of 2:30 AM ET (CryptoTicker, citing CoinGecko)."
     },
     {
       "name": "Ethereum (ETH)",
-      "pct": -4.24,
-      "note": "About $2,004 as of 12:20 PM ET (Cryptonro)."
+      "pct": -5.2,
+      "note": "About $1,942 as of 2:30 AM ET (CryptoTicker, citing CoinGecko)."
     },
     {
-      "name": "XRP (XRP)",
-      "pct": -5.12,
-      "note": "About $1.02 as of 12:20 PM ET (Cryptonro)."
+      "name": "BNB (BNB)",
+      "pct": -5.9,
+      "note": "About $634 (CryptoTicker, citing CoinGecko)."
     },
     {
-      "name": "Solana (SOL)",
-      "pct": -5.06,
-      "note": "About $81.10 as of 12:20 PM ET (Cryptonro)."
-    },
-    {
-      "name": "Pepe (PEPE)",
-      "pct": -12.39,
-      "note": "Steepest decline among the top 90 coins in the 24 hours to 11:05 a.m. ET (TokenPost)."
+      "name": "Ultima (ULTIMA)",
+      "pct": -12.65,
+      "note": "Largest decliner in CoinCodex's daily update."
     }
   ],
   "sources": [
     {
-      "title": "Cryptonro — Crypto Market Today, 12 November 2026",
-      "url": "https://cryptonro.com/articles/crypto-market-today-2026-11-12"
+      "title": "CryptoTicker — Crypto news, November 13: bitcoin down 6%, over $1.3 billion liquidated",
+      "url": "https://cryptoticker.io/en/crypto-news-bitcoin-crash-liquidations-etf-outflows-november-13-2026/"
     },
     {
-      "title": "TokenPost — Crypto Market Capitalization Falls 5.72% in Thursday Snapshot",
-      "url": "https://www.tokenpost.com/news/investing/55915"
+      "title": "CoinCodex — Daily Market Update for Nov 13, 2026",
+      "url": "https://coincodex.com/article/95338/daily-market-update-for-november-13-2026"
     },
     {
-      "title": "TokenPost — Pepe Leads Crypto Losses as 76 of 90 Assets Fall in Nov. 12 Snapshot",
-      "url": "https://www.tokenpost.com/news/investing/55832"
+      "title": "CoinCentral — Why is Crypto Dropping Today? November 13, 2026",
+      "url": "https://coincentral.com/why-is-crypto-dropping-today-november-13-2026"
+    },
+    {
+      "title": "CoinGabbar — Crypto News Nov 13: Bitcoin, Ethereum, DeFi Slips Ahead of US PPI Data",
+      "url": "https://www.coingabbar.com/en/crypto-news-nov-13-bitcoin-eth-price-fear-index-us-ppi-data"
     },
     {
       "title": "CoinGecko — Crypto Market Cap Charts",
@@ -132,10 +136,6 @@
     {
       "title": "CoinDesk — Bitcoin price weakness erases September's bullish signal: Crypto Daily",
       "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal"
-    },
-    {
-      "title": "The Crypto Desk — Thursday, 12 November 2026",
-      "url": "https://thecryptodesk.substack.com/p/the-crypto-desk-thursday-12-november"
     },
     {
       "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq slip as Nvidia stock falls on CEO exit, bond yields rise",
