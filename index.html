@@ -258,6 +258,7 @@
   .widget-desc { font-size: 12.5px; line-height: 1.45; color: var(--ink-soft); font-weight: 500; margin: -4px 2px 12px; }
   .live-updated { font-size: 11px; font-weight: 600; color: var(--ink-faint); margin: 10px 2px 0; }
   .live-updated a { color: inherit; }
+  .ca-flag { display: block; height: 12px; width: 24px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); flex-shrink: 0; }
   .pulse-chip .ca-delta { display: inline-block; margin: 6px 0 8px; }
   .pulse-chip .ca-asof { margin-top: 6px; color: var(--ink-faint); font-size: 11px; }
 
@@ -376,7 +377,7 @@
   <div class="hero">
     <div class="hero-row">
       <div>
-        <p class="greeting"><span class="live-dot"></span>Market Dispatch · Personal Edition</p>
+        <p class="greeting"><span class="live-dot"></span>Market Dispatch · Personal Edition<svg class="ca-flag" viewBox="0 0 9600 4800" role="img" aria-label="Canadian flag"><rect width="9600" height="4800" fill="#fff"/><rect width="2400" height="4800" fill="#D52B1E"/><rect x="7200" width="2400" height="4800" fill="#D52B1E"/><path fill="#D52B1E" d="m4890 4430-45-863a95 95 0 0 1 111-98l859 151-116-320a65 65 0 0 1 20-73l941-762-212-99a65 65 0 0 1-34-79l186-572-542 115a65 65 0 0 1-73-38l-105-247-423 454a65 65 0 0 1-111-57l204-1052-327 189a65 65 0 0 1-91-27l-332-652-332 652a65 65 0 0 1-91 27l-327-189 204 1052a65 65 0 0 1-111 57l-423-454-105 247a65 65 0 0 1-73 38l-542-115 186 572a65 65 0 0 1-34 79l-212 99 941 762a65 65 0 0 1 20 73l-116 320 859-151a95 95 0 0 1 111 98l-45 863z"/></svg></p>
         <h1 class="title">The Daily Signal</h1>
         <p class="dateline" id="dateline">Not yet generated today</p>
       </div>
@@ -429,6 +430,12 @@ function svgIcon(pathData, viewBox) {
   svg.setAttribute('fill', 'none');
   const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
   path.setAttribute('d', pathData);
+  if (pathData === ICONS.maple) { // solid Canadian maple leaf (official flag shape)
+    svg.setAttribute('viewBox', '2735 350 4130 4130');
+    path.setAttribute('fill', 'currentColor');
+    svg.appendChild(path);
+    return svg;
+  }
   path.setAttribute('stroke', 'currentColor');
   path.setAttribute('stroke-width', '2');
   path.setAttribute('stroke-linecap', 'round');
@@ -457,7 +464,7 @@ const ICONS = {
   signal: 'M4 20h2v-3H4zM9 20h2v-7H9zM14 20h2v-11h-2zM19 20h2v-15h-2z',
   gem: 'M6 3h12l3 6-9 12L3 9zM3 9h18M9 3l3 6 3-6',
   coin: 'M12 3a9 9 0 100 18 9 9 0 000-18zM12 7v10M9.3 9.6c0-1.1 1-1.7 2.7-1.7s2.7.7 2.7 1.7-1.1 1.4-2.7 1.9-2.7 1.1-2.7 2 1.1 1.5 2.7 1.5 2.7-.6 2.7-1.5',
-  maple: 'M12 2l1.8 4.2 2.7-1.2-.7 4.4 3.2-1.6-.8 3.4 2.8 1.3-4.6 3.3.6 2.2-5-.9V22h-2v-4.9l-5 .9.6-2.2L2.8 12.5l2.8-1.3-.8-3.4L8 9.4l-.7-4.4 2.7 1.2z',
+  maple: 'm4890 4430-45-863a95 95 0 0 1 111-98l859 151-116-320a65 65 0 0 1 20-73l941-762-212-99a65 65 0 0 1-34-79l186-572-542 115a65 65 0 0 1-73-38l-105-247-423 454a65 65 0 0 1-111-57l204-1052-327 189a65 65 0 0 1-91-27l-332-652-332 652a65 65 0 0 1-91 27l-327-189 204 1052a65 65 0 0 1-111 57l-423-454-105 247a65 65 0 0 1-73 38l-542-115 186 572a65 65 0 0 1-34 79l-212 99 941 762a65 65 0 0 1 20 73l-116 320 859-151a95 95 0 0 1 111 98l-45 863z',
   newspaper: 'M4 4h13a2 2 0 012 2v13a1 1 0 01-1.4.9L14 18H4a2 2 0 01-2-2V6a2 2 0 012-2z M7 8h7M7 11h7M7 14h4M17 8v9'
 };
 function sectorIconKey(name) {
