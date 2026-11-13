@@ -1,82 +1,82 @@
 {
-  "generated_at": "Nov 13, 2026, 7:45 AM ET",
+  "generated_at": "Nov 13, 2026, 12:40 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $69,000, down about 6.2% over 24 hours as of 2:30 AM ET, after an intraday low of $67,922 (CryptoTicker, citing CoinGecko). CoinCodex showed $68,214, down 7.31%, as of 1:00 AM ET."
+      "note": "About $68,470, down about 4.7% over 24 hours as of 12:22 PM ET (Yahoo Finance), after touching about $67,555 around midnight ET, its lowest since mid-August (KuCoin News)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,942, down about 5.2% over 24 hours as of 2:30 AM ET (CryptoTicker, citing CoinGecko); CoinCodex showed $1,913.62, down 6.41%."
+      "note": "About $1,958, down 3.1% over 24 hours and 12.4% over seven days as of 7:25 AM ET, in a day's range of $1,905 to $2,023 (KuCoin News, citing CoinGecko)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.34 trillion to $2.35 trillion early Friday, down roughly 4% to 7% over 24 hours depending on the measure (CryptoTicker; CoinCodex). CoinGabbar, citing CoinGecko, showed $2.45 trillion, down 3.8%."
+      "note": "About $2.44 trillion, down 1.9% over 24 hours, with $100.5 billion in 24-hour trading volume (CoinGecko). CoinCodex showed $2.34 trillion, down 3.67%, as of 1:00 AM ET."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 57% to 59%: 58.50% on CoinCodex as of 1:00 AM ET and 56.6% per CoinGabbar's CoinGecko data as of 11:00 PM ET Thursday."
+      "note": "About 56.8%, with Ether at 9.73% (CoinGecko); CoinCodex showed 58.50% as of 1:00 AM ET."
     }
   ],
   "themes": [
     {
-      "title": "Bitcoin drops to its lowest since August",
-      "summary": "Bitcoin fell below $69,000 overnight, its lowest level since August, extending Thursday's slide as rising rate-hike odds and Nvidia CEO Jensen Huang's resignation weighed on risk assets (CoinCentral).",
+      "title": "Bitcoin breaks below $70,000",
+      "summary": "Bitcoin fell through $70,000 Thursday night and dipped below its 200-week moving average near $68,000, reaching its lowest level since mid-August before a partial rebound Friday morning (KuCoin News; Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "More than $1.3 billion in liquidations",
-      "summary": "About $1.47 billion in leveraged positions were liquidated over 24 hours, about 89% of them longs, hitting more than 175,000 traders; the largest single liquidation was a $31.09 million bitcoin long on Hyperliquid (CoinCentral; CryptoTicker).",
+      "title": "Rate-hike bets and a strong dollar",
+      "summary": "Traders priced in about an 88% chance of a quarter-point Fed hike in December, the 10-year Treasury yield was near 5.15% and the U.S. Dollar Index held above 103, near a 19-month high (KuCoin News).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Heavy liquidations",
+      "summary": "About $1.3 billion to $1.64 billion of leveraged crypto positions were liquidated over 24 hours, depending on the snapshot, with longs making up nearly 89% (KuCoin News; CryptoTicker).",
       "confidence": "confirmed"
     },
     {
       "title": "ETF outflows continue",
-      "summary": "U.S. spot bitcoin ETFs saw about $1.44 billion of net outflows over five sessions through Wednesday, and preliminary Farside data showed another $47.7 million out on Thursday (CryptoTicker).",
-      "confidence": "developing"
-    },
-    {
-      "title": "Yields and the dollar weigh on crypto",
-      "summary": "The 10-year Treasury yield climbed above 5% and the U.S. Dollar Index rose above 103 as markets raised the odds of a December Fed rate hike after hotter-than-expected October inflation (CryptoTicker).",
+      "summary": "U.S. spot bitcoin ETFs had $47.7 million of net outflows on Nov. 12, a sixth straight day, bringing the streak to about $1.49 billion; spot ether ETFs have seen about $696 million of outflows so far in November (KuCoin News).",
       "confidence": "confirmed"
     },
     {
-      "title": "Sentiment hits extreme fear",
-      "summary": "The Crypto Fear and Greed Index fell to 20, or extreme fear, from 28 a day earlier, its lowest reading since July 8 (CryptoTicker; CoinGabbar, citing Alternative.me).",
+      "title": "Sentiment at extreme fear",
+      "summary": "The Crypto Fear and Greed Index fell to 20, its lowest since July 8, and average perpetual futures funding rates turned negative for the first time in a month (KuCoin News).",
       "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin fell about 6% to 7% and Ether about 5% to 6% over 24 hours to early Friday (CryptoTicker; CoinCodex)."
+      "note": "Bitcoin was down about 4.7% and Ether about 3% over 24 hours by Friday morning, after deeper overnight losses of 6% to 7% (Yahoo Finance; KuCoin News; FinFly, citing CoinGecko)."
     },
     {
       "name": "Large-cap altcoins",
-      "note": "BNB fell about 5.9% to near $634, Solana 2.9% to about $80.50 and XRP 1.3% to about $1.03 over 24 hours; over seven days XRP is down about 14% and Solana about 10% (CryptoTicker)."
+      "note": "BNB fell 6.52% to about $631, Solana 5.63% to about $78.24 and XRP 3.74% to about $1 over 24 hours (FinFly, citing CoinGecko)."
     },
     {
-      "name": "DeFi",
-      "note": "The DeFi sector's market cap was about $62.2 billion, down 4.1% over 24 hours, per CoinGecko data cited by CoinGabbar."
+      "name": "Ether staking",
+      "note": "About 44.6 million ETH, or 36.51% of supply, is staked, and the validator exit queue holds about 270,000 ETH with a wait of about five and a half days (KuCoin News)."
     },
     {
-      "name": "Derivatives",
-      "note": "Liquidations totaled about $783 million in bitcoin, $260 million in ether and $54 million in Solana positions over 24 hours (CoinCentral)."
+      "name": "Crypto stocks",
+      "note": "Coinbase, Robinhood and Circle shares declined Friday along with the drop in bitcoin (Yahoo Finance)."
     }
   ],
   "watch_list": [
     {
-      "topic": "U.S. producer prices on Friday",
-      "why": "The October PPI report is due Friday and could shape expectations for the Fed's December decision (CoinCentral; CoinGabbar).",
-      "confidence": "confirmed"
-    },
-    {
-      "topic": "The $68,000 level",
-      "why": "Bitcoin is trading just above $68,000, the next downside level Wintermute said it was watching earlier this week (CoinCentral; CoinDesk).",
+      "topic": "Rates after the PPI report",
+      "why": "October producer prices rose 0.3%, slightly below forecasts, but the 6.5% annual gain was the largest since 2022, keeping a December Fed hike in focus (KuCoin News; TheStreet).",
       "confidence": "developing"
     },
     {
-      "topic": "ETF flows and stablecoin supply",
-      "why": "Glassnode data show stablecoin supply fell about $14.2 billion over 30 days, and analysts are watching ETF flows and stablecoins for signs of returning demand (CoinCentral).",
+      "topic": "The 200-week moving average",
+      "why": "Bitcoin is trading near its 200-week moving average around $68,000, a level analysts are watching after the overnight break below it (KuCoin News).",
+      "confidence": "developing"
+    },
+    {
+      "topic": "Thin liquidity and ETF flows",
+      "why": "Order-book depth was about 33% below normal earlier this week while leverage stays elevated, which Talos said leaves the market open to sharp moves either way; ETF flows are being watched for a turn (KuCoin News).",
       "confidence": "developing"
     }
   ],
@@ -93,53 +93,53 @@
     },
     {
       "name": "Bitcoin (BTC)",
-      "pct": -6.2,
-      "note": "About $69,000 as of 2:30 AM ET (CryptoTicker, citing CoinGecko)."
+      "pct": -4.67,
+      "note": "About $68,470 as of 12:22 PM ET (Yahoo Finance)."
     },
     {
       "name": "Ethereum (ETH)",
-      "pct": -5.2,
-      "note": "About $1,942 as of 2:30 AM ET (CryptoTicker, citing CoinGecko)."
+      "pct": -3.1,
+      "note": "About $1,958 as of 7:25 AM ET (KuCoin News, citing CoinGecko)."
     },
     {
-      "name": "BNB (BNB)",
-      "pct": -5.9,
-      "note": "About $634 (CryptoTicker, citing CoinGecko)."
+      "name": "Solana (SOL)",
+      "pct": -5.63,
+      "note": "About $78.24 (FinFly, citing CoinGecko)."
     },
     {
       "name": "Ultima (ULTIMA)",
       "pct": -12.65,
-      "note": "Largest decliner in CoinCodex's daily update."
+      "note": "Largest decliner in CoinCodex's daily update as of 1:00 AM ET."
     }
   ],
   "sources": [
     {
-      "title": "CryptoTicker — Crypto news, November 13: bitcoin down 6%, over $1.3 billion liquidated",
-      "url": "https://cryptoticker.io/en/crypto-news-bitcoin-crash-liquidations-etf-outflows-november-13-2026/"
+      "title": "KuCoin News — Bitcoin Price Drops to $67,555, Lowest Since Mid-August",
+      "url": "https://www.kucoin.com/news/flash/bitcoin-price-drops-to-67-555-lowest-since-mid-august"
     },
     {
-      "title": "CoinCodex — Daily Market Update for Nov 13, 2026",
-      "url": "https://coincodex.com/article/95338/daily-market-update-for-november-13-2026"
-    },
-    {
-      "title": "CoinCentral — Why is Crypto Dropping Today? November 13, 2026",
-      "url": "https://coincentral.com/why-is-crypto-dropping-today-november-13-2026"
-    },
-    {
-      "title": "CoinGabbar — Crypto News Nov 13: Bitcoin, Ethereum, DeFi Slips Ahead of US PPI Data",
-      "url": "https://www.coingabbar.com/en/crypto-news-nov-13-bitcoin-eth-price-fear-index-us-ppi-data"
+      "title": "KuCoin News — Ethereum Price Drops to $1,958 as ETF Outflows Reach $696M",
+      "url": "https://kucoin.com/news/flash/ethereum-price-drops-to-1-958-as-etf-outflows-reach-696m"
     },
     {
       "title": "CoinGecko — Crypto Market Cap Charts",
       "url": "https://www.coingecko.com/en/charts"
     },
     {
-      "title": "CoinDesk — Bitcoin price weakness erases September's bullish signal: Crypto Daily",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal"
+      "title": "CoinCodex — Daily Market Update for Nov 13, 2026",
+      "url": "https://coincodex.com/article/95338/daily-market-update-for-november-13-2026"
     },
     {
-      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq slip as Nvidia stock falls on CEO exit, bond yields rise",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+      "title": "FinFly — Bitcoin and crypto prices on November 13, 2026",
+      "url": "https://finfly.news/en/crypto/crypto-prices-2026-11-13"
+    },
+    {
+      "title": "CryptoTicker — Crypto news, November 13: bitcoin down 6%, over $1.3 billion liquidated",
+      "url": "https://cryptoticker.io/en/crypto-news-bitcoin-crash-liquidations-etf-outflows-november-13-2026/"
+    },
+    {
+      "title": "Yahoo Finance — Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     }
   ]
 }

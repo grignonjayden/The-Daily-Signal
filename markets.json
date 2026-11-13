@@ -1,117 +1,117 @@
 {
-  "generated_at": "Nov 13, 2026, 7:45 AM ET (last session: Thursday, Nov. 12 close; Friday's session has not opened)",
+  "generated_at": "Nov 13, 2026, 12:40 PM ET (Friday session in progress; last close: Thursday, Nov. 12)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed Thursday at 52,297.09, down 189.40 points or 0.36%, the last completed session before Friday's open (Yahoo Finance; The Motley Fool)."
+      "note": "Down 115.62 points, or 0.22%, at 52,181.47 as of 12:22 PM ET Friday, after closing Thursday at 52,297.09, down 0.36% (Yahoo Finance)."
     },
     {
       "index": "S&P 500",
-      "note": "Closed Thursday at 7,592.40, down about 27 points or 0.35%, after rising 1.3% on Wednesday (Yahoo Finance; The Motley Fool). 24/7 Wall St. reported a slightly larger decline of about 0.43%."
+      "note": "Down 63.59 points, or 0.84%, at 7,528.81 as of 12:22 PM ET Friday, after a higher open faded; it closed Thursday at 7,592.40, down 0.35% (Yahoo Finance; TheStreet)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed Thursday at 25,366.09, down 100.10 points or 0.39%, as rate-hike expectations weighed on growth stocks (Yahoo Finance; 24/7 Wall St.)."
+      "note": "Down 350.14 points, or 1.38%, at 25,015.95 as of 12:22 PM ET Friday as chip stocks sold off; it closed Thursday at 25,366.09, down 0.39% (Yahoo Finance)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "About $88.30 a barrel early Friday, down about 0.5%, and on track for a weekly loss of about 2.5%; Brent was near $95.50, down about 0.3% (HDFC Sky, as of 10:04 AM IST Friday)."
+      "note": "About $88.45 a barrel as of midday Friday, down 0.33% for the December contract; Brent was near $96.21 earlier in the morning (Yahoo Finance; TheStreet)."
     }
   ],
   "themes": [
     {
-      "title": "Nvidia falls after Jensen Huang resigns",
-      "summary": "Nvidia closed Thursday at $166.19, down 4.34%, after CEO Jensen Huang's sudden resignation; the stock traded as low as $148.80 during the session before recovering much of the drop (The Motley Fool).",
+      "title": "Wholesale inflation at a four-year high",
+      "summary": "October producer prices rose 0.3% on the month, below the 0.4% economists expected, but the 12-month gain of 6.5% was the largest since November 2022; core producer prices were up 5.0% from a year earlier, per LPL Financial (TheStreet; Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "Rivals rally as Nvidia slides",
-      "summary": "AMD rose 5.86% and Broadcom gained 5.54% as investors weighed possible market-share shifts, while Super Micro Computer fell 11.30% and Global Payments fell 12.01% (The Motley Fool).",
+      "title": "Chip stocks extend their slide",
+      "summary": "Semiconductor shares fell further on Friday: AMD was down about 10%, Broadcom about 6%, Intel and Micron about 5% each, and Nvidia about 3% as of midday, a day after CEO Jensen Huang's resignation (Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "Treasury yields near or above 5%",
-      "summary": "Yahoo Finance reported the 10-year Treasury yield rose about 10 basis points to 5.10% as markets priced in a possible December Fed rate hike after a hotter-than-expected October inflation report; The Motley Fool put the yield at 4.98%. Gold fell 3.02% to $3,879.60 (The Motley Fool).",
+      "title": "Yields keep climbing",
+      "summary": "The 10-year Treasury yield rose to about 5.14% and touched 5.17%, its highest since October, as markets priced in a quarter-point Fed rate hike at the Dec. 8-9 meeting; Bank of America said it now expects hikes in December, January and March (Yahoo Finance; TheStreet; 24/7 Wall St.).",
       "confidence": "confirmed"
     },
     {
-      "title": "Cisco and Cerebras rise after hours",
-      "summary": "After Thursday's close, Cisco rose about 3% after beating estimates and raising guidance, Cerebras Systems rose about 12% after raising its outlook, and Applied Materials slipped about 1.6% despite beating estimates (Investing.com).",
+      "title": "Mixed reaction to Thursday's earnings",
+      "summary": "Cerebras rose about 11% to 13% early Friday after record third-quarter revenue and a raised outlook, while Cisco fell about 3.5% on margin concerns and price-target cuts (TheStreet; Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "Oil heads for a second weekly drop",
-      "summary": "Crude eased early Friday after U.S. crude inventories rose 4.7 million barrels to 414.4 million in the week ended Nov. 6, against expectations for a decline, while Iran-related supply risks limited the fall (HDFC Sky).",
-      "confidence": "confirmed"
+      "title": "Volatility picks up",
+      "summary": "The VIX volatility index rose about 5% to near 19.7 by midday after briefly topping 20 in the morning; Microsoft fell about 1.4% early amid a global outage (Yahoo Finance; TheStreet).",
+      "confidence": "developing"
     }
   ],
   "sectors": [
     {
-      "name": "Technology",
-      "note": "Tech was the weakest S&P 500 sector in Thursday morning trading, down about 0.9%, with Nvidia's decline partly offset by gains in AMD and Broadcom (24/7 Wall St.; The Motley Fool).",
-      "momentum": 42
+      "name": "Semiconductors",
+      "note": "The weakest group on Friday, with AMD, Broadcom, Intel, Micron, Sandisk and Nvidia all lower as the selloff accelerated through the morning (Yahoo Finance).",
+      "momentum": 25
     },
     {
-      "name": "Industrials",
-      "note": "Industrials led gains among sectors on Thursday (The Motley Fool).",
-      "momentum": 60
+      "name": "Travel and Consumer",
+      "note": "Airbnb and Expedia were among early gainers, up about 2% to 2.4% shortly after the open (24/7 Wall St.).",
+      "momentum": 58
     },
     {
-      "name": "Health Care",
-      "note": "Health care lagged the other sectors on Thursday (The Motley Fool).",
-      "momentum": 38
+      "name": "Crypto-linked stocks",
+      "note": "Coinbase, Robinhood and Circle declined as bitcoin fell below $70,000 for the first time in nearly three months (Yahoo Finance).",
+      "momentum": 30
     },
     {
       "name": "Small Caps",
-      "note": "The Russell 2000 fell 1.66% to 2,799.06 on Thursday, underperforming large-cap indexes as yields rose (Yahoo Finance).",
-      "momentum": 34
+      "note": "The Russell 2000 was down 0.62% at 2,781.65 as of midday Friday, after falling 1.66% on Thursday (Yahoo Finance).",
+      "momentum": 38
     }
   ],
   "watch_list": [
     {
-      "topic": "Producer prices on Friday",
-      "why": "The October producer price index is due Friday and is another inflation reading ahead of the Fed's December meeting (CoinCentral; Yahoo Finance).",
-      "confidence": "confirmed"
-    },
-    {
-      "topic": "Reaction to Cisco, Applied Materials and Cerebras results",
-      "why": "All three reported after Thursday's close, so Friday's session is the first full trading reaction to their results and guidance (Investing.com).",
+      "topic": "Friday's close and the weekly result",
+      "why": "Stocks were still on track for weekly gains at midday Friday despite the day's decline (Yahoo Finance).",
       "confidence": "developing"
     },
     {
-      "topic": "Nvidia earnings and Anthropic IPO",
-      "why": "Nvidia reports results Tuesday, Nov. 17, its first since the leadership change, and the Anthropic IPO is set to price Wednesday, Nov. 18 (Yahoo Finance; The Motley Fool).",
+      "topic": "Nvidia earnings on Tuesday",
+      "why": "Nvidia reports quarterly results Tuesday, Nov. 17, its first since the leadership change, with CFO Colette Kress serving as interim CEO (Yahoo Finance; TheStreet).",
       "confidence": "confirmed"
+    },
+    {
+      "topic": "Fed December meeting",
+      "why": "CME FedWatch pricing points to a quarter-point rate hike at the Dec. 8-9 meeting, with the odds of a half-point hike under 10% (TheStreet).",
+      "confidence": "developing"
     }
   ],
   "sources": [
     {
-      "title": "The Motley Fool — Stock Market Today, Nov. 12: Nvidia CEO's Stunning Exit Sends Wall Street Lower as Rivals Surge",
-      "url": "https://fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge"
+      "title": "Yahoo Finance — Stock market today: S&P 500, Nasdaq turn lower as wholesale inflation rises, Nvidia stock falls",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     },
     {
-      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq slip as Nvidia stock falls on CEO exit, bond yields rise",
+      "title": "TheStreet — Stock Market Today (Nov. 13, 2026): S&P 500 Falls as Nvidia Slides After CEO Departure",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
+    },
+    {
+      "title": "24/7 Wall St. — S&P 500 Opens Lower as Tech Selloff Splits the Market",
+      "url": "https://247wallst.com/cards/money-is-rotating-out-of-tech-at-the-open-the-nasdaq-slid-0-gspc-market-bell-01m7apxf1k526ndn9rp38ns4mm"
+    },
+    {
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq slip as Nvidia stock falls on CEO exit, bond yields rise (Thursday)",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
     },
     {
-      "title": "Yahoo Finance — Stock Market News for Nov 12, 2026 (Wednesday session recap)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html"
+      "title": "Yahoo Finance — Stock Market News for Nov 13, 2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-13-081500049.html"
     },
     {
-      "title": "24/7 Wall St. — S&P 500 Closes Down 0.43% as Rate-Hike Odds Weigh on Growth Stocks",
-      "url": "https://247wallst.com/cards/rate-hike-odds-are-doing-the-damage-and-the-nasdaq-s-0-61-gspc-market-bell-01m78s60347w0kk4y4pfd5e2p6"
+      "title": "KuCoin News — Bitcoin Price Drops to $67,555, Lowest Since Mid-August",
+      "url": "https://www.kucoin.com/news/flash/bitcoin-price-drops-to-67-555-lowest-since-mid-august"
     },
     {
-      "title": "Investing.com — After-Hours Movers: CBRS, CSCO, AMAT, NMAX, FLO",
-      "url": "https://investing.com/news/stock-market-news/afterhours-movers-cbrs-csco-amat-nmax-flo-432SI-5023311"
-    },
-    {
-      "title": "HDFC Sky — Brent Crude Falls to $95.5, WTI Slips to $88.3 as oil heads for second weekly decline",
-      "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-13-2026-brent-slips-0-3percent-to-95-5-per-barrel-as-oil-heads-for-second-weekly-decline"
-    },
-    {
-      "title": "CoinCentral — Why is Crypto Dropping Today? November 13, 2026",
-      "url": "https://coincentral.com/why-is-crypto-dropping-today-november-13-2026"
+      "title": "The Motley Fool — Stock Market Today, Nov. 12: Nvidia CEO's Stunning Exit Sends Wall Street Lower as Rivals Surge",
+      "url": "https://fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge"
     }
   ]
 }
