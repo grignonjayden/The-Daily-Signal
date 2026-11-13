@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 13, 2026, 12:15 AM ET",
+  "generated_at": "Nov 13, 2026, 12:17 AM ET",
   "date_key": "2026-11-13",
   "sections": [
     {
@@ -12,7 +12,7 @@
           "name": "Gas (regular, national avg.)",
           "value": "153.0¢/L",
           "delta": {
-            "text": "▼ -2.0¢ vs yesterday",
+            "text": "▼ 2.0¢ vs yesterday",
             "dir": "down"
           },
           "note": "Week ago 165.3¢ · month ago 176.5¢ · year ago 132.5¢",
@@ -23,7 +23,7 @@
           "name": "Canadian dollar",
           "value": "$0.7015 US",
           "delta": {
-            "text": "▼ -0.37¢ US vs day before",
+            "text": "▼ 0.37¢ US vs day before",
             "dir": "down"
           },
           "note": "What 1 Canadian dollar buys in U.S. dollars. US$1 = C$1.4255.",
@@ -34,7 +34,7 @@
           "name": "5-year Canada bond yield",
           "value": "3.46%",
           "delta": {
-            "text": "▲ +11 bps vs day before",
+            "text": "▲ 11 bps vs day before",
             "dir": "up"
           },
           "note": "Fixed mortgage rates tend to follow this yield.",
@@ -127,7 +127,7 @@
           "name": "Unemployment rate",
           "value": "6.7%",
           "delta": {
-            "text": "▲ +0.2 pts vs last month",
+            "text": "▲ 0.2 pts vs last month",
             "dir": "up"
           },
           "note": "Share of people looking for work who can’t find a job.",
