@@ -58,7 +58,7 @@ async function gas() {
   return {
     name: 'Gas (regular, national avg.)',
     value: today.toFixed(1) + '¢/L',
-    delta: d == null ? null : { text: arrow(d) + ' ' + Math.abs(d).toFixed(1) + '¢ vs yesterday', dir: dir(d) },
+    delta: d == null ? null : { value: Math.abs(d).toFixed(1) + '¢', label: 'vs yesterday', dir: dir(d) },
     note: parts.join(' · '),
     as_of: upd ? 'CAA · ' + upd : 'CAA · today',
     url: URLS.caa,
@@ -83,7 +83,7 @@ async function loonie() {
   return {
     name: 'Canadian dollar',
     value: '$' + cad.toFixed(4) + ' US',
-    delta: d == null ? null : { text: arrow(d) + ' ' + Math.abs(d).toFixed(2) + '¢ US vs day before', dir: dir(d, 0.005) },
+    delta: d == null ? null : { value: Math.abs(d).toFixed(2) + '¢ US', label: 'vs day before', dir: dir(d, 0.005) },
     note: 'What 1 Canadian dollar buys in U.S. dollars. US$1 = C$' + last.v.toFixed(4) + '.',
     as_of: 'Bank of Canada · ' + fmtDay(last.d),
     url: URLS.fx,
@@ -97,7 +97,7 @@ async function bond5() {
   return {
     name: '5-year Canada bond yield',
     value: last.v.toFixed(2) + '%',
-    delta: bps == null ? null : { text: arrow(bps) + ' ' + Math.abs(bps) + ' bps vs day before', dir: dir(bps) },
+    delta: bps == null ? null : { value: Math.abs(bps) + ' bps', label: 'vs day before', dir: dir(bps) },
     note: 'Fixed mortgage rates tend to follow this yield.',
     as_of: 'Bank of Canada · ' + fmtDay(last.d),
     url: URLS.bonds,
@@ -117,7 +117,7 @@ async function policyRate(todayIso) {
   return {
     name: 'Bank of Canada rate',
     value: last.v.toFixed(2) + '%',
-    delta: next ? { text: 'Next decision ' + fmtDay(next).replace(/, \d{4}$/, ''), dir: 'flat' } : null,
+    delta: next ? { value: fmtDay(next).replace(/, \d{4}$/, ''), label: 'next decision', dir: 'event' } : null,
     note: sinceTxt + '. Sets the base for prime, variable mortgages and savings rates.',
     as_of: 'Bank of Canada · ' + fmtDay(last.d),
     url: URLS.policy,
@@ -131,7 +131,7 @@ async function postedRate(series, name, note) {
   return {
     name,
     value: last.v.toFixed(2) + '%',
-    delta: d == null ? null : { text: d === 0 ? '● No change this week' : arrow(d) + ' ' + Math.abs(d).toFixed(2) + ' pts this week', dir: dir(d) },
+    delta: d == null ? null : (d === 0 ? { value: 'No change', label: 'this week', dir: 'flat' } : { value: Math.abs(d).toFixed(2) + ' pts', label: 'this week', dir: dir(d) }),
     note,
     as_of: 'Bank of Canada (weekly) · ' + fmtDay(last.d),
     url: URLS.posted,
@@ -164,6 +164,11 @@ function yoy(pts) {
   return { d: last.d, r, pr };
 }
 
+// Month-over-month change in a 12-month rate, e.g. 3.0% -> 3.1% = up 0.1 pts.
+function monthMove(x) {
+  const ch = +(x.r - x.pr).toFixed(1);
+  return { value: ch === 0 ? 'No change' : Math.abs(ch).toFixed(1) + ' pts', label: 'from ' + x.pr.toFixed(1) + '% last month', dir: dir(ch) };
+}
 async function costOfLiving() {
   const V = { cpi: 41690973, food: 41690974, unemp: 2062815 };
   const s = await statcan([{ id: V.cpi, n: 14 }, { id: V.food, n: 14 }, { id: V.unemp, n: 2 }]);
@@ -172,7 +177,7 @@ async function costOfLiving() {
   if (cpi) items.push({
     name: 'Inflation (CPI)',
     value: cpi.r.toFixed(1) + '%',
-    delta: cpi.pr == null ? null : { text: 'was ' + cpi.pr.toFixed(1) + '% the month before', dir: 'flat' },
+    delta: cpi.pr == null ? null : monthMove(cpi),
     note: 'How much prices overall rose over the past 12 months. The Bank of Canada aims for 2%.',
     as_of: 'Statistics Canada · ' + fmtMonth(cpi.d),
     url: URLS.cpi,
@@ -181,7 +186,7 @@ async function costOfLiving() {
   if (food) items.push({
     name: 'Food prices',
     value: food.r.toFixed(1) + '%',
-    delta: food.pr == null ? null : { text: 'was ' + food.pr.toFixed(1) + '% the month before', dir: 'flat' },
+    delta: food.pr == null ? null : monthMove(food),
     note: 'How much food prices rose over the past 12 months.',
     as_of: 'Statistics Canada · ' + fmtMonth(food.d),
     url: URLS.cpi,
@@ -193,7 +198,7 @@ async function costOfLiving() {
     items.push({
       name: 'Unemployment rate',
       value: last.v.toFixed(1) + '%',
-      delta: d == null ? null : { text: d === 0 ? '● Same as last month' : arrow(d) + ' ' + Math.abs(d).toFixed(1) + ' pts vs last month', dir: dir(d) },
+      delta: d == null ? null : (d === 0 ? { value: 'No change', label: 'vs last month', dir: 'flat' } : { value: Math.abs(d).toFixed(1) + ' pts', label: 'vs last month', dir: dir(d) }),
       note: 'Share of people looking for work who can’t find a job.',
       as_of: 'Statistics Canada · ' + fmtMonth(last.d),
       url: URLS.lfs,

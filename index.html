@@ -260,7 +260,14 @@
   .live-updated { font-size: 11px; font-weight: 600; color: var(--ink-faint); margin: 10px 2px 0; }
   .live-updated a { color: inherit; }
   .ca-flag { display: block; height: 12px; width: 24px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); flex-shrink: 0; }
-  .pulse-chip .ca-delta { display: inline-block; margin: 6px 0 8px; }
+  .trend { display: flex; align-items: center; gap: 6px; margin: 6px 0 9px; font-size: 12px; line-height: 1; }
+  .trend-ic { width: 20px; height: 20px; border-radius: 50%; display: grid; place-items: center; flex: none; }
+  .trend-ic svg { width: 12px; height: 12px; } .trend-ic svg path { stroke-width: 2.6; }
+  .trend-val { font-weight: 800; letter-spacing: -0.01em; }
+  .trend-lbl { color: var(--ink-faint); font-weight: 600; }
+  .trend.up .trend-ic { background: var(--mint-soft); color: var(--mint-deep); } .trend.up .trend-val { color: var(--mint-deep); }
+  .trend.down .trend-ic { background: var(--pink-soft); color: var(--pink-deep); } .trend.down .trend-val { color: var(--pink-deep); }
+  .trend.flat .trend-ic, .trend.event .trend-ic { background: var(--surface); color: var(--ink-soft); } .trend.flat .trend-val, .trend.event .trend-val { color: var(--ink-soft); }
   .pulse-chip .ca-asof { margin-top: 6px; color: var(--ink-faint); font-size: 11px; }
 
   /* ---------- Filter chips ---------- */
@@ -1461,6 +1468,18 @@ const TODAYS_NEWS = {
 
 // Module 3 — Canada Work: daily Canadian stats from canada.json (GitHub Action, a few times a day).
 const TODAYS_CANADA = { generated_at: '', sections: [] };
+// Trend badge: coloured arrow circle + bold change + soft label (Canada tab).
+const TREND_ICONS = { up: 'M7 17L17 7M9 7h8v8', down: 'M7 7l10 10M17 9v8H9', flat: 'M5 12h14M14 7l5 5-5 5', event: 'M4 6h16v14H4zM4 10h16M8 3v4M16 3v4' };
+function trendBadge(d) {
+  const kind = TREND_ICONS[d.dir] ? d.dir : 'flat';
+  const wrap = el('div', { className: 'trend ' + kind });
+  const ic = el('span', { className: 'trend-ic' });
+  ic.appendChild(svgIcon(TREND_ICONS[kind]));
+  wrap.appendChild(ic);
+  wrap.appendChild(el('span', { className: 'trend-val', text: d.value || (d.text || '').replace(/^[▲▼●]\s*/, '') }));
+  if (d.label) wrap.appendChild(el('span', { className: 'trend-lbl', text: d.label }));
+  return wrap;
+}
 function renderCanada(data, dateKey) {
   dateline.textContent = 'Canada for ' + fmtDateHuman(data.date_key || dateKey) + (data.generated_at ? ' · updated ' + data.generated_at : '');
   mainPanel.innerHTML = '';
@@ -1483,7 +1502,7 @@ function renderCanada(data, dateKey) {
       top.appendChild(el('div', { className: 'idx', text: it.name || '' }));
       chip.appendChild(top);
       chip.appendChild(el('div', { className: 'price', text: it.value || '—' }));
-      if (it.delta && it.delta.text) chip.appendChild(el('div', { className: 'delta-pill flat ca-delta', text: it.delta.text }));
+      if (it.delta && (it.delta.value || it.delta.text)) chip.appendChild(trendBadge(it.delta));
       if (it.note) chip.appendChild(el('div', { className: 'note', text: it.note }));
       chip.appendChild(el('div', { className: 'note ca-asof', text: (it.as_of || '') + (it.stale ? ' · couldn’t refresh, showing last value' : '') }));
       scroll.appendChild(chip);
