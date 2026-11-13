@@ -465,6 +465,8 @@ const ICONS = {
   gem: 'M6 3h12l3 6-9 12L3 9zM3 9h18M9 3l3 6 3-6',
   coin: 'M12 3a9 9 0 100 18 9 9 0 000-18zM12 7v10M9.3 9.6c0-1.1 1-1.7 2.7-1.7s2.7.7 2.7 1.7-1.1 1.4-2.7 1.9-2.7 1.1-2.7 2 1.1 1.5 2.7 1.5 2.7-.6 2.7-1.5',
   maple: 'm4890 4430-45-863a95 95 0 0 1 111-98l859 151-116-320a65 65 0 0 1 20-73l941-762-212-99a65 65 0 0 1-34-79l186-572-542 115a65 65 0 0 1-73-38l-105-247-423 454a65 65 0 0 1-111-57l204-1052-327 189a65 65 0 0 1-91-27l-332-652-332 652a65 65 0 0 1-91 27l-327-189 204 1052a65 65 0 0 1-111 57l-423-454-105 247a65 65 0 0 1-73 38l-542-115 186 572a65 65 0 0 1-34 79l-212 99 941 762a65 65 0 0 1 20 73l-116 320 859-151a95 95 0 0 1 111 98l-45 863z',
+  bitcoin: 'M6 5h7a3.5 3.5 0 010 7H6zM6 12h8a3.5 3.5 0 010 7H6zM6 5v14M8.5 3v2M12 3v2M8.5 19v2M12 19v2',
+  frontpage: 'M4 5h13v14H6a2 2 0 01-2-2zM17 9h3v8a2 2 0 01-2 2M7 8h7v4H7zM7 15h7',
   newspaper: 'M4 4h13a2 2 0 012 2v13a1 1 0 01-1.4.9L14 18H4a2 2 0 01-2-2V6a2 2 0 012-2z M7 8h7M7 11h7M7 14h4M17 8v9'
 };
 function sectorIconKey(name) {
@@ -1497,8 +1499,8 @@ function renderCanada(data, dateKey) {
 
 const TAB_CONFIG = {
   markets: { label: 'Markets', icon: 'pulse', data: TODAYS_BRIEFING, render: renderBriefing },
-  crypto: { label: 'Crypto', icon: 'coin', data: TODAYS_CRYPTO, render: renderCrypto },
-  news: { label: 'News', icon: 'newspaper', data: TODAYS_NEWS, render: renderNews },
+  crypto: { label: 'Crypto', icon: 'bitcoin', data: TODAYS_CRYPTO, render: renderCrypto },
+  news: { label: 'News', icon: 'frontpage', data: TODAYS_NEWS, render: renderNews },
   canada: { label: 'Canada', icon: 'maple', data: TODAYS_CANADA, render: renderCanada }
 };
 let activeTab = 'markets';
