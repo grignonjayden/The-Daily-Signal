@@ -68,7 +68,8 @@ async function gas() {
 // ---------- Bank of Canada Valet ----------
 async function valet(series, recent) {
   const j = await (await get(`https://www.bankofcanada.ca/valet/observations/${series}/json?recent=${recent}`, { headers: { Accept: 'application/json' } })).json();
-  const obs = (j.observations || []).map(o => ({ d: o.d, v: o[series] && o[series].v !== '' ? parseFloat(o[series].v) : NaN })).filter(o => !isNaN(o.v));
+  const obs = (j.observations || []).map(o => ({ d: o.d, v: o[series] && o[series].v !== '' ? parseFloat(o[series].v) : NaN })).filter(o => !isNaN(o.v))
+    .sort((a, b) => a.d < b.d ? -1 : a.d > b.d ? 1 : 0); // Valet returns newest first with ?recent
   if (!obs.length) throw new Error('Valet: no data for ' + series);
   console.log('Valet', series, '=', (j.seriesDetail && j.seriesDetail[series] && j.seriesDetail[series].label), obs[obs.length - 1]);
   return obs;
