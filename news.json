@@ -1,7 +1,57 @@
 {
-  "generated_at": "Nov 13, 2026, 12:38 AM ET",
+  "generated_at": "Nov 13, 2026, 3:42 AM ET",
   "date_key": "2026-11-13",
   "articles": [
+    {
+      "title": "European Stock Nudge Lower in Muted Opening Trade",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-1-led-by-chip-stocks-eb2ed881?mod=rss_markets_main",
+      "snippet": "European stock indexes edged lower in muted early trade, pulling back from record highs.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 13, 3:30 AM"
+    },
+    {
+      "title": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+      "snippet": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108211784-17604498902025-10-14t121921z_1221478754_rc2lega250jk_rtrmadp_0_amd-oracle-ai.jpeg?v=1760449905&w=1920&h=1080",
+      "time": "Nov 13, 3:27 AM"
+    },
+    {
+      "title": "Stock futures edge lower after markets slide amid Nvidia woes: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+      "snippet": "Major indexes sagged in Thursday's regular trading as Nvidia shares dove on Jensen Huang's exit.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550258-1794502895373-gettyimages-2304263485-US_STOCKS.jpeg?v=1794502956&w=1920&h=1080",
+      "time": "Nov 13, 3:20 AM"
+    },
+    {
+      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "snippet": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550678-1794525756680-gettyimages-2304840767-l1090279_copy_dnqn1zyt.jpeg?v=1794525804&w=1920&h=1080",
+      "time": "Nov 13, 3:05 AM"
+    },
+    {
+      "title": "Dollar Remains Firm on U.S. Rate Rise Prospects",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/currencies/french-political-and-fiscal-uncertainty-could-weigh-on-euro-c7deca5f?mod=rss_markets_main",
+      "snippet": "The U.S. dollar eased slightly against a basket of currencies, but remained near the 19-month high reached Thursday.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 13, 2:35 AM"
+    },
+    {
+      "title": "Asia’s Stock Rebound Fades as Nvidia Uncertainty Lingers",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/asia-stocks-stage-tentative-rebound-as-nvidia-uncertainty-lingers-c0953e15?mod=rss_markets_main",
+      "snippet": "The tentative rebound in Asia’s bruised technology stocks faded Friday afternoon as bearish sentiment overpowered the initial lift.",
+      "image": "https://images.wsj.net/im-04258422",
+      "time": "Nov 13, 2:09 AM"
+    },
     {
       "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
       "source": "MarketWatch",
@@ -9,38 +59,6 @@
       "snippet": "There is already a demographic ‘run’ on Social Security.",
       "image": "https://images.mktw.net/im-49247042",
       "time": "Nov 12, 11:46 PM"
-    },
-    {
-      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-      "snippet": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers.",
-      "image": "https://image.cnbcfm.com/api/v1/image/106921243-16280104992021-08-03t161859z_1971438431_rc2nxo9ys9jn_rtrmadp_0_new-york-cuomo.jpeg?v=1794534676&w=1920&h=1080",
-      "time": "Nov 12, 11:07 PM"
-    },
-    {
-      "title": "As Nvidia reels from Huang's affairs, who stands to gain?",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
-      "snippet": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108211784-17604498902025-10-14t121921z_1221478754_rc2lega250jk_rtrmadp_0_amd-oracle-ai.jpeg?v=1760449905&w=1920&h=1080",
-      "time": "Nov 12, 10:59 PM"
-    },
-    {
-      "title": "Asia Stocks Stage Tentative Rebound as Nvidia Uncertainty Lingers",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/world/asia/asia-stocks-stage-tentative-rebound-as-nvidia-uncertainty-lingers-c0953e15?mod=rss_markets_main",
-      "snippet": "Asia’s bruised technology stocks staged a tentative rebound early Friday after a sharp selloff opened the door to bargain-hunting, while uncertainty about the impact of Jensen Huang’s Nvidia lingers.",
-      "image": "https://images.wsj.net/im-04258422",
-      "time": "Nov 12, 10:53 PM"
-    },
-    {
-      "title": "The best CD rates of November 2026: Earn up to 5.05% APY",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/select/best-certificates-of-deposits/",
-      "snippet": "The best CD rates rival high-yield savings accounts — and your return is locked in.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108036663-1726769486590-gettyimages-1398472101-cashstackspig-3.jpeg?v=1785384860&w=1920&h=1080",
-      "time": "Nov 12, 10:47 PM"
     },
     {
       "title": "Experts warn of depending on single provider in light of Microsoft outage",
@@ -59,26 +77,10 @@
       "time": "Nov 12, 9:19 PM"
     },
     {
-      "title": "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?mod=rss_markets_main",
-      "snippet": "Interim CEO Colette Kress has questioned some Huang dealmaking. He called her “a deer in the headlights.”",
-      "image": "https://images.wsj.net/im-91311106",
-      "time": "Nov 12, 9:00 PM"
-    },
-    {
-      "title": "Japan’s Finance Minister Warns Against Rapid Yen Moves",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/currencies/japans-finance-minister-warns-against-rapid-yen-moves-cb65cc67?mod=rss_markets_main",
-      "snippet": "Finance Minister Satsuki Katayama called recent yen movements “one-sided and rapid.”",
-      "image": "https://images.wsj.net/im-15956853",
-      "time": "Nov 12, 8:36 PM"
-    },
-    {
       "title": "U.S. Senate Banking Committee chair calls on Huang, Lutnick to testify over Nvidia scandal",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/world/article-nvidia-jensen-huang-lutnick-senate-testify/",
-      "snippet": "Commerce Secretary’s White House future is reportedly in doubt while former Nvidia CEO Huang has resigned",
+      "snippet": "Commerce Secretary’s future is reportedly in doubt while former Nvidia CEO Huang has resigned",
       "image": "https://www.theglobeandmail.com/resizer/v2/GIXVCLC3N5DM5BKE63NUA5656M.JPG?auth=74894c0d06f96a6a942955d91274ebabd7546c08097deddc6349bb30da615182&smart=true&width=7373&height=4918",
       "time": "Nov 12, 8:12 PM"
     },
@@ -164,6 +166,31 @@
   ],
   "ticker": [
     {
+      "time": "2:15 AM",
+      "title": "CNBC — Why Singapore keeps turning up in the fight over Nvidia chips and China",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html"
+    },
+    {
+      "time": "1:21 AM",
+      "title": "WSJ Markets — Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert",
+      "url": "https://www.wsj.com/finance/currencies/japans-finance-minister-warns-against-rapid-yen-moves-cb65cc67?mod=rss_markets_main"
+    },
+    {
+      "time": "12:51 AM",
+      "title": "CNBC — Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+    },
+    {
+      "time": "Nov 12",
+      "title": "CNBC — Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html"
+    },
+    {
+      "time": "Nov 12",
+      "title": "CNBC — The best CD rates of November 2026: Earn up to 5.05% APY",
+      "url": "https://www.cnbc.com/select/best-certificates-of-deposits/"
+    },
+    {
       "time": "Nov 12",
       "title": "CNBC — Chris Van Hollen announces run for U.S. Senate majority leader, challenging Schumer",
       "url": "https://www.cnbc.com/2026/11/13/van-hollen-schumer-us-senate-majority-leader.html"
@@ -175,18 +202,13 @@
     },
     {
       "time": "Nov 12",
-      "title": "CNBC — Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
-    },
-    {
-      "time": "Nov 12",
-      "title": "CNBC — Stock futures rise after market dips amid Nvidia woes: Live updates",
-      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
-    },
-    {
-      "time": "Nov 12",
       "title": "CNBC — The world's super-rich are piling into alternative investments. Here's why",
       "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html"
+    },
+    {
+      "time": "Nov 12",
+      "title": "WSJ Markets — Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
+      "url": "https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?mod=rss_markets_main"
     },
     {
       "time": "Nov 12",
@@ -202,26 +224,6 @@
       "time": "Nov 12",
       "title": "WSJ Markets — AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
       "url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?mod=rss_markets_main"
-    },
-    {
-      "time": "Nov 12",
-      "title": "WSJ Markets — Nikkei Rises 1.1%, Led by Chip Stocks",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-1-led-by-chip-stocks-eb2ed881?mod=rss_markets_main"
-    },
-    {
-      "time": "Nov 12",
-      "title": "Globe and Mail — AI deepfake campaign stole influencers’ faces to push trade war, Alberta referendum claims: study",
-      "url": "https://www.theglobeandmail.com/business/article-ai-deepfake-campaign-stole-influencers-faces-trade-war-alberta/"
-    },
-    {
-      "time": "Nov 12",
-      "title": "CNBC — Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html"
-    },
-    {
-      "time": "Nov 12",
-      "title": "CNBC — Stocks making the biggest moves Thursday: Cerebras, Cisco, Applied Materials & more",
-      "url": "https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html"
     }
   ]
 }
