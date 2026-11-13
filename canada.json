@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 13, 2026, 1:04 AM ET",
+  "generated_at": "Nov 13, 2026, 12:51 PM ET",
   "date_key": "2026-11-13",
   "sections": [
     {
@@ -10,13 +10,13 @@
       "items": [
         {
           "name": "Gas (regular, national avg.)",
-          "value": "153.0¢/L",
+          "value": "149.9¢/L",
           "delta": {
-            "value": "2.0¢",
+            "value": "3.1¢",
             "label": "vs yesterday",
             "dir": "down"
           },
-          "note": "Week ago 165.3¢ · month ago 176.5¢ · year ago 132.5¢",
+          "note": "Week ago 160.4¢ · month ago 176.1¢ · year ago 132.9¢",
           "as_of": "CAA · November 13 2026 at 4:00am",
           "url": "https://www.caa.ca/gas-prices/"
         },
@@ -34,14 +34,14 @@
         },
         {
           "name": "5-year Canada bond yield",
-          "value": "3.46%",
+          "value": "3.53%",
           "delta": {
-            "value": "11 bps",
+            "value": "7 bps",
             "label": "vs day before",
             "dir": "up"
           },
           "note": "Fixed mortgage rates tend to follow this yield.",
-          "as_of": "Bank of Canada · Nov 10, 2026",
+          "as_of": "Bank of Canada · Nov 12, 2026",
           "url": "https://www.bankofcanada.ca/rates/interest-rates/bond-yields/benchmark-bond-yields/"
         }
       ]
@@ -61,7 +61,7 @@
             "dir": "event"
           },
           "note": "Raised 0.25 pts, in effect since Oct 29, 2026. Sets the base for prime, variable mortgages and savings rates.",
-          "as_of": "Bank of Canada · Nov 11, 2026",
+          "as_of": "Bank of Canada · Nov 12, 2026",
           "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
         },
         {
