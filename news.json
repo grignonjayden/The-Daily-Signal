@@ -1,20 +1,78 @@
 {
-  "generated_at": "Nov 12, 2026, 8:27 PM ET",
-  "date_key": "2026-11-12",
+  "generated_at": "Nov 13, 2026, 12:37 AM ET",
+  "date_key": "2026-11-13",
   "articles": [
     {
-      "title": "Gold Edges Higher in Technical Rebound",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211?mod=rss_markets_main",
-      "snippet": "Gold edged higher in a likely technical rebound after falling overnight.",
-      "time": "Nov 12, 8:24 PM"
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "snippet": "There is already a demographic ‘run’ on Social Security.",
+      "image": "https://images.mktw.net/im-49247042",
+      "time": "Nov 12, 11:46 PM"
     },
     {
-      "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
+      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
-      "snippet": "Nvidia CFO Colette Kress has been named interim CEO during the search for Huang’s replacement.",
-      "time": "Nov 12, 8:22 PM"
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+      "snippet": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers.",
+      "image": "https://image.cnbcfm.com/api/v1/image/106921243-16280104992021-08-03t161859z_1971438431_rc2nxo9ys9jn_rtrmadp_0_new-york-cuomo.jpeg?v=1794534676&w=1920&h=1080",
+      "time": "Nov 12, 11:07 PM"
+    },
+    {
+      "title": "As Nvidia reels from Huang's affairs, who stands to gain?",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+      "snippet": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108211784-17604498902025-10-14t121921z_1221478754_rc2lega250jk_rtrmadp_0_amd-oracle-ai.jpeg?v=1760449905&w=1920&h=1080",
+      "time": "Nov 12, 10:59 PM"
+    },
+    {
+      "title": "Asia Stocks Stage Tentative Rebound as Nvidia Uncertainty Lingers",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/world/asia/asia-stocks-stage-tentative-rebound-as-nvidia-uncertainty-lingers-c0953e15?mod=rss_markets_main",
+      "snippet": "Asia’s bruised technology stocks staged a tentative rebound early Friday after a sharp selloff opened the door to bargain-hunting, while uncertainty about the impact of Jensen Huang’s Nvidia lingers.",
+      "image": "https://images.wsj.net/im-04258422",
+      "time": "Nov 12, 10:53 PM"
+    },
+    {
+      "title": "The best CD rates of November 2026: Earn up to 5.05% APY",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/select/best-certificates-of-deposits/",
+      "snippet": "The best CD rates rival high-yield savings accounts — and your return is locked in.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108036663-1726769486590-gettyimages-1398472101-cashstackspig-3.jpeg?v=1785384860&w=1920&h=1080",
+      "time": "Nov 12, 10:47 PM"
+    },
+    {
+      "title": "Experts warn of depending on single provider in light of Microsoft outage",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-microsoft-outage-experts-warn-risks-single-provider/",
+      "snippet": "Company’s Outlook, Teams and AI assistant Copilot were down for hours on Thursday",
+      "image": "https://www.theglobeandmail.com/resizer/v2/PSAS756255E65ESJYPOSECQIZM.JPG?auth=58103dac5a804bb716886bd23730d28fd2b84b04248da57b979729cc3ca2f066&smart=true&width=5400&height=3600",
+      "time": "Nov 12, 9:41 PM"
+    },
+    {
+      "title": "Darth Vader’s lightsaber from iconic ‘Star Wars’ duel sells for nearly $5-million",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/article-darth-vaders-lightsaber-from-iconic-star-wars-duel-sells-for-nearly-5/",
+      "snippet": "Sale sets new record for a Star Wars collectible, surpassing the $3.75-million sale of a Luke Skywalker prop earlier this year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ILMJG5RN5ZDVXDXIMFHJTD6ZF4.jpeg?auth=cf72e51309047812fbad773f6c74f3d437fcb8978173b3bfb50ec8abd17ecb1d&smart=true&width=1429&height=755",
+      "time": "Nov 12, 9:19 PM"
+    },
+    {
+      "title": "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?mod=rss_markets_main",
+      "snippet": "Interim CEO Colette Kress has questioned some Huang dealmaking. He called her “a deer in the headlights.”",
+      "image": "https://images.wsj.net/im-91311106",
+      "time": "Nov 12, 9:00 PM"
+    },
+    {
+      "title": "Japan’s Finance Minister Warns Against Rapid Yen Moves",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/currencies/japans-finance-minister-warns-against-rapid-yen-moves-cb65cc67?mod=rss_markets_main",
+      "snippet": "Finance Minister Satsuki Katayama called recent yen movements “one-sided and rapid.”",
+      "image": "https://images.wsj.net/im-15956853",
+      "time": "Nov 12, 8:36 PM"
     },
     {
       "title": "U.S. Senate Banking Committee chair calls on Huang, Lutnick to testify over Nvidia scandal",
@@ -23,43 +81,6 @@
       "snippet": "Commerce Secretary’s White House future is reportedly in doubt while former Nvidia CEO Huang has resigned",
       "image": "https://www.theglobeandmail.com/resizer/v2/GIXVCLC3N5DM5BKE63NUA5656M.JPG?auth=74894c0d06f96a6a942955d91274ebabd7546c08097deddc6349bb30da615182&smart=true&width=7373&height=4918",
       "time": "Nov 12, 8:12 PM"
-    },
-    {
-      "title": "AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?mod=rss_markets_main",
-      "snippet": "Stripe is positioning itself as a key cog for agentic commerce, while JPMorgan Chase is a skeptic.",
-      "image": "https://images.wsj.net/im-97804399",
-      "time": "Nov 12, 8:00 PM"
-    },
-    {
-      "title": "Stock futures rise after market dips amid Nvidia woes: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-      "snippet": "Major indexes sagged in Thursday's regular trading as Nvidia shares dove on Jensen Huang's exit.",
-      "time": "Nov 12, 7:24 PM"
-    },
-    {
-      "title": "Nikkei Rises 1.1%, Led by Chip Stocks",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-1-led-by-chip-stocks-eb2ed881?mod=rss_markets_main",
-      "snippet": "Japanese stocks were higher, led by chip-related stocks, despite continued uncertainty over the U.S. and Japanese monetary policies.",
-      "time": "Nov 12, 7:19 PM"
-    },
-    {
-      "title": "AI deepfake campaign stole influencers’ faces to push trade war, Alberta referendum claims: study",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-ai-deepfake-campaign-stole-influencers-faces-trade-war-alberta/",
-      "snippet": "McGill University researchers linked more than 3,000 videos as being part of a network of AI deepfakes, drawing over 20 million views in just three months",
-      "image": "https://www.theglobeandmail.com/resizer/v2/VPCZL3YKE5FD3JQJ5G2EEKXLQY.JPG?auth=681eb74343fd8bbb8678f0421b1c08e4705de5a73729ee3fea1934bfa63ff12f&smart=true&width=8256&height=5504",
-      "time": "Nov 12, 7:12 PM"
-    },
-    {
-      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
-      "snippet": "Without Huang, Cramer said Thursday, \"There won't be a better Nvidia, just a different one.\"",
-      "time": "Nov 12, 6:14 PM"
     },
     {
       "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
@@ -76,22 +97,6 @@
       "snippet": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
       "image": "https://images.mktw.net/im-87023125",
       "time": "Nov 12, 5:38 PM"
-    },
-    {
-      "title": "RBC parts with top-ranked mining analyst Josh Wolfson, poaches Scotia’s Ovais Habib",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-rbc-mining-analyst-josh-wolfson-ovais-habib/",
-      "snippet": "Investment bank is moving to broaden its focus on mid-cap mining companies, which can generate higher fees than the major miners",
-      "image": "https://www.theglobeandmail.com/resizer/v2/N2N4V7I7LBFPLJIG7RGTCDWREE?auth=4e23076adf2cc88a7dcd32f68fcf4d9ac7935734eb553dc1da5e579aafc5d8a5&smart=true&width=2048&height=1495",
-      "time": "Nov 12, 5:20 PM"
-    },
-    {
-      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
-      "snippet": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
-      "image": "https://images.mktw.net/im-73097292",
-      "time": "Nov 12, 5:16 PM"
     }
   ],
   "official": [
@@ -100,6 +105,8 @@
       "source": "Finance Canada",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-adjusts-the-taxable-value-threshold-for-zero-emission-vehicles.html",
       "snippet": "Canada starts from a position of strength, with a nearly 80% clean grid and some of the lowest electricity costs in the G7. The shift to clean and affordable power is extending to transportation, with Budget 2026…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
       "time": "Nov 12, 7:41 PM"
     },
     {
@@ -107,6 +114,8 @@
       "source": "Finance Canada",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-in-toronto-to-highlight-budget-2026.html",
       "snippet": "On November 13th, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will be in Toronto to highlight Budget 2026, the government’s ambitious plan to build a stronger, more…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
       "time": "Nov 12, 3:59 PM"
     },
     {
@@ -114,6 +123,8 @@
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
       "snippet": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
       "time": "Nov 12, 1:30 PM"
     },
     {
@@ -121,6 +132,8 @@
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
       "snippet": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
       "time": "Nov 12, 12:45 PM"
     },
     {
@@ -128,6 +141,7 @@
       "source": "Statistics Canada",
       "url": "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112a-eng.htm",
       "snippet": "In September, the total value of building permits issued in Canada declined $552.8 million (-4.1%) to $12.9 billion.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261112/cg261112a001-eng.png",
       "time": "Nov 12, 8:30 AM"
     },
     {
@@ -135,6 +149,7 @@
       "source": "Statistics Canada",
       "url": "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112b-eng.htm",
       "snippet": "Self-employed workers represent a diverse group, spanning a wide range of situations, from gig workers to the owners of large businesses. Understanding their diverse and evolving circumstances can shed light on the…",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261112/cg261112b001-eng.png",
       "time": "Nov 12, 8:30 AM"
     },
     {
@@ -147,64 +162,64 @@
   ],
   "ticker": [
     {
-      "time": "6:08 PM",
-      "title": "CNBC — Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
+      "time": "Nov 12",
+      "title": "CNBC — Chris Van Hollen announces run for U.S. Senate majority leader, challenging Schumer",
+      "url": "https://www.cnbc.com/2026/11/13/van-hollen-schumer-us-senate-majority-leader.html"
     },
     {
-      "time": "5:51 PM",
-      "title": "CNBC — Stocks making the biggest moves Thursday: Cerebras, Cisco, Applied Materials & more",
-      "url": "https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html"
-    },
-    {
-      "time": "5:48 PM",
+      "time": "Nov 12",
       "title": "CNBC — Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
       "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
     },
     {
-      "time": "5:47 PM",
-      "title": "CNBC — Alice Huang tied to Nvidia’s biggest Chinese competitor",
-      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html"
+      "time": "Nov 12",
+      "title": "CNBC — Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
     },
     {
-      "time": "5:24 PM",
-      "title": "CNBC — Widespread Microsoft outage takes down Outlook and other 365 services",
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+      "time": "Nov 12",
+      "title": "CNBC — Stock futures rise after market dips amid Nvidia woes: Live updates",
+      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
     },
     {
-      "time": "5:17 PM",
-      "title": "CNBC — Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-      "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html"
+      "time": "Nov 12",
+      "title": "CNBC — The world's super-rich are piling into alternative investments. Here's why",
+      "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html"
     },
     {
-      "time": "5:12 PM",
-      "title": "WSJ Markets — U.S. Stocks Down as Huang Ouster Sends Shockwaves Through Tech",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-huang-ouster-sends-shockwaves-through-tech-5b0aa02a?mod=rss_markets_main"
+      "time": "Nov 12",
+      "title": "WSJ Markets — Oil Slips Again as Traders Weigh Diplomacy Hopes",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-slips-again-as-traders-weigh-diplomacy-hopes-808f1641?mod=rss_markets_main"
     },
     {
-      "time": "5:06 PM",
-      "title": "CNBC — Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
-      "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html"
+      "time": "Nov 12",
+      "title": "WSJ Markets — Gold Edges Higher in Technical Rebound",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211?mod=rss_markets_main"
     },
     {
-      "time": "5:02 PM",
-      "title": "WSJ Markets — Oil Futures Rebound as Trump Shrugs Off Need for Iran Deal",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-resumes-decline-as-risk-premium-fades-bcdc7fc5?mod=rss_markets_main"
+      "time": "Nov 12",
+      "title": "WSJ Markets — AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
+      "url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?mod=rss_markets_main"
     },
     {
-      "time": "5:00 PM",
-      "title": "MarketWatch — ‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
+      "time": "Nov 12",
+      "title": "WSJ Markets — Nikkei Rises 1.1%, Led by Chip Stocks",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-1-led-by-chip-stocks-eb2ed881?mod=rss_markets_main"
     },
     {
-      "time": "4:55 PM",
-      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-382816ab?mod=rss_markets_main"
+      "time": "Nov 12",
+      "title": "Globe and Mail — AI deepfake campaign stole influencers’ faces to push trade war, Alberta referendum claims: study",
+      "url": "https://www.theglobeandmail.com/business/article-ai-deepfake-campaign-stole-influencers-faces-trade-war-alberta/"
     },
     {
-      "time": "4:55 PM",
-      "title": "MarketWatch — Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
-      "url": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories"
+      "time": "Nov 12",
+      "title": "CNBC — Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html"
+    },
+    {
+      "time": "Nov 12",
+      "title": "CNBC — Stocks making the biggest moves Thursday: Cerebras, Cisco, Applied Materials & more",
+      "url": "https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html"
     }
   ]
 }
