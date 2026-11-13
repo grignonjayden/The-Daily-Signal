@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 13, 2026, 12:37 AM ET",
+  "generated_at": "Nov 13, 2026, 12:38 AM ET",
   "date_key": "2026-11-13",
   "articles": [
     {
@@ -157,6 +157,8 @@
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
       "snippet": "The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the SEC’s Division of Enforcement remained focused on its…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
       "time": "Nov 10, 11:15 AM"
     }
   ],
