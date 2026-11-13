@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 13, 2026, 12:14 AM ET",
+  "generated_at": "Nov 13, 2026, 12:15 AM ET",
   "date_key": "2026-11-13",
   "sections": [
     {
@@ -21,24 +21,24 @@
         },
         {
           "name": "Canadian dollar",
-          "value": "$0.7081 US",
+          "value": "$0.7015 US",
           "delta": {
-            "text": "▲ +0.29¢ US vs day before",
-            "dir": "up"
+            "text": "▼ -0.37¢ US vs day before",
+            "dir": "down"
           },
-          "note": "What 1 Canadian dollar buys in U.S. dollars. US$1 = C$1.4123.",
-          "as_of": "Bank of Canada · Nov 9, 2026",
+          "note": "What 1 Canadian dollar buys in U.S. dollars. US$1 = C$1.4255.",
+          "as_of": "Bank of Canada · Nov 12, 2026",
           "url": "https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/"
         },
         {
           "name": "5-year Canada bond yield",
-          "value": "3.36%",
+          "value": "3.46%",
           "delta": {
-            "text": "▲ +1 bps vs day before",
+            "text": "▲ +11 bps vs day before",
             "dir": "up"
           },
           "note": "Fixed mortgage rates tend to follow this yield.",
-          "as_of": "Bank of Canada · Nov 6, 2026",
+          "as_of": "Bank of Canada · Nov 10, 2026",
           "url": "https://www.bankofcanada.ca/rates/interest-rates/bond-yields/benchmark-bond-yields/"
         }
       ]
@@ -51,13 +51,13 @@
       "items": [
         {
           "name": "Bank of Canada rate",
-          "value": "2.75%",
+          "value": "2.50%",
           "delta": {
             "text": "Next decision Dec 9",
             "dir": "flat"
           },
-          "note": "Raised 0.25 pts, in effect since Sep 17, 2025. Sets the base for prime, variable mortgages and savings rates.",
-          "as_of": "Bank of Canada · Apr 25, 2025",
+          "note": "Raised 0.25 pts, in effect since Oct 29, 2026. Sets the base for prime, variable mortgages and savings rates.",
+          "as_of": "Bank of Canada · Nov 11, 2026",
           "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
         },
         {
@@ -68,7 +68,7 @@
             "dir": "flat"
           },
           "note": "What banks charge their best customers; variable loans and lines of credit move with it.",
-          "as_of": "Bank of Canada (weekly) · Nov 4, 2026",
+          "as_of": "Bank of Canada (weekly) · Nov 11, 2026",
           "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/posted-interest-rates-offered-by-chartered-banks/"
         },
         {
@@ -79,7 +79,7 @@
             "dir": "flat"
           },
           "note": "Big banks’ advertised rate. Most borrowers get a lower, discounted rate.",
-          "as_of": "Bank of Canada (weekly) · Nov 4, 2026",
+          "as_of": "Bank of Canada (weekly) · Nov 11, 2026",
           "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/posted-interest-rates-offered-by-chartered-banks/"
         },
         {
@@ -90,7 +90,7 @@
             "dir": "flat"
           },
           "note": "Typical rate banks pay on a 1-year guaranteed investment certificate.",
-          "as_of": "Bank of Canada (weekly) · Nov 4, 2026",
+          "as_of": "Bank of Canada (weekly) · Nov 11, 2026",
           "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/posted-interest-rates-offered-by-chartered-banks/"
         }
       ]
