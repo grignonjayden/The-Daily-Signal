@@ -149,7 +149,7 @@ const SOURCE_PHOTO_PAGES = {
   'Bank of Canada': ['Bank of Canada Building', 'Bank of Canada'],
   'Finance Canada': ['Parliament Hill', 'Centre Block'],
   'Statistics Canada': ['Statistics Canada', 'Tunney\'s Pasture', 'Ottawa'],
-  'U.S. SEC': ['Station Place (Washington, D.C.)', 'U.S. Securities and Exchange Commission'],
+  'U.S. SEC': ['Station Place (Washington, D.C.)', 'United States Capitol', 'Washington, D.C.'],
   'WSJ Markets': ['Wall Street', 'New York Stock Exchange'],
   'MarketWatch': ['New York Stock Exchange', 'Wall Street'],
   'CNBC': ['New York Stock Exchange', 'Wall Street'],
