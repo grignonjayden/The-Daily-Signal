@@ -1,14 +1,46 @@
 {
-  "generated_at": "Nov 13, 2026, 9:39 PM ET",
-  "date_key": "2026-11-13",
+  "generated_at": "Nov 14, 2026, 4:29 AM ET",
+  "date_key": "2026-11-14",
   "articles": [
     {
-      "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+      "title": "U.S. flights resume after FAA ground stop, but travel chaos continues",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-      "snippet": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551446-1794606918757-gettyimages-2304481529-111326-owh-new-faa-nf-05.jpeg?v=1794607055&w=1920&h=1080",
-      "time": "Nov 13, 9:33 PM"
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "snippet": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551467-1794607964689-IMG_0076.jpg?v=1794609835&w=1920&h=1080",
+      "time": "Nov 14, 4:26 AM"
+    },
+    {
+      "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html",
+      "snippet": "Beijing has repeatedly urged Washington to implement the $60 billion tariff-reduction deal, calling it a prerequisite for increasing purchases of US farm goods.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368116-1790348089846-gettyimages-2297090054-ah808629_b8zsmo49.jpeg?v=1790348118&w=1920&h=1080",
+      "time": "Nov 14, 3:16 AM"
+    },
+    {
+      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "snippet": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551213-1794591477814-gettyimages-2304365626-media-notitle261113_np53Q.jpeg?v=1794591497&w=1920&h=1080",
+      "time": "Nov 14, 3:11 AM"
+    },
+    {
+      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "snippet": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
+      "image": "https://images.mktw.net/im-14527198",
+      "time": "Nov 13, 9:42 PM"
+    },
+    {
+      "title": "Ottawa stands by Darlington small modular reactor amid delays and rising costs",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-ottawa-darlington-small-modular-reactor-delay-rising-cost/",
+      "snippet": "Project aligns with Canada Growth Fund’s mandate to shoulder risk for tech that can drive economic growth, advance climate goals, Energy Minister says",
+      "image": "https://www.theglobeandmail.com/resizer/v2/Y4FYSKZDGFEF3DPTN4H5HXLBPE.JPG?auth=998079f3a93224e394325b7dee0b7bd26551b2d2cb100ccce4415e94beb938e7&smart=true&width=6000&height=4000",
+      "time": "Nov 13, 9:41 PM"
     },
     {
       "title": "Nvidia after Jensen Huang: Will Big Tech’s ‘key man’ ethos live on?",
@@ -19,14 +51,6 @@
       "time": "Nov 13, 9:02 PM"
     },
     {
-      "title": "FAA lifts rare nationwide ground stop; flights may take days to recover",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-      "snippet": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
-      "image": "https://images.mktw.net/im-14527198",
-      "time": "Nov 13, 9:00 PM"
-    },
-    {
       "title": "14 dividend stocks selected for long-term growth",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
@@ -35,36 +59,12 @@
       "time": "Nov 13, 8:58 PM"
     },
     {
-      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-      "snippet": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368185-1790352357255-gettyimages-2296459165-AFP_C9DQ94M.jpeg?v=1790352418&w=1920&h=1080",
-      "time": "Nov 13, 8:34 PM"
-    },
-    {
       "title": "Hydro-Québec may suspend power deliveries to U.S. as it faces pressure on water reservoirs",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-hydro-quebec-suspend-power-deliveries-us-water-reservoirs/",
       "snippet": "Utility says it’s dealing with its four driest consecutive years since hydrological data began to be compiled in the 1940s",
       "image": "https://www.theglobeandmail.com/resizer/v2/GB6Y66TETNDXTBF2IXWKQ3KGQ4.JPG?auth=b598be86e9d314781ee2f72b78bfd457195c5ccba1903e866357855abf9355b6&smart=true&width=5520&height=3901",
       "time": "Nov 13, 8:33 PM"
-    },
-    {
-      "title": "Selection process begins for Canadian city to host defence bank",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/economy/article-selection-process-host-city-canadian-defence-bank/",
-      "snippet": "Ottawa invites cities to submit proposals to become headquarters of multinational Defence, Security and Resilience Bank",
-      "image": "https://www.theglobeandmail.com/resizer/v2/2OB5FYHKFJEERCCVMJAYUXCJ6U.JPG?auth=e388c9b5f58008094f1ebbb24e2f1d872936577a9e094eadeb598c587caf8cae&smart=true&width=8444&height=5629",
-      "time": "Nov 13, 8:31 PM"
-    },
-    {
-      "title": "SpaceX launches Starship in key test flight of massive rocket",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-      "snippet": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551491-1794611116156-gettyimages-2304487605-AFP_D7FF9MN.jpeg?v=1794611301&w=1920&h=1080",
-      "time": "Nov 13, 8:18 PM"
     },
     {
       "title": "The Next Wave of Food Inflation Is Coming",
@@ -175,64 +175,64 @@
   ],
   "ticker": [
     {
-      "time": "8:10 PM",
+      "time": "2:08 AM",
+      "title": "CNBC — Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html"
+    },
+    {
+      "time": "1:00 AM",
+      "title": "CNBC — Ecuador wants to monetize its biodiversity — while still drilling for oil",
+      "url": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html"
+    },
+    {
+      "time": "Nov 13",
+      "title": "CNBC — Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
+    },
+    {
+      "time": "Nov 13",
+      "title": "Globe and Mail — Selection process begins for Canadian city to host defence bank",
+      "url": "https://www.theglobeandmail.com/business/economy/article-selection-process-host-city-canadian-defence-bank/"
+    },
+    {
+      "time": "Nov 13",
+      "title": "CNBC — SpaceX launches Starship in key test flight of massive rocket",
+      "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
+    },
+    {
+      "time": "Nov 13",
       "title": "Globe and Mail — Auto sector at odds over approach to tariff negotiations as Ottawa pursues deal with U.S.",
       "url": "https://www.theglobeandmail.com/business/article-automotive-sector-at-odds-over-approach-tariff-negotiations-november/"
     },
     {
-      "time": "7:06 PM",
+      "time": "Nov 13",
       "title": "Globe and Mail — Landmark Amazon union contract imposed in B.C.",
       "url": "https://www.theglobeandmail.com/canada/article-landmark-amazon-union-contract-imposed-in-bc/"
     },
     {
-      "time": "6:54 PM",
+      "time": "Nov 13",
       "title": "CNBC — Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
       "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html"
     },
     {
-      "time": "6:42 PM",
+      "time": "Nov 13",
       "title": "CNBC — Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
       "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
     },
     {
-      "time": "6:38 PM",
+      "time": "Nov 13",
       "title": "Globe and Mail — Ottawa, Ontario working on package to persuade Stellantis to cancel sale of Brampton plant",
       "url": "https://www.theglobeandmail.com/business/article-ottawa-ontario-package-persuade-stellantis-cancel-sale-brampton-plant/"
     },
     {
-      "time": "5:45 PM",
+      "time": "Nov 13",
       "title": "MarketWatch — 4 expert tips for signing up for Medicare",
       "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories"
     },
     {
-      "time": "5:31 PM",
+      "time": "Nov 13",
       "title": "CNBC — Rescues underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
       "url": "https://www.cnbc.com/2026/11/13/tanker-hits-cruise-boat-in-new-orleans-rescues-underway.html"
-    },
-    {
-      "time": "5:21 PM",
-      "title": "MarketWatch — Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories"
-    },
-    {
-      "time": "5:18 PM",
-      "title": "CNBC — Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
-    },
-    {
-      "time": "5:14 PM",
-      "title": "WSJ Markets — U.S. Stocks Mixed on Nvidia Fallout Fears",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-on-nvidia-fallout-fears-f9946e8d?mod=rss_markets_main"
-    },
-    {
-      "time": "5:06 PM",
-      "title": "CNBC — Hackers stole $6.3 billion from Binance—2 habits that take 'a few seconds' can help you avoid similar traps",
-      "url": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html"
-    },
-    {
-      "time": "5:04 PM",
-      "title": "MarketWatch — Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-      "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories"
     }
   ]
 }
