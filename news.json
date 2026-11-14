@@ -1,62 +1,62 @@
 {
-  "generated_at": "Nov 14, 2026, 11:03 AM ET",
+  "generated_at": "Nov 14, 2026, 3:45 PM ET",
   "date_key": "2026-11-14",
   "articles": [
     {
-      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "title": "11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+      "snippet": "We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms, to help you select a firm that could best connect you with a…",
+      "image": "https://www.wsj.com/buyside/content-images/a8ae897f-5089-409c-97ed-81063d36da0e",
+      "time": "Nov 14, 3:08 PM"
+    },
+    {
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "snippet": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+      "image": "https://images.mktw.net/im-22072072",
+      "time": "Nov 14, 3:00 PM"
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "snippet": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "image": "https://images.mktw.net/im-62799282",
+      "time": "Nov 14, 2:30 PM"
+    },
+    {
+      "title": "Italy fines Meta $887 million over Android users' data access",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "snippet": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108180544-1754063406073-IMG_8872.jpg?v=1754063887&w=1920&h=1080",
-      "time": "Nov 14, 10:50 AM"
+      "url": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
+      "snippet": "Italy fined ⁠Meta Platforms $887 million ‌for allegedly ​accessing Android users' photographs ⁠and ‌videos ‌without obtaining ⁠consent ⁠or informing ⁠them.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108310069-17793063292026-05-20t194305z_1806485342_rc27dla6rwc7_rtrmadp_0_tech-ai-meta-layoffs.jpeg?v=1787074849&w=1920&h=1080",
+      "time": "Nov 14, 1:49 PM"
     },
     {
-      "title": "Airlines working to recover after U.S. nationwide ground stop cancels thousands of flights",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/article-faa-nationwide-ground-stop-flight-cancellations/",
-      "snippet": "Stoppage affected about a quarter of the 45,000 flights in the U.S. each day",
-      "image": "https://www.theglobeandmail.com/resizer/v2/LR5OUHZJYRCQPGHTITUBGVBJFY.jpg?auth=f87ca4c9276788ffe0375ca191f9f9bcb51241f13193f4628138d6daa0866781&smart=true&width=6602&height=4401",
-      "time": "Nov 14, 10:37 AM"
-    },
-    {
-      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-      "snippet": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368185-1790352357255-gettyimages-2296459165-AFP_C9DQ94M.jpeg?v=1790352418&w=1920&h=1080",
-      "time": "Nov 14, 10:36 AM"
+      "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+      "snippet": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108549797-1794473558680-gettyimages-2300707653-261019_KBMW_PHT102.jpeg?v=1794473568&w=1920&h=1080",
+      "time": "Nov 14, 1:48 PM"
     },
     {
-      "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-      "snippet": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
+      "snippet": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
       "image": "https://image.cnbcfm.com/api/v1/image/108551467-1794607964689-IMG_0076.jpg?v=1794609835&w=1920&h=1080",
-      "time": "Nov 14, 10:32 AM"
+      "time": "Nov 14, 1:32 PM"
     },
     {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "snippet": "There is already a demographic ‘run’ on Social Security.",
-      "image": "https://images.mktw.net/im-49247042",
-      "time": "Nov 14, 10:30 AM"
-    },
-    {
-      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "snippet": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-      "image": "https://images.mktw.net/im-10553254",
-      "time": "Nov 14, 10:15 AM"
-    },
-    {
-      "title": "U.S. air travel could take days to recover after FAA’s lifting of rare nationwide ground stop",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-      "snippet": "Homeland Security Secretary Markwayne Mullin says “zero evidence” of cyberattack, while high jet-fuel costs mean fewer flights available to travelers seeking to rebook.",
-      "image": "https://images.mktw.net/im-14527198",
-      "time": "Nov 14, 9:27 AM"
+      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "snippet": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+      "image": "https://images.mktw.net/im-06068042",
+      "time": "Nov 14, 1:30 PM"
     },
     {
       "title": "Jensen Huang’s downfall, Ottawa’s fight with Stellantis and Stelco recalls laid-off Hamilton workers: Must-read business and investing stories",
@@ -75,6 +75,14 @@
       "time": "Nov 13, 9:41 PM"
     },
     {
+      "title": "Nvidia after Jensen Huang: Will Big Tech’s ‘key man’ ethos live on?",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-nvidia-after-jensen-huang-will-big-techs-key-man-ethos-live-on/",
+      "snippet": "The former Nvidia CEO’s exit will test the idea that founders are irreplaceable",
+      "image": "https://www.theglobeandmail.com/resizer/v2/WYRY2C2NGRENZKQAKXDB5DXECA.JPG?auth=0ae7e3ca22ac5c37ee935e7591c48f86052d1fb7bbfa00257bc5d12c79235ae4&smart=true&width=4813&height=3208",
+      "time": "Nov 13, 9:02 PM"
+    },
+    {
       "title": "The Next Wave of Food Inflation Is Coming",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=rss_markets_main",
@@ -90,15 +98,6 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 13, 5:33 PM"
-    },
-    {
-      "title": "Oil Futures End Week Lower",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-slips-again-as-traders-weigh-diplomacy-hopes-808f1641?mod=rss_markets_main",
-      "snippet": "Oil futures settled mixed with Brent practically unchanged and WTI off 0.2%, but both benchmarks saw a second straight weekly decline.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 13, 5:20 PM"
     }
   ],
   "official": [
@@ -175,64 +174,64 @@
   ],
   "ticker": [
     {
+      "time": "1:31 PM",
+      "title": "CNBC — All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
+      "url": "https://www.cnbc.com/2026/11/14/cruise-ship-tanker-crash-new-orleans.html"
+    },
+    {
+      "time": "1:00 PM",
+      "title": "MarketWatch — ‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
+    },
+    {
+      "time": "12:50 PM",
+      "title": "MarketWatch — Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories"
+    },
+    {
+      "time": "12:50 PM",
+      "title": "MarketWatch — The trillion-dollar mistake corporate America is making about retirement",
+      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories"
+    },
+    {
+      "time": "12:50 PM",
+      "title": "MarketWatch — Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
+      "url": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories"
+    },
+    {
+      "time": "12:50 PM",
+      "title": "MarketWatch — The lonely labor of caregiving: ‘You shouldn’t have to be rich to take care of the people you love’",
+      "url": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories"
+    },
+    {
+      "time": "12:50 PM",
+      "title": "MarketWatch — Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
+      "url": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories"
+    },
+    {
+      "time": "12:50 PM",
+      "title": "MarketWatch — Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+      "url": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories"
+    },
+    {
+      "time": "12:46 PM",
+      "title": "CNBC — Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+    },
+    {
+      "time": "10:50 AM",
+      "title": "CNBC — How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"
+    },
+    {
+      "time": "10:36 AM",
+      "title": "CNBC — Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
+    },
+    {
       "time": "10:14 AM",
       "title": "CNBC — Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
       "url": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html"
-    },
-    {
-      "time": "9:54 AM",
-      "title": "CNBC — How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
-      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html"
-    },
-    {
-      "time": "9:30 AM",
-      "title": "CNBC — Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
-      "url": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html"
-    },
-    {
-      "time": "9:13 AM",
-      "title": "CNBC — Bank of America says these stocks have major upside potential in an uncertain market",
-      "url": "https://www.cnbc.com/2026/11/14/stocks-with-upside-potential-in-an-uncertain-market.html"
-    },
-    {
-      "time": "9:11 AM",
-      "title": "CNBC — How Canadian stocks could be big winners of U.S. midterms",
-      "url": "https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html"
-    },
-    {
-      "time": "9:08 AM",
-      "title": "CNBC — Juice your growth and save on taxes in this workplace investment account",
-      "url": "https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html"
-    },
-    {
-      "time": "9:02 AM",
-      "title": "CNBC — Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
-      "url": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html"
-    },
-    {
-      "time": "9:00 AM",
-      "title": "MarketWatch — What’s the most tax-efficient way to donate to charity?",
-      "url": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories"
-    },
-    {
-      "time": "8:38 AM",
-      "title": "CNBC — Italy fines Meta $887 million over Android users' data access",
-      "url": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html"
-    },
-    {
-      "time": "8:30 AM",
-      "title": "MarketWatch — Washington can start delivering on affordability by rejecting Trump’s tariffs",
-      "url": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories"
-    },
-    {
-      "time": "8:00 AM",
-      "title": "CNBC — Retailers are turning to entertainment to win shoppers’ attention",
-      "url": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html"
-    },
-    {
-      "time": "8:00 AM",
-      "title": "MarketWatch — These 6 battered AI stocks could bounce back big, an analyst says",
-      "url": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories"
     }
   ]
 }
