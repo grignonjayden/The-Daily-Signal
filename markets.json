@@ -1,21 +1,21 @@
 {
-  "generated_at": "Nov 13, 2026, 4:45 PM ET (Friday close)",
+  "generated_at": "Nov 14, 2026, 7:40 AM ET (weekend; last session Friday, Nov 13)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed Friday at about 52,347, up 0.1%, the only one of the three major U.S. indexes to finish higher (Kiplinger; 24/7 Wall St.)."
+      "note": "Closed Friday, Nov. 13 (the last session; markets are shut for the weekend) up 46.14 points, or 0.09%, at 52,343.23, the only major U.S. index to finish higher (Reuters via Central Oregon Daily)."
     },
     {
       "index": "S&P 500",
-      "note": "Closed Friday at about 7,561, down 0.4%, recovering from a midday drop of nearly 1% but still posting a weekly gain (Kiplinger; 24/7 Wall St.)."
+      "note": "Closed Friday down 31.53 points, or 0.42%, at 7,560.87, but posted a weekly gain that ended a four-week losing streak (Reuters via Central Oregon Daily)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed Friday at about 25,136, down 0.9%, as semiconductor stocks sold off for a second day; the index still ended the week higher (Kiplinger)."
+      "note": "Closed Friday down 230.13 points, or 0.91%, at 25,135.96, as chip stocks fell for a second day; it also snapped a four-week losing streak (Reuters via Central Oregon Daily)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "The December contract settled at $88.56 a barrel, down 0.2%, while Brent for January added 2 cents to $95.84 and notched a second weekly decline (Rigzone)."
+      "note": "The December contract settled Friday at $88.56 a barrel, down 0.2%, while Brent for January added 2 cents to $95.84 and posted a second weekly decline (Rigzone)."
     }
   ],
   "themes": [
@@ -30,13 +30,13 @@
       "confidence": "confirmed"
     },
     {
-      "title": "December rate-hike bets firm up",
-      "summary": "Futures traders put the probability of a quarter-point Fed rate hike in December at 90%, and the 10-year Treasury yield touched 5.17% during the day, its highest since October (Kiplinger; Yahoo Finance).",
+      "title": "December rate hike fully priced",
+      "summary": "October producer prices rose 6.5% from a year earlier, the largest annual gain since November 2022; markets fully price at least a quarter-point Fed hike in December, with about a 10% chance of a half-point move per CME FedWatch (Reuters via Central Oregon Daily).",
       "confidence": "confirmed"
     },
     {
       "title": "A winning week despite Friday's slide",
-      "summary": "All three major benchmarks finished the week with gains even after Friday's losses, with the Dow edging higher on the day as money rotated out of technology (Kiplinger; 24/7 Wall St.).",
+      "summary": "All three major indexes gained for the week; the S&P 500 and Nasdaq ended four-week losing streaks, while Nvidia logged a sixth straight weekly decline, its longest since October 2012 (Reuters via Central Oregon Daily).",
       "confidence": "confirmed"
     },
     {
@@ -69,22 +69,30 @@
   ],
   "watch_list": [
     {
-      "topic": "Nvidia earnings on Tuesday",
-      "why": "Nvidia reports after Tuesday's close, its first results since Jensen Huang's departure; interim CEO Colette Kress is expected to speak on the call (Kiplinger).",
+      "topic": "Nvidia earnings and retail sales on Tuesday",
+      "why": "Nvidia reports fiscal third-quarter results Nov. 17, its first under interim CEO Colette Kress; analysts expect about 90% earnings growth on $109 billion of revenue (LSEG). October U.S. retail sales are due the same day (Reuters via Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
       "topic": "Anthropic IPO",
-      "why": "Pricing is expected Wednesday evening with Nasdaq trading under \"ANT\" on Thursday; the company plans to sell 825 million shares at $70 to $78 each, and the offering is reportedly about six times oversubscribed (Kiplinger).",
+      "why": "Trading on Nasdaq is expected to begin Thursday, Nov. 19; the company and some investors aim to raise up to $64.4 billion by selling 825 million shares, at a valuation of up to $1.4 trillion (Reuters via Yahoo Finance).",
       "confidence": "developing"
     },
     {
-      "topic": "Fed December meeting",
-      "why": "Markets are pricing a likely quarter-point rate hike at the Dec. 8-9 meeting after this week's inflation data (Kiplinger; TheStreet).",
-      "confidence": "developing"
+      "topic": "Fed minutes and big-box retailer results",
+      "why": "Minutes from the latest Fed meeting come Wednesday ahead of the Dec. 8-9 meeting, and Walmart, Target, Home Depot and Lowe's report results during the week (Reuters via Yahoo Finance; TheStreet).",
+      "confidence": "confirmed"
     }
   ],
   "sources": [
+    {
+      "title": "Reuters via Central Oregon Daily — S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
+      "url": "https://www.centraloregondaily.com/news/consumer/wall-st-slides-as-nvidia-uncertainty-drags-tech-shares-lower/article_4864122f-faa9-53ef-b47f-3f5cc804368d.html"
+    },
+    {
+      "title": "Reuters via Yahoo Finance — Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-results-anthropic-ipo-pose-111404254.html"
+    },
     {
       "title": "Kiplinger — Nasdaq Drops Friday on Nvidia Fallout But Ends the Week Up: Stock Market Today",
       "url": "https://www.kiplinger.com/investing/stocks/nasdaq-drops-friday-on-nvidia-fallout-but-ends-the-week-up-stock-market-today"
@@ -102,16 +110,8 @@
       "url": "https://www.rigzone.com/news/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article"
     },
     {
-      "title": "CNBC — Oil prices set for second weekly decline as Trump to stay with Iran blockade",
-      "url": "https://www.cnbc.com/amp/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html"
-    },
-    {
       "title": "TheStreet — Stock Market Today (Nov. 13, 2026): S&P 500 Falls as Nvidia Slides After CEO Departure",
       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
-    },
-    {
-      "title": "AP via KSL — Stocks sway as Wall Street heads for a winning week after several turbulent days",
-      "url": "https://www.ksl.com/article/51645663/stocks-sway-as-wall-street-heads-for-a-winning-week-after-several-turbulent-days"
     }
   ]
 }
