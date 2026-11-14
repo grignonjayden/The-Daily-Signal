@@ -1,30 +1,95 @@
 {
-  "generated_at": "Nov 13, 2026, 5:28 PM ET",
+  "generated_at": "Nov 13, 2026, 9:39 PM ET",
   "date_key": "2026-11-13",
   "articles": [
     {
-      "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-      "snippet": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550303-17945044092026-09-24t223553z_950093079_rc2xpnal0xd8_rtrmadp_0_usa-china.jpeg?v=1794584634&w=1920&h=1080",
-      "time": "Nov 13, 5:28 PM"
-    },
-    {
-      "title": "FAA issues nationwide ground stop citing communication issues affecting ‘multiple’ air traffic control facilities",
+      "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-      "snippet": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
+      "snippet": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
       "image": "https://image.cnbcfm.com/api/v1/image/108551446-1794606918757-gettyimages-2304481529-111326-owh-new-faa-nf-05.jpeg?v=1794607055&w=1920&h=1080",
-      "time": "Nov 13, 5:23 PM"
+      "time": "Nov 13, 9:33 PM"
     },
     {
-      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+      "title": "Nvidia after Jensen Huang: Will Big Tech’s ‘key man’ ethos live on?",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-nvidia-after-jensen-huang-will-big-techs-key-man-ethos-live-on/",
+      "snippet": "The former Nvidia CEO’s exit will test the idea that founders are irreplaceable",
+      "image": "https://www.theglobeandmail.com/resizer/v2/WYRY2C2NGRENZKQAKXDB5DXECA.JPG?auth=0ae7e3ca22ac5c37ee935e7591c48f86052d1fb7bbfa00257bc5d12c79235ae4&smart=true&width=4813&height=3208",
+      "time": "Nov 13, 9:02 PM"
+    },
+    {
+      "title": "FAA lifts rare nationwide ground stop; flights may take days to recover",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-      "snippet": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
-      "image": "https://images.mktw.net/im-33661435",
-      "time": "Nov 13, 5:21 PM"
+      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "snippet": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
+      "image": "https://images.mktw.net/im-14527198",
+      "time": "Nov 13, 9:00 PM"
+    },
+    {
+      "title": "14 dividend stocks selected for long-term growth",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+      "snippet": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
+      "image": "https://images.mktw.net/im-27014870",
+      "time": "Nov 13, 8:58 PM"
+    },
+    {
+      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368185-1790352357255-gettyimages-2296459165-AFP_C9DQ94M.jpeg?v=1790352418&w=1920&h=1080",
+      "time": "Nov 13, 8:34 PM"
+    },
+    {
+      "title": "Hydro-Québec may suspend power deliveries to U.S. as it faces pressure on water reservoirs",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-hydro-quebec-suspend-power-deliveries-us-water-reservoirs/",
+      "snippet": "Utility says it’s dealing with its four driest consecutive years since hydrological data began to be compiled in the 1940s",
+      "image": "https://www.theglobeandmail.com/resizer/v2/GB6Y66TETNDXTBF2IXWKQ3KGQ4.JPG?auth=b598be86e9d314781ee2f72b78bfd457195c5ccba1903e866357855abf9355b6&smart=true&width=5520&height=3901",
+      "time": "Nov 13, 8:33 PM"
+    },
+    {
+      "title": "Selection process begins for Canadian city to host defence bank",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/economy/article-selection-process-host-city-canadian-defence-bank/",
+      "snippet": "Ottawa invites cities to submit proposals to become headquarters of multinational Defence, Security and Resilience Bank",
+      "image": "https://www.theglobeandmail.com/resizer/v2/2OB5FYHKFJEERCCVMJAYUXCJ6U.JPG?auth=e388c9b5f58008094f1ebbb24e2f1d872936577a9e094eadeb598c587caf8cae&smart=true&width=8444&height=5629",
+      "time": "Nov 13, 8:31 PM"
+    },
+    {
+      "title": "SpaceX launches Starship in key test flight of massive rocket",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+      "snippet": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551491-1794611116156-gettyimages-2304487605-AFP_D7FF9MN.jpeg?v=1794611301&w=1920&h=1080",
+      "time": "Nov 13, 8:18 PM"
+    },
+    {
+      "title": "The Next Wave of Food Inflation Is Coming",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=rss_markets_main",
+      "snippet": "Grocery prices could increase again as surging energy costs and supply-chain delays are lifting costs for producers.",
+      "image": "https://images.wsj.net/im-99033235",
+      "time": "Nov 13, 8:00 PM"
+    },
+    {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "snippet": "There is already a demographic ‘run’ on Social Security.",
+      "image": "https://images.mktw.net/im-49247042",
+      "time": "Nov 13, 6:12 PM"
+    },
+    {
+      "title": "WSJ Dollar Index Rises 0.84% This Week to 98.34",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/currencies/french-political-and-fiscal-uncertainty-could-weigh-on-euro-c7deca5f?mod=rss_markets_main",
+      "snippet": "The WSJ Dollar Index rose 0.2%, up for four consecutive trading days.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 13, 5:33 PM"
     },
     {
       "title": "Oil Futures End Week Lower",
@@ -34,70 +99,6 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 13, 5:20 PM"
-    },
-    {
-      "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-      "snippet": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550398-17945096822026-11-12t185016z_1520507374_rc2imoavf5px_rtrmadp_0_nvidia-ceo.jpeg?v=1794509990&w=1920&h=1080",
-      "time": "Nov 13, 5:18 PM"
-    },
-    {
-      "title": "U.S. Stocks Mixed on Nvidia Fallout Fears",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-on-nvidia-fallout-fears-f9946e8d?mod=rss_markets_main",
-      "snippet": "U.S. stocks finished mixed as rate fears resurfaced and tumult at Nvidia spilled into the wider semiconductor sector, dragging down technology indexes.",
-      "image": "https://images.wsj.net/im-71620497",
-      "time": "Nov 13, 5:14 PM"
-    },
-    {
-      "title": "FAA declares rare, nationwide ground stop on flights, citing ‘extraordinary circumstances’",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-      "snippet": "Nearly 8,000 flights are delayed so far.",
-      "image": "https://images.mktw.net/im-31710883",
-      "time": "Nov 13, 5:10 PM"
-    },
-    {
-      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-      "snippet": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
-      "image": "https://images.mktw.net/im-74466420",
-      "time": "Nov 13, 5:04 PM"
-    },
-    {
-      "title": "Basic Materials Roundup: Market Talk",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b3b3c77e?mod=rss_markets_main",
-      "snippet": "Find insight on gold futures, Press Metal Aluminium, Evolution Mining and more in the latest Market Talks covering basic materials.",
-      "image": "https://images.wsj.net/im-12097522",
-      "time": "Nov 13, 5:01 PM"
-    },
-    {
-      "title": "Nvidia had no succession plan. Did the board consider Jensen Huang an immortal god?",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-nvidia-affair-ceo-succession-plan-jensen-huang-immortal-god/",
-      "snippet": "The company was on its way to AI giant status, but kept a lean structure that left the founder’s power unchecked",
-      "image": "https://www.theglobeandmail.com/resizer/v2/K2T722GR6ZG6BPFU5ZVYXBJTFI.jpg?auth=2e0f29b6fc9a80570db69d48249a4973a018aaa8f5dfb4495a67855796f0d389&smart=true&width=5500&height=3667",
-      "time": "Nov 13, 3:57 PM"
-    },
-    {
-      "title": "Quebec City top contender for CFL expansion club",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/sports/article-quebec-city-top-contender-for-cfl-expansion-club/",
-      "snippet": "Commissioner wouldn’t say when or if a new team might be in operation",
-      "image": "https://www.theglobeandmail.com/resizer/v2/E2EA2ADFOFHV5GXB7CFDHEGQTE.jpg?auth=7f9786b26b797efef97254c705179b576a2027d11c9990ccafbafd869374ed42&smart=true&width=5703&height=3395",
-      "time": "Nov 13, 3:45 PM"
-    },
-    {
-      "title": "Alberta’s Smith unveils new oil sands royalty regime",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-alberta-danielle-smith-unveils-new-oil-sands-royalty-regime/",
-      "snippet": "Provincial government looks to increase oil production to eight million barrels per day",
-      "image": "https://www.theglobeandmail.com/resizer/v2/MALYGRBGEJEQNCWVPMN3CEO6QU.JPG?auth=6cae5770cdbb3ed8714bfc8baf6bca0454a269e573d47ecd317409f660b416ff&smart=true&width=4500&height=2966",
-      "time": "Nov 13, 3:27 PM"
     }
   ],
   "official": [
@@ -174,64 +175,64 @@
   ],
   "ticker": [
     {
+      "time": "8:10 PM",
+      "title": "Globe and Mail — Auto sector at odds over approach to tariff negotiations as Ottawa pursues deal with U.S.",
+      "url": "https://www.theglobeandmail.com/business/article-automotive-sector-at-odds-over-approach-tariff-negotiations-november/"
+    },
+    {
+      "time": "7:06 PM",
+      "title": "Globe and Mail — Landmark Amazon union contract imposed in B.C.",
+      "url": "https://www.theglobeandmail.com/canada/article-landmark-amazon-union-contract-imposed-in-bc/"
+    },
+    {
+      "time": "6:54 PM",
+      "title": "CNBC — Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html"
+    },
+    {
+      "time": "6:42 PM",
+      "title": "CNBC — Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
+    },
+    {
+      "time": "6:38 PM",
+      "title": "Globe and Mail — Ottawa, Ontario working on package to persuade Stellantis to cancel sale of Brampton plant",
+      "url": "https://www.theglobeandmail.com/business/article-ottawa-ontario-package-persuade-stellantis-cancel-sale-brampton-plant/"
+    },
+    {
+      "time": "5:45 PM",
+      "title": "MarketWatch — 4 expert tips for signing up for Medicare",
+      "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories"
+    },
+    {
+      "time": "5:31 PM",
+      "title": "CNBC — Rescues underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
+      "url": "https://www.cnbc.com/2026/11/13/tanker-hits-cruise-boat-in-new-orleans-rescues-underway.html"
+    },
+    {
+      "time": "5:21 PM",
+      "title": "MarketWatch — Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories"
+    },
+    {
+      "time": "5:18 PM",
+      "title": "CNBC — Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+    },
+    {
+      "time": "5:14 PM",
+      "title": "WSJ Markets — U.S. Stocks Mixed on Nvidia Fallout Fears",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-on-nvidia-fallout-fears-f9946e8d?mod=rss_markets_main"
+    },
+    {
       "time": "5:06 PM",
       "title": "CNBC — Hackers stole $6.3 billion from Binance—2 habits that take 'a few seconds' can help you avoid similar traps",
       "url": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html"
     },
     {
-      "time": "5:00 PM",
-      "title": "MarketWatch — ‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
-    },
-    {
-      "time": "4:57 PM",
-      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-82432d04?mod=rss_markets_main"
-    },
-    {
-      "time": "4:50 PM",
-      "title": "CNBC — Rescues underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
-      "url": "https://www.cnbc.com/2026/11/13/tanker-hits-cruise-boat-in-new-orleans-rescues-underway.html"
-    },
-    {
-      "time": "4:44 PM",
-      "title": "CNBC — Goldman Sachs looks to cash in on big IPOs twice. Anthropic’s historic deal is its next chance",
-      "url": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html"
-    },
-    {
-      "time": "4:34 PM",
-      "title": "CNBC — Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates",
-      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
-    },
-    {
-      "time": "4:32 PM",
-      "title": "MarketWatch — ‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories"
-    },
-    {
-      "time": "4:26 PM",
-      "title": "MarketWatch — Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-      "url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories"
-    },
-    {
-      "time": "4:19 PM",
-      "title": "CNBC — What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html"
-    },
-    {
-      "time": "4:19 PM",
-      "title": "WSJ Markets — Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade",
-      "url": "https://www.wsj.com/finance/stocks/tech-stocks-fall-as-next-week-brings-big-tests-for-the-ai-trade-6a346b49?mod=rss_markets_main"
-    },
-    {
-      "time": "4:18 PM",
-      "title": "CNBC — AI risks are the biggest threat to the financial system, Fed survey finds",
-      "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"
-    },
-    {
-      "time": "4:10 PM",
-      "title": "MarketWatch — AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
-      "url": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories"
+      "time": "5:04 PM",
+      "title": "MarketWatch — Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+      "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories"
     }
   ]
 }
