@@ -1,145 +1,145 @@
 {
-  "generated_at": "Nov 14, 2026, 4:45 PM ET",
+  "generated_at": "Nov 15, 2026, 7:45 AM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $64,549 late Saturday afternoon, down about 6% over 24 hours (CoinGecko), after slipping below $65,000 for the first time since mid-August; it is down nearly 14% over seven days (Trending Topics; el7.ai)."
+      "note": "About $65,373 Sunday morning, down 2.59% over 24 hours (TokenPost, 12:22 UTC), after touching $61,946 on Coinbase overnight, its lowest since July 13, and bouncing back above $65,000 within about 75 minutes (Coindaro)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,781, down about 8.4% over 24 hours, with ether's share of total crypto market value at about 9.4% (CoinGecko)."
+      "note": "About $1,803, down 5.31% over 24 hours (CoinCodex, 06:00 UTC), after an overnight low of $1,709 on Coinbase; ether is down 18.9% over seven days (Coindaro)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.30 trillion, down about 4.5% over 24 hours, with about $85.9 billion in 24-hour trading volume (CoinGecko)."
+      "note": "About $2.18 trillion, down 3.66% over 24 hours, with $99.1 billion in 24-hour trading volume (CoinCodex, 06:00 UTC)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 56.3% of total crypto market value (CoinGecko)."
+      "note": "About 59.5% of total crypto market value, little changed on the day (TokenPost; CoinCodex)."
     }
   ],
   "themes": [
     {
-      "title": "Bitcoin breaks below $65,000",
-      "summary": "Weekend selling pushed bitcoin under Friday's low of about $67,555 and then below $65,000, its weakest level since mid-August and about 49% below its October 2025 record near $126,000 (Bitcoin Magazine; Trending Topics).",
+      "title": "Overnight flush below $62,000",
+      "summary": "Bitcoin fell to $61,946 at 01:45 UTC Sunday, about 29% below its Oct. 2 high of $87,249, before rebounding to around $64,700 by early morning (Coindaro).",
       "confidence": "confirmed"
     },
     {
-      "title": "Below the 200-week average",
-      "summary": "Bitcoin has fallen under its 200-week moving average near $68,000; Trending Topics notes the mid-August close near $64,700 and the summer low near $58,600 as the next levels traders are watching (Trending Topics; Forbes).",
-      "confidence": "developing"
-    },
-    {
-      "title": "Fed hike bets and a firmer dollar",
-      "summary": "Hot October inflation data and Fed Governor Christopher Waller's support for a December hike have markets pricing a rate increase as nearly certain, while the dollar index sits above 103, its highest since April 2025 (Trending Topics).",
+      "title": "About $2 billion in liquidations",
+      "summary": "Roughly $2.05 billion to $2.12 billion of futures positions were liquidated over 24 hours, more than 90% of them long bets, and aggregate bitcoin open interest fell nearly 10% to about $106 billion (CoinGlass and Cryptoast, via Coindaro).",
       "confidence": "confirmed"
     },
     {
-      "title": "Liquidations and ETF outflows",
-      "summary": "About $1.01 billion in futures positions were liquidated over 24 hours, 93% of them long bets (CoinGlass, via Trending Topics); U.S. spot bitcoin ETFs had $1.07 billion of net outflows in the week through Friday, a seventh straight day of withdrawals (Farside; SoSoValue, via Trending Topics and CoinGape).",
+      "title": "Sentiment hits extreme fear",
+      "summary": "The Crypto Fear & Greed Index fell to 10, from 13 a day earlier and 28 a week ago (TokenPost).",
       "confidence": "confirmed"
     },
     {
-      "title": "Sentiment at extreme fear",
-      "summary": "The Crypto Fear & Greed Index fell to 13, a five-month low, from 20 on Friday and 28 on Thursday (CoinGape; Trending Topics).",
+      "title": "Bitcoin down 14% on the week",
+      "summary": "Bitcoin was down 14.3% over seven days and ether 18.9%, with Solana down 20.4%, as of early Sunday (Coindaro).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Macro pressure from Fed hike bets",
+      "summary": "Hot October inflation data lifted Fed hike expectations, with futures pricing 64 basis points of increases over the next year, up from 37 at the start of November (crypto.news); a December hike is widely expected heading into a week with Nvidia earnings and Fed minutes (Reuters via Yahoo Finance).",
       "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin was down about 6% and ether about 8.4% over 24 hours late Saturday afternoon (CoinGecko)."
+      "note": "Bitcoin was down about 4% and ether about 5.3% over 24 hours as of 06:00 UTC (CoinCodex)."
     },
     {
       "name": "Large-cap altcoins",
-      "note": "BNB near $579 (-8.7%), XRP near $0.91 (-9.7%), Solana near $70 (-12.0%), Dogecoin near $0.057 (-11.9%) and Cardano near $0.147 (-13.6%) over 24 hours (CoinGecko)."
+      "note": "BNB near $590 (-3.8%), XRP near $0.954 (-3.6%), Solana near $70.21 (-6.2%), Dogecoin near $0.0577 (-7.7%) and TRON near $0.307 (-1.4%) over 24 hours (Koin Bülteni)."
     },
     {
       "name": "Small-cap gainers",
-      "note": "A handful of smaller tokens rose against the trend, including BOB (Build on Bitcoin), ni hao cat and AudaCity (CoinGecko)."
+      "note": "Among the top 200 coins, Zano, Ultima and Midnight rose against the broader decline (CoinCodex)."
     },
     {
-      "name": "Derivatives and funds",
-      "note": "Leveraged long positions made up most of the roughly $1 billion in 24-hour liquidations, and bitcoin, ether, XRP and Solana ETFs all saw net outflows for the week (CoinGlass and Farside, via Trending Topics; CoinGape)."
+      "name": "Derivatives",
+      "note": "Long positions made up most of roughly $2 billion in 24-hour liquidations, with about $800 million on Binance; bitcoin funding rates were near flat across major exchanges (Coindaro)."
     }
   ],
   "watch_list": [
     {
-      "topic": "Sunday's weekly close",
-      "why": "Analysts are watching whether bitcoin can recover its 200-week average near $68,000 by the weekly close, or test lower levels near $64,700 and $58,600 (Forbes; Trending Topics).",
+      "topic": "Liquidation cluster and support levels",
+      "why": "Glassnode flags a liquidation cluster between $59,500 and $62,600, which contains Sunday's low; the 2026 low on Coinbase is $57,718 from July 1 (Coindaro).",
       "confidence": "developing"
     },
     {
       "topic": "ETF flows when U.S. markets reopen",
-      "why": "Spot bitcoin ETFs have recorded seven straight sessions of net outflows; flow data resume Monday (Trending Topics).",
+      "why": "U.S. spot bitcoin ETFs saw about $1.91 billion of net outflows over seven sessions from Nov. 5 to 13 (crypto.news); flow figures resume Monday, Nov. 16 (Coindaro).",
       "confidence": "developing"
     },
     {
       "topic": "Nvidia earnings, Fed minutes and the Anthropic IPO",
-      "why": "Nvidia reports Tuesday, Fed minutes are due Wednesday and Anthropic's Nasdaq debut is expected Thursday, all watched for risk sentiment ahead of the December Fed meeting (Reuters via Yahoo Finance; Trending Topics).",
+      "why": "Nvidia reports Tuesday, minutes from the Oct. 27-28 Fed meeting are due Wednesday, and Anthropic is expected to debut on Nasdaq Thursday (Stockopedia; Coindaro).",
       "confidence": "confirmed"
     }
   ],
   "movers": [
     {
-      "name": "BOB (Build on Bitcoin)",
-      "pct": 51.9,
-      "note": "About $0.0047; among the top 24-hour gainers (CoinGecko)."
+      "name": "Zano (ZANO)",
+      "pct": 13.03,
+      "note": "Top 24-hour gainer among the top 200 coins (CoinCodex)."
     },
     {
-      "name": "ni hao cat",
-      "pct": 40.0,
-      "note": "About $0.0187; among the top 24-hour gainers (CoinGecko)."
+      "name": "Ultima (ULTIMA)",
+      "pct": 7.46,
+      "note": "Among the top 24-hour gainers (CoinCodex)."
     },
     {
-      "name": "AudaCity",
-      "pct": 25.7,
-      "note": "About $0.0147 (CoinGecko)."
+      "name": "Midnight (NIGHT)",
+      "pct": 5.64,
+      "note": "About $0.0496 (CoinCodex)."
     },
     {
       "name": "Bitcoin (BTC)",
-      "pct": -6.0,
-      "note": "About $64,549 (CoinGecko)."
+      "pct": -2.59,
+      "note": "About $65,373 (TokenPost)."
     },
     {
-      "name": "Solana (SOL)",
-      "pct": -12.0,
-      "note": "About $69.99 (CoinGecko)."
+      "name": "Pudgy Penguins (PENGU)",
+      "pct": -17.75,
+      "note": "Among the top 24-hour losers (CoinCodex)."
     },
     {
-      "name": "Cardano (ADA)",
-      "pct": -13.6,
-      "note": "About $0.147; the weakest of the large caps tracked (CoinGecko)."
+      "name": "Aster (ASTER)",
+      "pct": -18.22,
+      "note": "The weakest of the top 200 coins over 24 hours (CoinCodex)."
     }
   ],
   "sources": [
     {
-      "title": "CoinGecko — Cryptocurrency Prices, Charts, and Crypto Market Cap",
-      "url": "https://www.coingecko.com/"
+      "title": "TokenPost — Bitcoin falls to $65,372.82 as volume rises and extreme fear deepens",
+      "url": "https://tokenpost.com/news/investing/57796"
     },
     {
-      "title": "Trending Topics — Bitcoin Slides to $65,000 as $1 Billion in Bets Are Liquidated",
-      "url": "https://www.trendingtopics.eu/bitcoin-65000-dollars-liquidations/"
+      "title": "Coindaro — Bitcoin price today: a $61,946 low at 01:45 UTC, about $2 billion of longs liquidated, then a $3,000 bounce",
+      "url": "https://www.coindaro.com/bitcoin-price-today-61946-low-liquidations/"
     },
     {
-      "title": "Bitcoin Magazine — Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday's Low",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600"
+      "title": "CoinCodex — Daily Market Update for Nov 15, 2026",
+      "url": "https://coincodex.com/article/95430/daily-market-update-for-november-15-2026/"
     },
     {
-      "title": "CoinGape — Crypto Fear and Greed Index Drops to a 5-Month Low as Weekend Slump Heightens",
-      "url": "https://coingape.com/crypto-fear-and-greed-index-drops-to-a-5-month-low-as-weekend-slump-heightens/"
+      "title": "Koin Bülteni — Bitcoin and Altcoins: Market Overview (November 15, 2026)",
+      "url": "https://koinbulteni.com/en/bitcoin-and-altcoins-market-overview-november-15-2026-292554.html"
     },
     {
-      "title": "Forbes — Bitcoin collapse fears suddenly surge after $2 trillion crypto crash",
-      "url": "https://forbes.com/sites/digital-assets/2026/11/14/bitcoin-collapse-fears-suddenly-surge-after-2-trillion-crypto-crash"
-    },
-    {
-      "title": "el7.ai — Bitcoin Breaks Below $65,000 as Crypto Market Sell-off Deepens",
-      "url": "https://el7.ai/en/news/2026-11-14-bitcoin-falls-below-66000-as-crypto-market-sheds-680-billion"
+      "title": "Stockopedia — The Week Ahead (16 - 20 Nov): Nvidia Without Jensen, Anthropic's IPO, and the UK Grows",
+      "url": "https://www.stockopedia.com/content/the-week-ahead-16-20-nov-nvidia-without-jensen-anthropics-ipo-and-the-uk-grows-1060754/"
     },
     {
       "title": "Reuters via Yahoo Finance — Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-results-anthropic-ipo-pose-111404254.html"
+    },
+    {
+      "title": "crypto.news — Bitcoin price crash explained: 8 reasons BTC plunged from $81K to $62K",
+      "url": "https://crypto.news/why-bitcoin-price-fell-62000/"
     }
   ]
 }

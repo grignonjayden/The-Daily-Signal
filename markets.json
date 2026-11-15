@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 14, 2026, 4:45 PM ET (weekend; last session Friday, Nov 13)",
+  "generated_at": "Nov 15, 2026, 7:45 AM ET (weekend; last session Friday, Nov 13)",
   "market_pulse": [
     {
       "index": "Dow Jones",
@@ -70,17 +70,17 @@
   "watch_list": [
     {
       "topic": "Nvidia earnings and retail sales on Tuesday",
-      "why": "Nvidia reports fiscal third-quarter results Nov. 17, its first under interim CEO Colette Kress; analysts expect about 90% earnings growth on $109 billion of revenue (LSEG). October U.S. retail sales are due the same day (Reuters via Yahoo Finance).",
+      "why": "Nvidia reports fiscal third-quarter results after the close Nov. 17; its guidance was $108 billion in revenue, plus or minus 2%, and consensus is about $108.8 billion and $2.47 per share (Stockopedia). October U.S. retail sales and industrial production are due the same morning (Stockopedia).",
       "confidence": "confirmed"
     },
     {
       "topic": "Anthropic IPO",
-      "why": "Trading on Nasdaq is expected to begin Thursday, Nov. 19; the company and some investors aim to raise up to $64.4 billion by selling 825 million shares, at a valuation of up to $1.4 trillion (Reuters via Yahoo Finance).",
+      "why": "Pricing is expected Wednesday, Nov. 18, at a range of $70 to $78 a share for 825 million shares, valuing the company at up to $1.4 trillion; Nasdaq trading under \"ANT\" is expected to begin Thursday, Nov. 19 (Stockopedia; Reuters via Yahoo Finance).",
       "confidence": "developing"
     },
     {
       "topic": "Fed minutes and big-box retailer results",
-      "why": "Minutes from the latest Fed meeting come Wednesday ahead of the Dec. 8-9 meeting, and Walmart, Target, Home Depot and Lowe's report results during the week (Reuters via Yahoo Finance; TheStreet).",
+      "why": "Minutes from the Oct. 27-28 Fed meeting come Wednesday ahead of the Dec. 8-9 meeting; Home Depot reports Tuesday, Lowe's, Target and TJX on Wednesday and Walmart on Thursday (Stockopedia; Reuters via Yahoo Finance).",
       "confidence": "confirmed"
     }
   ],
@@ -110,8 +110,8 @@
       "url": "https://www.rigzone.com/news/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article"
     },
     {
-      "title": "TheStreet — Stock Market Today (Nov. 13, 2026): S&P 500 Falls as Nvidia Slides After CEO Departure",
-      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
+      "title": "Stockopedia — The Week Ahead (16 - 20 Nov): Nvidia Without Jensen, Anthropic's IPO, and the UK Grows",
+      "url": "https://www.stockopedia.com/content/the-week-ahead-16-20-nov-nvidia-without-jensen-anthropics-ipo-and-the-uk-grows-1060754/"
     }
   ]
 }
