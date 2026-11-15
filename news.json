@@ -1,7 +1,31 @@
 {
-  "generated_at": "Nov 14, 2026, 7:56 PM ET",
-  "date_key": "2026-11-14",
+  "generated_at": "Nov 15, 2026, 2:45 AM ET",
+  "date_key": "2026-11-15",
   "articles": [
+    {
+      "title": "Could Budapest be the next digital nomad hotspot?",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+      "snippet": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108380938-1791539020604-coworking-3372e.jpg?v=1791539620&w=1920&h=1080",
+      "time": "Nov 15, 1:00 AM"
+    },
+    {
+      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "snippet": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551467-1794607964689-IMG_0076.jpg?v=1794609835&w=1920&h=1080",
+      "time": "Nov 14, 9:53 PM"
+    },
+    {
+      "title": "New AI Millionaires Want Wealth Advisers Who Can Help Give Their Money Away",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/new-ai-millionaires-want-wealth-advisers-who-can-help-give-their-money-away-7d586775?mod=rss_markets_main",
+      "snippet": "The urge to give is being fueled by mission-driven corporate cultures, as well as guilt about AI’s potential harms.",
+      "image": "https://images.wsj.net/im-09378547",
+      "time": "Nov 14, 8:00 PM"
+    },
     {
       "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
       "source": "MarketWatch",
@@ -19,28 +43,12 @@
       "time": "Nov 14, 7:00 PM"
     },
     {
-      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-      "snippet": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551467-1794607964689-IMG_0076.jpg?v=1794609835&w=1920&h=1080",
-      "time": "Nov 14, 6:21 PM"
-    },
-    {
       "title": "SpaceX catches upper stage of Starship rocket in historic first",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
       "snippet": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
       "image": "https://image.cnbcfm.com/api/v1/image/108551593-17946919952026-11-14t212916z_181005512_rc2xnoanpi19_rtrmadp_0_space-spacex-starship.jpeg?v=1794692150&w=1920&h=1080",
       "time": "Nov 14, 6:10 PM"
-    },
-    {
-      "title": "$180 million Van Gogh tests the art market and collector confidence",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
-      "snippet": "The art auctions in New York next week could top $2 billion, as a treasure trove of masterpieces comes to the market for the first time in decades.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551602-1794694999080-IMG_3794.jpg?v=1794695062&w=1920&h=1080",
-      "time": "Nov 14, 5:34 PM"
     },
     {
       "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
@@ -89,14 +97,6 @@
       "snippet": "The former Nvidia CEO’s exit will test the idea that founders are irreplaceable",
       "image": "https://www.theglobeandmail.com/resizer/v2/WYRY2C2NGRENZKQAKXDB5DXECA.JPG?auth=0ae7e3ca22ac5c37ee935e7591c48f86052d1fb7bbfa00257bc5d12c79235ae4&smart=true&width=4813&height=3208",
       "time": "Nov 13, 9:02 PM"
-    },
-    {
-      "title": "The Next Wave of Food Inflation Is Coming",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/economy/consumers/the-next-wave-of-food-inflation-is-coming-b06f37db?mod=rss_markets_main",
-      "snippet": "Grocery prices could increase again as surging energy costs and supply-chain delays are lifting costs for producers.",
-      "image": "https://images.wsj.net/im-99033235",
-      "time": "Nov 13, 8:00 PM"
     }
   ],
   "official": [
@@ -173,64 +173,64 @@
   ],
   "ticker": [
     {
-      "time": "3:00 PM",
+      "time": "Nov 14",
+      "title": "CNBC — $180 million Van Gogh tests the art market and collector confidence",
+      "url": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html"
+    },
+    {
+      "time": "Nov 14",
       "title": "MarketWatch — ‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
       "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories"
     },
     {
-      "time": "2:30 PM",
+      "time": "Nov 14",
       "title": "MarketWatch — ‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
       "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
     },
     {
-      "time": "1:49 PM",
+      "time": "Nov 14",
       "title": "CNBC — Italy fines Meta $887 million over Android users' data access",
       "url": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html"
     },
     {
-      "time": "1:48 PM",
+      "time": "Nov 14",
       "title": "CNBC — Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
       "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html"
     },
     {
-      "time": "1:31 PM",
+      "time": "Nov 14",
       "title": "CNBC — All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
       "url": "https://www.cnbc.com/2026/11/14/cruise-ship-tanker-crash-new-orleans.html"
     },
     {
-      "time": "1:30 PM",
+      "time": "Nov 14",
       "title": "MarketWatch — Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
       "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories"
     },
     {
-      "time": "1:00 PM",
+      "time": "Nov 14",
       "title": "MarketWatch — ‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
       "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
     },
     {
-      "time": "12:50 PM",
+      "time": "Nov 14",
       "title": "MarketWatch — Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
       "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories"
     },
     {
-      "time": "12:50 PM",
+      "time": "Nov 14",
       "title": "MarketWatch — The trillion-dollar mistake corporate America is making about retirement",
       "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories"
     },
     {
-      "time": "12:50 PM",
+      "time": "Nov 14",
       "title": "MarketWatch — Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
       "url": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories"
     },
     {
-      "time": "12:46 PM",
+      "time": "Nov 14",
       "title": "CNBC — Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
       "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
-    },
-    {
-      "time": "10:50 AM",
-      "title": "CNBC — How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"
     }
   ]
 }
