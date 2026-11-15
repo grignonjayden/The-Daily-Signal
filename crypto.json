@@ -1,77 +1,77 @@
 {
-  "generated_at": "Nov 15, 2026, 12:40 PM ET",
+  "generated_at": "Nov 15, 2026, 4:45 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $64,764 at 12:35 PM ET Sunday, down 1.71% over 24 hours (CoinDesk), after briefly dipping to about $62,199 overnight (CoinGecko data, via CryptoTicker)."
+      "note": "About $65,607 late Sunday afternoon, down 2.27% over 24 hours (The Block), after an overnight low of $61,946 on Coinbase; the 24-hour range ran from about $62,081 to $67,442 (CryptoTicker)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,816, down 1.4% over 24 hours, with a market value near $222 billion (CoinGecko), after trading as low as about $1,718 overnight (CryptoTicker)."
+      "note": "About $1,806, down 2.28% over 24 hours (The Block); ether, XRP and Solana have each lost about 22% over the past week (Bitcoin Foundation)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.19 trillion, down 1.3% over 24 hours, with $111.4 billion in 24-hour trading volume (CoinMarketCap)."
+      "note": "About $2.19 trillion, up 0.83% over 24 hours as prices recovered from overnight lows (CoinMarketCap)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 59.4% of total crypto market value, with ether at about 10.1% (CoinMarketCap)."
+      "note": "About 59.3% of total crypto market value (CoinMarketCap)."
     }
   ],
   "themes": [
     {
-      "title": "Partial rebound after overnight lows",
-      "summary": "Bitcoin recovered to around $64,800 by midday Sunday from an overnight low near $62,200, trimming its 24-hour loss to 1.71% (CoinDesk; CryptoTicker).",
+      "title": "Rebound from a three-month low",
+      "summary": "Bitcoin fell to $61,946 overnight, its lowest in about three months, then bounced about 5% within an hour; by late afternoon it was near $65,600 (CryptoTicker; crypto.news; The Block).",
       "confidence": "confirmed"
     },
     {
-      "title": "Sixth straight weekly loss in view",
-      "summary": "Bitcoin is on track for a sixth consecutive weekly decline; last Sunday's close was $74,740, and the price is about 49% below its Oct. 6, 2025 record of $126,080 (cryptonews.net).",
+      "title": "Weekly close tonight",
+      "summary": "The weekly candle closes at midnight UTC (7 p.m. ET); the week opened at $74,757, pointing to a loss of roughly 12% to 13%, and CME bitcoin futures reopen with a gap below Friday's close near $68,200 (CryptoTicker).",
       "confidence": "developing"
     },
     {
-      "title": "Stablecoin supply shrinks",
-      "summary": "Combined supply of USDT, USDC and DAI fell a record $11.5 billion over 30 days, per Coinbase Institutional, while U.S. ether ETFs saw $398.9 million of outflows from Nov. 9 to 13 (CryptoTicker).",
+      "title": "Leverage flushed out",
+      "summary": "About $1.96 billion of crypto positions were liquidated over 24 hours, including about $750 million in bitcoin; roughly 80% were long bets (CoinGlass data via crypto.news).",
       "confidence": "confirmed"
     },
     {
-      "title": "Sentiment stuck in extreme fear",
-      "summary": "The Crypto Fear & Greed Index read 10 on Sunday, down from 32 on Tuesday (cryptonews.net); CoinMarketCap's own gauge stood at 12 out of 100 (CoinMarketCap).",
+      "title": "Sentiment at extreme fear",
+      "summary": "The Fear & Greed Index read 10 on Sunday, down from 13 on Saturday and 20 on Friday (CryptoTicker).",
       "confidence": "confirmed"
     },
     {
-      "title": "Rates and Fed stability warning weigh",
-      "summary": "CME FedWatch showed an 88.5% probability of a quarter-point Fed hike in December (CryptoTicker); the Fed's Nov. 13 financial stability report said asset valuation pressures remained elevated, and the 10-year Treasury yield closed at 5.15% (cryptonews.net).",
-      "confidence": "confirmed"
+      "title": "Rate-hike pricing and yields weigh",
+      "summary": "October consumer prices rose 0.4% on the month, and futures markets price a quarter-point Fed hike in December; analysts also point to rising bond yields and margin calls tied to the AI and Nvidia selloff (CryptoTicker; Bitcoin Foundation).",
+      "confidence": "developing"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin was down 1.71% and ether down 1.4% over 24 hours as of midday Sunday (CoinDesk; CoinGecko)."
+      "note": "Bitcoin was down 2.27% and ether down 2.28% over 24 hours late Sunday (The Block)."
     },
     {
       "name": "Large-cap altcoins",
-      "note": "Solana near $71.13, XRP near $0.957, BNB near $590 and Dogecoin near $0.0585 (CoinMarketCap)."
+      "note": "Solana traded near $71.26, down 2.39% over 24 hours (KuCoin), after falling about 22% for the week along with XRP (Bitcoin Foundation)."
     },
     {
-      "name": "DeFi and memecoins",
-      "note": "Among the top 100 coins, Pudgy Penguins fell 16.8%, Pump.fun 15.2%, Uniswap 14.4% and ether.fi 13.6% over 24 hours, the biggest decliners (CoinMarketCap)."
+      "name": "DeFi and privacy coins",
+      "note": "Mixed: Aave rose 4.99% and Zcash 5.16%, while Morpho fell 5.59% and Curve DAO 4.98% over 24 hours (CoinMarketCap)."
     },
     {
       "name": "Derivatives and ETFs",
-      "note": "Roughly $1 billion of positions were liquidated market-wide over 24 hours, including $382 million in bitcoin, mostly longs (bitcoin.com, via CryptoTicker); U.S. spot bitcoin ETFs had about $1.91 billion of net outflows over seven sessions through Nov. 13 (cryptonews.net)."
+      "note": "U.S. spot bitcoin ETFs had about $1.91 billion of net outflows over seven sessions through Nov. 13, and ether ETFs lost about $399 million last week (crypto.news; CryptoTicker)."
     }
   ],
   "watch_list": [
     {
-      "topic": "Support near $62,000 and $58,566",
-      "why": "Coinbase Institutional flags $62,000 as a technical reference, $60,000 is the next round number, and the July 1 close of $58,566 is the 12-month low (CryptoTicker; cryptonews.net).",
+      "topic": "Support near $62,000 and $60,000",
+      "why": "The overnight low of $61,946 and the $60,000 round number are the nearest reference points below, with the 2026 low of $57,718 from July 1 further down; $65,564 and $67,442 are recent highs above (CryptoTicker).",
       "confidence": "developing"
     },
     {
       "topic": "ETF flows when U.S. markets reopen",
-      "why": "Spot bitcoin ETFs have seen seven straight sessions of net redemptions; ether funds ended a six-day outflow streak with a $2.3 million inflow on Nov. 13 (cryptonews.net).",
+      "why": "Spot ETFs do not trade on weekends; the next flow figures follow Monday's Nov. 16 session, after seven straight days of bitcoin ETF outflows (crypto.news).",
       "confidence": "developing"
     },
     {
@@ -82,60 +82,64 @@
   ],
   "movers": [
     {
-      "name": "Pieverse (PIEVERSE)",
-      "pct": 6.91,
-      "note": "About $1.81; top 24-hour gainer among the top 100 coins (CoinMarketCap)."
+      "name": "Venice Token (VVV)",
+      "pct": 15.08,
+      "note": "About $19.91; the top 24-hour gainer on CoinMarketCap's list (CoinMarketCap)."
     },
     {
-      "name": "Midnight (NIGHT)",
-      "pct": 3.77,
-      "note": "About $0.048 (CoinMarketCap)."
+      "name": "Kite (KITE)",
+      "pct": 8.85,
+      "note": "About $0.139 (CoinMarketCap)."
     },
     {
-      "name": "MemeCore (M)",
-      "pct": 1.5,
-      "note": "About $0.829 (CoinMarketCap)."
+      "name": "Zcash (ZEC)",
+      "pct": 5.16,
+      "note": "About $894 (CoinMarketCap)."
     },
     {
       "name": "Bitcoin (BTC)",
-      "pct": -1.71,
-      "note": "About $64,764 (CoinDesk)."
+      "pct": -2.27,
+      "note": "About $65,607 (The Block)."
     },
     {
-      "name": "Pump.fun (PUMP)",
-      "pct": -15.23,
-      "note": "About $0.00296 (CoinMarketCap)."
+      "name": "LayerZero (ZRO)",
+      "pct": -9.2,
+      "note": "About $1.37 (CoinMarketCap)."
     },
     {
-      "name": "Pudgy Penguins (PENGU)",
-      "pct": -16.8,
-      "note": "About $0.00513; the weakest of the top 100 coins over 24 hours (CoinMarketCap)."
+      "name": "Aster (ASTER)",
+      "pct": -13.04,
+      "note": "About $0.538; the biggest 24-hour decliner on CoinMarketCap's list (CoinMarketCap)."
     }
   ],
   "sources": [
     {
-      "title": "CoinDesk — Bitcoin price today",
-      "url": "https://www.coindesk.com/price/bitcoin"
+      "title": "The Block — Bitcoin (BTC) USD price",
+      "url": "https://www.theblock.co/price/bitcoin?currency=usd"
     },
     {
-      "title": "CoinGecko — Ethereum price, chart and market cap",
-      "url": "https://www.coingecko.com/en/coins/ethereum"
-    },
-    {
-      "title": "CoinMarketCap — Cryptocurrency prices and market cap",
-      "url": "https://coinmarketcap.com/"
+      "title": "The Block — Ethereum (ETH) USD price",
+      "url": "https://www.theblock.co/price/ethereum?currency=usd"
     },
     {
       "title": "CoinMarketCap — Top crypto gainers and losers",
       "url": "https://coinmarketcap.com/gainers-losers/"
     },
     {
-      "title": "CryptoTicker — Bitcoin Price Crashes to $62,000: Will the $60,000 Level Hold?",
-      "url": "https://cryptoticker.io/en/bitcoin-price-62000-crash-fed-hike-60000-level-november-15-2026/"
+      "title": "CryptoTicker — Bitcoin price: overnight low and the weekly close",
+      "url": "https://cryptoticker.io/en/bitcoin-price-overnight-low-weekly-close-november-15-2026/"
     },
     {
-      "title": "cryptonews.net — Bitcoin Is Headed for a Sixth Straight Weekly Loss, and the Fed's Report Named the Risk",
-      "url": "https://cryptonews.net/news/bitcoin/33753964/"
+      "title": "crypto.news — Bitcoin price falls to three-month low: Is $60K the next stop?",
+      "url": "https://crypto.news/bitcoin-price-falls-62000-etf-outflows-liquidations/"
+    },
+    {
+      "title": "Bitcoin Foundation — Crypto Market Downturn: Bitcoin Below $64K, Altcoins Drop 22%",
+      "url": "https://bitcoinfoundation.org/news/analysis/crypto-market-downturn-leaves-ether-xrp-and-solana-down-22/"
+    },
+    {
+      "title": "KuCoin — Markets Internals Report, November 15, 2026",
+      "url": "https://www.kucoin.com/news/insight/BTC/6af9d7f140903b0007ae2c1d"
     },
     {
       "title": "Stockopedia — The Week Ahead (16 - 20 Nov): Nvidia Without Jensen, Anthropic's IPO, and the UK Grows",
