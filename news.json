@@ -1,23 +1,79 @@
 {
-  "generated_at": "Nov 15, 2026, 7:25 PM ET",
-  "date_key": "2026-11-15",
+  "generated_at": "Nov 16, 2026, 2:10 AM ET",
+  "date_key": "2026-11-16",
   "articles": [
     {
-      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "title": "Stock futures slip as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-      "snippet": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551661-1794785886757-gettyimages-2288262163-Stanislav-Kogiku-1440900.jpeg?v=1794787901&w=1920&h=1080",
-      "time": "Nov 15, 7:11 PM"
+      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+      "snippet": "The Dow, S&P 500 and Nasdaq posted their biggest weekly gains since August, rising more than 2% each.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108548216-1794329432695-Traders-Photo-20261110-KK-PRESS-006.jpg?v=1794329596&w=1920&h=1080",
+      "time": "Nov 16, 1:48 AM"
     },
     {
-      "title": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
+      "title": "AI is reshaping banking jobs – but its ability to drive profits remains unclear",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
+      "snippet": "Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108181056-1754310162874-gettyimages-2226898553-redstill25071501.jpeg?v=1760127393&w=1920&h=1080",
+      "time": "Nov 16, 1:20 AM"
+    },
+    {
+      "title": "Bitcoin may drop 40% or more as it nears technical warning level, strategist says",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/bitcoin-technical-warning-level.html",
+      "snippet": "Bitcoin started the year around $90,000, and neared $98,000 in January before falling into the $60,000s in February.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
+      "time": "Nov 16, 1:18 AM"
+    },
+    {
+      "title": "Asian Equities Drop as U.S. Chip Selloff Spills Over",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
-      "snippet": "Oil edged lower as supply surplus prospects offset Middle Eastern tensions. However, oil-price losses may be limited by potential supply disruptions stemming from continuing Middle East tensions.",
+      "url": "https://www.wsj.com/finance/stocks/asian-equities-fall-as-u-s-chip-maker-share-selloff-spills-over-f6edc8d5?mod=rss_markets_main",
+      "snippet": "The U.S. chip selloff on Friday spread to Asia, with Taiwan’s Taiex leading regional markets lower as the island’s chip and hardware makers fell sharply.",
+      "image": "https://images.wsj.net/im-99169537",
+      "time": "Nov 16, 1:16 AM"
+    },
+    {
+      "title": "U.S. 10-Year Treasurys Seen Attractive to Buy on Dips",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/-63dc4bbf?mod=rss_markets_main",
+      "snippet": "The 10-year Treasury yield fell and TD Securities said 10-year yields are worth buying in phases of weakness.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 15, 7:07 PM"
+      "time": "Nov 16, 1:14 AM"
+    },
+    {
+      "title": "Crypto off to Downbeat Start This Week After Selloff",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
+      "snippet": "Crypto started the week on a downbeat note, with Bitcoin and Ethereum again trading below key levels as risk appetite remains constrained.",
+      "image": "https://images.wsj.net/im-10300323",
+      "time": "Nov 16, 12:37 AM"
+    },
+    {
+      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "snippet": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "image": "https://images.mktw.net/im-10553254",
+      "time": "Nov 15, 11:15 PM"
+    },
+    {
+      "title": "A big chunk of your 401(k) is likely invested in Nvidia",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+      "snippet": "The scandal at the computer-chip giant is exactly what’s wrong with the S&P 500.",
+      "image": "https://images.mktw.net/im-61305338",
+      "time": "Nov 15, 10:11 PM"
+    },
+    {
+      "title": "Canadian air travellers grapple with delays, cancellations in aftermath of FAA ground stop",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-canadian-air-travellers-delays-cancellations-faa-ground-stop/",
+      "snippet": "Air Canada cancelled about 250 flights on Friday, affecting about 27,000 passengers, when all air traffic in the U.S. was halted for hours",
+      "image": "https://www.theglobeandmail.com/resizer/v2/3754KS3U5NG65CVFG4LDM3ALME.JPG?auth=cc3738b9e5991f51f321bfff0cadff59e0b47c3e7dee9a3f146203401ed093ea&smart=true&width=8202&height=5468",
+      "time": "Nov 15, 9:01 PM"
     },
     {
       "title": "Telus pulls out of two planned Vancouver AI data centres",
@@ -28,14 +84,6 @@
       "time": "Nov 15, 7:05 PM"
     },
     {
-      "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
-      "snippet": "The Dow, S&P 500 and Nasdaq posted their biggest weekly gains since August, rising more than 2% each.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108548216-1794329432695-Traders-Photo-20261110-KK-PRESS-006.jpg?v=1794329596&w=1920&h=1080",
-      "time": "Nov 15, 6:31 PM"
-    },
-    {
       "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
@@ -44,60 +92,12 @@
       "time": "Nov 15, 6:30 PM"
     },
     {
-      "title": "I've owned this stock for a decade. AI slowdown fears gave me an opportunity to buy more",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/15/caterpillar-buy-kevin-simpson.html",
-      "snippet": "Caterpillar is an established business with exposure to the infrastructure needed to power AI and the broader economy.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108288325-1775599795562-gettyimages-2270284034-dji_20260407125702_0015_d_copy_dtrf3qez.jpeg?v=1776351507&w=1920&h=1080",
-      "time": "Nov 15, 6:11 PM"
-    },
-    {
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "snippet": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-      "image": "https://images.mktw.net/im-06068042",
-      "time": "Nov 15, 6:00 PM"
-    },
-    {
-      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "snippet": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-      "image": "https://images.mktw.net/im-10553254",
-      "time": "Nov 15, 5:15 PM"
-    },
-    {
       "title": "Jensen Huang reportedly mulling comeback as Nvidia CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/world/article-jensen-huang-nvidia-ceo/",
       "snippet": "Huang stepped down after revelations of extramarital affairs, including one involving a suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/77SURJMAONEKJO2PJXP75736WU.JPG?auth=9b3643c83904ac1c8285bec287b8b7a8fc195b58a6cb02afdb45fc32a70bdf85&smart=true&width=5500&height=3734",
       "time": "Nov 15, 3:44 PM"
-    },
-    {
-      "title": "As banks shut down branches, Wealthsimple sees an opening",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-as-banks-shut-down-branches-wealthsimple-sees-an-opening/",
-      "snippet": "Cash deposits in the fintech have nearly quadrupled since March",
-      "image": "https://www.theglobeandmail.com/resizer/v2/DZ6I352CKZESVLA2STVN3IKCOQ.jpg?auth=ffb91b9cf9116e4195e1be437c770df34678bf8a6bc1ac9c76227b553a9e815b&smart=true&width=7737&height=5161",
-      "time": "Nov 15, 3:36 PM"
-    },
-    {
-      "title": "Opinion | Rational Investing and Stock-Market Bubbles",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/opinion/rational-investing-and-stock-market-bubbles-f75ed12c?mod=rss_markets_main",
-      "snippet": "Readers debate investor behavior and how markets price risk.",
-      "image": "https://opinion-images.wsj.net/im-32159392",
-      "time": "Nov 15, 12:55 PM"
-    },
-    {
-      "title": "Opinion | What’s Really Behind Data Center Backlash",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/opinion/whats-really-behind-data-center-backlash-2157f445?mod=rss_markets_main",
-      "snippet": "Midterm results aren’t a rejection of the technology itself but of the way developers handle projects.",
-      "image": "https://opinion-images.wsj.net/im-47220115",
-      "time": "Nov 15, 12:54 PM"
     }
   ],
   "official": [
@@ -174,64 +174,64 @@
   ],
   "ticker": [
     {
-      "time": "5:33 PM",
-      "title": "CNBC — 'We slept here': Flight delays linger but schedule is back on track for Monday",
-      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html"
+      "time": "Nov 15",
+      "title": "CNBC — China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+      "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
     },
     {
-      "time": "4:32 PM",
-      "title": "MarketWatch — Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-      "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories"
+      "time": "Nov 15",
+      "title": "CNBC — China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+      "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
     },
     {
-      "time": "4:31 PM",
-      "title": "MarketWatch — Budget airlines are going upscale with first-class seats and faster wifi",
-      "url": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories"
+      "time": "Nov 15",
+      "title": "CNBC — Tech world's calls for Jensen Huang to return to Nvidia are growing",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"
     },
     {
-      "time": "3:30 PM",
-      "title": "MarketWatch — I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories"
+      "time": "Nov 15",
+      "title": "WSJ Markets — Singapore Dollar Consolidates, But May Be Weighed by Risk-Off Sentiment",
+      "url": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main"
     },
     {
-      "time": "3:00 PM",
-      "title": "MarketWatch — ‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
+      "time": "Nov 15",
+      "title": "WSJ Markets — Gold Ticks Up But Prices Stay Weak",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main"
     },
     {
-      "time": "2:11 PM",
-      "title": "CNBC — Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain in attack on U.S. base",
-      "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
+      "time": "Nov 15",
+      "title": "CNBC — Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
     },
     {
-      "time": "2:04 PM",
-      "title": "CNBC — Fed 'has some work to do on inflation,' Kansas City Fed chief says",
-      "url": "https://www.cnbc.com/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html"
+      "time": "Nov 15",
+      "title": "CNBC — $180 million Van Gogh tests the art market and collector confidence",
+      "url": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html"
     },
     {
-      "time": "1:15 PM",
-      "title": "CNBC — DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
-      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+      "time": "Nov 15",
+      "title": "WSJ Markets — Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered",
+      "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388?mod=rss_markets_main"
     },
     {
-      "time": "1:10 PM",
-      "title": "CNBC — Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-      "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html"
+      "time": "Nov 15",
+      "title": "WSJ Markets — The Month That Rocked the AI Trade and Rewired Wall Street",
+      "url": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3?mod=rss_markets_main"
     },
     {
-      "time": "1:00 PM",
-      "title": "Globe and Mail — Gift of $1-million allows social-services worker, 46, to quit her job and reimagine her life",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-1-million-gift-allows-social-services-worker-to-quit-her-job/"
+      "time": "Nov 15",
+      "title": "WSJ Markets — Nikkei Falls 0.1%, Dragged by Electronics, Metals Stocks",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-1-dragged-by-electronics-metals-stocks-258e75e8?mod=rss_markets_main"
     },
     {
-      "time": "1:00 PM",
-      "title": "Globe and Mail — How to tell if your financial adviser is delivering: compare returns and look for hidden fees",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-how-to-tell-if-your-financial-adviser-is-delivering/"
+      "time": "Nov 15",
+      "title": "WSJ Markets — Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-bf41acaa?mod=rss_markets_main"
     },
     {
-      "time": "12:29 PM",
-      "title": "Globe and Mail — Green Party elects former MP Mike Morrice to lead party",
-      "url": "https://www.theglobeandmail.com/politics/article-green-party-leader-mike-morrice/"
+      "time": "Nov 15",
+      "title": "WSJ Markets — Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main"
     }
   ]
 }
