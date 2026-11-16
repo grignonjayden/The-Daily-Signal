@@ -1,14 +1,39 @@
 {
-  "generated_at": "Nov 15, 2026, 3:36 PM ET",
+  "generated_at": "Nov 15, 2026, 7:25 PM ET",
   "date_key": "2026-11-15",
   "articles": [
     {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "snippet": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-      "image": "https://images.mktw.net/im-95255307",
-      "time": "Nov 15, 3:30 PM"
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "snippet": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551661-1794785886757-gettyimages-2288262163-Stanislav-Kogiku-1440900.jpeg?v=1794787901&w=1920&h=1080",
+      "time": "Nov 15, 7:11 PM"
+    },
+    {
+      "title": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
+      "snippet": "Oil edged lower as supply surplus prospects offset Middle Eastern tensions. However, oil-price losses may be limited by potential supply disruptions stemming from continuing Middle East tensions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 15, 7:07 PM"
+    },
+    {
+      "title": "Telus pulls out of two planned Vancouver AI data centres",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/technology/article-telus-pulls-out-of-two-planned-vancouver-ai-data-centres/",
+      "snippet": "Lack of local support caused company to reconsider the projects with Westbank, source says",
+      "image": "https://www.theglobeandmail.com/resizer/v2/OEBV56W7LBF6FON7ZILLQCPH4E.JPG?auth=249b0a8453008d0ee406746e574ae1a6eed1d4c5b21b354eb85daabfc792a3c9&smart=true&width=6500&height=4333",
+      "time": "Nov 15, 7:05 PM"
+    },
+    {
+      "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+      "snippet": "The Dow, S&P 500 and Nasdaq posted their biggest weekly gains since August, rising more than 2% each.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108548216-1794329432695-Traders-Photo-20261110-KK-PRESS-006.jpg?v=1794329596&w=1920&h=1080",
+      "time": "Nov 15, 6:31 PM"
     },
     {
       "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
@@ -16,55 +41,47 @@
       "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
       "snippet": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
       "image": "https://images.mktw.net/im-22072072",
-      "time": "Nov 15, 3:01 PM"
+      "time": "Nov 15, 6:30 PM"
     },
     {
-      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "title": "I've owned this stock for a decade. AI slowdown fears gave me an opportunity to buy more",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/caterpillar-buy-kevin-simpson.html",
+      "snippet": "Caterpillar is an established business with exposure to the infrastructure needed to power AI and the broader economy.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108288325-1775599795562-gettyimages-2270284034-dji_20260407125702_0015_d_copy_dtrf3qez.jpeg?v=1776351507&w=1920&h=1080",
+      "time": "Nov 15, 6:11 PM"
+    },
+    {
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "snippet": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-      "image": "https://images.mktw.net/im-61252759",
-      "time": "Nov 15, 3:00 PM"
+      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "snippet": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+      "image": "https://images.mktw.net/im-06068042",
+      "time": "Nov 15, 6:00 PM"
     },
     {
-      "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain in attack on U.S. base",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
-      "snippet": "Iranian attacks on Bahrain, headquarters of the U.S. Fifth Fleet in the Gulf, were likely to put new pressure on U.S. President Donald Trump to resolve the war.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108317815-1780744058944-gettyimages-2278861839-AFP_B4UX6TB.jpeg?v=1780744097&w=1920&h=1080",
-      "time": "Nov 15, 2:11 PM"
+      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "snippet": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "image": "https://images.mktw.net/im-10553254",
+      "time": "Nov 15, 5:15 PM"
     },
     {
-      "title": "Fed 'has some work to do on inflation,' Kansas City Fed chief says",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html",
-      "snippet": "Schmid did not call for additional rate hikes, but said inflation is \"uncomfortably above the 2% price stability target, and moving in the wrong direction.\"",
-      "image": "https://image.cnbcfm.com/api/v1/image/108355069-1787831154352-tSa-y12A.jpg?v=1787831303&w=1920&h=1080",
-      "time": "Nov 15, 2:04 PM"
-    },
-    {
-      "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-      "snippet": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551632-1794744176028-gettyimages-2304485779-ag_groundstop_02.jpeg?v=1794744200&w=1920&h=1080",
-      "time": "Nov 15, 1:22 PM"
-    },
-    {
-      "title": "Gift of $1-million allows social-services worker, 46, to quit her job and reimagine her life",
+      "title": "Jensen Huang reportedly mulling comeback as Nvidia CEO",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-1-million-gift-allows-social-services-worker-to-quit-her-job/",
-      "snippet": "Frances was in a period of ‘unmanageable’ stress at work. Now she’s travelling and mulling next steps",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TX2OGSCIZFFPZBT6KRIK57P3VY.jpg?auth=0a7564e1358ead20d895064d09619d5c1fa54460f195bfb87c23fc72505fffa7&smart=true&width=2000&height=1333",
-      "time": "Nov 15, 1:00 PM"
+      "url": "https://www.theglobeandmail.com/world/article-jensen-huang-nvidia-ceo/",
+      "snippet": "Huang stepped down after revelations of extramarital affairs, including one involving a suspected Chinese spy",
+      "image": "https://www.theglobeandmail.com/resizer/v2/77SURJMAONEKJO2PJXP75736WU.JPG?auth=9b3643c83904ac1c8285bec287b8b7a8fc195b58a6cb02afdb45fc32a70bdf85&smart=true&width=5500&height=3734",
+      "time": "Nov 15, 3:44 PM"
     },
     {
-      "title": "How to tell if your financial adviser is delivering: compare returns and look for hidden fees",
+      "title": "As banks shut down branches, Wealthsimple sees an opening",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-how-to-tell-if-your-financial-adviser-is-delivering/",
-      "snippet": "What you need to know about performance reporting to figure out how your financial adviser is doing",
-      "image": "https://www.theglobeandmail.com/resizer/v2/2ER67L7E5BH7BAXAXMP4EASW7Q.jpg?auth=204697f48cdb541782e73e4ddb8129389cdc9795b9fdb3d24ea5579c661731a6&smart=true&width=1885&height=1414",
-      "time": "Nov 15, 1:00 PM"
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-as-banks-shut-down-branches-wealthsimple-sees-an-opening/",
+      "snippet": "Cash deposits in the fintech have nearly quadrupled since March",
+      "image": "https://www.theglobeandmail.com/resizer/v2/DZ6I352CKZESVLA2STVN3IKCOQ.jpg?auth=ffb91b9cf9116e4195e1be437c770df34678bf8a6bc1ac9c76227b553a9e815b&smart=true&width=7737&height=5161",
+      "time": "Nov 15, 3:36 PM"
     },
     {
       "title": "Opinion | Rational Investing and Stock-Market Bubbles",
@@ -81,22 +98,6 @@
       "snippet": "Midterm results aren’t a rejection of the technology itself but of the way developers handle projects.",
       "image": "https://opinion-images.wsj.net/im-47220115",
       "time": "Nov 15, 12:54 PM"
-    },
-    {
-      "title": "Green Party elects former MP Mike Morrice to lead party",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/politics/article-green-party-leader-mike-morrice/",
-      "snippet": "Greens have renewed energy to make life more affordable while taking on ‘oil and gas giants,’ Morrice says",
-      "image": "https://www.theglobeandmail.com/resizer/v2/ZEAQSS7JJVCRJHCBYLO5JCDJBY.jpg?auth=6b90d6b8edc02a5bc5a356643e5d92610400c34a659f45e69b9d5ee930c0099f&smart=true&width=3036&height=2079",
-      "time": "Nov 15, 12:29 PM"
-    },
-    {
-      "title": "Gucci Is Cutting Prices. Louis Vuitton Is Reluctant to Follow the Trend.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/retail/gucci-is-cutting-prices-louis-vuitton-is-reluctant-to-follow-the-trend-50e4b218?mod=rss_markets_main",
-      "snippet": "With luxury demand weak, executives are debating one of the sector’s big taboos.",
-      "image": "https://images.wsj.net/im-72398495",
-      "time": "Nov 15, 5:30 AM"
     }
   ],
   "official": [
@@ -173,6 +174,41 @@
   ],
   "ticker": [
     {
+      "time": "5:33 PM",
+      "title": "CNBC — 'We slept here': Flight delays linger but schedule is back on track for Monday",
+      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html"
+    },
+    {
+      "time": "4:32 PM",
+      "title": "MarketWatch — Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+      "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories"
+    },
+    {
+      "time": "4:31 PM",
+      "title": "MarketWatch — Budget airlines are going upscale with first-class seats and faster wifi",
+      "url": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories"
+    },
+    {
+      "time": "3:30 PM",
+      "title": "MarketWatch — I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories"
+    },
+    {
+      "time": "3:00 PM",
+      "title": "MarketWatch — ‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories"
+    },
+    {
+      "time": "2:11 PM",
+      "title": "CNBC — Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain in attack on U.S. base",
+      "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
+    },
+    {
+      "time": "2:04 PM",
+      "title": "CNBC — Fed 'has some work to do on inflation,' Kansas City Fed chief says",
+      "url": "https://www.cnbc.com/2026/11/15/fed-has-some-work-to-do-on-inflation-kansas-city-fed-chief-says.html"
+    },
+    {
       "time": "1:15 PM",
       "title": "CNBC — DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
       "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
@@ -183,54 +219,19 @@
       "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html"
     },
     {
-      "time": "11:56 AM",
-      "title": "CNBC — Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
-      "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html"
+      "time": "1:00 PM",
+      "title": "Globe and Mail — Gift of $1-million allows social-services worker, 46, to quit her job and reimagine her life",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-1-million-gift-allows-social-services-worker-to-quit-her-job/"
     },
     {
-      "time": "11:00 AM",
-      "title": "MarketWatch — ‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories"
+      "time": "1:00 PM",
+      "title": "Globe and Mail — How to tell if your financial adviser is delivering: compare returns and look for hidden fees",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-how-to-tell-if-your-financial-adviser-is-delivering/"
     },
     {
-      "time": "10:59 AM",
-      "title": "Globe and Mail — Nvidia must ‘go outside the company’ to find Huang’s replacement, Bessent says",
-      "url": "https://www.theglobeandmail.com/world/article-nvidia-ceo-jensen-huang-bessent/"
-    },
-    {
-      "time": "10:26 AM",
-      "title": "CNBC — 3 big things we're watching in the stock market in the week ahead",
-      "url": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html"
-    },
-    {
-      "time": "10:22 AM",
-      "title": "MarketWatch — China’s hottest stocks these days have one thing in common: names that sound like sheep",
-      "url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories"
-    },
-    {
-      "time": "10:00 AM",
-      "title": "MarketWatch — ‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories"
-    },
-    {
-      "time": "10:00 AM",
-      "title": "MarketWatch — Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-      "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories"
-    },
-    {
-      "time": "9:55 AM",
-      "title": "Globe and Mail — Trump breaks silence on nationwide ground stop, demands more money from Congress for FAA",
-      "url": "https://www.theglobeandmail.com/world/article-trump-airline-ground-stop-faa/"
-    },
-    {
-      "time": "9:30 AM",
-      "title": "CNBC — Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
-      "url": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html"
-    },
-    {
-      "time": "9:06 AM",
-      "title": "Globe and Mail — How Danielle Smith’s risky bet on data centres could backfire",
-      "url": "https://www.theglobeandmail.com/business/article-alberta-how-danielle-smiths-bet-on-data-centres-could-backfire/"
+      "time": "12:29 PM",
+      "title": "Globe and Mail — Green Party elects former MP Mike Morrice to lead party",
+      "url": "https://www.theglobeandmail.com/politics/article-green-party-leader-mike-morrice/"
     }
   ]
 }
