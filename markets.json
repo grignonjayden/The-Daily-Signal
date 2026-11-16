@@ -1,76 +1,76 @@
 {
-  "generated_at": "Nov 16, 2026, 7:40 AM ET (premarket; last session Friday, Nov 13)",
+  "generated_at": "Nov 16, 2026, 12:40 PM ET (Monday intraday; Friday close for reference)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed Friday, Nov. 13 (the last session) up 46.14 points, or 0.09%, at 52,343.23 (Reuters via Central Oregon Daily). Dow E-minis were up 0.02% at 5:08 a.m. ET Monday (Reuters via Yahoo Finance)."
+      "note": "Down about 0.81% (-425 points) to roughly 51,922 at 12:18 p.m. ET Monday, after Friday's 0.09% gain to a 52,343.23 close (Yahoo Finance; Reuters via Central Oregon Daily)."
     },
     {
       "index": "S&P 500",
-      "note": "Closed Friday down 31.53 points, or 0.42%, at 7,560.87, while posting a weekly gain (Reuters via Central Oregon Daily). S&P 500 E-minis were down 0.36% at 5:08 a.m. ET Monday (Reuters via Yahoo Finance)."
+      "note": "Down about 1.3% to roughly 7,463 around midday Monday, after Friday's 0.42% drop to 7,560.87; it opened down 0.94% (Yahoo Finance; 24/7 Wall St.)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed Friday down 230.13 points, or 0.91%, at 25,135.96 (Reuters via Central Oregon Daily). Nasdaq 100 E-minis were down 0.97% at 5:08 a.m. ET Monday (Reuters via Yahoo Finance)."
+      "note": "Down about 1.8% to roughly 24,675 around midday Monday, the weakest major index, after Friday's 0.91% drop to 25,135.96 (Yahoo Finance; Reuters via Central Oregon Daily)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "The December contract settled Friday at $88.56 a barrel, down 0.2% (Rigzone); early Monday it traded near $88.18, down 0.43%, with Brent near $95.36 (Yahoo Finance)."
+      "note": "December WTI was near $86.36 a barrel around midday Monday, down about 2.5%, with Brent around $94, as shipments through the Strait of Hormuz recovered (Yahoo Finance)."
     }
   ],
   "themes": [
     {
-      "title": "Tech futures slide ahead of Nvidia",
-      "summary": "Nasdaq futures fell about 1% early Monday while Dow futures were flat; Nvidia was down about 2.2% premarket, and Intel, AMD, Broadcom and Micron fell 3.5% to 5%, with neocloud and server stocks also lower (Reuters via Yahoo Finance).",
+      "title": "Tech leads a broad selloff",
+      "summary": "The technology sector was down about 3% at 10:30 a.m. ET, the worst of the 11 sectors, while the Russell 2000 fell about 1.1% (24/7 Wall St.; Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "Nvidia leadership questions",
-      "summary": "Colette Kress is interim CEO while the board searches for a successor after Jensen Huang stepped down; the Financial Times reported Monday that Huang is considering a return (Reuters via Yahoo Finance; Yahoo Finance).",
+      "title": "Nvidia slides before results",
+      "summary": "Nvidia was down about 3% Monday and nearly 13% over five days ahead of Tuesday's results, its first since Jensen Huang's resignation; reports say Huang may seek a return, and President Trump said the idea 'certainly isn't a bad idea' (Yahoo Finance).",
       "confidence": "developing"
     },
     {
-      "title": "December hike fully priced",
-      "summary": "Markets fully price a Fed rate hike in December, with about an 8% chance of a half-point move per CME FedWatch; the 2-year yield eased Monday after its largest weekly rise in more than two years, and the 10-year yield was about 5.15% (Reuters via Yahoo Finance).",
+      "title": "Chip stocks hit hardest",
+      "summary": "Micron was down 6.39% and Intel 6.02% at 10:01 a.m. ET; SanDisk, Coherent and Lumentum each fell about 8.5% to 8.6% early (Stock Titan; 24/7 Wall St.).",
       "confidence": "confirmed"
     },
     {
-      "title": "Warsh speaks today",
-      "summary": "Fed Chair Kevin Warsh moderates a panel in San Francisco on Monday focused on AI, productivity and the labor market; he has generally avoided explicit rate guidance, and hawkish remarks from Governor Christopher Waller last week raised bets on a larger hike (Yahoo Finance).",
+      "title": "Volatility rises, yields ease",
+      "summary": "The VIX rose about 9% to 21.05, while the 10-year Treasury yield was about 5.14%, slightly lower on the day (Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "Oil caught between surplus and Gulf tensions",
-      "summary": "Oil has fallen for two weeks as the IEA projects a supply surplus of about 2 million barrels a day this quarter, while a Sunday Iranian strike on a U.S. base in Bahrain and a reported tanker attack kept supply risk in view (Yahoo Finance).",
-      "confidence": "developing"
+      "title": "Crypto stocks fall with Bitcoin",
+      "summary": "Coinbase, Circle and Strategy fell 7% to 8% after Bitcoin hit its lowest level since July over the weekend (Yahoo Finance; CryptoTicker).",
+      "confidence": "confirmed"
     }
   ],
   "sectors": [
     {
-      "name": "Semiconductors",
-      "note": "Chip stocks fell for a second day Friday (Reuters via Central Oregon Daily); chipmakers including Intel, AMD, Broadcom and Micron fell 3.5% to 5% early Monday (Reuters via Yahoo Finance).",
-      "momentum": 20
-    },
-    {
-      "name": "AI Infrastructure and Servers",
-      "note": "CoreWeave fell 5.4% and Nebius 5.5%, data-center firms IREN, Applied Digital and Core Scientific fell 5% to 5.3%, and Dell and HP each fell 5.1% early Monday (Reuters via Yahoo Finance).",
-      "momentum": 22
+      "name": "Technology",
+      "note": "Down about 3.0% at 10:30 a.m. ET, the weakest sector, led by chipmakers such as Micron, Intel and AMD (24/7 Wall St.; Stock Titan).",
+      "momentum": 18
     },
     {
       "name": "Defensive Sectors",
-      "note": "Utilities led Friday's gains, with consumer staples and communication services also higher while technology lagged (24/7 Wall St.).",
-      "momentum": 62
+      "note": "Consumer staples (+1.0%), utilities (+0.7%) and health care (+0.7%) were the only leaders at 10:30 a.m. ET; Tyson Foods rose about 9.9% after results (24/7 Wall St.; Stock Titan).",
+      "momentum": 64
     },
     {
       "name": "Energy",
-      "note": "WTI slipped about 0.4% early Monday to near $88 after two weekly declines, as surplus forecasts offset Gulf tensions (Yahoo Finance; Rigzone).",
-      "momentum": 45
+      "note": "Down about 1.4% at 10:30 a.m. ET as WTI crude fell about 2.5% to near $86 (24/7 Wall St.; Yahoo Finance).",
+      "momentum": 32
+    },
+    {
+      "name": "Communication Services",
+      "note": "Down about 1.4% at 10:30 a.m. ET; Telus jumped about 11.8% on an unsolicited, non-binding takeover proposal from Québecor (24/7 Wall St.; Stock Titan).",
+      "momentum": 38
     }
   ],
   "watch_list": [
     {
       "topic": "Nvidia earnings and retail sales on Tuesday",
-      "why": "Nvidia reports fiscal third-quarter results after the close Nov. 17, its first since Huang's departure; consensus is about $108.8 billion in revenue and $2.47 a share (Stockopedia). October retail sales and industrial production are also due (Yahoo Finance).",
+      "why": "U.S. October retail sales are due at 8:30 a.m. ET Nov. 17, and Nvidia reports after the close at about 4:20 p.m. ET; consensus is about $108.8 billion in revenue (Stock Titan; Stockopedia).",
       "confidence": "confirmed"
     },
     {
@@ -79,35 +79,35 @@
       "confidence": "developing"
     },
     {
-      "topic": "Warsh today, Fed minutes Wednesday",
-      "why": "Warsh speaks Monday and minutes from the October Fed meeting come Wednesday (Reuters via Yahoo Finance); the November Empire State manufacturing index is due Monday, expected at 19 versus 25.5 prior (Yahoo Finance).",
+      "topic": "Fed minutes Wednesday",
+      "why": "Minutes from the October Fed meeting are due Wednesday, with markets fully pricing a December rate hike (Reuters via Yahoo Finance).",
       "confidence": "confirmed"
     }
   ],
   "sources": [
     {
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+    },
+    {
+      "title": "24/7 Wall St. — S&P 500 Drops 1.1% at Midday as Nasdaq Leads the Selloff",
+      "url": "https://247wallst.com/cards/tech-is-carrying-the-damage-at-midday-with-the-nasdaq-down-gspc-market-bell-01m7jmy4mepf7qhsb8w9z2d6tk"
+    },
+    {
+      "title": "Stock Titan — Stock Market Today Live, November 16, 2026",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
+    },
+    {
       "title": "Reuters via Yahoo Finance — S&P 500, Nasdaq futures slide as Nvidia earnings, Anthropic debut loom",
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-slide-104351968.html"
     },
     {
-      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq futures little changed ahead of pivotal week for AI traders",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    },
-    {
-      "title": "Yahoo Finance — Nvidia results ahead this week; Fed's Warsh to speak - what's moving markets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-results-ahead-week-fed-093249400.html"
-    },
-    {
-      "title": "Reuters via Central Oregon Daily — S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
+      "title": "Reuters via Central Oregon Daily — S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares (Friday close)",
       "url": "https://www.centraloregondaily.com/news/consumer/wall-st-slides-as-nvidia-uncertainty-drags-tech-shares-lower/article_4864122f-faa9-53ef-b47f-3f5cc804368d.html"
     },
     {
-      "title": "24/7 Wall St. — S&P 500 Closes Down 0.4% as Tech Drags and the Dow Holds Green",
-      "url": "https://247wallst.com/cards/money-moved-out-of-tech-and-into-everything-else-today-the-gspc-market-bell-01m7bbjh5wpep4vmjk7jwpas8h"
-    },
-    {
-      "title": "Rigzone — Crude Fluctuates as Iran Tensions Persist",
-      "url": "https://www.rigzone.com/news/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article"
+      "title": "CryptoTicker — Nasdaq drops 2%, bitcoin holds near $64,600",
+      "url": "https://cryptoticker.io/en/crypto-news-nasdaq-drops-2-percent-nvidia-bitcoin-november-16-2026/"
     },
     {
       "title": "Stockopedia — The Week Ahead (16 - 20 Nov): Nvidia Without Jensen, Anthropic's IPO, and the UK Grows",

@@ -1,149 +1,149 @@
 {
-  "generated_at": "Nov 16, 2026, 7:40 AM ET",
+  "generated_at": "Nov 16, 2026, 12:40 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $64,400 at 7:02 a.m. ET Monday, down 1.37% over 24 hours (TokenPost); the 24-hour range ran from $63,777 to $65,980, and it is down about 13.4% over seven days (CryptoTicker)."
+      "note": "About $64,765 at 11:35 a.m. ET Monday, up about 0.5% over 24 hours (The Daily Coins); it fell to about $62,000 over the weekend, its lowest since July (KuCoin)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,804 at 7:02 a.m. ET Monday, down 0.82% over 24 hours (TokenPost)."
+      "note": "About $1,829 at 11:35 a.m. ET Monday, up about 1.3% over 24 hours (The Daily Coins); it touched a low near $1,711 over the weekend (KuCoin)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.20 trillion as of 06:00 UTC Monday, up 0.25% over 24 hours, while 24-hour trading volume fell 38.55% to $63.47 billion (CoinCodex)."
+      "note": "About $2.20 trillion at 11:35 a.m. ET Monday, down 0.11% over 24 hours (The Daily Coins); CoinGecko showed about $2.18 trillion (via Cryptonews)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 59.07% of total crypto market value as of 06:00 UTC Monday, down 0.61% over 24 hours (CoinCodex)."
+      "note": "About 59.3% per CoinGecko (via Cryptonews); The Daily Coins put it at 58.8% at 7:15 a.m. ET."
     }
   ],
   "themes": [
     {
-      "title": "Weakest week since early June",
-      "summary": "Bitcoin's weekly candle closed just under $65,000, the weakest week since early June, after a drop of just over 5% on Saturday; it remains about 49% below its October 2025 record of $126,080 (CryptoTicker).",
+      "title": "Bitcoin steadies as stocks slide",
+      "summary": "Bitcoin held near $64,600–$64,800 while the Nasdaq fell about 2%; CryptoTicker calculates a 0.67 correlation between daily Bitcoin and Nasdaq returns over 30 trading days (CryptoTicker).",
       "confidence": "confirmed"
     },
     {
       "title": "Sentiment stuck at extreme fear",
-      "summary": "The Fear & Greed Index read 10 on Monday, unchanged from Sunday and down from 32 on Nov. 10; it has been below 20, the extreme-fear zone, since Friday (CryptoTicker). CoinMarketCap's own sentiment gauge read 12, also extreme fear (CoinMarketCap).",
+      "summary": "The Fear & Greed Index read 10 on Monday, unchanged from Sunday and in the extreme-fear zone (alternative.me via CryptoTicker; KuCoin).",
       "confidence": "confirmed"
     },
     {
-      "title": "Most large coins slip",
-      "summary": "Of the 88 largest cryptocurrencies excluding stablecoins, 21 rose and 67 fell over the 24 hours to 7:02 a.m. ET Monday (TokenPost).",
+      "title": "ETF outflow streak",
+      "summary": "U.S. spot Bitcoin ETFs logged seven straight sessions of net outflows, about $1.91 billion, through Nov. 13, and November outflows total about $2.1 billion (KuCoin; Cryptonews).",
       "confidence": "confirmed"
     },
     {
-      "title": "ETF outflows extend",
-      "summary": "U.S. spot bitcoin ETFs had $185.4 million of net outflows on Friday, bringing seven-day outflows to about $1.91 billion and November outflows to more than $2 billion with no inflow days this month (Farside via CryptoTicker).",
+      "title": "Crypto stocks hit hard",
+      "summary": "Coinbase was down about 6.3% and Strategy about 7.4% Monday morning, more than Bitcoin itself (Yahoo Finance via CryptoTicker).",
       "confidence": "confirmed"
     },
     {
-      "title": "Rate-hike pricing and AI stocks in focus",
-      "summary": "Markets fully price a December Fed hike (Reuters via Yahoo Finance), and Fed Chair Warsh speaks at noon ET Monday, ahead of Nvidia results Tuesday (CryptoTicker).",
+      "title": "Liquidity and rates weigh",
+      "summary": "Stablecoin supply fell about $17 billion over the past month (Glassnode), and markets expect another Fed hike in December with the 10-year yield near 5.15% (KuCoin).",
       "confidence": "developing"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin was down 1.37% and ether down 0.82% over 24 hours as of 7:02 a.m. ET Monday (TokenPost)."
+      "note": "Both slightly higher over 24 hours by late morning Monday, with Ether (+1.3%) ahead of Bitcoin (+0.5%) (The Daily Coins)."
     },
     {
       "name": "Large-cap altcoins",
-      "note": "Losses were broad, with 67 of the 88 largest coins lower; Pepe fell 5.52% and Gate 5.49% (TokenPost)."
+      "note": "Mixed: Solana was flat at $71.00 and XRP up 0.4% to $0.9567 (CoinGecko via CryptoTicker), while Pepe fell 6.21% (The Daily Coins)."
     },
     {
-      "name": "Infrastructure and enterprise tokens",
-      "note": "Canton rose 4.45% and XDC Network 3.94% (TokenPost); Quant gained 5.94% to $155.48 (CoinCodex)."
+      "name": "DeFi",
+      "note": "Kava fell nearly 40% in a day after about 55.2 million tokens were abnormally borrowed and sold through Kava Lend; Aerodrome Finance fell 6.21% (KuCoin; The Daily Coins)."
     },
     {
       "name": "Derivatives and ETFs",
-      "note": "More than $2 billion of positions, mostly long bets, were liquidated over the weekend, and bitcoin ETFs logged $185.4 million of outflows Friday (CryptoTicker)."
+      "note": "Rolling 24-hour liquidations briefly topped $2 billion during the Nov. 15 selloff, mostly long positions (CoinGlass via KuCoin), and ETF outflows continued (Cryptonews)."
     }
   ],
   "watch_list": [
     {
-      "topic": "Support near $63,800 and $62,000",
-      "why": "The 24-hour low of $63,777 is the first reference point below, then Sunday's low of $61,946; the 24-hour high of $65,980 and the 200-week line near $67,800 sit above (CryptoTicker).",
+      "topic": "Support near $62,000–$63,000",
+      "why": "Analysts cite $62,000–$63,000 as a near-term support zone and $67,000–$70,000 as resistance; daily RSI near 24 is in oversold territory (KuCoin; Cryptonews).",
       "confidence": "developing"
     },
     {
-      "topic": "ETF flows after Monday's session",
-      "why": "Flow figures for Monday's session are due Tuesday morning, after more than $2 billion of November outflows so far (CryptoTicker).",
-      "confidence": "developing"
+      "topic": "Nvidia results Tuesday",
+      "why": "With Bitcoin closely tracking the Nasdaq, Nvidia's report after the close on Nov. 17 is a key event for risk assets (CryptoTicker).",
+      "confidence": "confirmed"
     },
     {
-      "topic": "Warsh, Nvidia, Fed minutes and the Anthropic IPO",
-      "why": "Warsh speaks Monday, Nvidia reports Tuesday, Fed minutes are due Wednesday, Anthropic prices its IPO Nov. 18 with trading set for Nov. 19, and a Trump-Xi-Putin meeting is scheduled in China on Nov. 19 (CryptoTicker; CoinGabbar; Stockopedia).",
+      "topic": "Fed minutes and Anthropic IPO",
+      "why": "Fed minutes are due Wednesday and Anthropic's Nasdaq debut is expected Thursday, Nov. 19; ETF flows and stablecoin supply are also in focus (KuCoin; Yahoo Finance).",
       "confidence": "confirmed"
     }
   ],
   "movers": [
     {
-      "name": "Rain (RAIN)",
-      "pct": 79.63,
-      "note": "About $0.00658; the top gainer on TokenPost's list (TokenPost)."
+      "name": "Ultima (ULTIMA)",
+      "pct": 23.73,
+      "note": "Top 24-hour gainer as of 7:15 a.m. ET (The Daily Coins)."
     },
     {
-      "name": "Canton (CC)",
-      "pct": 4.45,
-      "note": "About $0.0840 (TokenPost)."
+      "name": "Request Network (REQ)",
+      "pct": 15.32,
+      "note": "Second-largest 24-hour gainer (The Daily Coins)."
     },
     {
-      "name": "XDC Network (XDC)",
-      "pct": 3.94,
-      "note": "About $0.0295 (TokenPost)."
+      "name": "AKEDO (AKE)",
+      "pct": 11.02,
+      "note": "Third-largest 24-hour gainer (The Daily Coins)."
     },
     {
-      "name": "Bitcoin (BTC)",
-      "pct": -1.37,
-      "note": "About $64,400 (TokenPost)."
+      "name": "Pepe (PEPE)",
+      "pct": -6.21,
+      "note": "Among the day's biggest decliners (The Daily Coins)."
     },
     {
-      "name": "Midnight (NIGHT)",
-      "pct": -12.34,
-      "note": "About $0.0438 (TokenPost)."
+      "name": "Pyth Network (PYTH)",
+      "pct": -6.43,
+      "note": "Among the day's biggest decliners (The Daily Coins)."
     },
     {
-      "name": "Bitway (BTW)",
-      "pct": -31.92,
-      "note": "About $0.414; the biggest decliner on TokenPost's list (TokenPost)."
+      "name": "Alaya Governance Token (AGT)",
+      "pct": -9.82,
+      "note": "Biggest 24-hour decliner on The Daily Coins' list (The Daily Coins)."
     }
   ],
   "sources": [
     {
-      "title": "TokenPost — Rain Climbs 79.63% as 67 of 88 Major Cryptocurrencies Fall",
-      "url": "https://tokenpost.com/news/investing/58283"
+      "title": "The Daily Coins — Crypto market today, 16 Nov 2026: Bitcoin −1.7% at $64,260, total market $2.18T",
+      "url": "https://thedailycoins.io/2026/11/crypto-market-today-2026-11-16/"
     },
     {
-      "title": "CoinCodex — Daily Market Update for Nov 16, 2026",
-      "url": "https://coincodex.com/article/95446/daily-market-update-for-november-16-2026"
+      "title": "CryptoTicker — Nasdaq drops 2%, bitcoin holds near $64,600",
+      "url": "https://cryptoticker.io/en/crypto-news-nasdaq-drops-2-percent-nvidia-bitcoin-november-16-2026/"
     },
     {
-      "title": "CryptoTicker — Bitcoin price before Warsh speech: the level that decides",
-      "url": "https://cryptoticker.io/en/bitcoin-price-warsh-speech-productivity-jobs-november-16-2026/"
+      "title": "KuCoin — Crypto Daily Market Report, November 16, 2026",
+      "url": "https://kucoin.com/news/articles/crypto-daily-market-report-november-16-2026"
     },
     {
-      "title": "Reuters via Yahoo Finance — S&P 500, Nasdaq futures slide as Nvidia earnings, Anthropic debut loom",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-slide-104351968.html"
+      "title": "Cryptonews — Bitcoin faces $2.1B in November ETF outflows as rebound stays unconfirmed",
+      "url": "https://cryptonews.net/news/bitcoin/33757821/"
     },
     {
-      "title": "Yahoo Finance — Nvidia results ahead this week; Fed's Warsh to speak - what's moving markets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-results-ahead-week-fed-093249400.html"
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
     },
     {
-      "title": "CoinGabbar — Crypto News: Bitcoin at $65K, Fear Index Hits 10, Fed Rate Hike Looms",
-      "url": "https://www.coingabbar.com/en/crypto-news-nov-16-bitcoin-eth-price-fear-index-crypto-events"
+      "title": "Stock Titan — Stock Market Today Live, November 16, 2026",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
     },
     {
-      "title": "Stockopedia — The Week Ahead (16 - 20 Nov): Nvidia Without Jensen, Anthropic's IPO, and the UK Grows",
-      "url": "https://www.stockopedia.com/content/the-week-ahead-16-20-nov-nvidia-without-jensen-anthropics-ipo-and-the-uk-grows-1060754/"
+      "title": "CoinGecko — Cryptocurrency prices and market capitalization",
+      "url": "https://www.coingecko.com/"
     },
     {
-      "title": "CoinMarketCap — Cryptocurrency prices, charts and market capitalizations",
-      "url": "https://coinmarketcap.com/"
+      "title": "Alternative.me — Crypto Fear & Greed Index",
+      "url": "https://alternative.me/crypto/fear-and-greed-index/"
     }
   ]
 }
