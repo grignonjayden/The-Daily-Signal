@@ -1,109 +1,109 @@
 {
-  "generated_at": "Nov 15, 2026, 4:45 PM ET (weekend; last session Friday, Nov 13)",
+  "generated_at": "Nov 16, 2026, 7:40 AM ET (premarket; last session Friday, Nov 13)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed Friday, Nov. 13 (the last session; markets are shut for the weekend) up 46.14 points, or 0.09%, at 52,343.23, the only major U.S. index to finish higher (Reuters via Central Oregon Daily)."
+      "note": "Closed Friday, Nov. 13 (the last session) up 46.14 points, or 0.09%, at 52,343.23 (Reuters via Central Oregon Daily). Dow E-minis were up 0.02% at 5:08 a.m. ET Monday (Reuters via Yahoo Finance)."
     },
     {
       "index": "S&P 500",
-      "note": "Closed Friday down 31.53 points, or 0.42%, at 7,560.87, but posted a weekly gain that ended a four-week losing streak (Reuters via Central Oregon Daily)."
+      "note": "Closed Friday down 31.53 points, or 0.42%, at 7,560.87, while posting a weekly gain (Reuters via Central Oregon Daily). S&P 500 E-minis were down 0.36% at 5:08 a.m. ET Monday (Reuters via Yahoo Finance)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed Friday down 230.13 points, or 0.91%, at 25,135.96, as chip stocks fell for a second day; it also snapped a four-week losing streak (Reuters via Central Oregon Daily)."
+      "note": "Closed Friday down 230.13 points, or 0.91%, at 25,135.96 (Reuters via Central Oregon Daily). Nasdaq 100 E-minis were down 0.97% at 5:08 a.m. ET Monday (Reuters via Yahoo Finance)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "The December contract settled Friday at $88.56 a barrel, down 0.2%, while Brent for January added 2 cents to $95.84 and posted a second weekly decline (Rigzone)."
+      "note": "The December contract settled Friday at $88.56 a barrel, down 0.2% (Rigzone); early Monday it traded near $88.18, down 0.43%, with Brent near $95.36 (Yahoo Finance)."
     }
   ],
   "themes": [
     {
-      "title": "Wholesale inflation stays hot",
-      "summary": "October producer prices rose 0.3% on the month, below the 0.4% forecast, but were up 6.5% from a year earlier; core producer prices rose 5% annually, the most since January 2023 (Kiplinger; Yahoo Finance).",
+      "title": "Tech futures slide ahead of Nvidia",
+      "summary": "Nasdaq futures fell about 1% early Monday while Dow futures were flat; Nvidia was down about 2.2% premarket, and Intel, AMD, Broadcom and Micron fell 3.5% to 5%, with neocloud and server stocks also lower (Reuters via Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "Chip stocks lead the decline",
-      "summary": "AMD fell 8.8%, the worst performer in the S&P 500, while Broadcom lost 4.8%, Intel 2.5% and Nvidia 2%, as fallout from Nvidia CEO Jensen Huang's resignation continued (Kiplinger).",
+      "title": "Nvidia leadership questions",
+      "summary": "Colette Kress is interim CEO while the board searches for a successor after Jensen Huang stepped down; the Financial Times reported Monday that Huang is considering a return (Reuters via Yahoo Finance; Yahoo Finance).",
+      "confidence": "developing"
+    },
+    {
+      "title": "December hike fully priced",
+      "summary": "Markets fully price a Fed rate hike in December, with about an 8% chance of a half-point move per CME FedWatch; the 2-year yield eased Monday after its largest weekly rise in more than two years, and the 10-year yield was about 5.15% (Reuters via Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "December rate hike fully priced",
-      "summary": "October producer prices rose 6.5% from a year earlier, the largest annual gain since November 2022; markets fully price at least a quarter-point Fed hike in December, with about a 10% chance of a half-point move per CME FedWatch (Reuters via Central Oregon Daily).",
+      "title": "Warsh speaks today",
+      "summary": "Fed Chair Kevin Warsh moderates a panel in San Francisco on Monday focused on AI, productivity and the labor market; he has generally avoided explicit rate guidance, and hawkish remarks from Governor Christopher Waller last week raised bets on a larger hike (Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "A winning week despite Friday's slide",
-      "summary": "All three major indexes gained for the week; the S&P 500 and Nasdaq ended four-week losing streaks, while Nvidia logged a sixth straight weekly decline, its longest since October 2012 (Reuters via Central Oregon Daily).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Oil eases on supply signals",
-      "summary": "Crude prices were little changed Friday; rising U.S. inventories, record seasonal refinery runs and an IEA forecast of a surplus this quarter weighed on prices, while attacks on Gulf shipping kept supply risk in view (Rigzone).",
-      "confidence": "confirmed"
+      "title": "Oil caught between surplus and Gulf tensions",
+      "summary": "Oil has fallen for two weeks as the IEA projects a supply surplus of about 2 million barrels a day this quarter, while a Sunday Iranian strike on a U.S. base in Bahrain and a reported tanker attack kept supply risk in view (Yahoo Finance).",
+      "confidence": "developing"
     }
   ],
   "sectors": [
     {
       "name": "Semiconductors",
-      "note": "The weakest group, with AMD down 8.8%, Broadcom down 4.8%, Intel down 2.5% and Nvidia down 2% at the close (Kiplinger).",
+      "note": "Chip stocks fell for a second day Friday (Reuters via Central Oregon Daily); chipmakers including Intel, AMD, Broadcom and Micron fell 3.5% to 5% early Monday (Reuters via Yahoo Finance).",
+      "momentum": 20
+    },
+    {
+      "name": "AI Infrastructure and Servers",
+      "note": "CoreWeave fell 5.4% and Nebius 5.5%, data-center firms IREN, Applied Digital and Core Scientific fell 5% to 5.3%, and Dell and HP each fell 5.1% early Monday (Reuters via Yahoo Finance).",
       "momentum": 22
     },
     {
-      "name": "Networking and Hardware",
-      "note": "Cisco fell 6.2% despite a beat-and-raise quarter, Fabrinet fell 7.9% and Dell Technologies fell 7.2% (Kiplinger; 24/7 Wall St.).",
-      "momentum": 28
-    },
-    {
       "name": "Defensive Sectors",
-      "note": "Utilities led gains, with consumer staples up 0.7% and communication services up 0.4% as of mid-morning, while technology was down 2.8% (24/7 Wall St.).",
+      "note": "Utilities led Friday's gains, with consumer staples and communication services also higher while technology lagged (24/7 Wall St.).",
       "momentum": 62
     },
     {
-      "name": "Consumer and Software Gainers",
-      "note": "Dutch Bros rose 6.7%, Duolingo 5.2% and AppLovin 3.9%, among the day's top gainers (24/7 Wall St.).",
-      "momentum": 60
+      "name": "Energy",
+      "note": "WTI slipped about 0.4% early Monday to near $88 after two weekly declines, as surplus forecasts offset Gulf tensions (Yahoo Finance; Rigzone).",
+      "momentum": 45
     }
   ],
   "watch_list": [
     {
       "topic": "Nvidia earnings and retail sales on Tuesday",
-      "why": "Nvidia reports fiscal third-quarter results after the close Nov. 17; its guidance was $108 billion in revenue, plus or minus 2%, and consensus is about $108.8 billion and $2.47 per share (Stockopedia). October U.S. retail sales and industrial production are due the same morning (Stockopedia).",
+      "why": "Nvidia reports fiscal third-quarter results after the close Nov. 17, its first since Huang's departure; consensus is about $108.8 billion in revenue and $2.47 a share (Stockopedia). October retail sales and industrial production are also due (Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
       "topic": "Anthropic IPO",
-      "why": "Pricing is expected Wednesday, Nov. 18, at a range of $70 to $78 a share for 825 million shares, valuing the company at up to $1.4 trillion; Nasdaq trading under \"ANT\" is expected to begin Thursday, Nov. 19 (Stockopedia; Reuters via Yahoo Finance).",
+      "why": "Pricing is expected Wednesday, Nov. 18, at $70 to $78 a share, valuing the company at up to about $1.4 trillion, with Nasdaq trading expected Thursday, Nov. 19 (Stockopedia; Yahoo Finance).",
       "confidence": "developing"
     },
     {
-      "topic": "Fed minutes and big-box retailer results",
-      "why": "Minutes from the Oct. 27-28 Fed meeting come Wednesday ahead of the Dec. 8-9 meeting; Home Depot reports Tuesday, Lowe's, Target and TJX on Wednesday and Walmart on Thursday (Stockopedia; Reuters via Yahoo Finance).",
+      "topic": "Warsh today, Fed minutes Wednesday",
+      "why": "Warsh speaks Monday and minutes from the October Fed meeting come Wednesday (Reuters via Yahoo Finance); the November Empire State manufacturing index is due Monday, expected at 19 versus 25.5 prior (Yahoo Finance).",
       "confidence": "confirmed"
     }
   ],
   "sources": [
     {
+      "title": "Reuters via Yahoo Finance — S&P 500, Nasdaq futures slide as Nvidia earnings, Anthropic debut loom",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-slide-104351968.html"
+    },
+    {
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq futures little changed ahead of pivotal week for AI traders",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+    },
+    {
+      "title": "Yahoo Finance — Nvidia results ahead this week; Fed's Warsh to speak - what's moving markets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-results-ahead-week-fed-093249400.html"
+    },
+    {
       "title": "Reuters via Central Oregon Daily — S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
       "url": "https://www.centraloregondaily.com/news/consumer/wall-st-slides-as-nvidia-uncertainty-drags-tech-shares-lower/article_4864122f-faa9-53ef-b47f-3f5cc804368d.html"
     },
     {
-      "title": "Reuters via Yahoo Finance — Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-results-anthropic-ipo-pose-111404254.html"
-    },
-    {
-      "title": "Kiplinger — Nasdaq Drops Friday on Nvidia Fallout But Ends the Week Up: Stock Market Today",
-      "url": "https://www.kiplinger.com/investing/stocks/nasdaq-drops-friday-on-nvidia-fallout-but-ends-the-week-up-stock-market-today"
-    },
-    {
       "title": "24/7 Wall St. — S&P 500 Closes Down 0.4% as Tech Drags and the Dow Holds Green",
       "url": "https://247wallst.com/cards/money-moved-out-of-tech-and-into-everything-else-today-the-gspc-market-bell-01m7bbjh5wpep4vmjk7jwpas8h"
-    },
-    {
-      "title": "Yahoo Finance — Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
     },
     {
       "title": "Rigzone — Crude Fluctuates as Iran Tensions Persist",
