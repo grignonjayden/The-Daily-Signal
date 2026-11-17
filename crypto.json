@@ -1,115 +1,115 @@
 {
-  "generated_at": "Nov 17, 2026, 12:40 PM ET",
+  "generated_at": "Nov 17, 2026, 4:45 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $63,694, down 1.82% over 24 hours on CoinDesk's ticker late Tuesday morning, after sliding about $1,000 in 30 minutes to $64,000 around 10:46 a.m. ET; CoinGecko listed $63,727 (CoinDesk; CoinGecko)."
+      "note": "About $64,369, down 1.39% over 24 hours on CoinDesk's ticker after Nvidia's results; it dipped as low as $63,269 on Bitstamp earlier Tuesday and has traded between $64,000 and $66,000 since Nov. 15 (CoinDesk; Cointelegraph)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,781, down 2.16% over 24 hours on CoinDesk's ticker; CoinGecko listed $1,783 (CoinDesk; CoinGecko)."
+      "note": "About $1,810, down 1.05% over 24 hours on CoinDesk's ticker (CoinDesk)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.27 trillion per CoinGecko, with 24-hour volume near $76.5 billion; The Currency Analytics showed $2.22 trillion, down 1.1%, early Tuesday UTC (CoinGecko; The Currency Analytics)."
+      "note": "About $2.26 trillion, down 1.48% over 24 hours, with 24-hour volume near $78 billion, per CoinGecko (CoinGecko)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 56.6% per CoinGecko, which uses a broader coin list; The Currency Analytics showed 58.6% (CoinGecko; The Currency Analytics)."
+      "note": "About 56.9% to 57.1% per CoinGecko; CoinCodex, which tracks a different set of coins, showed 59.6% early Tuesday UTC (CoinGecko; CoinCodex)."
     }
   ],
   "themes": [
     {
-      "title": "Crypto slides with tech stocks",
-      "summary": "Bitcoin fell back toward $64,000 and below as the Nasdaq dropped about 1.5% in morning trading ahead of Nvidia's results (CoinDesk).",
+      "title": "Bitcoin steadies after Nvidia beat",
+      "summary": "Bitcoin edged up toward $64,000-$64,500 after Nvidia reported results above forecasts, following a session in which it fell about $1,000 in 30 minutes alongside tech stocks (CoinDesk).",
       "confidence": "developing"
     },
     {
-      "title": "Huang comments spark brief rebound",
-      "summary": "Bitcoin rebounded more than 1% from session lows after Jensen Huang said he would be open to returning as Nvidia CEO, though it remained lower on the day (CoinDesk).",
-      "confidence": "developing"
+      "title": "Options traders lean bearish",
+      "summary": "A $60,000 put became the largest Bitcoin options position on Deribit, with about $900 million in open interest, and puts made up six of the eight most-traded contracts (Stocktwits).",
+      "confidence": "confirmed"
     },
     {
-      "title": "ETF outflow streak ends",
-      "summary": "U.S. spot Bitcoin ETFs took in a net $7.9 million Monday, ending a seven-day outflow streak (CoinDesk, citing Farside).",
+      "title": "Rate-hike bets weigh on crypto",
+      "summary": "Traders see about a 92% chance of a Fed rate increase in December, and the 10-year Treasury yield rose to about 5.15% (Stocktwits).",
       "confidence": "confirmed"
     },
     {
       "title": "Stablecoin supply shrinking",
-      "summary": "The combined market cap of USDT, USDC, BUSD and DAI fell to about $250 billion, down from a $273 billion peak in May 2026; supply contracted about 5% over 30 days (CoinDesk).",
+      "summary": "The combined market cap of USDT, USDC, BUSD and DAI fell to about $250 billion, with supply down about 5% over 30 days (CoinDesk).",
       "confidence": "confirmed"
     },
     {
       "title": "Sentiment stays in extreme fear",
-      "summary": "CoinGecko's Fear and Greed gauge read 22 and The Currency Analytics cited a reading of 12, both in extreme fear territory (CoinGecko; The Currency Analytics).",
+      "summary": "The Crypto Fear and Greed Index read 12, in extreme fear territory, up slightly from 10 a day earlier (Blocktalk).",
       "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Both down roughly 2% over 24 hours on CoinDesk's ticker, with Bitcoin near $63,700 and Ether near $1,780 (CoinDesk)."
+      "note": "Both down about 1% to 1.4% over 24 hours on CoinDesk's ticker, with Bitcoin near $64,400 and Ether near $1,810 (CoinDesk)."
     },
     {
       "name": "Altcoins",
-      "note": "Mixed: Zcash rose about 5% to about $927 and Solana nearly 3%, while XRP was little changed near $0.95 (CoinDesk)."
+      "note": "Mixed: Solana rose 2.3% to about $73.58 and XRP 1.4% to about $0.97, while Hyperliquid (HYPE) fell 1.9% (CoinDesk)."
     },
     {
       "name": "Stablecoins",
-      "note": "Supply of major stablecoins is back to September 2025 levels near $250 billion, a sign of less cash on the sidelines (CoinDesk)."
+      "note": "Major stablecoin supply near $250 billion, down about 5% in 30 days, a sign of less cash waiting on the sidelines (CoinDesk)."
     },
     {
-      "name": "Trending Sectors",
-      "note": "CoinGecko flagged real-world assets, memecoins and Binance HODLer Airdrops as trending, with zero-knowledge and quantum-resistant coins among the top-gaining groups (CoinGecko)."
+      "name": "Bitcoin ETFs",
+      "note": "Stocktwits reported a $68 million outflow from U.S. Bitcoin ETFs on Monday; an analyst quoted by CoinDesk said investors are hesitant to buy the dip (Stocktwits; CoinDesk)."
     }
   ],
   "watch_list": [
     {
-      "topic": "Nvidia results Tuesday",
-      "why": "Nvidia reports after the U.S. close, with revenue expected near $108 billion; crypto has been trading closely with tech stocks (CoinDesk).",
+      "topic": "Fed minutes Wednesday",
+      "why": "Minutes from the Fed's latest meeting are due Wednesday as markets price a likely December rate increase (Stocktwits; CoinDesk).",
       "confidence": "confirmed"
     },
     {
-      "topic": "Fed minutes Wednesday",
-      "why": "Minutes from the October Fed meeting are due Wednesday as Fed officials signal possible rate hikes (CoinDesk; Yahoo Finance).",
-      "confidence": "confirmed"
+      "topic": "$60,000-$62,600 support zone",
+      "why": "A Nansen analyst called this range the key test in coming weeks, and Wintermute's desk is watching $62,000, then $60,000 (Stocktwits).",
+      "confidence": "developing"
     },
     {
       "topic": "200-week average near $68,000",
-      "why": "One analyst is watching for Bitcoin to reclaim its 200-week moving average, roughly 7% above current prices (CoinDesk).",
+      "why": "Analysts are watching whether Bitcoin can reclaim its 200-week moving average, near $67,977 (Cointelegraph; CoinDesk).",
       "confidence": "developing"
     }
   ],
   "movers": [
     {
-      "name": "Brevis",
-      "pct": 75.0,
-      "note": "Top 24-hour gainer on CoinGecko at about $0.10 (CoinGecko)."
+      "name": "Lighter (LIT)",
+      "pct": 15.38,
+      "note": "Largest 24-hour gain in Blocktalk's top-100 momentum table Tuesday morning (Blocktalk)."
     },
     {
-      "name": "Momentum",
-      "pct": 36.9,
-      "note": "Second-largest 24-hour gainer on CoinGecko (CoinGecko)."
+      "name": "Telcoin (TEL)",
+      "pct": 13.32,
+      "note": "Top 24-hour gainer in CoinCodex's 06:00 UTC snapshot (CoinCodex)."
     },
     {
-      "name": "Zcash (ZEC)",
-      "pct": 5.0,
-      "note": "Biggest gainer among major coins, near $927 (CoinDesk)."
+      "name": "Internet Computer (ICP)",
+      "pct": 12.19,
+      "note": "CoinCodex's coin of the day, up over 24 hours (CoinCodex)."
     },
     {
-      "name": "Jupiter (JUP)",
-      "pct": -7.3,
-      "note": "Among the larger 24-hour decliners early Tuesday UTC (The Currency Analytics)."
+      "name": "Solana (SOL)",
+      "pct": 2.3,
+      "note": "Among the stronger majors, near $73.58 (CoinDesk)."
     },
     {
-      "name": "Pi Network (PI)",
-      "pct": -6.1,
-      "note": "Down over 24 hours and about 11% over seven days (The Currency Analytics)."
+      "name": "XPR Network (XPR)",
+      "pct": -7.76,
+      "note": "Among the top 24-hour losers in CoinCodex's 06:00 UTC snapshot (CoinCodex)."
     },
     {
-      "name": "BTW",
-      "pct": -32.6,
-      "note": "Biggest 24-hour decliner in The Currency Analytics' early-Tuesday snapshot, down about 66% over seven days (The Currency Analytics)."
+      "name": "Ultima",
+      "pct": -12.87,
+      "note": "Biggest 24-hour loser in CoinCodex's 06:00 UTC snapshot (CoinCodex)."
     }
   ],
   "sources": [
@@ -118,32 +118,32 @@
       "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
     },
     {
-      "title": "CoinDesk — Bitcoin stalls below $65,000 after weekend selloff as Nvidia earnings loom",
-      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"
+      "title": "CoinGecko — Global Cryptocurrency Market Cap Charts",
+      "url": "https://www.coingecko.com/en/global-charts"
     },
     {
-      "title": "CoinGecko — Cryptocurrency Prices, Charts, and Crypto Market Cap",
-      "url": "https://www.coingecko.com/"
+      "title": "Cointelegraph — Bitcoin Dips Toward $63,000 Ahead of Nvidia Q3 Earnings Showdown",
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings"
     },
     {
-      "title": "The Currency Analytics — RAIN Surges 73.4% While BTW Drops 32.6% in Volatile Crypto Session",
-      "url": "https://thecurrencyanalytics.com/breaking-news/rain-surges-73-4-while-btw-drops-32-6-in-volatile-crypto-session"
+      "title": "Stocktwits — Bitcoin Options Traders Turn Bearish Ahead Of Nvidia Earnings: Is $60K The Next Test?",
+      "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-bear-nvidia-earnings-anthropic-fed-rate-hike-weighs-on-crypto-recovery/cNbaiD6R9gp"
     },
     {
-      "title": "FinFly — Bitcoin and crypto prices on November 17, 2026 (CoinGecko data)",
-      "url": "https://finfly.news/en/crypto/crypto-prices-2026-11-17"
+      "title": "CoinCodex — Daily Market Update for Nov 17, 2026",
+      "url": "https://coincodex.com/article/95501/daily-market-update-for-november-17-2026/"
     },
     {
-      "title": "CoinDesk — FOMC minutes, Nvidia earnings, Russia's retail crypto rules: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead"
+      "title": "Blocktalk — Crypto Market Today (Nov 17, 2026): Bitcoin $65K, Fear Persists",
+      "url": "https://www.blocktalk.website/blog/crypto-market-today-2026-11-17"
     },
     {
-      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq losses pick up in countdown to Nvidia earnings (Nov. 17)",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+      "title": "The Standard (Reuters) — Wall Street ends lower ahead of Nvidia earnings, Anthropic debut",
+      "url": "https://www.thestandard.com.hk/finance/article/348819/Wall-Street-ends-lower-ahead-of-Nvidia-earnings-Anthropic-debut"
     },
     {
-      "title": "TipRanks — Stock Market Today, Nov. 17: U.S. Stocks Jittery Ahead of Nvidia Results",
-      "url": "https://www.tipranks.com/news/stock-market-today-nov-17-u-s-stocks-jittery-ahead-of-nvidia-results"
+      "title": "NVIDIA (GlobeNewswire) — NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+      "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
     }
   ]
 }

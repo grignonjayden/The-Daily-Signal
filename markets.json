@@ -1,117 +1,125 @@
 {
-  "generated_at": "Nov 17, 2026, 12:40 PM ET (Tuesday midday; Monday close)",
+  "generated_at": "Nov 17, 2026, 4:45 PM ET (Tuesday close)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Down 709.27 points, or 1.37%, at 50,898.90 in late-morning trading Tuesday (around 11 a.m. ET), after closing Monday down 1.41% at 51,608.17 (Yahoo Finance; TipRanks)."
+      "note": "Closed down 859.71 points, or 1.67%, at 50,748.46 on Tuesday, according to preliminary Reuters figures, its second straight drop of more than 1% (The Standard/Reuters)."
     },
     {
       "index": "S&P 500",
-      "note": "Down 75.58 points, or 1.02%, at 7,341.01 in late-morning trading Tuesday, after Monday's 1.92% drop to 7,416.59; Yahoo Finance notes the index needs about 7,530 to finish 2026 up 10% (Yahoo Finance; TipRanks)."
+      "note": "Closed down 75.96 points, or 1.02%, at 7,341.23 in preliminary figures; CoinDesk noted the S&P 500 and Dow were testing their 200-day moving averages late in the session (The Standard/Reuters; CoinDesk)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Down 268.77 points, or 1.10%, at 24,240.99 in late-morning trading Tuesday, extending a three-session slide after Monday's 2.49% drop; CoinDesk had it down 1.5% at 10:46 a.m. ET (Yahoo Finance; CoinDesk; TipRanks)."
+      "note": "Closed down 180.42 points, or 0.74%, at 24,329.34 in preliminary figures, a smaller loss than earlier in the day when it was down about 1.5% (The Standard/Reuters; CoinDesk)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "December crude was up $0.59, or 0.69%, at $86.31 a barrel Tuesday morning, after falling about 3.7% Monday; Brent was near $92.30 early Tuesday (Yahoo Finance; TipRanks)."
+      "note": "December WTI rose 0.3% to settle at $86.01 a barrel, and January Brent gained 0.8% to $93.14, as Gulf tanker attacks offset forecasts of a growing supply surplus (Rigzone)."
     }
   ],
   "themes": [
     {
-      "title": "Stocks fall again ahead of Nvidia results",
-      "summary": "All three major indexes were down more than 1% by late morning, adding to Monday's tech-led losses as investors waited for Nvidia's results after the close (Yahoo Finance; CoinDesk).",
-      "confidence": "developing"
-    },
-    {
-      "title": "Huang says he would return if asked",
-      "summary": "Former Nvidia CEO Jensen Huang said he would be \"honored to answer these calls\" to return if the board decides it serves shareholders; Nvidia shares pared a 3.5% loss to about 0.5% after the remarks (CoinDesk).",
-      "confidence": "developing"
-    },
-    {
-      "title": "Retail sales rise 0.2% in October",
-      "summary": "October retail sales rose 0.2% from September, which was revised to +0.8%; sales excluding autos and gas rose 0.5% (Yahoo Finance).",
+      "title": "Stocks fall for a second day",
+      "summary": "All three major indexes ended lower, with the Dow losing about 860 points; one strategist said every S&P 500 sector was down, with software, airlines and banks among the weakest (The Standard/Reuters).",
       "confidence": "confirmed"
     },
     {
-      "title": "Disney and Home Depot report",
-      "summary": "Disney beat forecasts with adjusted EPS of $1.77 on $25.9 billion in revenue; Home Depot reported $43.4 billion in sales and named CFO Richard McPhail CEO effective Nov. 23 (Yahoo Finance; CoinCentral).",
+      "title": "Nvidia beats after the close",
+      "summary": "Nvidia reported record quarterly revenue of $115.8 billion, up 103% from a year earlier, and forecast about $130 billion for next quarter; shares rose about 2% to 3% after hours (Nvidia via GlobeNewswire; CoinDesk; Coinpaper).",
       "confidence": "confirmed"
     },
     {
-      "title": "Fed hawks keep yields high",
-      "summary": "St. Louis Fed President Alberto Musalem called for rate hikes \"sooner\"; the 10-year Treasury yield was about 5.11% (Yahoo Finance).",
+      "title": "Software stocks slide",
+      "summary": "Salesforce fell 9.6%, Intuit 7.1% and ServiceNow 6.8%, among the day's biggest decliners; Microsoft fell about 2.4% (24/7 Wall St.; Trading Economics).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Markets price a December rate hike",
+      "summary": "Reuters said markets price about a 95% chance of a quarter-point Fed rate increase in December, after St. Louis Fed President Alberto Musalem called for hikes sooner (MarketScreener/Reuters; Yahoo Finance).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Mixed economic data",
+      "summary": "October retail sales rose 0.2%, slightly above expectations, while the NAHB homebuilder index fell to 25, its lowest since April 2012 (Yahoo Finance).",
       "confidence": "confirmed"
     }
   ],
   "sectors": [
     {
-      "name": "Technology",
-      "note": "Weakest area again, with the Nasdaq down about 1.1% to 1.5% Tuesday morning and Nvidia down about 26% over the past month (Yahoo Finance; CoinDesk).",
-      "momentum": 18
+      "name": "Software",
+      "note": "Among the clearest underperformers, with Salesforce, Workday, Intuit and Adobe all lower; Salesforce closed down 9.6% (The Standard/Reuters; 24/7 Wall St.).",
+      "momentum": 15
     },
     {
-      "name": "AI Infrastructure and Optical",
-      "note": "Coherent rose about 3% before paring gains, while Lumentum, Applied Optoelectronics and Corning reversed early gains after reports of planned U.S. limits on Chinese data center equipment (Yahoo Finance).",
-      "momentum": 35
+      "name": "Financials",
+      "note": "Banks lagged; JPMorgan fell about 2.6% after naming a new CFO to succeed Jeremy Barnum in early 2027, and Goldman Sachs fell about 1.8% (The Standard/Reuters; Trading Economics).",
+      "momentum": 28
     },
     {
-      "name": "Consumer and Media",
-      "note": "Disney rose about 2.6% after its results, while Home Depot traded lower despite beating sales estimates (Yahoo Finance; CoinCentral).",
-      "momentum": 52
+      "name": "Health Care",
+      "note": "Led early losses, down 0.9% in the morning as UnitedHealth and Humana each fell 4.7% (MarketScreener/Reuters).",
+      "momentum": 30
     },
     {
-      "name": "Energy",
-      "note": "Crude prices rose about 0.7% Tuesday morning after Monday's drop, amid ongoing Middle East supply concerns (Yahoo Finance; TipRanks).",
-      "momentum": 48
+      "name": "Semiconductors and AI Hardware",
+      "note": "A relative bright spot: Arm rose 4.0%, Coherent 3.1% and Broadcom about 2.5%, while Nvidia slipped less than 1% before its results (24/7 Wall St.; Trading Economics).",
+      "momentum": 58
     }
   ],
   "watch_list": [
     {
-      "topic": "Nvidia earnings after Tuesday's close",
-      "why": "Analysts expect adjusted EPS of $2.47 on revenue of about $109.15 billion; it is the first report since Jensen Huang resigned as CEO (Yahoo Finance; CoinDesk).",
-      "confidence": "confirmed"
-    },
-    {
       "topic": "Fed minutes Wednesday",
-      "why": "Minutes from the October Fed meeting are due Wednesday as Fed officials signal possible rate hikes; Target and Walmart also report soon (Yahoo Finance; CoinDesk).",
+      "why": "Minutes from the Fed's latest policy meeting are due Wednesday, with markets pricing a near-certain December rate increase (MarketScreener/Reuters; The Standard/Reuters).",
       "confidence": "confirmed"
     },
     {
-      "topic": "Anthropic IPO",
-      "why": "Order books close at 4 p.m. ET Tuesday, with pricing reportedly guided near the top of or above a $70–$78 range and trading expected Thursday (CoinDesk; Yahoo Finance).",
+      "topic": "Anthropic IPO pricing",
+      "why": "Anthropic kept its $70–$78 range; final pricing is expected Wednesday ahead of a Nasdaq debut on Nov. 19, with reports it could price at or above the top of the range (MarketScreener/Reuters; CoinDesk).",
+      "confidence": "developing"
+    },
+    {
+      "topic": "Reaction to Nvidia's results",
+      "why": "Nvidia's after-hours gain follows a sharp monthly decline; Wednesday's session will show whether the beat steadies tech stocks near their 200-day averages (CoinDesk; Coinpaper).",
       "confidence": "developing"
     }
   ],
   "sources": [
     {
-      "title": "Yahoo Finance — Stock market today: Dow, S&P 500, Nasdaq losses pick up in countdown to Nvidia earnings (Nov. 17)",
+      "title": "The Standard (Reuters) — Wall Street ends lower ahead of Nvidia earnings, Anthropic debut",
+      "url": "https://www.thestandard.com.hk/finance/article/348819/Wall-Street-ends-lower-ahead-of-Nvidia-earnings-Anthropic-debut"
+    },
+    {
+      "title": "MarketScreener (Reuters) — Wall St slips ahead of Nvidia results, Anthropic IPO",
+      "url": "https://www.marketscreener.com/news/wall-st-slips-ahead-of-nvidia-results-anthropic-ipo-ce785edcda8df725"
+    },
+    {
+      "title": "Yahoo Finance — Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings (Nov. 17)",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+    },
+    {
+      "title": "24/7 Wall St. — S&P 500 Closes Down 1% as the Dow Sheds 955 Points (closing movers)",
+      "url": "https://247wallst.com/cards/the-dow-s-955-point-drop-led-the-selling-a-sharper-hit-than-gspc-market-bell-01m7nn5ym7r5nqbd4d83yt9zt1"
+    },
+    {
+      "title": "Trading Economics — United States Stock Market",
+      "url": "https://tradingeconomics.com/united-states/stock-market"
+    },
+    {
+      "title": "Rigzone — Oil Prices Swing as Gulf Attacks Continue (Nov. 17)",
+      "url": "https://www.rigzone.com/news/oil_prices_swing_as_gulf_attacks_continue-17-nov-2026-185107-article"
+    },
+    {
+      "title": "NVIDIA (GlobeNewswire) — NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+      "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+    },
+    {
+      "title": "Coinpaper — Nvidia Stock Jumps 2% After $115.8B Earnings Beat and Strong $130B Forecast",
+      "url": "https://coinpaper.com/38989/nvidia-stock-jumps-2-after-115-8-b-earnings-beat-and-strong-130-b-forecast"
     },
     {
       "title": "CoinDesk — Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia",
       "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
-    },
-    {
-      "title": "TipRanks — Stock Market Today, Nov. 17: U.S. Stocks Jittery Ahead of Nvidia Results",
-      "url": "https://www.tipranks.com/news/stock-market-today-nov-17-u-s-stocks-jittery-ahead-of-nvidia-results"
-    },
-    {
-      "title": "Yahoo Finance (24/7 Wall St.) — Stock Market Today: Nvidia's 26% Plunge Puts Wall Street on Edge Ahead of Earnings Tonight",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nvidia-26-142802182.html"
-    },
-    {
-      "title": "CoinCentral — Stock Market Today: Nvidia, SpaceX, Disney and Home Depot Lead the Action",
-      "url": "https://coincentral.com/stock-market-today-nvidia-spacex-disney-and-home-depot-lead-the-action"
-    },
-    {
-      "title": "Yahoo Finance — Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower (Nov. 16)",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    },
-    {
-      "title": "Motley Fool — Stock Market Today, Nov. 16: Tech Selloff Deepens as AI Leadership Crisis Rattles Nasdaq",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-tech-selloff-deepens-as-ai-leadership-crisis-rattles-nasdaq/"
     }
   ]
 }
