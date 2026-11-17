@@ -1,40 +1,72 @@
 {
-  "generated_at": "Nov 16, 2026, 7:50 PM ET",
-  "date_key": "2026-11-16",
+  "generated_at": "Nov 17, 2026, 3:59 AM ET",
+  "date_key": "2026-11-17",
   "articles": [
     {
-      "title": "Gold Struggles to Recover as Dollar, Rates Weigh",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211?mod=rss_markets_main",
-      "snippet": "Gold stayed at its weakest levels in over a year as a firm dollar and hawkish bets on Fed rates dimmed the precious metal’s appeal.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 16, 7:47 PM"
-    },
-    {
-      "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-      "snippet": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108552211-1794850759211-gettyimages-2304954172-FEDERAL_RESERVE_CONFERENCE.jpeg?v=1794850787&w=1920&h=1080",
-      "time": "Nov 16, 7:42 PM"
-    },
-    {
-      "title": "JGBs Rise, Tracking Gains in U.S. Treasurys",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27?mod=rss_markets_main",
-      "snippet": "JGBs were higher in early Tokyo trading, tracking overnight price gains in U.S. Treasurys.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 16, 7:41 PM"
-    },
-    {
-      "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
+      "title": "Stock futures are mixed after Nvidia pressures tech to start the week: Live updates",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
       "snippet": "Nvidia shares pulled back 4.1%, as traders dumped the chipmaker ahead of its fiscal third-quarter report, due Tuesday after the bell",
       "image": "https://image.cnbcfm.com/api/v1/image/108548243-17943307042026-11-10t171000z_665024736_rc21loachi3x_rtrmadp_0_usa-stocks.jpeg?v=1794330798&w=1920&h=1080",
-      "time": "Nov 16, 7:37 PM"
+      "time": "Nov 17, 3:39 AM"
+    },
+    {
+      "title": "European Stock Indexes Lower Amid Market-Wide Falls",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-chip-financial-stocks-0445db62?mod=rss_markets_main",
+      "snippet": "European stock indexes fell across the continent as all sectors opened lower amid a broader downturn in global equities.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 17, 3:39 AM"
+    },
+    {
+      "title": "Treasury yields are broadly flat as investors await retail sales data",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+      "snippet": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108521821-17938340272026-11-04t221036z_1245999806_rc28hoacdyel_rtrmadp_0_usa-stocks.jpeg?v=1793834118&w=1920&h=1080",
+      "time": "Nov 17, 3:23 AM"
+    },
+    {
+      "title": "Oil Prices Continue to Fall as Global Supply Surplus Weighs",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-continue-to-fall-as-global-supply-surplus-weighs-7b54e93b?mod=rss_markets_main",
+      "snippet": "Recovering Middle Eastern exports and expectations of a global supply surplus outweighed regional security concerns.",
+      "image": "https://images.wsj.net/im-142273",
+      "time": "Nov 17, 3:09 AM"
+    },
+    {
+      "title": "Eurozone Bond Yields Edge Lower; EU Commission’s Autumn Forecast Awaited",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27?mod=rss_markets_main",
+      "snippet": "Eurozone government bond yields edged lower in opening trade with the German ZEW economic sentiment indicator and EU Commission’s autumn forecasts being potential movers during the day.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 17, 2:56 AM"
+    },
+    {
+      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+      "snippet": "The U.S. Commerce Department is making moves to tighten export controls.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108551696-1794795719884-gettyimages-2304259055-nokings-sf1017.jpeg?v=1794840889&w=1920&h=1080",
+      "time": "Nov 17, 2:07 AM"
+    },
+    {
+      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "snippet": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+      "image": "https://images.mktw.net/im-29241577",
+      "time": "Nov 16, 9:30 PM"
+    },
+    {
+      "title": "CEOs of Quebecor, Telus weigh in on takeover bid",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-ceos-of-quebecor-telus-weigh-in-on-takeover-bid/",
+      "snippet": "Pierre Karl Péladeau argues combined unit would be better positioned to compete globally, Victor Dodig says unsolicited pitch is full of holes",
+      "image": "https://www.theglobeandmail.com/resizer/v2/LRNIWXFH6JAJBCDJPTREO4TJ6M.JPG?auth=cda9c806ea776c201d604f43b0be5194bcada6fd5c0485e01dde7d0309d40270&smart=true&width=8192&height=5464",
+      "time": "Nov 16, 8:29 PM"
     },
     {
       "title": "Mélanie Joly is speaking a new language on potential Quebecor-Telus deal",
@@ -43,23 +75,6 @@
       "snippet": "Industry Minister cleverly signals that Ottawa is open to transaction that ticks a great many boxes, including national sovereignty",
       "image": "https://www.theglobeandmail.com/resizer/v2/IK2ERVWTDNAO5GA46ICJU66SNI.JPG?auth=4ac9a5ed784ec8eca58ce60529d27fec8ba8867979c48e1e1a500b23b385bc4d&smart=true&width=5000&height=3335",
       "time": "Nov 16, 7:33 PM"
-    },
-    {
-      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "snippet": "The Nasdaq Composite extended its decline to a third day as Nvidia sold off once more on Monday.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108305562-1778591140767-gettyimages-2274012713-boivin-notitle260504_npWFh.jpeg?v=1778591166&w=1920&h=1080",
-      "time": "Nov 16, 7:32 PM"
-    },
-    {
-      "title": "Oil Falls as Improving Supply Prospects Offset Mideast Tensions",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-improving-supply-prospects-offset-mideast-tensions-3499b2f6?mod=rss_markets_main",
-      "snippet": "Oil weakened as improving supply prospects offset Middle East tensions.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 16, 7:23 PM"
     },
     {
       "title": "United Airlines resolves system outage that delayed flights Monday",
@@ -78,28 +93,12 @@
       "time": "Nov 16, 6:28 PM"
     },
     {
-      "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
-      "snippet": "Almost a third of Amazon Black Friday deals “provided no savings at all” in the last two years, a report says. The retailer is pushing back.",
-      "image": "https://images.mktw.net/im-44598991",
-      "time": "Nov 16, 6:04 PM"
-    },
-    {
       "title": "United Airlines resolves issue that delayed hundreds of departing flights",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/world/article-united-airlines-failure-ground-stop/",
       "snippet": "Flight-tracking website FlightAware showed United with about 600 delayed flights on Monday evening",
       "image": "https://www.theglobeandmail.com/resizer/v2/L3FEY6VA5NCGLBCVUCDP4PBYYY.jpg?auth=771b20f16d26476a189e2c7abe74ebdaf575c3cae4bc35a788912ec220d0905c&smart=true&width=5391&height=3594",
       "time": "Nov 16, 5:24 PM"
-    },
-    {
-      "title": "Six tips for Canadians seeking refunds and rebookings after Friday’s flight chaos",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-tips-refunds-rebookings-faa-flights-ground-halt/",
-      "snippet": "What to know as travellers deal with ripple effects of U.S. Federal Aviation Administration’s ground halt",
-      "image": "https://www.theglobeandmail.com/resizer/v2/6OGWMFUGMZCCZM3N6PMYD74UTM.jpg?auth=b84ff37c8151c63f894dd80f9074d1e0173e83c43f0098f382684aaf259cc0fd&smart=true&width=4032&height=3024",
-      "time": "Nov 16, 5:19 PM"
     }
   ],
   "official": [
@@ -176,64 +175,64 @@
   ],
   "ticker": [
     {
-      "time": "7:18 PM",
-      "title": "WSJ Markets — Asian Currencies Consolidate, But May be Weighed by Risk-Off Sentiment",
+      "time": "2:47 AM",
+      "title": "WSJ Markets — Dollar Rally Pauses Ahead of Data, Fed Speeches",
       "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main"
     },
     {
-      "time": "7:00 PM",
+      "time": "1:59 AM",
+      "title": "CNBC — U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
+      "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
+    },
+    {
+      "time": "1:49 AM",
+      "title": "WSJ Markets — Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
+      "url": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_markets_main"
+    },
+    {
+      "time": "12:51 AM",
+      "title": "CNBC — Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+      "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html"
+    },
+    {
+      "time": "12:00 AM",
+      "title": "CNBC — Payward co-CEO says stock markets will move to 24/7 trading as tokenized equities grow",
+      "url": "https://www.cnbc.com/video/2026/11/17/payward-ceo-dave-ripley-on-tokenized-stocks-and-247-trading.html"
+    },
+    {
+      "time": "Nov 16",
+      "title": "WSJ Markets — Gold Struggles to Recover as Dollar, Rates Weigh",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211?mod=rss_markets_main"
+    },
+    {
+      "time": "Nov 16",
+      "title": "CNBC — Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
+    },
+    {
+      "time": "Nov 16",
+      "title": "CNBC — Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "url": "https://www.cnbc.com/2026/11/16/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html"
+    },
+    {
+      "time": "Nov 16",
+      "title": "WSJ Markets — Oil Falls as Improving Supply Prospects Offset Mideast Tensions",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-improving-supply-prospects-offset-mideast-tensions-3499b2f6?mod=rss_markets_main"
+    },
+    {
+      "time": "Nov 16",
       "title": "CNBC — United Airlines resolves system outage that affected departing flights",
       "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html"
     },
     {
-      "time": "6:23 PM",
+      "time": "Nov 16",
       "title": "CNBC — Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
       "url": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html"
     },
     {
-      "time": "6:05 PM",
+      "time": "Nov 16",
       "title": "CNBC — Aschenbrenner’s Situational Awareness made AI bets again before October rout",
       "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html"
-    },
-    {
-      "time": "6:01 PM",
-      "title": "CNBC — Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html"
-    },
-    {
-      "time": "6:00 PM",
-      "title": "CNBC — CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
-      "url": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html"
-    },
-    {
-      "time": "6:00 PM",
-      "title": "MarketWatch — My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories"
-    },
-    {
-      "time": "5:54 PM",
-      "title": "WSJ Markets — WSJ Dollar Index Rises 0.12% to 98.46",
-      "url": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main"
-    },
-    {
-      "time": "5:51 PM",
-      "title": "WSJ Markets — Berkshire Boosts Stake in Lennar, Doubling Down on Its U.S. Housing Bet",
-      "url": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5?mod=rss_markets_main"
-    },
-    {
-      "time": "5:46 PM",
-      "title": "MarketWatch — U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
-      "url": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories"
-    },
-    {
-      "time": "5:37 PM",
-      "title": "CNBC — Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html"
-    },
-    {
-      "time": "5:35 PM",
-      "title": "WSJ Markets — Commerce Department Rule Aims to Further Limit Chip Shipments to China",
-      "url": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_markets_main"
     }
   ]
 }
