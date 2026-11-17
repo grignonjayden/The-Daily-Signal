@@ -1,117 +1,117 @@
 {
-  "generated_at": "Nov 16, 2026, 4:45 PM ET (Monday close)",
+  "generated_at": "Nov 17, 2026, 7:40 AM ET (Monday close; Tuesday premarket)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed Monday down 739.38 points, or 1.41%, at 51,608.17 (Yahoo Finance)."
+      "note": "Closed Monday down 739.38 points, or 1.41%, at 51,608.17; Dow futures were down about 0.4% early Tuesday (Yahoo Finance; Motley Fool)."
     },
     {
       "index": "S&P 500",
-      "note": "Closed Monday down 145.08 points, or 1.92%, at 7,416.59 (Yahoo Finance)."
+      "note": "Closed Monday down 145.08 points, or 1.92%, at 7,416.59, leaving it up about 8% for 2026; S&P 500 futures were down about 0.3% early Tuesday (Yahoo Finance; Motley Fool)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed Monday down 626.52 points, or 2.49%, at 24,509.76, the weakest of the three major indexes and its third straight daily loss (Yahoo Finance; CNBC headline via search)."
+      "note": "Closed Monday down 626.52 points, or 2.49%, at 24,509.76, its third straight daily loss; Nasdaq-100 futures were down about 0.3% early Tuesday (Yahoo Finance; Motley Fool; Investing.com)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "December WTI fell $3.24, or 3.66%, to about $85.32 a barrel; Brent was last cited near $92 (Yahoo Finance)."
+      "note": "December WTI fell $3.24, or 3.66%, to about $85.32 a barrel Monday; it was near $86 early Tuesday, with Brent around $92.61 (Yahoo Finance; CoinDesk)."
     }
   ],
   "themes": [
     {
-      "title": "AI trade drags Nasdaq lower",
-      "summary": "Megacap tech led the decline: Alphabet fell about 4.1%, Amazon about 3.3%, Tesla about 2.7% and Meta about 2.4% (Market Alleys; Yahoo Finance).",
+      "title": "Nvidia results are the day's main test",
+      "summary": "Nvidia reports after Tuesday's close, its first results since Jensen Huang resigned; analysts expect revenue of about $109 billion and adjusted EPS near $2.47. The stock closed down 4.12% Monday and was slightly lower premarket (CoinGabbar; Motley Fool; Investing.com).",
       "confidence": "confirmed"
     },
     {
-      "title": "Nvidia falls before results",
-      "summary": "Nvidia closed down 4.12% at $156.14 after a report that its board is not considering bringing back former CEO Jensen Huang; it reports results Tuesday (Yahoo Finance).",
+      "title": "Chip stocks hit by export curbs",
+      "summary": "Semiconductors led Monday's decline after new U.S. limits on advanced AI chip sales abroad; Intel fell 7.02%, AMD 5.58% and Dell 6.96% (Motley Fool).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Futures slip after tech selloff",
+      "summary": "Dow, S&P 500 and Nasdaq-100 futures were each down about 0.3% to 0.45% early Tuesday, with the VIX near 23.5 (Investing.com; Yahoo Finance).",
       "confidence": "developing"
     },
     {
-      "title": "Chipmakers hit by new restrictions",
-      "summary": "Semiconductors led the selling after the U.S. tightened restrictions on advanced chip access abroad; Micron fell 7.62%, Teradyne 7.07% and Intel 7.02% (Yahoo Finance; 24/7 Wall St.).",
+      "title": "Home Depot beats, names new CEO",
+      "summary": "Home Depot reported quarterly sales of $43.4 billion versus $42.8 billion expected, raised its sales outlook and named CFO Richard McPhail as CEO effective Nov. 23; shares were down about 0.9% premarket (Investing.com).",
       "confidence": "confirmed"
     },
     {
-      "title": "Volatility jumps, yields steady",
-      "summary": "The VIX rose about 19.8% to 23.12, while the 10-year Treasury yield edged down to about 5.12% (Yahoo Finance).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Crypto-linked stocks slide",
-      "summary": "Coinbase, Circle and Strategy fell 7% to 8% and Robinhood dropped about 5.6% premarket as Bitcoin traded near its lowest level since July (Yahoo Finance; CryptoTicker).",
+      "title": "Yields stay above 5%",
+      "summary": "The 10-year Treasury yield was about 5.12% early Tuesday as markets price a likely December Fed rate hike (Yahoo Finance; CoinDesk).",
       "confidence": "confirmed"
     }
   ],
   "sectors": [
     {
       "name": "Technology",
-      "note": "Down about 2% to 3% during the session, the weakest sector, with Micron, Teradyne, Intel and Dell each down about 7% (24/7 Wall St.).",
+      "note": "The weakest sector Monday, down about 3.2%, with chipmakers leading losses (24/7 Wall St.; Motley Fool).",
       "momentum": 15
     },
     {
       "name": "Defensive Sectors",
-      "note": "Consumer staples rose about 1%; Molina Healthcare gained 11.27%, Tyson Foods 8.72% and Centene 4.91% (24/7 Wall St.).",
-      "momentum": 66
+      "note": "Consumer staples rose about 0.3% and utilities about 0.2% Monday, while real estate slipped only 0.3%; Tyson Foods jumped 8.72% after earnings (24/7 Wall St.; Motley Fool).",
+      "momentum": 62
     },
     {
       "name": "Energy",
-      "note": "Under pressure as WTI crude fell about 3.7%; Coterra Energy was among the day's biggest losers, down 8.62% (Yahoo Finance; 24/7 Wall St.).",
-      "momentum": 28
+      "note": "Down about 2.0% Monday as WTI crude fell about 3.7% (24/7 Wall St.; Yahoo Finance).",
+      "momentum": 30
     },
     {
-      "name": "Financials",
-      "note": "Big banks including JPMorgan, Bank of America, Citigroup and Wells Fargo fell about 2% amid reports of app outages; JPMorgan closed down 2.28% (Yahoo Finance; Market Alleys).",
-      "momentum": 34
+      "name": "Industrials",
+      "note": "Down about 1.8% Monday as selling broadened beyond tech (24/7 Wall St.).",
+      "momentum": 32
     }
   ],
   "watch_list": [
     {
-      "topic": "Nvidia earnings Tuesday",
-      "why": "Nvidia reports after the close on Nov. 17, its first results since Jensen Huang stepped down, with an EPS estimate of about $2.52; Home Depot and Disney report before the open (Market Alleys; Yahoo Finance).",
+      "topic": "Nvidia earnings after Tuesday's close",
+      "why": "Interim CEO Colette Kress leads the call; Nvidia has subtracted more points from the S&P 500 this year than any other stock (Yahoo Finance; CoinGabbar).",
+      "confidence": "confirmed"
+    },
+    {
+      "topic": "Retail sales and Fed minutes",
+      "why": "October retail sales (expected +0.2%) and industrial production are due Tuesday; minutes from the October Fed meeting are due Wednesday at 2 p.m. ET (Yahoo Finance; CoinGabbar).",
       "confidence": "confirmed"
     },
     {
       "topic": "Anthropic IPO",
-      "why": "The IPO is scheduled to price Wednesday, Nov. 18, and is expected to begin trading Thursday, Nov. 19, targeting a valuation of around $1.4 trillion (24/7 Wall St.; Yahoo Finance).",
+      "why": "Pricing is expected Wednesday night with trading set to begin Thursday, Nov. 19 (Motley Fool; Yahoo Finance).",
       "confidence": "developing"
-    },
-    {
-      "topic": "Retail sales and Fed minutes",
-      "why": "U.S. October retail sales and minutes from the October Fed meeting are due this week, with a December rate hike fully priced after a hotter-than-expected October CPI (Market Alleys; 24/7 Wall St.; Zerocap).",
-      "confidence": "confirmed"
     }
   ],
   "sources": [
     {
-      "title": "Yahoo Finance — Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower",
+      "title": "Yahoo Finance — Stock market today: Dow, S&P 500 futures slip in countdown to Nvidia earnings (Nov. 17)",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html"
+    },
+    {
+      "title": "Yahoo Finance — Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower (Nov. 16)",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
     },
     {
-      "title": "Market Alleys — Closing Tape, 2026-11-16",
-      "url": "https://www.marketalleys.com/post/marketalleys-closing-tape-2026-11-16"
+      "title": "Motley Fool — Stock Market Today, Nov. 16: Tech Selloff Deepens as AI Leadership Crisis Rattles Nasdaq",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-tech-selloff-deepens-as-ai-leadership-crisis-rattles-nasdaq/"
     },
     {
-      "title": "24/7 Wall St. — Stock Market Today: Nasdaq-100 Sinks as Nvidia Faces Its First Earnings Without Jensen Huang",
-      "url": "https://247wallst.com/investing/2026/11/16/stock-market-today-nasdaq-100-sinks-1-as-nvidia-faces-its-first-earnings-without-jensen-huang/"
+      "title": "24/7 Wall St. — US stocks fell; Technology lagged, Utilities and Consumer Staples held up",
+      "url": "https://247wallst.com/cards/us-stocks-fell-after-a-post-market-close-technology-lagged-utilities-and-consume-spy-market-explainer-01m7k6ax4yevvjkxm29jrz3acc"
     },
     {
-      "title": "CNBC — Nasdaq falls more than 2%, extending slide to third day as Nvidia drags down AI trade",
-      "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+      "title": "Investing.com — Premarket movers: Nvidia, Red Cat fall; Home Depot, SpaceX gains",
+      "url": "https://za.investing.com/news/stock-market-news/premarket-movers-nvidia-red-cat-fall-home-depot-spacex-gains-4580663"
     },
     {
-      "title": "Reuters via Yahoo Finance — Wall St falls as Nvidia jitters cloud sentiment ahead of results",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-slide-104351968.html"
+      "title": "CoinDesk — Crypto Daybook, Nov. 17 (oil and macro snapshot)",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows"
     },
     {
-      "title": "CryptoTicker — Nasdaq drops 2%, bitcoin holds near $64,600",
-      "url": "https://cryptoticker.io/en/crypto-news-nasdaq-drops-2-percent-nvidia-bitcoin-november-16-2026/"
-    },
-    {
-      "title": "Zerocap — Weekly Crypto Market Wrap: 16 November 2026 (macro and Fed outlook)",
-      "url": "https://zerocap.com/insights/weekly-crypto-market-wrap/weekly-crypto-market-wrap-16-november-2026/"
+      "title": "CoinGabbar — Major events Nov. 17–18: Nvidia, retail sales, Fed minutes",
+      "url": "https://www.coingabbar.com/en/big-crypto-events-today-nvidia-retail-sales-fed-minutes-bitcoin"
     }
   ]
 }
