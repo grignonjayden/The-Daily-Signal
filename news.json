@@ -1,123 +1,122 @@
 {
-  "generated_at": "Nov 17, 2026, 3:59 AM ET",
+  "generated_at": "Nov 17, 2026, 1:28 PM ET",
   "date_key": "2026-11-17",
   "articles": [
     {
-      "title": "Stock futures are mixed after Nvidia pressures tech to start the week: Live updates",
+      "title": "Dow falls 700 points as tech shares decline, traders eye reported NSA network outage: Live updates",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
-      "snippet": "Nvidia shares pulled back 4.1%, as traders dumped the chipmaker ahead of its fiscal third-quarter report, due Tuesday after the bell",
+      "snippet": "Traders on Tuesday reacted to several fresh earnings reports and awaited Nvidia's latest quarterly financial results.",
       "image": "https://image.cnbcfm.com/api/v1/image/108548243-17943307042026-11-10t171000z_665024736_rc21loachi3x_rtrmadp_0_usa-stocks.jpeg?v=1794330798&w=1920&h=1080",
-      "time": "Nov 17, 3:39 AM"
+      "time": "Nov 17, 1:27 PM"
     },
     {
-      "title": "European Stock Indexes Lower Amid Market-Wide Falls",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-chip-financial-stocks-0445db62?mod=rss_markets_main",
-      "snippet": "European stock indexes fell across the continent as all sectors opened lower amid a broader downturn in global equities.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 17, 3:39 AM"
-    },
-    {
-      "title": "Treasury yields are broadly flat as investors await retail sales data",
+      "title": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
-      "snippet": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108521821-17938340272026-11-04t221036z_1245999806_rc28hoacdyel_rtrmadp_0_usa-stocks.jpeg?v=1793834118&w=1920&h=1080",
-      "time": "Nov 17, 3:23 AM"
+      "url": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
+      "snippet": "Some Trump-related Kalshi mention contracts have been taken down as the CFTC warns the contract type carries heightened manipulation risk.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108344439-17858457182026-08-04t102957z_668477747_rc2mrmamjzd6_rtrmadp_0_usa-prediction-markets.jpeg?v=1785845777&w=1920&h=1080",
+      "time": "Nov 17, 1:27 PM"
     },
     {
-      "title": "Oil Prices Continue to Fall as Global Supply Surplus Weighs",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-continue-to-fall-as-global-supply-surplus-weighs-7b54e93b?mod=rss_markets_main",
-      "snippet": "Recovering Middle Eastern exports and expectations of a global supply surplus outweighed regional security concerns.",
-      "image": "https://images.wsj.net/im-142273",
-      "time": "Nov 17, 3:09 AM"
-    },
-    {
-      "title": "Eurozone Bond Yields Edge Lower; EU Commission’s Autumn Forecast Awaited",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27?mod=rss_markets_main",
-      "snippet": "Eurozone government bond yields edged lower in opening trade with the German ZEW economic sentiment indicator and EU Commission’s autumn forecasts being potential movers during the day.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 17, 2:56 AM"
-    },
-    {
-      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+      "title": "Stocks making the biggest moves Tuesday: Salesforce, Nvidia, SpaceX, Strategy & more",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
-      "snippet": "The U.S. Commerce Department is making moves to tighten export controls.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108551696-1794795719884-gettyimages-2304259055-nokings-sf1017.jpeg?v=1794840889&w=1920&h=1080",
-      "time": "Nov 17, 2:07 AM"
+      "url": "https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html",
+      "snippet": "Nvidia slipped Tuesday as traders awaited the company's third-quarter earnings report.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108305564-1778591195464-gettyimages-2273088843-NVIDIA_Nemotron_3_Nano_Omni.jpeg?v=1787612443&w=1920&h=1080",
+      "time": "Nov 17, 1:24 PM"
     },
     {
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "snippet": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-      "image": "https://images.mktw.net/im-29241577",
-      "time": "Nov 16, 9:30 PM"
-    },
-    {
-      "title": "CEOs of Quebecor, Telus weigh in on takeover bid",
+      "title": "Transat hires financial advisers as it wrestles to recoup fuel costs",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-ceos-of-quebecor-telus-weigh-in-on-takeover-bid/",
-      "snippet": "Pierre Karl Péladeau argues combined unit would be better positioned to compete globally, Victor Dodig says unsolicited pitch is full of holes",
-      "image": "https://www.theglobeandmail.com/resizer/v2/LRNIWXFH6JAJBCDJPTREO4TJ6M.JPG?auth=cda9c806ea776c201d604f43b0be5194bcada6fd5c0485e01dde7d0309d40270&smart=true&width=8192&height=5464",
-      "time": "Nov 16, 8:29 PM"
+      "url": "https://www.theglobeandmail.com/business/article-transat-hires-financial-advisers-as-it-wrestles-to-recoup-fuel-costs/",
+      "snippet": "Airline operator already sought financial aid from Ottawa earlier this year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/3OOXQOULWBDI3BG7BEG3IAKUQU.JPG?auth=c7fae46fa6f6558ba949b95d6d0da6baf81d1e949e0f4780fa3a9f93cf368bdf&smart=true&width=2205&height=1287",
+      "time": "Nov 17, 1:17 PM"
     },
     {
-      "title": "Mélanie Joly is speaking a new language on potential Quebecor-Telus deal",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-melanie-joly-potential-quebecor-telus-deal/",
-      "snippet": "Industry Minister cleverly signals that Ottawa is open to transaction that ticks a great many boxes, including national sovereignty",
-      "image": "https://www.theglobeandmail.com/resizer/v2/IK2ERVWTDNAO5GA46ICJU66SNI.JPG?auth=4ac9a5ed784ec8eca58ce60529d27fec8ba8867979c48e1e1a500b23b385bc4d&smart=true&width=5000&height=3335",
-      "time": "Nov 16, 7:33 PM"
+      "title": "Kalshi Halts Bets That Are Based on Trump’s Remarks",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/politics/policy/kalshi-to-halt-bets-that-are-based-on-trumps-remarks-71bbc94b?mod=rss_markets_main",
+      "snippet": "The company acted after regulators ordered it to halt contracts predicting the president’s public statements over concerns they could be manipulated.",
+      "image": "https://images.wsj.net/im-67123237",
+      "time": "Nov 17, 1:02 PM"
     },
     {
-      "title": "United Airlines resolves system outage that delayed flights Monday",
+      "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/economy/central-banking/u-s-treasury-eurozone-bond-yields-edge-lower-as-fresh-drivers-are-sought-746b3b6d?mod=rss_markets_main",
+      "snippet": "U.S. Treasury and eurozone government bond yields fell slightly on Tuesday amid continued caution over artificial intelligence as investors processed fresh economic indicators.",
+      "image": "https://images.wsj.net/im-12770017",
+      "time": "Nov 17, 12:56 PM"
+    },
+    {
+      "title": "Dow Slides Ahead of Nvidia Earnings",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slip-as-investors-look-to-nvidia-earnings-1007fe69?mod=rss_markets_main",
+      "snippet": "Stocks were under pressure ahead of a big day for Nvidia, with the chip maker’s interim chief executive set to address Wall Street after last week’s dramatic ouster of co-founder Jensen Huang.",
+      "image": "https://images.wsj.net/im-36024934",
+      "time": "Nov 17, 12:49 PM"
+    },
+    {
+      "title": "As stocks struggle, bonds are finally helping investors play defense again. There’s just one problem.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
-      "snippet": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
-      "image": "https://images.mktw.net/im-45073447",
-      "time": "Nov 16, 6:42 PM"
+      "url": "https://www.marketwatch.com/story/as-stocks-struggle-bonds-are-finally-helping-investors-play-defense-again-theres-just-one-problem-94c8a1d8?mod=mw_rss_topstories",
+      "snippet": "For the first time since March, bonds are actually helping to offset some of the losses investors have been feeling in their stock portfolios lately.",
+      "image": "https://images.mktw.net/im-49852360",
+      "time": "Nov 17, 12:40 PM"
     },
     {
-      "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+      "title": "Why Salesforce’s stock is leading S&P 500 decliners amid tech jitters",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
-      "snippet": "Druckenmiller’s family office unloaded AMD and Sandisk shares in the third quarter.",
-      "image": "https://images.mktw.net/im-878137",
-      "time": "Nov 16, 6:28 PM"
+      "url": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+      "snippet": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
+      "image": "https://images.mktw.net/im-666884",
+      "time": "Nov 17, 12:36 PM"
     },
     {
-      "title": "United Airlines resolves issue that delayed hundreds of departing flights",
+      "title": "OAS pensions are shrinking, which means young Canadians will need to save more for retirement",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/article-united-airlines-failure-ground-stop/",
-      "snippet": "Flight-tracking website FlightAware showed United with about 600 delayed flights on Monday evening",
-      "image": "https://www.theglobeandmail.com/resizer/v2/L3FEY6VA5NCGLBCVUCDP4PBYYY.jpg?auth=771b20f16d26476a189e2c7abe74ebdaf575c3cae4bc35a788912ec220d0905c&smart=true&width=5391&height=3594",
-      "time": "Nov 16, 5:24 PM"
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-oas-pensions-shrinking-young-canadians-need-save-more/",
+      "snippet": "The federal benefit will not be worth as much to the next generation of retirees",
+      "image": "https://www.theglobeandmail.com/resizer/v2/QNOG2D3QSVDAVNRMBOFP47QGD4.jpg?auth=9821e2851863fd89818211681d95e5c69228ef680fb16f74c1814d90a9ecf5cf&smart=true&width=726&height=481",
+      "time": "Nov 17, 12:24 PM"
+    },
+    {
+      "title": "The latest tech failure: U.S. classified national security communications network",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
+      "snippet": "A reported outage of a classified U.S. communications network has become the latest in a growing string of technology disruptions impacting consumers, businesses and the government.",
+      "image": "https://images.mktw.net/im-28566679",
+      "time": "Nov 17, 12:12 PM"
+    },
+    {
+      "title": "European luxury stocks slip on fears that AI-related selloff will curb spending by wealthy Americans",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/article-european-luxury-stocks-fall-ai-related-selloff/",
+      "snippet": "Groups including LVMH, Hermes and Kering have courted U.S. consumers enriched by the AI and tech boom",
+      "image": "https://www.theglobeandmail.com/resizer/v2/LVTVUNKMWVA45GKNHCOU6C7B2M.JPG?auth=5efe8378ea68f541894d8d3503ee7fcd8db6c835ffbfe6c1da432d92d0bff94c&smart=true&width=800&height=533",
+      "time": "Nov 17, 11:51 AM"
     }
   ],
   "official": [
     {
-      "title": "Consumer Price Index, October 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261116/dq261116a-eng.htm",
-      "snippet": "The Consumer Price Index (CPI) rose 3.1% year over year in October, matching its 3.1% increase in September. On a seasonally adjusted monthly basis, the CPI increased 0.2% in October.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261116/cg261116a001-eng.png",
-      "time": "Nov 16, 8:30 AM"
+      "title": "Joint Outcomes of the 2nd Canada-China Economic and Financial Strategic Dialogue",
+      "source": "Finance Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/joint-outcomes-of-the-2nd-canada-china-economic-and-financial-strategic-dialogue.html",
+      "snippet": "Building on the commitments made by their Leaders in January 2026, both sides reaffirmed commitment to strengthening bilateral economic and financial relations and advancing the Canada-China new Strategic Partnership…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 16, 10:20 PM"
     },
     {
-      "title": "Entrepreneurship indicators of Canadian enterprises, 2024",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261116/dq261116b-eng.htm",
-      "snippet": "The Entrepreneurship Indicators Database for 2024 is now available upon request.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/TunneysPasture2022.jpg/330px-TunneysPasture2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Government of Canada tables plan to ease grocery costs, support homeownership, and encourage new home construction",
+      "source": "Finance Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-tables-plan-to-ease-grocery-costs-support-homeownership-and-encourage-new-home-construction.html",
+      "snippet": "In a more uncertain world, too many Canadians are feeling the pressure of rising costs. That’s why Budget 2026 includes concrete measures to address the immediate needs of Canadians, while making investments to build…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 16, 8:30 AM"
+      "time": "Nov 16, 5:12 PM"
     },
     {
       "title": "Bank of Canada Governor Tiff Macklem to step down in June 2027",
@@ -128,15 +127,6 @@
       "time": "Nov 16, 5:00 AM"
     },
     {
-      "title": "Parliamentary Secretary Ryan Turnbull highlights Government of Canada’s investments in community recreational facilities and ice rinks from Budget 2026: Masters of our destiny",
-      "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/parliamentary-secretary-ryan-turnbull-highlights-government-of-canadas-investments-in-community-recreational-facilities-and-ice-rinks-from-budget-2.html",
-      "snippet": "Arenas, ice rinks, and recreational facilities are at the heart of many communities across Canada. They are where so many Canadians first learn to skate, where young Canadians gather after school and adults lace up…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 14, 10:00 AM"
-    },
-    {
       "title": "Agencies extend comment period for proposed third-party risk management guidance",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
@@ -144,15 +134,6 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 13, 4:15 PM"
-    },
-    {
-      "title": "Selection process opens for Defence, Security and Resilience Bank’s host city",
-      "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/selection-process-opens-for-defence-security-and-resilience-banks-host-city.html",
-      "snippet": "Today, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, launched the process to select the Canadian city that will host the future global headquarters of the DSRB.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 13, 3:44 PM"
     },
     {
       "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
@@ -175,64 +156,64 @@
   ],
   "ticker": [
     {
-      "time": "2:47 AM",
-      "title": "WSJ Markets — Dollar Rally Pauses Ahead of Data, Fed Speeches",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main"
+      "time": "1:21 PM",
+      "title": "CNBC — Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html"
     },
     {
-      "time": "1:59 AM",
-      "title": "CNBC — U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
-      "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
+      "time": "1:10 PM",
+      "title": "CNBC — U.S. officially loses measles elimination status amid ongoing outbreaks",
+      "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"
     },
     {
-      "time": "1:49 AM",
-      "title": "WSJ Markets — Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
-      "url": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_markets_main"
+      "time": "1:06 PM",
+      "title": "CNBC — Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
+      "url": "https://www.cnbc.com/2026/11/17/chase-home-lending-ceo-says-hes-going-on-offense.html"
     },
     {
-      "time": "12:51 AM",
-      "title": "CNBC — Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
-      "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html"
+      "time": "1:03 PM",
+      "title": "CNBC — Nvidia’s soap opera could be AMD’s big opportunity. Here’s why I’m buying",
+      "url": "https://www.cnbc.com/2026/11/17/advanced-micro-devices-amd-jeff-kilburg-buying.html"
     },
     {
-      "time": "12:00 AM",
-      "title": "CNBC — Payward co-CEO says stock markets will move to 24/7 trading as tokenized equities grow",
-      "url": "https://www.cnbc.com/video/2026/11/17/payward-ceo-dave-ripley-on-tokenized-stocks-and-247-trading.html"
+      "time": "12:49 PM",
+      "title": "CNBC — Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
+      "url": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html"
     },
     {
-      "time": "Nov 16",
-      "title": "WSJ Markets — Gold Struggles to Recover as Dollar, Rates Weigh",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-struggles-to-recover-as-dollar-rates-weigh-13856211?mod=rss_markets_main"
+      "time": "12:33 PM",
+      "title": "CNBC — 7 smart reasons to sell a stock—and my ‘golden rule’ for offloading shares, says hedge fund CEO",
+      "url": "https://www.cnbc.com/2026/11/17/when-to-sell-a-stock.html"
     },
     {
-      "time": "Nov 16",
-      "title": "CNBC — Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
+      "time": "12:27 PM",
+      "title": "CNBC — FAA pauses installation of new routers after ground stop",
+      "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
     },
     {
-      "time": "Nov 16",
-      "title": "CNBC — Tuesday's big stock stories: What’s likely to move the market in the next trading session",
-      "url": "https://www.cnbc.com/2026/11/16/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html"
+      "time": "12:27 PM",
+      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
+      "url": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-554ef0f3?mod=rss_markets_main"
     },
     {
-      "time": "Nov 16",
-      "title": "WSJ Markets — Oil Falls as Improving Supply Prospects Offset Mideast Tensions",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-improving-supply-prospects-offset-mideast-tensions-3499b2f6?mod=rss_markets_main"
+      "time": "12:07 PM",
+      "title": "MarketWatch — Parents told us what it’s like to help their kids battle sports-gambling addiction: ‘There’s no handbook’",
+      "url": "https://www.marketwatch.com/story/parents-told-us-what-its-like-to-help-their-kids-battle-sports-gambling-addiction-theres-no-handbook-6e2d5bb2?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 16",
-      "title": "CNBC — United Airlines resolves system outage that affected departing flights",
-      "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html"
+      "time": "12:03 PM",
+      "title": "CNBC — Nvidia is flashing a warning sign ahead of earnings, but a rebound could be coming",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-is-flashing-a-warning-sign-ahead-of-earnings-but-a-rebound-could-be-coming.html"
     },
     {
-      "time": "Nov 16",
-      "title": "CNBC — Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html"
+      "time": "12:03 PM",
+      "title": "MarketWatch — ‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+      "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 16",
-      "title": "CNBC — Aschenbrenner’s Situational Awareness made AI bets again before October rout",
-      "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html"
+      "time": "12:02 PM",
+      "title": "CNBC — Nike lays out financial goals ahead of first investor day in 9 years",
+      "url": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html"
     }
   ]
 }
