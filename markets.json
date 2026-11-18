@@ -1,93 +1,113 @@
 {
-  "generated_at": "Nov 18, 2026, 7:40 AM ET (Tuesday close; Wednesday pre-market)",
+  "generated_at": "Nov 18, 2026, 12:45 PM ET (Wednesday midday; session in progress)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed Tuesday at 50,759.42, down 1.64% (about 849 points from Monday's 51,608.17 close), its second straight drop of more than 1%. Dow futures were up about 0.3% early Wednesday (MarketScreener/Reuters; Yahoo Finance/Zacks)."
+      "note": "Down 0.92% at 50,292.56 (about 467 points) as of 12:19 p.m. ET Wednesday, after Tuesday's 1.64% drop to 50,759.42. UnitedHealth's slide weighed on the index (Yahoo Finance; Stock Titan)."
     },
     {
       "index": "S&P 500",
-      "note": "Closed Tuesday at 7,340.53, down 1.03%, and down 2.40% over five sessions; Stock Titan noted it was the lowest close since late July. S&P 500 futures were up about 0.6% early Wednesday (MarketScreener/Reuters; Stock Titan)."
+      "note": "Down 0.20% at 7,325.56 as of 12:19 p.m. ET Wednesday, after falling as much as 0.48% to about 7,305 late morning. It closed Tuesday at 7,340.53 (Yahoo Finance; Motley Fool)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed Tuesday at 24,328.38, down 0.74%, and down 2.94% over five sessions. Nasdaq 100 futures were up about 1.2% early Wednesday after Nvidia's results (MarketScreener/Reuters)."
+      "note": "Up 0.24% at 24,386.39 on Yahoo Finance's midday ticker, after trading slightly lower late morning. It closed Tuesday at 24,328.38 (Yahoo Finance; Motley Fool)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "Settled Tuesday up 0.3% at $86.01 a barrel; early Wednesday it was down about 1.15% near $85 after industry data showed a 5.28 million-barrel U.S. crude stock build (Rigzone; HDFC Sky)."
+      "note": "December futures were at $81.54, down 3.67%, at midday per Yahoo Finance; CoinDesk said WTI hit its lowest level since Aug. 31. EIA data showed a 3.4 million-barrel U.S. crude build last week (Yahoo Finance; CoinDesk; Discovery Alert)."
     }
   ],
   "themes": [
     {
-      "title": "Nvidia lifts futures",
-      "summary": "Nvidia shares rose about 3.7% in pre-market trading after it forecast fourth-quarter revenue of $130 billion, plus or minus 3%, above the LSEG analyst average of $125.25 billion (MarketScreener/Reuters).",
+      "title": "Nvidia's gains fade",
+      "summary": "Nvidia shares rose early after its forecast but were down about 2% by late morning, despite third-quarter revenue of $115.84 billion, up more than 100% from a year earlier (Motley Fool; Stock Titan).",
       "confidence": "confirmed"
     },
     {
-      "title": "AI infrastructure stocks rally early",
-      "summary": "In pre-market trading AMD rose 3%, Micron 3.4% and Marvell 4.4%, while CoreWeave gained 6.5% and Nebius 8.1% (MarketScreener/Reuters).",
+      "title": "Health care drags the Dow",
+      "summary": "UnitedHealth and Humana each fell about 6% to 7% after CMS proposed an anti-fraud rule, pulling the Dow lower while the Nasdaq held up better (Yahoo Finance; Motley Fool).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Retailers rally on results",
+      "summary": "TJX rose about 10% and Target about 5.6% after earnings; Target's third-quarter EPS of $2.65 beat the $2.08 estimate and included a $0.50 benefit from tariff refunds (Motley Fool; Yahoo Finance; Stock Titan).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Rate-hike talk grows",
+      "summary": "Fed Governor Christopher Waller said a half-point increase is probably needed at the Dec. 8-9 meeting; CME FedWatch shows about a 96% chance of at least a quarter-point hike (Stock Titan; CoinDesk).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Commodities slide",
+      "summary": "Gold fell about 3% to around $3,744 and oil dropped to its lowest since late August, while the 10-year Treasury yield held near 5.10% (Motley Fool; CoinDesk; Yahoo Finance).",
       "confidence": "developing"
-    },
-    {
-      "title": "Second straight selloff Tuesday",
-      "summary": "All three major indexes fell for a second day before Nvidia's report; Home Depot fell 2.45% as it named a new CEO and Disney fell 1.48% after its results (MarketScreener/Reuters; Stock Titan).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "December rate hike nearly priced in",
-      "summary": "Markets almost fully price a quarter-point Fed rate increase next month; New York Fed President John Williams said Tuesday another hike is likely needed but opposed an aggressive path (MarketScreener/Reuters).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Oil eases on stockpile build",
-      "summary": "API data showed U.S. crude inventories up 5.28 million barrels and gasoline up 5.12 million barrels, though Strait of Hormuz disruptions limited losses (HDFC Sky).",
-      "confidence": "confirmed"
     }
   ],
   "sectors": [
     {
       "name": "Semiconductors",
-      "note": "Leading pre-market gains after Nvidia's forecast, with AMD, Broadcom, Micron and Marvell up about 2.5% to 4.4% (MarketScreener/Reuters).",
-      "momentum": 72
+      "note": "Gave back early gains: the SMH chip fund was down 0.28% late morning, while Broadcom rose about 3.6% and AMD and TSMC edged higher (Stock Titan; Yahoo Finance).",
+      "momentum": 50
     },
     {
-      "name": "AI Cloud and Data Centers",
-      "note": "CoreWeave (+6.5%), Nebius (+8.1%) and IREN, Applied Digital and Core Scientific (+5.5% to 7.5%) rose pre-market (MarketScreener/Reuters).",
-      "momentum": 75
+      "name": "Health Care",
+      "note": "Among the weakest groups, with UnitedHealth down about 6% to 7% and Ardent Health down about 21% (Motley Fool; Stock Titan; Yahoo Finance).",
+      "momentum": 18
     },
     {
-      "name": "Software",
-      "note": "Among Tuesday's weakest groups: Salesforce fell 9.6%, Intuit 7.1% and ServiceNow 6.8% (24/7 Wall St.).",
-      "momentum": 20
+      "name": "Consumer Discretionary / Retail",
+      "note": "Showed relative strength as TJX and Target rose on earnings and Take-Two gained about 8% (Motley Fool; Stock Titan).",
+      "momentum": 70
     },
     {
       "name": "Energy",
-      "note": "Crude eased about 1% early Wednesday on a U.S. inventory build after settling higher Tuesday on Gulf tanker attacks (HDFC Sky; Rigzone).",
-      "momentum": 45
+      "note": "Under pressure as WTI fell more than 3% to a two-month-plus low after an EIA report showed builds in crude, gasoline and distillate stocks (Yahoo Finance; Discovery Alert).",
+      "momentum": 25
     }
   ],
   "watch_list": [
     {
-      "topic": "Fed minutes Wednesday afternoon",
-      "why": "Minutes from the October FOMC meeting are due later Wednesday (19:00 UTC) as markets price a near-certain December hike (MarketScreener/Reuters; CoinDesk).",
+      "topic": "Fed minutes at 2 p.m. ET",
+      "why": "Minutes from the Oct. 27-28 FOMC meeting are due Wednesday afternoon, with markets pricing a December rate increase (Stock Titan; Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
       "topic": "Anthropic IPO pricing",
-      "why": "Pricing is expected later Wednesday, which Reuters called a key test of investor confidence in the AI boom (MarketScreener/Reuters).",
+      "why": "Pricing is expected Wednesday evening, subject to regulatory clearance, with shares set to begin trading on Nasdaq Thursday (Stock Titan; Yahoo Finance).",
       "confidence": "developing"
     },
     {
-      "topic": "Retail earnings and housing data",
-      "why": "Target, Lowe's and TJX report Wednesday, Palo Alto Networks after the close, and October housing starts are due at 8:30 a.m. ET (Stock Titan; MarketScreener/Reuters).",
+      "topic": "Palo Alto tonight, Walmart Thursday",
+      "why": "Palo Alto Networks reports after Wednesday's close and Walmart reports Thursday, a read on holiday spending (Stock Titan; Motley Fool).",
       "confidence": "confirmed"
     }
   ],
   "sources": [
     {
-      "title": "MarketScreener (Reuters) — Nasdaq futures jump as Nvidia forecast lifts AI trade ahead of Anthropic pricing",
-      "url": "https://www.marketscreener.com/news/nasdaq-futures-jump-as-nvidia-forecast-lifts-ai-trade-ahead-of-anthropic-pricing-ce785eddd98ff627"
+      "title": "Yahoo Finance — Stock market today: Dow slides, S&P 500, Nasdaq rise as Nvidia clears hurdle, Anthropic prepares to price its IPO",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html"
+    },
+    {
+      "title": "Stock Titan — Stock Market Today Live, November 18, 2026: The Dow Slides in Late Morning Trading",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+    },
+    {
+      "title": "Motley Fool — Stock Market Midday, Nov. 18: Nvidia Doubles Revenue, but Wall Street's Sell-Off Continues",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-midday-nov-18-nvidia-doubles-revenue-but-wall-street-s-sell-off-continues/"
+    },
+    {
+      "title": "Discovery Alert — Oil Slips as EIA Crude Inventory Report Shows 3.4M Barrel Build",
+      "url": "https://discoveryalert.com/news/eia-crude-inventory-report-build-november-2026/"
+    },
+    {
+      "title": "CoinDesk — Live updates: Bitcoin falls below $63,000, with Strategy's STRC hitting lowest since August",
+      "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
+    },
+    {
+      "title": "MarketScreener (Reuters) — S&P 500, Nasdaq open higher as Nvidia forecast eases AI jitters",
+      "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-open-higher-as-nvidia-forecast-eases-ai-jitters-ce785eddda8bf223"
     },
     {
       "title": "Yahoo Finance (Zacks) — Stock Market News for Nov 17, 2026",
@@ -98,28 +118,8 @@
       "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
     },
     {
-      "title": "24/7 Wall St. — S&P 500 Closes Down 1% as the Dow Sheds 955 Points (closing movers)",
-      "url": "https://247wallst.com/cards/the-dow-s-955-point-drop-led-the-selling-a-sharper-hit-than-gspc-market-bell-01m7nn5ym7r5nqbd4d83yt9zt1"
-    },
-    {
-      "title": "Rigzone — Oil Prices Swing as Gulf Attacks Continue (Nov. 17)",
-      "url": "https://www.rigzone.com/news/oil_prices_swing_as_gulf_attacks_continue-17-nov-2026-185107-article"
-    },
-    {
-      "title": "HDFC Sky — Crude Oil Falls as US Stockpiles Rise, Hormuz Risks Persist (Nov. 18)",
-      "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-18-2026-brent-falls-0-5percent-to-92-6-wti-drops-1-15percent-as-us-stockpiles-rise-middle-east-risks-limit-losses"
-    },
-    {
-      "title": "CoinDesk — Bitcoin drops as basis trade dries up and Fed minutes loom",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"
-    },
-    {
       "title": "NVIDIA (GlobeNewswire) — NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
       "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
-    },
-    {
-      "title": "Cointelegraph — Nvidia Sparks Stock-Market Relief With Bitcoin in 'Bid-Heavy' Environment",
-      "url": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat"
     }
   ]
 }
