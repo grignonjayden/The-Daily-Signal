@@ -1,115 +1,115 @@
 {
-  "generated_at": "Nov 18, 2026, 12:45 PM ET",
+  "generated_at": "Nov 18, 2026, 4:40 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "Fell below $63,000 by about 10:48 a.m. ET Wednesday, down more than 2.5%, after trading near $65,000 early in the day; it hit a four-month low of $61,000 on Nov. 15 (CoinDesk)."
+      "note": "About $62,400 to $62,450 as of 4:14 p.m. ET Wednesday, down about 2.4%, after starting the day near $64,000 to $65,000; it hit a four-month low of $61,000 on Nov. 15 (CoinDesk; Fortune)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,790, down 1.64% over 24 hours on Nexo's ticker; CoinDesk's ticker showed about $1,782 (Nexo; CoinDesk)."
+      "note": "About $1,754 as of 4:14 p.m. ET, down about 2.4%, after trading near $1,800 in the morning (CoinDesk; Fortune)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.26 trillion per CoinGecko data cited by Analytics Insight and CoinGabbar; CoinGabbar put it up 0.9% over 24 hours before Bitcoin's late-morning dip (Analytics Insight; CoinGabbar)."
+      "note": "About $2.27 trillion early Wednesday per CoinGecko data, down 0.1% over 24 hours, before the afternoon pullback in Bitcoin and Ether (CoinGabbar; CapitalStreetFX)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 57.1% to 57.5% per CoinGecko-based figures, with Ether at about 9.7% to 9.8% (CoinGabbar; Analytics Insight)."
+      "note": "About 57% per CoinGecko-based figures early Wednesday, with Ether at about 9.7% (CoinGabbar; CapitalStreetFX)."
     }
   ],
   "themes": [
     {
-      "title": "Bitcoin misses the Nvidia lift",
-      "summary": "Nvidia beat estimates, but Bitcoin did not join the early tech rally and slipped below $63,000 by late morning (CoinDesk).",
+      "title": "Crypto lags tech stocks",
+      "summary": "Bitcoin and Ether each fell about 2.4% by late afternoon while the Nasdaq finished higher (CoinDesk; Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "Fed hike bets firm up",
-      "summary": "Fed Governor Chris Waller again called for a half-point increase in December; CME FedWatch showed a 96% chance of a quarter-point hike to 4.25% (CoinDesk).",
+      "title": "Fed minutes add little new",
+      "summary": "October minutes showed two of 12 voters wanted a hike; CoinDesk called them old news given recent hawkish Fed comments, with a December increase widely expected (CoinDesk).",
       "confidence": "confirmed"
     },
     {
       "title": "Short-term holders under water",
-      "summary": "CryptoQuant said Bitcoin trades about 20% below the cost basis of one-to-three-month holders, the widest gap since July, and sees support between $62,000 and $65,000 (CoinDesk).",
+      "summary": "CryptoQuant said short-term Bitcoin holders are about 20% below their cost basis, the widest gap since July, and flagged $62,000 to $65,000 as the nearest support (CoinDesk).",
       "confidence": "confirmed"
     },
     {
-      "title": "Spot ETF outflows",
-      "summary": "U.S. spot Bitcoin ETFs had $239.9 million of net outflows on Nov. 17, and sentiment gauges stayed in 'extreme fear' (Analytics Insight; Nexo).",
+      "title": "ETF outflows and extreme fear",
+      "summary": "U.S. spot Bitcoin ETFs had $239.9 million of net outflows on Tuesday and Ether ETFs $29.1 million, while the Fear and Greed Index sat around 11 (CapitalStreetFX; CoinGabbar).",
       "confidence": "confirmed"
     },
     {
-      "title": "Crypto treasury stocks slide",
-      "summary": "Strategy's STRC preferred fell 3% to $95.75, its lowest since August, and MSTR fell 4% to $93.81 by 10:48 a.m. ET (CoinDesk).",
-      "confidence": "developing"
+      "title": "Crypto treasury firms pare holdings",
+      "summary": "CoinShares sold all its treasury Ether and half its Solana to fund buybacks, and Strategy's STRC preferred fell to its lowest since August (CoinDesk).",
+      "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Both lower Wednesday: Bitcoin down more than 2.5% below $63,000 and Ether down about 1.6% near $1,790 (CoinDesk; Nexo)."
+      "note": "Both down about 2.4% by late afternoon, with Bitcoin near $62,400 and Ether near $1,754 (CoinDesk)."
     },
     {
       "name": "Altcoins",
-      "note": "Selective gains: XRP rose about 4.6% to near $1 and Solana about 3.4% to near $75, while Zcash rose nearly 4% to about $955 early in the day (Analytics Insight; CoinDesk)."
+      "note": "XRP briefly touched $1.00 and Solana traded near $75 early in the day; Litecoin was down about 2.3% by midday GMT (CapitalStreetFX; CoinDesk)."
     },
     {
-      "name": "Derivatives",
-      "note": "Crypto perpetual funding rates have settled around 3% to 5% this year, versus about 11% for the largest equity-linked perps, which hold over $11 billion in open interest (CoinDesk)."
+      "name": "DeFi",
+      "note": "DeFi market cap fell 3.1% to about $58.9 billion over 24 hours per CoinGecko data (CoinGabbar)."
     },
     {
       "name": "Stablecoins",
-      "note": "DBS and Circle announced a partnership letting eligible institutional clients mint and redeem USDC through DBS (CoinGabbar)."
+      "note": "Stablecoin market cap rose 0.1% to about $283.2 billion per CoinGecko data (CoinGabbar)."
     }
   ],
   "watch_list": [
     {
-      "topic": "Fed minutes at 2 p.m. ET",
-      "why": "Minutes from the Fed's October meeting are due Wednesday afternoon, with a December rate increase priced at about 96% (CoinDesk; Nexo).",
+      "topic": "Anthropic's debut Thursday",
+      "why": "Bloomberg reported the IPO priced at $83 a share, above its expected range; crypto has been tracking tech sentiment (CoinDesk; Yahoo Finance).",
+      "confidence": "developing"
+    },
+    {
+      "topic": "$62,000 support level",
+      "why": "CryptoQuant and CapitalStreetFX flagged about $62,000 as nearby support, close to Wednesday afternoon's price; the Nov. 15 low was $61,000 (CoinDesk; CapitalStreetFX).",
+      "confidence": "developing"
+    },
+    {
+      "topic": "Fed meeting Dec. 8-9",
+      "why": "CME FedWatch has shown about a 96% chance of a December rate increase, with Governor Waller calling for a half-point move (CoinDesk).",
       "confidence": "confirmed"
-    },
-    {
-      "topic": "$62,000-$65,000 support zone",
-      "why": "CryptoQuant flagged this range as support; Bitcoin's Nov. 15 low was $61,000 (CoinDesk).",
-      "confidence": "developing"
-    },
-    {
-      "topic": "Anthropic IPO and Thursday data",
-      "why": "Anthropic's IPO is set to price Wednesday and trade Thursday, alongside the Philadelphia Fed index and jobless claims; crypto has been tracking tech sentiment (Nexo).",
-      "confidence": "developing"
     }
   ],
   "movers": [
     {
-      "name": "Momentum (MMT)",
-      "pct": 100.1,
-      "note": "Among the top 24-hour gainers in CoinGecko data, on more than $319 million in volume (CoinGabbar)."
+      "name": "Brevis (BREV)",
+      "pct": 92.3,
+      "note": "Top 24-hour gainer in early-Wednesday CoinGecko data, which the report linked to small-token speculation (CoinGabbar)."
     },
     {
-      "name": "Pippin (PIPPIN)",
-      "pct": 79.4,
-      "note": "Another top 24-hour gainer in CoinGecko data (CoinGabbar)."
+      "name": "Radix (XRD)",
+      "pct": 55.4,
+      "note": "Among the top 24-hour gainers in CoinGecko data (CoinGabbar)."
     },
     {
-      "name": "XRP (XRP)",
-      "pct": 4.6,
-      "note": "Up about 4.6% over 24 hours, trading near $1 (Analytics Insight)."
-    },
-    {
-      "name": "Solana (SOL)",
-      "pct": 3.4,
-      "note": "Up about 3.4% over 24 hours, near $75 (Analytics Insight)."
+      "name": "Melania Meme (MELANIA)",
+      "pct": 8.13,
+      "note": "Top gainer in CoinCodex's early-Wednesday daily update (CoinCodex)."
     },
     {
       "name": "Bitcoin (BTC)",
-      "pct": -2.5,
-      "note": "Down more than 2.5% and below $63,000 by about 10:48 a.m. ET (CoinDesk)."
+      "pct": -2.4,
+      "note": "Down about 2.4% to roughly $62,400 as of 4:14 p.m. ET (CoinDesk)."
     },
     {
-      "name": "Nexo (NEXO)",
-      "pct": -4.18,
-      "note": "Down 4.18% on Nexo's 24-hour ticker (Nexo)."
+      "name": "Ethereum (ETH)",
+      "pct": -2.4,
+      "note": "Down about 2.4% to about $1,754 as of 4:14 p.m. ET (CoinDesk)."
+    },
+    {
+      "name": "LayerZero (ZRO)",
+      "pct": -10.91,
+      "note": "Top 24-hour loser in CoinCodex's early-Wednesday daily update (CoinCodex)."
     }
   ],
   "sources": [
@@ -118,32 +118,32 @@
       "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
     },
     {
-      "title": "CoinDesk — Bitcoin-to-gold ratio flashes bullish signal as BTC price outperforms the precious metal",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike"
+      "title": "Fortune — Current price of Bitcoin for November 18, 2026",
+      "url": "https://fortune.com/article/price-of-bitcoin-11-18-2026/"
     },
     {
-      "title": "Nexo — Markets Today, November 18, 2026",
-      "url": "https://nexo.com/blog/markets-today-november-18"
+      "title": "CoinGabbar — Crypto News Nov 18: BTC Falls 0.9% Amid FOMC Minutes and Fed Hike Bets (CoinGecko data)",
+      "url": "https://www.coingabbar.com/en/crypto-news-nov-18-bitcoin-eth-brevis-price-fed-fomc-minutes"
     },
     {
-      "title": "Analytics Insight — Crypto Market Today: XRP, Solana & NEAR Rise as Bitcoin Holds Near USD 64,500",
-      "url": "https://www.analyticsinsight.net/news/crypto-market-today-xrp-solana-near-rise-as-bitcoin-holds-near-usd-64500"
+      "title": "CapitalStreetFX — Bitcoin Pinned At $64,000, Ether Holds $1,800 And XRP Tests $1 As Crypto Braces For The Fed Minutes",
+      "url": "https://www.capitalstreetfx.com/market-analysis/daily-crypto-report-18-nov-2026/"
     },
     {
-      "title": "CoinGabbar — Why Is Crypto Market Up Today and How It React After FOMC Minutes? (CoinGecko data)",
-      "url": "https://coingabbar.com/en/why-is-crypto-market-up-today-fomc-minutes-impact"
+      "title": "CoinCodex — Daily Market Update for Nov 18, 2026",
+      "url": "https://coincodex.com/article/95565/daily-market-update-for-november-18-2026/"
     },
     {
-      "title": "Goodman Macro — November 18 Crypto Market Review",
-      "url": "https://www.goodman-macro.com/en/articles/20261118-crypto-market/"
+      "title": "Yahoo Finance — Stock market today: Dow and S&P 500 slide, Nasdaq rises in anticipation of Anthropic IPO",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
     },
     {
       "title": "CoinGecko — Cryptocurrency Prices, Charts, and Crypto Market Cap",
       "url": "https://www.coingecko.com/"
     },
     {
-      "title": "Stock Titan — Stock Market Today Live, November 18, 2026",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+      "title": "CoinDesk — Bitcoin (BTC) price drops as basis trade dries up and Fed minutes loom",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"
     }
   ]
 }
