@@ -1,14 +1,56 @@
 {
-  "generated_at": "Nov 17, 2026, 8:16 PM ET",
-  "date_key": "2026-11-17",
+  "generated_at": "Nov 18, 2026, 4:00 AM ET",
+  "date_key": "2026-11-18",
   "articles": [
     {
-      "title": "How Everyday Investors Are Playing the Nvidia Drama",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/how-everyday-investors-are-playing-the-nvidia-drama-2cb23012?mod=rss_markets_main",
+      "title": "Trump lands in China for historic meeting with Xi, Putin",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
       "snippet": "",
-      "image": "https://images.wsj.net/im-70942506",
-      "time": "Nov 17, 8:12 PM"
+      "image": "https://image.cnbcfm.com/api/v1/image/108553743-1794968619948-gettyimages-2276633450-AA_20052026_2787960.jpeg?v=1794968648&w=1920&h=1080",
+      "time": "Nov 18, 3:56 AM"
+    },
+    {
+      "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-amid-supply-surplus-expectations-middle-east-tensions-99aeabd5?mod=rss_markets_main",
+      "snippet": "Oil prices fell Wednesday as traders assessed the prospect of a global supply surplus amid renewed tensions in the Middle East and continued threats to regional oil shipments.",
+      "image": "https://images.wsj.net/im-31063068",
+      "time": "Nov 18, 3:55 AM"
+    },
+    {
+      "title": "The S&P 500 just broke a crucial support level. Here’s what history shows may happen now.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-just-broke-a-crucial-support-level-heres-what-history-shows-may-happen-now-776f6da2?mod=mw_rss_topstories",
+      "snippet": "Breaching a 200-day moving average is taken as a bearish signal. That may not be the case for this market, says Bespoke Investment",
+      "image": "https://images.mktw.net/im-85389401",
+      "time": "Nov 18, 3:50 AM"
+    },
+    {
+      "title": "Gilt Yields Fall After U.K. Services Inflation Undershoots BOE Forecast",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-20-year-auction-91707090?mod=rss_markets_main",
+      "snippet": "Yields on U.K. government bonds declined after U.K. data showed services inflation came in below the Bank of England’s forecast.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 18, 3:38 AM"
+    },
+    {
+      "title": "European Indexes Mixed as Tech Gains on Nvidia Results",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?mod=rss_markets_main",
+      "snippet": "European stock indexes were mixed in early trade, as tech stocks rallied following Nvidia’s reassuring earnings print Tuesday.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 18, 3:35 AM"
+    },
+    {
+      "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "snippet": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108553843-1794982342770-gettyimages-2305146051-AFP_D7U27T9.jpeg?v=1794986215&w=1920&h=1080",
+      "time": "Nov 18, 3:29 AM"
     },
     {
       "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
@@ -16,7 +58,39 @@
       "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
       "snippet": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
       "image": "https://image.cnbcfm.com/api/v1/image/108553540-1794952143693-gettyimages-2305599962-anotherday38811092_xy4ugih4.jpeg?v=1794952227&w=1920&h=1080",
-      "time": "Nov 17, 8:03 PM"
+      "time": "Nov 18, 3:21 AM"
+    },
+    {
+      "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+      "snippet": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
+      "image": "https://images.mktw.net/im-40820095",
+      "time": "Nov 17, 8:59 PM"
+    },
+    {
+      "title": "Darren Entwistle’s complicated tenure at Telus left his baby vulnerable to a takeover",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-darren-entwistles-complicated-tenure-at-telus-left-his-baby-vulnerable/",
+      "snippet": "Entwistle grew Telus from its Western Canadian base into a national telco. Yet over the past few years, it has all come crashing down",
+      "image": "https://www.theglobeandmail.com/resizer/v2/3GGC463WYZA7LB4JJVRF6IURMI.JPG?auth=dd4c84d2538b86b1a961d7db69fba9fd1a4aba3511e736a912ef1171026770d1&smart=true&width=3600&height=2572",
+      "time": "Nov 17, 8:53 PM"
+    },
+    {
+      "title": "Medicare Part B premiums rise due to higher healthcare spending",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+      "snippet": "The premiums will increase by $6.50, to $209.40 a month.",
+      "image": "https://images.mktw.net/im-36754506",
+      "time": "Nov 17, 8:45 PM"
+    },
+    {
+      "title": "Waymo halts robotaxi rides on U.S. freeways after California ban",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-waymo-robotaxi-freeways-california-ban/",
+      "snippet": "Suspension marks setback for Waymo, which has been pushing for rapid expansion after years of slow and steady growth",
+      "image": "https://www.theglobeandmail.com/resizer/v2/VGAYD3OJBJEOBCGMLZOFNZRKJE.JPG?auth=9d0a1dfa5d86499aeee2c47493926ffb345b7e74d120e60e578ca62f39614ba1&smart=true&width=3572&height=2439",
+      "time": "Nov 17, 8:41 PM"
     },
     {
       "title": "Canada, India close to finalizing free trade deal, envoy says",
@@ -25,80 +99,6 @@
       "snippet": "Defence agreement likely to be signed during Modi’s trip to Ottawa in December, says Indian high commissioner to Canada",
       "image": "https://www.theglobeandmail.com/resizer/v2/AGOETKLNAZBYPCXOVZOSXL7DMM.jpg?auth=d366e9ee9f4863dffcc53d3c737ea1f979761c55263f3f066265ab82aa027929&smart=true&width=6141&height=4094",
       "time": "Nov 17, 8:01 PM"
-    },
-    {
-      "title": "Oil Edges Lower as Supply Surplus Prospects Offset Mideast Tensions",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-cc9879f2?mod=rss_markets_main",
-      "snippet": "Oil edged lower as supply surplus prospects offset Middle East tensions.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 17, 7:55 PM"
-    },
-    {
-      "title": "Nvidia’s Kress tells CNBC's Jim Cramer that 'customers continue to be with us’ — Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-      "snippet": "Nvidia released fiscal third-quarter 2027 results on Tuesday, followed by its first earnings call since Huang's departure.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108191473-1794959027080-108191473-1756316822404-gettyimages-2232398609-_75a2581_gkk2kuie.jpeg?v=1794959062&w=1920&h=1080",
-      "time": "Nov 17, 7:45 PM"
-    },
-    {
-      "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
-      "snippet": "Semiconductor shipments spiked almost 50% year on year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107218244-1680236397700-gettyimages-150238247-ADVANTEST.jpeg?v=1753663268&w=1920&h=1080",
-      "time": "Nov 17, 7:35 PM"
-    },
-    {
-      "title": "Nikkei Rises 1.0%, Led by Chip, AI Stocks",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?mod=rss_markets_main",
-      "snippet": "Japanese stocks were higher after Nvidia’s robust quarterly results eased fears about the artificial-intelligence trade that was rocked by the scandal surrounding the chip maker’s CEO.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 17, 7:34 PM"
-    },
-    {
-      "title": "Apple services experience widespread outages",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/article-apple-services-experience-widespread-outages/",
-      "snippet": "Marriott International, the largest U.S. hotel operator, also had technology issues",
-      "image": "https://www.theglobeandmail.com/resizer/v2/ZAL73DT6DNCOJLAUSVVIRF2WAI.jpg?auth=9890108bcb2dbabd015c06ee3c2d8c66230b144e99b6f77906d6eab8fc0a9b26&smart=true&width=4716&height=3144",
-      "time": "Nov 17, 7:22 PM"
-    },
-    {
-      "title": "How telecom stocks went from dividend darlings to portfolio poison",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-how-telecom-stocks-went-from-dividend-darlings-to-portfolio-poison/",
-      "snippet": "Investors will be keeping an eye on Quebecor’s bid to acquire Telus, but the sector’s glory days seem like a distant memory",
-      "image": "https://www.theglobeandmail.com/resizer/v2/Y25RAQTKXFAZXFIE7DW5IYAKNI.jpg?auth=e261efa7ae2af0d1f5262b69ec1b90032a178cb5bdfafd5ea43375636fa678de&smart=true&width=4943&height=3693",
-      "time": "Nov 17, 7:21 PM"
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "snippet": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-      "image": "https://images.mktw.net/im-04093243",
-      "time": "Nov 17, 6:30 PM"
-    },
-    {
-      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "snippet": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
-      "image": "https://images.mktw.net/im-29241577",
-      "time": "Nov 17, 6:15 PM"
-    },
-    {
-      "title": "Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories",
-      "snippet": "Mizuho analysts have seen an “acceleration on emergency prep sales” at the warehouse chain following the Microsoft outage and nationwide flight stoppage.",
-      "image": "https://images.mktw.net/im-00949142",
-      "time": "Nov 17, 5:46 PM"
     }
   ],
   "official": [
@@ -158,64 +158,64 @@
   ],
   "ticker": [
     {
-      "time": "7:24 PM",
-      "title": "WSJ Markets — JGBs Edge Lower Ahead of 20-Year Auction",
-      "url": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-20-year-auction-91707090?mod=rss_markets_main"
-    },
-    {
-      "time": "7:00 PM",
-      "title": "CNBC — CNBC Digital Finance Forum recap: Wall Street's AI and crypto future",
-      "url": "https://www.cnbc.com/2026/11/17/digital-finance-forum-2026-live-updates.html"
-    },
-    {
-      "time": "6:59 PM",
-      "title": "WSJ Markets — Gold Treads Water as Fed, Dollar Keep Weighing",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-treads-water-as-fed-dollar-keep-weighing-3f6439e8?mod=rss_markets_main"
-    },
-    {
-      "time": "6:55 PM",
-      "title": "WSJ Markets — Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment",
+      "time": "2:47 AM",
+      "title": "WSJ Markets — Sterling Falls After U.K. Inflation Data",
       "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main"
     },
     {
-      "time": "6:51 PM",
-      "title": "Globe and Mail — Quebecor’s offer for Telus exposes tension between creating national champions and competition law",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-quebecor-telus-merger-competition-law/"
+      "time": "2:24 AM",
+      "title": "CNBC — Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
+      "url": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html"
     },
     {
-      "time": "6:40 PM",
-      "title": "Globe and Mail — Nutrien signs lease for new Washington State terminal",
-      "url": "https://www.theglobeandmail.com/business/economy/article-nutrien-signs-lease-for-new-washington-state-terminal/"
+      "time": "2:16 AM",
+      "title": "CNBC — Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
     },
     {
-      "time": "6:24 PM",
-      "title": "Globe and Mail — Hedge funds exit a lucrative trade on Quebecor and Telus",
-      "url": "https://www.theglobeandmail.com/business/article-quebecor-telus-hedge-funds-exit-a-lucrative-trade/"
+      "time": "2:00 AM",
+      "title": "CNBC — Emergency alerts and $75,000 rewards: South Korea fights high-tech exam cheating",
+      "url": "https://www.cnbc.com/2026/11/18/south-korea-exam-cheating-.html"
     },
     {
-      "time": "6:06 PM",
-      "title": "Globe and Mail — Joly, Stellantis CEO to meet Friday in attempt to save Brampton plant",
-      "url": "https://www.theglobeandmail.com/business/article-joly-stellantis-ceo-to-meet-friday-in-attempt-to-save-brampton-plant/"
+      "time": "1:18 AM",
+      "title": "CNBC — JPMorgan is working on AI agent transactions that don’t involve humans",
+      "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html"
     },
     {
-      "time": "5:57 PM",
-      "title": "Globe and Mail — Mississauga data centre moratorium faces legal challenge from U.S. real estate giant, Toronto firm",
-      "url": "https://www.theglobeandmail.com/canada/toronto/article-mississauga-data-centre-moratorium-faces-legal-challenge-from-us-real/"
+      "time": "12:33 AM",
+      "title": "WSJ Markets — Asian Equities Mixed as Investors Parse Nvidia’s Quarterly Results, Guidance",
+      "url": "https://www.wsj.com/finance/asian-equities-mixed-as-investors-parse-nvidias-results-guidance-7041c3ea?mod=rss_markets_main"
     },
     {
-      "time": "5:53 PM",
-      "title": "WSJ Markets — WSJ Dollar Index Falls 0.04% to 98.42",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main"
+      "time": "12:24 AM",
+      "title": "CNBC — Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+      "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html"
     },
     {
-      "time": "5:30 PM",
-      "title": "MarketWatch — ‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories"
+      "time": "Nov 17",
+      "title": "CNBC — Democrat Mary Peltola wins Alaska Senate election",
+      "url": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html"
     },
     {
-      "time": "5:17 PM",
-      "title": "CNBC — Nike lays out financial goals ahead of first investor day in 9 years",
-      "url": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html"
+      "time": "Nov 17",
+      "title": "CNBC — Trump withdraws Heidi Overton as nominee to lead Food and Drug Administration, sources say",
+      "url": "https://www.cnbc.com/2026/11/18/trump-withdraws-heidi-overton-as-nominee-to-lead-fda-sources-say.html"
+    },
+    {
+      "time": "Nov 17",
+      "title": "CNBC — Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
+      "url": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html"
+    },
+    {
+      "time": "Nov 17",
+      "title": "CNBC — LeBron James sues startup over viral AI ad allegedly exploiting his likeness",
+      "url": "https://www.cnbc.com/2026/11/18/lebron-james-startup-ai-lawsuit.html"
+    },
+    {
+      "time": "Nov 17",
+      "title": "CNBC — OpenAI bugging case defendant Alfozan set for trial in January",
+      "url": "https://www.cnbc.com/2026/11/17/openai-spy-alfozan-trial-saudi.html"
     }
   ]
 }
