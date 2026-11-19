@@ -1,90 +1,102 @@
 {
-  "generated_at": "Nov 18, 2026, 4:40 PM ET (Wednesday close)",
+  "generated_at": "Nov 19, 2026, 7:36 AM ET (Wednesday close; Thursday premarket)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed down 561.25 points, or 1.11%, at 50,198.17 on Wednesday, its second straight sizable drop, as health insurers fell on a proposed Medicare anti-fraud rule (Yahoo Finance; Stock Titan)."
+      "note": "Closed down 561.25 points, or 1.11%, at 50,198.17 on Wednesday, the last completed session, as health insurers fell. Dow E-mini futures were up about 0.67% at 5:48 a.m. ET Thursday (Yahoo Finance; Reuters via Yahoo Finance)."
     },
     {
       "index": "S&P 500",
-      "note": "Closed down 16.90 points, or 0.23%, at 7,323.63, its fifth straight losing session (Yahoo Finance; Stock Titan)."
+      "note": "Closed down 16.90 points, or 0.23%, at 7,323.63 Wednesday, its fifth straight losing session. S&P 500 E-mini futures were up about 1.25% early Thursday (Yahoo Finance; Reuters via Yahoo Finance)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed up 101.50 points, or 0.42%, at 24,429.89, the only major index to finish higher despite Nvidia's decline (Yahoo Finance; Stock Titan)."
+      "note": "Closed up 101.50 points, or 0.42%, at 24,429.89 Wednesday, the only major index to rise. Nasdaq 100 E-mini futures were up about 2.15% early Thursday ahead of Anthropic's debut (Yahoo Finance; Reuters via Yahoo Finance)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "December futures settled near $82.08, down $2.57 or 3.04%, after touching their lowest level since Aug. 31; EIA data showed a 3.4 million-barrel U.S. crude build (Yahoo Finance; CoinDesk; Discovery Alert)."
+      "note": "December futures settled near $82.08 Wednesday, down $2.57 or 3.04%, after an EIA report showed a 3.4 million-barrel U.S. crude build; U.S. crude was up about 0.5% early Thursday, per AP (Yahoo Finance; Discovery Alert; BNN Bloomberg)."
     }
   ],
   "themes": [
     {
-      "title": "Nvidia falls after results",
-      "summary": "Nvidia closed down about 2.7% to 2.9% despite third-quarter revenue up 103% from a year earlier, as leadership changes under interim CEO Colette Kress kept investors cautious (Yahoo Finance; Stock Titan; CoinDesk).",
+      "title": "Anthropic IPO lifts futures",
+      "summary": "Anthropic priced an upsized IPO at $83 a share, above its $70-$78 range, raising about $81 billion and valuing the company near $1.5 trillion; it is due to begin trading on the Nasdaq Thursday under ANT (Reuters via Yahoo Finance; CoinDesk).",
       "confidence": "confirmed"
     },
     {
-      "title": "Health insurers drag the Dow",
-      "summary": "UnitedHealth and Humana fell for a second day after CMS proposed a Medicare Advantage anti-fraud rule; Cigna and CVS also declined (Yahoo Finance; Stock Titan).",
+      "title": "Tech rebounds premarket",
+      "summary": "Nvidia rose 1.8% premarket after five straight declines, Alphabet gained 3.9% and Amazon 2.2%, and Intel, AMD, Micron and Marvell rose 3.2% to 4.6% (Reuters via Yahoo Finance).",
+      "confidence": "developing"
+    },
+    {
+      "title": "Fed hike expectations firm",
+      "summary": "October minutes showed nearly all officials saw further rate increases as likely appropriate; traders price near-certainty of a quarter-point hike in December, with about an 8% chance of a half-point move per LSEG (Reuters via Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "Fed minutes lean toward hikes",
-      "summary": "Minutes from the Oct. 27-28 meeting showed almost all officials saw further rate increases as likely appropriate, with two voters preferring a quarter-point hike at that meeting (Stock Titan; CoinDesk).",
+      "title": "Health insurers weighed on Dow",
+      "summary": "UnitedHealth and Humana fell for a second day Wednesday after CMS proposed a Medicare Advantage anti-fraud rule; Cigna and CVS also declined (Yahoo Finance; Stock Titan).",
       "confidence": "confirmed"
     },
     {
-      "title": "Retailers rise on earnings",
-      "summary": "TJX gained about 8% and Target about 4% after quarterly results; Target reported EPS of $2.65 on $27.1 billion in sales, with tariff refunds contributing (Stock Titan; Yahoo Finance).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Commodities and housing weaken",
-      "summary": "Gold fell about 3.5% to its lowest in over a year, and pending home sales dropped to their lowest level since at least 2001, down nearly 17% from a year earlier (Yahoo Finance; Stock Titan).",
+      "title": "Mixed global markets",
+      "summary": "Japan's Nikkei rose 0.7% and South Korea's Kospi 1.4% Thursday, while Taiwan's Taiex fell 4.4% and Hong Kong's Hang Seng 2%; major European indexes were mixed in early trading (BNN Bloomberg).",
       "confidence": "confirmed"
     }
   ],
   "sectors": [
     {
-      "name": "Semiconductors",
-      "note": "Mixed: early gains faded as Nvidia fell, while AMD, Broadcom and TSMC posted modest gains (Yahoo Finance; Stock Titan).",
-      "momentum": 48
+      "name": "Semiconductors / AI",
+      "note": "Mixed Wednesday as Nvidia fell about 2.9% after results; chipmakers and AI infrastructure names such as CoreWeave and Nebius were up roughly 3% to 5% premarket Thursday (Yahoo Finance; Reuters via Yahoo Finance).",
+      "momentum": 62
     },
     {
       "name": "Health Care",
-      "note": "The weakest group, led lower by UnitedHealth and Humana; Ardent Health fell about 19% on a secondary share sale (Stock Titan; Yahoo Finance).",
-      "momentum": 15
+      "note": "The weakest group Wednesday, led lower by UnitedHealth and Humana on the proposed Medicare Advantage rule (Stock Titan; Yahoo Finance).",
+      "momentum": 18
     },
     {
-      "name": "Consumer Discretionary / Retail",
-      "note": "Relative strength as TJX and Target rose after earnings; Lowe's also beat estimates (Stock Titan; Yahoo Finance).",
-      "momentum": 68
+      "name": "Cybersecurity / Software",
+      "note": "Palo Alto Networks rose about 10% premarket after raising its 2027 revenue forecast; CrowdStrike, Cloudflare, Okta and Zscaler gained 4.5% to 7% (Reuters via Yahoo Finance).",
+      "momentum": 72
     },
     {
       "name": "Energy",
-      "note": "Among the weakest S&P 500 sectors, down nearly 3% at midday as oil slid; Exxon fell about 3.6% (Stock Titan; Yahoo Finance).",
-      "momentum": 22
+      "note": "Among the weakest S&P 500 sectors Wednesday as oil slid about 3% to its lowest level since Aug. 31; Exxon fell about 3.6% (Stock Titan; Yahoo Finance).",
+      "momentum": 25
     }
   ],
   "watch_list": [
     {
-      "topic": "Anthropic's Nasdaq debut Thursday",
-      "why": "Bloomberg reported the upsized IPO priced at $83 a share, above the expected $70-$78 range; shares are slated to begin trading Thursday under the ticker ANT (Yahoo Finance; CoinDesk).",
+      "topic": "Anthropic's first trade",
+      "why": "Nasdaq trading is expected around 10 a.m. ET; CoinDesk reported gray-market pricing pointing to an opening as much as 24% above the $83 IPO price (CoinDesk; Reuters via Yahoo Finance).",
       "confidence": "developing"
     },
     {
-      "topic": "Palo Alto reaction and Medicare rule",
-      "why": "Palo Alto Networks rose about 6.5% after hours on revenue up 39% to $3.44 billion; the CMS Medicare Advantage rule is scheduled to appear in the Federal Register Thursday (Stock Titan).",
+      "topic": "Walmart earnings and Fed speakers",
+      "why": "Walmart is scheduled to report quarterly results before Thursday's open, and several Fed officials are due to speak later in the day (Reuters via Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
       "topic": "Fed meeting Dec. 8-9",
-      "why": "CME FedWatch has shown about a 96% chance of a December rate increase, and Governor Waller has said a half-point move is probably needed (CoinDesk; Stock Titan).",
+      "why": "Traders price near-certainty of a December rate increase per LSEG data, after minutes showed most officials expected further hikes (Reuters via Yahoo Finance; Stock Titan).",
       "confidence": "confirmed"
     }
   ],
   "sources": [
+    {
+      "title": "Yahoo Finance (Reuters) — Nasdaq futures jump as Anthropic's record IPO pricing fuels hopes for strong debut",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
+    },
+    {
+      "title": "BNN Bloomberg (AP) — World shares are mixed and U.S. futures climb ahead of Anthropic's blockbuster IPO",
+      "url": "https://www.bnnbloomberg.ca/markets/2026/11/19/world-shares-are-mixed-and-us-futures-climb-ahead-of-anthropics-blockbuster-ipo/"
+    },
+    {
+      "title": "CoinDesk — Live BTC prices: Bitcoin nears $64,000 as Anthropic's record IPO lifts tech",
+      "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech"
+    },
     {
       "title": "Yahoo Finance — Stock market today: Dow and S&P 500 slide, Nasdaq rises in anticipation of Anthropic IPO",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
@@ -94,32 +106,20 @@
       "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
     },
     {
-      "title": "CoinDesk — Live updates: Bitcoin falls below $63,000, with Strategy's STRC hitting lowest since August",
-      "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
-    },
-    {
       "title": "Discovery Alert — Oil Slips as EIA Crude Inventory Report Shows 3.4M Barrel Build",
       "url": "https://discoveryalert.com/news/eia-crude-inventory-report-build-november-2026/"
+    },
+    {
+      "title": "Forbes — Anthropic IPO Live Updates: Nasdaq Futures Surge Ahead Of Record $81 Billion Trading Debut",
+      "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-nasdaq-futures-jump-2-ahead-of-record-stock-debut/"
     },
     {
       "title": "WTOP (AP) — How major US stock indexes fared Wednesday 11/18/2026",
       "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-18-2026"
     },
     {
-      "title": "24/7 Wall St. — Stock Market Today: Nvidia Earnings Are Driving the Market, but Uncertainty Still Reigns",
-      "url": "https://247wallst.com/investing/2026/11/18/stock-market-today-nvidia-earnings-are-driving-the-market-but-uncertainty-still-reigns/"
-    },
-    {
-      "title": "Motley Fool — Stock Market Midday, Nov. 18: Nvidia Doubles Revenue, but Wall Street's Sell-Off Continues",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-midday-nov-18-nvidia-doubles-revenue-but-wall-street-s-sell-off-continues/"
-    },
-    {
-      "title": "Yahoo Finance (Zacks) — Stock Market News for Nov 17, 2026",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-17-134200250.html"
-    },
-    {
-      "title": "NVIDIA (GlobeNewswire) — NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
-      "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+      "title": "Swissinfo (Bloomberg) — US Futures Rally as Anthropic Debut Takes Focus: Markets Wrap",
+      "url": "https://www.swissinfo.ch/eng/us-futures-rally-as-anthropic-debut-takes-focus:-markets-wrap/92404209"
     }
   ]
 }

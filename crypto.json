@@ -1,149 +1,149 @@
 {
-  "generated_at": "Nov 18, 2026, 4:40 PM ET",
+  "generated_at": "Nov 19, 2026, 7:36 AM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $62,400 to $62,450 as of 4:14 p.m. ET Wednesday, down about 2.4%, after starting the day near $64,000 to $65,000; it hit a four-month low of $61,000 on Nov. 15 (CoinDesk; Fortune)."
+      "note": "About $63,700 around 7:30 a.m. ET Thursday, down about 0.5% on CoinDesk's ticker, after nearly falling to $62,000 overnight; KuCoin data showed a 2.89% drop to $63,071 in the 24 hours to midnight UTC (CoinDesk; KuCoin)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,754 as of 4:14 p.m. ET, down about 2.4%, after trading near $1,800 in the morning (CoinDesk; Fortune)."
+      "note": "About $1,796 early Thursday, roughly flat (up 0.1%) on CoinDesk's ticker; it was $1,777 at midnight UTC, down 2.61% on the day (CoinDesk; KuCoin)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.27 trillion early Wednesday per CoinGecko data, down 0.1% over 24 hours, before the afternoon pullback in Bitcoin and Ether (CoinGabbar; CapitalStreetFX)."
+      "note": "About $2.24 trillion, down 2.1% over 24 hours, per CoinGecko data at 1:30 a.m. UTC Thursday (CoinGabbar)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 57% per CoinGecko-based figures early Wednesday, with Ether at about 9.7% (CoinGabbar; CapitalStreetFX)."
+      "note": "About 56.6% per CoinGecko data early Thursday, with Ether at about 9.7% (CoinGabbar)."
     }
   ],
   "themes": [
     {
-      "title": "Crypto lags tech stocks",
-      "summary": "Bitcoin and Ether each fell about 2.4% by late afternoon while the Nasdaq finished higher (CoinDesk; Yahoo Finance).",
+      "title": "Anthropic IPO lifts risk appetite",
+      "summary": "Bitcoin recovered toward $64,000 as Nasdaq 100 futures rose nearly 2% ahead of Anthropic's record IPO; an FxPro analyst said IPO money could flow back into crypto (CoinDesk).",
+      "confidence": "developing"
+    },
+    {
+      "title": "Seventh weekly loss in view",
+      "summary": "Bitcoin is on track for a seventh straight weekly decline, which would be its second-longest losing streak after nine weeks in 2022, and trades more than 7% below its 200-week moving average (CoinDesk).",
+      "confidence": "developing"
+    },
+    {
+      "title": "ETF outflows deepen",
+      "summary": "U.S. spot Bitcoin ETFs have seen about $2.9 billion of net outflows so far in November, up from about $500 million in October, per CoinDesk (CoinDesk).",
       "confidence": "confirmed"
     },
     {
-      "title": "Fed minutes add little new",
-      "summary": "October minutes showed two of 12 voters wanted a hike; CoinDesk called them old news given recent hawkish Fed comments, with a December increase widely expected (CoinDesk).",
+      "title": "Fed hike weighs on crypto",
+      "summary": "October Fed minutes showed most officials expected further rate increases, and markets price a December quarter-point hike as highly likely (CoinDesk; KuCoin).",
       "confidence": "confirmed"
     },
     {
-      "title": "Short-term holders under water",
-      "summary": "CryptoQuant said short-term Bitcoin holders are about 20% below their cost basis, the widest gap since July, and flagged $62,000 to $65,000 as the nearest support (CoinDesk).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "ETF outflows and extreme fear",
-      "summary": "U.S. spot Bitcoin ETFs had $239.9 million of net outflows on Tuesday and Ether ETFs $29.1 million, while the Fear and Greed Index sat around 11 (CapitalStreetFX; CoinGabbar).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Crypto treasury firms pare holdings",
-      "summary": "CoinShares sold all its treasury Ether and half its Solana to fund buybacks, and Strategy's STRC preferred fell to its lowest since August (CoinDesk).",
+      "title": "Sentiment at extreme fear",
+      "summary": "The Fear and Greed Index fell to 10 from 11 a day earlier and 55 a month ago, per Alternative.me data (CoinGabbar; KuCoin).",
       "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Both down about 2.4% by late afternoon, with Bitcoin near $62,400 and Ether near $1,754 (CoinDesk)."
+      "note": "Bitcoin near $63,700 and Ether near $1,796 early Thursday after overnight declines (CoinDesk)."
     },
     {
       "name": "Altcoins",
-      "note": "XRP briefly touched $1.00 and Solana traded near $75 early in the day; Litecoin was down about 2.3% by midday GMT (CapitalStreetFX; CoinDesk)."
+      "note": "XRP traded near $0.98 and Solana near $74; CoinDesk noted Solana testing support around $73.50 (CoinDesk)."
     },
     {
       "name": "DeFi",
-      "note": "DeFi market cap fell 3.1% to about $58.9 billion over 24 hours per CoinGecko data (CoinGabbar)."
+      "note": "DeFi market cap fell 2% to about $57.7 billion over 24 hours per CoinGecko data (CoinGabbar)."
     },
     {
       "name": "Stablecoins",
-      "note": "Stablecoin market cap rose 0.1% to about $283.2 billion per CoinGecko data (CoinGabbar)."
+      "note": "Stablecoin market cap slipped 0.3% to about $292.4 billion per CoinGecko data (CoinGabbar)."
     }
   ],
   "watch_list": [
     {
-      "topic": "Anthropic's debut Thursday",
-      "why": "Bloomberg reported the IPO priced at $83 a share, above its expected range; crypto has been tracking tech sentiment (CoinDesk; Yahoo Finance).",
+      "topic": "Anthropic's Nasdaq debut",
+      "why": "Trading is expected around 10 a.m. ET; Hyperliquid pre-IPO contracts priced shares above $100, versus the $83 IPO price (CoinDesk).",
       "confidence": "developing"
     },
     {
       "topic": "$62,000 support level",
-      "why": "CryptoQuant and CapitalStreetFX flagged about $62,000 as nearby support, close to Wednesday afternoon's price; the Nov. 15 low was $61,000 (CoinDesk; CapitalStreetFX).",
+      "why": "Bitcoin nearly reached $62,000 overnight; KuCoin's report flagged $62,000 as support, with $65,000-$66,000 as resistance (CoinDesk; KuCoin).",
       "confidence": "developing"
     },
     {
-      "topic": "Fed meeting Dec. 8-9",
-      "why": "CME FedWatch has shown about a 96% chance of a December rate increase, with Governor Waller calling for a half-point move (CoinDesk).",
+      "topic": "Token unlocks and Japan CPI",
+      "why": "LayerZero (ZRO) and KAITO token unlocks and Japan's October CPI are scheduled for Nov. 20 (KuCoin).",
       "confidence": "confirmed"
     }
   ],
   "movers": [
     {
-      "name": "Brevis (BREV)",
-      "pct": 92.3,
-      "note": "Top 24-hour gainer in early-Wednesday CoinGecko data, which the report linked to small-token speculation (CoinGabbar)."
+      "name": "WASTED",
+      "pct": 141.8,
+      "note": "Top 24-hour gainer in CoinGecko data at 1:30 a.m. UTC (CoinGabbar)."
     },
     {
-      "name": "Radix (XRD)",
-      "pct": 55.4,
+      "name": "Irys (IRYS)",
+      "pct": 71.9,
       "note": "Among the top 24-hour gainers in CoinGecko data (CoinGabbar)."
     },
     {
-      "name": "Melania Meme (MELANIA)",
-      "pct": 8.13,
-      "note": "Top gainer in CoinCodex's early-Wednesday daily update (CoinCodex)."
+      "name": "Terra Classic (LUNC)",
+      "pct": 25.73,
+      "note": "Top gainer in CoinCodex's 6:00 a.m. UTC daily update (CoinCodex)."
     },
     {
       "name": "Bitcoin (BTC)",
-      "pct": -2.4,
-      "note": "Down about 2.4% to roughly $62,400 as of 4:14 p.m. ET (CoinDesk)."
+      "pct": -2.08,
+      "note": "Down 2.08% over 24 hours to about $63,349 in CoinCodex's 6:00 a.m. UTC update (CoinCodex)."
     },
     {
       "name": "Ethereum (ETH)",
-      "pct": -2.4,
-      "note": "Down about 2.4% to about $1,754 as of 4:14 p.m. ET (CoinDesk)."
+      "pct": -0.66,
+      "note": "Down 0.66% over 24 hours to about $1,798 in CoinCodex's update (CoinCodex)."
     },
     {
-      "name": "LayerZero (ZRO)",
-      "pct": -10.91,
-      "note": "Top 24-hour loser in CoinCodex's early-Wednesday daily update (CoinCodex)."
+      "name": "Brevis (BREV)",
+      "pct": -23.9,
+      "note": "Top 24-hour loser in CoinGecko data after leading gainers a day earlier (CoinGabbar)."
     }
   ],
   "sources": [
     {
-      "title": "CoinDesk — Live updates: Bitcoin falls below $63,000, with Strategy's STRC hitting lowest since August",
-      "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
+      "title": "CoinDesk — Live BTC prices: Bitcoin nears $64,000 as Anthropic's record IPO lifts tech",
+      "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech"
     },
     {
-      "title": "Fortune — Current price of Bitcoin for November 18, 2026",
-      "url": "https://fortune.com/article/price-of-bitcoin-11-18-2026/"
+      "title": "CoinDesk — Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut"
     },
     {
-      "title": "CoinGabbar — Crypto News Nov 18: BTC Falls 0.9% Amid FOMC Minutes and Fed Hike Bets (CoinGecko data)",
-      "url": "https://www.coingabbar.com/en/crypto-news-nov-18-bitcoin-eth-brevis-price-fed-fomc-minutes"
+      "title": "KuCoin — Crypto Daily Market Report, November 19, 2026",
+      "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-19-2026"
     },
     {
-      "title": "CapitalStreetFX — Bitcoin Pinned At $64,000, Ether Holds $1,800 And XRP Tests $1 As Crypto Braces For The Fed Minutes",
-      "url": "https://www.capitalstreetfx.com/market-analysis/daily-crypto-report-18-nov-2026/"
+      "title": "CoinGabbar — Crypto News Nov 19: Bitcoin Falls 2.7% as FOMC Minutes Signal Fed Hike (CoinGecko data)",
+      "url": "https://www.coingabbar.com/en/crypto-news-nov-19-bitcoin-gold-silver-dips-fed-meeting-minutes"
     },
     {
-      "title": "CoinCodex — Daily Market Update for Nov 18, 2026",
-      "url": "https://coincodex.com/article/95565/daily-market-update-for-november-18-2026/"
+      "title": "CoinCodex — Daily Market Update for Nov 19, 2026",
+      "url": "https://coincodex.com/article/95625/daily-market-update-for-november-19-2026"
     },
     {
-      "title": "Yahoo Finance — Stock market today: Dow and S&P 500 slide, Nasdaq rises in anticipation of Anthropic IPO",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
+      "title": "Yahoo Finance (Reuters) — Nasdaq futures jump as Anthropic's record IPO pricing fuels hopes for strong debut",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
     },
     {
       "title": "CoinGecko — Cryptocurrency Prices, Charts, and Crypto Market Cap",
       "url": "https://www.coingecko.com/"
     },
     {
-      "title": "CoinDesk — Bitcoin (BTC) price drops as basis trade dries up and Fed minutes loom",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"
+      "title": "CoinDesk — CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+      "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day"
     }
   ]
 }
