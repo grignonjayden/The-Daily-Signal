@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 18, 2026, 1:53 PM ET",
+  "generated_at": "Nov 18, 2026, 10:39 PM ET",
   "date_key": "2026-11-18",
   "sections": [
     {
@@ -22,26 +22,26 @@
         },
         {
           "name": "Canadian dollar",
-          "value": "$0.6997 US",
+          "value": "$0.6980 US",
           "delta": {
-            "value": "0.03¢ US",
+            "value": "0.17¢ US",
             "label": "vs day before",
-            "dir": "up"
+            "dir": "down"
           },
-          "note": "What 1 Canadian dollar buys in U.S. dollars. US$1 = C$1.4291.",
-          "as_of": "Bank of Canada · Nov 17, 2026",
+          "note": "What 1 Canadian dollar buys in U.S. dollars. US$1 = C$1.4326.",
+          "as_of": "Bank of Canada · Nov 18, 2026",
           "url": "https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/"
         },
         {
           "name": "5-year Canada bond yield",
           "value": "3.53%",
           "delta": {
-            "value": "6 bps",
+            "value": "0 bps",
             "label": "vs day before",
-            "dir": "down"
+            "dir": "flat"
           },
           "note": "Fixed mortgage rates tend to follow this yield.",
-          "as_of": "Bank of Canada · Nov 16, 2026",
+          "as_of": "Bank of Canada · Nov 17, 2026",
           "url": "https://www.bankofcanada.ca/rates/interest-rates/bond-yields/benchmark-bond-yields/"
         }
       ]
@@ -85,7 +85,7 @@
             "dir": "flat"
           },
           "note": "Big banks’ advertised rate. Most borrowers get a lower, discounted rate.",
-          "as_of": "Bank of Canada (weekly) · Nov 11, 2026",
+          "as_of": "Bank of Canada (weekly) · Nov 18, 2026",
           "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/posted-interest-rates-offered-by-chartered-banks/"
         },
         {
@@ -97,7 +97,7 @@
             "dir": "flat"
           },
           "note": "Typical rate banks pay on a 1-year guaranteed investment certificate.",
-          "as_of": "Bank of Canada (weekly) · Nov 11, 2026",
+          "as_of": "Bank of Canada (weekly) · Nov 18, 2026",
           "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/posted-interest-rates-offered-by-chartered-banks/"
         }
       ]
