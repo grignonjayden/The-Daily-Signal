@@ -1,125 +1,125 @@
 {
-  "generated_at": "Nov 19, 2026, 12:45 PM ET (Thursday midday, session in progress)",
+  "generated_at": "Nov 19, 2026, 4:45 PM ET (Thursday close)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Down 618.97 points, or 1.23%, at 49,579.20 as of 12:31 p.m. ET Thursday, after falling more than 1,000 points at its low; it closed Wednesday down 1.11% at 50,198.17 (Yahoo Finance)."
+      "note": "Closed down 1,101.11 points, or 2.19%, at 49,097.06 on Thursday, ending below 50,000 after Wednesday's 1.11% drop (Yahoo Finance)."
     },
     {
       "index": "S&P 500",
-      "note": "Down 45.64 points, or 0.62%, at 7,277.99 midday Thursday, reversing an early gain of about 1% that had put it on track to snap a five-session losing streak (Yahoo Finance; BNN Bloomberg)."
+      "note": "Closed down 147.80 points, or 2.02%, at 7,175.83, a sixth straight losing session after an early gain of about 1% faded (Yahoo Finance; StockTitan)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Down 77.47 points, or 0.32%, at 24,352.42 as of 12:31 p.m. ET, after rising about 1.6% in early trading ahead of Anthropic's debut (Yahoo Finance; BNN Bloomberg)."
+      "note": "Closed down 550.69 points, or 2.25%, at 23,879.20, reversing an early rally tied to Anthropic's debut (Yahoo Finance)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "December futures were up $0.70, or 0.85%, at $83.01 midday Thursday, after WTI fell 3.2% Wednesday to its lowest level since late August (Yahoo Finance)."
+      "note": "December futures were up $0.77, or 0.94%, at $83.08 late Thursday, recovering part of Wednesday's 3.2% slide; Middle East shipping attacks offset worries about a supply surplus (Yahoo Finance; RTÉ)."
     }
   ],
   "themes": [
     {
-      "title": "Anthropic soars in debut",
-      "summary": "Anthropic opened at $111.50, 34.3% above its $83 IPO price, after a record $81.3 billion raise; it traded near $100.54, up about 21%, at 12:31 p.m. ET (Yahoo Finance; CNN).",
+      "title": "Anthropic closes up 17% in debut",
+      "summary": "Anthropic opened at $111.50, 34% above its $83 IPO price after a record raise of about $81.3 billion, then closed at $97.17, up 17.07% (Yahoo Finance; StockTitan).",
       "confidence": "confirmed"
     },
     {
-      "title": "Early rally fades",
-      "summary": "Stocks opened higher on the Anthropic debut but reversed, with the Dow down more than 1,000 points at its low and the S&P 500 heading for a sixth straight decline (Yahoo Finance; BNN Bloomberg).",
-      "confidence": "developing"
+      "title": "Broad selloff, Dow loses 1,100 points",
+      "summary": "An early rally faded and all three major indexes fell about 2% or more; the VIX volatility index rose about 14% to near 28, among its highest levels since March (Yahoo Finance; StockTitan).",
+      "confidence": "confirmed"
     },
     {
       "title": "AMD hit by short report",
-      "summary": "AMD fell roughly 8% to 11% after short seller Hunterbrook published a report questioning its China ties, and chip stocks gave up early gains (Yahoo Finance; CoinDesk).",
-      "confidence": "developing"
-    },
-    {
-      "title": "Health care selloff extends",
-      "summary": "UnitedHealth fell about 5% and was on track for an 18% drop over five days as investors rotated out of health care (Yahoo Finance).",
+      "summary": "AMD fell roughly 8% to 9% after short seller Hunterbrook questioned its China ties; Nvidia, Broadcom and other AI names also declined (Yahoo Finance; StockTitan).",
       "confidence": "confirmed"
     },
     {
-      "title": "Walmart beats; data mixed",
-      "summary": "Walmart reported revenue of $188.8 billion and adjusted EPS of $0.65, both above estimates, and raised its outlook; the Philadelphia Fed index fell to 6.3 from 20.9 and jobless claims rose to 203,000 (Yahoo Finance; CoinDesk).",
+      "title": "Health care selloff extends",
+      "summary": "UnitedHealth fell about 5% to 5.5% as the rotation out of health care continued; Johnson & Johnson and Merck also slipped (Yahoo Finance; TokenPost; StockTitan).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Walmart beats; data soft",
+      "summary": "Walmart reported revenue of $188.8 billion and raised its outlook but its stock slipped about 1%; the Philadelphia Fed index fell to 6.3 from 20.9 and jobless claims rose to 203,000 (Yahoo Finance; StockTitan).",
       "confidence": "confirmed"
     }
   ],
   "sectors": [
     {
       "name": "Semiconductors / AI",
-      "note": "Tech (XLK) fell more than 1% midday as Nvidia and Broadcom turned negative and Micron lost early gains; Intel and Qualcomm were higher (Yahoo Finance).",
-      "momentum": 35
+      "note": "Weak: AMD fell about 8% to 9%, and Nvidia, Broadcom, CoreWeave and Nebius were all lower in the afternoon (StockTitan; Yahoo Finance).",
+      "momentum": 25
     },
     {
       "name": "Health Care",
-      "note": "Weak again, led lower by UnitedHealth's roughly 5% drop (Yahoo Finance).",
+      "note": "Lower again, led by UnitedHealth's drop of about 5%, with Johnson & Johnson and Merck also down (Yahoo Finance; StockTitan).",
       "momentum": 15
     },
     {
       "name": "Consumer / Retail",
-      "note": "Walmart was down more than 1% in the morning despite beating estimates and raising its outlook; October retail sales rose slightly (CoinDesk; Yahoo Finance).",
-      "momentum": 40
+      "note": "Consumer staples had the largest sector decline; Walmart slipped about 1% and Williams-Sonoma fell more than 13%, while PDD rose more than 10% (Eurasia Business News; StockTitan).",
+      "momentum": 30
     },
     {
       "name": "Energy",
-      "note": "Oil steadied, with WTI up about 0.85% near $83 after Wednesday's 3.2% slide (Yahoo Finance).",
-      "momentum": 45
+      "note": "Oil rose about 1% after reports of tanker attacks near the Strait of Hormuz, following Wednesday's drop to its lowest since late August (RTÉ; Yahoo Finance).",
+      "momentum": 50
     }
   ],
   "watch_list": [
     {
       "topic": "Anthropic's next sessions",
-      "why": "Its trading after a record IPO is being watched for signs of demand for large AI listings, including OpenAI's IPO plans (Yahoo Finance).",
+      "why": "The stock closed well below its first trade and slipped about 1.5% after hours; its IPO sale is expected to close Friday, Nov. 20 (Yahoo Finance; StockTitan).",
       "confidence": "developing"
     },
     {
-      "topic": "Chip export rules and AMD",
-      "why": "Washington is weighing tighter chip export rules as AMD faces questions over its China ties (Yahoo Finance).",
-      "confidence": "developing"
-    },
-    {
-      "topic": "Fed meeting Dec. 8-9",
-      "why": "Traders price near-certainty of a December rate increase per LSEG data, and some officials were open to a larger move, per Fed minutes (Reuters via Yahoo Finance; CoinDesk).",
+      "topic": "After-the-bell earnings",
+      "why": "Intuit, Ross Stores and Gap were scheduled to report after Thursday's close (StockTitan).",
       "confidence": "confirmed"
+    },
+    {
+      "topic": "Fed decision Dec. 9",
+      "why": "Prediction markets price a high chance of a quarter-point rate increase at the December meeting (Ted Pillows; Altcoin Buzz).",
+      "confidence": "developing"
     }
   ],
   "sources": [
     {
-      "title": "Yahoo Finance — Stock market today: Dow drops 1,000 points, S&P 500 and Nasdaq tank as Anthropic stock surges in public debut",
+      "title": "Yahoo Finance — Stock market today: Dow sinks 1,100 points, S&P 500 and Nasdaq tank 2% as Anthropic IPO grabs spotlight",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     },
     {
-      "title": "BNN Bloomberg (AP) — A soaring debut for Anthropic's stock is not enough to carry Wall Street, and indexes drop",
-      "url": "https://www.bnnbloomberg.ca/markets/2026/11/19/wall-street-looks-set-to-halt-its-losing-streak-after-anthropics-ipo-revives-ai-stocks/"
+      "title": "StockTitan — Stock Market Today Live, November 19, 2026: Stocks Slide on the Day Anthropic Begins Trading",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
     },
     {
-      "title": "CNN — Anthropic starts trading at $111.50 a share, after record IPO",
-      "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
+      "title": "Eurasia Business News — Stock Market Today, November 19, 2026: Dow Sinks 1,084 Points, Nasdaq Drops 2.2% After Anthropic Debut",
+      "url": "https://eurasiabusinessnews.com/2026/11/19/stock-market-today-november-19-2026-dow-sinks-1084-points-nasdaq-drops-2-2-after-anthropic-debut/"
     },
     {
-      "title": "CoinDesk — Live updates: Bitcoin falls as strong Anthropic opening fails to lift animal spirits",
-      "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech"
+      "title": "RTÉ (Reuters) — Oil up as shipping attacks counter supply surplus outlook",
+      "url": "https://www.rte.ie/news/business/2026/1119/1599805-world-oil-prices/"
     },
     {
-      "title": "Yahoo Finance (Reuters) — Nasdaq futures jump as Anthropic's record IPO pricing fuels hopes for strong debut",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
+      "title": "TokenPost — Bitcoin Falls 2.6% as Dow Drops 1,014 Points; VIX Reaches 28.21",
+      "url": "https://www.tokenpost.com/news/investing/61563"
     },
     {
-      "title": "Yahoo Finance — Stock market today: Dow and S&P 500 slide, Nasdaq rises in anticipation of Anthropic IPO",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
+      "title": "Ted Pillows — Crypto & Finance market report, Thursday, November 19, 2026",
+      "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-2a5"
     },
     {
-      "title": "24/7 Wall St. — Stock Market Today: Anthropic IPO Revives the AI Trade, but Fear Is Growing",
-      "url": "https://247wallst.com/investing/2026/11/19/stock-market-today-anthropic-ipo-revives-the-ai-trade-but-fear-is-growing/"
-    },
-    {
-      "title": "FXStreet — Anthropic stock surges to $111 at Nasdaq debut",
-      "url": "https://www.fxstreet.com/news/anthropic-stocks-surges-to-111-at-nasdaq-debut-202611191656"
+      "title": "Altcoin Buzz — 14% Weekly Drop Sends Bitcoin to $62K as Fear Index Sits Near 11",
+      "url": "https://www.altcoinbuzz.io/14-weekly-drop-sends-bitcoin-to-62k-as-fear-index-sits-near-11"
     },
     {
       "title": "WTOP (AP) — How major US stock indexes fared Wednesday 11/18/2026",
       "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-18-2026"
+    },
+    {
+      "title": "Yahoo Finance — Stock market today: Dow and S&P 500 slide, Nasdaq rises in anticipation of Anthropic IPO",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
     }
   ]
 }
