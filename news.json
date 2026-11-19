@@ -1,103 +1,102 @@
 {
-  "generated_at": "Nov 19, 2026, 12:15 PM ET",
+  "generated_at": "Nov 19, 2026, 6:44 PM ET",
   "date_key": "2026-11-19",
   "articles": [
     {
-      "title": "Stocks making the biggest moves midday: Anthropic, Coherent, AMD & more",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
-      "snippet": "Follow along as CNBC covers the biggest stock market moves of the day.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108555269-17950991862026-11-19t142742z_434583134_rc22roaoyfyn_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795099200&w=1920&h=1080",
-      "time": "Nov 19, 12:13 PM"
+      "title": "Trans Mountain oil shipments jump as upgrades boost pipeline capacity",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-trans-mountain-oil-shipments-upgrades-expansion-pipeline-capacity/",
+      "snippet": "High demand driven by production growth in Alberta and global energy crisis exacerbated by war in Iran",
+      "image": "https://www.theglobeandmail.com/resizer/v2/5OFF3ZBXEZGLRNHZGGPFQQJT74.JPG?auth=d381900d0ce7e7bf50c389cf9d1a118cea8f24cc44bdde9c2cc98071439d1210&smart=true&width=7980&height=5320",
+      "time": "Nov 19, 6:22 PM"
     },
     {
-      "title": "We're adding to a consumer stock as the market enters oversold territory",
+      "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/19/were-adding-to-a-consumer-stock-as-the-market-enters-oversold-territory.html",
-      "snippet": "The S&P Oscillator officially moved into oversold territory after Wednesday's session.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554309-17950192062026-11-18t162222z_659947811_rc2dqoayx25y_rtrmadp_0_usa-stocks.jpeg?v=1795033008&w=1920&h=1080",
-      "time": "Nov 19, 12:12 PM"
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+      "snippet": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&w=1920&h=1080",
+      "time": "Nov 19, 6:21 PM"
     },
     {
-      "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap in debut",
+      "title": "TPG, Corpay to Buy Finance Platform BILL for About $6 Billion",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/business/deals/tpg-corpay-to-buy-finance-platform-bill-for-about-6-billion-9f8be10c?mod=rss_markets_main",
+      "snippet": "BILL will be acquired in a deal worth about $6 billion, with TPG set to buy a majority stake and Corpay agreeing to buy a minority interest.",
+      "image": "https://images.wsj.net/im-605619",
+      "time": "Nov 19, 6:19 PM"
+    },
+    {
+      "title": "Anthropic closes debut with $1.8 trillion market cap in landmark moment for AI: Live IPO updates",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
       "snippet": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
       "image": "https://image.cnbcfm.com/api/v1/image/108555351-17951018662026-11-19t151417z_1636203947_rc21road8kpz_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795101963&w=1920&h=1080",
-      "time": "Nov 19, 12:11 PM"
+      "time": "Nov 19, 6:17 PM"
     },
     {
-      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "snippet": "“Our financial and healthcare situation has become increasingly concerning.”",
-      "image": "https://images.mktw.net/im-96657818",
-      "time": "Nov 19, 12:00 PM"
+      "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+      "snippet": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556064-1795129228949-gettyimages-2305334314-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
+      "time": "Nov 19, 6:15 PM"
     },
     {
-      "title": "Anthropic’s IPO Is a Win for Venture. Its Success Could Reshape the Industry.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/pro/venture-capital/anthropics-ipo-is-a-win-for-venture-its-success-could-reshape-the-industry-2bfdecc0?mod=rss_markets_main",
-      "snippet": "The Claude chatbot maker’s backers invested capital at an unprecedented scale into the artificial-intelligence giant in a departure from venture’s usual playbook.",
-      "image": "https://images.wsj.net/im-11165819",
-      "time": "Nov 19, 11:53 AM"
-    },
-    {
-      "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
-      "snippet": "A number of public pension plans already have a stake in Anthropic.",
-      "image": "https://images.mktw.net/im-33118409",
-      "time": "Nov 19, 11:53 AM"
-    },
-    {
-      "title": "Elon Musk insists he’s not MAGA, feels ‘pretty foolish’ for spending millions on U.S. midterms",
+      "title": "Has Canada’s stock market outperformance run its course?",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/us-politics/article-elon-musk-trump-maga-midterm-spending/",
-      "snippet": "Musk, who has based himself and several of his companies in Texas, spent more than US$400-million on Trump-aligned Republicans",
-      "image": "https://www.theglobeandmail.com/resizer/v2/34YMEP6Z7RDUFKUOZ432BRQRRQ.jpg?auth=c65c3516afb9dab87b7a386047512ec50db83bbffc20bcec5035df5d2ffe578d&smart=true&width=6000&height=4000",
-      "time": "Nov 19, 11:52 AM"
+      "url": "https://www.theglobeandmail.com/business/article-has-canadas-stock-market-outperformance-run-its-course/",
+      "snippet": "Global strife, uncertainty brought on by Trump administration’s policies generated relative windfall for Canadian investors. That may be coming to an end.",
+      "image": "https://www.theglobeandmail.com/resizer/v2/RHGTJBTRDJDA5PZH2DDJPREMEI.JPG?auth=591030ba09cc8c181d92323d6f531fa5490109c6ba6a2f8e2ac7cc78d43ec09a&smart=true&width=2000&height=1331",
+      "time": "Nov 19, 6:13 PM"
     },
     {
-      "title": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
+      "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
-      "snippet": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
-      "image": "https://images.mktw.net/im-27440136",
-      "time": "Nov 19, 11:52 AM"
+      "url": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+      "snippet": "All 11 sectors of the S&P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
+      "image": "https://images.mktw.net/im-70376549",
+      "time": "Nov 19, 6:11 PM"
     },
     {
-      "title": "Anthropic draws bullish Wall Street calls ahead of Nasdaq debut",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-anthropic-draws-bullish-wall-street-calls-ahead-of-nasdaq-debut/",
-      "snippet": "Stock set to open 26.5% higher than its IPO price",
-      "image": "https://www.theglobeandmail.com/pf/resources/assets/meta/facebook-1200x630.png?d=995",
-      "time": "Nov 19, 11:39 AM"
-    },
-    {
-      "title": "Treasury Yields Rise Amid Anthropic Euphoria",
+      "title": "Opinion | Last Week’s Outages Were Only the Start",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/jgbs-edge-higher-amid-mixed-developments-c690e1af?mod=rss_markets_main",
-      "snippet": "Treasury yields edged higher as the Anthropic IPO rekindled risk appetite on Wall Street.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 19, 11:02 AM"
+      "url": "https://www.wsj.com/opinion/last-weeks-outages-were-only-the-start-361c19ed?mod=rss_markets_main",
+      "snippet": "With AI’s power growing faster than we can keep up, we can expect a difficult two to three years.",
+      "image": "https://opinion-images.wsj.net/im-89199574",
+      "time": "Nov 19, 5:57 PM"
     },
     {
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+      "snippet": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
+      "image": "https://images.mktw.net/im-05993865",
+      "time": "Nov 19, 5:53 PM"
+    },
+    {
+      "title": "Anthropic’s IPO Mints New Millionaires",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main",
-      "snippet": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
-      "image": "https://images.wsj.net/im-16030868",
-      "time": "Nov 19, 10:52 AM"
+      "url": "https://www.wsj.com/finance/investing/anthropics-ipo-mints-new-millionaires-5dbb6289?mod=rss_markets_main",
+      "snippet": "Plus, GOP Senators are suspending their push for extra military spending, and hackers leaked data from Visa, Mastercard and JPMorgan customers.",
+      "image": "https://images.wsj.net/im-29708872",
+      "time": "Nov 19, 5:41 PM"
     },
     {
-      "title": "Banking regulator aims to level playing field between small and big banks",
+      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+      "snippet": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+      "image": "https://images.mktw.net/im-92945277",
+      "time": "Nov 19, 5:41 PM"
+    },
+    {
+      "title": "Why is the federal government fighting to keep the Stellantis Brampton plant open? Ask our reporter",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-osfi-banking-regulation-capital-requirements-small-banks-competition/",
-      "snippet": "Armed with a new competition mandate, OSFI will ease capital requirements for small and medium-sized lenders",
-      "image": "https://www.theglobeandmail.com/resizer/v2/4PPRW2RWGBE4DPLZSG4YRKYOKA.JPG?auth=80f72e94cafa7e2e4b9476f51fcbfd46f599c9d68d9d34d4b2adca33975a3b91&smart=true&width=4500&height=3013",
-      "time": "Nov 19, 10:30 AM"
+      "url": "https://www.theglobeandmail.com/business/article-stellantis-brampton-sale-reader-questions/",
+      "snippet": "Transportation reporter Eric Atkins will answer reader questions on the sale, the government’s involvement and what could happen next",
+      "image": "https://www.theglobeandmail.com/resizer/v2/PA72VN4OJZDOJKOFMMHBIV4LWQ.JPG?auth=2536690ef2fb03c7fd14544215d29c6b09f14c12dc30577c54578f9f9cfcb184&smart=true&width=5039&height=3359",
+      "time": "Nov 19, 5:28 PM"
     }
   ],
   "official": [
@@ -166,64 +165,64 @@
   ],
   "ticker": [
     {
-      "time": "12:06 PM",
-      "title": "CNBC — Stocks tumble as investors take profits following blockbuster Anthropic IPO: Live updates",
-      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+      "time": "5:41 PM",
+      "title": "WSJ Markets — WSJ Dollar Index Rises to New 52-Week High",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main"
     },
     {
-      "time": "12:01 PM",
-      "title": "CNBC — Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
-      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
+      "time": "5:38 PM",
+      "title": "CNBC — Stocks making the biggest moves Thursday: Intuit, Gap, Anthropic, Ross Stores & more",
+      "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html"
     },
     {
-      "time": "11:53 AM",
-      "title": "CNBC — AMD falls on short-seller report of alleged China exposure",
-      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+      "time": "5:23 PM",
+      "title": "CNBC — Congress passes bill to protect older investors from financial fraud",
+      "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html"
     },
     {
-      "time": "11:49 AM",
-      "title": "MarketWatch — Anthropic’s IPO poses this big risk to an already shaky stock market",
-      "url": "https://www.marketwatch.com/story/anthropics-ipo-poses-this-big-risk-to-an-already-shaky-stock-market-83ce7794?mod=mw_rss_topstories"
+      "time": "5:18 PM",
+      "title": "Globe and Mail — Stellantis workers left in limbo as car plant’s future is determined",
+      "url": "https://www.theglobeandmail.com/business/article-stellantis-workers-in-limbo-as-future-of-car-plant-is-determined/"
     },
     {
-      "time": "11:37 AM",
-      "title": "CNBC — Booking a Hilton stay? Stack a 20% discount, 5,000 bonus points and up to 200,000 points in card bonus offers",
-      "url": "https://www.cnbc.com/select/stack-hilton-hotels-promotions/"
+      "time": "5:18 PM",
+      "title": "WSJ Markets — Opinion | Guess Who’s Coming to Mecca",
+      "url": "https://www.wsj.com/opinion/guess-whos-coming-to-mecca-5a865bd3?mod=rss_markets_main"
     },
     {
-      "time": "11:31 AM",
-      "title": "CNBC — Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html"
+      "time": "5:15 PM",
+      "title": "MarketWatch — We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories"
     },
     {
-      "time": "11:29 AM",
-      "title": "CNBC — Gold's bad year is getting worse. Why its price keeps falling",
-      "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html"
+      "time": "5:12 PM",
+      "title": "MarketWatch — Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories"
     },
     {
-      "time": "11:28 AM",
-      "title": "CNBC — Josh Brown says the breakout potential in this stock is staring investors in the face",
-      "url": "https://www.cnbc.com/2026/11/19/josh-brown-says-the-breakout-potential-in-this-stock-is-staring-investors-in-the-face.html"
+      "time": "5:10 PM",
+      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
+      "url": "https://www.wsj.com/finance/commodities-futures/basic-materials-roundup-market-talk-e522fa66?mod=rss_markets_main"
     },
     {
-      "time": "11:28 AM",
-      "title": "CNBC — Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html"
+      "time": "5:08 PM",
+      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-c03399ba?mod=rss_markets_main"
     },
     {
-      "time": "11:27 AM",
-      "title": "MarketWatch — A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-      "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories"
+      "time": "5:08 PM",
+      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-fcde730a?mod=rss_markets_main"
     },
     {
-      "time": "11:21 AM",
-      "title": "MarketWatch — Want to create more competition in grocery delivery? Let DoorDash and Instacart merge.",
-      "url": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories"
+      "time": "5:05 PM",
+      "title": "WSJ Markets — Tech, Media & Telecom Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-3e9085fc?mod=rss_markets_main"
     },
     {
-      "time": "11:15 AM",
-      "title": "CNBC — Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
-      "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html"
+      "time": "5:05 PM",
+      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-65309a9d?mod=rss_markets_main"
     }
   ]
 }
