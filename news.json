@@ -1,71 +1,30 @@
 {
-  "generated_at": "Nov 19, 2026, 2:50 AM ET",
+  "generated_at": "Nov 19, 2026, 12:15 PM ET",
   "date_key": "2026-11-19",
   "articles": [
     {
-      "title": "Eurozone Bond Yields Fall Ahead of Spanish, French Bond Auctions",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/jgbs-edge-higher-amid-mixed-developments-c690e1af?mod=rss_markets_main",
-      "snippet": "Eurozone government bond yields fell, shrugging off interest-rate hike expectations and heavy bond supply on Thursday.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 19, 2:48 AM"
-    },
-    {
-      "title": "Nasdaq-100 futures gain as traders gear up for Anthropic’s highly anticipated debut: Live updates",
+      "title": "Stocks making the biggest moves midday: Anthropic, Coherent, AMD & more",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-      "snippet": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554307-17950192062026-11-18t162223z_189106541_rc2dqoahnid0_rtrmadp_0_usa-stocks.jpeg?v=1795019320&w=1920&h=1080",
-      "time": "Nov 19, 2:39 AM"
+      "url": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
+      "snippet": "Follow along as CNBC covers the biggest stock market moves of the day.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108555269-17950991862026-11-19t142742z_434583134_rc22roaoyfyn_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795099200&w=1920&h=1080",
+      "time": "Nov 19, 12:13 PM"
     },
     {
-      "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+      "title": "We're adding to a consumer stock as the market enters oversold territory",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-      "snippet": "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554895-1795063172662-gettyimages-2305255397-AFP_D7X963Y.jpeg?v=1795073160&w=1920&h=1080",
-      "time": "Nov 19, 2:38 AM"
+      "url": "https://www.cnbc.com/investingclub/2026/11/19/were-adding-to-a-consumer-stock-as-the-market-enters-oversold-territory.html",
+      "snippet": "The S&P Oscillator officially moved into oversold territory after Wednesday's session.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108554309-17950192062026-11-18t162222z_659947811_rc2dqoayx25y_rtrmadp_0_usa-stocks.jpeg?v=1795033008&w=1920&h=1080",
+      "time": "Nov 19, 12:12 PM"
     },
     {
-      "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
+      "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap in debut",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
-      "snippet": "Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554917-1795067694140-gettyimages-2305267954-AFP_D7XJ9X3.jpeg?v=1795067710&w=1920&h=1080",
-      "time": "Nov 19, 2:32 AM"
-    },
-    {
-      "title": "Time for Copper-Focused BHP to Show How It Can Grow",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/time-for-copper-focused-bhp-to-show-how-it-can-grow-a713515a?mod=rss_markets_main",
-      "snippet": "The world’s most valuable miner is hosting an investor tour of its Australian copper operations next week, a year after it reassured investors that it had plenty of options to produce more copper as global demand for…",
-      "image": "https://images.wsj.net/im-48367735",
-      "time": "Nov 19, 2:06 AM"
-    },
-    {
-      "title": "Asian Equities Mixed Amid Cautious Market Sentiment",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/asian-equities-decline-as-caution-prevails-eaf3c1e9?mod=rss_markets_main",
-      "snippet": "Expectations for higher interest rates and renewed concerns over technology stocks kept investors cautious.",
-      "image": "https://images.wsj.net/im-70521971",
-      "time": "Nov 19, 12:42 AM"
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "snippet": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-      "image": "https://images.mktw.net/im-04093243",
-      "time": "Nov 18, 10:45 PM"
-    },
-    {
-      "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "snippet": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-      "image": "https://images.mktw.net/im-72281427",
-      "time": "Nov 18, 10:45 PM"
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "snippet": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108555351-17951018662026-11-19t151417z_1636203947_rc21road8kpz_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795101963&w=1920&h=1080",
+      "time": "Nov 19, 12:11 PM"
     },
     {
       "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
@@ -73,34 +32,93 @@
       "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
       "snippet": "“Our financial and healthcare situation has become increasingly concerning.”",
       "image": "https://images.mktw.net/im-96657818",
-      "time": "Nov 18, 10:30 PM"
+      "time": "Nov 19, 12:00 PM"
     },
     {
-      "title": "BCE has held talks with Telus as it considers response to Quebecor’s takeover proposal",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-bce-held-talks-with-telus-as-it-considers-response-to-quebecors/",
-      "snippet": "Quebecor’s $31-billion bid to acquire Telus has raised questions about competition and the future of Canada’s telecom industry",
-      "image": "https://www.theglobeandmail.com/resizer/v2/BILDJENTCZC6LFQC75OGE7KTGQ.JPG?auth=b3c7ca27143d1624a57b9d9397903edc2c1163b580598c81f0450351160cef0c&smart=true&width=3287&height=2191",
-      "time": "Nov 18, 8:22 PM"
+      "title": "Anthropic’s IPO Is a Win for Venture. Its Success Could Reshape the Industry.",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/pro/venture-capital/anthropics-ipo-is-a-win-for-venture-its-success-could-reshape-the-industry-2bfdecc0?mod=rss_markets_main",
+      "snippet": "The Claude chatbot maker’s backers invested capital at an unprecedented scale into the artificial-intelligence giant in a departure from venture’s usual playbook.",
+      "image": "https://images.wsj.net/im-11165819",
+      "time": "Nov 19, 11:53 AM"
     },
     {
-      "title": "Grand Theft Auto VI release highlights risk of disruption in global digital infrastructure",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/article-grand-theft-auto-vi-release-insurance-digital-infrastructure/",
-      "snippet": "Scale of demand underscores how much modern businesses depend on digital infrastructure – and the risks insurers face when it fails",
-      "image": "https://www.theglobeandmail.com/resizer/v2/NFP2MG4LLVBIJCZCWO3LEMBSNU.JPG?auth=e2b81f8b9545bcb317bd1771c0bd684f170052681c6ab02506db88e47d29fc28&smart=true&width=5254&height=3503",
-      "time": "Nov 18, 5:15 PM"
+      "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
+      "snippet": "A number of public pension plans already have a stake in Anthropic.",
+      "image": "https://images.mktw.net/im-33118409",
+      "time": "Nov 19, 11:53 AM"
     },
     {
-      "title": "Quebecor’s bid for Telus is bad for Canada. The CEO himself said it",
+      "title": "Elon Musk insists he’s not MAGA, feels ‘pretty foolish’ for spending millions on U.S. midterms",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-quebecors-bid-for-telus-is-bad-for-canada-the-ceo-himself-said-it/",
-      "snippet": "The Competition Bureau should challenge the deal under the new presumptions rather than negotiate conditions",
-      "image": "https://www.theglobeandmail.com/resizer/v2/AZ2KNWMONJBA3MDLUT2EJCWNDM.JPG?auth=69a5bdfb9abbe24aa9f55999494a809c4e7cc5d6ac9cea2ac1b49001545b782c&smart=true&width=3622&height=2414",
-      "time": "Nov 18, 5:03 PM"
+      "url": "https://www.theglobeandmail.com/world/us-politics/article-elon-musk-trump-maga-midterm-spending/",
+      "snippet": "Musk, who has based himself and several of his companies in Texas, spent more than US$400-million on Trump-aligned Republicans",
+      "image": "https://www.theglobeandmail.com/resizer/v2/34YMEP6Z7RDUFKUOZ432BRQRRQ.jpg?auth=c65c3516afb9dab87b7a386047512ec50db83bbffc20bcec5035df5d2ffe578d&smart=true&width=6000&height=4000",
+      "time": "Nov 19, 11:52 AM"
+    },
+    {
+      "title": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
+      "snippet": "The cloud-services business of Chinese internet giant Alibaba is thriving — but the losses from the artificial-intelligence labs business is completely offsetting it.",
+      "image": "https://images.mktw.net/im-27440136",
+      "time": "Nov 19, 11:52 AM"
+    },
+    {
+      "title": "Anthropic draws bullish Wall Street calls ahead of Nasdaq debut",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-anthropic-draws-bullish-wall-street-calls-ahead-of-nasdaq-debut/",
+      "snippet": "Stock set to open 26.5% higher than its IPO price",
+      "image": "https://www.theglobeandmail.com/pf/resources/assets/meta/facebook-1200x630.png?d=995",
+      "time": "Nov 19, 11:39 AM"
+    },
+    {
+      "title": "Treasury Yields Rise Amid Anthropic Euphoria",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/jgbs-edge-higher-amid-mixed-developments-c690e1af?mod=rss_markets_main",
+      "snippet": "Treasury yields edged higher as the Anthropic IPO rekindled risk appetite on Wall Street.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 19, 11:02 AM"
+    },
+    {
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main",
+      "snippet": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
+      "image": "https://images.wsj.net/im-16030868",
+      "time": "Nov 19, 10:52 AM"
+    },
+    {
+      "title": "Banking regulator aims to level playing field between small and big banks",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-osfi-banking-regulation-capital-requirements-small-banks-competition/",
+      "snippet": "Armed with a new competition mandate, OSFI will ease capital requirements for small and medium-sized lenders",
+      "image": "https://www.theglobeandmail.com/resizer/v2/4PPRW2RWGBE4DPLZSG4YRKYOKA.JPG?auth=80f72e94cafa7e2e4b9476f51fcbfd46f599c9d68d9d34d4b2adca33975a3b91&smart=true&width=4500&height=3013",
+      "time": "Nov 19, 10:30 AM"
     }
   ],
   "official": [
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+      "snippet": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 19, 11:00 AM"
+    },
+    {
+      "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+      "source": "U.S. SEC",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+      "snippet": "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million. The defendants…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 19, 9:39 AM"
+    },
     {
       "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
       "source": "Federal Reserve",
@@ -137,15 +155,6 @@
       "time": "Nov 16, 5:00 AM"
     },
     {
-      "title": "Agencies extend comment period for proposed third-party risk management guidance",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-      "snippet": "Agencies extend comment period for proposed third-party risk management guidance",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 13, 4:15 PM"
-    },
-    {
       "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
@@ -157,64 +166,64 @@
   ],
   "ticker": [
     {
-      "time": "1:29 AM",
-      "title": "CNBC — Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
-      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html"
+      "time": "12:06 PM",
+      "title": "CNBC — Stocks tumble as investors take profits following blockbuster Anthropic IPO: Live updates",
+      "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
     },
     {
-      "time": "1:07 AM",
-      "title": "CNBC — Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
-      "url": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html"
+      "time": "12:01 PM",
+      "title": "CNBC — Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
+      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
     },
     {
-      "time": "12:34 AM",
-      "title": "CNBC — The 'exceptional' dollar scenario that forced Deutsche Bank to change its FX forecasts",
-      "url": "https://www.cnbc.com/2026/11/19/exceptional-dollar-setup-made-deutsche-bank-change-fx-forecasts.html"
+      "time": "11:53 AM",
+      "title": "CNBC — AMD falls on short-seller report of alleged China exposure",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
     },
     {
-      "time": "Nov 18",
-      "title": "WSJ Markets — Anthropic Raises $81 Billion in Biggest IPO Ever",
-      "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c?mod=rss_markets_main"
+      "time": "11:49 AM",
+      "title": "MarketWatch — Anthropic’s IPO poses this big risk to an already shaky stock market",
+      "url": "https://www.marketwatch.com/story/anthropics-ipo-poses-this-big-risk-to-an-already-shaky-stock-market-83ce7794?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 18",
-      "title": "CNBC — 'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
-      "url": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html"
+      "time": "11:37 AM",
+      "title": "CNBC — Booking a Hilton stay? Stack a 20% discount, 5,000 bonus points and up to 200,000 points in card bonus offers",
+      "url": "https://www.cnbc.com/select/stack-hilton-hotels-promotions/"
     },
     {
-      "time": "Nov 18",
-      "title": "CNBC — Musk says Jensen Huang is irreplaceable, regrets midterm spending",
-      "url": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html"
+      "time": "11:31 AM",
+      "title": "CNBC — Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html"
     },
     {
-      "time": "Nov 18",
-      "title": "WSJ Markets — Singapore Dollar Consolidates, but May Be Weighed by Fed Rate-Hike Expectations",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main"
+      "time": "11:29 AM",
+      "title": "CNBC — Gold's bad year is getting worse. Why its price keeps falling",
+      "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html"
     },
     {
-      "time": "Nov 18",
-      "title": "WSJ Markets — Wall Street Pledged to Mobilize $500 Billion for Nvidia—But Hasn’t Put Up a Dime",
-      "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?mod=rss_markets_main"
+      "time": "11:28 AM",
+      "title": "CNBC — Josh Brown says the breakout potential in this stock is staring investors in the face",
+      "url": "https://www.cnbc.com/2026/11/19/josh-brown-says-the-breakout-potential-in-this-stock-is-staring-investors-in-the-face.html"
     },
     {
-      "time": "Nov 18",
-      "title": "CNBC — Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+      "time": "11:28 AM",
+      "title": "CNBC — Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html"
     },
     {
-      "time": "Nov 18",
-      "title": "WSJ Markets — Oil Falls, Weighed by Larger-Than-Expected Rise in U.S. Inventories",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-larger-than-expected-rise-in-u-s-inventories-0271b977?mod=rss_markets_main"
+      "time": "11:27 AM",
+      "title": "MarketWatch — A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 18",
-      "title": "MarketWatch — Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories"
+      "time": "11:21 AM",
+      "title": "MarketWatch — Want to create more competition in grocery delivery? Let DoorDash and Instacart merge.",
+      "url": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 18",
-      "title": "CNBC — Dealbook Summit 2026 live updates: Musk says he feels ‘pretty foolish’ for having spent so much on midterms",
-      "url": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html"
+      "time": "11:15 AM",
+      "title": "CNBC — Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+      "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html"
     }
   ]
 }
