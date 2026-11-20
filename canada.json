@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 19, 2026, 11:28 PM ET",
+  "generated_at": "Nov 19, 2026, 11:34 PM ET",
   "date_key": "2026-11-19",
   "sections": [
     {
@@ -386,8 +386,8 @@
   ],
   "feed_status": [
     {
-      "source": "Finance Canada",
-      "fetched": 20,
+      "source": "CBC News",
+      "fetched": 40,
       "kept": 2
     },
     {
@@ -396,12 +396,7 @@
       "kept": 1
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
-    },
-    {
-      "source": "ISED",
+      "source": "Finance Canada",
       "fetched": 20,
       "kept": 2
     },
@@ -411,14 +406,19 @@
       "kept": 2
     },
     {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 1
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 2
     },
     {
       "source": "C.D. Howe Institute",
       "fetched": 24,
       "kept": 2
+    },
+    {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 1
     }
   ]
 }
