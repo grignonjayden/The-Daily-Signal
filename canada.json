@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 19, 2026, 10:28 PM ET",
+  "generated_at": "Nov 19, 2026, 11:28 PM ET",
   "date_key": "2026-11-19",
   "sections": [
     {
@@ -145,6 +145,201 @@
           "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701"
         }
       ]
+    },
+    {
+      "key": "invest",
+      "title": "Where Ottawa Is Investing",
+      "icon": "building",
+      "caption": "Federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice",
+      "items": [
+        {
+          "name": "Defence & security",
+          "value": "$700B+",
+          "note": "Forecast defence spending over 5 years. On track for 4% of GDP this decade, 5% by 2035.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://occ.ca/rapidpolicy/2026-federal-budget/"
+        },
+        {
+          "name": "Major projects",
+          "value": "$125B+",
+          "note": "Investment in 21 nation-building projects (LNG, mines, ports, power lines) run through the Major Projects Office.",
+          "as_of": "Spring Economic Update · Apr 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/04/spring-economic-update-2026-key-measures.html"
+        },
+        {
+          "name": "Electricity & energy",
+          "value": "$50B+",
+          "note": "National Electricity Strategy, plus $518.5M for nuclear and $2B+ for heat pump rebates.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
+        },
+        {
+          "name": "Indigenous communities",
+          "value": "$50B+",
+          "note": "Over 10 years, including $32B for First Nations housing and infrastructure.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
+        },
+        {
+          "name": "Housing",
+          "value": "$44.7B",
+          "note": "Over 11 years to build the homes Canada needs, including Build Canada Homes.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
+        },
+        {
+          "name": "Canada Strong Fund",
+          "value": "$25B",
+          "note": "Canada’s first sovereign wealth fund. It invests alongside private money in Canadian projects and companies.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
+        },
+        {
+          "name": "Forestry",
+          "value": "$6.5B",
+          "note": "Over six years to transform the forest sector.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
+        },
+        {
+          "name": "Critical minerals",
+          "value": "$2.3B",
+          "note": "Mine-to-market strategy, plus a $2B accelerator run by Export Development Canada.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://budget.canada.ca/2026/report-rapport/chap1-en.html"
+        },
+        {
+          "name": "AI & tech",
+          "value": "Up to $1.6B",
+          "note": "Investment in Canadian AI company Cohere. BDC is also putting $700M into defence and dual-use tech.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://budget.canada.ca/2026/report-rapport/chap1-en.html"
+        },
+        {
+          "name": "Culture & media",
+          "value": "$600M",
+          "note": "For audio and screen industries (the Canada Media Fund’s area), plus $300M for CBC/Radio-Canada.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
+        }
+      ]
+    },
+    {
+      "key": "deals",
+      "type": "list",
+      "title": "Deals in the Works",
+      "icon": "signal",
+      "caption": "Federal investment news from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
+      "items": [
+        {
+          "title": "Canada makes case for U.S. trade deal sooner rather than later in private meeting",
+          "url": "https://www.cp24.com/news/canada/2026/11/20/canada-makes-case-for-us-trade-deal-sooner-rather-than-later-in-private-meeting/",
+          "source": "CP24",
+          "badge": "CP24",
+          "analysis": false,
+          "sector": "Infrastructure",
+          "time": "Nov 20"
+        },
+        {
+          "title": "$2.5B water bomber investment not enough to fight fires, wildland firefighters say",
+          "url": "https://www.cp24.com/news/canada/2026/11/19/25b-water-bomber-investment-not-enough-to-fight-fires-wildland-firefighters-say/",
+          "source": "CP24",
+          "badge": "CP24",
+          "analysis": false,
+          "sector": "General",
+          "time": "Nov 19"
+        },
+        {
+          "title": "Trump administration auctions deep-sea mining leases near American Samoa in first sale of its kind",
+          "url": "https://www.cp24.com/news/world/2026/11/19/trump-administration-auctions-deep-sea-mining-leases-near-american-samoa-in-first-sale-of-its-kind/",
+          "source": "CP24",
+          "badge": "CP24",
+          "analysis": false,
+          "sector": "Minerals",
+          "time": "Nov 19"
+        },
+        {
+          "title": "Canada’s Immigration Plan Explained: What Do the 2027 Targets Really Mean?",
+          "url": "https://cdhowe.org/publication/canadas-immigration-plan-explained-what-do-the-2027-targets-really-mean-2/",
+          "source": "C.D. Howe Institute",
+          "badge": "CDH",
+          "analysis": true,
+          "sector": "Infrastructure",
+          "time": "Nov 19"
+        },
+        {
+          "title": "MPs clash over Sunday sitting as marathon study of Carney's major projects bill continues",
+          "url": "https://www.cbc.ca/news/politics/bill-c39-committee-carney-major-projects-pipelines-9.7428363?cmp=rss",
+          "source": "CBC News",
+          "badge": "CBC",
+          "analysis": false,
+          "sector": "Infrastructure",
+          "time": "Nov 19"
+        },
+        {
+          "title": "A $27.5-billion deficit revision raises questions Parliament should address",
+          "url": "https://cdhowe.org/publication/a-27-5-billion-deficit-revision-raises-questions-parliament-should-address/",
+          "source": "C.D. Howe Institute",
+          "badge": "CDH",
+          "analysis": true,
+          "sector": "General",
+          "time": "Nov 19"
+        },
+        {
+          "title": "Reaching interim U.S. trade agreement would kickstart new CUSMA talks, minister says",
+          "url": "https://www.cbc.ca/news/politics/canada-seeking-interim-trade-arrangment-9.7428540?cmp=rss",
+          "source": "CBC News",
+          "badge": "CBC",
+          "analysis": false,
+          "sector": "Trade",
+          "time": "Nov 19"
+        },
+        {
+          "title": "Minister Joly to announce investment to expand Canada’s automobile industry",
+          "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-joly-to-announce-investment-to-expand-canadas-automobile-industry.html",
+          "source": "ISED",
+          "badge": "ISED",
+          "analysis": false,
+          "sector": "Infrastructure",
+          "time": "Nov 19"
+        },
+        {
+          "title": "Ottawa’s Budget is Bold, Too Big, and Unfinished",
+          "url": "https://cdhowe.org/publication/ottawas-budget-is-bold-too-big-and-unfinished/",
+          "source": "C.D. Howe Institute",
+          "badge": "CDH",
+          "analysis": true,
+          "sector": "General",
+          "time": "Nov 19"
+        },
+        {
+          "title": "Cadets being told to stand down as Canada adds billions to defence",
+          "url": "https://www.cbc.ca/news/politics/defence-budget-cadets-cuts-training-9.7426967?cmp=rss",
+          "source": "CBC News",
+          "badge": "CBC",
+          "analysis": false,
+          "sector": "Defence",
+          "time": "Nov 18"
+        },
+        {
+          "title": "Joint Outcomes of the 2nd Canada-China Economic and Financial Strategic Dialogue",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/joint-outcomes-of-the-2nd-canada-china-economic-and-financial-strategic-dialogue.html",
+          "source": "Finance Canada",
+          "badge": "FIN",
+          "analysis": false,
+          "sector": "General",
+          "time": "Nov 16"
+        },
+        {
+          "title": "Government of Canada tables plan to ease grocery costs, support homeownership, and encourage new home construction",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-tables-plan-to-ease-grocery-costs-support-homeownership-and-encourage-new-home-construction.html",
+          "source": "Finance Canada",
+          "badge": "FIN",
+          "analysis": false,
+          "sector": "Media",
+          "time": "Nov 16"
+        }
+      ]
     }
   ],
   "sources": [
@@ -159,6 +354,71 @@
     {
       "title": "Statistics Canada",
       "url": "https://www150.statcan.gc.ca/n1/dai-quo/index-eng.htm"
+    },
+    {
+      "title": "Budget 2026",
+      "url": "https://budget.canada.ca/2026/home-accueil-en.html"
+    },
+    {
+      "title": "CBC News",
+      "url": "https://www.cbc.ca/news/business"
+    },
+    {
+      "title": "CP24",
+      "url": "https://www.cp24.com/"
+    },
+    {
+      "title": "ISED",
+      "url": "https://ised-isde.canada.ca/site/ised/en"
+    },
+    {
+      "title": "CDEV",
+      "url": "https://cdev.gc.ca/"
+    },
+    {
+      "title": "Canada Media Fund",
+      "url": "https://cmf-fmc.ca/"
+    },
+    {
+      "title": "C.D. Howe Institute",
+      "url": "https://www.cdhowe.org/"
+    }
+  ],
+  "feed_status": [
+    {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 3
+    },
+    {
+      "source": "Finance Canada",
+      "fetched": 20,
+      "kept": 3
+    },
+    {
+      "source": "Canada Media Fund",
+      "fetched": 24,
+      "kept": 3
+    },
+    {
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 3
+    },
+    {
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
+      "kept": 3
+    },
+    {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 3
     }
   ]
 }
