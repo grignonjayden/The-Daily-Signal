@@ -6,7 +6,7 @@
       "key": "invest",
       "title": "Where Ottawa Is Investing",
       "icon": "building",
-      "caption": "Federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice",
+      "caption": "Biggest federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice",
       "items": [
         {
           "name": "Defence & security",
@@ -47,7 +47,15 @@
           "note": "Over 11 years to build the homes Canada needs, including Build Canada Homes.",
           "as_of": "Budget 2026 · Nov 5, 2026",
           "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
-        },
+        }
+      ]
+    },
+    {
+      "key": "invest2",
+      "title": "Funds & Growing Industries",
+      "icon": "chip",
+      "caption": "More federal commitments from Budget 2026 · amounts are multi-year, not investment advice",
+      "items": [
         {
           "name": "Canada Strong Fund",
           "icon": "coin",

@@ -360,7 +360,8 @@ const prevGov = existsSync(GOV_OUT) ? JSON.parse(readFileSync(GOV_OUT, 'utf8')) 
 try { dealItems = await deals(); } catch (e) { console.error('!', e.message); dealItems = (prevGov && prevGov.items) || []; }
 
 const sections = [
-  { key: 'invest', title: 'Where Ottawa Is Investing', icon: 'building', caption: 'Federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice', items: SECTORS },
+  { key: 'invest', title: 'Where Ottawa Is Investing', icon: 'building', caption: 'Biggest federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice', items: SECTORS.slice(0, 5) },
+  { key: 'invest2', title: 'Funds & Growing Industries', icon: 'chip', caption: 'More federal commitments from Budget 2026 · amounts are multi-year, not investment advice', items: SECTORS.slice(5) },
   { key: 'daily', title: 'Today in Canada', icon: 'car', caption: 'Updates daily', items: [...g, ...fx, ...b5] },
   { key: 'rates', title: 'Borrowing & Saving', icon: 'bank', caption: 'Bank of Canada data · updates daily and weekly', items: [...pol, ...prime, ...mort, ...gic] },
   { key: 'living', title: 'Cost of Living & Jobs', icon: 'cart', caption: 'Statistics Canada · updates monthly', items: col },
@@ -380,7 +381,7 @@ if (dealItems.length) writeFileSync(GOV_OUT, JSON.stringify({
   feed_status: feedStatus,
 }, null, 2) + '\n');
 
-if (!sections.some(s => s.key !== 'invest')) { console.error('Nothing fetched; keeping existing canada.json'); process.exit(0); }
+if (!sections.some(s => !s.key.startsWith('invest'))) { console.error('Nothing fetched; keeping existing canada.json'); process.exit(0); }
 
 const out = {
   generated_at: now.toLocaleString('en-US', { timeZone: TZ, month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' ET',
