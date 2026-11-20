@@ -230,18 +230,20 @@ const DEAL_FEEDS = [
   { source: 'CP24', badge: 'CP24', news: true, urls: ['https://www.cp24.com/arc/outboundfeeds/rss/?outputType=xml', 'https://www.cp24.com/arc/outboundfeeds/rss/category/news/?outputType=xml'] },
   { source: 'ISED', badge: 'ISED', urls: [GC('departmentofindustry'), GC('departmentindustry'), GC('innovationscienceeconomicdevelopment')] },
   { source: 'Finance Canada', badge: 'FIN', urls: [GC('departmentfinance')] },
-  { source: 'CDEV', badge: 'CDEV', urls: ['https://cdev.gc.ca/feed/', 'https://www.cdev.gc.ca/feed/'] },
-  { source: 'Canada Media Fund', badge: 'CMF', urls: ['https://cmf-fmc.ca/feed/', 'https://cmf-fmc.ca/news/feed/'] },
+  { source: 'CDEV', badge: 'CDEV', maxDays: 90, urls: ['https://cdev.gc.ca/feed/', 'https://www.cdev.gc.ca/feed/'] },
+  { source: 'Canada Media Fund', badge: 'CMF', maxDays: 45, urls: ['https://cmf-fmc.ca/feed/', 'https://cmf-fmc.ca/news/feed/'] },
   { source: 'C.D. Howe Institute', badge: 'CDH', analysis: true, urls: ['https://www.cdhowe.org/feed', 'https://www.cdhowe.org/rss.xml'] },
 ];
 const DEAL_RE = /invest|fund|billion|million|\bdeal\b|agreement|partnership|contract|procure|acqui|stake|loan|major project|MOU|memorandum|build canada|canada strong/i;
-const FED_RE = /federal|ottawa|carney|government|minister|crown|canada strong|major projects|champagne|joly|budget/i;
+const FED_RE = /federal|ottawa|carney|crown corp|canada strong|major projects|champagne|joly|government of canada/i;
 const ANALYSIS_RE = /invest|budget|fiscal|defence|housing|energy|trade|tariff|productivity|infrastructure|\bAI\b|mineral|major project|sovereign/i;
 const SECTOR_TAGS = [
-  ['Defence', /defen[cs]e|military|armed forces|submarine|drone|nato/i], ['Housing', /housing|homes|build canada homes/i],
-  ['Energy', /energy|electric|nuclear|LNG|pipeline|hydro|oil|gas\b|power/i], ['Minerals', /mineral|mine|mining|graphite|lithium|nickel|tungsten/i],
-  ['AI & tech', /\bAI\b|artificial intelligence|quantum|semiconductor|tech|cohere|data cent/i], ['Media', /media|film|television|\bTV\b|journalis|screen|CBC/i],
-  ['Infrastructure', /infrastructure|rail|port|highway|transit|bridge|airport/i], ['Trade', /trade|tariff|export|agreement/i],
+  ['Defence', /defen[cs]e|military|armed forces|submarine|drone|nato|water ?bomber/i], ['Housing', /housing|\bhomes?\b|homeownership|mortgage/i],
+  ['Energy', /energy|electricity|nuclear|\bLNG\b|pipeline|hydro|\boil\b|natural gas|power grid/i], ['Minerals', /mineral|\bmines?\b|mining|graphite|lithium|nickel|tungsten/i],
+  ['AI & tech', /\bAI\b|artificial intelligence|quantum|semiconductor|technolog|cohere|data cent/i], ['Autos', /auto(mobile|motive)?\b|\bEVs?\b|electric vehicle/i],
+  ['Media', /\bmedia\b|\bfilm|television|\bTV\b|journalis|screen|\bCBC\b|creator|audiovisual/i],
+  ['Infrastructure', /infrastructure|major projects|\brail|\bports?\b|highway|transit|bridge|airport/i], ['Trade', /trade|tariff|export|CUSMA/i],
+  ['Budget', /budget|deficit|fiscal|\btax/i],
 ];
 const xdecode = s => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').replace(/<[^>]+>/g, ' ')
   .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;|&apos;|&#8217;|&rsquo;/g, '’')
@@ -260,7 +262,6 @@ async function readFeed(url) {
 }
 const feedStatus = [];
 async function deals() {
-  const cutoff = Date.now() - 21 * 864e5;
   const all = [];
   await Promise.all(DEAL_FEEDS.map(async f => {
     const got = [];
@@ -268,22 +269,22 @@ async function deals() {
     const seen = new Set();
     const keep = got.filter(i => {
       if (seen.has(i.title)) return false; seen.add(i.title);
-      if (!i.date || i.date < cutoff) return false;
+      if (!i.date || i.date < Date.now() - (f.maxDays || 21) * 864e5) return false;
       const t = i.title + ' ' + i.summary;
-      if (f.news) return DEAL_RE.test(t) && FED_RE.test(t);
+      if (f.news) return DEAL_RE.test(t) && FED_RE.test(t) && !/trump administration|american samoa/i.test(i.title);
       if (f.analysis) return ANALYSIS_RE.test(t);
       return DEAL_RE.test(t);
-    }).sort((a, b) => b.date - a.date).slice(0, 3);
+    }).sort((a, b) => b.date - a.date).slice(0, 2);
     feedStatus.push({ source: f.source, fetched: got.length, kept: keep.length });
     keep.forEach(i => all.push({
       title: i.title, url: i.url, source: f.source, badge: f.badge, analysis: !!f.analysis,
-      sector: (SECTOR_TAGS.find(([, re]) => re.test(i.title + ' ' + i.summary)) || ['General'])[0],
+      sector: (SECTOR_TAGS.find(([, re]) => re.test(i.title)) || SECTOR_TAGS.find(([, re]) => re.test(i.summary)) || ['General'])[0],
       time: i.date.toLocaleDateString('en-CA', { month: 'short', day: 'numeric', timeZone: TZ }), ts: i.date.getTime(),
     }));
   }));
   all.sort((a, b) => b.ts - a.ts);
   if (!all.length) throw new Error('Deals: no headlines');
-  return all.slice(0, 12).map(({ ts, ...rest }) => rest);
+  return all.slice(0, 14).map(({ ts, ...rest }) => rest);
 }
 
 // ---------- assemble ----------
