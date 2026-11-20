@@ -979,7 +979,7 @@ function renderBriefing(data, dateKey) {
   if (Array.isArray(data.market_pulse) && data.market_pulse.length) {
     const widget = widgetShell('w-span-8', 'pulse', 'var(--pink-soft)', 'var(--pink-deep)', 'Market Pulse');
     widget.dataset.top = '1';
-    widget.appendChild(el('p', { className: 'widget-desc', text: 'A quick snapshot of how the major stock indexes and oil moved in the latest trading session: up, down or flat.' }));
+    widget.appendChild(el('p', { className: 'widget-desc', text: 'A quick snapshot of how the major stock indexes and oil moved in the latest trading session: up, down or flat. The bar under each one shows how big the move was: Big drop means it fell 1.5% or more, Calm means it barely moved (less than 0.5% either way), and Big gain means it rose 1.5% or more. The steps in between are a slight dip or slight gain.' }));
     const scroll = el('div', { className: 'pulse-scroll' });
     data.market_pulse.forEach((p, i) => {
       const dir = inferDirection(p.note);
@@ -1116,7 +1116,7 @@ function renderCrypto(data, dateKey) {
   if (Array.isArray(data.market_pulse) && data.market_pulse.length) {
     const widget = widgetShell('w-span-8', 'pulse', 'var(--pink-soft)', 'var(--pink-deep)', 'Crypto Pulse');
     widget.dataset.top = '1';
-    widget.appendChild(el('p', { className: 'widget-desc', text: 'A quick snapshot of where Bitcoin, Ethereum and the overall crypto market stand right now: up, down or flat.' }));
+    widget.appendChild(el('p', { className: 'widget-desc', text: 'A quick snapshot of where Bitcoin, Ethereum and the overall crypto market stand right now: up, down or flat. The bar under each one shows how big the move was over the last 24 hours: Big drop means it fell 1.5% or more, Calm means it barely moved (less than 0.5% either way), and Big gain means it rose 1.5% or more. Crypto swings more than stocks, so big moves show up more often here.' }));
     const scroll = el('div', { className: 'pulse-scroll' });
     data.market_pulse.forEach((p, i) => {
       const dir = inferDirection(p.note);
