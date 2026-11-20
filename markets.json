@@ -1,117 +1,117 @@
 {
-  "generated_at": "Nov 20, 2026, 12:45 PM ET (Friday midday; session still open)",
+  "generated_at": "Nov 20, 2026, 4:45 PM ET (Friday close)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Down about 0.4% to 0.5% at midday Friday, near 48,880, after closing Thursday at 49,097.06; it had been up about 0.7% early in the session (24/7 Wall St.; Motley Fool; StockTitan)."
+      "note": "Closed Friday at about 48,147, down 1.9%, and finished about 8% lower for the week; the index is now in correction, more than 10% below its record (AP; MarketScreener)."
     },
     {
       "index": "S&P 500",
-      "note": "Down about 1.9% at midday Friday, near 7,041, on track for a seventh straight loss after Thursday's close at 7,175.83; Bloomberg calls it the longest losing run since 2020 (24/7 Wall St.; Motley Fool)."
+      "note": "Closed at about 6,910, down 3.7%, a seventh straight loss and the longest losing streak since 2020; it ended in correction, more than 10% below its Oct. 6 record, and fell about 8.6% for the week (AP; MarketScreener)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Down about 3.3% to 3.4% at midday Friday, near 23,070, the weakest of the major indexes as chip stocks sold off (24/7 Wall St.; Motley Fool)."
+      "note": "Closed at about 22,618, down 5.3%, turning negative for 2026; it lost about 10% for the week, just shy of its worst week since March 2020 (AP; MarketScreener)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "December futures rose 42 cents, or 0.5%, to $83.63 Friday morning but were down almost 6% for the week, a third straight weekly decline (Reuters via RTÉ)."
+      "note": "January WTI rose 1.2% to settle at $83.41 a barrel and the expiring December contract rose 0.9% to $83.98, but oil posted a third straight weekly loss; Brent settled at $92.57, down 3.4% for the week (Rigzone/Bloomberg)."
     }
   ],
   "themes": [
     {
-      "title": "Chip selloff deepens",
-      "summary": "Micron fell about 11% to 13% and AMD about 10% to 11% by late morning, with Broadcom down about 9%, TSMC about 7% and Nvidia about 7%; AMD denied a short-seller report about a China problem (StockTitan; Motley Fool; 24/7 Wall St.).",
+      "title": "Chip stocks lead the rout",
+      "summary": "Nvidia fell about 14%, Micron about 14%, AMD about 13% and SanDisk about 16%, per MarketScreener; AP said the PHLX Semiconductor Index was down about 9% in the afternoon (MarketScreener; AP).",
       "confidence": "confirmed"
     },
     {
-      "title": "Anthropic extends post-IPO slide",
-      "summary": "Anthropic shares traded near $86 late Friday morning, down about 11% from Thursday's $97.17 close, adding to doubts about returns on AI spending (StockTitan).",
+      "title": "S&P 500 and Dow in correction",
+      "summary": "Both indexes closed more than 10% below their records, the S&P 500's first correction since March 2025, and its weekly loss was the worst since April 2025 (AP; CBS News).",
       "confidence": "confirmed"
     },
     {
-      "title": "Correction territory",
-      "summary": "Market commentators said the S&P 500 and the Dow are now about 10% below their record highs, the usual definition of a correction; this had not been confirmed by an official close at publication (24/7 Wall St.; StockTitan).",
-      "confidence": "developing"
-    },
-    {
-      "title": "Volatility at highest since March",
-      "summary": "The VIX volatility index rose above 31 Friday, its highest level since March, while gold fell about 3.7% and Bitcoin dropped below $60,000 (24/7 Wall St.; Motley Fool).",
+      "title": "Anthropic slides again",
+      "summary": "Anthropic shares fell 9.3% to $88.14 on their second trading day, still above the $83 IPO price, adding to doubts about returns on AI spending (AP; CBS News).",
       "confidence": "confirmed"
     },
     {
-      "title": "Global rout and sentiment",
-      "summary": "Taiwan's TAIEX fell 5.65%, Korea's Kospi 5.21% and Japan's Nikkei 5.06%; Germany's DAX was down 2.2%. Michigan consumer sentiment came in at 51.5 for November, up from 48.0 in October (StockTitan; 24/7 Wall St.).",
+      "title": "Bond yields ease",
+      "summary": "The 10-year Treasury yield fell to 4.91% from 5.04% late Thursday, even as markets still price a near-certain Fed rate increase in December (AP; MarketScreener).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Sentiment improves, Asia slumps",
+      "summary": "University of Michigan consumer sentiment rose to 51.5 in November from 48.0; earlier, Taiwan's Taiex, Korea's Kospi and Japan's Nikkei each fell more than 5% (StockTitan; AP).",
       "confidence": "confirmed"
     }
   ],
   "sectors": [
     {
       "name": "Technology / Semiconductors",
-      "note": "Weakest sector, down about 3.2% by mid-morning, led by Micron, AMD, Broadcom and Nvidia (24/7 Wall St.; StockTitan).",
-      "momentum": 15
+      "note": "Weakest area; the technology sector fund (XLK) was down about 5.4% in the afternoon, the worst of the 11 S&P sectors, led by chipmakers (Startup Fortune; MarketScreener).",
+      "momentum": 10
     },
     {
       "name": "Consumer Staples",
-      "note": "Leading sector, up about 2.1% by mid-morning; Walmart rose about 3% (24/7 Wall St.; Motley Fool).",
-      "momentum": 75
+      "note": "Money rotated into staples; General Mills rose about 4.4%, McCormick 3.4% and Tyson Foods 2.0% (CBS News; MarketScreener).",
+      "momentum": 72
     },
     {
       "name": "Health Care",
-      "note": "Up about 1.1% by mid-morning, with UnitedHealth up about 4% and Humana up about 5% (24/7 Wall St.; Motley Fool).",
-      "momentum": 65
+      "note": "HCA Healthcare rose about 3.3% and UnitedHealth gained after an analyst upgrade (MarketScreener).",
+      "momentum": 66
     },
     {
-      "name": "Consumer / Retail",
-      "note": "Gap jumped about 15% after third-quarter sales of $4.0 billion, while BJ's Wholesale fell about 3% after its results (StockTitan).",
-      "momentum": 55
+      "name": "Payments / Telecom",
+      "note": "Global Payments was the top S&P 500 gainer, up about 9.9%, and AT&T rose about 4.1% (MarketScreener).",
+      "momentum": 62
     }
   ],
   "watch_list": [
     {
-      "topic": "Friday close and weekly losses",
-      "why": "Whether the S&P 500 and Dow finish at least 10% below their records, confirming a correction; the Dow entered Friday down 6.2% for the week (24/7 Wall St.; StockTitan).",
-      "confidence": "developing"
+      "topic": "PCE inflation and GDP",
+      "why": "October PCE inflation and the second estimate of third-quarter GDP are due Wednesday, Nov. 25 at 8:30 AM ET (Admirals).",
+      "confidence": "confirmed"
     },
     {
-      "topic": "Fed speakers and December hike",
-      "why": "Fed Governor Lisa Cook was scheduled to speak at 12:15 PM ET Friday, with markets pricing a December rate increase (StockTitan; Coin Gabbar).",
-      "confidence": "developing"
+      "topic": "Thanksgiving week schedule",
+      "why": "U.S. markets close Thursday, Nov. 26 for Thanksgiving and close early at 1 PM ET on Friday, Nov. 27 (Admirals).",
+      "confidence": "confirmed"
     },
     {
-      "topic": "Thanksgiving week earnings",
-      "why": "Next week's earnings calendar includes Dell, alongside holiday-shopping data heading into the Thanksgiving period (StockTitan; Motley Fool).",
+      "topic": "December Fed decision",
+      "why": "Markets price a near-certain quarter-point rate increase at the Dec. 9 Fed meeting; Fed Governor Lisa Cook said Friday that waiting longer risks falling behind (Admirals; StockTitan; MarketScreener).",
       "confidence": "developing"
     }
   ],
   "sources": [
     {
-      "title": "Motley Fool — Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/"
+      "title": "AP via 2News — S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+      "url": "https://www.2news.com/news/national/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/article_ba6a6c42-13b7-5e70-a230-660a1138d62c.html"
+    },
+    {
+      "title": "MarketScreener (Reuters) — Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
+      "url": "https://www.marketscreener.com/news/wall-st-ends-sharply-lower-on-ai-selloff-s-p-500-dow-in-correction-ce785ed3dd80f527"
+    },
+    {
+      "title": "CBS News — Stocks enter correction territory, driven by a deepening tech rout",
+      "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
+    },
+    {
+      "title": "Rigzone (Bloomberg) — Oil Posts Third Weekly Loss Amid Surplus",
+      "url": "https://www.rigzone.com/news/oil_posts_third_weekly_loss_amid_surplus-20-nov-2026-185141-article"
+    },
+    {
+      "title": "Startup Fortune — S&P 500 falls into a correction as the AI selloff drags it 10% below its record",
+      "url": "https://startupfortune.com/sp-500-falls-into-a-correction-as-the-ai-selloff-drags-it-10-below-its-record/"
     },
     {
       "title": "StockTitan — Stock Market Today Live, November 20, 2026",
       "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
     },
     {
-      "title": "24/7 Wall St. — Live market updates, Nov. 20",
-      "url": "https://247wallst.com/cards/the-nasdaq-is-shedding-3-31-by-midday-while-the-dow-gives-u-gspc-market-bell-01m7wygvawtxjvw66d0rkd9qb7"
-    },
-    {
-      "title": "RTÉ (Reuters) — Oil set for third weekly decline on strong export flows",
-      "url": "https://www.rte.ie/news/business/2026/1120/1599964-world-oil-prices/"
-    },
-    {
-      "title": "Yahoo Finance — Stock market today: Dow sinks 1,100 points, S&P 500 and Nasdaq tank 2% as Anthropic IPO grabs spotlight",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
-    },
-    {
-      "title": "StockTitan — Earnings Calendar, Week of November 23, 2026",
-      "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-23-2026"
-    },
-    {
-      "title": "Coin Gabbar — Crypto News Nov 20: Bitcoin Drops 2.7% Amid Japan Risk, Fed Hike Fears",
-      "url": "https://www.coingabbar.com/en/crypto-news-today-cftc-rules-japan-risk-anthropic-bitcoin-price"
+      "title": "Admirals — Why Is the Stock Market Down Today? 20 November 2026",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-20-november-2026"
     }
   ]
 }
