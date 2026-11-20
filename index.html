@@ -1490,10 +1490,30 @@ function renderCanada(data, dateKey) {
     mainPanel.appendChild(w);
     return;
   }
-  const looks = { car: ['var(--pink-soft)', 'var(--pink-deep)'], bank: ['var(--mint-soft)', 'var(--mint-deep)'], cart: ['var(--lavender-soft)', '#4B2E6B'] };
+  const looks = { car: ['var(--pink-soft)', 'var(--pink-deep)'], bank: ['var(--mint-soft)', 'var(--mint-deep)'], cart: ['var(--lavender-soft)', '#4B2E6B'], building: ['var(--sky-soft)', 'var(--sky)'], signal: ['var(--pink-soft)', 'var(--pink-deep)'] };
   data.sections.forEach(sec => {
     const c = looks[sec.icon] || looks.bank;
     const widget = widgetShell('w-span-12', ICONS[sec.icon] ? sec.icon : 'maple', c[0], c[1], sec.title, (sec.items || []).length);
+    if (sec.type === 'list') { // headline list (Deals in the Works)
+      const list = el('div', { className: 'news-list' });
+      (sec.items || []).forEach((a, i) => {
+        const card = el('a', { className: 'news-card has-thumb', href: a.url || '#' });
+        card.style.animationDelay = (i * 0.05) + 's';
+        card.appendChild(el('div', { className: 'news-thumb-sm official', text: a.badge || (a.source || '').slice(0, 4).toUpperCase() }));
+        const body = el('div', { className: 'news-card-body' });
+        const top = el('div', { className: 'news-card-top' });
+        top.appendChild(el('span', { className: 'news-source', text: (a.source || '') + (a.analysis ? ' · Analysis' : '') }));
+        top.appendChild(el('span', { className: 'news-time', text: [a.sector, a.time].filter(Boolean).join(' · ') }));
+        body.appendChild(top);
+        body.appendChild(el('p', { className: 'news-title', text: a.title || '' }));
+        card.appendChild(body);
+        list.appendChild(card);
+      });
+      widget.appendChild(list);
+      if (sec.caption) widget.appendChild(el('p', { className: 'live-updated', text: sec.caption + ' · tap a headline for the full story' }));
+      mainPanel.appendChild(widget);
+      return;
+    }
     const scroll = el('div', { className: 'pulse-scroll' });
     (sec.items || []).forEach((it, i) => {
       const chip = el('a', { className: 'pulse-chip', href: it.url || '#' });

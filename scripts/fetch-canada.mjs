@@ -208,6 +208,84 @@ async function costOfLiving() {
   return items;
 }
 
+// ---------- Where Ottawa is investing (federal commitments; update when a new budget lands) ----------
+const BUDGET = 'https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html';
+const SECTORS = [
+  { name: 'Defence & security', value: '$700B+', note: 'Forecast defence spending over 5 years. On track for 4% of GDP this decade, 5% by 2035.', as_of: 'Budget 2026 · Nov 5, 2026', url: 'https://occ.ca/rapidpolicy/2026-federal-budget/' },
+  { name: 'Major projects', value: '$125B+', note: 'Investment in 21 nation-building projects (LNG, mines, ports, power lines) run through the Major Projects Office.', as_of: 'Spring Economic Update · Apr 2026', url: 'https://www.canada.ca/en/department-finance/news/2026/04/spring-economic-update-2026-key-measures.html' },
+  { name: 'Electricity & energy', value: '$50B+', note: 'National Electricity Strategy, plus $518.5M for nuclear and $2B+ for heat pump rebates.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+  { name: 'Indigenous communities', value: '$50B+', note: 'Over 10 years, including $32B for First Nations housing and infrastructure.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+  { name: 'Housing', value: '$44.7B', note: 'Over 11 years to build the homes Canada needs, including Build Canada Homes.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+  { name: 'Canada Strong Fund', value: '$25B', note: 'Canada’s first sovereign wealth fund. It invests alongside private money in Canadian projects and companies.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+  { name: 'Forestry', value: '$6.5B', note: 'Over six years to transform the forest sector.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+  { name: 'Critical minerals', value: '$2.3B', note: 'Mine-to-market strategy, plus a $2B accelerator run by Export Development Canada.', as_of: 'Budget 2026 · Nov 5, 2026', url: 'https://budget.canada.ca/2026/report-rapport/chap1-en.html' },
+  { name: 'AI & tech', value: 'Up to $1.6B', note: 'Investment in Canadian AI company Cohere. BDC is also putting $700M into defence and dual-use tech.', as_of: 'Budget 2026 · Nov 5, 2026', url: 'https://budget.canada.ca/2026/report-rapport/chap1-en.html' },
+  { name: 'Culture & media', value: '$600M', note: 'For audio and screen industries (the Canada Media Fund’s area), plus $300M for CBC/Radio-Canada.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+];
+
+// ---------- Deals in the works (headlines from Canadian news and federal sources) ----------
+const GC = (dept) => `https://api.io.canada.ca/io-server/gc/news/en/v2?dept=${dept}&sort=publishedDate&orderBy=desc&pick=20&format=atom`;
+const DEAL_FEEDS = [
+  { source: 'CBC News', badge: 'CBC', news: true, urls: ['https://www.cbc.ca/webfeed/rss/rss-business', 'https://www.cbc.ca/webfeed/rss/rss-politics'] },
+  { source: 'CP24', badge: 'CP24', news: true, urls: ['https://www.cp24.com/arc/outboundfeeds/rss/?outputType=xml', 'https://www.cp24.com/arc/outboundfeeds/rss/category/news/?outputType=xml'] },
+  { source: 'ISED', badge: 'ISED', urls: [GC('departmentofindustry'), GC('departmentindustry'), GC('innovationscienceeconomicdevelopment')] },
+  { source: 'Finance Canada', badge: 'FIN', urls: [GC('departmentfinance')] },
+  { source: 'CDEV', badge: 'CDEV', urls: ['https://cdev.gc.ca/feed/', 'https://www.cdev.gc.ca/feed/'] },
+  { source: 'Canada Media Fund', badge: 'CMF', urls: ['https://cmf-fmc.ca/feed/', 'https://cmf-fmc.ca/news/feed/'] },
+  { source: 'C.D. Howe Institute', badge: 'CDH', analysis: true, urls: ['https://www.cdhowe.org/feed', 'https://www.cdhowe.org/rss.xml'] },
+];
+const DEAL_RE = /invest|fund|billion|million|\bdeal\b|agreement|partnership|contract|procure|acqui|stake|loan|major project|MOU|memorandum|build canada|canada strong/i;
+const FED_RE = /federal|ottawa|carney|government|minister|crown|canada strong|major projects|champagne|joly|budget/i;
+const ANALYSIS_RE = /invest|budget|fiscal|defence|housing|energy|trade|tariff|productivity|infrastructure|\bAI\b|mineral|major project|sovereign/i;
+const SECTOR_TAGS = [
+  ['Defence', /defen[cs]e|military|armed forces|submarine|drone|nato/i], ['Housing', /housing|homes|build canada homes/i],
+  ['Energy', /energy|electric|nuclear|LNG|pipeline|hydro|oil|gas\b|power/i], ['Minerals', /mineral|mine|mining|graphite|lithium|nickel|tungsten/i],
+  ['AI & tech', /\bAI\b|artificial intelligence|quantum|semiconductor|tech|cohere|data cent/i], ['Media', /media|film|television|\bTV\b|journalis|screen|CBC/i],
+  ['Infrastructure', /infrastructure|rail|port|highway|transit|bridge|airport/i], ['Trade', /trade|tariff|export|agreement/i],
+];
+const xdecode = s => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').replace(/<[^>]+>/g, ' ')
+  .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;|&apos;|&#8217;|&rsquo;/g, '’')
+  .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
+  .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
+const xtag = (b, names) => { for (const n of names) { const m = b.match(new RegExp(`<${n}[^>]*>([\\s\\S]*?)</${n}>`, 'i')); if (m) return m[1]; } return ''; };
+async function readFeed(url) {
+  const xml = await (await get(url, { headers: { Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml' } })).text();
+  const blocks = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/gi) || [];
+  return blocks.map(b => {
+    let link = xdecode(xtag(b, ['link']));
+    if (!/^https?:/.test(link)) { const m = b.match(/<link[^>]*href="([^"]+)"/i); link = m ? m[1].replace(/&amp;/g, '&') : ''; }
+    const date = new Date(xdecode(xtag(b, ['pubDate', 'published', 'updated', 'dc:date'])));
+    return { title: xdecode(xtag(b, ['title'])), url: link, summary: xdecode(xtag(b, ['description', 'summary', 'content'])).slice(0, 400), date: isNaN(date) ? null : date };
+  }).filter(i => i.title && /^https?:/.test(i.url));
+}
+const feedStatus = [];
+async function deals() {
+  const cutoff = Date.now() - 21 * 864e5;
+  const all = [];
+  await Promise.all(DEAL_FEEDS.map(async f => {
+    const got = [];
+    for (const u of f.urls) { try { got.push(...await readFeed(u)); } catch (e) { console.error('!', f.source, e.message); } }
+    const seen = new Set();
+    const keep = got.filter(i => {
+      if (seen.has(i.title)) return false; seen.add(i.title);
+      if (!i.date || i.date < cutoff) return false;
+      const t = i.title + ' ' + i.summary;
+      if (f.news) return DEAL_RE.test(t) && FED_RE.test(t);
+      if (f.analysis) return ANALYSIS_RE.test(t);
+      return DEAL_RE.test(t);
+    }).sort((a, b) => b.date - a.date).slice(0, 3);
+    feedStatus.push({ source: f.source, fetched: got.length, kept: keep.length });
+    keep.forEach(i => all.push({
+      title: i.title, url: i.url, source: f.source, badge: f.badge, analysis: !!f.analysis,
+      sector: (SECTOR_TAGS.find(([, re]) => re.test(i.title + ' ' + i.summary)) || ['General'])[0],
+      time: i.date.toLocaleDateString('en-CA', { month: 'short', day: 'numeric', timeZone: TZ }), ts: i.date.getTime(),
+    }));
+  }));
+  all.sort((a, b) => b.ts - a.ts);
+  if (!all.length) throw new Error('Deals: no headlines');
+  return all.slice(0, 12).map(({ ts, ...rest }) => rest);
+}
+
 // ---------- assemble ----------
 const now = new Date();
 const todayIso = now.toLocaleDateString('en-CA', { timeZone: TZ });
@@ -230,14 +308,18 @@ const [g, fx, b5, pol, prime, mort, gic, col] = await Promise.all([
   safe(() => postedRate('V80691339', '1-year GIC', 'Typical rate banks pay on a 1-year guaranteed investment certificate.'), ['1-year GIC']),
   safe(costOfLiving, ['Inflation (CPI)', 'Food prices', 'Unemployment rate']),
 ]);
+let dealItems;
+try { dealItems = await deals(); } catch (e) { console.error('!', e.message); dealItems = ((prev && prev.sections) || []).find(s => s.key === 'deals')?.items || []; }
 
 const sections = [
   { key: 'daily', title: 'Today in Canada', icon: 'car', caption: 'Updates daily', items: [...g, ...fx, ...b5] },
   { key: 'rates', title: 'Borrowing & Saving', icon: 'bank', caption: 'Bank of Canada data · updates daily and weekly', items: [...pol, ...prime, ...mort, ...gic] },
   { key: 'living', title: 'Cost of Living & Jobs', icon: 'cart', caption: 'Statistics Canada · updates monthly', items: col },
+  { key: 'invest', title: 'Where Ottawa Is Investing', icon: 'building', caption: 'Federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice', items: SECTORS },
+  { key: 'deals', type: 'list', title: 'Deals in the Works', icon: 'signal', caption: 'Federal investment news from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day', items: dealItems },
 ].filter(s => s.items.length);
 
-if (!sections.length) { console.error('Nothing fetched; keeping existing canada.json'); process.exit(0); }
+if (!sections.some(s => !['invest', 'deals'].includes(s.key))) { console.error('Nothing fetched; keeping existing canada.json'); process.exit(0); }
 
 const out = {
   generated_at: now.toLocaleString('en-US', { timeZone: TZ, month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' ET',
@@ -247,7 +329,15 @@ const out = {
     { title: 'CAA gas prices', url: URLS.caa },
     { title: 'Bank of Canada', url: 'https://www.bankofcanada.ca/rates/' },
     { title: 'Statistics Canada', url: 'https://www150.statcan.gc.ca/n1/dai-quo/index-eng.htm' },
+    { title: 'Budget 2026', url: 'https://budget.canada.ca/2026/home-accueil-en.html' },
+    { title: 'CBC News', url: 'https://www.cbc.ca/news/business' },
+    { title: 'CP24', url: 'https://www.cp24.com/' },
+    { title: 'ISED', url: 'https://ised-isde.canada.ca/site/ised/en' },
+    { title: 'CDEV', url: 'https://cdev.gc.ca/' },
+    { title: 'Canada Media Fund', url: 'https://cmf-fmc.ca/' },
+    { title: 'C.D. Howe Institute', url: 'https://www.cdhowe.org/' },
   ],
+  feed_status: feedStatus,
 };
 writeFileSync(OUT, JSON.stringify(out, null, 2) + '\n');
 console.log('Wrote', OUT, sections.map(s => s.title + ': ' + s.items.map(i => i.name + ' ' + i.value + (i.stale ? ' (stale)' : '')).join(', ')).join(' | '));

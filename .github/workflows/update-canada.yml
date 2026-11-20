@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '20 10,14,18,22 * * *'   # about 5:20 AM, 9:20 AM, 1:20 PM and 5:20 PM Toronto time
   workflow_dispatch:                 # lets you run it by hand from the Actions tab
+  push:                              # also runs when the Canada script changes
+    branches: [main]
+    paths: ['scripts/fetch-canada.mjs']
 
 permissions:
   contents: write
