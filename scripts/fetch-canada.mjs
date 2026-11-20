@@ -251,12 +251,13 @@ const xdecode = s => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').replace(/<[^
   .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
 const xtag = (b, names) => { for (const n of names) { const m = b.match(new RegExp(`<${n}[^>]*>([\\s\\S]*?)</${n}>`, 'i')); if (m) return m[1]; } return ''; };
 // Picture for a headline: feed media tags first, then the article page's og:image / twitter:image.
+const BAD_IMG = /logo|\.svg|favicon|sprite|placeholder|default-share|wmms/i;
 function feedImage(b) {
   const pats = [/<media:thumbnail[^>]*url="([^"]+)"/i, /<media:content[^>]*url="([^"]+\.(?:jpe?g|png|webp)[^"]*)"/i,
     /<media:content[^>]*medium="image"[^>]*url="([^"]+)"/i, /<media:content[^>]*url="([^"]+)"[^>]*medium="image"/i,
     /<enclosure[^>]*url="([^"]+)"[^>]*type="image/i, /<enclosure[^>]*type="image[^"]*"[^>]*url="([^"]+)"/i,
     /<img[^>]*src=["']([^"']+)["']/i, /&lt;img[^&]*src=(?:&quot;|")([^"&]+)/i];
-  for (const re of pats) { const m = b.match(re); if (m && /^https:\/\//.test(m[1])) return m[1].replace(/&amp;/g, '&'); }
+  for (const re of pats) { const m = b.match(re); if (m && /^https:\/\//.test(m[1]) && !BAD_IMG.test(m[1])) return m[1].replace(/&amp;/g, '&'); }
   return '';
 }
 async function pageImage(url) {
@@ -265,7 +266,7 @@ async function pageImage(url) {
     for (const re of [/<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["']/i, /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
       /<meta[^>]+name=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["']/i, /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i]) {
       const m = html.match(re);
-      if (m) { const u = new URL(m[1].replace(/&amp;/g, '&'), url).href; if (/^https:\/\//.test(u)) return u; }
+      if (m) { const u = new URL(m[1].replace(/&amp;/g, '&'), url).href; if (/^https:\/\//.test(u) && !BAD_IMG.test(u)) return u; }
     }
   } catch (e) { /* no picture */ }
   return '';
