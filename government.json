@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 19, 2026, 11:49 PM ET",
+  "generated_at": "Nov 19, 2026, 11:50 PM ET",
   "date_key": "2026-11-19",
   "caption": "Federal investment news and decisions from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -11,7 +11,19 @@
       "badge": "CP24",
       "analysis": false,
       "sector": "Defence",
-      "time": "Nov 19"
+      "time": "Nov 19",
+      "date": "2026-11-20T02:07:45.000Z"
+    },
+    {
+      "title": "Canada’s Immigration Plan Explained: What Do the 2027 Targets Really Mean?",
+      "url": "https://cdhowe.org/publication/canadas-immigration-plan-explained-what-do-the-2027-targets-really-mean-2/",
+      "image": "",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Infrastructure",
+      "time": "Nov 19",
+      "date": "2026-11-19T22:17:13.000Z"
     },
     {
       "title": "MPs clash over Sunday sitting as marathon study of Carney's major projects bill continues",
@@ -21,17 +33,30 @@
       "badge": "CBC",
       "analysis": false,
       "sector": "Infrastructure",
-      "time": "Nov 19"
+      "time": "Nov 19",
+      "date": "2026-11-19T20:54:46.000Z"
+    },
+    {
+      "title": "A $27.5-billion deficit revision raises questions Parliament should address",
+      "url": "https://cdhowe.org/publication/a-27-5-billion-deficit-revision-raises-questions-parliament-should-address/",
+      "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-811714374.jpg",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Budget",
+      "time": "Nov 19",
+      "date": "2026-11-19T20:51:02.000Z"
     },
     {
       "title": "Minister Joly to announce investment to expand Canada’s automobile industry",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-joly-to-announce-investment-to-expand-canadas-automobile-industry.html",
-      "image": "https://www.canada.ca/content/dam/canada/bck-srh.jpg",
+      "image": "",
       "source": "ISED",
       "badge": "ISED",
       "analysis": false,
       "sector": "Autos",
-      "time": "Nov 19"
+      "time": "Nov 19",
+      "date": "2026-11-19T17:00:04.000Z"
     },
     {
       "title": "'If the U.S. doesn't want to do a deal, we're busy,' Carney says of ongoing trade talks",
@@ -41,37 +66,74 @@
       "badge": "CBC",
       "analysis": false,
       "sector": "Trade",
-      "time": "Nov 18"
+      "time": "Nov 18",
+      "date": "2026-11-18T16:27:38.000Z"
     },
     {
       "title": "Joint Outcomes of the 2nd Canada-China Economic and Financial Strategic Dialogue",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/joint-outcomes-of-the-2nd-canada-china-economic-and-financial-strategic-dialogue.html",
-      "image": "https://www.canada.ca/content/dam/canada/bck-srh.jpg",
+      "image": "",
       "source": "Finance Canada",
       "badge": "FIN",
       "analysis": false,
       "sector": "General",
-      "time": "Nov 16"
+      "time": "Nov 16",
+      "date": "2026-11-17T03:20:04.000Z"
     },
     {
       "title": "Government of Canada tables plan to ease grocery costs, support homeownership, and encourage new home construction",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-tables-plan-to-ease-grocery-costs-support-homeownership-and-encourage-new-home-construction.html",
-      "image": "https://www.canada.ca/content/dam/canada/bck-srh.jpg",
+      "image": "",
       "source": "Finance Canada",
       "badge": "FIN",
       "analysis": false,
       "sector": "Housing",
-      "time": "Nov 16"
+      "time": "Nov 16",
+      "date": "2026-11-16T22:12:47.000Z"
     },
     {
       "title": "Parliamentary Secretary Bardeesy highlights Government of Canada’s investments from Budget 2026: Masters of our destiny",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-bardeesy-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny.html",
-      "image": "https://www.canada.ca/content/dam/canada/bck-srh.jpg",
+      "image": "",
       "source": "ISED",
       "badge": "ISED",
       "analysis": false,
       "sector": "Budget",
-      "time": "Nov 14"
+      "time": "Nov 14",
+      "date": "2026-11-14T15:02:26.000Z"
+    },
+    {
+      "title": "MADE | NOUS celebrates Canadian storytelling with new conversation series MADE/unmade with George Stroumboulopoulos",
+      "url": "https://cmf-fmc.ca/news/made-nous-celebrates-canadian-storytelling-with-new-conversation-series-made-unmade-with-george-stroumboulopoulos/",
+      "image": "https://cmf-fmc.ca/wp-content/uploads/2026/11/strombo-thumb-700x394.jpg",
+      "source": "Canada Media Fund",
+      "badge": "CMF",
+      "analysis": false,
+      "sector": "Media",
+      "time": "Nov 12",
+      "date": "2026-11-12T14:00:00.000Z"
+    },
+    {
+      "title": "Indigenous Screen Office, CMF renew partnership on Interactive and Immersive Program",
+      "url": "https://cmf-fmc.ca/news/indigenous-screen-office-cmf-renew-partnership-on-interactive-and-immersive-program/",
+      "image": "https://cmf-fmc.ca/wp-content/uploads/2023/08/6230-CMF-Toolkit-Website-Modules-1920x1080_Megaphone-700x394.jpg",
+      "source": "Canada Media Fund",
+      "badge": "CMF",
+      "analysis": false,
+      "sector": "Media",
+      "time": "Nov 9",
+      "date": "2026-11-09T19:00:00.000Z"
+    },
+    {
+      "title": "David Lobo joins CDEV as Chief Operating Officer, Elena Palumbo as Chief Human Resources Officer",
+      "url": "https://cdev.gc.ca/david-lobo-joins-cdev-as-chief-operating-officer-elena-palumbo-as-chief-human-resources-officer/",
+      "image": "https://secure.gravatar.com//avatar//7b86f59c7364f6e576a4d7139803ea2f74fcafac0b0c0ab2373de48cf8f81ed4?s=96&d=mm&r=g",
+      "source": "CDEV",
+      "badge": "CDEV",
+      "analysis": false,
+      "sector": "General",
+      "time": "Oct 29",
+      "date": "2026-10-29T16:43:32.000Z"
     }
   ],
   "sources": [
@@ -116,29 +178,29 @@
       "kept": 2
     },
     {
-      "source": "CDEV",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "source": "Canada Media Fund",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
-      "source": "C.D. Howe Institute",
-      "fetched": 0,
-      "kept": 0
-    },
-    {
       "source": "ISED",
       "fetched": 20,
       "kept": 2
     },
     {
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 1
+    },
+    {
       "source": "CP24",
       "fetched": 200,
       "kept": 1
+    },
+    {
+      "source": "Canada Media Fund",
+      "fetched": 24,
+      "kept": 2
+    },
+    {
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
+      "kept": 2
     }
   ]
 }
