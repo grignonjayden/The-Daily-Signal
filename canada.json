@@ -227,7 +227,7 @@
     {
       "key": "deals",
       "type": "list",
-      "title": "Deals in the Works",
+      "title": "Government Decisions",
       "icon": "signal",
       "caption": "Federal investment news from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
       "items": [

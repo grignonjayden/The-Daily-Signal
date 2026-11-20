@@ -317,7 +317,7 @@ const sections = [
   { key: 'rates', title: 'Borrowing & Saving', icon: 'bank', caption: 'Bank of Canada data · updates daily and weekly', items: [...pol, ...prime, ...mort, ...gic] },
   { key: 'living', title: 'Cost of Living & Jobs', icon: 'cart', caption: 'Statistics Canada · updates monthly', items: col },
   { key: 'invest', title: 'Where Ottawa Is Investing', icon: 'building', caption: 'Federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice', items: SECTORS },
-  { key: 'deals', type: 'list', title: 'Deals in the Works', icon: 'signal', caption: 'Federal investment news from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day', items: dealItems },
+  { key: 'deals', type: 'list', title: 'Government Decisions', icon: 'signal', caption: 'Federal investment news from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day', items: dealItems },
 ].filter(s => s.items.length);
 
 if (!sections.some(s => !['invest', 'deals'].includes(s.key))) { console.error('Nothing fetched; keeping existing canada.json'); process.exit(0); }

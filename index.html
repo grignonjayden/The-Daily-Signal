@@ -1494,7 +1494,7 @@ function renderCanada(data, dateKey) {
   data.sections.forEach(sec => {
     const c = looks[sec.icon] || looks.bank;
     const widget = widgetShell('w-span-12', ICONS[sec.icon] ? sec.icon : 'maple', c[0], c[1], sec.title, (sec.items || []).length);
-    if (sec.type === 'list') { // headline list (Deals in the Works)
+    if (sec.type === 'list') { // headline list (Government Decisions)
       const list = el('div', { className: 'news-list' });
       (sec.items || []).forEach((a, i) => {
         const card = el('a', { className: 'news-card has-thumb', href: a.url || '#' });
