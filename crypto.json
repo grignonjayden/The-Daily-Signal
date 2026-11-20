@@ -1,145 +1,145 @@
 {
-  "generated_at": "Nov 20, 2026, 7:45 AM ET",
+  "generated_at": "Nov 20, 2026, 12:45 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $61,716 early Friday, down 3.39% over 24 hours and near its lowest level since July (Reuters via Yahoo Finance; Coin Gabbar)."
+      "note": "Fell below $60,000 for the first time since July and traded near $59,300 around 11 AM ET Friday, down about 6.2% over 24 hours and 14% over seven days (CryptoTicker, citing CoinGecko and CoinMarketCap)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,746, down 3.3% over 24 hours, per CoinGecko data cited Friday (Coin Gabbar)."
+      "note": "About $1,644 Friday morning ET, down about 7.6% and at its lowest since July, after trading near $1,723 earlier in the day (CryptoTicker; FinFly)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.2 trillion, down 1.7% over 24 hours, per CoinGecko data cited Friday (Coin Gabbar)."
+      "note": "About $2.04 trillion, down 5.4% from a day earlier per CoinMarketCap, versus about $2.21 trillion early Friday UTC (CryptoTicker; Coin Gabbar)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 55.8% on CoinGecko's measure early Friday UTC; Ether's share was 9.57% (Coin Gabbar)."
+      "note": "About 55.8% on CoinGecko's measure early Friday UTC, with Ether at 9.57%; no later reading was available at publication (Coin Gabbar)."
     }
   ],
   "themes": [
     {
-      "title": "Asian rout hits crypto",
-      "summary": "Bitcoin slipped below $62,000 as Asian stock markets lost more than $1 trillion, led by Japan, South Korea and Taiwan, extending Thursday's AI-led selloff (Coin Gabbar; Reuters via Yahoo Finance).",
+      "title": "Bitcoin breaks $60,000",
+      "summary": "Bitcoin slipped under $60,000 around 10:45 AM ET as U.S. tech stocks fell, with the Nasdaq down more than 2% and Nvidia down about 6% (CryptoTicker; 24/7 Wall St.).",
       "confidence": "confirmed"
     },
     {
-      "title": "Down about 20% in November",
-      "summary": "Bitcoin has fallen more than 20% from about $81,000 at the start of November, and a 'death cross' has formed on its chart (U.Today; Altcoin Buzz).",
+      "title": "$1.33 billion liquidated",
+      "summary": "About $1.33 billion of leveraged positions were liquidated over 24 hours, roughly 90% of them longs, including $553 million in one hour, per CoinGlass (CryptoTicker).",
       "confidence": "confirmed"
     },
     {
-      "title": "Fed hike nearly priced in",
-      "summary": "CME FedWatch shows a 98.4% chance of a December rate increase after hotter October inflation, a backdrop cited for pressure on crypto (Reuters via Yahoo Finance; U.Today).",
+      "title": "ETF outflows continue",
+      "summary": "U.S. spot Bitcoin ETFs had $582.3 million of net outflows on Nov. 19, a third straight day, bringing November outflows to about $3.47 billion, per Farside (CryptoTicker).",
       "confidence": "confirmed"
     },
     {
-      "title": "CFTC tightens on-chain venues",
-      "summary": "CFTC Chairman Michael Selig said on-chain platforms such as Hyperliquid must register or partner with licensed exchanges to serve U.S. retail users (Coin Gabbar).",
+      "title": "Fed hike and Japan risk",
+      "summary": "Markets price a December Fed rate increase, U.S. 10-year yields are around 5%, and Bank of Japan signals of more hikes raise carry-trade concerns (Coin Gabbar).",
       "confidence": "developing"
     },
     {
-      "title": "Extreme fear, $391M liquidated",
-      "summary": "The Fear and Greed Index sits at 10 to 12, in extreme fear, and more than $391 million of positions were liquidated over 24 hours, mostly longs (Coin Gabbar; U.Today).",
+      "title": "Extreme fear",
+      "summary": "The Crypto Fear and Greed Index stood at 12, in extreme fear, compared with 20 a week ago and 63 a month ago (Coin Gabbar; CryptoTicker).",
       "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin near $61,700 and Ether near $1,746, both down more than 3% over 24 hours (Reuters via Yahoo Finance; Coin Gabbar)."
+      "note": "Bitcoin near $59,300 and Ether near $1,644, down about 6% and 8% respectively over 24 hours (CryptoTicker)."
     },
     {
       "name": "Altcoins",
-      "note": "XRP near $0.96, down 2.4%; NEAR fell 7.9% and Uniswap 6.3% over 24 hours (Coin Gabbar)."
+      "note": "Solana fell about 7% to near $68; earlier Friday XRP was near $0.96 and BNB near $567, both lower on the day (CryptoTicker; FinFly)."
     },
     {
       "name": "DeFi",
-      "note": "DeFi market cap about $56 billion, down roughly 3% to 4.5% over 24 hours (Coin Gabbar)."
+      "note": "DeFi market cap about $56.2 billion, down 2.7% over 24 hours as of early Friday UTC (Coin Gabbar)."
     },
     {
       "name": "Stablecoins",
-      "note": "Stablecoin market cap about $280.7 billion, down 0.6% (Coin Gabbar)."
+      "note": "Stablecoin market cap about $280.7 billion, down 0.6%, and among the steadiest categories (Coin Gabbar)."
     }
   ],
   "watch_list": [
     {
-      "topic": "$62,000 to $65,000 range",
-      "why": "Bitcoin has traded between about $62,000 and $65,000 since Nov. 14 and is now testing the low end; analysts cite $60,000 as the next support (U.Today; COINOTAG).",
+      "topic": "$58,566 July low",
+      "why": "Bitcoin's 24-hour low was about $59,241; the next reference level is its 12-month low of $58,566 from July 1, with about $61,400 now cited as resistance (CryptoTicker).",
       "confidence": "developing"
     },
     {
-      "topic": "Japan and the carry trade",
-      "why": "Bank of Japan signals of more rate hikes and possible yen intervention, with U.S. 10-year yields above 5%, raise the risk of a carry-trade unwind (Coin Gabbar).",
+      "topic": "Weekend trading without ETFs",
+      "why": "Spot ETFs do not trade on weekends, so price moves through Sunday will come without ETF flow data after a week of outflows (CryptoTicker).",
       "confidence": "developing"
     },
     {
-      "topic": "Weekly close and ETF flows",
-      "why": "Bitcoin is on track for a seventh straight weekly loss, and U.S. spot Bitcoin ETFs have seen about $2.6 billion of November outflows (Altcoin Buzz; KuCoin).",
+      "topic": "CFTC rules for on-chain venues",
+      "why": "CFTC Chairman Michael Selig said on-chain platforms such as Hyperliquid must register or partner with licensed exchanges to serve U.S. retail users (Coin Gabbar).",
       "confidence": "developing"
     }
   ],
   "movers": [
     {
-      "name": "CHUNKEE",
+      "name": "Chunkee The Manatee (CHUNKEE)",
       "pct": 224,
-      "note": "Top gainer, up about 224% over 24 hours per CoinGecko (Coin Gabbar)."
+      "note": "Top gainer, up about 224% over 24 hours as of early Friday UTC per CoinGecko (Coin Gabbar)."
     },
     {
-      "name": "ICNT",
+      "name": "Impossible Cloud Network (ICNT)",
       "pct": 34.8,
-      "note": "Up about 34.8% over 24 hours (Coin Gabbar)."
+      "note": "Up about 34.8% to near $0.43 as of early Friday UTC (Coin Gabbar)."
     },
     {
-      "name": "EVAA",
+      "name": "EVAA Protocol (EVAA)",
       "pct": 33.6,
-      "note": "Up about 33.6% over 24 hours (Coin Gabbar)."
+      "note": "Up about 33.6% to near $5.28 as of early Friday UTC (Coin Gabbar)."
     },
     {
-      "name": "Pi Network (PI)",
-      "pct": -10.4,
-      "note": "Down about 10.4% to near $0.051 (Coin Gabbar)."
+      "name": "Green Compute (SN110)",
+      "pct": -15.3,
+      "note": "Down about 15.3% to near $4.54 as of early Friday UTC (Coin Gabbar)."
     },
     {
       "name": "Backpack (BP)",
       "pct": -17.4,
-      "note": "Down about 17.4% over 24 hours (Coin Gabbar)."
+      "note": "Down about 17.4% to near $0.84 as of early Friday UTC (Coin Gabbar)."
     },
     {
       "name": "Anthropic PreStocks (ANTHROPIC)",
       "pct": -30.9,
-      "note": "Tokenized pre-IPO Anthropic exposure fell about 30.9% after the real shares began trading (Coin Gabbar)."
+      "note": "Tokenized Anthropic exposure fell about 30.9% as the listed shares kept sliding (Coin Gabbar)."
     }
   ],
   "sources": [
+    {
+      "title": "CryptoTicker — Bitcoin falls below $60,000 for the first time since July",
+      "url": "https://cryptoticker.io/en/bitcoin-below-60000-first-time-since-july/"
+    },
     {
       "title": "Coin Gabbar — Crypto News Nov 20: Bitcoin Drops 2.7% Amid Japan Risk, Fed Hike Fears",
       "url": "https://www.coingabbar.com/en/crypto-news-today-cftc-rules-japan-risk-anthropic-bitcoin-price"
     },
     {
-      "title": "Coin Gabbar — Why Crypto Market Down Today? BTC, ETH Fall as Asian Markets Lose $1T",
-      "url": "https://www.coingabbar.com/en/why-crypto-market-down-today-btc-eth-xrp-pi-coin-asian-markets"
+      "title": "FinFly — Bitcoin and crypto prices on November 20, 2026",
+      "url": "https://finfly.news/en/crypto/crypto-prices-2026-11-20"
+    },
+    {
+      "title": "24/7 Wall St. — Live market updates, Nov. 20",
+      "url": "https://247wallst.com/cards/the-nasdaq-is-shedding-3-31-by-midday-while-the-dow-gives-u-gspc-market-bell-01m7wygvawtxjvw66d0rkd9qb7"
     },
     {
       "title": "U.Today — Bitcoin (BTC) Price Analysis for November 20: Death Cross Is Here",
       "url": "https://u.today/price-analysis/bitcoin-btc-price-analysis-for-november-20-death-cross-is-here"
     },
     {
-      "title": "Reuters via Yahoo Finance — Wall St futures slip as Anthropic debut fails to reassure AI investors",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+      "title": "Motley Fool — Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/"
     },
     {
-      "title": "COINOTAG — Bitcoin (BTC) Slides to $61,700 After Anthropic Debut Sparks Tech Selloff",
-      "url": "https://en.coinotag.com/bitcoin-slides-61700-anthropic-debut-tech-selloff"
-    },
-    {
-      "title": "Altcoin Buzz — 14% Weekly Drop Sends Bitcoin to $62K as Fear Index Sits Near 11",
-      "url": "https://www.altcoinbuzz.io/14-weekly-drop-sends-bitcoin-to-62k-as-fear-index-sits-near-11"
-    },
-    {
-      "title": "KuCoin — Crypto Daily Market Report, November 19, 2026",
-      "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-19-2026"
+      "title": "StockTitan — Stock Market Today Live, November 20, 2026",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
     },
     {
       "title": "Yahoo Finance — Stock market today: Dow sinks 1,100 points, S&P 500 and Nasdaq tank 2% as Anthropic IPO grabs spotlight",

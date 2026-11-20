@@ -1,125 +1,117 @@
 {
-  "generated_at": "Nov 20, 2026, 7:45 AM ET (Thursday close; Friday pre-market)",
+  "generated_at": "Nov 20, 2026, 12:45 PM ET (Friday midday; session still open)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed Thursday down 1,101.11 points, or 2.19%, at 49,097.06, its first finish below 50,000 since June; Dow futures were down about 0.2% early Friday (Yahoo Finance; IC Markets; Reuters via Yahoo Finance)."
+      "note": "Down about 0.4% to 0.5% at midday Friday, near 48,880, after closing Thursday at 49,097.06; it had been up about 0.7% early in the session (24/7 Wall St.; Motley Fool; StockTitan)."
     },
     {
       "index": "S&P 500",
-      "note": "Closed Thursday down 147.80 points, or 2.02%, at 7,175.83, a sixth straight loss; S&P 500 futures were down about 0.5% to 0.8% early Friday (Yahoo Finance; Reuters via Yahoo Finance)."
+      "note": "Down about 1.9% at midday Friday, near 7,041, on track for a seventh straight loss after Thursday's close at 7,175.83; Bloomberg calls it the longest losing run since 2020 (24/7 Wall St.; Motley Fool)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed Thursday down 550.69 points, or 2.25%, at 23,879.20, about 13.6% below its Oct. 6 record close; Nasdaq-100 futures were down about 1.3% to 1.6% early Friday (Yahoo Finance; Reuters via Yahoo Finance)."
+      "note": "Down about 3.3% to 3.4% at midday Friday, near 23,070, the weakest of the major indexes as chip stocks sold off (24/7 Wall St.; Motley Fool)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "December futures traded near $81.67 early Friday, down $0.77 or 0.93%; Brent fell 1.6% and is headed for a third straight weekly loss on supply-surplus expectations (Reuters via Yahoo Finance)."
+      "note": "December futures rose 42 cents, or 0.5%, to $83.63 Friday morning but were down almost 6% for the week, a third straight weekly decline (Reuters via RTÉ)."
     }
   ],
   "themes": [
     {
-      "title": "AI selloff spreads overseas",
-      "summary": "Asian markets lost more than $1 trillion in value Friday: Japan's Nikkei 225 fell about 5%, South Korea's Kospi about 4% to 5% and Taiwan's TAIEX about 6%, with SoftBank down 16% (Coin Gabbar; IC Markets).",
+      "title": "Chip selloff deepens",
+      "summary": "Micron fell about 11% to 13% and AMD about 10% to 11% by late morning, with Broadcom down about 9%, TSMC about 7% and Nvidia about 7%; AMD denied a short-seller report about a China problem (StockTitan; Motley Fool; 24/7 Wall St.).",
       "confidence": "confirmed"
     },
     {
-      "title": "Anthropic slides in pre-market",
-      "summary": "After closing up 17% in its debut at $97.17, Anthropic fell about 6% to 7% in pre-market trading Friday; Amazon, Meta and Microsoft were each down more than 1.8% (Reuters via Yahoo Finance; Yahoo Finance).",
+      "title": "Anthropic extends post-IPO slide",
+      "summary": "Anthropic shares traded near $86 late Friday morning, down about 11% from Thursday's $97.17 close, adding to doubts about returns on AI spending (StockTitan).",
       "confidence": "confirmed"
     },
     {
-      "title": "Worst week since April 2025",
-      "summary": "Through Thursday the Dow was down 6.2% for the week and the S&P 500 and Nasdaq about 5% each, their steepest weekly declines since the April 2025 tariff selloff (IC Markets; Reuters via Yahoo Finance).",
+      "title": "Correction territory",
+      "summary": "Market commentators said the S&P 500 and the Dow are now about 10% below their record highs, the usual definition of a correction; this had not been confirmed by an official close at publication (24/7 Wall St.; StockTitan).",
       "confidence": "developing"
     },
     {
-      "title": "December rate hike nearly priced in",
-      "summary": "CME FedWatch shows a 98.4% chance of a Fed rate increase in December; Philadelphia Fed President Anna Paulson said Thursday the Fed will need to raise rates again (Reuters via Yahoo Finance).",
+      "title": "Volatility at highest since March",
+      "summary": "The VIX volatility index rose above 31 Friday, its highest level since March, while gold fell about 3.7% and Bitcoin dropped below $60,000 (24/7 Wall St.; Motley Fool).",
       "confidence": "confirmed"
     },
     {
-      "title": "Chips under pressure again",
-      "summary": "Nvidia was down 2.6% pre-market Friday and AMD, Broadcom, Marvell and Micron fell 3.5% to 5.5%, extending Thursday's losses after a short report on AMD (Reuters via Yahoo Finance; StockTitan).",
+      "title": "Global rout and sentiment",
+      "summary": "Taiwan's TAIEX fell 5.65%, Korea's Kospi 5.21% and Japan's Nikkei 5.06%; Germany's DAX was down 2.2%. Michigan consumer sentiment came in at 51.5 for November, up from 48.0 in October (StockTitan; 24/7 Wall St.).",
       "confidence": "confirmed"
     }
   ],
   "sectors": [
     {
-      "name": "Semiconductors / AI",
-      "note": "Weakest group: Nvidia down 2.6% and other chipmakers down 3.5% to 5.5% pre-market Friday; CoreWeave and Nebius each down more than 5% (Reuters via Yahoo Finance).",
-      "momentum": 20
+      "name": "Technology / Semiconductors",
+      "note": "Weakest sector, down about 3.2% by mid-morning, led by Micron, AMD, Broadcom and Nvidia (24/7 Wall St.; StockTitan).",
+      "momentum": 15
     },
     {
-      "name": "Mega-cap Tech",
-      "note": "Amazon, Meta and Microsoft each fell more than 1.8% pre-market, while Alphabet was little changed (Reuters via Yahoo Finance).",
-      "momentum": 30
+      "name": "Consumer Staples",
+      "note": "Leading sector, up about 2.1% by mid-morning; Walmart rose about 3% (24/7 Wall St.; Motley Fool).",
+      "momentum": 75
+    },
+    {
+      "name": "Health Care",
+      "note": "Up about 1.1% by mid-morning, with UnitedHealth up about 4% and Humana up about 5% (24/7 Wall St.; Motley Fool).",
+      "momentum": 65
     },
     {
       "name": "Consumer / Retail",
-      "note": "Gap rose 2.5% pre-market after Old Navy sales beat expectations; Thursday saw consumer staples post the largest sector decline (Reuters via Yahoo Finance; Eurasia Business News).",
-      "momentum": 40
-    },
-    {
-      "name": "Energy",
-      "note": "Oil eased about 1% Friday after Thursday's gain on tanker attacks near the Strait of Hormuz; shipments through the strait are back near prewar levels (Reuters via Yahoo Finance; RTÉ).",
-      "momentum": 40
+      "note": "Gap jumped about 15% after third-quarter sales of $4.0 billion, while BJ's Wholesale fell about 3% after its results (StockTitan).",
+      "momentum": 55
     }
   ],
   "watch_list": [
     {
-      "topic": "Friday open and weekly close",
-      "why": "Futures point to a lower open for a seventh session of losses; the VIX volatility index was near 29 early Friday (Reuters via Yahoo Finance; TokenPost).",
+      "topic": "Friday close and weekly losses",
+      "why": "Whether the S&P 500 and Dow finish at least 10% below their records, confirming a correction; the Dow entered Friday down 6.2% for the week (24/7 Wall St.; StockTitan).",
       "confidence": "developing"
     },
     {
-      "topic": "Michigan sentiment, BJ's earnings",
-      "why": "The final University of Michigan consumer sentiment reading is due at 10:00 AM ET Friday, and BJ's Wholesale reports results (IC Markets).",
-      "confidence": "confirmed"
+      "topic": "Fed speakers and December hike",
+      "why": "Fed Governor Lisa Cook was scheduled to speak at 12:15 PM ET Friday, with markets pricing a December rate increase (StockTitan; Coin Gabbar).",
+      "confidence": "developing"
     },
     {
-      "topic": "PCE inflation next week",
-      "why": "Next week's PCE figures follow a hotter-than-expected October inflation report, ahead of the Fed's December meeting (Reuters via Yahoo Finance).",
+      "topic": "Thanksgiving week earnings",
+      "why": "Next week's earnings calendar includes Dell, alongside holiday-shopping data heading into the Thanksgiving period (StockTitan; Motley Fool).",
       "confidence": "developing"
     }
   ],
   "sources": [
     {
-      "title": "Reuters via Yahoo Finance — Wall St futures slip as Anthropic debut fails to reassure AI investors",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+      "title": "Motley Fool — Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/"
     },
     {
-      "title": "IC Markets — Stock Futures Fall as Global Markets Extend Losses (Nov. 20)",
-      "url": "https://www.ic.com/blog/stock-futures-fall-as-global-markets-extend-losses-20-november-ic/"
+      "title": "StockTitan — Stock Market Today Live, November 20, 2026",
+      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
+    },
+    {
+      "title": "24/7 Wall St. — Live market updates, Nov. 20",
+      "url": "https://247wallst.com/cards/the-nasdaq-is-shedding-3-31-by-midday-while-the-dow-gives-u-gspc-market-bell-01m7wygvawtxjvw66d0rkd9qb7"
+    },
+    {
+      "title": "RTÉ (Reuters) — Oil set for third weekly decline on strong export flows",
+      "url": "https://www.rte.ie/news/business/2026/1120/1599964-world-oil-prices/"
     },
     {
       "title": "Yahoo Finance — Stock market today: Dow sinks 1,100 points, S&P 500 and Nasdaq tank 2% as Anthropic IPO grabs spotlight",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     },
     {
-      "title": "StockTitan — Stock Market Today Live, November 19, 2026",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
+      "title": "StockTitan — Earnings Calendar, Week of November 23, 2026",
+      "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-23-2026"
     },
     {
-      "title": "Eurasia Business News — Stock Market Today, November 19, 2026",
-      "url": "https://eurasiabusinessnews.com/2026/11/19/stock-market-today-november-19-2026-dow-sinks-1084-points-nasdaq-drops-2-2-after-anthropic-debut/"
-    },
-    {
-      "title": "Coin Gabbar — Why Crypto Market Down Today? BTC, ETH Fall as Asian Markets Lose $1T",
-      "url": "https://www.coingabbar.com/en/why-crypto-market-down-today-btc-eth-xrp-pi-coin-asian-markets"
-    },
-    {
-      "title": "RTÉ (Reuters) — Oil up as shipping attacks counter supply surplus outlook",
-      "url": "https://www.rte.ie/news/business/2026/1119/1599805-world-oil-prices/"
-    },
-    {
-      "title": "TokenPost — Bitcoin Falls 2.6% as Dow Drops 1,014 Points; VIX Reaches 28.21",
-      "url": "https://www.tokenpost.com/news/investing/61563"
-    },
-    {
-      "title": "WTOP (AP) — How major US stock indexes fared Wednesday 11/18/2026",
-      "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-18-2026"
+      "title": "Coin Gabbar — Crypto News Nov 20: Bitcoin Drops 2.7% Amid Japan Risk, Fed Hike Fears",
+      "url": "https://www.coingabbar.com/en/crypto-news-today-cftc-rules-japan-risk-anthropic-bitcoin-price"
     }
   ]
 }
