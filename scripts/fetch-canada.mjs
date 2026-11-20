@@ -251,7 +251,7 @@ const xdecode = s => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').replace(/<[^
   .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
 const xtag = (b, names) => { for (const n of names) { const m = b.match(new RegExp(`<${n}[^>]*>([\\s\\S]*?)</${n}>`, 'i')); if (m) return m[1]; } return ''; };
 // Picture for a headline: feed media tags first, then the article page's og:image / twitter:image.
-const BAD_IMG = /logo|\.svg|favicon|sprite|placeholder|default-share|wmms|bck-srh|\/content\/dam\/canada\/[^/]+$/i;
+const BAD_IMG = /logo|\.svg|favicon|sprite|placeholder|default-share|wmms|bck-srh|gravatar|avatar|\/content\/dam\/canada\/[^/]+$/i;
 function feedImage(b) {
   const pats = [/<media:thumbnail[^>]*url="([^"]+)"/i, /<media:content[^>]*url="([^"]+\.(?:jpe?g|png|webp)[^"]*)"/i,
     /<media:content[^>]*medium="image"[^>]*url="([^"]+)"/i, /<media:content[^>]*url="([^"]+)"[^>]*medium="image"/i,
