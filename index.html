@@ -6,6 +6,7 @@
 <title>The Daily Signal</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script>/* Night mode: saved choice, else the device setting */try{var t=localStorage.getItem('ds-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.dataset.theme=t;}catch(e){}</script>
 <style>
   :root {
     --bg: #F2F2F5;
@@ -41,6 +42,39 @@
     --r-md: 20px;
     --r-sm: 14px;
   }
+
+  /* ---------- Night mode ---------- */
+  :root[data-theme="dark"] {
+    --bg: #0F1116; --surface: #181B22; --surface-alt: #232731;
+    --ink: #ECEDF2; --ink-soft: #A9ACB8; --ink-faint: #7A7D8A;
+    --pink: #E8843F; --pink-soft: #3A2617; --pink-deep: #F0A066;
+    --mint: #8FB0EC; --mint-soft: #1E2A42; --mint-deep: #B9CCF5;
+    --lavender: #B497DC; --lavender-soft: #2C2238; --peach: #B497DC; --peach-soft: #2C2238;
+    --sky: #A4A7B3; --sky-soft: #272B36;
+    --line: #2B2F3A;
+    --shadow-sm: 0 1px 2px rgba(0,0,0,0.4); --shadow-md: 0 10px 28px rgba(0,0,0,0.45); --shadow-lg: 0 24px 56px rgba(0,0,0,0.55);
+    color-scheme: dark;
+  }
+  :root[data-theme="dark"] .gen-btn, :root[data-theme="dark"] .tab-btn.active, :root[data-theme="dark"] .chip.active { color: #14161D; }
+  :root[data-theme="dark"] .gen-btn:hover { background: #FFFFFF; }
+  :root[data-theme="dark"] .news-thumb-sm { background: linear-gradient(135deg, #2E4C86, #1C2E52); }
+  :root[data-theme="dark"] .news-thumb-sm.official { background: linear-gradient(135deg, #D9722C, #A6591F); }
+  :root[data-theme="dark"] .note-box { color: var(--ink-soft); }
+  :root[data-theme="dark"] .sector-icon { background: rgba(255,255,255,0.08); }
+  :root[data-theme="dark"] .tab-btn.active svg { filter: none; }
+  body { transition: background 0.3s var(--ease), color 0.3s var(--ease); }
+  .hero-actions { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+  .theme-switch { display: flex; align-items: center; gap: 8px; background: none; border: 0; padding: 4px; cursor: pointer; color: var(--ink-faint); }
+  .theme-switch svg { width: 17px; height: 17px; transition: color 0.3s var(--ease), opacity 0.3s; }
+  .theme-switch .ts-sun { color: #E9A21F; }
+  .theme-switch .ts-moon { opacity: 0.45; }
+  .ts-track { position: relative; width: 54px; height: 30px; border-radius: 999px; background: var(--surface-alt); border: 1px solid var(--line); transition: background 0.3s var(--ease); }
+  .ts-knob { position: absolute; top: 3px; left: 3px; width: 22px; height: 22px; border-radius: 50%; background: #F2B233; box-shadow: 0 2px 6px rgba(0,0,0,0.25); transition: transform 0.35s var(--ease), background 0.35s var(--ease); }
+  :root[data-theme="dark"] .ts-track { background: #2C3A5E; }
+  :root[data-theme="dark"] .ts-knob { transform: translateX(24px); background: #D9E1F7; }
+  :root[data-theme="dark"] .theme-switch .ts-sun { color: var(--ink-faint); opacity: 0.45; }
+  :root[data-theme="dark"] .theme-switch .ts-moon { color: #C9D6FF; opacity: 1; }
+  .theme-switch:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; border-radius: 999px; }
 
   * { box-sizing: border-box; }
   html { scroll-behavior: smooth; }
@@ -395,7 +429,14 @@
         <h1 class="title">The Daily Signal</h1>
         <p class="dateline" id="dateline">Not yet generated today</p>
       </div>
-      <button class="gen-btn" id="genBtn">Show today's briefing</button>
+      <div class="hero-actions">
+        <button class="theme-switch" id="themeSwitch" role="switch" aria-checked="false" aria-label="Night mode" title="Switch day / night mode">
+          <svg class="ts-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+          <span class="ts-track"><span class="ts-knob"></span></span>
+          <svg class="ts-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1111.2 3a7 7 0 009.8 9.8z"/></svg>
+        </button>
+        <button class="gen-btn" id="genBtn">Show today's briefing</button>
+      </div>
     </div>
   </div>
 
@@ -1645,6 +1686,16 @@ async function generateBriefing() {
 }
 
 genBtn.addEventListener('click', generateBriefing);
+
+// Night mode switch (knob slides between day and night; choice is remembered on this device).
+const themeSwitch = document.getElementById('themeSwitch');
+function setTheme(t, save) {
+  document.documentElement.dataset.theme = t;
+  themeSwitch.setAttribute('aria-checked', t === 'dark' ? 'true' : 'false');
+  if (save) { try { localStorage.setItem('ds-theme', t); } catch (e) { /* storage unavailable */ } }
+}
+setTheme(document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light', false);
+themeSwitch.addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark', true));
 
 // Live data: news.json refreshes every ~30 min (GitHub Action);
 // markets.json and crypto.json are rewritten by Claude each morning (scheduled task).
