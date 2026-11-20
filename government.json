@@ -1,10 +1,21 @@
 {
-  "generated_at": "Nov 20, 2026, 9:12 AM ET",
+  "generated_at": "Nov 20, 2026, 1:38 PM ET",
   "date_key": "2026-11-20",
   "caption": "Federal investment news and decisions from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
     {
-      "title": "Federal government providing up to $125M to develop Port of Sault Ste. Marie",
+      "title": "'Most ambitious since Avro': Ottawa defence startup unveils partners for Scout drone",
+      "url": "https://www.cp24.com/news/canada/2026/11/20/most-ambitious-since-avro-ottawa-defence-startup-unveils-partners-for-scout-drone/",
+      "image": "https://www.cp24.com/resizer/v2/QRONT2SQLH5HOAZKI4LXK4JJN4.jpg?auth=5f06b93007a5e59e10a4fb8dcc15e91e5d4abf19cffc889a136c41f713b1394e&smart=true&width=1400&height=933",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "Defence",
+      "time": "Nov 20",
+      "date": "2026-11-20T20:29:37.000Z"
+    },
+    {
+      "title": "Sault Ste. Marie port project lands $250M to cut U.S. trade reliance",
       "url": "https://www.cp24.com/news/canada/2026/11/20/federal-government-providing-up-to-125m-to-develop-port-of-sault-ste-marie/",
       "image": "https://www.cp24.com/resizer/v2/BT5CZYPISFB2HPDAXRORHQ7LUU.jpeg?auth=5ef2820d069f0ceea00082f1218d96c895720e97ef6f04c97a020b038476aa9a&smart=true&width=3840&height=2160",
       "source": "CP24",
@@ -12,18 +23,29 @@
       "analysis": false,
       "sector": "Infrastructure",
       "time": "Nov 20",
-      "date": "2026-11-20T18:00:09.000Z"
+      "date": "2026-11-20T20:02:00.000Z"
     },
     {
-      "title": "Hopes dim ahead of high-stakes meeting with Stellantis to avert Brampton plant sale",
-      "url": "https://www.cp24.com/news/canada/2026/11/20/hopes-dim-ahead-of-high-stakes-meeting-with-stellantis-to-avert-brampton-plant-sale/",
-      "image": "https://www.cp24.com/resizer/v2/VAUM65MFSJFIJHVQOGGR5G4F5A.jpg?auth=547603c4da5f301994acf11ce59b02af0d4335c8d009330cc58e03f4dee944e1&smart=true&width=3000&height=1688",
-      "source": "CP24",
-      "badge": "CP24",
+      "title": "Government of Canada announces major investment in Ford Motor Company of Canada that will strengthen auto manufacturing in Ontario and Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-announces-major-investment-in-ford-motor-company-of-canada-that-will-strengthen-auto-manufacturing-in-ontario-and-canada.html",
+      "image": "",
+      "source": "ISED",
+      "badge": "ISED",
       "analysis": false,
-      "sector": "General",
+      "sector": "Autos",
       "time": "Nov 20",
-      "date": "2026-11-20T14:00:00.000Z"
+      "date": "2026-11-20T16:36:44.000Z"
+    },
+    {
+      "title": "Minister Champagne advances trade diversification and investment partnerships in the Gulf region",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-advances-trade-diversification-and-investment-partnerships-in-the-gulf-region.html",
+      "image": "",
+      "source": "Finance Canada",
+      "badge": "FIN",
+      "analysis": false,
+      "sector": "Trade",
+      "time": "Nov 20",
+      "date": "2026-11-20T15:42:45.000Z"
     },
     {
       "title": "Some Good Free Trade News from Across the Pacific",
@@ -90,28 +112,6 @@
       "sector": "General",
       "time": "Nov 16",
       "date": "2026-11-17T03:20:04.000Z"
-    },
-    {
-      "title": "Government of Canada tables plan to ease grocery costs, support homeownership, and encourage new home construction",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-tables-plan-to-ease-grocery-costs-support-homeownership-and-encourage-new-home-construction.html",
-      "image": "",
-      "source": "Finance Canada",
-      "badge": "FIN",
-      "analysis": false,
-      "sector": "Housing",
-      "time": "Nov 16",
-      "date": "2026-11-16T22:12:47.000Z"
-    },
-    {
-      "title": "Parliamentary Secretary Bardeesy highlights Government of Canada’s investments from Budget 2026: Masters of our destiny",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-bardeesy-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny.html",
-      "image": "",
-      "source": "ISED",
-      "badge": "ISED",
-      "analysis": false,
-      "sector": "Budget",
-      "time": "Nov 14",
-      "date": "2026-11-14T15:02:26.000Z"
     },
     {
       "title": "MADE | NOUS celebrates Canadian storytelling with new conversation series MADE/unmade with George Stroumboulopoulos",
@@ -189,8 +189,8 @@
       "kept": 2
     },
     {
-      "source": "CP24",
-      "fetched": 200,
+      "source": "Canada Media Fund",
+      "fetched": 24,
       "kept": 2
     },
     {
@@ -204,13 +204,13 @@
       "kept": 2
     },
     {
-      "source": "Canada Media Fund",
+      "source": "C.D. Howe Institute",
       "fetched": 24,
       "kept": 2
     },
     {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
+      "source": "CP24",
+      "fetched": 200,
       "kept": 2
     }
   ]
