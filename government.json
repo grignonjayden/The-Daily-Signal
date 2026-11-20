@@ -1,18 +1,40 @@
 {
-  "generated_at": "Nov 19, 2026, 11:58 PM ET",
-  "date_key": "2026-11-19",
+  "generated_at": "Nov 20, 2026, 9:10 AM ET",
+  "date_key": "2026-11-20",
   "caption": "Federal investment news and decisions from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
     {
-      "title": "$2.5B water bomber investment not enough to fight fires, wildland firefighters say",
-      "url": "https://www.cp24.com/news/canada/2026/11/19/25b-water-bomber-investment-not-enough-to-fight-fires-wildland-firefighters-say/",
-      "image": "https://www.cp24.com/resizer/v2/AKQSRVBQCBHDHLCFDXTOOR3QFE.PNG?auth=3b819aa56b13f446cda9a480bce73dd8e73b62ccf01e9befa830e9484128b58e&smart=true&width=1920&height=1080",
+      "title": "Federal government providing up to $125M to develop Port of Sault Ste. Marie",
+      "url": "https://www.cp24.com/news/canada/2026/11/20/federal-government-providing-up-to-125m-to-develop-port-of-sault-ste-marie/",
+      "image": "https://www.cp24.com/resizer/v2/BT5CZYPISFB2HPDAXRORHQ7LUU.jpeg?auth=5ef2820d069f0ceea00082f1218d96c895720e97ef6f04c97a020b038476aa9a&smart=true&width=3840&height=2160",
       "source": "CP24",
       "badge": "CP24",
       "analysis": false,
-      "sector": "Defence",
-      "time": "Nov 19",
-      "date": "2026-11-20T02:07:45.000Z"
+      "sector": "Infrastructure",
+      "time": "Nov 20",
+      "date": "2026-11-20T18:00:09.000Z"
+    },
+    {
+      "title": "Hopes dim ahead of high-stakes meeting with Stellantis to avert Brampton plant sale",
+      "url": "https://www.cp24.com/news/canada/2026/11/20/hopes-dim-ahead-of-high-stakes-meeting-with-stellantis-to-avert-brampton-plant-sale/",
+      "image": "https://www.cp24.com/resizer/v2/VAUM65MFSJFIJHVQOGGR5G4F5A.jpg?auth=547603c4da5f301994acf11ce59b02af0d4335c8d009330cc58e03f4dee944e1&smart=true&width=3000&height=1688",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "General",
+      "time": "Nov 20",
+      "date": "2026-11-20T14:00:00.000Z"
+    },
+    {
+      "title": "Some Good Free Trade News from Across the Pacific",
+      "url": "https://cdhowe.org/publication/some-good-free-trade-news-from-across-the-pacific/",
+      "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-2244475825.jpg",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Trade",
+      "time": "Nov 20",
+      "date": "2026-11-20T11:00:03.000Z"
     },
     {
       "title": "Canada’s Immigration Plan Explained: What Do the 2027 Targets Really Mean?",
@@ -35,17 +57,6 @@
       "sector": "Infrastructure",
       "time": "Nov 19",
       "date": "2026-11-19T20:54:46.000Z"
-    },
-    {
-      "title": "A $27.5-billion deficit revision raises questions Parliament should address",
-      "url": "https://cdhowe.org/publication/a-27-5-billion-deficit-revision-raises-questions-parliament-should-address/",
-      "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-811714374.jpg",
-      "source": "C.D. Howe Institute",
-      "badge": "CDH",
-      "analysis": true,
-      "sector": "Budget",
-      "time": "Nov 19",
-      "date": "2026-11-19T20:51:02.000Z"
     },
     {
       "title": "Minister Joly to announce investment to expand Canada’s automobile industry",
@@ -173,14 +184,14 @@
       "kept": 2
     },
     {
-      "source": "CDEV",
-      "fetched": 20,
-      "kept": 1
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 2
+    },
+    {
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 1
     },
     {
       "source": "Canada Media Fund",
@@ -200,7 +211,7 @@
     {
       "source": "CP24",
       "fetched": 200,
-      "kept": 1
+      "kept": 2
     }
   ]
 }
