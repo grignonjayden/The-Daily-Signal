@@ -1,141 +1,141 @@
 {
-  "generated_at": "Nov 19, 2026, 4:45 PM ET",
+  "generated_at": "Nov 20, 2026, 7:45 AM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "Near $61,700 shortly after the U.S. stock close Thursday, down about 1.5% over 24 hours and at its weakest level since July (COINOTAG)."
+      "note": "About $61,716 early Friday, down 3.39% over 24 hours and near its lowest level since July (Reuters via Yahoo Finance; Coin Gabbar)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,754 around 12:20 p.m. ET Thursday, down 0.49% over 24 hours (CryptoTicker; TokenPost)."
+      "note": "About $1,746, down 3.3% over 24 hours, per CoinGecko data cited Friday (Coin Gabbar)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.13 trillion, down about 2% over 24 hours, as of early Thursday afternoon ET (Altcoin Buzz)."
+      "note": "About $2.2 trillion, down 1.7% over 24 hours, per CoinGecko data cited Friday (Coin Gabbar)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 59% Thursday afternoon, up from 58.9% in the morning (Altcoin Buzz; Ted Pillows)."
+      "note": "About 55.8% on CoinGecko's measure early Friday UTC; Ether's share was 9.57% (Coin Gabbar)."
     }
   ],
   "themes": [
     {
-      "title": "Stock selloff drags Bitcoin lower",
-      "summary": "Bitcoin fell from about $63,900 at the U.S. open toward $61,700 as the Dow lost more than 1,100 points despite Anthropic's strong debut (TokenPost; COINOTAG; Yahoo Finance).",
+      "title": "Asian rout hits crypto",
+      "summary": "Bitcoin slipped below $62,000 as Asian stock markets lost more than $1 trillion, led by Japan, South Korea and Taiwan, extending Thursday's AI-led selloff (Coin Gabbar; Reuters via Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "Seventh weekly loss in view",
-      "summary": "Bitcoin is down about 12% to 14% over seven days and on track for a seventh straight weekly decline (COINOTAG; CryptoTicker; Altcoin Buzz).",
+      "title": "Down about 20% in November",
+      "summary": "Bitcoin has fallen more than 20% from about $81,000 at the start of November, and a 'death cross' has formed on its chart (U.Today; Altcoin Buzz).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "Fed hike nearly priced in",
+      "summary": "CME FedWatch shows a 98.4% chance of a December rate increase after hotter October inflation, a backdrop cited for pressure on crypto (Reuters via Yahoo Finance; U.Today).",
+      "confidence": "confirmed"
+    },
+    {
+      "title": "CFTC tightens on-chain venues",
+      "summary": "CFTC Chairman Michael Selig said on-chain platforms such as Hyperliquid must register or partner with licensed exchanges to serve U.S. retail users (Coin Gabbar).",
       "confidence": "developing"
     },
     {
-      "title": "ETF outflows continue",
-      "summary": "U.S. spot Bitcoin ETFs have recorded about $2.6 billion in net outflows so far in November (KuCoin).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Rate-hike expectations weigh",
-      "summary": "Prediction markets put the odds of a quarter-point Fed hike in December at about 91% to 92%, and Governor Waller floated a half-point move (KuCoin; Altcoin Buzz; CryptoTicker).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Extreme fear, $372M liquidated",
-      "summary": "The Fear and Greed Index sits at 10 to 11, in extreme fear, and about $372 million of crypto positions were liquidated on Thursday (The Daily Coins; Altcoin Buzz; COINOTAG).",
+      "title": "Extreme fear, $391M liquidated",
+      "summary": "The Fear and Greed Index sits at 10 to 12, in extreme fear, and more than $391 million of positions were liquidated over 24 hours, mostly longs (Coin Gabbar; U.Today).",
       "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin near $61,700 and Ether near $1,754; Ether is down more than 15% over seven days (COINOTAG; CryptoTicker; Altcoin Buzz)."
+      "note": "Bitcoin near $61,700 and Ether near $1,746, both down more than 3% over 24 hours (Reuters via Yahoo Finance; Coin Gabbar)."
     },
     {
       "name": "Altcoins",
-      "note": "XRP traded near $0.96, down 1.66%, and Solana near $72.96, down 0.73%, around midday ET (CryptoTicker)."
+      "note": "XRP near $0.96, down 2.4%; NEAR fell 7.9% and Uniswap 6.3% over 24 hours (Coin Gabbar)."
     },
     {
       "name": "DeFi",
-      "note": "Mixed: ether.fi gained about 11% over 24 hours in the morning while Curve DAO Token fell about 4.3% (The Daily Coins)."
+      "note": "DeFi market cap about $56 billion, down roughly 3% to 4.5% over 24 hours (Coin Gabbar)."
     },
     {
       "name": "Stablecoins",
-      "note": "Stablecoin supply stood at about $286.4 billion (The Daily Coins)."
+      "note": "Stablecoin market cap about $280.7 billion, down 0.6% (Coin Gabbar)."
     }
   ],
   "watch_list": [
     {
-      "topic": "$62,000 and $60,000 support",
-      "why": "Bitcoin has slipped below the roughly $62,000 floor that held for weeks; analysts cite $60,000 as the next support and $64,000 to $66,000 as resistance (Ted Pillows; KuCoin; COINOTAG).",
+      "topic": "$62,000 to $65,000 range",
+      "why": "Bitcoin has traded between about $62,000 and $65,000 since Nov. 14 and is now testing the low end; analysts cite $60,000 as the next support (U.Today; COINOTAG).",
       "confidence": "developing"
     },
     {
-      "topic": "Token unlocks and Japan CPI",
-      "why": "LayerZero (ZRO) and KAITO token unlocks and Japan's October CPI are scheduled for Nov. 20 (KuCoin).",
-      "confidence": "confirmed"
+      "topic": "Japan and the carry trade",
+      "why": "Bank of Japan signals of more rate hikes and possible yen intervention, with U.S. 10-year yields above 5%, raise the risk of a carry-trade unwind (Coin Gabbar).",
+      "confidence": "developing"
     },
     {
-      "topic": "Fed decision Dec. 9",
-      "why": "Markets price a December rate increase as highly likely, a backdrop that has weighed on crypto (Ted Pillows; Altcoin Buzz).",
-      "confidence": "confirmed"
+      "topic": "Weekly close and ETF flows",
+      "why": "Bitcoin is on track for a seventh straight weekly loss, and U.S. spot Bitcoin ETFs have seen about $2.6 billion of November outflows (Altcoin Buzz; KuCoin).",
+      "confidence": "developing"
     }
   ],
   "movers": [
     {
-      "name": "BTW",
-      "pct": 32,
-      "note": "Up about 32% over 24 hours as of early afternoon ET (Altcoin Buzz)."
+      "name": "CHUNKEE",
+      "pct": 224,
+      "note": "Top gainer, up about 224% over 24 hours per CoinGecko (Coin Gabbar)."
     },
     {
-      "name": "PEARL",
-      "pct": 23,
-      "note": "Up about 23% over 24 hours (Altcoin Buzz)."
+      "name": "ICNT",
+      "pct": 34.8,
+      "note": "Up about 34.8% over 24 hours (Coin Gabbar)."
     },
     {
-      "name": "Pieverse (PIEVERSE)",
-      "pct": 21,
-      "note": "Up about 21% over 24 hours (Altcoin Buzz)."
-    },
-    {
-      "name": "Bitcoin (BTC)",
-      "pct": -1.5,
-      "note": "Down about 1.5% over 24 hours near $61,700 after the U.S. close (COINOTAG)."
+      "name": "EVAA",
+      "pct": 33.6,
+      "note": "Up about 33.6% over 24 hours (Coin Gabbar)."
     },
     {
       "name": "Pi Network (PI)",
-      "pct": -5,
-      "note": "Down about 5% to an all-time low near $0.057 (Altcoin Buzz)."
+      "pct": -10.4,
+      "note": "Down about 10.4% to near $0.051 (Coin Gabbar)."
     },
     {
-      "name": "Sky (SKY)",
-      "pct": -12,
-      "note": "Biggest decliner in the top 100, down about 12% over 24 hours (Altcoin Buzz)."
+      "name": "Backpack (BP)",
+      "pct": -17.4,
+      "note": "Down about 17.4% over 24 hours (Coin Gabbar)."
+    },
+    {
+      "name": "Anthropic PreStocks (ANTHROPIC)",
+      "pct": -30.9,
+      "note": "Tokenized pre-IPO Anthropic exposure fell about 30.9% after the real shares began trading (Coin Gabbar)."
     }
   ],
   "sources": [
+    {
+      "title": "Coin Gabbar — Crypto News Nov 20: Bitcoin Drops 2.7% Amid Japan Risk, Fed Hike Fears",
+      "url": "https://www.coingabbar.com/en/crypto-news-today-cftc-rules-japan-risk-anthropic-bitcoin-price"
+    },
+    {
+      "title": "Coin Gabbar — Why Crypto Market Down Today? BTC, ETH Fall as Asian Markets Lose $1T",
+      "url": "https://www.coingabbar.com/en/why-crypto-market-down-today-btc-eth-xrp-pi-coin-asian-markets"
+    },
+    {
+      "title": "U.Today — Bitcoin (BTC) Price Analysis for November 20: Death Cross Is Here",
+      "url": "https://u.today/price-analysis/bitcoin-btc-price-analysis-for-november-20-death-cross-is-here"
+    },
+    {
+      "title": "Reuters via Yahoo Finance — Wall St futures slip as Anthropic debut fails to reassure AI investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+    },
     {
       "title": "COINOTAG — Bitcoin (BTC) Slides to $61,700 After Anthropic Debut Sparks Tech Selloff",
       "url": "https://en.coinotag.com/bitcoin-slides-61700-anthropic-debut-tech-selloff"
     },
     {
-      "title": "CryptoTicker — Crypto news: Dow drops 1,000 points, bitcoin slips to $62K",
-      "url": "https://cryptoticker.io/en/crypto-news-dow-drops-1000-points-bitcoin-vix/"
-    },
-    {
-      "title": "TokenPost — Bitcoin Falls 2.6% as Dow Drops 1,014 Points; VIX Reaches 28.21",
-      "url": "https://www.tokenpost.com/news/investing/61563"
-    },
-    {
       "title": "Altcoin Buzz — 14% Weekly Drop Sends Bitcoin to $62K as Fear Index Sits Near 11",
       "url": "https://www.altcoinbuzz.io/14-weekly-drop-sends-bitcoin-to-62k-as-fear-index-sits-near-11"
-    },
-    {
-      "title": "Ted Pillows — Crypto & Finance market report, Thursday, November 19, 2026",
-      "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-2a5"
-    },
-    {
-      "title": "The Daily Coins — Crypto market today, 19 Nov 2026",
-      "url": "https://thedailycoins.io/2026/11/crypto-market-today-2026-11-19/"
     },
     {
       "title": "KuCoin — Crypto Daily Market Report, November 19, 2026",

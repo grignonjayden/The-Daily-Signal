@@ -1,101 +1,113 @@
 {
-  "generated_at": "Nov 19, 2026, 4:45 PM ET (Thursday close)",
+  "generated_at": "Nov 20, 2026, 7:45 AM ET (Thursday close; Friday pre-market)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed down 1,101.11 points, or 2.19%, at 49,097.06 on Thursday, ending below 50,000 after Wednesday's 1.11% drop (Yahoo Finance)."
+      "note": "Closed Thursday down 1,101.11 points, or 2.19%, at 49,097.06, its first finish below 50,000 since June; Dow futures were down about 0.2% early Friday (Yahoo Finance; IC Markets; Reuters via Yahoo Finance)."
     },
     {
       "index": "S&P 500",
-      "note": "Closed down 147.80 points, or 2.02%, at 7,175.83, a sixth straight losing session after an early gain of about 1% faded (Yahoo Finance; StockTitan)."
+      "note": "Closed Thursday down 147.80 points, or 2.02%, at 7,175.83, a sixth straight loss; S&P 500 futures were down about 0.5% to 0.8% early Friday (Yahoo Finance; Reuters via Yahoo Finance)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed down 550.69 points, or 2.25%, at 23,879.20, reversing an early rally tied to Anthropic's debut (Yahoo Finance)."
+      "note": "Closed Thursday down 550.69 points, or 2.25%, at 23,879.20, about 13.6% below its Oct. 6 record close; Nasdaq-100 futures were down about 1.3% to 1.6% early Friday (Yahoo Finance; Reuters via Yahoo Finance)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "December futures were up $0.77, or 0.94%, at $83.08 late Thursday, recovering part of Wednesday's 3.2% slide; Middle East shipping attacks offset worries about a supply surplus (Yahoo Finance; RTÉ)."
+      "note": "December futures traded near $81.67 early Friday, down $0.77 or 0.93%; Brent fell 1.6% and is headed for a third straight weekly loss on supply-surplus expectations (Reuters via Yahoo Finance)."
     }
   ],
   "themes": [
     {
-      "title": "Anthropic closes up 17% in debut",
-      "summary": "Anthropic opened at $111.50, 34% above its $83 IPO price after a record raise of about $81.3 billion, then closed at $97.17, up 17.07% (Yahoo Finance; StockTitan).",
+      "title": "AI selloff spreads overseas",
+      "summary": "Asian markets lost more than $1 trillion in value Friday: Japan's Nikkei 225 fell about 5%, South Korea's Kospi about 4% to 5% and Taiwan's TAIEX about 6%, with SoftBank down 16% (Coin Gabbar; IC Markets).",
       "confidence": "confirmed"
     },
     {
-      "title": "Broad selloff, Dow loses 1,100 points",
-      "summary": "An early rally faded and all three major indexes fell about 2% or more; the VIX volatility index rose about 14% to near 28, among its highest levels since March (Yahoo Finance; StockTitan).",
+      "title": "Anthropic slides in pre-market",
+      "summary": "After closing up 17% in its debut at $97.17, Anthropic fell about 6% to 7% in pre-market trading Friday; Amazon, Meta and Microsoft were each down more than 1.8% (Reuters via Yahoo Finance; Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "AMD hit by short report",
-      "summary": "AMD fell roughly 8% to 9% after short seller Hunterbrook questioned its China ties; Nvidia, Broadcom and other AI names also declined (Yahoo Finance; StockTitan).",
+      "title": "Worst week since April 2025",
+      "summary": "Through Thursday the Dow was down 6.2% for the week and the S&P 500 and Nasdaq about 5% each, their steepest weekly declines since the April 2025 tariff selloff (IC Markets; Reuters via Yahoo Finance).",
+      "confidence": "developing"
+    },
+    {
+      "title": "December rate hike nearly priced in",
+      "summary": "CME FedWatch shows a 98.4% chance of a Fed rate increase in December; Philadelphia Fed President Anna Paulson said Thursday the Fed will need to raise rates again (Reuters via Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
-      "title": "Health care selloff extends",
-      "summary": "UnitedHealth fell about 5% to 5.5% as the rotation out of health care continued; Johnson & Johnson and Merck also slipped (Yahoo Finance; TokenPost; StockTitan).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "Walmart beats; data soft",
-      "summary": "Walmart reported revenue of $188.8 billion and raised its outlook but its stock slipped about 1%; the Philadelphia Fed index fell to 6.3 from 20.9 and jobless claims rose to 203,000 (Yahoo Finance; StockTitan).",
+      "title": "Chips under pressure again",
+      "summary": "Nvidia was down 2.6% pre-market Friday and AMD, Broadcom, Marvell and Micron fell 3.5% to 5.5%, extending Thursday's losses after a short report on AMD (Reuters via Yahoo Finance; StockTitan).",
       "confidence": "confirmed"
     }
   ],
   "sectors": [
     {
       "name": "Semiconductors / AI",
-      "note": "Weak: AMD fell about 8% to 9%, and Nvidia, Broadcom, CoreWeave and Nebius were all lower in the afternoon (StockTitan; Yahoo Finance).",
-      "momentum": 25
+      "note": "Weakest group: Nvidia down 2.6% and other chipmakers down 3.5% to 5.5% pre-market Friday; CoreWeave and Nebius each down more than 5% (Reuters via Yahoo Finance).",
+      "momentum": 20
     },
     {
-      "name": "Health Care",
-      "note": "Lower again, led by UnitedHealth's drop of about 5%, with Johnson & Johnson and Merck also down (Yahoo Finance; StockTitan).",
-      "momentum": 15
-    },
-    {
-      "name": "Consumer / Retail",
-      "note": "Consumer staples had the largest sector decline; Walmart slipped about 1% and Williams-Sonoma fell more than 13%, while PDD rose more than 10% (Eurasia Business News; StockTitan).",
+      "name": "Mega-cap Tech",
+      "note": "Amazon, Meta and Microsoft each fell more than 1.8% pre-market, while Alphabet was little changed (Reuters via Yahoo Finance).",
       "momentum": 30
     },
     {
+      "name": "Consumer / Retail",
+      "note": "Gap rose 2.5% pre-market after Old Navy sales beat expectations; Thursday saw consumer staples post the largest sector decline (Reuters via Yahoo Finance; Eurasia Business News).",
+      "momentum": 40
+    },
+    {
       "name": "Energy",
-      "note": "Oil rose about 1% after reports of tanker attacks near the Strait of Hormuz, following Wednesday's drop to its lowest since late August (RTÉ; Yahoo Finance).",
-      "momentum": 50
+      "note": "Oil eased about 1% Friday after Thursday's gain on tanker attacks near the Strait of Hormuz; shipments through the strait are back near prewar levels (Reuters via Yahoo Finance; RTÉ).",
+      "momentum": 40
     }
   ],
   "watch_list": [
     {
-      "topic": "Anthropic's next sessions",
-      "why": "The stock closed well below its first trade and slipped about 1.5% after hours; its IPO sale is expected to close Friday, Nov. 20 (Yahoo Finance; StockTitan).",
+      "topic": "Friday open and weekly close",
+      "why": "Futures point to a lower open for a seventh session of losses; the VIX volatility index was near 29 early Friday (Reuters via Yahoo Finance; TokenPost).",
       "confidence": "developing"
     },
     {
-      "topic": "After-the-bell earnings",
-      "why": "Intuit, Ross Stores and Gap were scheduled to report after Thursday's close (StockTitan).",
+      "topic": "Michigan sentiment, BJ's earnings",
+      "why": "The final University of Michigan consumer sentiment reading is due at 10:00 AM ET Friday, and BJ's Wholesale reports results (IC Markets).",
       "confidence": "confirmed"
     },
     {
-      "topic": "Fed decision Dec. 9",
-      "why": "Prediction markets price a high chance of a quarter-point rate increase at the December meeting (Ted Pillows; Altcoin Buzz).",
+      "topic": "PCE inflation next week",
+      "why": "Next week's PCE figures follow a hotter-than-expected October inflation report, ahead of the Fed's December meeting (Reuters via Yahoo Finance).",
       "confidence": "developing"
     }
   ],
   "sources": [
     {
+      "title": "Reuters via Yahoo Finance — Wall St futures slip as Anthropic debut fails to reassure AI investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html"
+    },
+    {
+      "title": "IC Markets — Stock Futures Fall as Global Markets Extend Losses (Nov. 20)",
+      "url": "https://www.ic.com/blog/stock-futures-fall-as-global-markets-extend-losses-20-november-ic/"
+    },
+    {
       "title": "Yahoo Finance — Stock market today: Dow sinks 1,100 points, S&P 500 and Nasdaq tank 2% as Anthropic IPO grabs spotlight",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
     },
     {
-      "title": "StockTitan — Stock Market Today Live, November 19, 2026: Stocks Slide on the Day Anthropic Begins Trading",
+      "title": "StockTitan — Stock Market Today Live, November 19, 2026",
       "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
     },
     {
-      "title": "Eurasia Business News — Stock Market Today, November 19, 2026: Dow Sinks 1,084 Points, Nasdaq Drops 2.2% After Anthropic Debut",
+      "title": "Eurasia Business News — Stock Market Today, November 19, 2026",
       "url": "https://eurasiabusinessnews.com/2026/11/19/stock-market-today-november-19-2026-dow-sinks-1084-points-nasdaq-drops-2-2-after-anthropic-debut/"
+    },
+    {
+      "title": "Coin Gabbar — Why Crypto Market Down Today? BTC, ETH Fall as Asian Markets Lose $1T",
+      "url": "https://www.coingabbar.com/en/why-crypto-market-down-today-btc-eth-xrp-pi-coin-asian-markets"
     },
     {
       "title": "RTÉ (Reuters) — Oil up as shipping attacks counter supply surplus outlook",
@@ -106,20 +118,8 @@
       "url": "https://www.tokenpost.com/news/investing/61563"
     },
     {
-      "title": "Ted Pillows — Crypto & Finance market report, Thursday, November 19, 2026",
-      "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-2a5"
-    },
-    {
-      "title": "Altcoin Buzz — 14% Weekly Drop Sends Bitcoin to $62K as Fear Index Sits Near 11",
-      "url": "https://www.altcoinbuzz.io/14-weekly-drop-sends-bitcoin-to-62k-as-fear-index-sits-near-11"
-    },
-    {
       "title": "WTOP (AP) — How major US stock indexes fared Wednesday 11/18/2026",
       "url": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-18-2026"
-    },
-    {
-      "title": "Yahoo Finance — Stock market today: Dow and S&P 500 slide, Nasdaq rises in anticipation of Anthropic IPO",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-earnings-anthropic-ipo-143530588.html"
     }
   ]
 }
