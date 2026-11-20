@@ -66,40 +66,40 @@
   .hero-actions { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
   .theme-switch { display: flex; align-items: center; background: none; border: 0; padding: 0; cursor: pointer; border-radius: 999px; -webkit-tap-highlight-color: transparent; }
   .ts-track {
-    position: relative; width: 68px; height: 34px; border-radius: 999px; overflow: hidden; display: block;
-    background: linear-gradient(160deg, #5DB3F0 0%, #A8DAFB 100%);
-    box-shadow: inset 0 2px 6px rgba(0,0,0,0.18), 0 1px 0 rgba(255,255,255,0.6), var(--shadow-sm);
+    position: relative; width: 52px; height: 26px; border-radius: 999px; overflow: hidden; display: block;
+    background: linear-gradient(160deg, #FBE6D3 0%, #E6DFEE 100%); /* page peach + lavender tints */
+    box-shadow: inset 0 1px 4px rgba(75,46,107,0.18), 0 0 0 1px rgba(75,46,107,0.08), var(--shadow-sm);
     transition: background 0.5s var(--ease), box-shadow 0.5s var(--ease), transform 0.2s var(--ease);
   }
   .theme-switch:hover .ts-track { transform: scale(1.05); }
   .theme-switch:active .ts-track { transform: scale(0.97); }
   /* night sky layer fades in over the day sky */
-  .ts-track::before { content: ''; position: absolute; inset: 0; border-radius: inherit; background: linear-gradient(160deg, #0A1230 0%, #22305E 100%); opacity: 0; transition: opacity 0.5s var(--ease); }
-  .ts-stars { position: absolute; inset: 0; opacity: 0; transform: translateY(6px); transition: opacity 0.5s var(--ease), transform 0.6s var(--ease); }
+  .ts-track::before { content: ''; position: absolute; inset: 0; border-radius: inherit; background: linear-gradient(160deg, #10192E 0%, #1C2E52 45%, #4B2E6B 100%); /* page navy into purple */ opacity: 0; transition: opacity 0.5s var(--ease); }
+  .ts-stars { position: absolute; inset: 0; opacity: 0; transform: translateY(5px); transition: opacity 0.5s var(--ease), transform 0.6s var(--ease); }
   .ts-stars i { position: absolute; width: 2px; height: 2px; border-radius: 50%; background: #fff; box-shadow: 0 0 4px rgba(255,255,255,0.9); animation: ts-twinkle 2.4s ease-in-out infinite; }
-  .ts-stars i:nth-child(1) { left: 11px; top: 9px; }
-  .ts-stars i:nth-child(2) { left: 22px; top: 19px; width: 1.5px; height: 1.5px; animation-delay: 0.6s; }
-  .ts-stars i:nth-child(3) { left: 16px; top: 25px; animation-delay: 1.2s; }
-  .ts-stars i:nth-child(4) { left: 29px; top: 8px; width: 1.5px; height: 1.5px; animation-delay: 1.8s; }
+  .ts-stars i:nth-child(1) { left: 8px; top: 7px; }
+  .ts-stars i:nth-child(2) { left: 17px; top: 15px; width: 1.5px; height: 1.5px; animation-delay: 0.6s; }
+  .ts-stars i:nth-child(3) { left: 12px; top: 19px; animation-delay: 1.2s; }
+  .ts-stars i:nth-child(4) { left: 22px; top: 6px; width: 1.5px; height: 1.5px; animation-delay: 1.8s; }
   @keyframes ts-twinkle { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
-  .ts-cloud { position: absolute; right: 9px; top: 15px; width: 18px; height: 7px; border-radius: 999px; background: #fff; opacity: 0.95; transition: transform 0.6s var(--ease), opacity 0.4s var(--ease); }
-  .ts-cloud::before { content: ''; position: absolute; left: 4px; top: -4px; width: 9px; height: 9px; border-radius: 50%; background: #fff; }
+  .ts-cloud { position: absolute; right: 7px; top: 12px; width: 14px; height: 5px; border-radius: 999px; background: #fff; opacity: 0.95; filter: drop-shadow(0 1px 1px rgba(75,46,107,0.18)); transition: transform 0.6s var(--ease), opacity 0.4s var(--ease); }
+  .ts-cloud::before { content: ''; position: absolute; left: 3px; top: -3px; width: 7px; height: 7px; border-radius: 50%; background: #fff; }
   .ts-knob {
-    position: absolute; top: 4px; left: 4px; width: 26px; height: 26px; border-radius: 50%; overflow: hidden;
-    background: radial-gradient(circle at 35% 35%, #FFE58A, #FFC22E 60%, #F5A30F);
-    box-shadow: 0 0 0 4px rgba(255,214,90,0.28), 0 0 16px rgba(255,190,40,0.75), 0 2px 4px rgba(0,0,0,0.2);
+    position: absolute; top: 3px; left: 3px; width: 20px; height: 20px; border-radius: 50%; overflow: hidden;
+    background: radial-gradient(circle at 35% 35%, #F6B07A, #E8843F 55%, #D9722C); /* page orange */
+    box-shadow: 0 0 0 3px rgba(217,114,44,0.18), 0 0 10px rgba(217,114,44,0.55), 0 1px 3px rgba(0,0,0,0.2);
     transition: transform 0.55s cubic-bezier(0.34, 1.56, 0.64, 1), background 0.5s var(--ease), box-shadow 0.5s var(--ease);
   }
   /* bite out of the knob turns the sun into a crescent moon */
-  .ts-knob::after { content: ''; position: absolute; width: 24px; height: 24px; border-radius: 50%; top: -6px; left: 9px; background: #182451; transform: scale(0); transform-origin: 70% 30%; transition: transform 0.5s var(--ease); }
+  .ts-knob::after { content: ''; position: absolute; width: 18px; height: 18px; border-radius: 50%; top: -5px; left: 7px; background: #2E2D5A; transform: scale(0); transform-origin: 70% 30%; transition: transform 0.5s var(--ease); }
   :root[data-theme="dark"] .ts-track { box-shadow: inset 0 2px 6px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.06); }
   :root[data-theme="dark"] .ts-track::before { opacity: 1; }
   :root[data-theme="dark"] .ts-stars { opacity: 1; transform: none; }
   :root[data-theme="dark"] .ts-cloud { transform: translateY(22px); opacity: 0; }
   :root[data-theme="dark"] .ts-knob {
-    transform: translateX(34px) rotate(-20deg);
-    background: radial-gradient(circle at 40% 40%, #FFFFFF, #E4E9F7 70%, #C9D2EC);
-    box-shadow: 0 0 0 4px rgba(200,214,255,0.12), 0 0 14px rgba(190,205,255,0.55);
+    transform: translateX(26px) rotate(-20deg);
+    background: radial-gradient(circle at 40% 40%, #FFFFFF, #E6DFEE 70%, #DFE3EC); /* page lavender + mist tints */
+    box-shadow: 0 0 0 3px rgba(230,223,238,0.12), 0 0 10px rgba(230,223,238,0.5);
   }
   :root[data-theme="dark"] .ts-knob::after { transform: scale(1); }
   .theme-switch:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; border-radius: 999px; }
