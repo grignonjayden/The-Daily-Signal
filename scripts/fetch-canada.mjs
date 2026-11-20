@@ -250,6 +250,26 @@ const xdecode = s => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').replace(/<[^
   .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
   .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
 const xtag = (b, names) => { for (const n of names) { const m = b.match(new RegExp(`<${n}[^>]*>([\\s\\S]*?)</${n}>`, 'i')); if (m) return m[1]; } return ''; };
+// Picture for a headline: feed media tags first, then the article page's og:image / twitter:image.
+function feedImage(b) {
+  const pats = [/<media:thumbnail[^>]*url="([^"]+)"/i, /<media:content[^>]*url="([^"]+\.(?:jpe?g|png|webp)[^"]*)"/i,
+    /<media:content[^>]*medium="image"[^>]*url="([^"]+)"/i, /<media:content[^>]*url="([^"]+)"[^>]*medium="image"/i,
+    /<enclosure[^>]*url="([^"]+)"[^>]*type="image/i, /<enclosure[^>]*type="image[^"]*"[^>]*url="([^"]+)"/i,
+    /<img[^>]*src=["']([^"']+)["']/i, /&lt;img[^&]*src=(?:&quot;|")([^"&]+)/i];
+  for (const re of pats) { const m = b.match(re); if (m && /^https:\/\//.test(m[1])) return m[1].replace(/&amp;/g, '&'); }
+  return '';
+}
+async function pageImage(url) {
+  try {
+    const html = (await (await get(url, { headers: { Accept: 'text/html' } })).text()).slice(0, 300000);
+    for (const re of [/<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["']/i, /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
+      /<meta[^>]+name=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["']/i, /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i]) {
+      const m = html.match(re);
+      if (m) { const u = new URL(m[1].replace(/&amp;/g, '&'), url).href; if (/^https:\/\//.test(u)) return u; }
+    }
+  } catch (e) { /* no picture */ }
+  return '';
+}
 async function readFeed(url) {
   const xml = await (await get(url, { headers: { Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml' } })).text();
   const blocks = xml.match(/<item[\s>][\s\S]*?<\/item>|<entry[\s>][\s\S]*?<\/entry>/gi) || [];
@@ -257,7 +277,7 @@ async function readFeed(url) {
     let link = xdecode(xtag(b, ['link']));
     if (!/^https?:/.test(link)) { const m = b.match(/<link[^>]*href="([^"]+)"/i); link = m ? m[1].replace(/&amp;/g, '&') : ''; }
     const date = new Date(xdecode(xtag(b, ['pubDate', 'published', 'updated', 'dc:date'])));
-    return { title: xdecode(xtag(b, ['title'])), url: link, summary: xdecode(xtag(b, ['description', 'summary', 'content'])).slice(0, 400), date: isNaN(date) ? null : date };
+    return { title: xdecode(xtag(b, ['title'])), url: link, image: feedImage(b), summary: xdecode(xtag(b, ['description', 'summary', 'content'])).slice(0, 400), date: isNaN(date) ? null : date };
   }).filter(i => i.title && /^https?:/.test(i.url));
 }
 const feedStatus = [];
@@ -277,14 +297,17 @@ async function deals() {
     }).sort((a, b) => b.date - a.date).slice(0, 2);
     feedStatus.push({ source: f.source, fetched: got.length, kept: keep.length });
     keep.forEach(i => all.push({
-      title: i.title, url: i.url, source: f.source, badge: f.badge, analysis: !!f.analysis,
+      title: i.title, url: i.url, image: i.image || '', source: f.source, badge: f.badge, analysis: !!f.analysis,
       sector: (SECTOR_TAGS.find(([, re]) => re.test(i.title)) || SECTOR_TAGS.find(([, re]) => re.test(i.summary)) || ['General'])[0],
       time: i.date.toLocaleDateString('en-CA', { month: 'short', day: 'numeric', timeZone: TZ }), ts: i.date.getTime(),
     }));
   }));
   all.sort((a, b) => b.ts - a.ts);
   if (!all.length) throw new Error('Deals: no headlines');
-  return all.slice(0, 14).map(({ ts, ...rest }) => rest);
+  const top = all.slice(0, 14);
+  await Promise.all(top.filter(a => !a.image).map(async a => { a.image = await pageImage(a.url); }));
+  console.log('Deal pictures:', top.filter(a => a.image).length + '/' + top.length);
+  return top.map(({ ts, ...rest }) => rest);
 }
 
 // ---------- assemble ----------

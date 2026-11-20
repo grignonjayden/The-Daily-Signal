@@ -1499,7 +1499,14 @@ function renderCanada(data, dateKey) {
       (sec.items || []).forEach((a, i) => {
         const card = el('a', { className: 'news-card has-thumb', href: a.url || '#' });
         card.style.animationDelay = (i * 0.05) + 's';
-        card.appendChild(el('div', { className: 'news-thumb-sm official', text: a.badge || (a.source || '').slice(0, 4).toUpperCase() }));
+        const thumb = el('div', { className: 'news-thumb-sm official' });
+        const badge = () => { thumb.innerHTML = ''; thumb.textContent = a.badge || (a.source || '').slice(0, 4).toUpperCase(); };
+        if (a.image) {
+          const img = document.createElement('img');
+          img.alt = ''; img.loading = 'lazy'; img.referrerPolicy = 'no-referrer'; img.onerror = badge; img.src = a.image;
+          thumb.appendChild(img);
+        } else badge();
+        card.appendChild(thumb);
         const body = el('div', { className: 'news-card-body' });
         const top = el('div', { className: 'news-card-top' });
         top.appendChild(el('span', { className: 'news-source', text: (a.source || '') + (a.analysis ? ' · Analysis' : '') }));
