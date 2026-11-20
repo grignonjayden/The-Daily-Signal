@@ -65,16 +65,21 @@
   body { transition: background 0.3s var(--ease), color 0.3s var(--ease); }
   .hero-actions { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
   .theme-switch { display: flex; flex-direction: column; align-items: center; gap: 4px; background: none; border: 0; padding: 0; cursor: pointer; border-radius: 999px; -webkit-tap-highlight-color: transparent; }
+  /* Liquid-glass toggle: frosted see-through track, glossy bubble knob, page colours */
   .ts-track {
-    position: relative; width: 52px; height: 26px; border-radius: 999px; overflow: hidden; display: block;
-    background: linear-gradient(160deg, #FBE6D3 0%, #E6DFEE 100%); /* page peach + lavender tints */
-    box-shadow: inset 0 1px 4px rgba(75,46,107,0.18), 0 0 0 1px rgba(75,46,107,0.08), var(--shadow-sm);
-    transition: background 0.5s var(--ease), box-shadow 0.5s var(--ease), transform 0.2s var(--ease);
+    position: relative; width: 52px; height: 26px; border-radius: 999px; overflow: hidden; display: block; isolation: isolate;
+    background: linear-gradient(160deg, rgba(251,230,211,0.62) 0%, rgba(230,223,238,0.62) 100%); /* page peach + lavender tints */
+    -webkit-backdrop-filter: blur(10px) saturate(180%); backdrop-filter: blur(10px) saturate(180%);
+    border: 1px solid rgba(255,255,255,0.7);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.95), inset 0 -1px 3px rgba(75,46,107,0.16), inset 0 0 10px rgba(255,255,255,0.35), 0 4px 14px rgba(75,46,107,0.14);
+    transition: background 0.5s var(--ease), box-shadow 0.5s var(--ease), border-color 0.5s var(--ease), transform 0.2s var(--ease);
   }
   .theme-switch:hover .ts-track { transform: scale(1.05); }
   .theme-switch:active .ts-track { transform: scale(0.97); }
-  /* night sky layer fades in over the day sky */
-  .ts-track::before { content: ''; position: absolute; inset: 0; border-radius: inherit; background: linear-gradient(160deg, #10192E 0%, #1C2E52 45%, #4B2E6B 100%); /* page navy into purple */ opacity: 0; transition: opacity 0.5s var(--ease); }
+  /* night sky layer (page navy into purple), still see-through */
+  .ts-track::before { content: ''; position: absolute; inset: 0; border-radius: inherit; z-index: -1; background: linear-gradient(160deg, rgba(16,25,46,0.85) 0%, rgba(28,46,82,0.8) 45%, rgba(75,46,107,0.78) 100%); opacity: 0; transition: opacity 0.5s var(--ease); }
+  /* glass sheen across the top of the track */
+  .ts-track::after { content: ''; position: absolute; left: 4px; right: 4px; top: 1px; height: 45%; border-radius: 999px; pointer-events: none; z-index: 3; background: linear-gradient(180deg, rgba(255,255,255,0.75), rgba(255,255,255,0)); opacity: 0.7; }
   .ts-stars { position: absolute; inset: 0; opacity: 0; transform: translateY(5px); transition: opacity 0.5s var(--ease), transform 0.6s var(--ease); }
   .ts-stars i { position: absolute; width: 2px; height: 2px; border-radius: 50%; background: #fff; box-shadow: 0 0 4px rgba(255,255,255,0.9); animation: ts-twinkle 2.4s ease-in-out infinite; }
   .ts-stars i:nth-child(1) { left: 8px; top: 7px; }
@@ -82,24 +87,30 @@
   .ts-stars i:nth-child(3) { left: 12px; top: 19px; animation-delay: 1.2s; }
   .ts-stars i:nth-child(4) { left: 22px; top: 6px; width: 1.5px; height: 1.5px; animation-delay: 1.8s; }
   @keyframes ts-twinkle { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
-  .ts-cloud { position: absolute; right: 7px; top: 12px; width: 14px; height: 5px; border-radius: 999px; background: #fff; opacity: 0.95; filter: drop-shadow(0 1px 1px rgba(75,46,107,0.18)); transition: transform 0.6s var(--ease), opacity 0.4s var(--ease); }
-  .ts-cloud::before { content: ''; position: absolute; left: 3px; top: -3px; width: 7px; height: 7px; border-radius: 50%; background: #fff; }
+  .ts-cloud { position: absolute; right: 7px; top: 11px; width: 14px; height: 5px; border-radius: 999px; background: rgba(255,255,255,0.85); filter: drop-shadow(0 1px 1px rgba(75,46,107,0.2)); transition: transform 0.6s var(--ease), opacity 0.4s var(--ease); }
+  .ts-cloud::before { content: ''; position: absolute; left: 3px; top: -3px; width: 7px; height: 7px; border-radius: 50%; background: rgba(255,255,255,0.85); }
   .ts-knob {
-    position: absolute; top: 3px; left: 3px; width: 20px; height: 20px; border-radius: 50%; overflow: hidden;
-    background: radial-gradient(circle at 35% 35%, #F6B07A, #E8843F 55%, #D9722C); /* page orange */
-    box-shadow: 0 0 0 3px rgba(217,114,44,0.18), 0 0 10px rgba(217,114,44,0.55), 0 1px 3px rgba(0,0,0,0.2);
-    transition: transform 0.55s cubic-bezier(0.34, 1.56, 0.64, 1), background 0.5s var(--ease), box-shadow 0.5s var(--ease);
+    position: absolute; top: 2px; left: 2px; width: 20px; height: 20px; border-radius: 50%; overflow: hidden; z-index: 2;
+    background: radial-gradient(circle at 32% 28%, rgba(255,236,220,0.95) 0%, rgba(246,176,122,0.88) 38%, rgba(232,132,63,0.85) 68%, rgba(217,114,44,0.9) 100%); /* glassy page orange */
+    box-shadow: inset 0 1px 1px rgba(255,255,255,0.9), inset 0 -2px 4px rgba(166,89,31,0.45), inset 0 0 0 0.5px rgba(255,255,255,0.5), 0 2px 6px rgba(217,114,44,0.45), 0 0 10px rgba(217,114,44,0.4);
+    transition: transform 0.6s cubic-bezier(0.34, 1.56, 0.64, 1), background 0.5s var(--ease), box-shadow 0.5s var(--ease);
   }
-  /* bite out of the knob turns the sun into a crescent moon */
-  .ts-knob::after { content: ''; position: absolute; width: 18px; height: 18px; border-radius: 50%; top: -5px; left: 7px; background: #2E2D5A; transform: scale(0); transform-origin: 70% 30%; transition: transform 0.5s var(--ease); }
-  :root[data-theme="dark"] .ts-track { box-shadow: inset 0 2px 6px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.06); }
+  /* specular highlight on the bubble */
+  .ts-knob::before { content: ''; position: absolute; left: 4px; top: 2.5px; width: 9px; height: 5px; border-radius: 50%; background: rgba(255,255,255,0.85); filter: blur(0.6px); transform: rotate(-20deg); z-index: 2; }
+  /* bite out of the bubble turns the sun into a crescent moon */
+  .ts-knob::after { content: ''; position: absolute; width: 18px; height: 18px; border-radius: 50%; top: -5px; left: 7px; background: rgba(40,40,84,0.92); transform: scale(0); transform-origin: 70% 30%; transition: transform 0.5s var(--ease); z-index: 1; }
+  /* liquid stretch while it moves */
+  .ts-knob.ts-moving { animation: ts-squish 0.6s var(--ease); }
+  @keyframes ts-squish { 0% { scale: 1 1; } 35% { scale: 1.45 0.8; } 65% { scale: 0.92 1.08; } 100% { scale: 1 1; } }
+  :root[data-theme="dark"] .ts-track { border-color: rgba(255,255,255,0.14); box-shadow: inset 0 1px 0 rgba(255,255,255,0.22), inset 0 -1px 3px rgba(0,0,0,0.45), inset 0 0 10px rgba(120,100,180,0.2), 0 4px 14px rgba(0,0,0,0.45); }
   :root[data-theme="dark"] .ts-track::before { opacity: 1; }
+  :root[data-theme="dark"] .ts-track::after { opacity: 0.22; }
   :root[data-theme="dark"] .ts-stars { opacity: 1; transform: none; }
-  :root[data-theme="dark"] .ts-cloud { transform: translateY(22px); opacity: 0; }
+  :root[data-theme="dark"] .ts-cloud { transform: translateY(20px); opacity: 0; }
   :root[data-theme="dark"] .ts-knob {
     transform: translateX(26px) rotate(-20deg);
-    background: radial-gradient(circle at 40% 40%, #FFFFFF, #E6DFEE 70%, #DFE3EC); /* page lavender + mist tints */
-    box-shadow: 0 0 0 3px rgba(230,223,238,0.12), 0 0 10px rgba(230,223,238,0.5);
+    background: radial-gradient(circle at 32% 28%, rgba(255,255,255,0.97) 0%, rgba(230,223,238,0.9) 45%, rgba(223,227,236,0.78) 100%); /* glassy page lavender + mist */
+    box-shadow: inset 0 1px 1px rgba(255,255,255,0.95), inset 0 -2px 4px rgba(75,46,107,0.35), 0 2px 6px rgba(0,0,0,0.35), 0 0 10px rgba(230,223,238,0.45);
   }
   :root[data-theme="dark"] .ts-knob::after { transform: scale(1); }
   .ts-label { font-size: 10.5px; font-weight: 600; color: var(--ink-faint); letter-spacing: 0.02em; white-space: nowrap; }
@@ -1724,7 +1735,11 @@ function setTheme(t, save) {
   if (save) { try { localStorage.setItem('ds-theme', t); } catch (e) { /* storage unavailable */ } }
 }
 setTheme(document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light', false);
-themeSwitch.addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark', true));
+themeSwitch.addEventListener('click', () => {
+  const knob = themeSwitch.querySelector('.ts-knob');
+  knob.classList.remove('ts-moving'); void knob.offsetWidth; knob.classList.add('ts-moving'); // liquid stretch
+  setTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark', true);
+});
 
 // Live data: news.json refreshes every ~30 min (GitHub Action);
 // markets.json and crypto.json are rewritten by Claude each morning (scheduled task).
