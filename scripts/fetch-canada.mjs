@@ -334,17 +334,32 @@ const [g, fx, b5, pol, prime, mort, gic, col] = await Promise.all([
   safe(costOfLiving, ['Inflation (CPI)', 'Food prices', 'Unemployment rate']),
 ]);
 let dealItems;
-try { dealItems = await deals(); } catch (e) { console.error('!', e.message); dealItems = ((prev && prev.sections) || []).find(s => s.key === 'deals')?.items || []; }
+const GOV_OUT = 'government.json';
+const prevGov = existsSync(GOV_OUT) ? JSON.parse(readFileSync(GOV_OUT, 'utf8')) : null;
+try { dealItems = await deals(); } catch (e) { console.error('!', e.message); dealItems = (prevGov && prevGov.items) || []; }
 
 const sections = [
   { key: 'daily', title: 'Today in Canada', icon: 'car', caption: 'Updates daily', items: [...g, ...fx, ...b5] },
   { key: 'rates', title: 'Borrowing & Saving', icon: 'bank', caption: 'Bank of Canada data · updates daily and weekly', items: [...pol, ...prime, ...mort, ...gic] },
   { key: 'living', title: 'Cost of Living & Jobs', icon: 'cart', caption: 'Statistics Canada · updates monthly', items: col },
   { key: 'invest', title: 'Where Ottawa Is Investing', icon: 'building', caption: 'Federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice', items: SECTORS },
-  { key: 'deals', type: 'list', title: 'Government Decisions', icon: 'signal', caption: 'Federal investment news from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day', items: dealItems },
 ].filter(s => s.items.length);
 
-if (!sections.some(s => !['invest', 'deals'].includes(s.key))) { console.error('Nothing fetched; keeping existing canada.json'); process.exit(0); }
+// Government Decisions tab — its own file so it loads like News and Crypto.
+if (dealItems.length) writeFileSync(GOV_OUT, JSON.stringify({
+  generated_at: now.toLocaleString('en-US', { timeZone: TZ, month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' ET',
+  date_key: todayIso,
+  caption: 'Federal investment news and decisions from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day',
+  items: dealItems,
+  sources: [
+    { title: 'CBC News', url: 'https://www.cbc.ca/news/business' }, { title: 'CP24', url: 'https://www.cp24.com/' },
+    { title: 'ISED', url: 'https://ised-isde.canada.ca/site/ised/en' }, { title: 'Finance Canada', url: 'https://www.canada.ca/en/department-finance.html' },
+    { title: 'CDEV', url: 'https://cdev.gc.ca/' }, { title: 'Canada Media Fund', url: 'https://cmf-fmc.ca/' }, { title: 'C.D. Howe Institute', url: 'https://www.cdhowe.org/' },
+  ],
+  feed_status: feedStatus,
+}, null, 2) + '\n');
+
+if (!sections.some(s => s.key !== 'invest')) { console.error('Nothing fetched; keeping existing canada.json'); process.exit(0); }
 
 const out = {
   generated_at: now.toLocaleString('en-US', { timeZone: TZ, month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' ET',
@@ -355,14 +370,7 @@ const out = {
     { title: 'Bank of Canada', url: 'https://www.bankofcanada.ca/rates/' },
     { title: 'Statistics Canada', url: 'https://www150.statcan.gc.ca/n1/dai-quo/index-eng.htm' },
     { title: 'Budget 2026', url: 'https://budget.canada.ca/2026/home-accueil-en.html' },
-    { title: 'CBC News', url: 'https://www.cbc.ca/news/business' },
-    { title: 'CP24', url: 'https://www.cp24.com/' },
-    { title: 'ISED', url: 'https://ised-isde.canada.ca/site/ised/en' },
-    { title: 'CDEV', url: 'https://cdev.gc.ca/' },
-    { title: 'Canada Media Fund', url: 'https://cmf-fmc.ca/' },
-    { title: 'C.D. Howe Institute', url: 'https://www.cdhowe.org/' },
   ],
-  feed_status: feedStatus,
 };
 writeFileSync(OUT, JSON.stringify(out, null, 2) + '\n');
 console.log('Wrote', OUT, sections.map(s => s.title + ': ' + s.items.map(i => i.name + ' ' + i.value + (i.stale ? ' (stale)' : '')).join(', ')).join(' | '));

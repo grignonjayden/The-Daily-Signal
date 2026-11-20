@@ -462,6 +462,7 @@ const ICONS = {
   lightbulb: 'M9 18h6M10 21h4M12 3a6 6 0 00-3.75 10.68c.47.38.75.96.75 1.57V16h6v-.75c0-.6.28-1.19.75-1.57A6 6 0 0012 3z',
   chip: 'M6 6h12v12H6zM9 3v3M15 3v3M9 18v3M15 18v3M3 9h3M3 15h3M18 9h3M18 15h3',
   drill: 'M3 21l4-4M5 15l3-3 4 4-3 3-4-4zM10 12l7-7M16 5l3 3M9 9l2 2',
+  gavel: 'M10 6l4-4 6 6-4 4zM13 9l-9 9a1.4 1.4 0 002 2l9-9M13 21h8',
   bank: 'M3 21h18M5 21V10M9 21V10M15 21V10M19 21V10M3 10l9-6 9 6M4 10h16',
   health: 'M4 12h3l2-4 4 8 2-4h5',
   cart: 'M3 4h2l2.4 12.4a2 2 0 002 1.6h7.2a2 2 0 002-1.96L19 8H6M9 21a1 1 0 100-2 1 1 0 000 2zM17 21a1 1 0 100-2 1 1 0 000 2z',
@@ -1490,37 +1491,10 @@ function renderCanada(data, dateKey) {
     mainPanel.appendChild(w);
     return;
   }
-  const looks = { car: ['var(--pink-soft)', 'var(--pink-deep)'], bank: ['var(--mint-soft)', 'var(--mint-deep)'], cart: ['var(--lavender-soft)', '#4B2E6B'], building: ['var(--sky-soft)', 'var(--sky)'], signal: ['var(--pink-soft)', 'var(--pink-deep)'] };
+  const looks = { car: ['var(--pink-soft)', 'var(--pink-deep)'], bank: ['var(--mint-soft)', 'var(--mint-deep)'], cart: ['var(--lavender-soft)', '#4B2E6B'], building: ['var(--sky-soft)', 'var(--sky)'] };
   data.sections.forEach(sec => {
     const c = looks[sec.icon] || looks.bank;
     const widget = widgetShell('w-span-12', ICONS[sec.icon] ? sec.icon : 'maple', c[0], c[1], sec.title, (sec.items || []).length);
-    if (sec.type === 'list') { // headline list (Government Decisions)
-      const list = el('div', { className: 'news-list' });
-      (sec.items || []).forEach((a, i) => {
-        const card = el('a', { className: 'news-card has-thumb', href: a.url || '#' });
-        card.style.animationDelay = (i * 0.05) + 's';
-        const thumb = el('div', { className: 'news-thumb-sm official' });
-        const badge = () => { thumb.innerHTML = ''; thumb.textContent = a.badge || (a.source || '').slice(0, 4).toUpperCase(); };
-        if (a.image) {
-          const img = document.createElement('img');
-          img.alt = ''; img.loading = 'lazy'; img.referrerPolicy = 'no-referrer'; img.onerror = badge; img.src = a.image;
-          thumb.appendChild(img);
-        } else badge();
-        card.appendChild(thumb);
-        const body = el('div', { className: 'news-card-body' });
-        const top = el('div', { className: 'news-card-top' });
-        top.appendChild(el('span', { className: 'news-source', text: (a.source || '') + (a.analysis ? ' · Analysis' : '') }));
-        top.appendChild(el('span', { className: 'news-time', text: [a.sector, a.time].filter(Boolean).join(' · ') }));
-        body.appendChild(top);
-        body.appendChild(el('p', { className: 'news-title', text: a.title || '' }));
-        card.appendChild(body);
-        list.appendChild(card);
-      });
-      widget.appendChild(list);
-      if (sec.caption) widget.appendChild(el('p', { className: 'live-updated', text: sec.caption + ' · tap a headline for the full story' }));
-      mainPanel.appendChild(widget);
-      return;
-    }
     const scroll = el('div', { className: 'pulse-scroll' });
     (sec.items || []).forEach((it, i) => {
       const chip = el('a', { className: 'pulse-chip', href: it.url || '#' });
@@ -1544,11 +1518,55 @@ function renderCanada(data, dateKey) {
   mainPanel.appendChild(note);
 }
 
+// Government Decisions tab — federal investment news from government.json (same GitHub Action as Canada).
+const TODAYS_GOV = { generated_at: '', items: [] };
+function renderGovernment(data, dateKey) {
+  dateline.textContent = 'Government decisions for ' + fmtDateHuman(data.date_key || dateKey) + (data.generated_at ? ' · updated ' + data.generated_at : '');
+  mainPanel.innerHTML = '';
+  const items = data.items || [];
+  const widget = widgetShell('w-span-12', 'gavel', 'var(--sky-soft)', 'var(--sky)', 'Government Decisions', items.length);
+  if (!items.length) {
+    widget.appendChild(el('div', { className: 'empty' }));
+    widget.querySelector('.empty').appendChild(el('p', { text: 'Government decisions are loading. Check back in a moment.' }));
+    mainPanel.appendChild(widget);
+    return;
+  }
+  const list = el('div', { className: 'news-list' });
+  items.forEach((a, i) => {
+    const card = el('a', { className: 'news-card has-thumb', href: a.url || '#' });
+    card.style.animationDelay = (i * 0.05) + 's';
+    const thumb = el('div', { className: 'news-thumb-sm official' });
+    const badge = () => { thumb.innerHTML = ''; thumb.textContent = a.badge || (a.source || '').slice(0, 4).toUpperCase(); };
+    if (a.image) {
+      const img = document.createElement('img');
+      img.alt = ''; img.loading = 'lazy'; img.referrerPolicy = 'no-referrer'; img.onerror = badge; img.src = a.image;
+      thumb.appendChild(img);
+    } else badge();
+    card.appendChild(thumb);
+    const body = el('div', { className: 'news-card-body' });
+    const top = el('div', { className: 'news-card-top' });
+    top.appendChild(el('span', { className: 'news-source', text: (a.source || '') + (a.analysis ? ' · Analysis' : '') }));
+    top.appendChild(el('span', { className: 'news-time', text: [a.sector, a.time].filter(Boolean).join(' · ') }));
+    body.appendChild(top);
+    body.appendChild(el('p', { className: 'news-title', text: a.title || '' }));
+    card.appendChild(body);
+    list.appendChild(card);
+  });
+  widget.appendChild(list);
+  if (data.caption) widget.appendChild(el('p', { className: 'live-updated', text: data.caption + ' · tap a headline for the full story' }));
+  mainPanel.appendChild(widget);
+  const note = el('p', { className: 'live-updated' });
+  note.appendChild(document.createTextNode('Sources: '));
+  (data.sources || []).forEach((src, i) => { if (i) note.appendChild(document.createTextNode(', ')); note.appendChild(el('a', { href: src.url, text: src.title })); });
+  mainPanel.appendChild(note);
+}
+
 const TAB_CONFIG = {
   markets: { label: 'Markets', icon: 'pulse', data: TODAYS_BRIEFING, render: renderBriefing },
   crypto: { label: 'Crypto', icon: 'bitcoin', data: TODAYS_CRYPTO, render: renderCrypto },
   news: { label: 'News', icon: 'frontpage', data: TODAYS_NEWS, render: renderNews },
-  canada: { label: 'Canada', icon: 'maple', data: TODAYS_CANADA, render: renderCanada }
+  canada: { label: 'Canada', icon: 'maple', data: TODAYS_CANADA, render: renderCanada },
+  government: { label: 'Government Decisions', icon: 'gavel', data: TODAYS_GOV, render: renderGovernment }
 };
 let activeTab = 'markets';
 let generatedToday = false;
@@ -1611,7 +1629,7 @@ genBtn.addEventListener('click', generateBriefing);
 
 // Live data: news.json refreshes every ~30 min (GitHub Action);
 // markets.json and crypto.json are rewritten by Claude each morning (scheduled task).
-const liveLoaded = { markets: false, crypto: false, news: false, canada: false };
+const liveLoaded = { markets: false, crypto: false, news: false, canada: false, government: false };
 let tabSwitched = false;
 async function loadLive(tab) {
   const file = tab + '.json';
