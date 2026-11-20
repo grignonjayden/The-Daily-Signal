@@ -64,7 +64,7 @@
   :root[data-theme="dark"] .tab-btn.active svg { filter: none; }
   body { transition: background 0.3s var(--ease), color 0.3s var(--ease); }
   .hero-actions { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
-  .theme-switch { display: flex; align-items: center; background: none; border: 0; padding: 0; cursor: pointer; border-radius: 999px; -webkit-tap-highlight-color: transparent; }
+  .theme-switch { display: flex; flex-direction: column; align-items: center; gap: 4px; background: none; border: 0; padding: 0; cursor: pointer; border-radius: 999px; -webkit-tap-highlight-color: transparent; }
   .ts-track {
     position: relative; width: 52px; height: 26px; border-radius: 999px; overflow: hidden; display: block;
     background: linear-gradient(160deg, #FBE6D3 0%, #E6DFEE 100%); /* page peach + lavender tints */
@@ -102,6 +102,7 @@
     box-shadow: 0 0 0 3px rgba(230,223,238,0.12), 0 0 10px rgba(230,223,238,0.5);
   }
   :root[data-theme="dark"] .ts-knob::after { transform: scale(1); }
+  .ts-label { font-size: 10.5px; font-weight: 600; color: var(--ink-faint); letter-spacing: 0.02em; white-space: nowrap; }
   .theme-switch:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; border-radius: 999px; }
 
   * { box-sizing: border-box; }
@@ -460,6 +461,7 @@
       <div class="hero-actions">
         <button class="theme-switch" id="themeSwitch" role="switch" aria-checked="false" aria-label="Night mode" title="Switch day / night mode">
           <span class="ts-track"><span class="ts-stars"><i></i><i></i><i></i><i></i></span><span class="ts-cloud"></span><span class="ts-knob"></span></span>
+          <span class="ts-label" id="themeLabel">Light mode</span>
         </button>
         <button class="gen-btn" id="genBtn">Show today's briefing</button>
       </div>
@@ -1718,6 +1720,7 @@ const themeSwitch = document.getElementById('themeSwitch');
 function setTheme(t, save) {
   document.documentElement.dataset.theme = t;
   themeSwitch.setAttribute('aria-checked', t === 'dark' ? 'true' : 'false');
+  document.getElementById('themeLabel').textContent = t === 'dark' ? 'Dark mode' : 'Light mode';
   if (save) { try { localStorage.setItem('ds-theme', t); } catch (e) { /* storage unavailable */ } }
 }
 setTheme(document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light', false);
