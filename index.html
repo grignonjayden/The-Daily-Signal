@@ -106,6 +106,7 @@
     transition: all 0.16s var(--ease); box-shadow: var(--shadow-sm);
   }
   .tab-btn svg { width: 15px; height: 15px; }
+  .tab-btn.active svg { filter: brightness(1.45) saturate(1.1); }
   .tab-btn:hover:not(.active) { border-color: var(--ink-faint); color: var(--ink); }
   .tab-btn.active { background: var(--ink); border-color: var(--ink); color: #fff; }
   @media (hover: hover) { .tab-btn:hover { transform: translateY(-2px) scale(1.04); box-shadow: var(--shadow-md); } }
@@ -1572,11 +1573,11 @@ function renderGovernment(data, dateKey) {
 }
 
 const TAB_CONFIG = {
-  markets: { label: 'Markets', icon: 'pulse', data: TODAYS_BRIEFING, render: renderBriefing },
-  crypto: { label: 'Crypto', icon: 'bitcoin', data: TODAYS_CRYPTO, render: renderCrypto },
-  news: { label: 'News', icon: 'frontpage', data: TODAYS_NEWS, render: renderNews },
-  canada: { label: 'Canada', icon: 'maple', data: TODAYS_CANADA, render: renderCanada },
-  government: { label: 'Government Decisions', icon: 'parliament', data: TODAYS_GOV, render: renderGovernment }
+  markets: { label: 'Markets', icon: 'pulse', color: '#1E9E5A', data: TODAYS_BRIEFING, render: renderBriefing },
+  crypto: { label: 'Crypto', icon: 'bitcoin', color: '#F2930F', data: TODAYS_CRYPTO, render: renderCrypto },
+  news: { label: 'News', icon: 'frontpage', color: '#2F63D6', data: TODAYS_NEWS, render: renderNews },
+  canada: { label: 'Canada', icon: 'maple', color: '#D52B1E', data: TODAYS_CANADA, render: renderCanada },
+  government: { label: 'Government Decisions', icon: 'parliament', color: '#7B4FB8', data: TODAYS_GOV, render: renderGovernment }
 };
 let activeTab = 'markets';
 let generatedToday = false;
@@ -1587,7 +1588,9 @@ function renderTabBar() {
   Object.keys(TAB_CONFIG).forEach(key => {
     const cfg = TAB_CONFIG[key];
     const btn = el('button', { className: 'tab-btn' + (key === activeTab ? ' active' : '') });
-    btn.appendChild(svgIcon(ICONS[cfg.icon]));
+    const ic = svgIcon(ICONS[cfg.icon]);
+    if (cfg.color) ic.style.color = cfg.color; // coloured tab icon
+    btn.appendChild(ic);
     btn.appendChild(document.createTextNode(cfg.label));
     btn.onclick = () => switchTab(key);
     bar.appendChild(btn);
