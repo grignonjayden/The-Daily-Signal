@@ -325,6 +325,13 @@
   .mood-bar span.on.down { background: var(--pink); }
   .mood-bar span.on.flat { background: var(--ink-faint); }
   .mood-scale { display: flex; justify-content: space-between; font-size: 10.5px; font-weight: 600; color: var(--ink-faint); margin-top: 5px; }
+  .info-btn { font-family: 'Manrope', sans-serif; font-size: 12px; font-weight: 700; color: var(--ink-soft); background: var(--surface-alt); border: none; border-radius: 999px; padding: 6px 12px; cursor: pointer; }
+  .info-btn:hover { color: var(--ink); }
+  .info-overlay { position: fixed; inset: 0; z-index: 1000; background: rgba(10,12,18,0.55); display: flex; align-items: center; justify-content: center; padding: 20px; }
+  .info-box { background: var(--surface); color: var(--ink); border-radius: 22px; max-width: 640px; width: 100%; padding: 30px 30px 26px; box-shadow: 0 20px 60px rgba(0,0,0,0.3); }
+  .info-box h3 { font-size: 22px; margin: 0 0 14px; }
+  .info-box p { font-size: 18px; line-height: 1.6; margin: 0 0 22px; color: var(--ink); }
+  .info-box .info-close { font-size: 15px; padding: 10px 20px; background: var(--ink); color: var(--surface); }
   .widget-desc { font-size: 12.5px; line-height: 1.45; color: var(--ink-soft); font-weight: 500; margin: -4px 2px 12px; }
   .live-updated { font-size: 11px; font-weight: 600; color: var(--ink-faint); margin: 10px 2px 0; }
   .live-updated a { color: inherit; }
@@ -744,6 +751,28 @@ function moveToTop() {
   ['2', '1'].forEach(n => { const w = mainPanel.querySelector('[data-top="' + n + '"]'); if (w) mainPanel.prepend(w); });
 }
 
+// "What does this mean?" button: keeps the explanation hidden until pressed, then shows it big.
+function addInfoButton(widget, title, text) {
+  const btn = el('button', { className: 'info-btn', text: 'What does this mean?' });
+  btn.type = 'button';
+  btn.addEventListener('click', () => {
+    const overlay = el('div', { className: 'info-overlay' });
+    const box = el('div', { className: 'info-box' });
+    box.setAttribute('role', 'dialog'); box.setAttribute('aria-modal', 'true');
+    box.appendChild(el('h3', { text: title }));
+    box.appendChild(el('p', { text: text }));
+    const close = el('button', { className: 'info-btn info-close', text: 'Got it' });
+    close.type = 'button';
+    const shut = () => { overlay.remove(); document.removeEventListener('keydown', onKey); };
+    const onKey = e => { if (e.key === 'Escape') shut(); };
+    close.addEventListener('click', shut);
+    overlay.addEventListener('click', e => { if (e.target === overlay) shut(); });
+    document.addEventListener('keydown', onKey);
+    box.appendChild(close); overlay.appendChild(box); document.body.appendChild(overlay); close.focus();
+  });
+  widget.querySelector('.widget-head').appendChild(btn);
+}
+
 function widgetShell(spanClass, iconKey, iconBg, iconColor, title, count) {
   const widget = el('div', { className: 'widget ' + spanClass });
   const head = el('div', { className: 'widget-head' });
@@ -979,7 +1008,7 @@ function renderBriefing(data, dateKey) {
   if (Array.isArray(data.market_pulse) && data.market_pulse.length) {
     const widget = widgetShell('w-span-8', 'pulse', 'var(--pink-soft)', 'var(--pink-deep)', 'Market Pulse');
     widget.dataset.top = '1';
-    widget.appendChild(el('p', { className: 'widget-desc', text: 'A quick snapshot of how the major stock indexes and oil moved in the latest trading session: up, down or flat. The bar under each one shows how big the move was: Big drop means it fell 1.5% or more, Calm means it barely moved (less than 0.5% either way), and Big gain means it rose 1.5% or more. The steps in between are a slight dip or slight gain.' }));
+    addInfoButton(widget, 'Market Pulse', 'A quick snapshot of how the major stock indexes and oil moved in the latest trading session: up, down or flat. The bar under each one shows how big the move was: Big drop means it fell 1.5% or more, Calm means it barely moved (less than 0.5% either way), and Big gain means it rose 1.5% or more. The steps in between are a slight dip or slight gain.');
     const scroll = el('div', { className: 'pulse-scroll' });
     data.market_pulse.forEach((p, i) => {
       const dir = inferDirection(p.note);
@@ -1116,7 +1145,7 @@ function renderCrypto(data, dateKey) {
   if (Array.isArray(data.market_pulse) && data.market_pulse.length) {
     const widget = widgetShell('w-span-8', 'pulse', 'var(--pink-soft)', 'var(--pink-deep)', 'Crypto Pulse');
     widget.dataset.top = '1';
-    widget.appendChild(el('p', { className: 'widget-desc', text: 'A quick snapshot of where Bitcoin, Ethereum and the overall crypto market stand right now: up, down or flat. The bar under each one shows how big the move was over the last 24 hours: Big drop means it fell 1.5% or more, Calm means it barely moved (less than 0.5% either way), and Big gain means it rose 1.5% or more. Crypto swings more than stocks, so big moves show up more often here.' }));
+    addInfoButton(widget, 'Crypto Pulse', 'A quick snapshot of where Bitcoin, Ethereum and the overall crypto market stand right now: up, down or flat. The bar under each one shows how big the move was over the last 24 hours: Big drop means it fell 1.5% or more, Calm means it barely moved (less than 0.5% either way), and Big gain means it rose 1.5% or more. Crypto swings more than stocks, so big moves show up more often here.');
     const scroll = el('div', { className: 'pulse-scroll' });
     data.market_pulse.forEach((p, i) => {
       const dir = inferDirection(p.note);
