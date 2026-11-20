@@ -161,6 +161,8 @@
   .news-thumb-sm img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .gov-art { flex-direction: column; gap: 5px; font-size: 9.5px; letter-spacing: 0.06em; }
   .gov-art svg { width: 28px; height: 28px; }
+  .ca-sector-ic { flex: none; width: 28px; height: 28px; border-radius: 8px; display: flex; align-items: center; justify-content: center; background: var(--sky-soft); color: var(--mint); }
+  .pulse-chip-top:has(.ca-sector-ic) { justify-content: flex-start; }
 
   /* ---------- Hourly ticker ---------- */
   .ticker-list { position: relative; padding-left: 4px; }
@@ -465,6 +467,8 @@ const ICONS = {
   lightbulb: 'M9 18h6M10 21h4M12 3a6 6 0 00-3.75 10.68c.47.38.75.96.75 1.57V16h6v-.75c0-.6.28-1.19.75-1.57A6 6 0 0012 3z',
   chip: 'M6 6h12v12H6zM9 3v3M15 3v3M9 18v3M15 18v3M3 9h3M3 15h3M18 9h3M18 15h3',
   drill: 'M3 21l4-4M5 15l3-3 4 4-3 3-4-4zM10 12l7-7M16 5l3 3M9 9l2 2',
+  people: 'M9 11a3 3 0 100-6 3 3 0 000 6zM3 20a6 6 0 0112 0M17 11a2.5 2.5 0 100-5M21 20a5 5 0 00-4-4.9',
+  tree: 'M12 3l-6 8h3l-4 6h14l-4-6h3zM12 17v4',
   shield: 'M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z',
   home: 'M3 11l9-7 9 7M5 10v10h14V10M10 20v-6h4v6',
   film: 'M4 5h16v14H4zM8 5v14M16 5v14M4 9h4M4 15h4M16 9h4M16 15h4',
@@ -1506,6 +1510,7 @@ function renderCanada(data, dateKey) {
       const chip = el('a', { className: 'pulse-chip', href: it.url || '#' });
       chip.style.animationDelay = (i * 0.04) + 's';
       const top = el('div', { className: 'pulse-chip-top' });
+      if (it.icon && ICONS[it.icon]) { const ib = el('span', { className: 'ca-sector-ic' }); ib.appendChild(svgIcon(ICONS[it.icon])); top.appendChild(ib); } // sector symbol
       top.appendChild(el('div', { className: 'idx', text: it.name || '' }));
       chip.appendChild(top);
       chip.appendChild(el('div', { className: 'price', text: it.value || '—' }));

@@ -3,6 +3,94 @@
   "date_key": "2026-11-19",
   "sections": [
     {
+      "key": "invest",
+      "title": "Where Ottawa Is Investing",
+      "icon": "building",
+      "caption": "Federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice",
+      "items": [
+        {
+          "name": "Defence & security",
+          "value": "$700B+",
+          "note": "Forecast defence spending over 5 years. On track for 4% of GDP this decade, 5% by 2035.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://occ.ca/rapidpolicy/2026-federal-budget/",
+          "icon": "shield"
+        },
+        {
+          "name": "Major projects",
+          "value": "$125B+",
+          "note": "Investment in 21 nation-building projects (LNG, mines, ports, power lines) run through the Major Projects Office.",
+          "as_of": "Spring Economic Update · Apr 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/04/spring-economic-update-2026-key-measures.html",
+          "icon": "drill"
+        },
+        {
+          "name": "Electricity & energy",
+          "value": "$50B+",
+          "note": "National Electricity Strategy, plus $518.5M for nuclear and $2B+ for heat pump rebates.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html",
+          "icon": "bolt"
+        },
+        {
+          "name": "Indigenous communities",
+          "value": "$50B+",
+          "note": "Over 10 years, including $32B for First Nations housing and infrastructure.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html",
+          "icon": "people"
+        },
+        {
+          "name": "Housing",
+          "value": "$44.7B",
+          "note": "Over 11 years to build the homes Canada needs, including Build Canada Homes.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html",
+          "icon": "home"
+        },
+        {
+          "name": "Canada Strong Fund",
+          "value": "$25B",
+          "note": "Canada’s first sovereign wealth fund. It invests alongside private money in Canadian projects and companies.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html",
+          "icon": "coin"
+        },
+        {
+          "name": "Forestry",
+          "value": "$6.5B",
+          "note": "Over six years to transform the forest sector.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html",
+          "icon": "tree"
+        },
+        {
+          "name": "Critical minerals",
+          "value": "$2.3B",
+          "note": "Mine-to-market strategy, plus a $2B accelerator run by Export Development Canada.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://budget.canada.ca/2026/report-rapport/chap1-en.html",
+          "icon": "gem"
+        },
+        {
+          "name": "AI & tech",
+          "value": "Up to $1.6B",
+          "note": "Investment in Canadian AI company Cohere. BDC is also putting $700M into defence and dual-use tech.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://budget.canada.ca/2026/report-rapport/chap1-en.html",
+          "icon": "chip"
+        },
+        {
+          "name": "Culture & media",
+          "value": "$600M",
+          "note": "For audio and screen industries (the Canada Media Fund’s area), plus $300M for CBC/Radio-Canada.",
+          "as_of": "Budget 2026 · Nov 5, 2026",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html",
+          "icon": "film"
+        }
+      ]
+    },
+    {
       "key": "daily",
       "title": "Today in Canada",
       "icon": "car",
@@ -143,84 +231,6 @@
           "note": "Share of people looking for work who can’t find a job.",
           "as_of": "Statistics Canada · October 2026",
           "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701"
-        }
-      ]
-    },
-    {
-      "key": "invest",
-      "title": "Where Ottawa Is Investing",
-      "icon": "building",
-      "caption": "Federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice",
-      "items": [
-        {
-          "name": "Defence & security",
-          "value": "$700B+",
-          "note": "Forecast defence spending over 5 years. On track for 4% of GDP this decade, 5% by 2035.",
-          "as_of": "Budget 2026 · Nov 5, 2026",
-          "url": "https://occ.ca/rapidpolicy/2026-federal-budget/"
-        },
-        {
-          "name": "Major projects",
-          "value": "$125B+",
-          "note": "Investment in 21 nation-building projects (LNG, mines, ports, power lines) run through the Major Projects Office.",
-          "as_of": "Spring Economic Update · Apr 2026",
-          "url": "https://www.canada.ca/en/department-finance/news/2026/04/spring-economic-update-2026-key-measures.html"
-        },
-        {
-          "name": "Electricity & energy",
-          "value": "$50B+",
-          "note": "National Electricity Strategy, plus $518.5M for nuclear and $2B+ for heat pump rebates.",
-          "as_of": "Budget 2026 · Nov 5, 2026",
-          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
-        },
-        {
-          "name": "Indigenous communities",
-          "value": "$50B+",
-          "note": "Over 10 years, including $32B for First Nations housing and infrastructure.",
-          "as_of": "Budget 2026 · Nov 5, 2026",
-          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
-        },
-        {
-          "name": "Housing",
-          "value": "$44.7B",
-          "note": "Over 11 years to build the homes Canada needs, including Build Canada Homes.",
-          "as_of": "Budget 2026 · Nov 5, 2026",
-          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
-        },
-        {
-          "name": "Canada Strong Fund",
-          "value": "$25B",
-          "note": "Canada’s first sovereign wealth fund. It invests alongside private money in Canadian projects and companies.",
-          "as_of": "Budget 2026 · Nov 5, 2026",
-          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
-        },
-        {
-          "name": "Forestry",
-          "value": "$6.5B",
-          "note": "Over six years to transform the forest sector.",
-          "as_of": "Budget 2026 · Nov 5, 2026",
-          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
-        },
-        {
-          "name": "Critical minerals",
-          "value": "$2.3B",
-          "note": "Mine-to-market strategy, plus a $2B accelerator run by Export Development Canada.",
-          "as_of": "Budget 2026 · Nov 5, 2026",
-          "url": "https://budget.canada.ca/2026/report-rapport/chap1-en.html"
-        },
-        {
-          "name": "AI & tech",
-          "value": "Up to $1.6B",
-          "note": "Investment in Canadian AI company Cohere. BDC is also putting $700M into defence and dual-use tech.",
-          "as_of": "Budget 2026 · Nov 5, 2026",
-          "url": "https://budget.canada.ca/2026/report-rapport/chap1-en.html"
-        },
-        {
-          "name": "Culture & media",
-          "value": "$600M",
-          "note": "For audio and screen industries (the Canada Media Fund’s area), plus $300M for CBC/Radio-Canada.",
-          "as_of": "Budget 2026 · Nov 5, 2026",
-          "url": "https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html"
         }
       ]
     }

@@ -211,16 +211,16 @@ async function costOfLiving() {
 // ---------- Where Ottawa is investing (federal commitments; update when a new budget lands) ----------
 const BUDGET = 'https://www.canada.ca/en/department-finance/news/2026/11/budget-2026-key-measures.html';
 const SECTORS = [
-  { name: 'Defence & security', value: '$700B+', note: 'Forecast defence spending over 5 years. On track for 4% of GDP this decade, 5% by 2035.', as_of: 'Budget 2026 · Nov 5, 2026', url: 'https://occ.ca/rapidpolicy/2026-federal-budget/' },
-  { name: 'Major projects', value: '$125B+', note: 'Investment in 21 nation-building projects (LNG, mines, ports, power lines) run through the Major Projects Office.', as_of: 'Spring Economic Update · Apr 2026', url: 'https://www.canada.ca/en/department-finance/news/2026/04/spring-economic-update-2026-key-measures.html' },
-  { name: 'Electricity & energy', value: '$50B+', note: 'National Electricity Strategy, plus $518.5M for nuclear and $2B+ for heat pump rebates.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
-  { name: 'Indigenous communities', value: '$50B+', note: 'Over 10 years, including $32B for First Nations housing and infrastructure.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
-  { name: 'Housing', value: '$44.7B', note: 'Over 11 years to build the homes Canada needs, including Build Canada Homes.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
-  { name: 'Canada Strong Fund', value: '$25B', note: 'Canada’s first sovereign wealth fund. It invests alongside private money in Canadian projects and companies.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
-  { name: 'Forestry', value: '$6.5B', note: 'Over six years to transform the forest sector.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
-  { name: 'Critical minerals', value: '$2.3B', note: 'Mine-to-market strategy, plus a $2B accelerator run by Export Development Canada.', as_of: 'Budget 2026 · Nov 5, 2026', url: 'https://budget.canada.ca/2026/report-rapport/chap1-en.html' },
-  { name: 'AI & tech', value: 'Up to $1.6B', note: 'Investment in Canadian AI company Cohere. BDC is also putting $700M into defence and dual-use tech.', as_of: 'Budget 2026 · Nov 5, 2026', url: 'https://budget.canada.ca/2026/report-rapport/chap1-en.html' },
-  { name: 'Culture & media', value: '$600M', note: 'For audio and screen industries (the Canada Media Fund’s area), plus $300M for CBC/Radio-Canada.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+  { name: 'Defence & security', icon: 'shield', value: '$700B+', note: 'Forecast defence spending over 5 years. On track for 4% of GDP this decade, 5% by 2035.', as_of: 'Budget 2026 · Nov 5, 2026', url: 'https://occ.ca/rapidpolicy/2026-federal-budget/' },
+  { name: 'Major projects', icon: 'drill', value: '$125B+', note: 'Investment in 21 nation-building projects (LNG, mines, ports, power lines) run through the Major Projects Office.', as_of: 'Spring Economic Update · Apr 2026', url: 'https://www.canada.ca/en/department-finance/news/2026/04/spring-economic-update-2026-key-measures.html' },
+  { name: 'Electricity & energy', icon: 'bolt', value: '$50B+', note: 'National Electricity Strategy, plus $518.5M for nuclear and $2B+ for heat pump rebates.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+  { name: 'Indigenous communities', icon: 'people', value: '$50B+', note: 'Over 10 years, including $32B for First Nations housing and infrastructure.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+  { name: 'Housing', icon: 'home', value: '$44.7B', note: 'Over 11 years to build the homes Canada needs, including Build Canada Homes.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+  { name: 'Canada Strong Fund', icon: 'coin', value: '$25B', note: 'Canada’s first sovereign wealth fund. It invests alongside private money in Canadian projects and companies.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+  { name: 'Forestry', icon: 'tree', value: '$6.5B', note: 'Over six years to transform the forest sector.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
+  { name: 'Critical minerals', icon: 'gem', value: '$2.3B', note: 'Mine-to-market strategy, plus a $2B accelerator run by Export Development Canada.', as_of: 'Budget 2026 · Nov 5, 2026', url: 'https://budget.canada.ca/2026/report-rapport/chap1-en.html' },
+  { name: 'AI & tech', icon: 'chip', value: 'Up to $1.6B', note: 'Investment in Canadian AI company Cohere. BDC is also putting $700M into defence and dual-use tech.', as_of: 'Budget 2026 · Nov 5, 2026', url: 'https://budget.canada.ca/2026/report-rapport/chap1-en.html' },
+  { name: 'Culture & media', icon: 'film', value: '$600M', note: 'For audio and screen industries (the Canada Media Fund’s area), plus $300M for CBC/Radio-Canada.', as_of: 'Budget 2026 · Nov 5, 2026', url: BUDGET },
 ];
 
 // ---------- Deals in the works (headlines from Canadian news and federal sources) ----------
@@ -360,10 +360,10 @@ const prevGov = existsSync(GOV_OUT) ? JSON.parse(readFileSync(GOV_OUT, 'utf8')) 
 try { dealItems = await deals(); } catch (e) { console.error('!', e.message); dealItems = (prevGov && prevGov.items) || []; }
 
 const sections = [
+  { key: 'invest', title: 'Where Ottawa Is Investing', icon: 'building', caption: 'Federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice', items: SECTORS },
   { key: 'daily', title: 'Today in Canada', icon: 'car', caption: 'Updates daily', items: [...g, ...fx, ...b5] },
   { key: 'rates', title: 'Borrowing & Saving', icon: 'bank', caption: 'Bank of Canada data · updates daily and weekly', items: [...pol, ...prime, ...mort, ...gic] },
   { key: 'living', title: 'Cost of Living & Jobs', icon: 'cart', caption: 'Statistics Canada · updates monthly', items: col },
-  { key: 'invest', title: 'Where Ottawa Is Investing', icon: 'building', caption: 'Federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice', items: SECTORS },
 ].filter(s => s.items.length);
 
 // Government Decisions tab — its own file so it loads like News and Crypto.
