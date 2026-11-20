@@ -360,7 +360,7 @@ const prevGov = existsSync(GOV_OUT) ? JSON.parse(readFileSync(GOV_OUT, 'utf8')) 
 try { dealItems = await deals(); } catch (e) { console.error('!', e.message); dealItems = (prevGov && prevGov.items) || []; }
 
 const sections = [
-  { key: 'invest', title: 'Where Ottawa Is Investing', icon: 'building', caption: 'Biggest federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice', items: SECTORS.slice(0, 5) },
+  { key: 'invest', title: 'Government Expenditure', icon: 'building', caption: 'Biggest federal commitments from Budget 2026 and the Spring Economic Update · amounts are multi-year, not investment advice', items: SECTORS.slice(0, 5) },
   { key: 'invest2', title: 'Funds & Growing Industries', icon: 'chip', caption: 'More federal commitments from Budget 2026 · amounts are multi-year, not investment advice', items: SECTORS.slice(5) },
   { key: 'daily', title: 'Today in Canada', icon: 'car', caption: 'Updates daily', items: [...g, ...fx, ...b5] },
   { key: 'rates', title: 'Borrowing & Saving', icon: 'bank', caption: 'Bank of Canada data · updates daily and weekly', items: [...pol, ...prime, ...mort, ...gic] },
