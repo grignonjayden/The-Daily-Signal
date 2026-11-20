@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 20, 2026, 9:10 AM ET",
+  "generated_at": "Nov 20, 2026, 9:12 AM ET",
   "date_key": "2026-11-20",
   "caption": "Federal investment news and decisions from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -189,14 +189,14 @@
       "kept": 2
     },
     {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 2
+    },
+    {
       "source": "CDEV",
       "fetched": 20,
       "kept": 1
-    },
-    {
-      "source": "Canada Media Fund",
-      "fetched": 24,
-      "kept": 2
     },
     {
       "source": "ISED",
@@ -204,13 +204,13 @@
       "kept": 2
     },
     {
-      "source": "C.D. Howe Institute",
+      "source": "Canada Media Fund",
       "fetched": 24,
       "kept": 2
     },
     {
-      "source": "CP24",
-      "fetched": 200,
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
       "kept": 2
     }
   ]
