@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 19, 2026, 11:36 PM ET",
+  "generated_at": "Nov 19, 2026, 11:37 PM ET",
   "date_key": "2026-11-19",
   "sections": [
     {
@@ -244,7 +244,7 @@
         {
           "title": "Canada’s Immigration Plan Explained: What Do the 2027 Targets Really Mean?",
           "url": "https://cdhowe.org/publication/canadas-immigration-plan-explained-what-do-the-2027-targets-really-mean-2/",
-          "image": "https://cdhowe.org/wp-content/uploads/2023/10/cd-howe-logo-footer.svg",
+          "image": "",
           "source": "C.D. Howe Institute",
           "badge": "CDH",
           "analysis": true,
@@ -264,7 +264,7 @@
         {
           "title": "A $27.5-billion deficit revision raises questions Parliament should address",
           "url": "https://cdhowe.org/publication/a-27-5-billion-deficit-revision-raises-questions-parliament-should-address/",
-          "image": "https://cdhowe.org/wp-content/uploads/2023/10/cd-howe-logo-footer.svg",
+          "image": "",
           "source": "C.D. Howe Institute",
           "badge": "CDH",
           "analysis": true,
@@ -403,6 +403,16 @@
       "kept": 2
     },
     {
+      "source": "Finance Canada",
+      "fetched": 20,
+      "kept": 2
+    },
+    {
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 2
+    },
+    {
       "source": "CDEV",
       "fetched": 20,
       "kept": 1
@@ -413,18 +423,8 @@
       "kept": 1
     },
     {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 2
-    },
-    {
       "source": "Canada Media Fund",
       "fetched": 24,
-      "kept": 2
-    },
-    {
-      "source": "ISED",
-      "fetched": 20,
       "kept": 2
     },
     {
