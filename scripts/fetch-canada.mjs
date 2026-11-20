@@ -262,11 +262,26 @@ function feedImage(b) {
 }
 async function pageImage(url) {
   try {
-    const html = (await (await get(url, { headers: { Accept: 'text/html' } })).text()).slice(0, 300000);
-    for (const re of [/<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["']/i, /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
-      /<meta[^>]+name=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["']/i, /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i]) {
-      const m = html.match(re);
-      if (m) { const u = new URL(m[1].replace(/&amp;/g, '&'), url).href; if (/^https:\/\//.test(u) && !BAD_IMG.test(u)) return u; }
+    const html = (await (await get(url, { headers: { Accept: 'text/html' } })).text()).slice(0, 600000);
+    const ok = (raw) => {
+      if (!raw) return '';
+      try { const u = new URL(raw.replace(/&amp;/g, '&').trim(), url).href; return /^https:\/\//.test(u) && !BAD_IMG.test(u) ? u : ''; } catch (e) { return ''; }
+    };
+    // 1) share-image meta tags and JSON-LD
+    const metas = [/<meta[^>]+(?:property|name)=["'](?:og:image(?::secure_url|:url)?|twitter:image(?::src)?)["'][^>]*content=["']([^"']+)["']/gi,
+      /<meta[^>]+content=["']([^"']+)["'][^>]*(?:property|name)=["'](?:og:image(?::secure_url|:url)?|twitter:image(?::src)?)["']/gi,
+      /<link[^>]+rel=["']image_src["'][^>]*href=["']([^"']+)["']/gi,
+      /"image"\s*:\s*(?:\{[^}]*?"url"\s*:\s*)?\[?\s*"([^"]+)"/gi];
+    for (const re of metas) for (const m of html.matchAll(re)) { const u = ok(m[1]); if (u) return u; }
+    // 2) first real photo inside the article body
+    const body = (html.match(/<(?:article|main)[\s>][\s\S]*?<\/(?:article|main)>/i) || [html])[0];
+    for (const m of body.matchAll(/<img[^>]+>/gi)) {
+      const tagHtml = m[0];
+      const src = (tagHtml.match(/\s(?:data-src|src)=["']([^"']+)["']/i) || [])[1] || ((tagHtml.match(/\ssrcset=["']([^"'\s,]+)/i) || [])[1]);
+      const w = +((tagHtml.match(/\swidth=["']?(\d+)/i) || [])[1] || 0);
+      if (w && w < 200) continue;
+      if (/icon|avatar|badge|flag|wordmark|signature|spinner|pixel|1x1/i.test(tagHtml)) continue;
+      const u = ok(src); if (u && /\.(jpe?g|png|webp)(\?|$)|\/images?\//i.test(u)) return u;
     }
   } catch (e) { /* no picture */ }
   return '';
@@ -308,6 +323,7 @@ async function deals() {
   const top = all.slice(0, 14);
   await Promise.all(top.filter(a => !a.image).map(async a => { a.image = await pageImage(a.url); }));
   console.log('Deal pictures:', top.filter(a => a.image).length + '/' + top.length);
+  top.forEach(a => console.log(' ', a.source, a.image ? 'photo' : 'none', a.url));
   return top.map(({ ts, ...rest }) => rest);
 }
 
