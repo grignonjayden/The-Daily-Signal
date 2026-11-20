@@ -251,7 +251,7 @@ const xdecode = s => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').replace(/<[^
   .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
 const xtag = (b, names) => { for (const n of names) { const m = b.match(new RegExp(`<${n}[^>]*>([\\s\\S]*?)</${n}>`, 'i')); if (m) return m[1]; } return ''; };
 // Picture for a headline: feed media tags first, then the article page's og:image / twitter:image.
-const BAD_IMG = /logo|\.svg|favicon|sprite|placeholder|default-share|wmms/i;
+const BAD_IMG = /logo|\.svg|favicon|sprite|placeholder|default-share|wmms|bck-srh|\/content\/dam\/canada\/[^/]+$/i;
 function feedImage(b) {
   const pats = [/<media:thumbnail[^>]*url="([^"]+)"/i, /<media:content[^>]*url="([^"]+\.(?:jpe?g|png|webp)[^"]*)"/i,
     /<media:content[^>]*medium="image"[^>]*url="([^"]+)"/i, /<media:content[^>]*url="([^"]+)"[^>]*medium="image"/i,
@@ -312,10 +312,15 @@ async function deals() {
       return DEAL_RE.test(t);
     }).sort((a, b) => b.date - a.date).slice(0, 2);
     feedStatus.push({ source: f.source, fetched: got.length, kept: keep.length });
+    if (!got.length) { // source down this run: keep its last stories (still within the age window)
+      const old = ((prevGov && prevGov.items) || []).filter(a => a.source === f.source && Date.parse(a.date || 0) > Date.now() - (f.maxDays || 21) * 864e5);
+      old.forEach(a => all.push({ ...a, image: BAD_IMG.test(a.image || '') ? '' : a.image, ts: Date.parse(a.date) }));
+      return;
+    }
     keep.forEach(i => all.push({
       title: i.title, url: i.url, image: i.image || '', source: f.source, badge: f.badge, analysis: !!f.analysis,
       sector: (SECTOR_TAGS.find(([, re]) => re.test(i.title)) || SECTOR_TAGS.find(([, re]) => re.test(i.summary)) || ['General'])[0],
-      time: i.date.toLocaleDateString('en-CA', { month: 'short', day: 'numeric', timeZone: TZ }), ts: i.date.getTime(),
+      time: i.date.toLocaleDateString('en-CA', { month: 'short', day: 'numeric', timeZone: TZ }), date: i.date.toISOString(), ts: i.date.getTime(),
     }));
   }));
   all.sort((a, b) => b.ts - a.ts);
