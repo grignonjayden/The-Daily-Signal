@@ -232,30 +232,12 @@
       "caption": "Federal investment news from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
       "items": [
         {
-          "title": "Canada makes case for U.S. trade deal sooner rather than later in private meeting",
-          "url": "https://www.cp24.com/news/canada/2026/11/20/canada-makes-case-for-us-trade-deal-sooner-rather-than-later-in-private-meeting/",
-          "source": "CP24",
-          "badge": "CP24",
-          "analysis": false,
-          "sector": "Infrastructure",
-          "time": "Nov 20"
-        },
-        {
           "title": "$2.5B water bomber investment not enough to fight fires, wildland firefighters say",
           "url": "https://www.cp24.com/news/canada/2026/11/19/25b-water-bomber-investment-not-enough-to-fight-fires-wildland-firefighters-say/",
           "source": "CP24",
           "badge": "CP24",
           "analysis": false,
-          "sector": "General",
-          "time": "Nov 19"
-        },
-        {
-          "title": "Trump administration auctions deep-sea mining leases near American Samoa in first sale of its kind",
-          "url": "https://www.cp24.com/news/world/2026/11/19/trump-administration-auctions-deep-sea-mining-leases-near-american-samoa-in-first-sale-of-its-kind/",
-          "source": "CP24",
-          "badge": "CP24",
-          "analysis": false,
-          "sector": "Minerals",
+          "sector": "Defence",
           "time": "Nov 19"
         },
         {
@@ -282,16 +264,7 @@
           "source": "C.D. Howe Institute",
           "badge": "CDH",
           "analysis": true,
-          "sector": "General",
-          "time": "Nov 19"
-        },
-        {
-          "title": "Reaching interim U.S. trade agreement would kickstart new CUSMA talks, minister says",
-          "url": "https://www.cbc.ca/news/politics/canada-seeking-interim-trade-arrangment-9.7428540?cmp=rss",
-          "source": "CBC News",
-          "badge": "CBC",
-          "analysis": false,
-          "sector": "Trade",
+          "sector": "Budget",
           "time": "Nov 19"
         },
         {
@@ -300,25 +273,16 @@
           "source": "ISED",
           "badge": "ISED",
           "analysis": false,
-          "sector": "Infrastructure",
+          "sector": "Autos",
           "time": "Nov 19"
         },
         {
-          "title": "Ottawa’s Budget is Bold, Too Big, and Unfinished",
-          "url": "https://cdhowe.org/publication/ottawas-budget-is-bold-too-big-and-unfinished/",
-          "source": "C.D. Howe Institute",
-          "badge": "CDH",
-          "analysis": true,
-          "sector": "General",
-          "time": "Nov 19"
-        },
-        {
-          "title": "Cadets being told to stand down as Canada adds billions to defence",
-          "url": "https://www.cbc.ca/news/politics/defence-budget-cadets-cuts-training-9.7426967?cmp=rss",
+          "title": "'If the U.S. doesn't want to do a deal, we're busy,' Carney says of ongoing trade talks",
+          "url": "https://www.cbc.ca/news/politics/carney-trump-trade-canada-busy-9.7426568?cmp=rss",
           "source": "CBC News",
           "badge": "CBC",
           "analysis": false,
-          "sector": "Defence",
+          "sector": "Trade",
           "time": "Nov 18"
         },
         {
@@ -336,8 +300,44 @@
           "source": "Finance Canada",
           "badge": "FIN",
           "analysis": false,
-          "sector": "Media",
+          "sector": "Housing",
           "time": "Nov 16"
+        },
+        {
+          "title": "Parliamentary Secretary Bardeesy highlights Government of Canada’s investments from Budget 2026: Masters of our destiny",
+          "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-bardeesy-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny.html",
+          "source": "ISED",
+          "badge": "ISED",
+          "analysis": false,
+          "sector": "Budget",
+          "time": "Nov 14"
+        },
+        {
+          "title": "MADE | NOUS celebrates Canadian storytelling with new conversation series MADE/unmade with George Stroumboulopoulos",
+          "url": "https://cmf-fmc.ca/news/made-nous-celebrates-canadian-storytelling-with-new-conversation-series-made-unmade-with-george-stroumboulopoulos/",
+          "source": "Canada Media Fund",
+          "badge": "CMF",
+          "analysis": false,
+          "sector": "Media",
+          "time": "Nov 12"
+        },
+        {
+          "title": "Indigenous Screen Office, CMF renew partnership on Interactive and Immersive Program",
+          "url": "https://cmf-fmc.ca/news/indigenous-screen-office-cmf-renew-partnership-on-interactive-and-immersive-program/",
+          "source": "Canada Media Fund",
+          "badge": "CMF",
+          "analysis": false,
+          "sector": "Media",
+          "time": "Nov 9"
+        },
+        {
+          "title": "David Lobo joins CDEV as Chief Operating Officer, Elena Palumbo as Chief Human Resources Officer",
+          "url": "https://cdev.gc.ca/david-lobo-joins-cdev-as-chief-operating-officer-elena-palumbo-as-chief-human-resources-officer/",
+          "source": "CDEV",
+          "badge": "CDEV",
+          "analysis": false,
+          "sector": "General",
+          "time": "Oct 29"
         }
       ]
     }
@@ -386,39 +386,39 @@
   ],
   "feed_status": [
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 3
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
-      "kept": 3
-    },
-    {
-      "source": "Canada Media Fund",
-      "fetched": 24,
-      "kept": 3
+      "kept": 2
     },
     {
       "source": "CDEV",
       "fetched": 20,
-      "kept": 0
+      "kept": 1
+    },
+    {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
     },
     {
       "source": "ISED",
       "fetched": 20,
-      "kept": 3
+      "kept": 2
     },
     {
-      "source": "C.D. Howe Institute",
+      "source": "Canada Media Fund",
       "fetched": 24,
-      "kept": 3
+      "kept": 2
     },
     {
       "source": "CP24",
       "fetched": 200,
-      "kept": 3
+      "kept": 1
+    },
+    {
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
+      "kept": 2
     }
   ]
 }
