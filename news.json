@@ -1,228 +1,236 @@
 {
-  "generated_at": "Nov 20, 2026, 8:29 AM ET",
+  "generated_at": "Nov 20, 2026, 4:30 PM ET",
   "date_key": "2026-11-20",
   "articles": [
     {
-      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "snippet": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108555370-1795104407065-108555370-1795102498336-gettyimages-2305320974-ANTHROPIC_IPO.jpg?v=1795104414&w=1920&h=1080",
-      "time": "Nov 20, 8:25 AM"
+      "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
+      "snippet": "U.S. stocks plunged and an index of mega-cap technology stocks skirted bear-market territory as predictions of a speculative bust in artificial-intelligence stocks appeared to come to fruition.",
+      "image": "https://images.wsj.net/im-30436888",
+      "time": "Nov 20, 4:27 PM"
     },
     {
-      "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+      "title": "Zscaler stock jumps 20% on report that CrowdStrike in talks to buy security vendor",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+      "snippet": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556888-1795209058076-gettyimages-2202994362-img_2497.jpeg?v=1795209111&w=1920&h=1080",
+      "time": "Nov 20, 4:25 PM"
+    },
+    {
+      "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
       "snippet": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
       "image": "https://images.mktw.net/im-99445886",
-      "time": "Nov 20, 8:25 AM"
+      "time": "Nov 20, 4:25 PM"
     },
     {
-      "title": "Stocks making the biggest moves premarket: Anthropic, Ross Stores, Gap & more",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/stocks-moving-the-most-today-live-updates.html",
-      "snippet": "Follow along as CNBC highlights the biggest stock moves of the day.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108555553-1795111066483-108555553-1795107330360-gettyimages-2305893920-mms15509_wkojpdxh.jpeg?v=1795111106&w=1920&h=1080",
-      "time": "Nov 20, 8:24 AM"
-    },
-    {
-      "title": "Nasdaq futures drop as Anthropic shares tumble; Dow nears correction territory: Live updates",
+      "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-      "snippet": "The major averages fell more than 2% each in regular trading.",
+      "snippet": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
       "image": "https://image.cnbcfm.com/api/v1/image/108556081-1795180965255-108556081-1795130774136-gettyimages-2305959471-anotherday39811496_ys9h3pau.jpg?v=1795180978&w=1920&h=1080",
-      "time": "Nov 20, 8:22 AM"
+      "time": "Nov 20, 4:23 PM"
     },
     {
-      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "snippet": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-      "image": "https://images.mktw.net/im-49247042",
-      "time": "Nov 20, 8:00 AM"
-    },
-    {
-      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
-      "snippet": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
-      "image": "https://images.mktw.net/im-05993865",
-      "time": "Nov 20, 7:59 AM"
-    },
-    {
-      "title": "Oil Prices Retreat as Traders Assess Supply Outlook, Middle East Risks",
+      "title": "Oil Futures Fall for Third Straight Week on Supply Outlook",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a?mod=rss_markets_main",
-      "snippet": "Oil prices retreated Friday, reversing initial gains as traders assessed improving global supply conditions and continued threats to Middle Eastern oil shipments.",
+      "snippet": "Oil futures settled higher Friday, but ended the week with losses as the market assessed improving global supply conditions amid continued threats to Middle Eastern oil shipments.",
       "image": "https://images.wsj.net/im-59514062",
-      "time": "Nov 20, 7:37 AM"
+      "time": "Nov 20, 4:16 PM"
     },
     {
-      "title": "AI Stocks Tumble Across the Globe as Slowdown Fears Mount",
+      "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+      "snippet": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108476194-17932143232026-10-28t190313z_1179407772_rc2icoaqsfjn_rtrmadp_0_usa-fed.jpeg?v=1793214357&w=1920&h=1080",
+      "time": "Nov 20, 4:10 PM"
+    },
+    {
+      "title": "Anthropic’s IPO Bust Deepens $4 Trillion AI Wipeout on Wall Street",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
-      "snippet": "Nasdaq futures were lower as the index headed toward its worst one-week performance since Trump’s April 2025 imposition of sweeping tariffs, and stocks fell across the globe as sentiment around the AI trade…",
-      "image": "https://images.wsj.net/im-04359818",
-      "time": "Nov 20, 7:32 AM"
+      "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
+      "snippet": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down.",
+      "image": "https://images.wsj.net/im-61305431",
+      "time": "Nov 20, 4:03 PM"
     },
     {
-      "title": "Alphabet raises $6-billion in Canadian bond offering",
+      "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+      "snippet": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
+      "image": "https://images.mktw.net/im-67124016",
+      "time": "Nov 20, 4:01 PM"
+    },
+    {
+      "title": "Suncor water treatment plan for oil sands mine raises ecological concerns",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-alphabet-aims-to-raise-6-billion-in-canadian-debt-offering/",
-      "snippet": "Tech giants continue to tap debt markets and raise equity to bolster their AI infrastructure",
-      "image": "https://www.theglobeandmail.com/resizer/v2/V2UFTYACC5HDRIWTRSYK2W6Y3E.JPG?auth=270339da56f2f3954fdf678b1f5c5dd29378449630119f25a266337b009ee875&smart=true&width=5000&height=3335",
-      "time": "Nov 20, 6:40 AM"
+      "url": "https://www.theglobeandmail.com/business/article-suncor-water-treatment-plant-oil-sands-mine/",
+      "snippet": "First Nations, environmental groups urge federal government to pursue rigorous assessment",
+      "image": "https://www.theglobeandmail.com/resizer/v2/OVYYVONZVFGT7FPVQWQIERGR6E.jpg?auth=c7a8ba2753f6fc09245b4a22064abf75b9ccfa1e4a74f86617bffeb3d93f99a9&smart=true&width=4997&height=3240",
+      "time": "Nov 20, 4:00 PM"
     },
     {
-      "title": "Gold, Silver Drop to Lowest Levels in Over a Year",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c?mod=rss_markets_main",
-      "snippet": "Expectations for tighter monetary policy appear to have overshadowed the typical demand for gold as a safe haven for risk-averse investors.",
-      "image": "https://images.wsj.net/im-66775951",
-      "time": "Nov 20, 6:39 AM"
+      "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
+      "snippet": "The president threatened to penalize companies that build data centers outside U.S. — but the stock market kept falling.",
+      "image": "https://images.mktw.net/im-19158031",
+      "time": "Nov 20, 3:52 PM"
     },
     {
-      "title": "Business Brief: The AI bottleneck",
+      "title": "Grand Theft Auto VI sets record with $3.79-billion in first-day retail sales",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-business-brief-the-ai-bottleneck/",
-      "snippet": "Canada is betting on AI adoption, but integration isn’t so easy",
-      "image": "https://www.theglobeandmail.com/resizer/v2/PUEKIFWQUBFYXF3SRH6S2RA2YI.jpg?auth=3f6e72913845208217fb2d84d64d127c5349fc2d7d12f835dc6f8fd0eb71b3fb&smart=true&width=2700&height=1800",
-      "time": "Nov 20, 6:23 AM"
+      "url": "https://www.theglobeandmail.com/business/article-grand-theft-auto-vi-record-379-billion-first-day-retail-sales/",
+      "snippet": "Long-awaited release also drew record preorders, Rockstar Games says",
+      "image": "https://www.theglobeandmail.com/resizer/v2/EM36TTOIH5C2JOKS63FOP6HVXQ.jpg?auth=4505c158b227d2ed136c4f091a163f9f2e51bdaefafd01fafd675a72137c2e4e&smart=true&width=6606&height=4404",
+      "time": "Nov 20, 3:25 PM"
     },
     {
-      "title": "Dominion Dynamics assembles consortium to build Canada’s fighter jet wingman",
+      "title": "Trump threatens tax on U.S. tech companies that build AI data centres abroad",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/economy/article-dominion-dynamics-assembles-consortium-to-build-canadas-fighter-jet/",
-      "snippet": "The defence company aims to finalize the jet’s design by March and have demos built by late 2028",
-      "image": "https://www.theglobeandmail.com/resizer/v2/NTMGJQEFCFFQBDDARKXIHUKXAU.jpg?auth=2294f76e2ddda7012e6e9fb49986da8b2b67ce6be916c13878327892e8afb830&smart=true&width=5000&height=3333",
-      "time": "Nov 20, 6:00 AM"
+      "url": "https://www.theglobeandmail.com/world/us-politics/article-trump-threatens-tax-us-tech-companies-build-ai-data-centres-abroad/",
+      "snippet": "U.S. President did not provide details on how he would enforce such a policy",
+      "image": "https://www.theglobeandmail.com/resizer/v2/Q2DYV3ZZS5GF3MHUKP2G56FKWE.jpg?auth=b02f81315f0776774ef504b9193ac664444ed0c8a99f78e553480734a09d2375&smart=true&width=2813&height=1875",
+      "time": "Nov 20, 2:38 PM"
     }
   ],
   "official": [
     {
-      "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "title": "Federal Reserve announces College Fed Challenge winners",
       "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
-      "snippet": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "snippet": "Federal Reserve announces College Fed Challenge winners",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 19, 11:00 AM"
+      "time": "Nov 20, 4:15 PM"
     },
     {
-      "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+      "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
       "source": "U.S. SEC",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
-      "snippet": "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million. The defendants…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
+      "snippet": "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Audit Trail (CAT). The Commission is proposing to rescind…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 19, 9:39 AM"
+      "time": "Nov 20, 1:03 PM"
     },
     {
-      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "title": "Minister Champagne advances trade diversification and investment partnerships in the Gulf region",
+      "source": "Finance Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-advances-trade-diversification-and-investment-partnerships-in-the-gulf-region.html",
+      "snippet": "Canada’s government is focused on diversifying trade, catalyzing new investment, and building major projects that will create good jobs for Canadians for generations to come. In a more dangerous and divided world,…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 20, 10:42 AM"
+    },
+    {
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
       "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-      "snippet": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+      "snippet": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 18, 2:00 PM"
+      "time": "Nov 20, 10:00 AM"
     },
     {
-      "title": "Government of Canada appoints new Master of the Royal Canadian Mint and members to the Board of Directors",
-      "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-of-canada-appoints-new-master-of-the-royal-canadian-mint-and-members-to-the-board-of-directors.html",
-      "snippet": "The Government of Canada is committed to appointing highly qualified candidates who are able to best serve the interests of Canadians through open, competency-based selection processes for all Governor-in-Council…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 17, 3:51 PM"
-    },
-    {
-      "title": "Biographical Notes – Mariève B. Tremblay",
-      "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/biographical-notes--marieve-b-tremblay.html",
-      "snippet": "Ms. Mariève B. Tremblay is a senior executive, lawyer and corporate director with more than 25 years of leadership experience across the transportation and logistics, energy, mining, and industrial sectors. She has…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 17, 3:51 PM"
-    },
-    {
-      "title": "Bank of Canada Governor Tiff Macklem to step down in June 2027",
-      "source": "Bank of Canada",
-      "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/",
-      "snippet": "The Board of Directors of the Bank of Canada announced today that Governor Tiff Macklem has informed them that he will not seek a second term as Governor when his seven-year term expires on June&nbsp;2, 2027.",
-      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
-      "time": "Nov 16, 5:00 AM"
-    },
-    {
-      "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
+      "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
       "source": "U.S. SEC",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
-      "snippet": "The Securities and Exchange Commission today proposed rule amendments to make its executive and director compensation disclosure requirements more principles-based and materiality-driven, providing investors with…",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+      "snippet": "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief against Indianapolis-based Backward Hat Capital, its…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 13, 11:57 AM"
+      "time": "Nov 20, 9:28 AM"
+    },
+    {
+      "title": "Retail trade, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261120/dq261120a-eng.htm",
+      "snippet": "Retail sales increased 0.8% to $75.3 billion in September. Sales were up in five of nine subsectors, led by increases at gasoline stations and fuel vendors.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261120/cg261120a001-eng.png",
+      "time": "Nov 20, 8:30 AM"
+    },
+    {
+      "title": "Consolidated Canadian Government Finance Statistics, 2025",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261120/dq261120b-eng.htm",
+      "snippet": "The consolidated Canadian general government, which includes federal, provincial, territorial, and local governments, recorded a deficit of $63.1 billion in 2025, higher than the $52.4 billion deficit reported in 2024.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261120/cg261120b001-eng.png",
+      "time": "Nov 20, 8:30 AM"
+    },
+    {
+      "title": "Canada takes next steps in implementing the Consumer-Driven Banking Framework",
+      "source": "Finance Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-takes-next-steps-in-implementing-the-consumer-driven-banking-framework.html",
+      "snippet": "The Government of Canada is strengthening Canada’s financial sector by promoting banking competition and innovation, and lowering financial costs for Canadians.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 19, 3:33 PM"
     }
   ],
   "ticker": [
     {
-      "time": "8:20 AM",
-      "title": "CNBC — Here are Friday's biggest analyst calls: Anthropic, SpaceX, Tesla, Apple, Netflix, MSG Rangers, United Health & more",
-      "url": "https://www.cnbc.com/2026/11/20/fridays-biggest-analyst-calls-like-anthropic.html"
+      "time": "4:04 PM",
+      "title": "CNBC — Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
+      "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html"
     },
     {
-      "time": "8:17 AM",
-      "title": "CNBC — Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
+      "time": "4:03 PM",
+      "title": "CNBC — Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
     },
     {
-      "time": "8:16 AM",
-      "title": "CNBC — U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-      "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html"
+      "time": "3:52 PM",
+      "title": "CNBC — Trump says he still has confidence in Lutnick",
+      "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html"
     },
     {
-      "time": "8:15 AM",
-      "title": "CNBC — AI can help find holiday deals — but it's not great at spotting scams, experts say",
-      "url": "https://www.cnbc.com/2026/11/20/ai-holiday-shopping-scams.html"
+      "time": "3:47 PM",
+      "title": "CNBC — Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
     },
     {
-      "time": "8:11 AM",
-      "title": "CNBC — Cathie Wood's ARK Invest was a big buyer of Anthropic, tells CNBC she's 'quite optimistic'",
-      "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html"
+      "time": "3:32 PM",
+      "title": "MarketWatch — ‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
+      "url": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories"
     },
     {
-      "time": "7:45 AM",
-      "title": "MarketWatch — These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
-      "url": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories"
-    },
-    {
-      "time": "7:43 AM",
-      "title": "MarketWatch — Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
-      "url": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories"
-    },
-    {
-      "time": "7:30 AM",
+      "time": "3:31 PM",
       "title": "MarketWatch — My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
       "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories"
     },
     {
-      "time": "7:24 AM",
-      "title": "MarketWatch — GameStop has transformed from a meme stock into a ‘real company,’ analysts say",
-      "url": "https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories"
+      "time": "3:30 PM",
+      "title": "MarketWatch — I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories"
     },
     {
-      "time": "7:19 AM",
-      "title": "MarketWatch — Anthropic soared in its debut as stocks tanked. Only one other IPO has done that since 1990.",
-      "url": "https://www.marketwatch.com/story/anthropic-soared-in-its-debut-as-stocks-tanked-only-one-other-ipo-has-done-that-since-1990-77b75258?mod=mw_rss_topstories"
+      "time": "3:30 PM",
+      "title": "MarketWatch — I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories"
     },
     {
-      "time": "7:04 AM",
-      "title": "MarketWatch — Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories"
+      "time": "3:26 PM",
+      "title": "CNBC — Is the bull market cracking? What to watch for next week after the AI washout",
+      "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
     },
     {
-      "time": "7:00 AM",
-      "title": "CNBC — A24 is having a great year at the box office. That could give HBO Max a streaming edge",
-      "url": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html"
+      "time": "3:26 PM",
+      "title": "CNBC — Take-Two shatters sales record as 'GTA VI' launches to massive fanfare",
+      "url": "https://www.cnbc.com/2026/11/20/take-two-sales-as-gta-vi-launches-to-massive-fanfare.html"
+    },
+    {
+      "time": "3:18 PM",
+      "title": "WSJ Markets — Gold Falls to Nearly 15-Month Low On Interest-Rate Expectations",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main"
+    },
+    {
+      "time": "3:08 PM",
+      "title": "MarketWatch — Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories"
     }
   ]
 }
