@@ -1,21 +1,21 @@
 {
-  "generated_at": "Nov 21, 2026, 12:40 PM ET",
+  "generated_at": "Nov 21, 2026, 4:45 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "Around $60,280, up about 1.4% in a Saturday snapshot, after falling to about $55,300 overnight, its lowest since September 2024; CoinCodex had it at $55,796, down 9.9% over 24 hours, at 1 AM ET (Eurasia Business News; Bitcoin.com News; CoinCodex)."
+      "note": "Around $60,190 at 10:16 AM ET Saturday, up almost 9% from an overnight low of $55,252, its lowest since September 2024 (The Crypto Basic); Eurasia Business News had it near $60,280, up about 1.4%, while at 6:55 AM ET it was $58,091, down 6.0% over 24 hours (Ted Pillows)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "Around $1,691, up about 2.2% in a Saturday snapshot, after trading near $1,559, down 10.4% over 24 hours, at 1 AM ET (Eurasia Business News; CoinCodex)."
+      "note": "Around $1,691, up about 2.2% in a Saturday snapshot (Eurasia Business News); earlier it traded at $1,650, down 5.6% over 24 hours, after a low near $1,550 (Ted Pillows; CryptoPotato)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.00 trillion at 1 AM ET, down 5.4% from $2.11 trillion over 24 hours, per CoinCodex; trading volume rose about 34% to $112 billion (CoinCodex)."
+      "note": "Fell below $2 trillion on Saturday for the first time in more than two years, per CoinMarketCap data, about $900 billion lower than a few weeks ago; CoinCodex put it near $2.00 trillion, down 5.4% over 24 hours, at 1 AM ET (CryptoPotato; CoinCodex)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 56.2% at 1 AM ET on CoinCodex's measure; CoinGabbar, using CoinGecko data a few hours earlier, put it near 58% (CoinCodex; CoinGabbar)."
+      "note": "About 58.1% on CoinMarketCap's measure Saturday morning; Ted Pillows put it at 57.5%, down from 58.1%, and CoinCodex had 56.2% (CryptoPotato; Ted Pillows; CoinCodex)."
     }
   ],
   "themes": [
@@ -31,7 +31,7 @@
     },
     {
       "title": "ETF outflows",
-      "summary": "U.S. spot Bitcoin ETFs had more than $1.25 billion of net outflows from Tuesday to Friday, including $582 million on Thursday, of which BlackRock's IBIT accounted for $541 million (Bitcoin.com News).",
+      "summary": "U.S. spot Bitcoin ETFs had about $1.25 billion of net outflows over the five sessions from Nov. 16 to Nov. 20, including $124.5 million on Friday (Ted Pillows; Bitcoin.com News).",
       "confidence": "confirmed"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "title": "Extreme fear",
-      "summary": "The Crypto Fear and Greed Index read 12, in extreme fear, compared with 68 a month ago, per Alternative.me (CoinGabbar).",
+      "summary": "The Crypto Fear and Greed Index read 12, unchanged from Friday and in extreme fear, compared with 68 a month ago (Ted Pillows; CoinGabbar).",
       "confidence": "confirmed"
     }
   ],
@@ -56,7 +56,7 @@
     },
     {
       "name": "Crypto stocks",
-      "note": "Strategy fell about 30% for the week, Coinbase and Robinhood about 20% each, and Ether treasury firm Bitmine about 26% (Bitcoin.com News)."
+      "note": "Strategy closed Friday at $77.80, down 9.7%, and Coinbase fell 6.3% to $101.97; for the week Strategy lost about 30% and Coinbase and Robinhood about 20% each (Ted Pillows; Bitcoin.com News)."
     },
     {
       "name": "Stablecoins and DeFi",
@@ -66,7 +66,7 @@
   "watch_list": [
     {
       "topic": "Bitcoin levels",
-      "why": "Bitcoin is trying to hold $60,000 after lows near $55,300; it was above $62,000 Thursday and $65,000 early in the week, and Wintermute warns it could fall into the $50,000s unless ETF inflows return (Bitcoin.com News).",
+      "why": "Bitcoin is trying to hold $60,000 after lows near $55,250; a Sunday weekly close below about $65,350 would mark a seventh straight weekly decline (The Crypto Basic; Ted Pillows).",
       "confidence": "developing"
     },
     {
@@ -99,7 +99,7 @@
     {
       "name": "Bitcoin (BTC)",
       "pct": 1.42,
-      "note": "Up about 1.4% to near $60,284 after an overnight low near $55,300 (Eurasia Business News; Bitcoin.com News)."
+      "note": "Up about 1.4% to near $60,284 after an overnight low near $55,250 (Eurasia Business News; The Crypto Basic)."
     },
     {
       "name": "Hyperliquid (HYPE)",
@@ -124,6 +124,18 @@
     {
       "title": "CoinCodex — Daily Market Update for Nov 21, 2026",
       "url": "https://coincodex.com/article/95769/daily-market-update-for-november-21-2026"
+    },
+    {
+      "title": "The Crypto Basic — TCB Daily Edition: What Happened in Crypto on November 21, 2026",
+      "url": "https://thecryptobasic.com/2026/11/21/tcb-daily-edition-what-happened-in-crypto-on-november-21-2026/"
+    },
+    {
+      "title": "Ted Pillows — Crypto & Finance market report, Saturday, November 21, 2026",
+      "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-13a"
+    },
+    {
+      "title": "CryptoPotato — Crypto Market Cap Dumps Below $2T as Bitcoin Rollercoaster Intensifies: Weekend Watch",
+      "url": "https://cryptopotato.com/crypto-market-cap-dumps-below-2t-as-bitcoin-rollercoaster-intensifies-weekend-watch/"
     },
     {
       "title": "CoinGabbar — Crypto News Nov 21: Bitcoin Down 4% Amid Wall Street $7 Trillion Loss",
