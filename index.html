@@ -487,14 +487,13 @@
       <div>
         <p class="greeting"><span class="live-dot"></span>Market Dispatch · Personal Edition<svg class="ca-flag" viewBox="0 0 9600 4800" role="img" aria-label="Canadian flag"><rect width="9600" height="4800" fill="#fff"/><rect width="2400" height="4800" fill="#D52B1E"/><rect x="7200" width="2400" height="4800" fill="#D52B1E"/><path fill="#D52B1E" d="m4890 4430-45-863a95 95 0 0 1 111-98l859 151-116-320a65 65 0 0 1 20-73l941-762-212-99a65 65 0 0 1-34-79l186-572-542 115a65 65 0 0 1-73-38l-105-247-423 454a65 65 0 0 1-111-57l204-1052-327 189a65 65 0 0 1-91-27l-332-652-332 652a65 65 0 0 1-91 27l-327-189 204 1052a65 65 0 0 1-111 57l-423-454-105 247a65 65 0 0 1-73 38l-542-115 186 572a65 65 0 0 1-34 79l-212 99 941 762a65 65 0 0 1 20 73l-116 320 859-151a95 95 0 0 1 111 98l-45 863z"/></svg></p>
         <h1 class="title">The Daily Signal</h1>
-        <p class="dateline" id="dateline">Not yet generated today</p>
+        <p class="dateline" id="dateline">Loading today's briefing…</p>
       </div>
       <div class="hero-actions">
         <button class="theme-switch" id="themeSwitch" role="switch" aria-checked="false" aria-label="Night mode" title="Switch day / night mode">
           <span class="ts-track"><span class="ts-stars"><i></i><i></i><i></i><i></i></span><span class="ts-cloud"></span><span class="ts-knob"></span></span>
           <span class="ts-label" id="themeLabel">Light mode</span>
         </button>
-        <button class="gen-btn" id="genBtn">Show today's briefing</button>
       </div>
     </div>
   </div>
@@ -504,7 +503,7 @@
   <div id="mainPanel">
     <div class="widget w-span-12">
       <div class="empty">
-        <p>Click <strong>Show today's briefing</strong> to load Markets, Crypto and News all at once — then switch tabs freely without pressing it again. To get a new one each day, ask Claude in chat: "update my daily signal for today." Nothing here is a recommendation — it's a starting point for your own thinking.</p>
+        <p>Loading today's briefing… Nothing here is a recommendation — it's a starting point for your own thinking.</p>
       </div>
     </div>
   </div>
@@ -514,7 +513,6 @@
 </div>
 
 <script>
-const genBtn = document.getElementById('genBtn');
 const mainPanel = document.getElementById('mainPanel');
 const dateline = document.getElementById('dateline');
 
@@ -1736,18 +1734,16 @@ async function switchTab(key) {
     const res = await window.storage.get('briefing:' + key + ':' + todayKey(), false);
     if (res && res.value) { TAB_CONFIG[key].render(JSON.parse(res.value), todayKey()); return; }
   } catch (e) { /* nothing saved yet today for this tab */ }
-  dateline.textContent = 'Not yet generated today';
+  dateline.textContent = 'No update yet for this tab today';
   const empty = el('div', { className: 'widget w-span-12' });
   empty.appendChild(el('div', { className: 'empty' }));
-  empty.querySelector('.empty').appendChild(el('p', { text: 'Click "Show today\'s briefing" to load Markets, Crypto and News all at once.' }));
+  empty.querySelector('.empty').appendChild(el('p', { text: 'Today\'s update for this tab hasn\'t loaded yet. It will show up here on its own.' }));
   mainPanel.appendChild(empty);
 }
 
 async function generateBriefing() {
   const key = todayKey();
-  genBtn.disabled = true;
   try { await loadAllLive(); } catch (e) { /* fall back to what's already loaded */ }
-  genBtn.disabled = false;
   // Save every tab's data up front so switching tabs never needs a second click.
   for (const tabKey of Object.keys(TAB_CONFIG)) {
     try {
@@ -1766,7 +1762,6 @@ async function generateBriefing() {
   mainPanel.prepend(note);
 }
 
-genBtn.addEventListener('click', generateBriefing);
 
 // Night mode switch (knob slides between day and night; choice is remembered on this device).
 const themeSwitch = document.getElementById('themeSwitch');
@@ -1817,10 +1812,7 @@ setInterval(loadAllLive, 5 * 60 * 1000);
 
 (async function init() {
   renderTabBar();
-  try {
-    const res = await window.storage.get('briefing:markets:' + todayKey(), false);
-    if (res && res.value) { renderBriefing(JSON.parse(res.value), todayKey()); return; }
-  } catch (e) { /* no briefing yet today */ }
+  generateBriefing(); // show the briefing automatically (loads behind the loading screen)
 })();
 </script>
 </body>
