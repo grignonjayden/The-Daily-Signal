@@ -1839,8 +1839,17 @@ setInterval(loadAllLive, 5 * 60 * 1000);
     l.innerHTML = '&#8249;'; r.innerHTML = '&#8250;';
     l.setAttribute('aria-label', 'Scroll left'); r.setAttribute('aria-label', 'Scroll right');
     l.type = r.type = 'button';
-    l.onclick = function () { sc.scrollBy({ left: -sc.clientWidth * 0.8, behavior: 'smooth' }); };
-    r.onclick = function () { sc.scrollBy({ left: sc.clientWidth * 0.8, behavior: 'smooth' }); };
+    // Move exactly one card and line its left edge up with the row's left edge.
+    function step(dir) {
+      var base = sc.getBoundingClientRect().left, cur = sc.scrollLeft, target = null;
+      var pos = [].map.call(sc.children, function (c) { return c.getBoundingClientRect().left - base + cur; });
+      if (dir > 0) { for (var i = 0; i < pos.length; i++) if (pos[i] > cur + 4) { target = pos[i]; break; } }
+      else { for (var j = pos.length - 1; j >= 0; j--) if (pos[j] < cur - 4) { target = pos[j]; break; } }
+      if (target === null) target = dir > 0 ? sc.scrollWidth : 0;
+      sc.scrollTo({ left: Math.max(0, target), behavior: 'smooth' });
+    }
+    l.onclick = function () { step(-1); };
+    r.onclick = function () { step(1); };
     w.appendChild(l); w.appendChild(r);
     var u = function () { upd(sc, l, r); };
     sc.addEventListener('scroll', u, { passive: true });
