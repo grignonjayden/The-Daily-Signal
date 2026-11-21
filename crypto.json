@@ -1,157 +1,141 @@
 {
-  "generated_at": "Nov 20, 2026, 4:45 PM ET (Friday close)",
+  "generated_at": "Nov 21, 2026, 7:35 AM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $58,780 at 4:36 PM ET Friday, down about 4.4% over 24 hours per CoinDesk; it was near $61,320 at 7:15 AM ET (CoinDesk; Fortune)."
+      "note": "Fell 9.89% to about $55,789 as of 12:56 AM ET Saturday, its lowest since September 2024 and below the prior 2026 low near $57,700; a later CoinGabbar reading put it near $57,900, down 6.2% over 24 hours (Yahoo Finance/Investing.com; CoinGabbar)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,637 per CoinMarketCap late Friday, near its lowest since July; it was down about 7.6% over 24 hours by Friday morning (CoinMarketCap; CryptoTicker)."
+      "note": "Fell 10.12% to about $1,564 as of 12:56 AM ET Saturday; CoinGabbar later put it near $1,638, down 6.4% over 24 hours and 13.5% over the week (Yahoo Finance/Investing.com; CoinGabbar)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.02 trillion, down about 5.8% over 24 hours, per CoinMarketCap (CoinMarketCap)."
+      "note": "About $2.07 trillion, down 5.6% over 24 hours, per CoinGabbar's Nov. 21 report (CoinGabbar)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 58.6% on CoinMarketCap's measure, down slightly on the day, with Ether at about 9.8% (CoinMarketCap)."
+      "note": "About 58.4% on CoinMarketCap's measure, with Ether at about 9.8% (CoinMarketCap)."
     }
   ],
   "themes": [
     {
-      "title": "Bitcoin below $60,000",
-      "summary": "Bitcoin fell to a four-month low below $60,000 as U.S. tech stocks sold off and the Nasdaq dropped 5.3%; crypto-linked stocks such as Coinbase and Strategy also fell (CoinDesk; MarketScreener; AP).",
+      "title": "Bitcoin hits lowest since 2024",
+      "summary": "Bitcoin dropped below $56,000 early Saturday, more than half below its record above $126,000 set in October 2025 and about 28% lower for the quarter (Yahoo Finance/Investing.com).",
       "confidence": "confirmed"
     },
     {
-      "title": "$1.4 billion liquidated",
-      "summary": "About $1.42 billion of leveraged positions were liquidated over 24 hours, about $1.3 billion of them longs, per CoinMarketCap (CoinMarketCap; CoinDesk).",
+      "title": "$2.55 billion liquidated",
+      "summary": "About $2.55 billion of leveraged positions were liquidated over 24 hours, about 89% of them longs, including $1.16 billion in Bitcoin and $584 million in Ether, per CoinGlass data (CoinGabbar; Yahoo Finance).",
       "confidence": "confirmed"
     },
     {
       "title": "ETF outflows continue",
-      "summary": "U.S. spot Bitcoin ETFs had about $582 million of net outflows on Nov. 19, a third straight day of withdrawals (CryptoTicker; CoinMarketCap).",
+      "summary": "U.S. spot Bitcoin ETFs had $124.4 million of net outflows on Nov. 20 and about $4.44 billion over 30 days, per SoSoValue; BlackRock's IBIT had a record $541.1 million outflow on Nov. 19 (CoinGabbar; CoinMarketCap).",
       "confidence": "confirmed"
     },
     {
-      "title": "Fed hike expectations",
-      "summary": "Markets price a near-certain quarter-point Fed rate increase on Dec. 9 after hotter-than-expected October inflation, a headwind for risk assets (CoinStats; MarketScreener).",
+      "title": "Fed hike bets and tech selloff",
+      "summary": "CME data shows an 88.6% chance of a Fed rate increase on Dec. 9, and Fed Governor Christopher Waller raised the possibility of a half-point move; the Nasdaq fell 5.3% on Friday (CoinGabbar; Yahoo Finance; AP).",
       "confidence": "developing"
     },
     {
       "title": "Extreme fear",
-      "summary": "The Crypto Fear and Greed Index read 8, in extreme fear, per CoinMarketCap, down from 11 on Nov. 19 per CoinStats (CoinMarketCap; CoinStats).",
+      "summary": "The Crypto Fear and Greed Index read 12 on Nov. 21, in extreme fear, compared with 68 a month ago (CoinGabbar).",
       "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin near $58,780 and Ether near $1,637, both lower over 24 hours (CoinDesk; CoinMarketCap)."
+      "note": "Bitcoin and Ether each fell roughly 10% over 24 hours to early Saturday, to about $55,789 and $1,564 (Yahoo Finance/Investing.com)."
+    },
+    {
+      "name": "Large-cap altcoins",
+      "note": "XRP fell about 10.1% to $0.8726, Solana about 9.9% to $65.54 and BNB about 10.6% to $511.34 (Yahoo Finance/Investing.com)."
     },
     {
       "name": "Crypto stocks",
-      "note": "Miner IREN fell about 18%, Strive about 13% and Galaxy about 9% on Friday (CoinDesk)."
+      "note": "Hut 8 fell nearly 15%, and Core Scientific, CleanSpark and Bitdeer each fell more than 13% (Yahoo Finance/Investing.com)."
     },
     {
-      "name": "DeFi",
-      "note": "DeFi trading volume was about $13.2 billion over 24 hours, about 12% of all crypto volume (CoinMarketCap)."
-    },
-    {
-      "name": "Stablecoins",
-      "note": "Stablecoins were among the steadiest assets, with Tether near $175 billion in market value and USDC near $69 billion, though total supply has been shrinking (CoinGecko; CoinStats)."
+      "name": "Crypto ETFs",
+      "note": "Spot Ether ETFs had $13.2 million of outflows on Nov. 20 and XRP ETFs $5.0 million, per SoSoValue; spot Bitcoin ETF net assets stood near $26.9 billion (CoinGabbar)."
     }
   ],
   "watch_list": [
     {
-      "topic": "2026 cycle low near $57,700",
-      "why": "Analysts cite about $57,700 to $57,800 as Bitcoin's 2026 low and about $53,700 as its realized price, with resistance near $61,970 and $63,270 (The Crypto Basic).",
+      "topic": "Bitcoin levels",
+      "why": "Analysts cited by CoinGabbar watch $52,000 to $55,000 as the next support area and $60,000 to $62,000 as resistance; Wintermute says a sustained recovery would need a move back above $68,000 with renewed ETF inflows (CoinGabbar; Yahoo Finance).",
       "confidence": "developing"
     },
     {
       "topic": "Strategy index removal",
-      "why": "MSCI is set to remove Strategy (MSTR), which holds about 850,849 BTC, from some U.S. indexes after the close on Nov. 30 (CoinStats).",
+      "why": "MSCI is set to remove Strategy (MSTR), a large Bitcoin holder, from some U.S. indexes after the close on Nov. 30 (CoinStats).",
       "confidence": "developing"
     },
     {
-      "topic": "Weekend trading and PCE",
-      "why": "Spot ETFs do not trade on weekends, and next week brings October PCE inflation data on Nov. 25 ahead of the Dec. 9 Fed decision (CryptoTicker; CoinStats).",
+      "topic": "Weekend trading and the Fed",
+      "why": "Spot ETFs do not trade on weekends; next week brings October PCE inflation data on Nov. 25 ahead of the Dec. 9 Fed decision (CoinGabbar; Admirals).",
       "confidence": "developing"
     }
   ],
   "movers": [
     {
-      "name": "Impossible Cloud Network (ICNT)",
-      "pct": 34.8,
-      "note": "Up about 34.8% to near $0.43 over 24 hours as of early Friday UTC (Coin Gabbar)."
+      "name": "BNB (BNB)",
+      "pct": -10.63,
+      "note": "Down about 10.6% to near $511.34 as of 12:56 AM ET Saturday (Yahoo Finance/Investing.com)."
     },
     {
-      "name": "EVAA Protocol (EVAA)",
-      "pct": 33.6,
-      "note": "Up about 33.6% to near $5.28 as of early Friday UTC (Coin Gabbar)."
+      "name": "Dogecoin (DOGE)",
+      "pct": -10.48,
+      "note": "Down about 10.5% over 24 hours as of early Saturday (Yahoo Finance/Investing.com)."
     },
     {
-      "name": "Zcash (ZEC)",
-      "pct": -6.99,
-      "note": "Down about 7% to near $862 as of early Friday UTC (The Crypto Basic)."
+      "name": "Ethereum (ETH)",
+      "pct": -10.12,
+      "note": "Down about 10.1% to near $1,564 (Yahoo Finance/Investing.com)."
     },
     {
-      "name": "Sky (SKY)",
-      "pct": -8.69,
-      "note": "Down about 8.7% to near $0.0449 on volume about 24 times its 20-day average (The Crypto Basic)."
+      "name": "XRP (XRP)",
+      "pct": -10.07,
+      "note": "Down about 10.1% to near $0.8726 (Yahoo Finance/Investing.com)."
     },
     {
-      "name": "NEAR Protocol (NEAR)",
-      "pct": -10.51,
-      "note": "Down about 10.5% to near $3.04 as of early Friday UTC (The Crypto Basic)."
+      "name": "Solana (SOL)",
+      "pct": -9.9,
+      "note": "Down about 9.9% to near $65.54 (Yahoo Finance/Investing.com)."
     },
     {
-      "name": "Backpack (BP)",
-      "pct": -17.4,
-      "note": "Down about 17.4% to near $0.84 as of early Friday UTC (Coin Gabbar)."
+      "name": "Cardano (ADA)",
+      "pct": -9.87,
+      "note": "Down about 9.9% to near $0.1351 (Yahoo Finance/Investing.com)."
     }
   ],
   "sources": [
     {
-      "title": "CoinDesk — Bitcoin price",
-      "url": "https://www.coindesk.com/price/bitcoin"
+      "title": "Yahoo Finance (Investing.com) — Bitcoin falls below $56,000 as liquidity squeeze deepens crypto selloff",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-crashes-below-56-000-061626263.html"
     },
     {
-      "title": "CoinMarketCap — Cryptocurrency Prices, Charts And Market Capitalizations",
-      "url": "https://coinmarketcap.com/"
+      "title": "CoinGabbar — Why is Crypto Crashing? BTC, ETH, XRP Fall Amid $2.55B Liquidations",
+      "url": "https://coingabbar.com/en/why-is-crypto-crashing-btc-eth-xrp-fall-amid-2-55b-liquidations"
     },
     {
-      "title": "CryptoTicker — Bitcoin falls below $60,000 for the first time since July",
-      "url": "https://cryptoticker.io/en/bitcoin-below-60000-first-time-since-july/"
-    },
-    {
-      "title": "Fortune — Current price of Bitcoin for November 20, 2026",
-      "url": "https://fortune.com/article/price-of-bitcoin-11-20-2026/"
-    },
-    {
-      "title": "The Crypto Basic — Crypto Price Analysis, BTC, ETH, NEAR, SKY and ZEC, Nov. 20",
-      "url": "https://thecryptobasic.com/2026/11/20/crypto-price-analysis-btc-eth-near-sky-and-zec-nov-20-bitcoin-closes-below-its-weekend-low-as-sky-volume-surges/"
+      "title": "CoinMarketCap — Latest Bitcoin News and Updates",
+      "url": "https://coinmarketcap.com/cmc-ai/bitcoin/latest-updates/"
     },
     {
       "title": "CoinStats — Bitcoin (BTC) News Today: Why BTC Is Down",
       "url": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
     },
     {
-      "title": "Coin Gabbar — Crypto News Nov 20: Bitcoin Drops 2.7% Amid Japan Risk, Fed Hike Fears",
-      "url": "https://www.coingabbar.com/en/crypto-news-today-cftc-rules-japan-risk-anthropic-bitcoin-price"
-    },
-    {
-      "title": "MarketScreener (Reuters) — Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
-      "url": "https://www.marketscreener.com/news/wall-st-ends-sharply-lower-on-ai-selloff-s-p-500-dow-in-correction-ce785ed3dd80f527"
+      "title": "Admirals — Why Is the Stock Market Down Today? 20 November 2026",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-20-november-2026"
     },
     {
       "title": "AP via 2News — S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
       "url": "https://www.2news.com/news/national/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/article_ba6a6c42-13b7-5e70-a230-660a1138d62c.html"
-    },
-    {
-      "title": "CoinGecko — Cryptocurrency Prices, Charts, and Crypto Market Cap",
-      "url": "https://www.coingecko.com/"
     }
   ]
 }
