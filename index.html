@@ -57,6 +57,8 @@
   }
   :root[data-theme="dark"] .gen-btn, :root[data-theme="dark"] .tab-btn.active, :root[data-theme="dark"] .chip.active { color: #14161D; }
   :root[data-theme="dark"] .gen-btn:hover { background: #FFFFFF; }
+  :root[data-theme="dark"] .ring-widget { background: linear-gradient(150deg, var(--pink-soft) 0%, var(--lavender-soft) 55%, var(--mint-soft) 100%); }
+  :root[data-theme="dark"] .ring-widget .ring-track { stroke: rgba(255,255,255,0.14); }
   :root[data-theme="dark"] .news-thumb-sm { background: linear-gradient(135deg, #2E4C86, #1C2E52); }
   :root[data-theme="dark"] .news-thumb-sm.official { background: linear-gradient(135deg, #D9722C, #A6591F); }
   :root[data-theme="dark"] .note-box { color: var(--ink-soft); }
@@ -852,7 +854,7 @@ function buildRing(size, stroke, pct, fgVar, trackRgba) {
 
   const bgCircle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
   bgCircle.setAttribute('cx', size/2); bgCircle.setAttribute('cy', size/2); bgCircle.setAttribute('r', r);
-  bgCircle.setAttribute('fill', 'none'); bgCircle.setAttribute('stroke', trackRgba);
+  bgCircle.setAttribute('fill', 'none'); bgCircle.setAttribute('stroke', trackRgba); bgCircle.setAttribute('class', 'ring-track');
   bgCircle.setAttribute('stroke-width', stroke);
   svg.appendChild(bgCircle);
 
