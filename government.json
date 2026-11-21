@@ -1,8 +1,19 @@
 {
-  "generated_at": "Nov 20, 2026, 10:16 PM ET",
-  "date_key": "2026-11-20",
+  "generated_at": "Nov 21, 2026, 12:37 PM ET",
+  "date_key": "2026-11-21",
   "caption": "Federal investment news and decisions from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Ottawa says it lost $2M from emergency drug stockpile after freezer malfunction",
+      "url": "https://www.cp24.com/news/canada/2026/11/21/ottawa-says-it-lost-2m-from-emergency-drug-stockpile-after-freezer-malfunction/",
+      "image": "https://www.cp24.com/resizer/v2/BCPSUBQLJOF3MNAQ253IVPVI3I.jpg?auth=83859eea0126b12ad6581b1f4d3fe7bdc50ef1c259aca2ed7f8360e09eaabc53&smart=true&width=1400&height=1007",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "General",
+      "time": "Nov 21",
+      "date": "2026-11-21T16:38:15.000Z"
+    },
     {
       "title": "Sault Ste. Marie port project lands $250M to cut U.S. trade reliance",
       "url": "https://www.cp24.com/news/canada/2026/11/20/federal-government-providing-up-to-125m-to-develop-port-of-sault-ste-marie/",
@@ -13,17 +24,6 @@
       "sector": "Infrastructure",
       "time": "Nov 20",
       "date": "2026-11-21T03:03:00.000Z"
-    },
-    {
-      "title": "First Nations youth plan day of action against Ottawa's major projects legislation",
-      "url": "https://www.cp24.com/politics/2026/11/20/first-nations-youth-plan-day-of-action-against-ottawas-major-projects-legislation/",
-      "image": "https://www.cp24.com/resizer/v2/JGQ5EYUXQPSIYY6ZRI7KRGWDZ4.jpg?auth=e0b88a5e32787dc2e0d12fd467c1f1e69132a02ea0a33790f50655911d34ae9e&smart=true&width=1400&height=933",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Infrastructure",
-      "time": "Nov 20",
-      "date": "2026-11-21T02:35:15.000Z"
     },
     {
       "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
@@ -184,9 +184,9 @@
       "kept": 2
     },
     {
-      "source": "Canada Media Fund",
-      "fetched": 24,
-      "kept": 2
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 1
     },
     {
       "source": "Finance Canada",
@@ -194,9 +194,9 @@
       "kept": 2
     },
     {
-      "source": "CDEV",
-      "fetched": 20,
-      "kept": 1
+      "source": "Canada Media Fund",
+      "fetched": 24,
+      "kept": 2
     },
     {
       "source": "ISED",
