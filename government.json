@@ -1,8 +1,19 @@
 {
-  "generated_at": "Nov 21, 2026, 12:37 PM ET",
+  "generated_at": "Nov 21, 2026, 6:27 PM ET",
   "date_key": "2026-11-21",
   "caption": "Federal investment news and decisions from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "url": "https://www.cp24.com/news/world/2026/11/21/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress/",
+      "image": "https://www.cp24.com/resizer/v2/6UKBCG4ALY4RZRSLVEU3IUQD6E.jpg?auth=803aa4b96d86b082c19172f24b622408a30236f969bbfeaa6a771426b48b353f&smart=true&width=1400&height=933",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "General",
+      "time": "Nov 21",
+      "date": "2026-11-21T23:47:59.000Z"
+    },
     {
       "title": "Ottawa says it lost $2M from emergency drug stockpile after freezer malfunction",
       "url": "https://www.cp24.com/news/canada/2026/11/21/ottawa-says-it-lost-2m-from-emergency-drug-stockpile-after-freezer-malfunction/",
@@ -13,17 +24,6 @@
       "sector": "General",
       "time": "Nov 21",
       "date": "2026-11-21T16:38:15.000Z"
-    },
-    {
-      "title": "Sault Ste. Marie port project lands $250M to cut U.S. trade reliance",
-      "url": "https://www.cp24.com/news/canada/2026/11/20/federal-government-providing-up-to-125m-to-develop-port-of-sault-ste-marie/",
-      "image": "https://www.cp24.com/resizer/v2/BT5CZYPISFB2HPDAXRORHQ7LUU.jpeg?auth=5ef2820d069f0ceea00082f1218d96c895720e97ef6f04c97a020b038476aa9a&smart=true&width=3840&height=2160",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Infrastructure",
-      "time": "Nov 20",
-      "date": "2026-11-21T03:03:00.000Z"
     },
     {
       "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
@@ -189,13 +189,13 @@
       "kept": 1
     },
     {
-      "source": "Finance Canada",
-      "fetched": 20,
+      "source": "Canada Media Fund",
+      "fetched": 24,
       "kept": 2
     },
     {
-      "source": "Canada Media Fund",
-      "fetched": 24,
+      "source": "Finance Canada",
+      "fetched": 20,
       "kept": 2
     },
     {
