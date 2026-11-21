@@ -58,7 +58,7 @@
   :root[data-theme="dark"] .gen-btn, :root[data-theme="dark"] .tab-btn.active, :root[data-theme="dark"] .chip.active { color: #14161D; }
   :root[data-theme="dark"] .gen-btn:hover { background: #FFFFFF; }
   :root[data-theme="dark"] .ring-widget { background: linear-gradient(150deg, var(--pink-soft) 0%, var(--lavender-soft) 55%, var(--mint-soft) 100%); }
-  :root[data-theme="dark"] .ring-widget .ring-track { stroke: rgba(255,255,255,0.14); }
+  :root[data-theme="dark"] .ring-track { stroke: rgba(255,255,255,0.14); }
   :root[data-theme="dark"] .news-thumb-sm { background: linear-gradient(135deg, #2E4C86, #1C2E52); }
   :root[data-theme="dark"] .news-thumb-sm.official { background: linear-gradient(135deg, #D9722C, #A6591F); }
   :root[data-theme="dark"] .note-box { color: var(--ink-soft); }
@@ -378,7 +378,7 @@
     padding: 2px 8px; border-radius: 999px; margin-left: 8px; position: relative; top: -1px;
   }
   .badge.confirmed { background: var(--mint-soft); color: var(--mint-deep); }
-  .badge.developing { background: var(--peach-soft); color: #4B2E6B; }
+  .badge.developing { background: var(--peach-soft); color: var(--lavender); }
   .item.filtered-out { display: none; }
 
   /* ---------- Sector tag cloud ---------- */
@@ -449,7 +449,7 @@
     background: var(--pink-soft); color: var(--pink-deep); border-radius: var(--r-sm);
     padding: 14px 16px; font-size: 13.5px; font-weight: 600; margin-bottom: 14px;
   }
-  .note-box { background: var(--sky-soft); color: #5A5D68; }
+  .note-box { background: var(--sky-soft); color: var(--sky); }
 
   .disclaimer {
     margin-top: 26px; font-size: 12px; line-height: 1.65; color: var(--ink-faint);
@@ -875,8 +875,8 @@ function buildRing(size, stroke, pct, fgVar, trackRgba) {
 const SECTOR_PALETTE = [
   { bg: 'var(--pink-soft)', fg: 'var(--pink-deep)' },
   { bg: 'var(--mint-soft)', fg: 'var(--mint-deep)' },
-  { bg: 'var(--lavender-soft)', fg: '#4B2E6B' },
-  { bg: 'var(--sky-soft)', fg: '#5A5D68' }
+  { bg: 'var(--lavender-soft)', fg: 'var(--lavender)' },
+  { bg: 'var(--sky-soft)', fg: 'var(--sky)' }
 ];
 
 function buildConfidenceRing(confirmedCount, developingCount) {
@@ -910,7 +910,7 @@ function buildSectorLeaderboard(sectors) {
   const top = scored[0];
   const rest = scored.slice(1);
 
-  const widget = widgetShell('w-span-5', 'trophy', 'var(--peach-soft)', '#4B2E6B', 'Best Performing Sector');
+  const widget = widgetShell('w-span-5', 'trophy', 'var(--peach-soft)', 'var(--lavender)', 'Best Performing Sector');
 
   const feature = el('div', { className: 'leader-feature' });
   const ringWrap = el('div', { className: 'leader-ring-wrap' });
@@ -946,7 +946,7 @@ function buildCryptoLeaderboard(movers) {
   const gaugeFill = (pct) => Math.max(5, Math.min(95, 50 + pct * 3));
   const fmtPct = (pct) => (pct >= 0 ? '+' : '') + pct.toFixed(2) + '%';
 
-  const widget = widgetShell('w-span-5', 'trophy', 'var(--peach-soft)', '#4B2E6B', "Today's Biggest Movers");
+  const widget = widgetShell('w-span-5', 'trophy', 'var(--peach-soft)', 'var(--lavender)', "Today's Biggest Movers");
 
   const feature = el('div', { className: 'leader-feature' });
   const ringWrap = el('div', { className: 'leader-ring-wrap' });
@@ -999,7 +999,7 @@ function renderBriefing(data, dateKey) {
 
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
-    const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', '#4B2E6B', "Today's Themes", data.themes.length);
+    const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', 'var(--lavender)', "Today's Themes", data.themes.length);
     widget.dataset.top = '2';
     const itemsWrap = el('div');
     buildFilterRow(widget, (key) => {
@@ -1014,7 +1014,7 @@ function renderBriefing(data, dateKey) {
 
   // Watch list
   if (Array.isArray(data.watch_list) && data.watch_list.length) {
-    const widget = widgetShell('w-span-6', 'watch', 'var(--peach-soft)', '#4B2E6B', 'Worth Researching', data.watch_list.length);
+    const widget = widgetShell('w-span-6', 'watch', 'var(--peach-soft)', 'var(--lavender)', 'Worth Researching', data.watch_list.length);
     const itemsWrap = el('div');
     buildFilterRow(widget, (key) => {
       itemsWrap.querySelectorAll('.item').forEach(it => {
@@ -1060,7 +1060,7 @@ function renderBriefing(data, dateKey) {
 
   // Sectors
   if (Array.isArray(data.sectors) && data.sectors.length) {
-    const widget = widgetShell('w-span-7', 'sectors', 'var(--sky-soft)', '#5A5D68', 'Sectors in Motion');
+    const widget = widgetShell('w-span-7', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Sectors in Motion');
     const cloud = el('div', { className: 'sector-cloud' });
     data.sectors.forEach((s, i) => {
       const palette = SECTOR_PALETTE[i % SECTOR_PALETTE.length];
@@ -1140,7 +1140,7 @@ function renderCrypto(data, dateKey) {
 
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
-    const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', '#4B2E6B', "Today's Crypto Themes", data.themes.length);
+    const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', 'var(--lavender)', "Today's Crypto Themes", data.themes.length);
     widget.dataset.top = '2';
     const itemsWrap = el('div');
     buildFilterRow(widget, (key) => {
@@ -1153,7 +1153,7 @@ function renderCrypto(data, dateKey) {
 
   // Watch list
   if (Array.isArray(data.watch_list) && data.watch_list.length) {
-    const widget = widgetShell('w-span-6', 'watch', 'var(--peach-soft)', '#4B2E6B', 'Worth Researching', data.watch_list.length);
+    const widget = widgetShell('w-span-6', 'watch', 'var(--peach-soft)', 'var(--lavender)', 'Worth Researching', data.watch_list.length);
     const itemsWrap = el('div');
     buildFilterRow(widget, (key) => {
       itemsWrap.querySelectorAll('.item').forEach(it => it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key));
@@ -1197,7 +1197,7 @@ function renderCrypto(data, dateKey) {
 
   // Categories
   if (Array.isArray(data.categories) && data.categories.length) {
-    const widget = widgetShell('w-span-7', 'sectors', 'var(--sky-soft)', '#5A5D68', 'Crypto Categories in Motion');
+    const widget = widgetShell('w-span-7', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Crypto Categories in Motion');
     const cloud = el('div', { className: 'sector-cloud' });
     data.categories.forEach((s, i) => {
       const palette = SECTOR_PALETTE[i % SECTOR_PALETTE.length];
@@ -1622,7 +1622,7 @@ function renderCanada(data, dateKey) {
     mainPanel.appendChild(w);
     return;
   }
-  const looks = { car: ['var(--pink-soft)', 'var(--pink-deep)'], bank: ['var(--mint-soft)', 'var(--mint-deep)'], cart: ['var(--lavender-soft)', '#4B2E6B'], building: ['var(--sky-soft)', 'var(--sky)'] };
+  const looks = { car: ['var(--pink-soft)', 'var(--pink-deep)'], bank: ['var(--mint-soft)', 'var(--mint-deep)'], cart: ['var(--lavender-soft)', 'var(--lavender)'], building: ['var(--sky-soft)', 'var(--sky)'] };
   data.sections.forEach(sec => {
     const c = looks[sec.icon] || looks.bank;
     const widget = widgetShell('w-span-12', ICONS[sec.icon] ? sec.icon : 'maple', c[0], c[1], sec.title, (sec.items || []).length);
