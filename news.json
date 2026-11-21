@@ -1,38 +1,86 @@
 {
-  "generated_at": "Nov 21, 2026, 5:52 AM ET",
+  "generated_at": "Nov 21, 2026, 12:56 PM ET",
   "date_key": "2026-11-21",
   "articles": [
     {
-      "title": "Trump orders federal contractors to notify White House before giving Congress information",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information.html",
-      "snippet": "Companies that fail to comply could face cancelation of existing contracts or suspension from future federal business.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108528045-1793913495051-gettyimages-2303227251-AFP_D6KY833.jpeg?v=1793913625&w=1920&h=1080",
-      "time": "Nov 21, 3:54 AM"
+      "title": "Bitcoin rises after falling to lowest level in two years",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-bitcoin-rises-after-falling-to-lowest-level-in-two-years/",
+      "snippet": "Crypto markets have been shaken in recent sessions",
+      "image": "https://www.theglobeandmail.com/resizer/v2/IGBMAXH7PRCJTJF6WFYO5LAVGE.JPG?auth=150b55b2624b803068eab137e884627681e0c125466fbf5174475e720c2a82ea&smart=true&width=3500&height=2278",
+      "time": "Nov 21, 12:43 PM"
     },
     {
-      "title": "Meta's India offices hit by opposition protests over account removals",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/21/metas-india-offices-hit-by-opposition-protests-over-account-removals.html",
-      "snippet": "Prime Minister Modi's government says it orders content to be taken down only if it breaches local laws, or can harm public safety or national security.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108523975-1793864595075-gettyimages-2278857871-20090101260603-99-617385.jpeg?v=1794424576&w=1920&h=1080",
-      "time": "Nov 21, 3:22 AM"
+      "title": "What It’s Like to Retire in Thailand",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7?mod=rss_markets_main",
+      "snippet": "It’s hot, humid and costs a bit more than we anticipated. But we love the life we’ve built here.",
+      "image": "https://images.wsj.net/im-91101434",
+      "time": "Nov 21, 12:00 PM"
     },
     {
-      "title": "Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028",
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html",
-      "snippet": "Around 100 countries backed legally binding rules within a short timeframe but big arms-producing nations like the U.S., Russia and Israel opposed this position.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108556987-1795246565449-gettyimages-2304350810-ukrinform-ukrainia261110_npEfg.jpeg?v=1795246600&w=1920&h=1080",
-      "time": "Nov 21, 3:02 AM"
+      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "snippet": "This would make the second recent intrusion into the FBI system.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556666-17951972432026-11-20t175115z_1355872127_rc2troappj32_rtrmadp_0_usa-trump.jpeg?v=1795197271&w=1920&h=1080",
+      "time": "Nov 21, 11:57 AM"
     },
     {
-      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-      "snippet": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
-      "image": "https://images.mktw.net/im-46571930",
-      "time": "Nov 20, 10:20 PM"
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "snippet": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+      "image": "https://images.mktw.net/im-49247042",
+      "time": "Nov 21, 11:50 AM"
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "snippet": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "image": "https://images.mktw.net/im-62799282",
+      "time": "Nov 21, 11:50 AM"
+    },
+    {
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+      "snippet": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108555254-1795098552302-gettyimages-2305298530-AFP_D7ZG87P.jpeg?v=1795137591&w=1920&h=1080",
+      "time": "Nov 21, 11:40 AM"
+    },
+    {
+      "title": "Canada joins NATO Innovation Fund with contribution of about $100-million",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/economy/article-canada-joins-nato-innovation-fund-with-100-million-contribution/",
+      "snippet": "Membership opens up the $1.7-billion-plus multinational venture capital pool to Canadian companies",
+      "image": "https://www.theglobeandmail.com/resizer/v2/INADU56TTFA5RGV6C533JXFSNE.JPG?auth=33ab70c107c4ab001272ec45e2c5f12cc870154fbfa285eb9d53a40c68c69537&smart=true&width=5552&height=3701",
+      "time": "Nov 21, 11:00 AM"
+    },
+    {
+      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+      "snippet": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
+      "image": "https://images.mktw.net/im-18553565",
+      "time": "Nov 21, 10:35 AM"
+    },
+    {
+      "title": "Tech outages are fueling a new doomsday economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+      "snippet": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556652-1795196759983-261119_cg_32_doomsday_preppers_2.jpg?v=1795196815&w=1920&h=1080",
+      "time": "Nov 21, 10:04 AM"
+    },
+    {
+      "title": "What Canada can learn from Sweden’s private models for health care and education, according to our reporter",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-sweden-private-health-education-canada-systems/",
+      "snippet": "Readers asked Tim Kiladze how Sweden’s systems work, Canada’s roadblocks and the path to better services",
+      "image": "https://www.theglobeandmail.com/resizer/v2/T6ZK5RRXLZH5VNRRKBHJRAVPGA.JPG?auth=687f0e99b012b1270ec3ed5e635bd7ffa6fe478f64ba1529c808cecc59d0270b&smart=true&width=4000&height=3000",
+      "time": "Nov 21, 9:00 AM"
     },
     {
       "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
@@ -43,60 +91,12 @@
       "time": "Nov 20, 9:16 PM"
     },
     {
-      "title": "Quebecor, Telesat exploring partnerships tied to Lightspeed satellite constellation",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-quebecor-telesat-partnership-lightspeed-satellite-constellation/",
-      "snippet": "Companies had early-stage talks about the technology but no investment proposal has been made",
-      "image": "https://www.theglobeandmail.com/resizer/v2/5QQEYUT7VRARLBKYI3EKRSQ6JQ.JPG?auth=fd8d68b0a8559019df26e49150f8b616d21e4d1a30be7703d97af499c19f012e&smart=true&width=4200&height=2800",
-      "time": "Nov 20, 8:28 PM"
-    },
-    {
-      "title": "Conservatives call on A-G to probe non-profit behind PrescribeIT after hiring delays",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-conservatives-prescribeit-canada-health-infoway-hiring-delays/",
-      "snippet": "Health Canada still hasn’t hired third-party auditor to investigate Canada Health Infoway",
-      "image": "https://www.theglobeandmail.com/resizer/v2/NEZZUWO3ARG2ZE2BTL3MAJG25E.JPG?auth=39de97460519b3bb646d1b4b6bdd0d0ad73473df5bfc1075902fe5d9b4e47d8b&smart=true&width=7496&height=4997",
-      "time": "Nov 20, 7:49 PM"
-    },
-    {
       "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
       "snippet": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down.",
       "image": "https://images.wsj.net/im-61305431",
       "time": "Nov 20, 6:36 PM"
-    },
-    {
-      "title": "Bell says enterprise customer data was stolen in ‘agentic’ cybersecurity incident",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-bell-cybersecurity-incident-customer-data/",
-      "snippet": "Company is notifying affected customers, says no highly-sensitive private information was compromised",
-      "image": "https://www.theglobeandmail.com/resizer/v2/I5KNZUYXIJETVGQDZIR4AAGM6U.JPG?auth=c47096a92712adcc41ea3b0982c0651264e7c5938a36491ae3e42194d23dc819&smart=true&width=4887&height=3857",
-      "time": "Nov 20, 6:27 PM"
-    },
-    {
-      "title": "Opinion | Why China Wants to Control a Yacht Maker",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/opinion/why-china-wants-to-control-a-yacht-maker-69ca60c7?mod=rss_markets_main",
-      "snippet": "The story of Italy’s Ferretti Group points to a vulnerability in the West’s system to control investment by foreign adversaries.",
-      "image": "https://opinion-images.wsj.net/im-90064506",
-      "time": "Nov 20, 6:11 PM"
-    },
-    {
-      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-      "snippet": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
-      "image": "https://images.mktw.net/im-22825043",
-      "time": "Nov 20, 5:46 PM"
-    },
-    {
-      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
-      "snippet": "A major semiconductor index just posted its worst weekly performance in 25 years.",
-      "image": "https://images.mktw.net/im-69966637",
-      "time": "Nov 20, 5:44 PM"
     }
   ],
   "official": [
@@ -173,64 +173,64 @@
   ],
   "ticker": [
     {
-      "time": "1:00 AM",
-      "title": "CNBC — How China is using summits to expand its global influence",
-      "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
+      "time": "10:15 AM",
+      "title": "MarketWatch — ‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories"
     },
     {
-      "time": "1:00 AM",
-      "title": "CNBC — An early breakdown in the polar vortex is threatening already depleted gas stocks",
-      "url": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html"
+      "time": "10:15 AM",
+      "title": "MarketWatch — I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories"
     },
     {
-      "time": "1:00 AM",
-      "title": "CNBC — Europe's cyber weak spot is the everyday businesses nobody thought to protect",
-      "url": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html"
+      "time": "10:03 AM",
+      "title": "MarketWatch — Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+      "url": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 20",
-      "title": "CNBC — S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
-      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+      "time": "10:01 AM",
+      "title": "MarketWatch — One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+      "url": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 20",
-      "title": "CNBC — Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+      "time": "10:00 AM",
+      "title": "CNBC — I never wanted the American Dream and I felt like something was wrong with me—until I moved abroad",
+      "url": "https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html"
     },
     {
-      "time": "Nov 20",
-      "title": "WSJ Markets — WSJ Dollar Index Rises 0.42% This Week to 98.75",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main"
+      "time": "10:00 AM",
+      "title": "MarketWatch — ‘Never too late to start’: Practical investing advice from some of the top women in finance",
+      "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 20",
-      "title": "Globe and Mail — Stellantis agrees to continue talks over retaining ownership of Brampton plant",
-      "url": "https://www.theglobeandmail.com/business/article-stellantis-brampton-plant-continue-talks-ownership/"
+      "time": "9:42 AM",
+      "title": "MarketWatch — My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+      "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 20",
-      "title": "MarketWatch — These stocks were crushed the most this week as the tech wreck accelerated",
-      "url": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories"
+      "time": "9:30 AM",
+      "title": "CNBC — Retirees face a looming deadline for required withdrawals — missing it could trigger a tax penalty",
+      "url": "https://www.cnbc.com/2026/11/21/rmd-deadline-penalty-2026.html"
     },
     {
-      "time": "Nov 20",
-      "title": "WSJ Markets — U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main"
+      "time": "9:22 AM",
+      "title": "CNBC — During Wall Street's worst week in over a year, we put money to work. What we're buying",
+      "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html"
     },
     {
-      "time": "Nov 20",
-      "title": "WSJ Markets — Oil Futures Post Weekly Losses on Rising Middle East Supply",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main"
+      "time": "9:17 AM",
+      "title": "MarketWatch — How a brutal week for stocks almost wiped out their gains for the entire year",
+      "url": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 20",
-      "title": "CNBC — Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+      "time": "9:07 AM",
+      "title": "CNBC — Why Anthropic's blockbuster IPO couldn't escape the stock market correction",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html"
     },
     {
-      "time": "Nov 20",
-      "title": "WSJ Markets — U.S. Natural Gas Futures Rise With Support From LNG Exports",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-edge-up-in-early-trading-2b513864?mod=rss_markets_main"
+      "time": "9:05 AM",
+      "title": "CNBC — An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
+      "url": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html"
     }
   ]
 }
