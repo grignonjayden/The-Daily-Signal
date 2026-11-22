@@ -1,113 +1,113 @@
 {
-  "generated_at": "Nov 21, 2026, 4:45 PM ET (markets closed for the weekend; figures are from Friday's Nov. 20 close)",
+  "generated_at": "Nov 22, 2026, 7:40 AM ET (markets closed for the weekend; figures are from Friday's Nov. 20 close)",
   "market_pulse": [
     {
       "index": "Dow Jones",
-      "note": "Closed Friday at about 48,147, down 1.9%, and finished about 8% lower for the week; the index is now in correction, more than 10% below its record (AP; MarketScreener)."
+      "note": "Closed Friday at 48,147.33, down 949.73 points or 1.93%, and fell 8.02% for the week; the index is in correction, more than 10% below its record (Schwab; The Closing Print; AP)."
     },
     {
       "index": "S&P 500",
-      "note": "Closed at about 6,910, down 3.7%, a seventh straight loss and the longest losing streak since 2020; it ended in correction, more than 10% below its Oct. 6 record, and fell about 8.6% for the week (AP; MarketScreener)."
+      "note": "Closed at 6,910.39, down 265.44 points or 3.70%, a seventh straight loss; it fell 8.61% for the week and ended in correction, more than 10% below its record (Schwab; The Closing Print)."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed at about 22,618, down 5.3%, turning negative for 2026; it lost about 10% for the week, just shy of its worst week since March 2020 (AP; MarketScreener)."
+      "note": "Closed at 22,617.73, down 1,261.47 points or 5.28%, and is now down about 2.7% for 2026; it lost 10.02% for the week (Schwab; JournalArta; The Closing Print)."
     },
     {
       "index": "WTI Crude Oil",
-      "note": "January WTI rose 1.2% to settle at $83.41 a barrel and the expiring December contract rose 0.9% to $83.98, but oil posted a third straight weekly loss; Brent settled at $92.57, down 3.4% for the week (Rigzone/Bloomberg)."
+      "note": "January WTI rose 1.2% to settle at $83.41 a barrel, but oil fell about 5.6% for the week, a third straight weekly loss; Brent settled at $92.57 (Rigzone/Bloomberg; The Closing Print)."
     }
   ],
   "themes": [
     {
-      "title": "Chip stocks lead the rout",
-      "summary": "Nvidia fell about 14%, Micron about 14%, AMD about 13% and SanDisk about 16%, per MarketScreener; AP said the PHLX Semiconductor Index was down about 9% in the afternoon (MarketScreener; AP).",
+      "title": "AI hardware unwind",
+      "summary": "Nvidia fell 14.01% to $125.53 after reports of an SEC accounting probe; Arm fell 14.09% and Micron 13.89% to $594.51 (The Closing Print; JournalArta; Schwab).",
       "confidence": "confirmed"
     },
     {
-      "title": "S&P 500 and Dow in correction",
-      "summary": "Both indexes closed more than 10% below their records, the S&P 500's first correction since March 2025, and its weekly loss was the worst since April 2025 (AP; CBS News).",
+      "title": "Worst week since April 2025",
+      "summary": "The S&P 500 and Dow both closed in correction, and the week was the worst since the tariff turmoil of April 2025; the S&P 500's seven-day losing streak is the longest since February 2020 (Schwab; AP).",
       "confidence": "confirmed"
     },
     {
-      "title": "Anthropic slides again",
-      "summary": "Anthropic shares fell 9.3% to $88.14 on their second trading day, still above the $83 IPO price, adding to doubts about returns on AI spending (AP; CBS News).",
+      "title": "Volatility jumps",
+      "summary": "The VIX volatility index rose 26.2% to 35.89 on Friday and was up about 86% for the week; only 46% of S&P 500 stocks were above their 200-day moving average (The Closing Print; Schwab).",
       "confidence": "confirmed"
     },
     {
-      "title": "Bond yields ease",
-      "summary": "The 10-year Treasury yield fell to 4.91% from 5.04% late Thursday, even as markets still price a near-certain Fed rate increase in December (AP; MarketScreener).",
+      "title": "Bond yields fall, gold drops",
+      "summary": "The 10-year Treasury yield fell to about 4.92% from 5.15% a week earlier, while gold fell about 4% on Friday to near $3,515-$3,539 (The Closing Print; JournalArta).",
       "confidence": "confirmed"
     },
     {
-      "title": "Sentiment improves, Asia slumps",
-      "summary": "University of Michigan consumer sentiment rose to 51.5 in November from 48.0; earlier, Taiwan's Taiex, Korea's Kospi and Japan's Nikkei each fell more than 5% (StockTitan; AP).",
-      "confidence": "confirmed"
+      "title": "Rate hike priced in",
+      "summary": "CME FedWatch showed 92% odds of a December Fed rate increase and more than 80% odds of two or more increases by next June, after hawkish Fed minutes (Schwab).",
+      "confidence": "developing"
     }
   ],
   "sectors": [
     {
-      "name": "Technology / Semiconductors",
-      "note": "Weakest area; the technology sector fund (XLK) was down about 5.4% in the afternoon, the worst of the 11 S&P sectors, led by chipmakers (Startup Fortune; MarketScreener).",
-      "momentum": 10
+      "name": "Technology",
+      "note": "Weakest sector; the technology fund (XLK) fell 7.27% Friday and 12.49% for the week, led by chipmakers (The Closing Print).",
+      "momentum": 8
     },
     {
       "name": "Consumer Staples",
-      "note": "Money rotated into staples; General Mills rose about 4.4%, McCormick 3.4% and Tyson Foods 2.0% (CBS News; MarketScreener).",
-      "momentum": 72
+      "note": "The only sector fund to rise Friday, with XLP up 0.67%; Colgate-Palmolive and Kraft Heinz each rose 1.89% (The Closing Print; JournalArta).",
+      "momentum": 70
     },
     {
       "name": "Health Care",
-      "note": "HCA Healthcare rose about 3.3% and UnitedHealth gained after an analyst upgrade (MarketScreener).",
-      "momentum": 66
+      "note": "Nearly flat, with the sector fund down 0.12%; UnitedHealth rose 2.84% (The Closing Print; JournalArta).",
+      "momentum": 60
     },
     {
-      "name": "Payments / Telecom",
-      "note": "Global Payments was the top S&P 500 gainer, up about 9.9%, and AT&T rose about 4.1% (MarketScreener).",
-      "momentum": 62
+      "name": "Industrials / Consumer Discretionary",
+      "note": "Among the weaker groups Friday, with industrials down 3.09% and consumer discretionary down 2.95% (The Closing Print).",
+      "momentum": 25
     }
   ],
   "watch_list": [
     {
       "topic": "PCE inflation and GDP",
-      "why": "October PCE inflation and the second estimate of third-quarter GDP are due Wednesday, Nov. 25 at 8:30 AM ET (Admirals).",
+      "why": "October PCE inflation, the second estimate of third-quarter GDP, durable goods and jobless claims are due Wednesday, Nov. 25 at 8:30 AM ET, with the Fed's Beige Book at 2 PM (JournalArta; Schwab).",
       "confidence": "confirmed"
     },
     {
-      "topic": "Thanksgiving week schedule",
-      "why": "U.S. markets close Thursday, Nov. 26 for Thanksgiving and close early at 1 PM ET on Friday, Nov. 27 (Admirals).",
+      "topic": "Earnings this week",
+      "why": "HPE and Zoom report Monday; Dell, Workday, Autodesk, Best Buy, Medtronic and others Tuesday; Deere Wednesday morning (Schwab; JournalArta).",
       "confidence": "confirmed"
     },
     {
-      "topic": "December Fed decision",
-      "why": "Markets price a near-certain quarter-point rate increase at the Dec. 9 Fed meeting; Fed Governor Lisa Cook said Friday that waiting longer risks falling behind (Admirals; StockTitan; MarketScreener).",
+      "topic": "Thanksgiving schedule and the Fed",
+      "why": "U.S. markets close Thursday, Nov. 26 and close early at 1 PM ET on Friday, Nov. 27; the next Fed decision is Dec. 9 (The Closing Print; Admirals).",
       "confidence": "developing"
     }
   ],
   "sources": [
     {
+      "title": "The Closing Print — Post-Market & Weekly Summary, Nov 20, 2026",
+      "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/"
+    },
+    {
+      "title": "Charles Schwab — November Nightmare on Wall Street: AI Trade Cracks",
+      "url": "https://www.schwab.com/learn/story/market-volatility"
+    },
+    {
+      "title": "JournalArta — Stocks to Watch This Week: Nvidia, Workday, Deere and Thanksgiving PCE Data",
+      "url": "https://journalarta.com/en/2026/11/22/stocks-to-watch-this-week-nvidia-workday-deere-and-thanksgiving-pce-data/"
+    },
+    {
       "title": "AP via 2News — S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
       "url": "https://www.2news.com/news/national/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/article_ba6a6c42-13b7-5e70-a230-660a1138d62c.html"
-    },
-    {
-      "title": "MarketScreener (Reuters) — Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
-      "url": "https://www.marketscreener.com/news/wall-st-ends-sharply-lower-on-ai-selloff-s-p-500-dow-in-correction-ce785ed3dd80f527"
-    },
-    {
-      "title": "CBS News — Stocks enter correction territory, driven by a deepening tech rout",
-      "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
     },
     {
       "title": "Rigzone (Bloomberg) — Oil Posts Third Weekly Loss Amid Surplus",
       "url": "https://www.rigzone.com/news/oil_posts_third_weekly_loss_amid_surplus-20-nov-2026-185141-article"
     },
     {
-      "title": "Startup Fortune — S&P 500 falls into a correction as the AI selloff drags it 10% below its record",
-      "url": "https://startupfortune.com/sp-500-falls-into-a-correction-as-the-ai-selloff-drags-it-10-below-its-record/"
-    },
-    {
-      "title": "StockTitan — Stock Market Today Live, November 20, 2026",
-      "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
+      "title": "MarketScreener (Reuters) — Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
+      "url": "https://www.marketscreener.com/news/wall-st-ends-sharply-lower-on-ai-selloff-s-p-500-dow-in-correction-ce785ed3dd80f527"
     },
     {
       "title": "Admirals — Why Is the Stock Market Down Today? 20 November 2026",

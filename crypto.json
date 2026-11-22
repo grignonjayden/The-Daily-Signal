@@ -1,72 +1,72 @@
 {
-  "generated_at": "Nov 21, 2026, 4:45 PM ET",
+  "generated_at": "Nov 22, 2026, 7:40 AM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "Around $60,190 at 10:16 AM ET Saturday, up almost 9% from an overnight low of $55,252, its lowest since September 2024 (The Crypto Basic); Eurasia Business News had it near $60,280, up about 1.4%, while at 6:55 AM ET it was $58,091, down 6.0% over 24 hours (Ted Pillows)."
+      "note": "About $58,944 at 1 AM ET Sunday, up 5.68% over 24 hours (CoinCodex); later Sunday morning it traded near $60,424, down about 12.5% for the week, after a Saturday low near $55,130 (crypto.news)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "Around $1,691, up about 2.2% in a Saturday snapshot (Eurasia Business News); earlier it traded at $1,650, down 5.6% over 24 hours, after a low near $1,550 (Ted Pillows; CryptoPotato)."
+      "note": "About $1,654 at 1 AM ET, up 6.08% over 24 hours (CoinCodex); near $1,702 later Sunday morning, down nearly 13% for the week after a low of $1,542.97 (crypto.news)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "Fell below $2 trillion on Saturday for the first time in more than two years, per CoinMarketCap data, about $900 billion lower than a few weeks ago; CoinCodex put it near $2.00 trillion, down 5.4% over 24 hours, at 1 AM ET (CryptoPotato; CoinCodex)."
+      "note": "About $2.04 trillion, up 2.57% from $1.99 trillion, after briefly dropping below $2 trillion on Saturday for the first time in more than two years (CoinCodex; CryptoPotato)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 58.1% on CoinMarketCap's measure Saturday morning; Ted Pillows put it at 57.5%, down from 58.1%, and CoinCodex had 56.2% (CryptoPotato; Ted Pillows; CoinCodex)."
+      "note": "About 58.2%, down 0.39 points, per CoinCodex; crypto.news put it near 58.5% Sunday morning (CoinCodex; crypto.news)."
     }
   ],
   "themes": [
     {
-      "title": "Bounce back to $60,000",
-      "summary": "Bitcoin climbed back above $60,000 Saturday morning after dropping to about $55,300 overnight; it remains about 52% below its October 2025 record of $126,080 (Bitcoin.com News; Eurasia Business News).",
+      "title": "Weekend rebound stalls near $60,000",
+      "summary": "Bitcoin recovered from Saturday's drop to about $55,130 and was holding near $60,000 Sunday, still well below the roughly $68,000 level where the latest slide began (crypto.news; Bitcoin.com News).",
       "confidence": "developing"
     },
     {
-      "title": "Billions in liquidations",
-      "summary": "About $2.4 billion to $2.67 billion of leveraged positions were wiped out over 24 hours, mostly longs, including more than $1 billion in Bitcoin futures, per CoinGlass data (Bitcoin.com News; Eurasia Business News).",
+      "title": "Broad relief rally",
+      "summary": "About 91% of tracked coins gained over 24 hours, though trading volume fell about 34% to $88.45 billion, a sign of thin weekend activity (CoinCodex).",
       "confidence": "confirmed"
     },
     {
-      "title": "ETF outflows",
-      "summary": "U.S. spot Bitcoin ETFs had about $1.25 billion of net outflows over the five sessions from Nov. 16 to Nov. 20, including $124.5 million on Friday (Ted Pillows; Bitcoin.com News).",
+      "title": "Heavy liquidations",
+      "summary": "About $2.4 billion to $2.67 billion of leveraged positions, mostly longs, were wiped out during Friday and Saturday's drop, per CoinGlass data (Bitcoin.com News).",
       "confidence": "confirmed"
     },
     {
-      "title": "Tech selloff and Fed worries",
-      "summary": "The Nasdaq fell 5.3% Friday and about 10% for the week, and hot October inflation data raised fears of a December Fed rate increase (Bitcoin.com News; CoinGabbar).",
-      "confidence": "developing"
+      "title": "ETF outflows continue",
+      "summary": "U.S. spot Bitcoin ETFs had about $1.25 billion of net outflows from Nov. 16 to Nov. 20, bringing November outflows to more than $3 billion (Ted Pillows; crypto.news).",
+      "confidence": "confirmed"
     },
     {
-      "title": "Extreme fear",
-      "summary": "The Crypto Fear and Greed Index read 12, unchanged from Friday and in extreme fear, compared with 68 a month ago (Ted Pillows; CoinGabbar).",
+      "title": "Stock selloff weighs",
+      "summary": "Bitcoin fell about 7.9% last week as the Nasdaq lost 10% and markets priced a likely December Fed rate increase (The Closing Print).",
       "confidence": "confirmed"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Both rebounded Saturday, with Bitcoin up about 1.4% and Ether about 2.2% in a midday snapshot, after roughly 10% drops overnight (Eurasia Business News; CoinCodex)."
+      "note": "Both rose about 6% over 24 hours to early Sunday but remain down roughly 12% to 13% for the week (CoinCodex; crypto.news)."
     },
     {
       "name": "Large-cap altcoins",
-      "note": "Solana led the rebound, up about 3.7% to $70.86, and XRP rose about 2.2% to $0.93; Hyperliquid (HYPE) slipped 0.4% to $61.28 (Eurasia Business News)."
+      "note": "Mixed Sunday morning: XRP near $0.92 (-1.1%), Solana near $70.29 (-0.5%), BNB near $545.66 (-3.4%) and Hyperliquid near $60.73 (-3.0%) (crypto.news)."
+    },
+    {
+      "name": "Small caps and privacy coins",
+      "note": "Venice Token (VVV) led gains, Monero rose about 3% to $477 and Pi Network rose about 3% to $0.053 after an all-time low near $0.047 (CoinCodex; crypto.news)."
     },
     {
       "name": "Crypto stocks",
-      "note": "Strategy closed Friday at $77.80, down 9.7%, and Coinbase fell 6.3% to $101.97; for the week Strategy lost about 30% and Coinbase and Robinhood about 20% each (Ted Pillows; Bitcoin.com News)."
-    },
-    {
-      "name": "Stablecoins and DeFi",
-      "note": "Stablecoin market cap held near $280 billion, down 0.4%, while DeFi market cap fell 5.6% to about $53 billion, per CoinGecko data (CoinGabbar)."
+      "note": "Strategy closed Friday at $77.80, down 9.7%, and Coinbase fell 6.3% to $101.97; both trade again Monday (Ted Pillows)."
     }
   ],
   "watch_list": [
     {
-      "topic": "Bitcoin levels",
-      "why": "Bitcoin is trying to hold $60,000 after lows near $55,250; a Sunday weekly close below about $65,350 would mark a seventh straight weekly decline (The Crypto Basic; Ted Pillows).",
+      "topic": "Bitcoin weekly close",
+      "why": "Traders watch whether Bitcoin holds near $60,000 into Sunday's weekly close after breaking support near $57,700 and setting a weekend low near $55,130 (crypto.news).",
       "confidence": "developing"
     },
     {
@@ -76,74 +76,74 @@
     },
     {
       "topic": "PCE data and the Fed",
-      "why": "Spot ETFs do not trade on weekends; October PCE inflation data is due Nov. 25, ahead of the Dec. 9 Fed decision (Admirals; Bitcoin.com News).",
+      "why": "October PCE inflation is due Wednesday, Nov. 25, ahead of the Dec. 9 Fed decision, and U.S. markets are closed Thursday for Thanksgiving (JournalArta; Admirals).",
       "confidence": "developing"
     }
   ],
   "movers": [
     {
-      "name": "Solana (SOL)",
-      "pct": 3.68,
-      "note": "Up about 3.7% to near $70.86 in a Saturday snapshot, the strongest of the large tokens tracked (Eurasia Business News)."
+      "name": "Venice Token (VVV)",
+      "pct": 23.77,
+      "note": "Up about 23.8% over 24 hours to near $24.90, the top gainer in the top 200 as of 1 AM ET (CoinCodex)."
     },
     {
-      "name": "XRP (XRP)",
-      "pct": 2.24,
-      "note": "Up about 2.2% to near $0.93 (Eurasia Business News)."
+      "name": "GEODNET (GEOD)",
+      "pct": 21.86,
+      "note": "Up about 21.9% over 24 hours (CoinCodex)."
     },
     {
       "name": "Ethereum (ETH)",
-      "pct": 2.2,
-      "note": "Up about 2.2% to near $1,691 (Eurasia Business News)."
+      "pct": 6.08,
+      "note": "Up about 6.1% to near $1,654 (CoinCodex)."
     },
     {
       "name": "Bitcoin (BTC)",
-      "pct": 1.42,
-      "note": "Up about 1.4% to near $60,284 after an overnight low near $55,250 (Eurasia Business News; The Crypto Basic)."
+      "pct": 5.68,
+      "note": "Up about 5.7% to near $58,944 (CoinCodex)."
     },
     {
-      "name": "Hyperliquid (HYPE)",
-      "pct": -0.4,
-      "note": "Down about 0.4% to near $61.28, the only decline among the large tokens shown (Eurasia Business News)."
+      "name": "Terra Classic (LUNC)",
+      "pct": -2.53,
+      "note": "Down about 2.5% over 24 hours (CoinCodex)."
     },
     {
-      "name": "Zcash (ZEC)",
-      "pct": -19.09,
-      "note": "Down about 19.1% over 24 hours as of 1 AM ET, the biggest loser in the top 200 (CoinCodex)."
+      "name": "Convex Finance (CVX)",
+      "pct": -4.95,
+      "note": "Down about 5.0%, the biggest loser in the top 200 as of 1 AM ET (CoinCodex)."
     }
   ],
   "sources": [
     {
-      "title": "Eurasia Business News — Bitcoin Price Today, November 21, 2026: BTC Rebounds Above $60,000 as Solana Leads Crypto Gains",
-      "url": "https://eurasiabusinessnews.com/2026/11/21/bitcoin-price-today-november-21-2026-btc-rebounds-above-60000-as-solana-leads-crypto-gains/"
+      "title": "CoinCodex — Daily Market Update for Nov 22, 2026",
+      "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
+    },
+    {
+      "title": "crypto.news — Bitcoin price stalls near $60K as Pi Network rebounds, VVV jumps 20%: Market watch",
+      "url": "https://crypto.news/bitcoin-price-pi-network-vvv-weekend-recovery/"
     },
     {
       "title": "Bitcoin.com News — Bitcoin Price Rebounds to $60K After Crash Near $55K, Leaving Billions in Liquidations",
       "url": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-60k-crash-near-55k-billions-liquidations/"
     },
     {
-      "title": "CoinCodex — Daily Market Update for Nov 21, 2026",
-      "url": "https://coincodex.com/article/95769/daily-market-update-for-november-21-2026"
-    },
-    {
-      "title": "The Crypto Basic — TCB Daily Edition: What Happened in Crypto on November 21, 2026",
-      "url": "https://thecryptobasic.com/2026/11/21/tcb-daily-edition-what-happened-in-crypto-on-november-21-2026/"
+      "title": "CryptoPotato — Crypto Market Cap Dumps Below $2T as Bitcoin Rollercoaster Intensifies: Weekend Watch",
+      "url": "https://cryptopotato.com/crypto-market-cap-dumps-below-2t-as-bitcoin-rollercoaster-intensifies-weekend-watch/"
     },
     {
       "title": "Ted Pillows — Crypto & Finance market report, Saturday, November 21, 2026",
       "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-13a"
     },
     {
-      "title": "CryptoPotato — Crypto Market Cap Dumps Below $2T as Bitcoin Rollercoaster Intensifies: Weekend Watch",
-      "url": "https://cryptopotato.com/crypto-market-cap-dumps-below-2t-as-bitcoin-rollercoaster-intensifies-weekend-watch/"
-    },
-    {
-      "title": "CoinGabbar — Crypto News Nov 21: Bitcoin Down 4% Amid Wall Street $7 Trillion Loss",
-      "url": "https://www.coingabbar.com/en/crypto-news-nov-21-bitcoin-ethereum-price-drops-nvidia-selloff"
+      "title": "The Closing Print — Post-Market & Weekly Summary, Nov 20, 2026",
+      "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/"
     },
     {
       "title": "CoinStats — Bitcoin (BTC) News Today: Why BTC Is Down",
       "url": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
+    },
+    {
+      "title": "JournalArta — Stocks to Watch This Week: Nvidia, Workday, Deere and Thanksgiving PCE Data",
+      "url": "https://journalarta.com/en/2026/11/22/stocks-to-watch-this-week-nvidia-workday-deere-and-thanksgiving-pce-data/"
     },
     {
       "title": "Admirals — Why Is the Stock Market Down Today? 20 November 2026",
