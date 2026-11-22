@@ -1,29 +1,29 @@
 {
-  "generated_at": "Nov 21, 2026, 6:27 PM ET",
-  "date_key": "2026-11-21",
+  "generated_at": "Nov 22, 2026, 12:53 PM ET",
+  "date_key": "2026-11-22",
   "caption": "Federal investment news and decisions from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
     {
-      "title": "Trump orders federal contractors to check with White House before responding to Congress",
-      "url": "https://www.cp24.com/news/world/2026/11/21/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress/",
-      "image": "https://www.cp24.com/resizer/v2/6UKBCG4ALY4RZRSLVEU3IUQD6E.jpg?auth=803aa4b96d86b082c19172f24b622408a30236f969bbfeaa6a771426b48b353f&smart=true&width=1400&height=933",
+      "title": "Chinese investment in Canada’s auto sector to evolve over next year: federal government",
+      "url": "https://www.cp24.com/news/canada/2026/11/22/chinese-investment-in-canadas-auto-sector-to-evolve-over-next-year-federal-government/",
+      "image": "https://www.cp24.com/resizer/v2/G3WXHGROGRAD3BNXI4OUG2MQZ4.jpeg?auth=a4b50dd9bed89d466fe846b112ea3870a8281f355efc2a1e4955227d7e5c6169&smart=true&width=4032&height=3024",
       "source": "CP24",
       "badge": "CP24",
       "analysis": false,
-      "sector": "General",
-      "time": "Nov 21",
-      "date": "2026-11-21T23:47:59.000Z"
+      "sector": "Autos",
+      "time": "Nov 22",
+      "date": "2026-11-22T14:00:00.000Z"
     },
     {
-      "title": "Ottawa says it lost $2M from emergency drug stockpile after freezer malfunction",
-      "url": "https://www.cp24.com/news/canada/2026/11/21/ottawa-says-it-lost-2m-from-emergency-drug-stockpile-after-freezer-malfunction/",
-      "image": "https://www.cp24.com/resizer/v2/BCPSUBQLJOF3MNAQ253IVPVI3I.jpg?auth=83859eea0126b12ad6581b1f4d3fe7bdc50ef1c259aca2ed7f8360e09eaabc53&smart=true&width=1400&height=1007",
+      "title": "Can a drone really replace a million-dollar farm sprayer in Canada?",
+      "url": "https://www.cp24.com/news/canada/2026/11/22/can-a-drone-really-replace-a-million-dollar-farm-sprayer-in-canada/",
+      "image": "https://www.cp24.com/resizer/v2/P7TWBB7WM5GGDN2KGCCZZDHYSM.JPG?auth=b31fc02b64968f57ebe056731db4ea93ed0c8a19f75a6b756bd8604a9efc973f&smart=true&width=1600&height=1069",
       "source": "CP24",
       "badge": "CP24",
       "analysis": false,
-      "sector": "General",
-      "time": "Nov 21",
-      "date": "2026-11-21T16:38:15.000Z"
+      "sector": "Defence",
+      "time": "Nov 22",
+      "date": "2026-11-22T14:00:00.000Z"
     },
     {
       "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
@@ -179,23 +179,23 @@
   ],
   "feed_status": [
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
-    },
-    {
       "source": "CDEV",
       "fetched": 20,
       "kept": 1
     },
     {
-      "source": "Canada Media Fund",
-      "fetched": 24,
+      "source": "Finance Canada",
+      "fetched": 20,
       "kept": 2
     },
     {
-      "source": "Finance Canada",
-      "fetched": 20,
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
+    },
+    {
+      "source": "Canada Media Fund",
+      "fetched": 24,
       "kept": 2
     },
     {
