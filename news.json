@@ -1,22 +1,78 @@
 {
-  "generated_at": "Nov 22, 2026, 1:40 PM ET",
+  "generated_at": "Nov 22, 2026, 6:52 PM ET",
   "date_key": "2026-11-22",
   "articles": [
     {
-      "title": "These little-known investments could be among the best bargains in a crash",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
-      "snippet": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
-      "image": "https://images.mktw.net/im-78399260",
-      "time": "Nov 22, 1:23 PM"
+      "title": "Stock futures rebound to start shortened week after tech rout: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "snippet": "Last week, the major indexes tumbled as worries about the artificial intelligence trade continued to spook investors, despite Anthropic's record debut.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108344591-17858573062026-08-04t144617z_1985709503_rc2prma7046i_rtrmadp_0_usa-stocks.jpeg?v=1785857332&w=1920&h=1080",
+      "time": "Nov 22, 6:46 PM"
     },
     {
-      "title": "Arborist and teacher earning $130,000 buy their first home in a PEI village for under half a million",
+      "title": "Opinion | How to Kill a Bull Market",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/opinion/how-to-kill-a-bull-market-ai-policy-15fb5af6?mod=rss_markets_main",
+      "snippet": "Politicians have a say in how deep the AI correction becomes.",
+      "image": "https://opinion-images.wsj.net/im-68182124",
+      "time": "Nov 22, 5:01 PM"
+    },
+    {
+      "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+      "snippet": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+      "image": "https://images.mktw.net/im-74462346",
+      "time": "Nov 22, 4:51 PM"
+    },
+    {
+      "title": "Bessent seeks answers on Nvidia’s sale of chips to China",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-my-first-home-pei-village-arborist-teacher/",
-      "snippet": "Couple purchases four-bedroom, two-bathroom bungalow on a one-acre property as they start a family",
-      "image": "https://www.theglobeandmail.com/pf/resources/assets/meta/facebook-1200x630.png?d=996",
-      "time": "Nov 22, 1:00 PM"
+      "url": "https://www.theglobeandmail.com/world/article-bessent-nvidia-chips-china-huang/",
+      "snippet": "U.S. Treasury Secretary wants to know who was in charge of compliance at company formerly led by Jensen Huang",
+      "image": "https://www.theglobeandmail.com/resizer/v2/PPENTLFAS5HC7APOMLKIDRGRIQ.JPG?auth=5f44bb20b83b42d766233acb517ef0bda0ad1efc14b20c90fdc7499aa213108d&smart=true&width=5000&height=3333",
+      "time": "Nov 22, 4:36 PM"
+    },
+    {
+      "title": "Ron Johnson’s Social Security gaffe buried important news",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+      "snippet": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
+      "image": "https://images.mktw.net/im-25097163",
+      "time": "Nov 22, 4:28 PM"
+    },
+    {
+      "title": "Was the U.S. wrong to sanction a Canadian judge? Ottawa should stay out of it",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-us-sanction-canadian-judge-kimberly-prost-ottawa/",
+      "snippet": "Canadians should resist their instinct to weigh in – the ICC dispute with the U.S. is not ours",
+      "image": "https://www.theglobeandmail.com/resizer/v2/S2HEVPCDEZAPHGBIMRWFDDFQ44.JPG?auth=901113ae47b5304f2cc44de011a5c359933025b067019264358dd722ffb2997b&smart=true&width=5565&height=3710",
+      "time": "Nov 22, 4:00 PM"
+    },
+    {
+      "title": "Dubai’s trade with Canada could double over next five years under new deal, official says",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-uaes-trade-with-canada-could-double-over-next-five-years-under-new/",
+      "snippet": "Champagne is leading a group of investors on a tour of Persian Gulf states as part of Ottawa’s effort to strengthen relationship",
+      "image": "https://www.theglobeandmail.com/resizer/v2/5UWMM6OSPVCHDG3BA7JTJTMEGA.JPG?auth=acf733e8d90ced75f115264e364ad264a9e62afd4ed75935893416b70f111de3&smart=true&width=4000&height=2667",
+      "time": "Nov 22, 3:43 PM"
+    },
+    {
+      "title": "Social Security should be shut down, this Republican senator says",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+      "snippet": "The program’s trust funds are forecast to run out of money in the next six years.",
+      "image": "https://images.mktw.net/im-10870575",
+      "time": "Nov 22, 3:26 PM"
+    },
+    {
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "snippet": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108314199-1780134094393-Phantom_work2.png?v=1780135127&w=1920&h=1080",
+      "time": "Nov 22, 1:55 PM"
     },
     {
       "title": "Opinion | Give Thanks to Inverse Billionaires",
@@ -27,14 +83,6 @@
       "time": "Nov 22, 12:58 PM"
     },
     {
-      "title": "Delta flights delayed in Atlanta due to issue with automation system",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/article-delta-airline-flights-delayed-atlanta/",
-      "snippet": "Delays come as Americans begin travelling for Thanksgiving holiday",
-      "image": "https://www.theglobeandmail.com/resizer/v2/S6ETA3FSZZB6PNF2J4SPCD72GI.jpg?auth=508aebe9785d87715ccb1f3be8cef98d78083ac1a61b490603f71f6ca36040a1&smart=true&width=4997&height=3384",
-      "time": "Nov 22, 12:46 PM"
-    },
-    {
       "title": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
       "source": "CNBC",
       "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
@@ -43,59 +91,11 @@
       "time": "Nov 22, 12:33 PM"
     },
     {
-      "title": "Private equity has been buying up hospice centers — with striking consequences",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
-      "snippet": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
-      "image": "https://images.mktw.net/im-33357334",
-      "time": "Nov 22, 12:22 PM"
-    },
-    {
-      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-      "snippet": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&w=1920&h=1080",
-      "time": "Nov 22, 12:14 PM"
-    },
-    {
-      "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "snippet": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-      "image": "https://images.mktw.net/im-49247042",
-      "time": "Nov 22, 12:00 PM"
-    },
-    {
-      "title": "Italian jeweller Paolo Bulgari dies at 89",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/article-italian-jeweller-paolo-bulgari-obituary/",
-      "snippet": "Bulgari helped transform family business into global luxury brand synonymous with glamour and design",
-      "image": "https://www.theglobeandmail.com/resizer/v2/4JQG2QF5LFDQTGR25O5C5INMDA.jpg?auth=b25a00eec97720c9c1fb560af02ee4ef151a68c9c44a6d4f2ca3aee7142b2d33&smart=true&width=1845&height=1230",
-      "time": "Nov 22, 10:02 AM"
-    },
-    {
-      "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
-      "snippet": "A 3.6% Social Security cost-of-living adjustment for 2027 will increase benefits across the board. But Medicare and tax changes will also affect retirees.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108554224-1795015724490-gettyimages-2223442880-hhhe25austriacvancarovcigetty2019hhh086.jpeg?v=1795208254&w=1920&h=1080",
-      "time": "Nov 22, 9:30 AM"
-    },
-    {
       "title": "Has the AI Bubble Already Burst?",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
       "snippet": "The AI selloff ravaging the stock market in recent weeks is remarkably like the bursting of the dot-com bubble.",
       "image": "https://images.wsj.net/im-18367316",
-      "time": "Nov 22, 5:30 AM"
-    },
-    {
-      "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
-      "snippet": "007 has worn an Omega watch for three decades, but the brand was missing from the big reveal.",
-      "image": "https://images.wsj.net/im-34867808",
       "time": "Nov 22, 5:30 AM"
     }
   ],
@@ -173,6 +173,41 @@
   ],
   "ticker": [
     {
+      "time": "2:24 PM",
+      "title": "MarketWatch — Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "url": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories"
+    },
+    {
+      "time": "1:23 PM",
+      "title": "MarketWatch — These little-known investments could be among the best bargains in a crash",
+      "url": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories"
+    },
+    {
+      "time": "1:00 PM",
+      "title": "Globe and Mail — Arborist and teacher earning $130,000 buy their first home in a PEI village for under half a million",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-my-first-home-pei-village-arborist-teacher/"
+    },
+    {
+      "time": "12:46 PM",
+      "title": "Globe and Mail — Delta flights delayed in Atlanta due to issue with automation system",
+      "url": "https://www.theglobeandmail.com/world/article-delta-airline-flights-delayed-atlanta/"
+    },
+    {
+      "time": "12:22 PM",
+      "title": "MarketWatch — Private equity has been buying up hospice centers — with striking consequences",
+      "url": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories"
+    },
+    {
+      "time": "12:14 PM",
+      "title": "CNBC — Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
+    },
+    {
+      "time": "12:00 PM",
+      "title": "MarketWatch — ‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories"
+    },
+    {
       "time": "11:32 AM",
       "title": "MarketWatch — I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
       "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories"
@@ -188,49 +223,14 @@
       "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories"
     },
     {
-      "time": "11:10 AM",
-      "title": "MarketWatch — My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-      "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories"
-    },
-    {
-      "time": "11:04 AM",
-      "title": "MarketWatch — America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
-      "url": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories"
-    },
-    {
-      "time": "10:01 AM",
-      "title": "MarketWatch — Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
-      "url": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories"
+      "time": "10:02 AM",
+      "title": "Globe and Mail — Italian jeweller Paolo Bulgari dies at 89",
+      "url": "https://www.theglobeandmail.com/world/article-italian-jeweller-paolo-bulgari-obituary/"
     },
     {
       "time": "9:49 AM",
       "title": "Globe and Mail — Anthropic’s unusual IPO process chafes some bankers",
       "url": "https://www.theglobeandmail.com/world/article-anthropic-ipo-process-issues/"
-    },
-    {
-      "time": "9:28 AM",
-      "title": "CNBC — UN climate talks collapse as EU and others reject deal",
-      "url": "https://www.cnbc.com/2026/11/22/cop31-climate-talks-break-down-as-eu-and-others-reject-deal.html"
-    },
-    {
-      "time": "9:00 AM",
-      "title": "CNBC — 26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
-      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html"
-    },
-    {
-      "time": "9:00 AM",
-      "title": "MarketWatch — Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
-      "url": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories"
-    },
-    {
-      "time": "9:00 AM",
-      "title": "Globe and Mail — AI was supposed to make work easier. So why is it getting harder?",
-      "url": "https://www.theglobeandmail.com/business/careers/article-ai-was-supposed-to-make-work-easier-so-why-is-it-getting-harder/"
-    },
-    {
-      "time": "8:25 AM",
-      "title": "CNBC — Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-      "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html"
     }
   ]
 }
