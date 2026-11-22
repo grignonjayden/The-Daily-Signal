@@ -1,62 +1,62 @@
 {
-  "generated_at": "Nov 22, 2026, 12:40 PM ET",
+  "generated_at": "Nov 22, 2026, 4:50 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $59,634 midday Sunday, up 3.07% over 24 hours and 9.59% over seven days on CoinMarketCap's figures; Bitcoin.com put it at $60,634 at 9 AM ET, with a 24-hour range of $55,081 to $61,447 (CoinMarketCap; Bitcoin.com News)."
+      "note": "About $60,831 Sunday afternoon (17:13 UTC), up 1.08% over 24 hours but down 5.45% over seven days and 25.01% over 30 days; earlier Sunday it traded as high as about $61,094 (Coin-Turk; ad-hoc-news)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,683, up 2.94% over 24 hours, with a market value of about $205.7 billion (CoinMarketCap); Cryptonews put it near $1,680 (Cryptonews)."
+      "note": "About $1,724, up 2.37% on the day, with a market value of about $210.7 billion; it is down about 5.8% from a week ago (MetaMask)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.05 trillion, up 3.12% over the past day, while 24-hour trading volume fell 52.5% to $71.49 billion in thin weekend trade (CoinMarketCap)."
+      "note": "About $2.01 trillion to $2.09 trillion depending on the data provider, down from more than $4 trillion at last year's peak (KuCoin; TV-Hub)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 58.6%, up 0.17 points on the day; Ethereum's share is about 10.0% (CoinMarketCap)."
+      "note": "Between about 57.9% and 60% depending on the provider; Ethereum's share is about 9.8% (TV-Hub; KuCoin)."
     }
   ],
   "themes": [
     {
-      "title": "Rebound holds near $60,000",
-      "summary": "Bitcoin recovered from Saturday's drop to about $55,081 and traded between roughly $59,600 and $60,600 Sunday, still about 53% below its October 2025 record above $126,000 (Bitcoin.com News; CoinMarketCap; Sunday Guardian).",
+      "title": "Rebound above $60,000",
+      "summary": "Bitcoin climbed back above $60,000 on Sunday after falling to about $55,081 on Saturday, its November low; it remains roughly half its October 2025 record of about $126,210 (Coin-Turk; ad-hoc-news).",
+      "confidence": "developing"
+    },
+    {
+      "title": "Seventh straight weekly loss",
+      "summary": "Bitcoin is on track for a seventh consecutive weekly decline, the longest losing streak since 2022 (ad-hoc-news).",
       "confidence": "developing"
     },
     {
       "title": "Extreme fear persists",
-      "summary": "CoinMarketCap's Fear & Greed index read 7 and Bitcoin.com cited a reading of 11, both 'extreme fear', compared with about 50 a month ago (CoinMarketCap; Bitcoin.com News).",
+      "summary": "The Crypto Fear & Greed Index read 11, 'extreme fear', on Sunday (Coin-Turk; KuCoin).",
       "confidence": "confirmed"
     },
     {
-      "title": "Liquidations ease",
-      "summary": "About $500 million of leveraged positions were liquidated over 24 hours, more shorts ($289 million) than longs ($211 million), after $2.4 billion to $2.67 billion was wiped out during Friday and Saturday's drop (CoinMarketCap; Bitcoin.com News).",
-      "confidence": "confirmed"
-    },
-    {
-      "title": "ETF outflows continue",
-      "summary": "U.S. spot Bitcoin ETFs have seen about $2.35 billion of net outflows in recent sessions, and CoinMarketCap shows a further $152.7 million outflow in its latest daily figure (Sunday Guardian; CoinMarketCap).",
+      "title": "Liquidations and ETF outflows",
+      "summary": "About $2.4 billion of crypto futures were liquidated on Nov. 20, more than $1 billion of it in Bitcoin, and U.S. spot Bitcoin ETFs saw about $1.1 billion of net outflows in the prior week, per CoinDesk figures cited by Coin-Turk (Coin-Turk).",
       "confidence": "confirmed"
     },
     {
       "title": "Prediction markets lean lower",
-      "summary": "Polymarket traders put about 75% odds on Bitcoin touching $62,500 before month-end and 27% on $55,000; options put volume outpaced calls with a put/call volume ratio of 1.37 (Bitcoin.com News).",
+      "summary": "Polymarket traders put 56% odds on Bitcoin trading at $55,000 before year-end and 30% on $50,000; Kalshi's median year-end forecast is about $61,062. Puts made up about 58% of options volume (KuCoin/Odaily).",
       "confidence": "developing"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Both up about 3% over 24 hours but still well below levels seen before last week's selloff (CoinMarketCap; Bitcoin.com News)."
+      "note": "Bitcoin up about 1% and Ether up about 2.4% over 24 hours Sunday, but both are lower on the week (Coin-Turk; MetaMask)."
     },
     {
       "name": "Large-cap altcoins",
-      "note": "XRP was near $0.93 and Solana near $70 Sunday, little changed from Saturday's levels (Cryptonews; crypto.news)."
+      "note": "XRP was near $0.93 and Solana near $70 over the weekend, little changed (Cryptonews; crypto.news)."
     },
     {
       "name": "Small caps and trending tokens",
-      "note": "Small tokens led gains: Venice Token (VVV) and GEODNET (GEOD) topped CoinCodex's early-morning list, and GEOD stayed among CoinMarketCap's trending coins, up about 15% (CoinCodex; CoinMarketCap)."
+      "note": "Small tokens led gains: Venice Token (VVV) topped CoinCodex's daily list, and GEODNET (GEOD) was among CoinMarketCap's trending coins earlier Sunday (CoinCodex; CoinMarketCap)."
     },
     {
       "name": "Crypto stocks",
@@ -66,7 +66,7 @@
   "watch_list": [
     {
       "topic": "$55,000 and $62,500 levels",
-      "why": "Saturday's low near $55,081 and the $62,500 level priced in prediction markets frame the range traders are watching into the weekly close (Bitcoin.com News).",
+      "why": "Saturday's low near $55,081 and the year-end price levels priced in prediction markets frame the range traders are watching into the weekly close (Coin-Turk; KuCoin/Odaily).",
       "confidence": "developing"
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "topic": "PCE data and the Fed",
-      "why": "October PCE inflation is due Wednesday, Nov. 25, ahead of the Dec. 9 Fed decision, and U.S. markets are closed Thursday for Thanksgiving (JournalArta; Admirals).",
+      "why": "October PCE inflation is due Wednesday, Nov. 25, ahead of the Dec. 9 Fed decision; analysts tie crypto's recovery to steadier tech stocks and rates (JournalArta; Coin-Turk).",
       "confidence": "developing"
     }
   ],
@@ -89,17 +89,17 @@
     {
       "name": "GEODNET (GEOD)",
       "pct": 15.27,
-      "note": "Up about 15.3% over 24 hours and trending on CoinMarketCap midday (CoinMarketCap)."
-    },
-    {
-      "name": "Bitcoin (BTC)",
-      "pct": 3.07,
-      "note": "Up about 3.1% to near $59,634 (CoinMarketCap)."
+      "note": "Up about 15.3% over 24 hours and trending on CoinMarketCap as of midday Sunday (CoinMarketCap)."
     },
     {
       "name": "Ethereum (ETH)",
-      "pct": 2.94,
-      "note": "Up about 2.9% to near $1,683 (CoinMarketCap)."
+      "pct": 2.37,
+      "note": "Up about 2.4% to near $1,724 (MetaMask)."
+    },
+    {
+      "name": "Bitcoin (BTC)",
+      "pct": 1.08,
+      "note": "Up about 1.1% to near $60,831 as of 17:13 UTC (Coin-Turk)."
     },
     {
       "name": "Terra Classic (LUNC)",
@@ -114,44 +114,56 @@
   ],
   "sources": [
     {
-      "title": "CoinMarketCap — Cryptocurrency Prices, Charts and Market Capitalizations",
-      "url": "https://coinmarketcap.com/"
+      "title": "Coin-Turk — Bitcoin rebounds above $60,000 after November plunge, four-year cycle watched",
+      "url": "https://en.coin-turk.com/bitcoin-rebounds-above-60000-after-november-plunge-four-year-cycle-watched/"
     },
     {
-      "title": "Bitcoin.com News — Bitcoin Price Predictions Favor $50K as Market Fear Deepens",
-      "url": "https://news.bitcoin.com/price-predictions/bitcoin-price-predictions-favor-50k-as-market-fear-deepens/"
+      "title": "ad-hoc-news — Bitcoin price extends seven-week losing streak as market rebounds above USD 60,000",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/bitcoin-price-extends-seven-week-losing-streak-as-market-rebounds-above-usd-60-000/70544286"
     },
     {
-      "title": "Sunday Guardian — Bitcoin Price Today: BTC Trades at $58,875",
-      "url": "https://sundayguardianlive.com/business/bitcoin-price-today-btc-trades-at-58875-as-indian-investors-track-the-latest-crypto-market-move-check-market-drivers-snapshot-more-325947/"
+      "title": "MetaMask — Ethereum price",
+      "url": "https://metamask.com/price/ethereum"
     },
     {
-      "title": "Cryptonews — Bitcoin Price Prediction: Arthur Hayes Warns of a $50,000 Test",
-      "url": "https://cryptonews.net/news/bitcoin/33790998/"
+      "title": "KuCoin — Prediction markets show 56% chance Bitcoin hits $55,000 by year-end",
+      "url": "https://www.kucoin.com/news/flash/prediction-markets-show-56-chance-bitcoin-hits-55-000-by-year-end"
+    },
+    {
+      "title": "KuCoin — Total crypto market cap: $2.01 trillion",
+      "url": "https://www.kucoin.com/news/insight/BTC/6b0322249278e40007d91029"
+    },
+    {
+      "title": "TV-Hub — Bitcoin Dominance November 2026",
+      "url": "https://www.tv-hub.org/guide/bitcoin-dominance"
     },
     {
       "title": "CoinCodex — Daily Market Update for Nov 22, 2026",
       "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
     },
     {
-      "title": "crypto.news — Bitcoin price stalls near $60K as Pi Network rebounds, VVV jumps 20%: Market watch",
+      "title": "CoinMarketCap — Cryptocurrency Prices, Charts and Market Capitalizations",
+      "url": "https://coinmarketcap.com/"
+    },
+    {
+      "title": "crypto.news — Bitcoin price stalls near $60K as Pi Network rebounds, VVV jumps 20%",
       "url": "https://crypto.news/bitcoin-price-pi-network-vvv-weekend-recovery/"
+    },
+    {
+      "title": "Cryptonews — Bitcoin Price Prediction: Arthur Hayes Warns of a $50,000 Test",
+      "url": "https://cryptonews.net/news/bitcoin/33790998/"
     },
     {
       "title": "Ted Pillows — Crypto & Finance market report, Saturday, November 21, 2026",
       "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-13a"
     },
     {
-      "title": "CoinStats — Bitcoin (BTC) News Today: Why BTC Is Down",
+      "title": "CoinStats — Bitcoin (BTC) News Today",
       "url": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
     },
     {
       "title": "JournalArta — Stocks to Watch This Week: Nvidia, Workday, Deere and Thanksgiving PCE Data",
       "url": "https://journalarta.com/en/2026/11/22/stocks-to-watch-this-week-nvidia-workday-deere-and-thanksgiving-pce-data/"
-    },
-    {
-      "title": "Admirals — Why Is the Stock Market Down Today? 20 November 2026",
-      "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-20-november-2026"
     }
   ]
 }
