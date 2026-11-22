@@ -1,7 +1,31 @@
 {
-  "generated_at": "Nov 21, 2026, 6:02 PM ET",
+  "generated_at": "Nov 21, 2026, 10:14 PM ET",
   "date_key": "2026-11-21",
   "articles": [
+    {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "snippet": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "image": "https://images.mktw.net/im-04093243",
+      "time": "Nov 21, 8:15 PM"
+    },
+    {
+      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "snippet": "“Hotel rooms can cost as much as $400 per night.”",
+      "image": "https://images.mktw.net/im-05393650",
+      "time": "Nov 21, 7:03 PM"
+    },
+    {
+      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "snippet": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+      "image": "https://images.mktw.net/im-29241577",
+      "time": "Nov 21, 6:05 PM"
+    },
     {
       "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
       "source": "CNBC",
@@ -19,36 +43,12 @@
       "time": "Nov 21, 3:45 PM"
     },
     {
-      "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "snippet": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
-      "image": "https://images.mktw.net/im-72281427",
-      "time": "Nov 21, 3:15 PM"
-    },
-    {
       "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html",
       "snippet": "The Sparta II was damaged in international waters west of Russia's Gogland island, Finland's Defence Forces said.",
       "image": "https://image.cnbcfm.com/api/v1/image/108557003-17952876312026-11-21t172715z_121813001_rc2hsoaqeq4y_rtrmadp_0_ukraine-crisis-russia-vessel.jpeg?v=1795287731&w=1920&h=1080",
       "time": "Nov 21, 2:56 PM"
-    },
-    {
-      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "snippet": "“Our financial and healthcare situation has become increasingly concerning.”",
-      "image": "https://images.mktw.net/im-96657818",
-      "time": "Nov 21, 2:45 PM"
-    },
-    {
-      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-      "snippet": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
-      "image": "https://images.mktw.net/im-39779425",
-      "time": "Nov 21, 2:45 PM"
     },
     {
       "title": "Bitcoin rises after falling to lowest level in two years",
@@ -173,9 +173,19 @@
   ],
   "ticker": [
     {
-      "time": "2:23 PM",
-      "title": "MarketWatch — My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories"
+      "time": "3:15 PM",
+      "title": "MarketWatch — ‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories"
+    },
+    {
+      "time": "2:45 PM",
+      "title": "MarketWatch — ‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories"
+    },
+    {
+      "time": "2:45 PM",
+      "title": "MarketWatch — ‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories"
     },
     {
       "time": "1:20 PM",
@@ -201,16 +211,6 @@
       "time": "11:40 AM",
       "title": "CNBC — Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
       "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
-    },
-    {
-      "time": "10:35 AM",
-      "title": "MarketWatch — Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-      "url": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories"
-    },
-    {
-      "time": "10:15 AM",
-      "title": "MarketWatch — ‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
-      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories"
     },
     {
       "time": "10:04 AM",
