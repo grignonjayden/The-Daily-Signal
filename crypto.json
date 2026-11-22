@@ -1,62 +1,62 @@
 {
-  "generated_at": "Nov 22, 2026, 7:40 AM ET",
+  "generated_at": "Nov 22, 2026, 12:40 PM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $58,944 at 1 AM ET Sunday, up 5.68% over 24 hours (CoinCodex); later Sunday morning it traded near $60,424, down about 12.5% for the week, after a Saturday low near $55,130 (crypto.news)."
+      "note": "About $59,634 midday Sunday, up 3.07% over 24 hours and 9.59% over seven days on CoinMarketCap's figures; Bitcoin.com put it at $60,634 at 9 AM ET, with a 24-hour range of $55,081 to $61,447 (CoinMarketCap; Bitcoin.com News)."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,654 at 1 AM ET, up 6.08% over 24 hours (CoinCodex); near $1,702 later Sunday morning, down nearly 13% for the week after a low of $1,542.97 (crypto.news)."
+      "note": "About $1,683, up 2.94% over 24 hours, with a market value of about $205.7 billion (CoinMarketCap); Cryptonews put it near $1,680 (Cryptonews)."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.04 trillion, up 2.57% from $1.99 trillion, after briefly dropping below $2 trillion on Saturday for the first time in more than two years (CoinCodex; CryptoPotato)."
+      "note": "About $2.05 trillion, up 3.12% over the past day, while 24-hour trading volume fell 52.5% to $71.49 billion in thin weekend trade (CoinMarketCap)."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "About 58.2%, down 0.39 points, per CoinCodex; crypto.news put it near 58.5% Sunday morning (CoinCodex; crypto.news)."
+      "note": "About 58.6%, up 0.17 points on the day; Ethereum's share is about 10.0% (CoinMarketCap)."
     }
   ],
   "themes": [
     {
-      "title": "Weekend rebound stalls near $60,000",
-      "summary": "Bitcoin recovered from Saturday's drop to about $55,130 and was holding near $60,000 Sunday, still well below the roughly $68,000 level where the latest slide began (crypto.news; Bitcoin.com News).",
+      "title": "Rebound holds near $60,000",
+      "summary": "Bitcoin recovered from Saturday's drop to about $55,081 and traded between roughly $59,600 and $60,600 Sunday, still about 53% below its October 2025 record above $126,000 (Bitcoin.com News; CoinMarketCap; Sunday Guardian).",
       "confidence": "developing"
     },
     {
-      "title": "Broad relief rally",
-      "summary": "About 91% of tracked coins gained over 24 hours, though trading volume fell about 34% to $88.45 billion, a sign of thin weekend activity (CoinCodex).",
+      "title": "Extreme fear persists",
+      "summary": "CoinMarketCap's Fear & Greed index read 7 and Bitcoin.com cited a reading of 11, both 'extreme fear', compared with about 50 a month ago (CoinMarketCap; Bitcoin.com News).",
       "confidence": "confirmed"
     },
     {
-      "title": "Heavy liquidations",
-      "summary": "About $2.4 billion to $2.67 billion of leveraged positions, mostly longs, were wiped out during Friday and Saturday's drop, per CoinGlass data (Bitcoin.com News).",
+      "title": "Liquidations ease",
+      "summary": "About $500 million of leveraged positions were liquidated over 24 hours, more shorts ($289 million) than longs ($211 million), after $2.4 billion to $2.67 billion was wiped out during Friday and Saturday's drop (CoinMarketCap; Bitcoin.com News).",
       "confidence": "confirmed"
     },
     {
       "title": "ETF outflows continue",
-      "summary": "U.S. spot Bitcoin ETFs had about $1.25 billion of net outflows from Nov. 16 to Nov. 20, bringing November outflows to more than $3 billion (Ted Pillows; crypto.news).",
+      "summary": "U.S. spot Bitcoin ETFs have seen about $2.35 billion of net outflows in recent sessions, and CoinMarketCap shows a further $152.7 million outflow in its latest daily figure (Sunday Guardian; CoinMarketCap).",
       "confidence": "confirmed"
     },
     {
-      "title": "Stock selloff weighs",
-      "summary": "Bitcoin fell about 7.9% last week as the Nasdaq lost 10% and markets priced a likely December Fed rate increase (The Closing Print).",
-      "confidence": "confirmed"
+      "title": "Prediction markets lean lower",
+      "summary": "Polymarket traders put about 75% odds on Bitcoin touching $62,500 before month-end and 27% on $55,000; options put volume outpaced calls with a put/call volume ratio of 1.37 (Bitcoin.com News).",
+      "confidence": "developing"
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Both rose about 6% over 24 hours to early Sunday but remain down roughly 12% to 13% for the week (CoinCodex; crypto.news)."
+      "note": "Both up about 3% over 24 hours but still well below levels seen before last week's selloff (CoinMarketCap; Bitcoin.com News)."
     },
     {
       "name": "Large-cap altcoins",
-      "note": "Mixed Sunday morning: XRP near $0.92 (-1.1%), Solana near $70.29 (-0.5%), BNB near $545.66 (-3.4%) and Hyperliquid near $60.73 (-3.0%) (crypto.news)."
+      "note": "XRP was near $0.93 and Solana near $70 Sunday, little changed from Saturday's levels (Cryptonews; crypto.news)."
     },
     {
-      "name": "Small caps and privacy coins",
-      "note": "Venice Token (VVV) led gains, Monero rose about 3% to $477 and Pi Network rose about 3% to $0.053 after an all-time low near $0.047 (CoinCodex; crypto.news)."
+      "name": "Small caps and trending tokens",
+      "note": "Small tokens led gains: Venice Token (VVV) and GEODNET (GEOD) topped CoinCodex's early-morning list, and GEOD stayed among CoinMarketCap's trending coins, up about 15% (CoinCodex; CoinMarketCap)."
     },
     {
       "name": "Crypto stocks",
@@ -65,8 +65,8 @@
   ],
   "watch_list": [
     {
-      "topic": "Bitcoin weekly close",
-      "why": "Traders watch whether Bitcoin holds near $60,000 into Sunday's weekly close after breaking support near $57,700 and setting a weekend low near $55,130 (crypto.news).",
+      "topic": "$55,000 and $62,500 levels",
+      "why": "Saturday's low near $55,081 and the $62,500 level priced in prediction markets frame the range traders are watching into the weekly close (Bitcoin.com News).",
       "confidence": "developing"
     },
     {
@@ -88,23 +88,23 @@
     },
     {
       "name": "GEODNET (GEOD)",
-      "pct": 21.86,
-      "note": "Up about 21.9% over 24 hours (CoinCodex)."
-    },
-    {
-      "name": "Ethereum (ETH)",
-      "pct": 6.08,
-      "note": "Up about 6.1% to near $1,654 (CoinCodex)."
+      "pct": 15.27,
+      "note": "Up about 15.3% over 24 hours and trending on CoinMarketCap midday (CoinMarketCap)."
     },
     {
       "name": "Bitcoin (BTC)",
-      "pct": 5.68,
-      "note": "Up about 5.7% to near $58,944 (CoinCodex)."
+      "pct": 3.07,
+      "note": "Up about 3.1% to near $59,634 (CoinMarketCap)."
+    },
+    {
+      "name": "Ethereum (ETH)",
+      "pct": 2.94,
+      "note": "Up about 2.9% to near $1,683 (CoinMarketCap)."
     },
     {
       "name": "Terra Classic (LUNC)",
       "pct": -2.53,
-      "note": "Down about 2.5% over 24 hours (CoinCodex)."
+      "note": "Down about 2.5% over 24 hours as of 1 AM ET (CoinCodex)."
     },
     {
       "name": "Convex Finance (CVX)",
@@ -114,6 +114,22 @@
   ],
   "sources": [
     {
+      "title": "CoinMarketCap — Cryptocurrency Prices, Charts and Market Capitalizations",
+      "url": "https://coinmarketcap.com/"
+    },
+    {
+      "title": "Bitcoin.com News — Bitcoin Price Predictions Favor $50K as Market Fear Deepens",
+      "url": "https://news.bitcoin.com/price-predictions/bitcoin-price-predictions-favor-50k-as-market-fear-deepens/"
+    },
+    {
+      "title": "Sunday Guardian — Bitcoin Price Today: BTC Trades at $58,875",
+      "url": "https://sundayguardianlive.com/business/bitcoin-price-today-btc-trades-at-58875-as-indian-investors-track-the-latest-crypto-market-move-check-market-drivers-snapshot-more-325947/"
+    },
+    {
+      "title": "Cryptonews — Bitcoin Price Prediction: Arthur Hayes Warns of a $50,000 Test",
+      "url": "https://cryptonews.net/news/bitcoin/33790998/"
+    },
+    {
       "title": "CoinCodex — Daily Market Update for Nov 22, 2026",
       "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
     },
@@ -122,20 +138,8 @@
       "url": "https://crypto.news/bitcoin-price-pi-network-vvv-weekend-recovery/"
     },
     {
-      "title": "Bitcoin.com News — Bitcoin Price Rebounds to $60K After Crash Near $55K, Leaving Billions in Liquidations",
-      "url": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-60k-crash-near-55k-billions-liquidations/"
-    },
-    {
-      "title": "CryptoPotato — Crypto Market Cap Dumps Below $2T as Bitcoin Rollercoaster Intensifies: Weekend Watch",
-      "url": "https://cryptopotato.com/crypto-market-cap-dumps-below-2t-as-bitcoin-rollercoaster-intensifies-weekend-watch/"
-    },
-    {
       "title": "Ted Pillows — Crypto & Finance market report, Saturday, November 21, 2026",
       "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-13a"
-    },
-    {
-      "title": "The Closing Print — Post-Market & Weekly Summary, Nov 20, 2026",
-      "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/"
     },
     {
       "title": "CoinStats — Bitcoin (BTC) News Today: Why BTC Is Down",
