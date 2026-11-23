@@ -1,29 +1,18 @@
 {
-  "generated_at": "Nov 22, 2026, 6:39 PM ET",
-  "date_key": "2026-11-22",
+  "generated_at": "Nov 23, 2026, 5:05 PM ET",
+  "date_key": "2026-11-23",
   "caption": "Federal investment news and decisions from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
     {
-      "title": "Chinese investment in Canada’s auto sector to evolve over next year: federal government",
-      "url": "https://www.cp24.com/news/canada/2026/11/22/chinese-investment-in-canadas-auto-sector-to-evolve-over-next-year-federal-government/",
-      "image": "https://www.cp24.com/resizer/v2/G3WXHGROGRAD3BNXI4OUG2MQZ4.jpeg?auth=a4b50dd9bed89d466fe846b112ea3870a8281f355efc2a1e4955227d7e5c6169&smart=true&width=4032&height=3024",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Autos",
-      "time": "Nov 22",
-      "date": "2026-11-22T14:00:00.000Z"
-    },
-    {
-      "title": "Can a drone really replace a million-dollar farm sprayer in Canada?",
-      "url": "https://www.cp24.com/news/canada/2026/11/22/can-a-drone-really-replace-a-million-dollar-farm-sprayer-in-canada/",
-      "image": "https://www.cp24.com/resizer/v2/P7TWBB7WM5GGDN2KGCCZZDHYSM.JPG?auth=b31fc02b64968f57ebe056731db4ea93ed0c8a19f75a6b756bd8604a9efc973f&smart=true&width=1600&height=1069",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Defence",
-      "time": "Nov 22",
-      "date": "2026-11-22T14:00:00.000Z"
+      "title": "Why the Bank of Canada Should Stay Focused on Price Stability",
+      "url": "https://cdhowe.org/publication/why-the-bank-of-canada-should-stay-focused-on-price-stability/",
+      "image": "https://cdhowe.org/wp-content/uploads/2026/11/GI_figure_1123-150x150.png",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Housing",
+      "time": "Nov 23",
+      "date": "2026-11-23T11:00:15.000Z"
     },
     {
       "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
@@ -79,17 +68,6 @@
       "sector": "Trade",
       "time": "Nov 20",
       "date": "2026-11-20T11:00:03.000Z"
-    },
-    {
-      "title": "Canada’s Immigration Plan Explained: What Do the 2027 Targets Really Mean?",
-      "url": "https://cdhowe.org/publication/canadas-immigration-plan-explained-what-do-the-2027-targets-really-mean-2/",
-      "image": "",
-      "source": "C.D. Howe Institute",
-      "badge": "CDH",
-      "analysis": true,
-      "sector": "Infrastructure",
-      "time": "Nov 19",
-      "date": "2026-11-19T22:17:13.000Z"
     },
     {
       "title": "Minister Joly to announce investment to expand Canada’s automobile industry",
@@ -211,7 +189,7 @@
     {
       "source": "CP24",
       "fetched": 200,
-      "kept": 2
+      "kept": 0
     }
   ]
 }

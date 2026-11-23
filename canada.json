@@ -1,6 +1,6 @@
 {
-  "generated_at": "Nov 22, 2026, 6:39 PM ET",
-  "date_key": "2026-11-22",
+  "generated_at": "Nov 23, 2026, 5:05 PM ET",
+  "date_key": "2026-11-23",
   "sections": [
     {
       "key": "invest",
@@ -106,38 +106,38 @@
       "items": [
         {
           "name": "Gas (regular, national avg.)",
-          "value": "141.7¢/L",
+          "value": "141.0¢/L",
           "delta": {
-            "value": "1.7¢",
+            "value": "0.7¢",
             "label": "vs yesterday",
             "dir": "down"
           },
-          "note": "Week ago 148.6¢ · month ago 172.5¢ · year ago 133.6¢",
-          "as_of": "CAA · November 22 2026 at 4:00am",
+          "note": "Week ago 147.6¢ · month ago 171.0¢ · year ago 133.1¢",
+          "as_of": "CAA · November 23 2026 at 4:00am",
           "url": "https://www.caa.ca/gas-prices/"
         },
         {
           "name": "Canadian dollar",
-          "value": "$0.6981 US",
+          "value": "$0.6959 US",
           "delta": {
-            "value": "0.04¢ US",
+            "value": "0.21¢ US",
             "label": "vs day before",
             "dir": "down"
           },
-          "note": "What 1 Canadian dollar buys in U.S. dollars. US$1 = C$1.4325.",
-          "as_of": "Bank of Canada · Nov 20, 2026",
+          "note": "What 1 Canadian dollar buys in U.S. dollars. US$1 = C$1.4369.",
+          "as_of": "Bank of Canada · Nov 23, 2026",
           "url": "https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/"
         },
         {
           "name": "5-year Canada bond yield",
-          "value": "3.53%",
+          "value": "3.41%",
           "delta": {
-            "value": "1 bps",
+            "value": "12 bps",
             "label": "vs day before",
-            "dir": "up"
+            "dir": "down"
           },
           "note": "Fixed mortgage rates tend to follow this yield.",
-          "as_of": "Bank of Canada · Nov 19, 2026",
+          "as_of": "Bank of Canada · Nov 20, 2026",
           "url": "https://www.bankofcanada.ca/rates/interest-rates/bond-yields/benchmark-bond-yields/"
         }
       ]
@@ -157,7 +157,7 @@
             "dir": "event"
           },
           "note": "Raised 0.25 pts, in effect since Oct 29, 2026. Sets the base for prime, variable mortgages and savings rates.",
-          "as_of": "Bank of Canada · Nov 19, 2026",
+          "as_of": "Bank of Canada · Nov 20, 2026",
           "url": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
         },
         {
