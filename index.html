@@ -429,6 +429,7 @@
 
   /* ---------- Sources ---------- */
   .sources { display: flex; flex-direction: column; gap: 2px; }
+  .sources[hidden] { display: none; }
   .sources a {
     color: var(--ink-soft); font-size: 13px; font-weight: 600; text-decoration: none;
     padding: 10px 10px; border-radius: var(--r-sm); transition: all 0.14s var(--ease);
@@ -974,6 +975,20 @@ function addInfoButton(widget, title, text) {
   widget.querySelector('.widget-head').appendChild(btn);
 }
 
+// Collapsed by default: a Show/Hide button in the header opens the list.
+function makeCollapsible(widget, body) {
+  body.hidden = true;
+  const btn = el('button', { className: 'info-btn', text: 'Show' });
+  btn.type = 'button';
+  btn.setAttribute('aria-expanded', 'false');
+  btn.addEventListener('click', () => {
+    body.hidden = !body.hidden;
+    btn.textContent = body.hidden ? 'Show' : 'Hide';
+    btn.setAttribute('aria-expanded', String(!body.hidden));
+  });
+  widget.querySelector('.widget-head').appendChild(btn);
+}
+
 function widgetShell(spanClass, iconKey, iconBg, iconColor, title, count) {
   const widget = el('div', { className: 'widget ' + spanClass });
   const head = el('div', { className: 'widget-head' });
@@ -1181,7 +1196,6 @@ function renderBriefing(data, dateKey) {
     }
     if (Array.isArray(PRICES.stocks) && PRICES.stocks.length) mainPanel.appendChild(buildLivePrices('Big Names (live)', PRICES.stocks));
   }
-  mainPanel.appendChild(buildKeyTimes('markets'));
 
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
@@ -1282,13 +1296,12 @@ function renderBriefing(data, dateKey) {
       list.appendChild(a);
     });
     widget.appendChild(list);
+    makeCollapsible(widget, list);
     mainPanel.appendChild(widget);
   }
 
   // History
   moveToTop();
-  mainPanel.appendChild(buildHistoryWidget());
-  loadPastList('markets');
 }
 
 function buildHistoryWidget() {
@@ -1326,7 +1339,6 @@ function renderCrypto(data, dateKey) {
       mainPanel.appendChild(buildLiveMoves('Biggest 24h Moves (top 100, live)', 'trophy', rows));
     }
   }
-  mainPanel.appendChild(buildKeyTimes('crypto'));
 
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
@@ -1423,12 +1435,11 @@ function renderCrypto(data, dateKey) {
       list.appendChild(a);
     });
     widget.appendChild(list);
+    makeCollapsible(widget, list);
     mainPanel.appendChild(widget);
   }
 
   moveToTop();
-  mainPanel.appendChild(buildHistoryWidget());
-  loadPastList('crypto');
 }
 
 const SOURCE_BADGES = { 'Federal Reserve': 'FED', 'Bank of Canada': 'BoC', 'Finance Canada': 'FIN CA', 'Statistics Canada': 'StatCan', 'U.S. SEC': 'SEC', 'WSJ Markets': 'WSJ', 'CNBC': 'CNBC', 'MarketWatch': 'MW', 'Globe and Mail': 'G&M' };
@@ -1540,8 +1551,6 @@ function renderNews(data, dateKey) {
     mainPanel.appendChild(tickerWidget);
   }
 
-  mainPanel.appendChild(buildHistoryWidget());
-  loadPastList('news');
 }
 
 async function loadPastList(tab) {
