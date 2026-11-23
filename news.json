@@ -1,24 +1,24 @@
 {
-  "generated_at": "Nov 23, 2026, 10:21 AM ET",
+  "generated_at": "Nov 23, 2026, 10:26 AM ET",
   "date_key": "2026-11-23",
-  "updated_ts": 1795447288370,
+  "updated_ts": 1795447603374,
   "articles": [
-    {
-      "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
-      "snippet": "U.S. equities surged on Monday after Nvidia reinstated Jensen Huang as CEO.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108344591-17858573062026-08-04t144617z_1985709503_rc2prma7046i_rtrmadp_0_usa-stocks.jpeg?v=1785857332&w=1920&h=1080",
-      "time": "Nov 23, 10:19 AM",
-      "coverage": 7
-    },
     {
       "title": "Trump tells CNBC he spoke to Nvidia board directly about Jensen Huang",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
       "snippet": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
       "image": "https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795443300&w=1920&h=1080",
-      "time": "Nov 23, 10:18 AM",
+      "time": "Nov 23, 10:25 AM",
+      "coverage": 7
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "snippet": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1794954719&w=1920&h=1080",
+      "time": "Nov 23, 10:24 AM",
       "coverage": 7
     },
     {
@@ -216,6 +216,16 @@
   ],
   "ticker": [
     {
+      "time": "10:23 AM",
+      "title": "CNBC — Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+    },
+    {
+      "time": "10:22 AM",
+      "title": "CNBC — Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
+      "url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html"
+    },
+    {
       "time": "10:19 AM",
       "title": "CNBC — Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
       "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html"
@@ -231,9 +241,9 @@
       "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html"
     },
     {
-      "time": "10:16 AM",
-      "title": "CNBC — Nvidia skyrockets 33% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+      "time": "10:18 AM",
+      "title": "Globe and Mail — Bell probes cyberattack that exposed customer information last week",
+      "url": "https://www.theglobeandmail.com/business/article-bell-probes-cyberattack-that-exposed-customer-information/"
     },
     {
       "time": "9:56 AM",
@@ -264,16 +274,6 @@
       "time": "9:39 AM",
       "title": "MarketWatch — UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
       "url": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories"
-    },
-    {
-      "time": "9:38 AM",
-      "title": "CNBC — CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
-    },
-    {
-      "time": "9:35 AM",
-      "title": "CNBC — JPMorgan's top books and experiences for the wealthy this holiday season",
-      "url": "https://www.cnbc.com/2026/11/23/jpmorgans-top-books-experiences-for-the-wealthy-this-holiday-season.html"
     }
   ]
 }
