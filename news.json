@@ -1,106 +1,164 @@
 {
-  "generated_at": "Nov 23, 2026, 2:16 AM ET",
+  "generated_at": "Nov 23, 2026, 10:21 AM ET",
   "date_key": "2026-11-23",
+  "updated_ts": 1795447288370,
   "articles": [
     {
-      "title": "Gold Touches Buy Levels, With $4,200 as Next Key Resistance on Charts",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
-      "snippet": "Spot gold prices rose and Maybank said the precious metal was at buy levels during Asian trade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 23, 2:11 AM"
-    },
-    {
-      "title": "Julius Baer Profit Climbs as Inflows Boost Assets Under Management",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/earnings/julius-baer-profit-climbs-as-inflows-boost-assets-under-management-633d56a2?mod=rss_markets_main",
-      "snippet": "Assets under management in the first 10 months of the year were boosted by a solid stock market performance, a stronger dollar and client money inflows.",
-      "image": "https://images.wsj.net/im-41713961",
-      "time": "Nov 23, 1:59 AM"
-    },
-    {
-      "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
-      "snippet": "Market regulators in South Korea, China and Taiwan have introduced new measures to support markets.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108293706-1776642777937-gettyimages-2265662809-AFP_A33E863.jpeg?v=1776642789&w=1920&h=1080",
-      "time": "Nov 23, 1:50 AM"
-    },
-    {
-      "title": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates",
+      "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
-      "snippet": "Last week, the major indexes tumbled as worries about the artificial intelligence trade continued to spook investors, despite Anthropic's record debut.",
+      "snippet": "U.S. equities surged on Monday after Nvidia reinstated Jensen Huang as CEO.",
       "image": "https://image.cnbcfm.com/api/v1/image/108344591-17858573062026-08-04t144617z_1985709503_rc2prma7046i_rtrmadp_0_usa-stocks.jpeg?v=1785857332&w=1920&h=1080",
-      "time": "Nov 23, 1:47 AM"
+      "time": "Nov 23, 10:19 AM",
+      "coverage": 7
     },
     {
-      "title": "ABB to Buy Germany’s Ziehl-Abegg for $2.22 Billion",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/energy-oil/abb-to-buy-germanys-ziehl-abegg-for-2-22-billion-fad3bf35?mod=rss_markets_main",
-      "snippet": "ABB said the deal expands its offering for heating, ventilation and air conditioning as well as industrial-cooling applications.",
-      "image": "https://images.wsj.net/im-84221948",
-      "time": "Nov 23, 1:28 AM"
-    },
-    {
-      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "title": "Trump tells CNBC he spoke to Nvidia board directly about Jensen Huang",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
-      "snippet": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
-      "image": "https://image.cnbcfm.com/api/v1/image/108547468-1794318020652-gettyimages-2303986898-AFP_D6ZC9G6.jpeg?v=1794530723&w=1920&h=1080",
-      "time": "Nov 23, 12:08 AM"
+      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+      "snippet": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795443300&w=1920&h=1080",
+      "time": "Nov 23, 10:18 AM",
+      "coverage": 7
     },
     {
-      "title": "The number of 401(k) millionaires drops amid stock-market swings",
+      "title": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
-      "snippet": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
-      "image": "https://images.mktw.net/im-24997077",
-      "time": "Nov 23, 12:01 AM"
+      "url": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+      "snippet": "Nvidia’s stock rose on Monday by the most in a decade after the stunning decision to reinstate Jensen Huang as president and chief executive.",
+      "image": "https://images.mktw.net/im-56791397",
+      "time": "Nov 23, 10:15 AM",
+      "coverage": 7
     },
     {
-      "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+      "title": "AI-Linked Stocks Take Off After Nvidia Reinstates Jensen Huang",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/ai-linked-stocks-take-off-after-nvidia-reinstates-jensen-huang",
+      "snippet": "Shares of companies tied to artificial intelligence surged Monday after Nvidia Corp. reinstated Jensen Huang as president and chief executive officer, effective immediately.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 23, 10:04 AM",
+      "coverage": 7
+    },
+    {
+      "title": "Nasdaq Jumps, Nvidia Surges After Huang Returns as CEO",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
+      "snippet": "U.S. stocks roared back after last week’s brutal selloff, following the reinstatement of Nvidia CEO Jensen Huang.",
+      "image": "https://images.wsj.net/im-63238648",
+      "time": "Nov 23, 9:58 AM",
+      "coverage": 7
+    },
+    {
+      "title": "Anthropic Shares Fluctuate as AI Sector Rallies on Nvidia CEO Return",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-shares-churn-defying-ai-trade-rally-on-huang-s-return",
+      "snippet": "Anthropic PBC shares struggled for direction in early Monday trading, with the artificial intelligence lab lagging behind the rest of the sector’s rebound following the reinstatement of Nvidia Corp.’s Jensen Huang.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 23, 9:51 AM",
+      "coverage": 7
+    },
+    {
+      "title": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
-      "snippet": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
-      "image": "https://images.mktw.net/im-74462346",
-      "time": "Nov 22, 4:51 PM"
+      "url": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
+      "snippet": "What to watch in AI earnings this Thanksgiving week. Plus, why memory stocks look so cheap, how much less you’ll pay at the pump and a $100,000 pottery-studio dilemma.",
+      "image": "https://images.mktw.net/im-28829631",
+      "time": "Nov 23, 9:37 AM",
+      "coverage": 7
     },
     {
-      "title": "Bessent seeks answers on Nvidia’s sale of chips to China",
+      "title": "U.S. Treasury Yields Climb As Nvidia Reinstates Jensen Huang as CEO",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/articles/german-bund-yields-rise-french-yields-fall-ahead-of-pmi-data-c4d45e93?mod=rss_markets_main",
+      "snippet": "Treasury yields jumped after Nvidia’s board reinstated Jensen Huang as CEO.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 23, 9:29 AM",
+      "coverage": 7
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
+      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
+      "time": "Nov 23, 9:06 AM",
+      "coverage": 7
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-reinstates-jensen-huang-as-ceo-5045809",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAM10C_L.jpg",
+      "time": "Nov 23, 9:06 AM",
+      "coverage": 7
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO in sharp reversal from board; shares soar",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/article-bessent-nvidia-chips-china-huang/",
-      "snippet": "U.S. Treasury Secretary wants to know who was in charge of compliance at company formerly led by Jensen Huang",
-      "image": "https://www.theglobeandmail.com/resizer/v2/PPENTLFAS5HC7APOMLKIDRGRIQ.JPG?auth=5f44bb20b83b42d766233acb517ef0bda0ad1efc14b20c90fdc7499aa213108d&smart=true&width=5000&height=3333",
-      "time": "Nov 22, 4:36 PM"
+      "url": "https://www.theglobeandmail.com/business/article-nvidia-reinstates-jensen-huang-as-ceo/",
+      "snippet": "Embattled leader resigned earlier this month after reports of extramarital affairs, including with an alleged Chinese spy",
+      "image": "https://www.theglobeandmail.com/resizer/v2/VMKAGKUKYVA2DEC3IFTWQQWPXM.JPG?auth=3de3299f41df1278c24ba39b60d4330d53b61c7f88ec20acccc402a994986465&smart=true&width=5472&height=3648",
+      "time": "Nov 23, 9:05 AM",
+      "coverage": 7
     },
     {
-      "title": "Ron Johnson’s Social Security gaffe buried important news",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
-      "snippet": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
-      "image": "https://images.mktw.net/im-25097163",
-      "time": "Nov 22, 4:28 PM"
+      "title": "Nasdaq 100 futures extend gains, soar over 6% as Nvidia reinstates Huang as CEO",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+      "time": "Nov 23, 9:03 AM",
+      "coverage": 7
     },
     {
-      "title": "Was the U.S. wrong to sanction a Canadian judge? Ottawa should stay out of it",
+      "title": "Stocks rebound as Nvidia spikes after Jensen Huang's return",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026",
+      "snippet": "Major U.S. equity indexes are higher Monday after last week&apos;s steep AI selloff, with investors eyeing Nvidia&apos;s recovery and Wednesday&apos;s PCE inflation report.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-historic-stock-market-selloff-1.jpg",
+      "time": "Nov 23, 8:36 AM",
+      "coverage": 7
+    },
+    {
+      "title": "CrowdStrike to buy Zscaler in $43.9-billion deal",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/commentary/article-us-sanction-canadian-judge-kimberly-prost-ottawa/",
-      "snippet": "Canadians should resist their instinct to weigh in – the ICC dispute with the U.S. is not ours",
-      "image": "https://www.theglobeandmail.com/resizer/v2/S2HEVPCDEZAPHGBIMRWFDDFQ44.JPG?auth=901113ae47b5304f2cc44de011a5c359933025b067019264358dd722ffb2997b&smart=true&width=5565&height=3710",
-      "time": "Nov 22, 4:00 PM"
-    },
-    {
-      "title": "Dubai’s trade with Canada could double over next five years under new deal, official says",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-uaes-trade-with-canada-could-double-over-next-five-years-under-new/",
-      "snippet": "Finance Minister is leading a group of investors on a tour of Persian Gulf states as part of Ottawa’s effort to strengthen relationship",
-      "image": "https://www.theglobeandmail.com/resizer/v2/5UWMM6OSPVCHDG3BA7JTJTMEGA.JPG?auth=acf733e8d90ced75f115264e364ad264a9e62afd4ed75935893416b70f111de3&smart=true&width=4000&height=2667",
-      "time": "Nov 22, 3:43 PM"
+      "url": "https://www.theglobeandmail.com/business/article-crowdstrike-to-buy-zscaler-in-439-billion-deal/",
+      "snippet": "CrowdStrike’s bet on network security follows recent technology outages that have highlighted rising AI-related cyber threats",
+      "image": "https://www.theglobeandmail.com/resizer/v2/A4BTON5PNNCFJKYAFJTTTPKAAA.jpg?auth=d358a94c7afd58b9b750018968ae78b61edf3b8c2adead17c1d060dac11aef31&smart=true&width=2907&height=1938",
+      "time": "Nov 23, 7:16 AM",
+      "coverage": 4
     }
   ],
+  "outlets": [
+    "WSJ Markets",
+    "CNBC",
+    "MarketWatch",
+    "Bloomberg",
+    "Investing.com",
+    "Fox Business",
+    "Globe and Mail"
+  ],
   "official": [
+    {
+      "title": "Quarterly financial statistics for enterprises, third quarter 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123a-eng.htm",
+      "snippet": "Operating profit reported by Canadian corporations declined to $236.6 billion in the third quarter, down $4.9 billion (-2.0%) from the second quarter. This decrease was attributable to both the non-financial and…",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261123/cg261123a001-eng.png",
+      "time": "Nov 23, 8:30 AM"
+    },
+    {
+      "title": "Travel between Canada and other countries, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123b-eng.htm",
+      "snippet": "In September, the number of Canadian-resident return trips from the United States increased 8.7% year over year, while trips to Canada by US residents rose 16.7%.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261123/cg261123b001-eng.png",
+      "time": "Nov 23, 8:30 AM"
+    },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
       "source": "Federal Reserve",
@@ -147,22 +205,6 @@
       "time": "Nov 20, 9:28 AM"
     },
     {
-      "title": "Retail trade, September 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261120/dq261120a-eng.htm",
-      "snippet": "Retail sales increased 0.8% to $75.3 billion in September. Sales were up in five of nine subsectors, led by increases at gasoline stations and fuel vendors.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261120/cg261120a001-eng.png",
-      "time": "Nov 20, 8:30 AM"
-    },
-    {
-      "title": "Consolidated Canadian Government Finance Statistics, 2025",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261120/dq261120b-eng.htm",
-      "snippet": "The consolidated Canadian general government, which includes federal, provincial, territorial, and local governments, recorded a deficit of $63.1 billion in 2025, higher than the $52.4 billion deficit reported in 2024.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261120/cg261120b001-eng.png",
-      "time": "Nov 20, 8:30 AM"
-    },
-    {
       "title": "Canada takes next steps in implementing the Consumer-Driven Banking Framework",
       "source": "Finance Canada",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-takes-next-steps-in-implementing-the-consumer-driven-banking-framework.html",
@@ -174,64 +216,64 @@
   ],
   "ticker": [
     {
-      "time": "Nov 22",
-      "title": "WSJ Markets — Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil",
-      "url": "https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8?mod=rss_markets_main"
+      "time": "10:19 AM",
+      "title": "CNBC — Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html"
     },
     {
-      "time": "Nov 22",
-      "title": "CNBC — Tata Steel to buy $1.67 billion stake in India’s largest steel pipe maker; shares plunge nearly 5%",
+      "time": "10:18 AM",
+      "title": "CNBC — Netflix’s ‘The Altruists’ sparks FTX portrayal debate among crypto bigwigs from CZ to Star Xu",
+      "url": "https://www.cnbc.com/2026/11/23/netflix-the-altruists-crypto-ftx-collapse.html"
+    },
+    {
+      "time": "10:18 AM",
+      "title": "CNBC — Investors give a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
       "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html"
     },
     {
-      "time": "Nov 22",
-      "title": "WSJ Markets — Dollar Likely to Trade Around Y160.00 Next Year",
-      "url": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main"
+      "time": "10:16 AM",
+      "title": "CNBC — Nvidia skyrockets 33% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
     },
     {
-      "time": "Nov 22",
-      "title": "CNBC — Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-      "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html"
+      "time": "9:56 AM",
+      "title": "WSJ Markets — Oil Futures Start Week Lower as Middle East Flows Continue",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main"
     },
     {
-      "time": "Nov 22",
-      "title": "WSJ Markets — Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
-      "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main"
+      "time": "9:45 AM",
+      "title": "Bloomberg — US Business Activity Expands at Slowest Pace in Four Months",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-business-activity-expands-at-slowest-pace-in-four-months"
     },
     {
-      "time": "Nov 22",
-      "title": "WSJ Markets — Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
-      "url": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=rss_markets_main"
+      "time": "9:45 AM",
+      "title": "Bloomberg — Stellantis Pulls Out of Auto Racing as CEO Ramps Up Cost Cuts",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/stellantis-pulls-out-of-auto-racing-as-ceo-ramps-up-cost-cuts"
     },
     {
-      "time": "Nov 22",
+      "time": "9:44 AM",
       "title": "WSJ Markets — Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
       "url": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main"
     },
     {
-      "time": "Nov 22",
-      "title": "WSJ Markets — How the WSJ Determined Mark Walter’s Total Borrowing",
-      "url": "https://www.wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693?mod=rss_markets_main"
+      "time": "9:44 AM",
+      "title": "WSJ Markets — Gold Rebounds After Sharpest Weekly Decline Since March",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rebounds-after-sharpest-weekly-decline-since-march-deaa4b87?mod=rss_markets_main"
     },
     {
-      "time": "Nov 22",
-      "title": "WSJ Markets — Some Underperforming Japan Stocks May Start Rising After Strong Results",
-      "url": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main"
+      "time": "9:39 AM",
+      "title": "MarketWatch — UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
+      "url": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories"
     },
     {
-      "time": "Nov 22",
-      "title": "CNBC — 3 big things we're watching in the market this Thanksgiving week",
-      "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html"
+      "time": "9:38 AM",
+      "title": "CNBC — CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
     },
     {
-      "time": "Nov 22",
-      "title": "WSJ Markets — Oil Falls Amid Risk-Off Sentiment",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main"
-    },
-    {
-      "time": "Nov 22",
-      "title": "CNBC — Let's weigh the cons — and pros — of this brutal market to find a way forward",
-      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html"
+      "time": "9:35 AM",
+      "title": "CNBC — JPMorgan's top books and experiences for the wealthy this holiday season",
+      "url": "https://www.cnbc.com/2026/11/23/jpmorgans-top-books-experiences-for-the-wealthy-this-holiday-season.html"
     }
   ]
 }
