@@ -333,6 +333,12 @@
   .info-box { background: var(--surface); color: var(--ink); border-radius: 22px; max-width: 640px; width: 100%; padding: 30px 30px 26px; box-shadow: 0 20px 60px rgba(0,0,0,0.3); }
   .info-box h3 { font-size: 22px; margin: 0 0 14px; }
   .info-box p { font-size: 18px; line-height: 1.6; margin: 0 0 22px; color: var(--ink); }
+  .poppable { cursor: pointer; }
+  .poppable:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+  .card-pop { animation: popIn 0.22s var(--ease); }
+  @keyframes popIn { from { opacity: 0; transform: scale(0.9); } to { opacity: 1; transform: scale(1); } }
+  .pop-label { display: inline-block; font-size: 12px; font-weight: 700; padding: 3px 10px; border-radius: 999px; margin-left: 10px; background: var(--surface-alt); color: var(--ink-soft); vertical-align: middle; }
+  .info-box p.pop-why-head { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-soft); margin: 0 0 6px; }
   .info-box .info-close { font-size: 15px; padding: 10px 20px; background: var(--ink); color: var(--surface); }
   .widget-desc { font-size: 12.5px; line-height: 1.45; color: var(--ink-soft); font-weight: 500; margin: -4px 2px 12px; }
   .live-updated { font-size: 11px; font-weight: 600; color: var(--ink-faint); margin: 10px 2px 0; }
@@ -780,6 +786,36 @@ function moveToTop() {
   ['2', '1'].forEach(n => { const w = mainPanel.querySelector('[data-top="' + n + '"]'); if (w) mainPanel.prepend(w); });
 }
 
+// Tap a card to pop it out big, with a plain-language "Why it matters" when the update includes one.
+function makePoppable(card, title, label, text, detail) {
+  card.classList.add('poppable');
+  card.tabIndex = 0; card.setAttribute('role', 'button');
+  card.setAttribute('aria-label', title + ', tap for more');
+  const open = () => {
+    const overlay = el('div', { className: 'info-overlay' });
+    const box = el('div', { className: 'info-box card-pop' });
+    box.setAttribute('role', 'dialog'); box.setAttribute('aria-modal', 'true');
+    const h = el('h3', { text: title });
+    if (label) h.appendChild(el('span', { className: 'pop-label', text: label }));
+    box.appendChild(h);
+    if (text) box.appendChild(el('p', { text: text }));
+    if (detail) {
+      box.appendChild(el('p', { className: 'pop-why-head', text: 'Why it matters' }));
+      box.appendChild(el('p', { text: detail }));
+    }
+    const close = el('button', { className: 'info-btn info-close', text: 'Got it' });
+    close.type = 'button';
+    const shut = () => { overlay.remove(); document.removeEventListener('keydown', onKey); card.focus(); };
+    const onKey = e => { if (e.key === 'Escape') shut(); };
+    close.addEventListener('click', shut);
+    overlay.addEventListener('click', e => { if (e.target === overlay) shut(); });
+    document.addEventListener('keydown', onKey);
+    box.appendChild(close); overlay.appendChild(box); document.body.appendChild(overlay); close.focus();
+  };
+  card.addEventListener('click', open);
+  card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
+}
+
 // "What does this mean?" button: keeps the explanation hidden until pressed, then shows it big.
 function addInfoButton(widget, title, text) {
   const btn = el('button', { className: 'info-btn', text: 'What does this mean?' });
@@ -835,7 +871,7 @@ function buildFilterRow(container, onFilter) {
   container.appendChild(row);
 }
 
-function makeItem(titleText, bodyText, confidence, delayIndex) {
+function makeItem(titleText, bodyText, confidence, delayIndex, detail) {
   const conf = confidence === 'confirmed' ? 'confirmed' : 'developing';
   const item = el('div', { className: 'item' });
   item.dataset.confidence = conf;
@@ -847,6 +883,7 @@ function makeItem(titleText, bodyText, confidence, delayIndex) {
   body.appendChild(titleP);
   body.appendChild(el('p', { className: 'item-summary', text: bodyText }));
   item.appendChild(body);
+  makePoppable(item, titleText, conf === 'confirmed' ? 'Confirmed' : 'Developing', bodyText, detail);
   return item;
 }
 
@@ -1014,7 +1051,7 @@ function renderBriefing(data, dateKey) {
         it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key);
       });
     });
-    data.themes.forEach((t, i) => itemsWrap.appendChild(makeItem(t.title || '', t.summary || '', t.confidence, i)));
+    data.themes.forEach((t, i) => itemsWrap.appendChild(makeItem(t.title || '', t.summary || '', t.confidence, i, t.detail)));
     widget.appendChild(itemsWrap);
     mainPanel.appendChild(widget);
   }
@@ -1028,7 +1065,7 @@ function renderBriefing(data, dateKey) {
         it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key);
       });
     });
-    data.watch_list.forEach((w, i) => itemsWrap.appendChild(makeItem(w.topic || '', w.why || '', w.confidence, i)));
+    data.watch_list.forEach((w, i) => itemsWrap.appendChild(makeItem(w.topic || '', w.why || '', w.confidence, i, w.detail)));
     widget.appendChild(itemsWrap);
     mainPanel.appendChild(widget);
   }
@@ -1051,6 +1088,7 @@ function renderBriefing(data, dateKey) {
       chip.appendChild(top);
       chip.appendChild(moodMeter(mood));
       chip.appendChild(el('div', { className: 'note', text: p.note || '' }));
+      makePoppable(chip, p.index || '', mood.label, p.note || '', p.detail);
       scroll.appendChild(chip);
     });
     widget.appendChild(scroll);
@@ -1079,6 +1117,7 @@ function renderBriefing(data, dateKey) {
       tag.appendChild(iconBadge);
       tag.appendChild(el('div', { className: 'name', text: s.name || '' }));
       tag.appendChild(el('div', { className: 'note', text: s.note || '' }));
+      makePoppable(tag, s.name || '', '', s.note || '', s.detail);
       cloud.appendChild(tag);
     });
     widget.appendChild(cloud);
@@ -1153,7 +1192,7 @@ function renderCrypto(data, dateKey) {
     buildFilterRow(widget, (key) => {
       itemsWrap.querySelectorAll('.item').forEach(it => it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key));
     });
-    data.themes.forEach((t, i) => itemsWrap.appendChild(makeItem(t.title || '', t.summary || '', t.confidence, i)));
+    data.themes.forEach((t, i) => itemsWrap.appendChild(makeItem(t.title || '', t.summary || '', t.confidence, i, t.detail)));
     widget.appendChild(itemsWrap);
     mainPanel.appendChild(widget);
   }
@@ -1165,7 +1204,7 @@ function renderCrypto(data, dateKey) {
     buildFilterRow(widget, (key) => {
       itemsWrap.querySelectorAll('.item').forEach(it => it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key));
     });
-    data.watch_list.forEach((w, i) => itemsWrap.appendChild(makeItem(w.topic || '', w.why || '', w.confidence, i)));
+    data.watch_list.forEach((w, i) => itemsWrap.appendChild(makeItem(w.topic || '', w.why || '', w.confidence, i, w.detail)));
     widget.appendChild(itemsWrap);
     mainPanel.appendChild(widget);
   }
@@ -1188,6 +1227,7 @@ function renderCrypto(data, dateKey) {
       chip.appendChild(top);
       chip.appendChild(moodMeter(mood));
       chip.appendChild(el('div', { className: 'note', text: p.note || '' }));
+      makePoppable(chip, p.index || '', mood.label, p.note || '', p.detail);
       scroll.appendChild(chip);
     });
     widget.appendChild(scroll);
@@ -1216,6 +1256,7 @@ function renderCrypto(data, dateKey) {
       tag.appendChild(iconBadge);
       tag.appendChild(el('div', { className: 'name', text: s.name || '' }));
       tag.appendChild(el('div', { className: 'note', text: s.note || '' }));
+      makePoppable(tag, s.name || '', '', s.note || '', s.detail);
       cloud.appendChild(tag);
     });
     widget.appendChild(cloud);
