@@ -1,22 +1,63 @@
 {
-  "generated_at": "Nov 22, 2026, 6:52 PM ET",
-  "date_key": "2026-11-22",
+  "generated_at": "Nov 23, 2026, 2:16 AM ET",
+  "date_key": "2026-11-23",
   "articles": [
     {
-      "title": "Stock futures rebound to start shortened week after tech rout: Live updates",
+      "title": "Gold Touches Buy Levels, With $4,200 as Next Key Resistance on Charts",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
+      "snippet": "Spot gold prices rose and Maybank said the precious metal was at buy levels during Asian trade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 23, 2:11 AM"
+    },
+    {
+      "title": "Julius Baer Profit Climbs as Inflows Boost Assets Under Management",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/business/earnings/julius-baer-profit-climbs-as-inflows-boost-assets-under-management-633d56a2?mod=rss_markets_main",
+      "snippet": "Assets under management in the first 10 months of the year were boosted by a solid stock market performance, a stronger dollar and client money inflows.",
+      "image": "https://images.wsj.net/im-41713961",
+      "time": "Nov 23, 1:59 AM"
+    },
+    {
+      "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
+      "snippet": "Market regulators in South Korea, China and Taiwan have introduced new measures to support markets.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108293706-1776642777937-gettyimages-2265662809-AFP_A33E863.jpeg?v=1776642789&w=1920&h=1080",
+      "time": "Nov 23, 1:50 AM"
+    },
+    {
+      "title": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
       "snippet": "Last week, the major indexes tumbled as worries about the artificial intelligence trade continued to spook investors, despite Anthropic's record debut.",
       "image": "https://image.cnbcfm.com/api/v1/image/108344591-17858573062026-08-04t144617z_1985709503_rc2prma7046i_rtrmadp_0_usa-stocks.jpeg?v=1785857332&w=1920&h=1080",
-      "time": "Nov 22, 6:46 PM"
+      "time": "Nov 23, 1:47 AM"
     },
     {
-      "title": "Opinion | How to Kill a Bull Market",
+      "title": "ABB to Buy Germany’s Ziehl-Abegg for $2.22 Billion",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/opinion/how-to-kill-a-bull-market-ai-policy-15fb5af6?mod=rss_markets_main",
-      "snippet": "Politicians have a say in how deep the AI correction becomes.",
-      "image": "https://opinion-images.wsj.net/im-68182124",
-      "time": "Nov 22, 5:01 PM"
+      "url": "https://www.wsj.com/business/energy-oil/abb-to-buy-germanys-ziehl-abegg-for-2-22-billion-fad3bf35?mod=rss_markets_main",
+      "snippet": "ABB said the deal expands its offering for heating, ventilation and air conditioning as well as industrial-cooling applications.",
+      "image": "https://images.wsj.net/im-84221948",
+      "time": "Nov 23, 1:28 AM"
+    },
+    {
+      "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "snippet": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
+      "image": "https://image.cnbcfm.com/api/v1/image/108547468-1794318020652-gettyimages-2303986898-AFP_D6ZC9G6.jpeg?v=1794530723&w=1920&h=1080",
+      "time": "Nov 23, 12:08 AM"
+    },
+    {
+      "title": "The number of 401(k) millionaires drops amid stock-market swings",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "snippet": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+      "image": "https://images.mktw.net/im-24997077",
+      "time": "Nov 23, 12:01 AM"
     },
     {
       "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
@@ -54,49 +95,9 @@
       "title": "Dubai’s trade with Canada could double over next five years under new deal, official says",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-uaes-trade-with-canada-could-double-over-next-five-years-under-new/",
-      "snippet": "Champagne is leading a group of investors on a tour of Persian Gulf states as part of Ottawa’s effort to strengthen relationship",
+      "snippet": "Finance Minister is leading a group of investors on a tour of Persian Gulf states as part of Ottawa’s effort to strengthen relationship",
       "image": "https://www.theglobeandmail.com/resizer/v2/5UWMM6OSPVCHDG3BA7JTJTMEGA.JPG?auth=acf733e8d90ced75f115264e364ad264a9e62afd4ed75935893416b70f111de3&smart=true&width=4000&height=2667",
       "time": "Nov 22, 3:43 PM"
-    },
-    {
-      "title": "Social Security should be shut down, this Republican senator says",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-      "snippet": "The program’s trust funds are forecast to run out of money in the next six years.",
-      "image": "https://images.mktw.net/im-10870575",
-      "time": "Nov 22, 3:26 PM"
-    },
-    {
-      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-      "snippet": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108314199-1780134094393-Phantom_work2.png?v=1780135127&w=1920&h=1080",
-      "time": "Nov 22, 1:55 PM"
-    },
-    {
-      "title": "Opinion | Give Thanks to Inverse Billionaires",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/opinion/give-thanks-to-inverse-billionaires-0a839607?mod=rss_markets_main",
-      "snippet": "Tech leaders capture only 4% of the wealth they create. Everyone else splits the rest.",
-      "image": "https://opinion-images.wsj.net/im-58356127",
-      "time": "Nov 22, 12:58 PM"
-    },
-    {
-      "title": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
-      "snippet": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108555699-1795110748736-gettyimages-2235780194-dsc07810.jpeg?v=1795110791&w=1920&h=1080",
-      "time": "Nov 22, 12:33 PM"
-    },
-    {
-      "title": "Has the AI Bubble Already Burst?",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
-      "snippet": "The AI selloff ravaging the stock market in recent weeks is remarkably like the bursting of the dot-com bubble.",
-      "image": "https://images.wsj.net/im-18367316",
-      "time": "Nov 22, 5:30 AM"
     }
   ],
   "official": [
@@ -173,64 +174,64 @@
   ],
   "ticker": [
     {
-      "time": "2:24 PM",
-      "title": "MarketWatch — Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-      "url": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories"
+      "time": "Nov 22",
+      "title": "WSJ Markets — Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil",
+      "url": "https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8?mod=rss_markets_main"
     },
     {
-      "time": "1:23 PM",
-      "title": "MarketWatch — These little-known investments could be among the best bargains in a crash",
-      "url": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories"
+      "time": "Nov 22",
+      "title": "CNBC — Tata Steel to buy $1.67 billion stake in India’s largest steel pipe maker; shares plunge nearly 5%",
+      "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html"
     },
     {
-      "time": "1:00 PM",
-      "title": "Globe and Mail — Arborist and teacher earning $130,000 buy their first home in a PEI village for under half a million",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-my-first-home-pei-village-arborist-teacher/"
+      "time": "Nov 22",
+      "title": "WSJ Markets — Dollar Likely to Trade Around Y160.00 Next Year",
+      "url": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main"
     },
     {
-      "time": "12:46 PM",
-      "title": "Globe and Mail — Delta flights delayed in Atlanta due to issue with automation system",
-      "url": "https://www.theglobeandmail.com/world/article-delta-airline-flights-delayed-atlanta/"
+      "time": "Nov 22",
+      "title": "CNBC — Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+      "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html"
     },
     {
-      "time": "12:22 PM",
-      "title": "MarketWatch — Private equity has been buying up hospice centers — with striking consequences",
-      "url": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories"
+      "time": "Nov 22",
+      "title": "WSJ Markets — Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+      "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main"
     },
     {
-      "time": "12:14 PM",
-      "title": "CNBC — Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
+      "time": "Nov 22",
+      "title": "WSJ Markets — Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
+      "url": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=rss_markets_main"
     },
     {
-      "time": "12:00 PM",
-      "title": "MarketWatch — ‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
-      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories"
+      "time": "Nov 22",
+      "title": "WSJ Markets — Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
+      "url": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main"
     },
     {
-      "time": "11:32 AM",
-      "title": "MarketWatch — I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories"
+      "time": "Nov 22",
+      "title": "WSJ Markets — How the WSJ Determined Mark Walter’s Total Borrowing",
+      "url": "https://www.wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693?mod=rss_markets_main"
     },
     {
-      "time": "11:18 AM",
-      "title": "MarketWatch — ‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-      "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories"
+      "time": "Nov 22",
+      "title": "WSJ Markets — Some Underperforming Japan Stocks May Start Rising After Strong Results",
+      "url": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main"
     },
     {
-      "time": "11:15 AM",
-      "title": "MarketWatch — ‘Never too late to start’: Practical investing advice from some of the top women in finance",
-      "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories"
+      "time": "Nov 22",
+      "title": "CNBC — 3 big things we're watching in the market this Thanksgiving week",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html"
     },
     {
-      "time": "10:02 AM",
-      "title": "Globe and Mail — Italian jeweller Paolo Bulgari dies at 89",
-      "url": "https://www.theglobeandmail.com/world/article-italian-jeweller-paolo-bulgari-obituary/"
+      "time": "Nov 22",
+      "title": "WSJ Markets — Oil Falls Amid Risk-Off Sentiment",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main"
     },
     {
-      "time": "9:49 AM",
-      "title": "Globe and Mail — Anthropic’s unusual IPO process chafes some bankers",
-      "url": "https://www.theglobeandmail.com/world/article-anthropic-ipo-process-issues/"
+      "time": "Nov 22",
+      "title": "CNBC — Let's weigh the cons — and pros — of this brutal market to find a way forward",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html"
     }
   ]
 }
