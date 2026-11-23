@@ -1,24 +1,42 @@
 {
-  "generated_at": "Nov 23, 2026, 10:37 AM ET",
+  "generated_at": "Nov 23, 2026, 10:42 AM ET",
   "date_key": "2026-11-23",
-  "updated_ts": 1795448238378,
+  "updated_ts": 1795448554989,
   "articles": [
     {
-      "title": "Trump tells CNBC he spoke to Nvidia board directly about Jensen Huang",
+      "title": "Trump tells CNBC 'I convinced’ Nvidia board to reinstate Jensen Huang",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
       "snippet": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
       "image": "https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795443300&w=1920&h=1080",
-      "time": "Nov 23, 10:35 AM",
+      "time": "Nov 23, 10:41 AM",
       "coverage": 7
     },
     {
-      "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
+      "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "snippet": "The Nvidia board said it had input from senior levels of the U.S. government.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1794954719&w=1920&h=1080",
-      "time": "Nov 23, 10:24 AM",
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "snippet": "U.S. equities surged on Monday after Nvidia reinstated Jensen Huang as CEO.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108269987-1772039487513-Traders-Photo-MW-20260225-PRESS-5.jpg?v=1779479843&w=1920&h=1080",
+      "time": "Nov 23, 10:37 AM",
+      "coverage": 7
+    },
+    {
+      "title": "Nvidia shares surge 35% as board announces Jensen Huang’s reinstatement",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-surge-30-as-board-announces-jensen-huangs-reinstatement-5045795",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM811C3_L.jpg",
+      "time": "Nov 23, 10:29 AM",
+      "coverage": 7
+    },
+    {
+      "title": "Trump says Nvidia board made right call on Huang reinstatement",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/trump-says-nvidia-board-made-right-call-on-huang-reinstatement-5045885",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAM11H_L.jpg",
+      "time": "Nov 23, 10:25 AM",
       "coverage": 7
     },
     {
@@ -88,30 +106,12 @@
       "coverage": 7
     },
     {
-      "title": "Nvidia reinstates Jensen Huang as CEO",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-reinstates-jensen-huang-as-ceo-5045809",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAM10C_L.jpg",
-      "time": "Nov 23, 9:06 AM",
-      "coverage": 7
-    },
-    {
       "title": "Nvidia reinstates Jensen Huang as CEO in sharp reversal from board; shares soar",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-reinstates-jensen-huang-as-ceo/",
       "snippet": "Embattled leader resigned earlier this month after reports of extramarital affairs, including with an alleged Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/VMKAGKUKYVA2DEC3IFTWQQWPXM.JPG?auth=3de3299f41df1278c24ba39b60d4330d53b61c7f88ec20acccc402a994986465&smart=true&width=5472&height=3648",
       "time": "Nov 23, 9:05 AM",
-      "coverage": 7
-    },
-    {
-      "title": "Nasdaq 100 futures extend gains, soar over 6% as Nvidia reinstates Huang as CEO",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "time": "Nov 23, 9:03 AM",
       "coverage": 7
     },
     {
@@ -217,13 +217,48 @@
   "ticker": [
     {
       "time": "10:30 AM",
+      "title": "Investing.com — Europe’s STOXX 600 rises as tech shares rebound after AI-driven rout",
+      "url": "https://www.investing.com/news/stock-market-news/european-stocks-recover-after-steep-technologyled-selloff-5044629"
+    },
+    {
+      "time": "10:30 AM",
       "title": "CNBC — Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
       "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html"
     },
     {
-      "time": "10:23 AM",
-      "title": "CNBC — Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
-      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+      "time": "10:30 AM",
+      "title": "Investing.com — Turkey stocks lower at close of trade; BIST 100 down 0.24%",
+      "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-024-5045989"
+    },
+    {
+      "time": "10:28 AM",
+      "title": "Investing.com — Eagle Nuclear Energy stock rises on Russell Microcap addition",
+      "url": "https://www.investing.com/news/stock-market-news/eagle-nuclear-energy-stock-rises-on-russell-microcap-addition-5045988"
+    },
+    {
+      "time": "10:24 AM",
+      "title": "Investing.com — Political and corporate leaders react to Huang’s return as Nvidia CEO",
+      "url": "https://www.investing.com/news/stock-market-news/political-and-corporate-leaders-react-to-huangs-return-as-nvidia-ceo-5045985"
+    },
+    {
+      "time": "10:24 AM",
+      "title": "CNBC — Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+    },
+    {
+      "time": "10:24 AM",
+      "title": "Investing.com — Wall St roars back as Jensen Huang returns to Nvidia as CEO",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-rebound-after-rough-week-for-ailinked-shares-5044594"
+    },
+    {
+      "time": "10:24 AM",
+      "title": "Investing.com — Klarna stock surges on Visa partnership expansion",
+      "url": "https://www.investing.com/news/stock-market-news/klarna-stock-surges-on-visa-partnership-expansion-5045984"
+    },
+    {
+      "time": "10:24 AM",
+      "title": "Investing.com — Nasdaq soars more than 7% as Huang’s return to Nvidia reignites AI trade",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226"
     },
     {
       "time": "10:22 AM",
@@ -231,49 +266,14 @@
       "url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html"
     },
     {
+      "time": "10:20 AM",
+      "title": "Investing.com — Vuzix stock jumps on reseller deal with Friends With Holograms",
+      "url": "https://www.investing.com/news/stock-market-news/vuzix-stock-jumps-on-reseller-deal-with-friends-with-holograms-5045980"
+    },
+    {
       "time": "10:18 AM",
       "title": "CNBC — Netflix’s ‘The Altruists’ sparks FTX portrayal debate among crypto bigwigs from CZ to Star Xu",
       "url": "https://www.cnbc.com/2026/11/23/netflix-the-altruists-crypto-ftx-collapse.html"
-    },
-    {
-      "time": "10:18 AM",
-      "title": "CNBC — Investors give a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
-      "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html"
-    },
-    {
-      "time": "10:18 AM",
-      "title": "Globe and Mail — Bell probes cyberattack that exposed customer information last week",
-      "url": "https://www.theglobeandmail.com/business/article-bell-probes-cyberattack-that-exposed-customer-information/"
-    },
-    {
-      "time": "9:56 AM",
-      "title": "WSJ Markets — Oil Futures Start Week Lower as Middle East Flows Continue",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main"
-    },
-    {
-      "time": "9:45 AM",
-      "title": "Bloomberg — Stellantis Quits Auto Racing as CEO Ramps Up Cost Cuts",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/stellantis-pulls-out-of-auto-racing-as-ceo-ramps-up-cost-cuts"
-    },
-    {
-      "time": "9:45 AM",
-      "title": "Bloomberg — US Business Activity Expands at Slowest Pace in Four Months",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-business-activity-expands-at-slowest-pace-in-four-months"
-    },
-    {
-      "time": "9:44 AM",
-      "title": "WSJ Markets — Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
-      "url": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main"
-    },
-    {
-      "time": "9:44 AM",
-      "title": "WSJ Markets — Gold Rebounds After Sharpest Weekly Decline Since March",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rebounds-after-sharpest-weekly-decline-since-march-deaa4b87?mod=rss_markets_main"
-    },
-    {
-      "time": "9:39 AM",
-      "title": "MarketWatch — UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
-      "url": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories"
     }
   ]
 }
