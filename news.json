@@ -1,24 +1,24 @@
 {
-  "generated_at": "Nov 23, 2026, 10:47 AM ET",
+  "generated_at": "Nov 23, 2026, 10:53 AM ET",
   "date_key": "2026-11-23",
-  "updated_ts": 1795448870701,
+  "updated_ts": 1795449187285,
   "articles": [
-    {
-      "title": "Trump tells CNBC 'I convinced’ Nvidia board to reinstate Jensen Huang",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-      "snippet": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795443300&w=1920&h=1080",
-      "time": "Nov 23, 10:46 AM",
-      "coverage": 7
-    },
     {
       "title": "Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
       "snippet": "U.S. equities surged on Monday after Nvidia reinstated Jensen Huang as CEO.",
       "image": "https://image.cnbcfm.com/api/v1/image/108269987-1772039487513-Traders-Photo-MW-20260225-PRESS-5.jpg?v=1779479843&w=1920&h=1080",
-      "time": "Nov 23, 10:43 AM",
+      "time": "Nov 23, 10:52 AM",
+      "coverage": 7
+    },
+    {
+      "title": "Trump tells CNBC 'I convinced’ Nvidia board to reinstate Jensen Huang",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+      "snippet": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795443300&w=1920&h=1080",
+      "time": "Nov 23, 10:48 AM",
       "coverage": 7
     },
     {
@@ -216,6 +216,11 @@
   ],
   "ticker": [
     {
+      "time": "10:47 AM",
+      "title": "Globe and Mail — Children’s Place, Gymboree liquidating all Canadian stores",
+      "url": "https://www.theglobeandmail.com/business/article-childrens-place-gymboree-liquidating-all-canadian-stores/"
+    },
+    {
       "time": "10:30 AM",
       "title": "Investing.com — Europe’s STOXX 600 rises as tech shares rebound after AI-driven rout",
       "url": "https://www.investing.com/news/stock-market-news/european-stocks-recover-after-steep-technologyled-selloff-5044629"
@@ -269,11 +274,6 @@
       "time": "10:20 AM",
       "title": "Investing.com — Vuzix stock jumps on reseller deal with Friends With Holograms",
       "url": "https://www.investing.com/news/stock-market-news/vuzix-stock-jumps-on-reseller-deal-with-friends-with-holograms-5045980"
-    },
-    {
-      "time": "10:18 AM",
-      "title": "CNBC — Netflix’s ‘The Altruists’ sparks FTX portrayal debate among crypto bigwigs from CZ to Star Xu",
-      "url": "https://www.cnbc.com/2026/11/23/netflix-the-altruists-crypto-ftx-collapse.html"
     }
   ]
 }
