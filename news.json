@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 23, 2026, 10:42 AM ET",
+  "generated_at": "Nov 23, 2026, 10:47 AM ET",
   "date_key": "2026-11-23",
-  "updated_ts": 1795448554989,
+  "updated_ts": 1795448870701,
   "articles": [
     {
       "title": "Trump tells CNBC 'I convinced’ Nvidia board to reinstate Jensen Huang",
@@ -9,7 +9,7 @@
       "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
       "snippet": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
       "image": "https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795443300&w=1920&h=1080",
-      "time": "Nov 23, 10:41 AM",
+      "time": "Nov 23, 10:46 AM",
       "coverage": 7
     },
     {
@@ -18,7 +18,7 @@
       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
       "snippet": "U.S. equities surged on Monday after Nvidia reinstated Jensen Huang as CEO.",
       "image": "https://image.cnbcfm.com/api/v1/image/108269987-1772039487513-Traders-Photo-MW-20260225-PRESS-5.jpg?v=1779479843&w=1920&h=1080",
-      "time": "Nov 23, 10:37 AM",
+      "time": "Nov 23, 10:43 AM",
       "coverage": 7
     },
     {
@@ -49,16 +49,6 @@
       "coverage": 7
     },
     {
-      "title": "AI-Linked Stocks Take Off After Nvidia Restores Jensen Huang",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/ai-linked-stocks-take-off-after-nvidia-reinstates-jensen-huang",
-      "snippet": "Shares of companies tied to artificial intelligence surged Monday after Nvidia Corp. reinstated Jensen Huang as president and chief executive officer, effective immediately.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 23, 10:04 AM",
-      "coverage": 7
-    },
-    {
       "title": "Nasdaq Jumps, Nvidia Surges After Huang Returns as CEO",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
@@ -71,7 +61,7 @@
       "title": "Anthropic Shares Fluctuate as AI Sector Rallies on Nvidia CEO Return",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-23/anthropic-shares-churn-defying-ai-trade-rally-on-huang-s-return",
-      "snippet": "Anthropic PBC shares struggled for direction in early Monday trading, with the artificial intelligence lab lagging behind the rest of the sector’s rebound following the reinstatement of Nvidia Corp.’s Jensen Huang.",
+      "snippet": "Anthropic PBC shares turned negative in early Monday trading, with the artificial intelligence lab lagging behind the rest of the sector’s rebound following the reinstatement of Nvidia Corp.’s Jensen Huang.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 23, 9:51 AM",
@@ -106,10 +96,10 @@
       "coverage": 7
     },
     {
-      "title": "Nvidia reinstates Jensen Huang as CEO in sharp reversal from board; shares soar",
+      "title": "Huang returns as Nvidia CEO after Trump urges reinstatement; shares soar",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-reinstates-jensen-huang-as-ceo/",
-      "snippet": "Embattled leader resigned earlier this month after reports of extramarital affairs, including with an alleged Chinese spy",
+      "snippet": "Board says it sees no national-security risk arising from move as company faces multiple probes from U.S. agencies",
       "image": "https://www.theglobeandmail.com/resizer/v2/VMKAGKUKYVA2DEC3IFTWQQWPXM.JPG?auth=3de3299f41df1278c24ba39b60d4330d53b61c7f88ec20acccc402a994986465&smart=true&width=5472&height=3648",
       "time": "Nov 23, 9:05 AM",
       "coverage": 7
@@ -121,6 +111,16 @@
       "snippet": "Major U.S. equity indexes are higher Monday after last week&apos;s steep AI selloff, with investors eyeing Nvidia&apos;s recovery and Wednesday&apos;s PCE inflation report.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-historic-stock-market-selloff-1.jpg",
       "time": "Nov 23, 8:36 AM",
+      "coverage": 6
+    },
+    {
+      "title": "Metals Rebound as Huang’s Return to Nvidia Revives Risk Appetite",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+      "snippet": "Gold extended its rebound in a broad risk-on rally triggered by the reinstatement of Jensen Huang as chief executive officer of Nvidia Corp.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 22, 7:28 PM",
       "coverage": 7
     },
     {
