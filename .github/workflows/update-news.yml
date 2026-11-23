@@ -2,8 +2,12 @@ name: Update news
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # every 15 minutes
+    - cron: '18,48 * * * *'   # starts twice an hour (off-peak minutes); each run then refreshes every 5 min for ~30 min,
+                              # so the page stays fresh even when GitHub skips or delays scheduled runs
   workflow_dispatch:          # lets you run it by hand from the Actions tab
+  push:                       # also runs right away when its script changes
+    branches: [main]
+    paths: ['scripts/fetch-news.mjs']
 
 permissions:
   contents: write
@@ -15,18 +19,23 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Fetch latest headlines
-        run: node scripts/fetch-news.mjs
-      - name: Commit news.json if it changed
+      - name: Fetch and commit news every 5 minutes for ~30 minutes
         run: |
           git config user.name "daily-signal-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news.json
-          git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "Update news $(date -u +'%Y-%m-%d %H:%M UTC')"
-          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 7; done
+          for round in 1 2 3 4 5 6 7; do
+            git pull -q --rebase origin main || true
+            node scripts/fetch-news.mjs || echo "fetch failed this round"
+            git add news.json
+            if git diff --cached --quiet; then echo "No changes"; else
+              git commit -q -m "Update news $(date -u +'%Y-%m-%d %H:%M UTC')"
+              for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 7; done
+            fi
+            [ "$round" = 7 ] || sleep 290
+          done

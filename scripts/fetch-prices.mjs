@@ -1,5 +1,5 @@
 // Pulls live market and crypto prices and writes prices.json.
-// Runs every ~15 minutes in GitHub Actions (.github/workflows/update-prices.yml). No dependencies.
+// Runs about every 5 minutes in GitHub Actions (.github/workflows/update-prices.yml). No dependencies.
 import { writeFileSync, existsSync, readFileSync } from 'node:fs';
 
 const TZ = 'America/Toronto';
@@ -25,6 +25,17 @@ const SECTORS = [
   { symbol: 'XLY', name: 'Consumer discretionary' }, { symbol: 'XLP', name: 'Consumer staples' },
   { symbol: 'XLU', name: 'Utilities' }, { symbol: 'XLRE', name: 'Real estate' },
 ];
+
+// Big names people ask about (U.S. mega-caps + large Canadian stocks). Shown as "Big Names" on the Markets tab.
+const STOCKS = [
+  { symbol: 'NVDA', name: 'Nvidia' }, { symbol: 'AAPL', name: 'Apple' }, { symbol: 'MSFT', name: 'Microsoft' },
+  { symbol: 'AMZN', name: 'Amazon' }, { symbol: 'GOOGL', name: 'Alphabet' }, { symbol: 'META', name: 'Meta' },
+  { symbol: 'TSLA', name: 'Tesla' }, { symbol: 'AVGO', name: 'Broadcom' }, { symbol: 'AMD', name: 'AMD' },
+  { symbol: 'JPM', name: 'JPMorgan' }, { symbol: 'RY.TO', name: 'Royal Bank', prefix: 'C$' },
+  { symbol: 'TD.TO', name: 'TD Bank', prefix: 'C$' }, { symbol: 'SHOP.TO', name: 'Shopify', prefix: 'C$' },
+  { symbol: 'ENB.TO', name: 'Enbridge', prefix: 'C$' }, { symbol: 'CNQ.TO', name: 'Canadian Natural', prefix: 'C$' },
+];
+STOCKS.forEach(s => { s.prefix ||= '$'; });
 
 async function getJSON(url) {
   const res = await fetch(url, { headers: UA, signal: AbortSignal.timeout(20000) });
@@ -85,18 +96,46 @@ async function crypto() {
   return out;
 }
 
-const [markets, sectors, cryptoData] = await Promise.all([
+// Biggest U.S. movers today (Yahoo's day gainers / losers screens), large companies only (US$2B+ market value).
+async function movers(scrId) {
+  for (const host of ['query1', 'query2']) {
+    try {
+      const j = await getJSON(`https://${host}.finance.yahoo.com/v1/finance/screener/predefined/saved?scrIds=${scrId}&count=40&formatted=false`);
+      const q = j.finance.result[0].quotes || [];
+      return q.filter(x => (x.marketCap || 0) >= 2e9 && typeof x.regularMarketChangePercent === 'number')
+        .slice(0, 6).map(x => ({
+          name: x.shortName || x.longName || x.symbol, symbol: x.symbol, price: x.regularMarketPrice,
+          pct: +x.regularMarketChangePercent.toFixed(2), url: `https://finance.yahoo.com/quote/${encodeURIComponent(x.symbol)}`,
+        }));
+    } catch (e) { if (host === 'query2') console.warn(`${scrId}: skipped (${e.message})`); }
+  }
+  return [];
+}
+
+const [markets, sectors, stocks, gainers, losers, cryptoData] = await Promise.all([
   Promise.all(MARKETS.map(yahoo)),
   Promise.all(SECTORS.map(yahoo)),
+  Promise.all(STOCKS.map(yahoo)),
+  movers('day_gainers'),
+  movers('day_losers'),
   crypto(),
 ]);
+// If the screens fail, fall back to the biggest moves among the Big Names.
+let stockMovers = [...gainers, ...losers];
+if (!stockMovers.length) {
+  const ranked = stocks.filter(s => s && typeof s.change_pct === 'number').sort((a, b) => b.change_pct - a.change_pct);
+  stockMovers = [...ranked.slice(0, 3), ...ranked.slice(-3).reverse()].map(s => ({ name: s.name, symbol: s.symbol, price: s.price, pct: s.change_pct, url: s.url }));
+}
 
 const old = existsSync('prices.json') ? JSON.parse(readFileSync('prices.json', 'utf8')) : {};
 const now = new Date();
 const out = {
+  updated_ts: now.getTime(),
   generated_at: now.toLocaleString('en-US', { timeZone: TZ, month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' ET',
   markets: markets.filter(Boolean),
   sectors: sectors.filter(Boolean).map(s => ({ name: s.name, symbol: s.symbol, change_pct: s.change_pct, url: s.url })),
+  stocks: stocks.filter(Boolean),
+  stock_movers: stockMovers,
   crypto: cryptoData.coins,
   crypto_movers: cryptoData.movers,
   crypto_global: cryptoData.global,
@@ -106,7 +145,7 @@ const out = {
   ],
 };
 // If a provider fails this run, keep its last good numbers instead of blanking the page.
-for (const k of ['markets', 'sectors', 'crypto', 'crypto_movers']) if (!out[k].length && old[k]) out[k] = old[k];
+for (const k of ['markets', 'sectors', 'stocks', 'stock_movers', 'crypto', 'crypto_movers']) if (!out[k].length && old[k]) out[k] = old[k];
 if (!out.crypto_global && old.crypto_global) out.crypto_global = old.crypto_global;
 
 console.log(`Markets: ${out.markets.length}, sectors: ${out.sectors.length}, crypto: ${out.crypto.length}`);

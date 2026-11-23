@@ -1,117 +1,114 @@
 {
-  "generated_at": "Nov 22, 2026, 4:50 PM ET (markets closed for the weekend; figures are from Friday's Nov. 20 close)",
+  "generated_at": "Nov 23, 2026, 10:55 AM ET (markets open; figures are from Monday morning and will change through the day)",
   "market_pulse": [
     {
-      "index": "Dow Jones",
-      "note": "Closed Friday at 48,147.33, down 949.73 points or 1.93%, and fell 8.02% for the week; the index is in correction, more than 10% below its record (Schwab; The Closing Print; AP)."
-    },
-    {
       "index": "S&P 500",
-      "note": "Closed at 6,910.39, down 265.44 points or 3.70%, a seventh straight loss; it fell 8.61% for the week and ended in correction, more than 10% below its record (Schwab; The Closing Print)."
+      "note": "Up about 4.6% Monday morning near 7,228, bouncing back after seven straight losing days that ended Friday at 6,910.39 (Yahoo Finance).",
+      "detail": "The S&P 500 tracks 500 of the biggest U.S. companies, so it is the best single snapshot of the U.S. market. Last week it fell 8.6%, its worst week since April 2025, so today's jump only wins back part of that drop."
     },
     {
       "index": "Nasdaq Composite",
-      "note": "Closed at 22,617.73, down 1,261.47 points or 5.28%, and is now down about 2.7% for 2026; it lost 10.02% for the week (Schwab; JournalArta; The Closing Print)."
+      "note": "Up roughly 6.5% to 7% Monday morning, the biggest gain of the major indexes, after a 5.28% drop Friday to 22,617.73 (Yahoo Finance; JournalArta).",
+      "detail": "The Nasdaq is packed with technology companies, so it swings the most when big tech stocks move. Most of today's gain is coming from chipmakers and AI-related companies."
     },
     {
-      "index": "WTI Crude Oil",
-      "note": "January WTI rose 1.2% to settle at $83.41 a barrel, but oil fell about 5.6% for the week, a third straight weekly loss; Brent settled at $92.57 (Rigzone/Bloomberg; The Closing Print)."
+      "index": "Dow Jones",
+      "note": "Up more than 1,200 points, close to 3%, Monday morning after Friday's close of 48,147.33 capped its worst week since 2020 (Yahoo Finance).",
+      "detail": "The Dow follows 30 large, well-known U.S. companies. It is rising less than the Nasdaq today because it holds fewer of the tech stocks leading the rebound."
+    },
+    {
+      "index": "S&P/TSX (Canada)",
+      "note": "Up about 2.5% at Monday's open, following Wall Street higher (JournalArta).",
+      "detail": "Canada's main index leans more on banks, energy and mining than on tech, which is why it usually moves less than the Nasdaq on days led by U.S. tech stocks. U.S. markets close Thursday for Thanksgiving while the TSX stays open."
     }
   ],
   "themes": [
     {
-      "title": "AI hardware unwind",
-      "summary": "Nvidia fell 14.01% to $125.53 after reports of an SEC accounting probe; Arm fell 14.09% and Micron 13.89% to $594.51 (The Closing Print; JournalArta; Schwab).",
-      "confidence": "confirmed"
+      "title": "Nvidia jumps after Jensen Huang is reinstated as CEO",
+      "summary": "Nvidia shares rose more than 30% Monday morning after its board unanimously reinstated co-founder Jensen Huang as CEO, effective immediately. The stock opened at $167.04, about 27% above Friday's close (Yahoo Finance; The Hill; CNBC).",
+      "confidence": "confirmed",
+      "detail": "Nvidia makes the chips that power most AI systems, and it is one of the largest companies in the world, so its moves pull the whole market. Even after today's jump, the stock is still well below where it was in October."
     },
     {
-      "title": "Worst week since April 2025",
-      "summary": "The S&P 500 and Dow both closed in correction, and the week was the worst since the tariff turmoil of April 2025; the S&P 500's seven-day losing streak is the longest since February 2020 (Schwab; AP).",
-      "confidence": "confirmed"
+      "title": "Relief rally after the worst week in years",
+      "summary": "All three major U.S. indexes are sharply higher after last week's selloff, when the S&P 500 fell 8.6% and the Nasdaq dropped about 10% (Yahoo Finance).",
+      "confidence": "confirmed",
+      "detail": "After very steep drops, markets often have strong bounce days as some buyers step back in. One strong day does not by itself mean the slide is over, which is why many outlets are calling this a relief rally."
     },
     {
-      "title": "Volatility jumps",
-      "summary": "The VIX volatility index rose 26.2% to 35.89 on Friday and was up about 86% for the week; only 46% of S&P 500 stocks were above their 200-day moving average (The Closing Print; Schwab).",
-      "confidence": "confirmed"
+      "title": "Chipmakers and AI stocks lead the rebound",
+      "summary": "Intel rose about 13% to 14%, AMD about 6% to 7% and Oracle about 13%, while cloud-computing firms CoreWeave and Nebius jumped as much as 30% (Yahoo Finance; City A.M.).",
+      "confidence": "confirmed",
+      "detail": "Many companies depend on Nvidia's chips or sell to the same AI customers, so good news for Nvidia tends to lift the whole group. These same stocks led last week's drop."
     },
     {
-      "title": "Bond yields fall, gold drops",
-      "summary": "The 10-year Treasury yield fell to about 4.92% from 5.15% a week earlier, while gold fell about 4% on Friday to near $3,515-$3,539 (The Closing Print; JournalArta).",
-      "confidence": "confirmed"
+      "title": "Fear gauge eases but stays high",
+      "summary": "The VIX, Wall Street's measure of expected volatility, fell about 25% to roughly 26.8 at the open, though it remains in a range associated with nervous markets (JournalArta; 24/7 Wall St.).",
+      "confidence": "developing",
+      "detail": "The VIX rises when investors expect big price swings. A falling VIX means fear is cooling, but a reading in the mid-20s still signals more uncertainty than usual."
     },
     {
-      "title": "Rate hike priced in",
-      "summary": "CME FedWatch showed 92% odds of a December Fed rate increase and more than 80% odds of two or more increases by next June, after hawkish Fed minutes (Schwab).",
-      "confidence": "developing"
+      "title": "Short holiday week",
+      "summary": "U.S. markets are closed Thursday for Thanksgiving and close early at 1:00 PM ET Friday; Canada's TSX keeps normal hours (NYSE).",
+      "confidence": "confirmed",
+      "detail": "Holiday weeks often have fewer traders, which can make moves bigger than usual. Several major economic reports are being squeezed into Wednesday before the break."
     }
   ],
   "sectors": [
     {
       "name": "Technology",
-      "note": "Weakest sector; the technology fund (XLK) fell 7.27% Friday and 12.49% for the week, led by chipmakers (The Closing Print).",
-      "momentum": 8
+      "note": "Leading the market Monday, driven by Nvidia and other chipmakers, after being the weakest sector last week (Yahoo Finance; CNBC).",
+      "momentum": 88,
+      "detail": "Technology is the biggest part of the U.S. market by value, so when it moves, the indexes follow. Today's leadership is a reversal of last week's heavy selling."
     },
     {
-      "name": "Consumer Staples",
-      "note": "The only sector fund to rise Friday, with XLP up 0.67%; Colgate-Palmolive and Kraft Heinz each rose 1.89% (The Closing Print; JournalArta).",
-      "momentum": 70
+      "name": "Semiconductors",
+      "note": "Chip stocks are rebounding sharply: Nvidia up about 30%, Intel up about 13% to 14% and AMD up about 6% to 7% (Yahoo Finance; City A.M.).",
+      "momentum": 92,
+      "detail": "Semiconductors are the chips inside everything from phones to AI data centres. They tend to swing more than the overall market in both directions."
     },
     {
-      "name": "Health Care",
-      "note": "Nearly flat, with the sector fund down 0.12%; UnitedHealth rose 2.84% (The Closing Print; JournalArta).",
-      "momentum": 60
+      "name": "AI cloud providers",
+      "note": "CoreWeave and Nebius jumped as much as 30% after Huang's return (Yahoo Finance).",
+      "momentum": 85,
+      "detail": "These companies rent out computing power built on Nvidia chips. Their shares often move with Nvidia because their businesses depend on it."
     },
     {
-      "name": "Industrials / Consumer Discretionary",
-      "note": "Among the weaker groups Friday, with industrials down 3.09% and consumer discretionary down 2.95% (The Closing Print).",
-      "momentum": 25
+      "name": "Energy",
+      "note": "Oil prices are lower Monday, which is weighing on energy shares relative to tech (JournalArta).",
+      "momentum": 45,
+      "detail": "Energy companies earn more when oil prices are high, so falling oil usually holds them back. This matters for Canada, where energy is a large part of the TSX."
     }
   ],
   "watch_list": [
     {
-      "topic": "PCE inflation and GDP",
-      "why": "October PCE inflation, the second estimate of third-quarter GDP, durable goods and jobless claims are due Wednesday, Nov. 25 at 8:30 AM ET, with the Fed's Beige Book at 2 PM (JournalArta; Schwab).",
-      "confidence": "confirmed"
+      "topic": "Wednesday's economic reports",
+      "why": "October PCE inflation, the second estimate of third-quarter GDP, durable goods orders and jobless claims are all due Wednesday, Nov. 25 at 8:30 AM ET (JournalArta; Schwab).",
+      "confidence": "confirmed",
+      "detail": "PCE is the inflation measure the U.S. Federal Reserve watches most closely. Hotter-than-expected numbers could change expectations for interest rates, which affects both stocks and borrowing costs."
     },
     {
-      "topic": "Earnings this week",
-      "why": "HPE and Zoom report Monday; Dell, Workday, Autodesk, Best Buy, Medtronic and others Tuesday; Deere Wednesday morning (Schwab; JournalArta).",
-      "confidence": "confirmed"
+      "topic": "Whether the rebound holds",
+      "why": "Monday's jump follows seven straight losing days; outlets note the VIX is still elevated heading into a short, data-heavy week (24/7 Wall St.; Yahoo Finance).",
+      "confidence": "developing",
+      "detail": "Big bounce days are common during sharp selloffs. How stocks behave over the next few sessions will say more than any single day."
     },
     {
-      "topic": "Thanksgiving schedule and the Fed",
-      "why": "U.S. markets close Thursday, Nov. 26 and close early at 1 PM ET on Friday, Nov. 27; the next Fed decision is Dec. 9 (The Closing Print; Admirals).",
-      "confidence": "developing"
+      "topic": "Central bank decisions on Dec. 9",
+      "why": "The Bank of Canada announces its rate decision at 9:45 AM ET and the U.S. Federal Reserve at 2:00 PM ET on Wednesday, Dec. 9 (Bank of Canada; Federal Reserve).",
+      "confidence": "confirmed",
+      "detail": "These decisions set the base for mortgage, loan and savings rates. Markets often move in the days leading up to them as expectations shift."
     }
   ],
   "sources": [
-    {
-      "title": "The Closing Print — Post-Market & Weekly Summary, Nov 20, 2026",
-      "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-20/"
-    },
-    {
-      "title": "Charles Schwab — November Nightmare on Wall Street: AI Trade Cracks",
-      "url": "https://www.schwab.com/learn/story/market-volatility"
-    },
-    {
-      "title": "JournalArta — Stocks to Watch This Week: Nvidia, Workday, Deere and Thanksgiving PCE Data",
-      "url": "https://journalarta.com/en/2026/11/22/stocks-to-watch-this-week-nvidia-workday-deere-and-thanksgiving-pce-data/"
-    },
-    {
-      "title": "AP via 2News — S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-      "url": "https://www.2news.com/news/national/s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year/article_ba6a6c42-13b7-5e70-a230-660a1138d62c.html"
-    },
-    {
-      "title": "Rigzone (Bloomberg) — Oil Posts Third Weekly Loss Amid Surplus",
-      "url": "https://www.rigzone.com/news/oil_posts_third_weekly_loss_amid_surplus-20-nov-2026-185141-article"
-    },
-    {
-      "title": "MarketScreener (Reuters) — Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
-      "url": "https://www.marketscreener.com/news/wall-st-ends-sharply-lower-on-ai-selloff-s-p-500-dow-in-correction-ce785ed3dd80f527"
-    },
-    {
-      "title": "Admirals — Why Is the Stock Market Down Today? 20 November 2026",
-      "url": "https://admiralmarkets.com/analytics/traders-blog/why-is-the-stock-market-down-today-20-november-2026"
-    }
+    { "title": "Yahoo Finance — Stock market today: Nvidia soars after company reinstates Jensen Huang as CEO (Nov 23, 2026)", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html" },
+    { "title": "Yahoo Finance — Stock Market News for Nov 23, 2026 (Friday closes, weekly roundup)", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-23-073600160.html" },
+    { "title": "CNBC — Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO", "url": "https://cnbc.com/2026/11/23/anthropic-nvidia-shares.html" },
+    { "title": "The Hill — Nvidia stock surges as board reinstates CEO Jensen Huang", "url": "https://thehill.com/business/6237101-nvidia-stock-surges-huang-reinstated/" },
+    { "title": "City A.M. — Tech stocks surge as Jensen Huang is reinstated as Nvidia chief executive", "url": "https://www.cityam.com/tech-stocks-surge-as-jensen-huang-is-reinstated-as-nvidia-chief-executive/" },
+    { "title": "JournalArta — S&P 500 +3.9%, Nasdaq +5.8% at the open as VIX drops", "url": "https://journalarta.com/en/2026/11/23/stock-market-today-sp-500-jumps-3-9-and-nasdaq-5-8-at-the-open-as-vix-drops/" },
+    { "title": "24/7 Wall St. — Dow, S&P 500 and Nasdaq surge as Nvidia leads a major AI rebound", "url": "https://247wallst.com/investing/2026/11/23/stock-market-today-dow-sp-500-and-nasdaq-surge-as-nvidia-leads-a-major-ai-rebound/" },
+    { "title": "NYSE — Holidays & trading hours", "url": "https://www.nyse.com/trade/hours-calendars" },
+    { "title": "Bank of Canada — 2026 rate announcement schedule", "url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/" }
   ]
 }

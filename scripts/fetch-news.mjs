@@ -9,15 +9,25 @@ const FEEDS = [
   { source: 'Finance Canada', official: true, url: 'https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentfinance&sort=publishedDate&orderBy=desc&pick=20&format=atom' },
   { source: 'Statistics Canada', official: true, url: 'https://www150.statcan.gc.ca/n1/rss/dai-quo/0-eng.atom' },
   { source: 'U.S. SEC', official: true, url: 'https://www.sec.gov/news/pressreleases.rss' },
-  // Wall Street and Canadian business news
+  // Business news from a wide mix of outlets (U.S., Canadian, public broadcaster, wire-style and markets desks)
+  // so no single outlet or viewpoint dominates. Each outlet is capped at PER_SOURCE stories.
   { source: 'WSJ Markets', url: 'https://feeds.content.dowjones.io/public/rss/RSSMarketsMain' },
   { source: 'CNBC', url: 'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114' },
   { source: 'MarketWatch', url: 'https://feeds.content.dowjones.io/public/rss/mw_topstories' },
+  { source: 'Bloomberg', url: 'https://feeds.bloomberg.com/markets/news.rss' },
+  { source: 'Yahoo Finance', url: 'https://finance.yahoo.com/news/rssindex' },
+  { source: 'Investing.com', url: 'https://www.investing.com/rss/news_25.rss' },
+  { source: 'Fox Business', url: 'https://moxie.foxbusiness.com/google-publisher/markets.xml' },
   { source: 'Globe and Mail', url: 'https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/' },
+  { source: 'Financial Post', url: 'https://financialpost.com/category/news/feed' },
+  { source: 'CBC Business', url: 'https://www.cbc.ca/webfeed/rss/rss-business' },
 ];
+// Opinion columns and editorials are left out so the list sticks to reported news.
+const OPINION = /\/(opinion|opinions|commentary|editorials?|columnists?|perspectives?|op-?ed)\//i;
+const OPINION_TITLE = /^(opinion|commentary|editorial|analysis|column)\s*[:|\-]|\|\s*opinion\b/i;
 
-const MAX_ARTICLES = 12; // main "Latest headlines" list (news outlets only)
-const PER_SOURCE = 3;    // cap per outlet so one source can't take over the list
+const MAX_ARTICLES = 14; // main "Latest headlines" list (news outlets only)
+const PER_SOURCE = 2;    // cap per outlet so one source can't take over the list
 const MAX_OFFICIAL = 8;  // "Official releases" card
 const OFFICIAL_PER_SOURCE = 2;
 const MAX_TICKER = 12;   // rows in "Throughout the Day"
@@ -99,10 +109,42 @@ const seen = new Set();
 const unique = all.filter(i => !seen.has(i.url) && seen.add(i.url));
 
 const capBy = (items, per, max) => { const n = {}; return items.filter(i => (n[i.source] = (n[i.source] || 0) + 1) <= per).slice(0, max); };
-const news = unique.filter(i => !i.official);
+
+// ---------- Rank by importance, not just by time ----------
+// A story ranks higher when several different outlets are covering it, when it is recent, and when it
+// mentions a stock or asset making a big move today (from prices.json). This keeps big news (e.g. a 25%
+// move in a mega-cap) at the top no matter which outlet published first.
+const STOP = new Set('about after again against amid as at be been before being but by can could did does down for from had has have how into is it its just more most new news not now of off on once only or our out over says said say so some stock stocks than that the their them then there these they this those to under up was were what when where which while who why will with would year years your week today market markets shares share price prices report reports first live updates'.split(' '));
+const words = t => new Set((t.toLowerCase().match(/[a-z][a-z0-9'&.-]{2,}/g) || []).map(w => w.replace(/['.]+$/, '')).filter(w => w.length > 2 && !STOP.has(w)));
+let hot = [];
+try {
+  const p = JSON.parse(readFileSync('prices.json', 'utf8'));
+  hot = [].concat(p.stocks || [], (p.stock_movers || []).map(m => ({ ...m, change_pct: m.pct })), p.crypto || [])
+    .filter(x => typeof x.change_pct === 'number' && Math.abs(x.change_pct) >= 5)
+    .map(x => (x.name || '').replace(/\s*\(.*\)/, '').toLowerCase().split(/[ ,]/)[0]).filter(n => n.length > 2);
+} catch (e) { /* no prices yet */ }
+function rank(items) {
+  const now = Date.now();
+  items.forEach(i => { i._w = words(i.title); });
+  items.forEach(i => {
+    const outlets = new Set([i.source]);
+    for (const j of items) {
+      if (j.source === i.source) continue;
+      let shared = 0; for (const w of i._w) if (j._w.has(w)) shared++;
+      if (shared >= 2) outlets.add(j.source);
+    }
+    i.coverage = outlets.size;
+    const ageH = (now - i.date) / 36e5;
+    const t = i.title.toLowerCase();
+    const hotHit = hot.some(h => t.includes(h));
+    i._score = (i.coverage - 1) * 3 + (hotHit ? 4 : 0) - ageH / 3;
+  });
+  return items.sort((a, b) => b._score - a._score);
+}
+const news = rank(unique.filter(i => !i.official && !OPINION.test(i.url) && !OPINION_TITLE.test(i.title)));
 const articles = capBy(news, PER_SOURCE, MAX_ARTICLES);
 const used = new Set(articles.map(a => a.url));
-const ticker = news.filter(i => !used.has(i.url)).slice(0, MAX_TICKER);
+const ticker = news.filter(i => !used.has(i.url)).sort((a, b) => b.date - a.date).slice(0, MAX_TICKER);
 const official = capBy(unique.filter(i => i.official), OFFICIAL_PER_SOURCE, MAX_OFFICIAL);
 
 // ---------- Better photos ----------
@@ -154,6 +196,12 @@ const SOURCE_PHOTO_PAGES = {
   'MarketWatch': ['New York Stock Exchange', 'Wall Street'],
   'CNBC': ['New York Stock Exchange', 'Wall Street'],
   'Globe and Mail': ['Toronto Stock Exchange', 'Bay Street', 'Financial District, Toronto'],
+  'Bloomberg': ['New York Stock Exchange', 'Wall Street'],
+  'Yahoo Finance': ['Wall Street', 'New York Stock Exchange'],
+  'Investing.com': ['New York Stock Exchange', 'Wall Street'],
+  'Fox Business': ['Wall Street', 'New York Stock Exchange'],
+  'Financial Post': ['Bay Street', 'Toronto Stock Exchange'],
+  'CBC Business': ['Bay Street', 'Financial District, Toronto'],
 };
 const sourcePhoto = {};
 async function wikiPhoto(source) {
@@ -191,11 +239,14 @@ const now = new Date();
 const card = a => ({
   title: a.title, source: a.source, url: a.url, snippet: a.snippet, image: a.image || undefined, fallback_image: a.fallback_image || undefined,
   time: fmt(a.date, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }),
+  coverage: a.coverage > 1 ? a.coverage : undefined,
 });
 const out = {
   generated_at: fmt(now, { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' ET',
   date_key: now.toLocaleDateString('en-CA', { timeZone: TZ }),
+  updated_ts: now.getTime(),
   articles: articles.map(card),
+  outlets: [...new Set(results.flat().filter(i => !i.official).map(i => i.source))],
   official: official.map(card),
   ticker: ticker.map(t => {
     const sameDay = t.date.toLocaleDateString('en-CA', { timeZone: TZ }) === now.toLocaleDateString('en-CA', { timeZone: TZ });

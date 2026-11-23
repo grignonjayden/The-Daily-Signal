@@ -485,6 +485,24 @@
   .scroll-arrow[hidden] { display: none; }
   .scroll-arrow.right:not([hidden]) { animation: arrowNudge 1.6s ease-in-out 3; }
   @keyframes arrowNudge { 0%,100% { transform: translateY(-50%); } 50% { transform: translate(4px,-50%); } }
+  /* Key Times */
+  .kt-status { font-size: 13px; font-weight: 700; color: var(--ink); background: var(--surface-alt); border-radius: var(--r-sm); padding: 10px 14px; margin: 2px 0 10px; }
+  .kt-list { display: flex; flex-direction: column; gap: 2px; }
+  .kt-row { display: grid; grid-template-columns: 128px 1fr; gap: 12px; padding: 9px 10px; border-radius: var(--r-sm); }
+  .kt-row.key .kt-label { color: var(--mint); }
+  .kt-row.now { background: var(--mint-soft); }
+  .kt-row.next { background: var(--pink-soft); }
+  .kt-time { font-size: 12px; font-weight: 700; color: var(--ink-soft); padding-top: 2px; font-variant-numeric: tabular-nums; }
+  .kt-label { font-size: 14px; font-weight: 700; margin: 0; color: var(--ink); }
+  .kt-why { font-size: 12.5px; color: var(--ink-soft); margin: 2px 0 0; line-height: 1.4; }
+  .kt-tag { display: inline-block; margin-left: 8px; font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; padding: 2px 8px; border-radius: 99px; background: var(--pink); color: #fff; vertical-align: 2px; }
+  .kt-tag.now { background: var(--mint); color: var(--surface); }
+  .kt-dates { margin-top: 12px; border-top: 1px solid var(--line); padding-top: 10px; }
+  .kt-dates-title { font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .05em; color: var(--ink-faint); margin: 0 0 6px; }
+  .kt-date { display: flex; gap: 12px; font-size: 13px; color: var(--ink); text-decoration: none; padding: 5px 2px; }
+  .kt-date-day { font-weight: 700; min-width: 104px; color: var(--ink-soft); }
+  .news-coverage { font-size: 10.5px; font-weight: 700; color: var(--pink-deep); background: var(--pink-soft); border-radius: 99px; padding: 1px 8px; }
+  @media (max-width: 600px) { .kt-row { grid-template-columns: 1fr; gap: 2px; } }
 </style>
 </head>
 <body class="splash-on">
@@ -673,7 +691,124 @@ function deltaLabel(direction) {
   return { text: '● Flat', cls: 'flat' };
 }
 
-/* --- live prices (prices.json, refreshed ~every 15 min) --- */
+
+/* --- Key Times: the moments that matter most on each tab (all times Eastern) --- */
+const KT_ET = () => { // current Eastern time pieces
+  const p = Object.fromEntries(new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Toronto', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hour12: false, weekday: 'short' }).formatToParts(new Date()).map(x => [x.type, x.value]));
+  return { date: p.year + '-' + p.month + '-' + p.day, dow: p.weekday, min: (+p.hour % 24) * 60 + (+p.minute) };
+};
+const KT_MIN = t => { const [h, m] = t.split(':').map(Number); return h * 60 + m; };
+const KT_FMT = t => { let [h, m] = t.split(':').map(Number); const ap = h >= 12 ? 'PM' : 'AM'; h = h % 12 || 12; return h + ':' + String(m).padStart(2, '0') + ' ' + ap; };
+const KT_IN = mins => mins < 60 ? mins + 'm' : Math.floor(mins / 60) + 'h ' + (mins % 60) + 'm';
+// U.S. exchange holidays / early closes (NYSE calendar). TSX keeps normal hours on U.S. Thanksgiving.
+const US_MARKET_DAYS = { '2026-11-26': 'closed', '2026-11-27': 'early', '2026-12-24': 'early', '2026-12-25': 'closed', '2027-01-01': 'closed' };
+const KEY_DATES = [
+  { date: '2026-11-25', tabs: ['markets', 'government'], label: 'U.S. inflation (PCE), GDP and jobless claims · 8:30 AM', url: 'https://www.bea.gov/news/schedule' },
+  { date: '2026-11-26', tabs: ['markets', 'crypto'], label: 'U.S. markets closed for Thanksgiving (TSX open normal hours)', url: 'https://www.nyse.com/trade/hours-calendars' },
+  { date: '2026-11-27', tabs: ['markets', 'crypto'], label: 'U.S. markets close early at 1:00 PM', url: 'https://www.nyse.com/trade/hours-calendars' },
+  { date: '2026-12-09', tabs: ['markets', 'crypto', 'government'], label: 'Bank of Canada rate decision 9:45 AM · U.S. Fed decision 2:00 PM', url: 'https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/' },
+  { date: '2026-12-24', tabs: ['markets'], label: 'U.S. markets close early at 1:00 PM', url: 'https://www.nyse.com/trade/hours-calendars' },
+  { date: '2026-12-25', tabs: ['markets'], label: 'Markets closed for Christmas', url: 'https://www.nyse.com/trade/hours-calendars' },
+];
+const KEY_TIMES = {
+  markets: {
+    title: 'Key Times Today · Stocks (ET)', weekdaysOnly: true,
+    rows: [
+      { from: '04:00', to: '09:30', label: 'Pre-market', why: 'Early trading on overnight news and earnings. Volume is thin, so swings can be exaggerated.' },
+      { from: '08:30', label: 'Economic data', why: 'U.S. and Canadian jobs, inflation and GDP reports usually come out now and can move markets before the open.' },
+      { from: '09:30', to: '10:30', label: 'Opening bell + first hour', why: 'The busiest, most volatile hour. Overnight news gets priced in.', key: true },
+      { from: '11:30', to: '14:00', label: 'Midday lull', why: 'Trading slows down. Moves are usually smaller and mean less.' },
+      { from: '15:00', to: '16:00', label: 'Power hour', why: 'Volume picks back up as big funds set positions before the close.', key: true },
+      { from: '16:00', label: 'Closing bell (NYSE, Nasdaq, TSX)', why: "The day's official closing prices are set.", key: true },
+      { from: '16:00', to: '20:00', label: 'After hours', why: 'Most big companies report earnings now. Thin trading, big reactions.' },
+    ],
+  },
+  crypto: {
+    title: 'Key Times · Crypto (ET, open 24/7)',
+    rows: [
+      { from: '03:00', to: '08:00', label: 'Europe trading', why: 'London opens. Activity picks up after the quiet overnight stretch.' },
+      { from: '08:00', to: '12:00', label: 'U.S.–Europe overlap', why: 'Typically the busiest window of the day for crypto, with the most buyers and sellers.', key: true },
+      { from: '09:30', label: 'U.S. stock open', why: 'Crypto often moves with tech stocks, especially on big market days.', key: true },
+      { from: '16:00', label: 'U.S. stock close', why: 'Bitcoin and Ether ETF flows for the day get tallied after this.' },
+      { from: '19:00', label: 'Daily candle close (00:00 UTC)', why: 'Most exchanges reset their 24-hour numbers here, so "today\'s change" restarts.', key: true },
+      { from: '19:00', to: '03:00', label: 'Asia trading', why: 'Tokyo, Hong Kong and Singapore drive overnight moves.' },
+    ],
+    note: 'Weekends usually have fewer traders, so prices can jump more sharply. CME bitcoin futures pause from Friday 5 PM to Sunday 6 PM ET.',
+  },
+  government: {
+    title: 'Key Times · Government & Central Banks (ET)', weekdaysOnly: true,
+    rows: [
+      { from: '08:30', label: 'Statistics Canada "The Daily" + U.S. data', why: 'Official numbers on jobs, inflation, GDP and trade are released.', key: true },
+      { from: '09:45', label: 'Bank of Canada rate decisions', why: 'On scheduled dates only. Moves mortgage, loan and savings rates. Next: Wed Dec 9.', key: true },
+      { from: '14:00', label: 'U.S. Federal Reserve decisions', why: 'On scheduled dates only; press conference at 2:30 PM. Next: Wed Dec 9.', key: true },
+      { from: '14:15', to: '15:00', label: 'Question Period (House of Commons)', why: 'Mon–Thu on sitting days (Fri at 11:15 AM). Ministers answer on the day\'s big issues.' },
+      { from: '16:00', label: 'Federal budgets and economic updates', why: 'Usually tabled after markets close, so the news lands after trading ends.' },
+    ],
+  },
+};
+function usMarketStatus(et) {
+  const tag = US_MARKET_DAYS[et.date];
+  if (et.dow === 'Sat' || et.dow === 'Sun') return 'U.S. and TSX stock markets are closed for the weekend · opens Monday 9:30 AM ET';
+  if (tag === 'closed') return 'U.S. stock markets are closed today for a holiday';
+  const close = tag === 'early' ? KT_MIN('13:00') : KT_MIN('16:00');
+  if (et.min < KT_MIN('09:30')) return 'Stock markets open in ' + KT_IN(KT_MIN('09:30') - et.min) + ' (9:30 AM ET)';
+  if (et.min < close) return 'Stock markets are open · close in ' + KT_IN(close - et.min) + (tag === 'early' ? ' (early 1:00 PM close today)' : ' (4:00 PM ET)');
+  return 'Stock markets are closed for the day · opens next trading day 9:30 AM ET';
+}
+function buildKeyTimes(tab) {
+  const cfg = KEY_TIMES[tab];
+  if (!cfg) return el('div');
+  const et = KT_ET();
+  const weekend = et.dow === 'Sat' || et.dow === 'Sun';
+  const widget = widgetShell('w-span-12 key-times', 'history', 'var(--sky-soft)', 'var(--sky)', cfg.title);
+  const status = tab === 'crypto' ? 'Crypto trades around the clock · it is ' + KT_FMT(String(Math.floor(et.min / 60)) + ':' + String(et.min % 60).padStart(2, '0')) + ' ET'
+    : tab === 'markets' ? usMarketStatus(et)
+    : (weekend ? 'No scheduled releases on weekends' : 'Government releases happen on weekday mornings and afternoons');
+  widget.appendChild(el('p', { className: 'kt-status', text: status }));
+  const list = el('div', { className: 'kt-list' });
+  let nextMarked = false;
+  cfg.rows.forEach(r => {
+    const a = KT_MIN(r.from), b = r.to ? KT_MIN(r.to) : a + 15;
+    const inWin = b > a ? (et.min >= a && et.min < b) : (et.min >= a || et.min < b);
+    const live = !(cfg.weekdaysOnly && weekend) && inWin;
+    let next = false;
+    if (!live && !nextMarked && !(cfg.weekdaysOnly && weekend) && a > et.min) { next = true; nextMarked = true; }
+    const row = el('div', { className: 'kt-row' + (live ? ' now' : '') + (next ? ' next' : '') + (r.key ? ' key' : '') });
+    row.appendChild(el('div', { className: 'kt-time', text: KT_FMT(r.from) + (r.to ? '–' + KT_FMT(r.to) : '') }));
+    const body = el('div', { className: 'kt-body' });
+    const t = el('p', { className: 'kt-label', text: r.label });
+    if (live) t.appendChild(el('span', { className: 'kt-tag now', text: 'Now' }));
+    else if (next) t.appendChild(el('span', { className: 'kt-tag', text: 'Next · in ' + KT_IN(a - et.min) }));
+    body.appendChild(t);
+    body.appendChild(el('p', { className: 'kt-why', text: r.why }));
+    row.appendChild(body);
+    list.appendChild(row);
+  });
+  widget.appendChild(list);
+  const dates = KEY_DATES.filter(d => d.tabs.includes(tab) && d.date >= et.date).slice(0, 4);
+  if (dates.length) {
+    const dl = el('div', { className: 'kt-dates' });
+    dl.appendChild(el('p', { className: 'kt-dates-title', text: 'Dates ahead' }));
+    dates.forEach(d => {
+      const row = el('a', { className: 'kt-date', href: d.url });
+      row.appendChild(el('span', { className: 'kt-date-day', text: new Date(d.date + 'T12:00:00').toLocaleDateString('en-CA', { weekday: 'short', month: 'short', day: 'numeric' }) }));
+      row.appendChild(el('span', { text: d.label }));
+      dl.appendChild(row);
+    });
+    widget.appendChild(dl);
+  }
+  if (cfg.note) widget.appendChild(el('p', { className: 'live-updated', text: cfg.note }));
+  return widget;
+}
+// Shown under live prices: when the numbers were last refreshed, with a warning if they are behind.
+function freshness(ts, label) {
+  if (!ts) return label;
+  const mins = Math.round((Date.now() - ts) / 60000);
+  const ago = mins < 1 ? 'just now' : mins < 60 ? mins + ' min ago' : Math.round(mins / 60) + ' h ago';
+  return (mins > 45 ? '⚠ Delayed · last refreshed ' : 'Live · refreshed ') + ago;
+}
+
+/* --- live prices (prices.json, refreshed ~every 5 min; crypto refreshed straight from CoinGecko in the browser) --- */
 let PRICES = null;
 function liveSpark(points, up) {
   const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
@@ -719,7 +854,8 @@ function buildLivePrices(title, items) {
   items.forEach((p, i) => scroll.appendChild(priceChip(p, i)));
   widget.appendChild(scroll);
   const note = el('p', { className: 'live-updated' });
-  note.appendChild(document.createTextNode('Live · updated ' + (PRICES.generated_at || '') + ' · refreshes about every 15 minutes · '));
+  const ts = items === PRICES.crypto_live_items ? (PRICES.crypto_ts || PRICES.updated_ts) : PRICES.updated_ts;
+  note.appendChild(document.createTextNode(freshness(ts, 'Live · updated ' + (PRICES.generated_at || '')) + ' · refreshes every few minutes · '));
   (PRICES.sources || []).forEach((src, i) => {
     if (i) note.appendChild(document.createTextNode(', '));
     note.appendChild(el('a', { href: src.url, text: src.title.split(' — ')[0] }));
@@ -1039,7 +1175,13 @@ function renderBriefing(data, dateKey) {
         .map(s => ({ name: s.name, pct: s.change_pct, url: s.url, sub: s.symbol + ' sector ETF' }));
       mainPanel.appendChild(buildLiveMoves('Sectors Today (live)', 'sectors', rows));
     }
+    if (Array.isArray(PRICES.stock_movers) && PRICES.stock_movers.length) {
+      const rows = PRICES.stock_movers.map(m => ({ name: m.name + (m.symbol ? ' (' + m.symbol + ')' : ''), pct: m.pct, url: m.url, sub: '$' + fmtNum(m.price) }));
+      mainPanel.appendChild(buildLiveMoves("Today's Biggest Stock Moves (US$2B+ companies, live)", 'trophy', rows));
+    }
+    if (Array.isArray(PRICES.stocks) && PRICES.stocks.length) mainPanel.appendChild(buildLivePrices('Big Names (live)', PRICES.stocks));
   }
+  mainPanel.appendChild(buildKeyTimes('markets'));
 
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
@@ -1177,12 +1319,14 @@ function renderCrypto(data, dateKey) {
       items.push({ name: 'Total market cap', price: g.market_cap_usd, prefix: '$', change_pct: g.market_cap_change_pct, url: g.url });
       items.push({ name: 'BTC dominance', price: g.btc_dominance, suffix: '%', change_pct: null, url: g.url });
     }
-    mainPanel.appendChild(buildLivePrices('Live Crypto', items.concat(PRICES.crypto)));
+    PRICES.crypto_live_items = items.concat(PRICES.crypto);
+    mainPanel.appendChild(buildLivePrices('Live Crypto', PRICES.crypto_live_items));
     if (Array.isArray(PRICES.crypto_movers) && PRICES.crypto_movers.length) {
       const rows = PRICES.crypto_movers.map(m => ({ name: m.name, pct: m.pct, url: m.url, sub: '$' + fmtNum(m.price) }));
       mainPanel.appendChild(buildLiveMoves('Biggest 24h Moves (top 100, live)', 'trophy', rows));
     }
   }
+  mainPanel.appendChild(buildKeyTimes('crypto'));
 
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
@@ -1341,6 +1485,7 @@ function renderNews(data, dateKey) {
     const body = el('div', { className: 'news-card-body' });
     const top = el('div', { className: 'news-card-top' });
     top.appendChild(el('span', { className: 'news-source', text: a.source || 'Yahoo Finance' }));
+    if (a.coverage > 1) top.appendChild(el('span', { className: 'news-coverage', text: 'Covered by ' + a.coverage + ' outlets' }));
     if (a.time) top.appendChild(el('span', { className: 'news-time', text: a.time }));
     body.appendChild(top);
     body.appendChild(el('p', { className: 'news-title', text: a.title || '' }));
@@ -1350,6 +1495,7 @@ function renderNews(data, dateKey) {
     list.appendChild(card);
   });
   widget.appendChild(list);
+  widget.appendChild(el('p', { className: 'live-updated', text: freshness(data.updated_ts, 'Updated ' + (data.generated_at || '')) + ' · Ranked by how many outlets are covering a story and how recent it is, with at most 2 stories per outlet and opinion columns left out' + (Array.isArray(data.outlets) && data.outlets.length ? ' · Outlets: ' + data.outlets.join(', ') : '') }));
   mainPanel.appendChild(widget);
 
   // Official releases — Fed, Bank of Canada, Finance Canada, StatCan, SEC
@@ -1390,7 +1536,7 @@ function renderNews(data, dateKey) {
       tickerList.appendChild(row);
     });
     tickerWidget.appendChild(tickerList);
-    tickerWidget.appendChild(el('div', { className: 'ticker-caption', text: "Updates automatically about every 15 minutes from the Federal Reserve, Bank of Canada, Finance Canada, Statistics Canada and the SEC, plus WSJ, CNBC, MarketWatch and the Globe and Mail. Tap any headline to read the original source." }));
+    tickerWidget.appendChild(el('div', { className: 'ticker-caption', text: "Updates automatically every few minutes from the Federal Reserve, Bank of Canada, Finance Canada, Statistics Canada and the SEC, plus a mix of U.S. and Canadian business outlets. Tap any headline to read the original source." }));
     mainPanel.appendChild(tickerWidget);
   }
 
@@ -1705,6 +1851,7 @@ function renderGovernment(data, dateKey) {
   dateline.textContent = 'Government decisions for ' + fmtDateHuman(data.date_key || dateKey) + (data.generated_at ? ' · updated ' + data.generated_at : '');
   mainPanel.innerHTML = '';
   const items = data.items || [];
+  mainPanel.appendChild(buildKeyTimes('government'));
   const widget = widgetShell('w-span-12', 'parliament', 'var(--sky-soft)', 'var(--sky)', 'Government Decisions', items.length);
   if (!items.length) {
     widget.appendChild(el('div', { className: 'empty' }));
@@ -1806,7 +1953,7 @@ async function generateBriefing() {
     await loadPastList(activeTab);
   } catch (e) { /* handled inside loadPastList */ }
   const note = el('div', { className: 'error-box note-box' });
-  note.textContent = "Prices refresh about every 15 minutes and news about every 15 minutes. Themes and analysis are researched and rewritten by Claude at 7:35 AM, 12:35 PM and 4:35 PM ET.";
+  note.textContent = "Prices and news refresh every few minutes (crypto live in your browser). Each section shows when it was last refreshed. Themes and analysis are researched and rewritten by Claude at 7:35 AM, 12:35 PM and 4:35 PM ET.";
   mainPanel.prepend(note);
 }
 
@@ -1822,7 +1969,7 @@ function setTheme(t, save) {
 setTheme(document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light', false);
 themeSwitch.addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark', true));
 
-// Live data: news.json refreshes every ~30 min (GitHub Action);
+// Live data: news.json refreshes every ~5 min (GitHub Action);
 // markets.json and crypto.json are rewritten by Claude each morning (scheduled task).
 const liveLoaded = { markets: false, crypto: false, news: false, canada: false, government: false };
 let tabSwitched = false;
@@ -1854,9 +2001,41 @@ async function loadPrices() {
     } catch (e) { /* try the next source */ }
   }
 }
-function loadAllLive() { return Promise.all(Object.keys(liveLoaded).map(loadLive).concat(loadPrices())); }
+// Crypto never closes, so the browser pulls it straight from CoinGecko (free, no key) on top of prices.json.
+async function loadCryptoDirect() {
+  if (!PRICES) return;
+  try {
+    const base = 'https://api.coingecko.com/api/v3';
+    const [coinsRes, globRes] = await Promise.all([
+      fetch(base + '/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=true&price_change_percentage=24h'),
+      fetch(base + '/global'),
+    ]);
+    if (!coinsRes.ok) return;
+    const coins = await coinsRes.json();
+    const skip = ['usdt', 'usdc', 'steth', 'wsteth', 'wbtc', 'weth', 'usds', 'usde'];
+    PRICES.crypto = coins.slice(0, 10).filter(c => !skip.includes(c.symbol)).slice(0, 8).map(c => ({
+      name: c.name + ' (' + c.symbol.toUpperCase() + ')', price: c.current_price, prefix: '$',
+      change_pct: c.price_change_percentage_24h != null ? +c.price_change_percentage_24h.toFixed(2) : null,
+      spark: ((c.sparkline_in_7d && c.sparkline_in_7d.price) || []).filter((_, i, a) => i % 6 === 0 || i === a.length - 1),
+      url: 'https://www.coingecko.com/en/coins/' + c.id,
+    }));
+    const ranked = coins.filter(c => c.price_change_percentage_24h != null && !/usd/i.test(c.symbol)).sort((a, b) => b.price_change_percentage_24h - a.price_change_percentage_24h);
+    PRICES.crypto_movers = ranked.slice(0, 4).concat(ranked.slice(-4).reverse()).map(c => ({
+      name: c.name + ' (' + c.symbol.toUpperCase() + ')', pct: +c.price_change_percentage_24h.toFixed(2), price: c.current_price, url: 'https://www.coingecko.com/en/coins/' + c.id,
+    }));
+    if (globRes.ok) {
+      const g = (await globRes.json()).data;
+      PRICES.crypto_global = { market_cap_usd: g.total_market_cap.usd, market_cap_change_pct: +g.market_cap_change_percentage_24h_usd.toFixed(2), btc_dominance: +g.market_cap_percentage.btc.toFixed(1), eth_dominance: +g.market_cap_percentage.eth.toFixed(1), url: 'https://www.coingecko.com/en/global-charts' };
+    }
+    PRICES.crypto_ts = Date.now();
+    if (activeTab === 'crypto' && (generatedToday || tabSwitched)) TAB_CONFIG.crypto.render(TAB_CONFIG.crypto.data, todayKey());
+  } catch (e) { /* keep prices.json numbers */ }
+}
+function loadAllLive() { return Promise.all(Object.keys(liveLoaded).map(loadLive).concat(loadPrices().then(loadCryptoDirect))); }
 loadAllLive();
-setInterval(loadAllLive, 5 * 60 * 1000);
+setInterval(loadAllLive, 3 * 60 * 1000);
+// Re-draw the Key Times every minute so 'Now' / 'Next' stay current.
+setInterval(function () { if (['markets', 'crypto', 'government'].includes(activeTab) && document.querySelector('.key-times') && (generatedToday || tabSwitched)) { const w = document.querySelector('.key-times'); w.replaceWith(buildKeyTimes(activeTab)); } }, 60 * 1000);
 
 (async function init() {
   renderTabBar();

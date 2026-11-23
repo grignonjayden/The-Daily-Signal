@@ -1,169 +1,185 @@
 {
-  "generated_at": "Nov 22, 2026, 4:50 PM ET",
+  "generated_at": "Nov 23, 2026, 10:55 AM ET",
   "market_pulse": [
     {
       "index": "Bitcoin (BTC)",
-      "note": "About $60,831 Sunday afternoon (17:13 UTC), up 1.08% over 24 hours but down 5.45% over seven days and 25.01% over 30 days; earlier Sunday it traded as high as about $61,094 (Coin-Turk; ad-hoc-news)."
+      "note": "About $62,925 Monday morning, up about 3.6% over 24 hours, after touching a low near $55,000 over the weekend (CoinGecko; Cryptonews).",
+      "detail": "Bitcoin is the largest cryptocurrency and usually sets the direction for the rest of the market. It is still roughly half of its October 2025 record of about $126,000, so today's gain is a bounce within a long slide."
     },
     {
       "index": "Ethereum (ETH)",
-      "note": "About $1,724, up 2.37% on the day, with a market value of about $210.7 billion; it is down about 5.8% from a week ago (MetaMask)."
+      "note": "About $1,779, up about 4.1% over 24 hours (CoinGecko).",
+      "detail": "Ethereum is the second-largest crypto and runs many apps and tokens. It often moves a bit more than Bitcoin in both directions."
     },
     {
       "index": "Total Crypto Market Cap",
-      "note": "About $2.01 trillion to $2.09 trillion depending on the data provider, down from more than $4 trillion at last year's peak (KuCoin; TV-Hub)."
+      "note": "About $2.17 trillion, up about 1.9% over 24 hours (CoinGecko).",
+      "detail": "This adds up the value of every coin CoinGecko tracks. It gives a quick read on whether money is flowing into or out of crypto overall."
     },
     {
       "index": "Bitcoin Dominance",
-      "note": "Between about 57.9% and 60% depending on the provider; Ethereum's share is about 9.8% (TV-Hub; KuCoin)."
+      "note": "Bitcoin makes up about 58.1% of the total crypto market; Ethereum about 10.0% (CoinGecko).",
+      "detail": "Dominance shows how much of the crypto market sits in Bitcoin. When it is high, investors are sticking with the biggest, most established coin rather than smaller, riskier ones."
     }
   ],
   "themes": [
     {
-      "title": "Rebound above $60,000",
-      "summary": "Bitcoin climbed back above $60,000 on Sunday after falling to about $55,081 on Saturday, its November low; it remains roughly half its October 2025 record of about $126,210 (Coin-Turk; ad-hoc-news).",
-      "confidence": "developing"
+      "title": "Crypto bounces with tech stocks",
+      "summary": "Bitcoin, Ether and other large coins are higher Monday as U.S. tech stocks rebound sharply after Nvidia reinstated Jensen Huang as CEO (CoinGecko; Yahoo Finance).",
+      "confidence": "confirmed",
+      "detail": "Crypto has been moving closely with big tech stocks this year, so a strong day on the Nasdaq often lifts crypto too. Both fell hard last week."
     },
     {
-      "title": "Seventh straight weekly loss",
-      "summary": "Bitcoin is on track for a seventh consecutive weekly decline, the longest losing streak since 2022 (ad-hoc-news).",
-      "confidence": "developing"
+      "title": "Recovery from the weekend low",
+      "summary": "Bitcoin climbed back above $60,000 after touching about $55,000 over the weekend, its lowest level in more than a year (Cryptonews; FXStreet).",
+      "confidence": "confirmed",
+      "detail": "Weekend trading is thinner, so prices can fall or rise faster than usual. The weekend low is now a level many traders are watching."
     },
     {
-      "title": "Extreme fear persists",
-      "summary": "The Crypto Fear & Greed Index read 11, 'extreme fear', on Sunday (Coin-Turk; KuCoin).",
-      "confidence": "confirmed"
+      "title": "Large altcoins lead the gains",
+      "summary": "Solana is up about 8.2%, XRP about 7.7% and Hyperliquid about 8.4% over 24 hours, outpacing Bitcoin (CoinGecko).",
+      "confidence": "confirmed",
+      "detail": "Smaller coins tend to swing more than Bitcoin. Bigger gains on up days usually come with bigger losses on down days."
     },
     {
-      "title": "Liquidations and ETF outflows",
-      "summary": "About $2.4 billion of crypto futures were liquidated on Nov. 20, more than $1 billion of it in Bitcoin, and U.S. spot Bitcoin ETFs saw about $1.1 billion of net outflows in the prior week, per CoinDesk figures cited by Coin-Turk (Coin-Turk).",
-      "confidence": "confirmed"
+      "title": "Sentiment is still fragile",
+      "summary": "Coverage describes the move as a rebound in a market that remains well below its highs, with Bitcoin down sharply over the past month (FXStreet; Cryptonews).",
+      "confidence": "developing",
+      "detail": "A single green day does not change the bigger picture. Bitcoin is still down about 25% from a month ago."
     },
     {
-      "title": "Prediction markets lean lower",
-      "summary": "Polymarket traders put 56% odds on Bitcoin trading at $55,000 before year-end and 30% on $50,000; Kalshi's median year-end forecast is about $61,062. Puts made up about 58% of options volume (KuCoin/Odaily).",
-      "confidence": "developing"
+      "title": "Rates and the Fed remain in focus",
+      "summary": "U.S. PCE inflation data on Wednesday and the Dec. 9 Federal Reserve decision are key events for crypto as well as stocks (FXStreet; JournalArta).",
+      "confidence": "developing",
+      "detail": "Higher interest rates make riskier assets like crypto less attractive, so inflation data and Fed decisions often move prices."
     }
   ],
   "categories": [
     {
       "name": "Majors (BTC/ETH)",
-      "note": "Bitcoin up about 1% and Ether up about 2.4% over 24 hours Sunday, but both are lower on the week (Coin-Turk; MetaMask)."
+      "note": "Bitcoin up about 3.6% and Ether up about 4.1% over 24 hours (CoinGecko).",
+      "detail": "Together these two make up close to 70% of the whole crypto market. When both rise, it usually signals broad buying rather than a single-coin story."
     },
     {
       "name": "Large-cap altcoins",
-      "note": "XRP was near $0.93 and Solana near $70 over the weekend, little changed (Cryptonews; crypto.news)."
+      "note": "Solana near $75.82 (+8.2%), XRP near $0.99 (+7.7%) and BNB near $571 (+2.7%) (CoinGecko).",
+      "detail": "These are the next-largest coins after Bitcoin and Ether. They tend to rise more on rebound days."
     },
     {
-      "name": "Small caps and trending tokens",
-      "note": "Small tokens led gains: Venice Token (VVV) topped CoinCodex's daily list, and GEODNET (GEOD) was among CoinMarketCap's trending coins earlier Sunday (CoinCodex; CoinMarketCap)."
+      "name": "Trending on CoinGecko",
+      "note": "Bitcoin, Hyperliquid (HYPE), Pudgy Penguins (PENGU) and Pearl (PEARL) are among the most-searched coins in the past 24 hours (CoinGecko).",
+      "detail": "Trending lists show what people are looking up, not what is a good buy. Small trending tokens can be very risky."
     },
     {
       "name": "Crypto stocks",
-      "note": "Strategy closed Friday at $77.80, down 9.7%, and Coinbase fell 6.3% to $101.97; both trade again Monday (Ted Pillows)."
+      "note": "Shares of crypto-linked companies such as Strategy (MSTR) and Coinbase (COIN) trade alongside the broader tech rebound Monday after a hard week.",
+      "detail": "These companies' shares often move more than Bitcoin itself because their businesses are tied to crypto prices and trading activity."
     }
   ],
   "watch_list": [
     {
-      "topic": "$55,000 and $62,500 levels",
-      "why": "Saturday's low near $55,081 and the year-end price levels priced in prediction markets frame the range traders are watching into the weekly close (Coin-Turk; KuCoin/Odaily).",
-      "confidence": "developing"
+      "topic": "$55,000 weekend low",
+      "why": "Bitcoin's weekend low near $55,000 is the level outlets are pointing to after Monday's bounce (Cryptonews; FXStreet).",
+      "confidence": "developing",
+      "detail": "Traders often watch recent lows to judge whether a drop has run its course. Falling back below it would undo the rebound."
     },
     {
       "topic": "Strategy index removal",
       "why": "MSCI is set to remove Strategy (MSTR), a large Bitcoin holder, from some U.S. indexes after the close on Nov. 30 (CoinStats).",
-      "confidence": "developing"
+      "confidence": "developing",
+      "detail": "Index funds that track MSCI would have to sell the stock. Because Strategy owns a lot of Bitcoin, news about it can ripple into crypto prices."
     },
     {
       "topic": "PCE data and the Fed",
-      "why": "October PCE inflation is due Wednesday, Nov. 25, ahead of the Dec. 9 Fed decision; analysts tie crypto's recovery to steadier tech stocks and rates (JournalArta; Coin-Turk).",
-      "confidence": "developing"
+      "why": "October PCE inflation is due Wednesday, Nov. 25 at 8:30 AM ET, ahead of the Fed's Dec. 9 decision at 2:00 PM ET (JournalArta; Federal Reserve).",
+      "confidence": "confirmed",
+      "detail": "Inflation data shapes what the Fed does with interest rates, which affects how much investors are willing to put into riskier assets like crypto."
     }
   ],
   "movers": [
     {
-      "name": "Venice Token (VVV)",
-      "pct": 23.77,
-      "note": "Up about 23.8% over 24 hours to near $24.90, the top gainer in the top 200 as of 1 AM ET (CoinCodex)."
+      "name": "Pearl (PEARL)",
+      "pct": 16.38,
+      "note": "Up about 16.4% over 24 hours and trending on CoinGecko (CoinGecko)."
     },
     {
-      "name": "GEODNET (GEOD)",
-      "pct": 15.27,
-      "note": "Up about 15.3% over 24 hours and trending on CoinMarketCap as of midday Sunday (CoinMarketCap)."
+      "name": "Pudgy Penguins (PENGU)",
+      "pct": 9.22,
+      "note": "Up about 9.2% over 24 hours (CoinGecko)."
     },
     {
-      "name": "Ethereum (ETH)",
-      "pct": 2.37,
-      "note": "Up about 2.4% to near $1,724 (MetaMask)."
+      "name": "Hyperliquid (HYPE)",
+      "pct": 8.39,
+      "note": "Up about 8.4% to near $68 (CoinGecko)."
     },
     {
-      "name": "Bitcoin (BTC)",
-      "pct": 1.08,
-      "note": "Up about 1.1% to near $60,831 as of 17:13 UTC (Coin-Turk)."
+      "name": "Solana (SOL)",
+      "pct": 8.18,
+      "note": "Up about 8.2% to near $75.82 (CoinGecko)."
     },
     {
-      "name": "Terra Classic (LUNC)",
-      "pct": -2.53,
-      "note": "Down about 2.5% over 24 hours as of 1 AM ET (CoinCodex)."
+      "name": "XRP (XRP)",
+      "pct": 7.72,
+      "note": "Up about 7.7% to near $0.99 (CoinGecko)."
     },
     {
-      "name": "Convex Finance (CVX)",
-      "pct": -4.95,
-      "note": "Down about 5.0%, the biggest loser in the top 200 as of 1 AM ET (CoinCodex)."
+      "name": "Sky (SKY)",
+      "pct": -2.14,
+      "note": "Down about 2.1% over 24 hours, one of the few trending coins lower (CoinGecko)."
     }
   ],
   "sources": [
     {
-      "title": "Coin-Turk — Bitcoin rebounds above $60,000 after November plunge, four-year cycle watched",
-      "url": "https://en.coin-turk.com/bitcoin-rebounds-above-60000-after-november-plunge-four-year-cycle-watched/"
+      "title": "CoinGecko — Bitcoin",
+      "url": "https://www.coingecko.com/en/coins/bitcoin"
     },
     {
-      "title": "ad-hoc-news — Bitcoin price extends seven-week losing streak as market rebounds above USD 60,000",
-      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/bitcoin-price-extends-seven-week-losing-streak-as-market-rebounds-above-usd-60-000/70544286"
+      "title": "CoinGecko — Ethereum",
+      "url": "https://www.coingecko.com/en/coins/ethereum"
     },
     {
-      "title": "MetaMask — Ethereum price",
-      "url": "https://metamask.com/price/ethereum"
+      "title": "CoinGecko — Global crypto market charts",
+      "url": "https://www.coingecko.com/en/global-charts"
     },
     {
-      "title": "KuCoin — Prediction markets show 56% chance Bitcoin hits $55,000 by year-end",
-      "url": "https://www.kucoin.com/news/flash/prediction-markets-show-56-chance-bitcoin-hits-55-000-by-year-end"
+      "title": "CoinGecko — Solana",
+      "url": "https://www.coingecko.com/en/coins/solana"
     },
     {
-      "title": "KuCoin — Total crypto market cap: $2.01 trillion",
-      "url": "https://www.kucoin.com/news/insight/BTC/6b0322249278e40007d91029"
+      "title": "CoinGecko — XRP",
+      "url": "https://www.coingecko.com/en/coins/xrp"
     },
     {
-      "title": "TV-Hub — Bitcoin Dominance November 2026",
-      "url": "https://www.tv-hub.org/guide/bitcoin-dominance"
+      "title": "CoinGecko — Hyperliquid",
+      "url": "https://www.coingecko.com/en/coins/hyperliquid"
     },
     {
-      "title": "CoinCodex — Daily Market Update for Nov 22, 2026",
-      "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/"
+      "title": "CoinGecko — Trending",
+      "url": "https://www.coingecko.com/en/highlights/trending-crypto"
     },
     {
-      "title": "CoinMarketCap — Cryptocurrency Prices, Charts and Market Capitalizations",
-      "url": "https://coinmarketcap.com/"
+      "title": "Cryptonews — Bitcoin and Ethereum bounce back",
+      "url": "https://cryptonews.com/news/crypto-news-bitcoin-ethereum-recovery"
     },
     {
-      "title": "crypto.news — Bitcoin price stalls near $60K as Pi Network rebounds, VVV jumps 20%",
-      "url": "https://crypto.news/bitcoin-price-pi-network-vvv-weekend-recovery/"
+      "title": "FXStreet — Bitcoin, Ethereum, XRP rise despite fragile sentiment",
+      "url": "https://fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rise-despite-persistent-fragile-market-sentiment-202611231123"
     },
     {
-      "title": "Cryptonews — Bitcoin Price Prediction: Arthur Hayes Warns of a $50,000 Test",
-      "url": "https://cryptonews.net/news/bitcoin/33790998/"
+      "title": "Yahoo Finance — Stock market today, Nov 23, 2026",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html"
     },
     {
-      "title": "Ted Pillows — Crypto & Finance market report, Saturday, November 21, 2026",
-      "url": "https://tedpillows.substack.com/p/crypto-and-finance-market-report-13a"
+      "title": "JournalArta — Stock market today, Nov 23, 2026",
+      "url": "https://journalarta.com/en/2026/11/23/stock-market-today-sp-500-jumps-3-9-and-nasdaq-5-8-at-the-open-as-vix-drops/"
+    },
+    {
+      "title": "Federal Reserve — FOMC meeting calendar",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
     },
     {
       "title": "CoinStats — Bitcoin (BTC) News Today",
       "url": "https://coinstats.app/ai/a/latest-news-for-bitcoin"
-    },
-    {
-      "title": "JournalArta — Stocks to Watch This Week: Nvidia, Workday, Deere and Thanksgiving PCE Data",
-      "url": "https://journalarta.com/en/2026/11/22/stocks-to-watch-this-week-nvidia-workday-deere-and-thanksgiving-pce-data/"
     }
   ]
 }
