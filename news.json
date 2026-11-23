@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 23, 2026, 10:26 AM ET",
+  "generated_at": "Nov 23, 2026, 10:32 AM ET",
   "date_key": "2026-11-23",
-  "updated_ts": 1795447603374,
+  "updated_ts": 1795447920803,
   "articles": [
     {
       "title": "Trump tells CNBC he spoke to Nvidia board directly about Jensen Huang",
@@ -9,7 +9,7 @@
       "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
       "snippet": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
       "image": "https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795443300&w=1920&h=1080",
-      "time": "Nov 23, 10:25 AM",
+      "time": "Nov 23, 10:26 AM",
       "coverage": 7
     },
     {
@@ -31,7 +31,7 @@
       "coverage": 7
     },
     {
-      "title": "AI-Linked Stocks Take Off After Nvidia Reinstates Jensen Huang",
+      "title": "AI-Linked Stocks Take Off After Nvidia Restores Jensen Huang",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-23/ai-linked-stocks-take-off-after-nvidia-reinstates-jensen-huang",
       "snippet": "Shares of companies tied to artificial intelligence surged Monday after Nvidia Corp. reinstated Jensen Huang as president and chief executive officer, effective immediately.",
@@ -216,6 +216,11 @@
   ],
   "ticker": [
     {
+      "time": "10:30 AM",
+      "title": "CNBC — Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+      "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html"
+    },
+    {
       "time": "10:23 AM",
       "title": "CNBC — Nasdaq roars back by 7% as Nvidia soars on Huang’s return, S&P 500 rebounds 5%: Live updates",
       "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
@@ -224,11 +229,6 @@
       "time": "10:22 AM",
       "title": "CNBC — Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
       "url": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html"
-    },
-    {
-      "time": "10:19 AM",
-      "title": "CNBC — Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-      "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html"
     },
     {
       "time": "10:18 AM",
