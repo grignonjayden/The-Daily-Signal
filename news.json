@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 6:04 PM ET",
+  "generated_at": "Nov 24, 2026, 6:07 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795561457286,
+  "updated_ts": 1795561658690,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -12,16 +12,6 @@
       "time": "Nov 24, 5:36 PM",
       "coverage": 7,
       "ts": 1795559799000
-    },
-    {
-      "title": "Nvidia stock falls nearly 6% after Huang’s return sparks best day in over 23 years",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-fall-by-6-following-huang-return-rally-5048533",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEMAG1HA_L.jpg",
-      "time": "Nov 24, 4:51 PM",
-      "coverage": 7,
-      "ts": 1795557061000
     },
     {
       "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
@@ -73,6 +63,16 @@
       "time": "Nov 24, 12:51 PM",
       "coverage": 7,
       "ts": 1795542705000
+    },
+    {
+      "title": "Schumer accuses Nvidia CEO of violating US export control law",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law-5048879",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1Q1_L.jpg",
+      "time": "Nov 24, 5:18 PM",
+      "coverage": 5,
+      "ts": 1795558700000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
@@ -243,16 +243,46 @@
       "ts": 1795561404000
     },
     {
+      "time": "5:58 PM",
+      "title": "Investing.com — Why is Workday stock tumbling today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-workday-stock-tumbling-today-93CH-5049312",
+      "ts": 1795561094000
+    },
+    {
       "time": "5:57 PM",
       "title": "Globe and Mail — Sell now or wait? The gamble facing Canadian homeowners",
       "url": "https://www.theglobeandmail.com/investing/personal-finance/article-sell-now-or-wait-the-gamble-facing-canadian-homeowners/",
       "ts": 1795561061000
     },
     {
+      "time": "5:56 PM",
+      "title": "Investing.com — Why is Nutanix stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-nutanix-stock-sliding-today-93CH-5049309",
+      "ts": 1795561000000
+    },
+    {
+      "time": "5:53 PM",
+      "title": "Investing.com — Why is Autodesk stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-autodesk-stock-sliding-today-93CH-5049306",
+      "ts": 1795560834000
+    },
+    {
+      "time": "5:52 PM",
+      "title": "Investing.com — Why is HP stock gaining today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-hp-stock-gaining-today-93CH-5049304",
+      "ts": 1795560722000
+    },
+    {
       "time": "5:49 PM",
       "title": "CNBC — Stocks making the biggest moves after hours: Ambarella, Dell, Autodesk, Urban Outfitters & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
       "ts": 1795560564000
+    },
+    {
+      "time": "5:47 PM",
+      "title": "Investing.com — Why is Dell Technologies stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-surging-today-93CH-5049300",
+      "ts": 1795560424000
     },
     {
       "time": "5:43 PM",
@@ -277,36 +307,6 @@
       "title": "Investing.com — Centuri Holdings stock jumps on S&P SmallCap 600 inclusion",
       "url": "https://www.investing.com/news/stock-market-news/centuri-holdings-stock-jumps-on-sp-smallcap-600-inclusion-5049257",
       "ts": 1795559383000
-    },
-    {
-      "time": "5:29 PM",
-      "title": "Bloomberg — Icahn’s Fortune Sinks to $1.3b as Debt Pressures Rise",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/icahn-s-fortune-sinks-to-1-3b-as-debt-pressures-rise-video",
-      "ts": 1795559373000
-    },
-    {
-      "time": "5:18 PM",
-      "title": "CNBC — Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
-      "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
-      "ts": 1795558727000
-    },
-    {
-      "time": "5:18 PM",
-      "title": "Investing.com — Schumer accuses Nvidia CEO of violating US export control law",
-      "url": "https://www.investing.com/news/stock-market-news/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law-5048879",
-      "ts": 1795558700000
-    },
-    {
-      "time": "5:12 PM",
-      "title": "Bloomberg — US Steel Buyers Turn Abroad as Data Center Boom Strains Supply",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
-      "ts": 1795558377000
-    },
-    {
-      "time": "5:09 PM",
-      "title": "Bloomberg — Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-      "ts": 1795558158000
     }
   ]
 }
