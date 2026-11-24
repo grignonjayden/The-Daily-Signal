@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 1:03 PM ET",
+  "generated_at": "Nov 24, 2026, 1:06 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795543395072,
+  "updated_ts": 1795543596055,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -35,17 +35,6 @@
       "ts": 1795538545000
     },
     {
-      "title": "Nvidia’s Board Faces Governance Questions",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-s-board-faces-governance-questions-video",
-      "snippet": "Nvidia’s board brought CEO Jensen Huang back after his brief departure, prompting questions about corporate governance, national security, and political influence. Harvard Law professor Jesse Fried argues the board’s…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 11:23 AM",
-      "coverage": 4,
-      "ts": 1795537403000
-    },
-    {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
@@ -54,6 +43,17 @@
       "time": "Nov 24, 11:01 AM",
       "coverage": 4,
       "ts": 1795536060000
+    },
+    {
+      "title": "Stocks Fall as Jensen Huang Fueled Stock Rally Quickly Fades",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/bloomberg-surveillance-11-24-2026-video",
+      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 11:51 AM",
+      "coverage": 5,
+      "ts": 1795539086000
     },
     {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:04 PM",
+      "title": "CNBC — Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+      "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+      "ts": 1795543460000
+    },
+    {
       "time": "1:00 PM",
       "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
       "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
@@ -247,6 +253,12 @@
       "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
       "ts": 1795543184000
+    },
+    {
+      "time": "12:59 PM",
+      "title": "CNBC — Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+      "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+      "ts": 1795543152000
     },
     {
       "time": "12:52 PM",
@@ -295,18 +307,6 @@
       "title": "CNBC — Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
       "ts": 1795541426000
-    },
-    {
-      "time": "12:30 PM",
-      "title": "Investing.com — Shein to pay $100 million to settle US claims, FTC official says",
-      "url": "https://www.investing.com/news/stock-market-news/shein-to-pay-100-million-to-settle-us-claims-ftc-official-says-5048743",
-      "ts": 1795541425000
-    },
-    {
-      "time": "12:30 PM",
-      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
-      "ts": 1795541400000
     }
   ]
 }
