@@ -445,11 +445,15 @@
   .tldr-list { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 8px; }
   .tldr-list li { font-size: 15.5px; line-height: 1.55; font-weight: 600; color: var(--ink); }
   .tldr-list li::marker { color: var(--mint-deep); font-weight: 800; }
-  .gl-term { all: unset; cursor: help; border-bottom: 1.5px dotted currentColor; text-underline-offset: 3px; }
-  .gl-term:hover, .gl-term:focus-visible { color: var(--sky); }
-  .gl-pop { position: absolute; z-index: 1000; max-width: 280px; background: var(--surface); color: var(--ink); border: 1px solid var(--line, rgba(0,0,0,.1)); border-radius: 12px; box-shadow: var(--shadow-md); padding: 10px 12px; font-size: 13px; line-height: 1.45; display: flex; flex-direction: column; gap: 3px; animation: rise 0.2s var(--ease) forwards; }
-  .gl-pop strong { font-size: 13px; }
-  .gl-hint { font-size: 11px; color: var(--ink-faint, #999); margin-top: 2px; }
+  /* Key words: a soft highlighter swipe, and a chat-bubble that pops out of the word. */
+  .gl-term { all: unset; cursor: pointer; font-weight: inherit; padding: 0 2px; margin: 0 -1px; border-radius: 4px; background: linear-gradient(transparent 58%, var(--mint-soft) 58%); transition: background .2s var(--ease), color .2s var(--ease); -webkit-tap-highlight-color: transparent; }
+  .gl-term:hover, .gl-term:focus-visible, .gl-term.on { background: var(--mint-soft); color: var(--mint-deep); }
+  .gl-pop { position: absolute; z-index: 1000; max-width: 260px; background: var(--ink); color: var(--surface); border-radius: 16px; box-shadow: 0 12px 30px rgba(0,0,0,.22); padding: 11px 14px 12px; font-size: 13.5px; line-height: 1.45; font-weight: 500; transform-origin: var(--ax, 50%) 0; animation: glPop .28s cubic-bezier(.34,1.56,.64,1) both; }
+  .gl-pop.up { transform-origin: var(--ax, 50%) 100%; }
+  .gl-pop::before { content: ''; position: absolute; left: var(--ax, 50%); top: -6px; width: 12px; height: 12px; margin-left: -6px; background: inherit; border-radius: 3px; transform: rotate(45deg); }
+  .gl-pop.up::before { top: auto; bottom: -6px; }
+  .gl-pop strong { display: block; font-size: 11px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: inherit; opacity: .6; margin-bottom: 3px; }
+  @keyframes glPop { from { opacity: 0; transform: scale(.6); } to { opacity: 1; transform: scale(1); } }
   .gov-sub { margin: -6px 0 12px; }
   .gov-more { display: block; margin: 12px auto 4px; }
   .news-card[hidden] { display: none; }
@@ -2096,7 +2100,7 @@ function applyGlossary(root) {
 // While a definition is open, the next tap anywhere only closes it (it never opens a link or card).
 // iOS doesn't always send 'click' for taps on plain text, so closing happens on touch-down instead.
 let glSwallowUntil = 0, glOpenY = 0;
-function glClose() { const p = document.querySelector('.gl-pop'); if (p) p.remove(); }
+function glClose() { const p = document.querySelector('.gl-pop'); if (p) p.remove(); document.querySelectorAll('.gl-term.on').forEach(x => x.classList.remove('on')); }
 document.addEventListener('pointerdown', e => {
   const pop = document.querySelector('.gl-pop');
   if (!pop) return;
@@ -2115,16 +2119,20 @@ document.addEventListener('click', e => {
   pop.setAttribute('role', 'tooltip');
   pop.appendChild(el('strong', { text: t.dataset.term }));
   pop.appendChild(el('span', { text: t.dataset.def }));
-  pop.appendChild(el('span', { className: 'gl-hint', text: 'Tap anywhere to close' }));
   document.body.appendChild(pop);
   const r = t.getBoundingClientRect(), pw = pop.offsetWidth;
-  pop.style.left = Math.max(8, Math.min(window.innerWidth - pw - 8, r.left + window.scrollX + r.width / 2 - pw / 2)) + 'px';
-  pop.style.top = (r.bottom + window.scrollY + 8) + 'px';
+  const left = Math.max(8, Math.min(window.innerWidth - pw - 8, r.left + r.width / 2 - pw / 2));
+  pop.style.left = (left + window.scrollX) + 'px';
+  pop.style.setProperty('--ax', Math.max(14, Math.min(pw - 14, r.left + r.width / 2 - left)) + 'px'); // arrow points at the word
+  const up = r.bottom + pop.offsetHeight + 16 > window.innerHeight && r.top > pop.offsetHeight + 16; // no room below: pop above
+  if (up) pop.classList.add('up');
+  pop.style.top = (up ? r.top + window.scrollY - pop.offsetHeight - 10 : r.bottom + window.scrollY + 10) + 'px';
+  document.querySelectorAll('.gl-term.on').forEach(x => x.classList.remove('on')); t.classList.add('on');
   glOpenY = window.scrollY;
 }, true);
 // Scrolling away closes it too.
 window.addEventListener('scroll', () => { if (Math.abs(window.scrollY - glOpenY) > 40) glClose(); }, { passive: true });
-document.addEventListener('keydown', e => { if (e.key === 'Escape') { const p = document.querySelector('.gl-pop'); if (p) p.remove(); } });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') glClose(); });
 new MutationObserver(() => applyGlossary()).observe(mainPanel, { childList: true, subtree: true });
 
 // Why TDS tab — a plain-language explainer of the project (static, no data file).
