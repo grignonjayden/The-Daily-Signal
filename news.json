@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:55 AM ET",
+  "generated_at": "Nov 24, 2026, 9:58 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795532111905,
+  "updated_ts": 1795532311989,
   "articles": [
     {
       "title": "Nvidia shares fall over 5% after Huang comeback rally",
@@ -10,7 +10,7 @@
       "snippet": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558076-1795501710580-gettyimages-2299493080-AFP_D36R6ZH.jpeg?v=1795501751&w=1920&h=1080",
       "time": "Nov 24, 9:43 AM",
-      "coverage": 7,
+      "coverage": 6,
       "ts": 1795531433000
     },
     {
@@ -20,7 +20,7 @@
       "snippet": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
       "image": "https://image.cnbcfm.com/api/v1/image/108548916-1794403429337-108548916-1794403365942-gettyimages-2299714787-UK_HUANG.jpg?v=1795450267&w=1920&h=1080",
       "time": "Nov 24, 9:20 AM",
-      "coverage": 7,
+      "coverage": 6,
       "ts": 1795530033000
     },
     {
@@ -30,18 +30,18 @@
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN17M_L.jpg",
       "time": "Nov 24, 9:07 AM",
-      "coverage": 7,
+      "coverage": 6,
       "ts": 1795529237000
     },
     {
-      "title": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories",
-      "snippet": "Trump got the CEO he wanted. Nvidia still has an investigation to finish. Plus, the outlook for AI jobs and why Medicare Advantage insurers missed Monday’s rally.",
-      "image": "https://images.mktw.net/im-31029342",
-      "time": "Nov 24, 7:21 AM",
-      "coverage": 7,
-      "ts": 1795522860000
+      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "snippet": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after they first started trading on the Nasdaq.",
+      "image": "https://images.mktw.net/im-34075557",
+      "time": "Nov 24, 9:55 AM",
+      "coverage": 5,
+      "ts": 1795532100000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -50,7 +50,7 @@
       "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
       "time": "Nov 23, 12:49 PM",
-      "coverage": 7,
+      "coverage": 6,
       "ts": 1795456173000
     },
     {
@@ -60,7 +60,7 @@
       "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
       "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
       "time": "Nov 24, 6:25 AM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795519556000
     },
     {
@@ -70,8 +70,19 @@
       "snippet": "Chipmaker’s shares soar as board continues investigation into allegations involving foreign intelligence",
       "image": "https://www.theglobeandmail.com/resizer/v2/TMVSVBWMHJB7BBNYQHEUJJI22M.JPG?auth=cc886863b6b81f085271c24364ca17f0edd1832fc454f9c54d0bd21045236d2e&smart=true&width=5792&height=3856",
       "time": "Nov 23, 7:45 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795481121000
+    },
+    {
+      "title": "Anthropic Sinks Below IPO Price Less Than a Week After Debut",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "snippet": "Anthropic PBC shares plunged below their $83 initial public offering price, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 6:19 AM",
+      "coverage": 5,
+      "ts": 1795519164000
     },
     {
       "title": "Stocks soar on Jensen Huang’s return to Nvidia",
@@ -80,7 +91,7 @@
       "snippet": "Major U.S. equity indexes are higher Monday after last week&apos;s steep AI sell-off, with investors eyeing Nvidia&apos;s recovery and Wednesday&apos;s PCE inflation report.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-historic-stock-market-selloff-1.jpg",
       "time": "Nov 23, 8:36 AM",
-      "coverage": 7,
+      "coverage": 6,
       "ts": 1795441018000
     },
     {
@@ -90,7 +101,7 @@
       "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
       "image": "https://images.wsj.net/im-75358264",
       "time": "Nov 23, 5:25 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795472700000
     },
     {
@@ -100,19 +111,8 @@
       "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
       "image": "https://images.wsj.net/im-87333679",
       "time": "Nov 23, 5:15 PM",
-      "coverage": 6,
-      "ts": 1795472100000
-    },
-    {
-      "title": "Stocks Fall as Nvidia Fades and Trade Fears Return: Markets Wrap",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
-      "snippet": "A selloff in technology giants halted a rebound in stocks, with the market also hit by concerns over fresh US tariffs.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 23, 5:06 PM",
       "coverage": 5,
-      "ts": 1795471606000
+      "ts": 1795472100000
     },
     {
       "title": "Stock Rally Takes Breather as Nvidia Euphoria Wears Off",
@@ -156,6 +156,25 @@
     "Globe and Mail"
   ],
   "official": [
+    {
+      "title": "Quarterly financial statistics for enterprises, third quarter 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123a-eng.htm",
+      "snippet": "Operating profit reported by Canadian corporations declined to $236.6 billion in the third quarter, down $4.9 billion (-2.0%) from the second quarter. This decrease was attributable to both the non-financial and…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/TunneysPasture2022.jpg/330px-TunneysPasture2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 23, 8:30 AM",
+      "ts": 1795440600000
+    },
+    {
+      "title": "Travel between Canada and other countries, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123b-eng.htm",
+      "snippet": "In September, the number of Canadian-resident return trips from the United States increased 8.7% year over year, while trips to Canada by US residents rose 16.7%.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261123/cg261123b001-eng.png",
+      "time": "Nov 23, 8:30 AM",
+      "ts": 1795440600000
+    },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
       "source": "Federal Reserve",
