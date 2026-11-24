@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 11:05 AM ET",
+  "generated_at": "Nov 24, 2026, 11:09 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795536346148,
+  "updated_ts": 1795536548308,
   "articles": [
     {
       "title": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
@@ -237,10 +237,16 @@
   ],
   "ticker": [
     {
-      "time": "11:03 AM",
+      "time": "11:07 AM",
+      "title": "Globe and Mail — U.S. consumer confidence soars with elections over, gas prices in retreat",
+      "url": "https://www.theglobeandmail.com/business/economy/article-us-consumer-confidence-soars-with-elections-over-gas-prices-in-retreat/",
+      "ts": 1795536440000
+    },
+    {
+      "time": "11:06 AM",
       "title": "CNBC — Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
       "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-      "ts": 1795536193000
+      "ts": 1795536367000
     },
     {
       "time": "11:01 AM",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Why is Fossil stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-fossil-stock-rallying-today-93CH-5048672",
       "ts": 1795534867000
-    },
-    {
-      "time": "10:41 AM",
-      "title": "Investing.com — Why is Cogent Biosciences stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-cogent-biosciences-stock-surging-today-93CH-5048671",
-      "ts": 1795534864000
     }
   ]
 }
