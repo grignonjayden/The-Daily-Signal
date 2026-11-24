@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:35 AM ET",
+  "generated_at": "Nov 24, 2026, 9:38 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795530903047,
+  "updated_ts": 1795531104900,
   "articles": [
     {
       "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
@@ -24,26 +24,6 @@
       "ts": 1795529237000
     },
     {
-      "title": "Nvidia stock falls 5% premarket; Goldman says Huang’s return not a clearing event",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-surge-30-as-board-announces-jensen-huangs-reinstatement-5045795",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM811C3_L.jpg",
-      "time": "Nov 24, 9:01 AM",
-      "coverage": 7,
-      "ts": 1795528886000
-    },
-    {
-      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-      "snippet": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550584-1794519112118-gettyimages-2297269641-TRUMP_TECH_AI.jpeg?v=1795450322&w=1920&h=1080",
-      "time": "Nov 24, 8:31 AM",
-      "coverage": 7,
-      "ts": 1795527089000
-    },
-    {
       "title": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories",
@@ -52,6 +32,16 @@
       "time": "Nov 24, 7:21 AM",
       "coverage": 7,
       "ts": 1795522860000
+    },
+    {
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "snippet": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550584-1794519112118-gettyimages-2297269641-TRUMP_TECH_AI.jpeg?v=1795450322&w=1920&h=1080",
+      "time": "Nov 24, 8:31 AM",
+      "coverage": 6,
+      "ts": 1795527089000
     },
     {
       "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
@@ -117,11 +107,11 @@
       "title": "Stocks Fall as Nvidia Fades and Trade Fears Return: Markets Wrap",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
-      "snippet": "The rally in stocks that followed Jensen Huang’s return to Nvidia Corp. faded as skepticism surfaced over whether the AI trade can mount a sustained rebound, with talks of fresh US tariffs adding to the retreat.",
+      "snippet": "A selloff in technology giants halted a rebound in stocks, with the market also hit by concerns over fresh US tariffs.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 23, 5:06 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795471606000
     },
     {
@@ -134,6 +124,16 @@
       "time": "Nov 24, 7:13 AM",
       "coverage": 3,
       "ts": 1795522410000
+    },
+    {
+      "title": "U.S. stocks slide at the open a day after Wall Street’s explosive rally",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg",
+      "time": "Nov 24, 9:33 AM",
+      "coverage": 4,
+      "ts": 1795530839000
     },
     {
       "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
@@ -237,10 +237,16 @@
   ],
   "ticker": [
     {
-      "time": "9:33 AM",
+      "time": "9:37 AM",
       "title": "CNBC — Stocks decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-      "ts": 1795530839000
+      "ts": 1795531030000
+    },
+    {
+      "time": "9:35 AM",
+      "title": "CNBC — Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+      "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+      "ts": 1795530905000
     },
     {
       "time": "9:29 AM",
@@ -261,10 +267,28 @@
       "ts": 1795530447000
     },
     {
+      "time": "9:23 AM",
+      "title": "Investing.com — BNP Paribas cuts Micron rating on risks to 2028 hyperscaler capacity plans",
+      "url": "https://www.investing.com/news/stock-market-news/bnp-paribas-cuts-micron-rating-on-risks-to-2028-hyperscaler-capacity-plans-5048466",
+      "ts": 1795530184000
+    },
+    {
+      "time": "9:22 AM",
+      "title": "Investing.com — Why is Anthropic stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-anthropic-stock-sliding-today-93CH-5048464",
+      "ts": 1795530146000
+    },
+    {
       "time": "9:17 AM",
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795529820000
+    },
+    {
+      "time": "9:16 AM",
+      "title": "Investing.com — Why is Applied Optoelectronics stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-applied-optoelectronics-stock-rallying-today-93CH-5048448",
+      "ts": 1795529777000
     },
     {
       "time": "9:14 AM",
@@ -283,30 +307,6 @@
       "title": "WSJ Markets — U.S. Natural Gas Futures Pick Up in Volatile Trading",
       "url": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
       "ts": 1795529520000
-    },
-    {
-      "time": "9:12 AM",
-      "title": "Investing.com — Why is GameStop stock gaining today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-gaining-today-93CH-5048434",
-      "ts": 1795529520000
-    },
-    {
-      "time": "9:08 AM",
-      "title": "Investing.com — 3 defensive stocks to watch as tech, chip volatility persists",
-      "url": "https://www.investing.com/news/stock-market-news/3-defensive-stocks-to-watch-as-tech-chip-volatility-persists-93CH-5048428",
-      "ts": 1795529286000
-    },
-    {
-      "time": "9:06 AM",
-      "title": "Investing.com — From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
-      "url": "https://www.investing.com/news/stock-market-news/from-horsepower-to-firepower-japan-draws-auto-suppliers-into-major-arms-buildup-5046991",
-      "ts": 1795529218000
-    },
-    {
-      "time": "9:06 AM",
-      "title": "Investing.com — TSX futures slip as caution takes hold after AI-fueled rally",
-      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-as-caution-takes-hold-after-aifueled-rally-5047984",
-      "ts": 1795529169000
     }
   ]
 }
