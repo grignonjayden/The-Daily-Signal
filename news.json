@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 1:43 PM ET",
+  "generated_at": "Nov 24, 2026, 1:47 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795545824170,
+  "updated_ts": 1795546023960,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "1:42 PM",
+      "title": "Bloomberg — AI Is a Financing Story",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/ai-is-a-financing-story",
+      "ts": 1795545777000
+    },
+    {
       "time": "1:38 PM",
       "title": "WSJ Markets — U.S. Treasury Auction of 5-Year Note Shows Slightly Soft Demand",
       "url": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
@@ -300,12 +306,6 @@
       "title": "Investing.com — Dick’s Sporting Goods earnings analysis: questions answered and next catalysts",
       "url": "https://www.investing.com/news/stock-market-news/dicks-sporting-goods-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048855",
       "ts": 1795543592000
-    },
-    {
-      "time": "1:06 PM",
-      "title": "Investing.com — Best Buy earnings analysis: questions answered and next catalysts",
-      "url": "https://www.investing.com/news/stock-market-news/best-buy-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048854",
-      "ts": 1795543561000
     }
   ]
 }
