@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 4:39 PM ET",
+  "generated_at": "Nov 24, 2026, 4:43 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795556387920,
+  "updated_ts": 1795556589337,
   "articles": [
     {
       "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
@@ -135,14 +135,14 @@
       "ts": 1795442808000
     },
     {
-      "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated",
+      "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Loom",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally",
       "snippet": "The Nasdaq 100 Index plunged on Tuesday, led by another steep decline in chipmakers as a relief rally in technology stocks gave way to renewed worries about the durability of the AI trade. Plans for new US tariffs…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 24, 4:45 AM",
-      "coverage": 3,
+      "coverage": 4,
       "ts": 1795513527000
     }
   ],
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "4:39 PM",
+      "title": "Globe and Mail — Huawei guilty of conspiracy to steal trade secrets, U.S. jury finds",
+      "url": "https://www.theglobeandmail.com/world/article-huawei-conspiracy-trade-secrets/",
+      "ts": 1795556367000
+    },
+    {
+      "time": "4:36 PM",
+      "title": "Bloomberg — Quant Funds Are Having a Hard Time Keeping Up With This Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market",
+      "ts": 1795556182000
+    },
+    {
       "time": "4:32 PM",
       "title": "WSJ Markets — U.S. Stocks Mixed as Huang Relief Rally Fades",
       "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main",
@@ -295,18 +307,6 @@
       "title": "MarketWatch — Micron’s stock falls as an analyst warns about a future supply glut",
       "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
       "ts": 1795555320000
-    },
-    {
-      "time": "4:22 PM",
-      "title": "MarketWatch — The stock market is hardly cheap, even taking recent declines into account",
-      "url": "https://www.marketwatch.com/story/the-stock-market-is-hardly-cheap-even-taking-recent-declines-into-account-fe0a7989?mod=mw_rss_topstories",
-      "ts": 1795555320000
-    },
-    {
-      "time": "4:21 PM",
-      "title": "Bloomberg — Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/dell-raises-ai-server-outlook-closing-bell-video",
-      "ts": 1795555285000
     }
   ]
 }
