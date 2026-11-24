@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 4:22 PM ET",
+  "generated_at": "Nov 24, 2026, 4:26 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795555365303,
+  "updated_ts": 1795555566777,
   "articles": [
     {
       "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
@@ -10,7 +10,7 @@
       "snippet": "U.S. stocks fell on Tuesday, giving back some of the sharp gains from the previous session that were sparked by Jensen Huang's return as Nvidia CEO.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558517-17955384902026-11-24t163620z_668368453_rc2duoa4bjw8_rtrmadp_0_usa-stocks.jpeg?v=1795538604&w=1920&h=1080",
       "time": "Nov 24, 4:16 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795555010000
     },
     {
@@ -84,17 +84,6 @@
       "ts": 1795548720000
     },
     {
-      "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "snippet": "Anthropic PBC shares traded below their $83 initial public offering price for the first time, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 6:19 AM",
-      "coverage": 5,
-      "ts": 1795519164000
-    },
-    {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
@@ -114,6 +103,17 @@
       "time": "Nov 24, 4:45 AM",
       "coverage": 3,
       "ts": 1795513527000
+    },
+    {
+      "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "snippet": "Anthropic PBC shares traded below their $83 initial public offering price for the first time, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 6:19 AM",
+      "coverage": 4,
+      "ts": 1795519164000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "4:23 PM",
+      "title": "WSJ Markets — Nvidia’s Relief Rally Stalls",
+      "url": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
+      "ts": 1795555380000
+    },
+    {
+      "time": "4:22 PM",
+      "title": "MarketWatch — Micron’s stock falls as an analyst warns about a future supply glut",
+      "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+      "ts": 1795555320000
+    },
+    {
+      "time": "4:22 PM",
+      "title": "MarketWatch — The stock market is hardly cheap, even taking recent declines into account",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-hardly-cheap-even-taking-recent-declines-into-account-fe0a7989?mod=mw_rss_topstories",
+      "ts": 1795555320000
+    },
+    {
       "time": "4:17 PM",
       "title": "Globe and Mail — Microsoft declares ‘Code Red’ in response to historic outage, internal memos show",
       "url": "https://www.theglobeandmail.com/business/article-microsoft-code-red-outage/",
@@ -289,24 +307,6 @@
       "title": "MarketWatch — Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
       "url": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
       "ts": 1795553880000
-    },
-    {
-      "time": "3:57 PM",
-      "title": "Globe and Mail — Alpine ski, biathlon federations merge in Canada",
-      "url": "https://www.theglobeandmail.com/sports/article-alpine-ski-biathlon-federations-merge-in-canada/",
-      "ts": 1795553872000
-    },
-    {
-      "time": "3:55 PM",
-      "title": "Bloomberg — JPMorgan Sets Below Consensus S&P 500 Target of 8,200 for 2027",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-sets-below-consensus-s-p-500-target-of-8-200-for-2027",
-      "ts": 1795553749000
-    },
-    {
-      "time": "3:51 PM",
-      "title": "Investing.com — Dell, HP, Autodesk and Workday earnings: what to watch today",
-      "url": "https://www.investing.com/news/stock-market-news/dell-hp-autodesk-and-workday-earnings-what-to-watch-today-93CH-5048981",
-      "ts": 1795553515000
     }
   ]
 }
