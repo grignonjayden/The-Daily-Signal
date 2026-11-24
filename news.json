@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 12:33 PM ET",
+  "generated_at": "Nov 24, 2026, 12:36 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795541587108,
+  "updated_ts": 1795541791805,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -106,14 +106,14 @@
       "ts": 1795519556000
     },
     {
-      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+      "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
-      "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
-      "image": "https://images.wsj.net/im-75358264",
-      "time": "Nov 23, 5:25 PM",
-      "coverage": 5,
-      "ts": 1795472700000
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+      "snippet": "Tech stocks stumbled again, as fears around the AI trade creep back in a day after Jensen Huang’s return at Nvidia sparked the best day for U.S. stocks since April 2025.",
+      "image": "https://images.wsj.net/im-89305301",
+      "time": "Nov 24, 12:34 PM",
+      "coverage": 3,
+      "ts": 1795541640000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -236,10 +236,28 @@
   ],
   "ticker": [
     {
+      "time": "12:33 PM",
+      "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+      "ts": 1795541600000
+    },
+    {
+      "time": "12:33 PM",
+      "title": "Globe and Mail — Telecom infrastructure is critical to Canada’s security and sovereignty, Joly says after meeting CEOs",
+      "url": "https://www.theglobeandmail.com/business/article-telecom-infrastructure-security-and-sovereignty-melanie-joly-ceos/",
+      "ts": 1795541581000
+    },
+    {
       "time": "12:30 PM",
       "title": "CNBC — Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
       "ts": 1795541426000
+    },
+    {
+      "time": "12:30 PM",
+      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
+      "ts": 1795541400000
     },
     {
       "time": "12:30 PM",
@@ -255,12 +273,6 @@
     },
     {
       "time": "12:27 PM",
-      "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-      "ts": 1795541260000
-    },
-    {
-      "time": "12:27 PM",
       "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main",
       "ts": 1795541220000
@@ -270,6 +282,12 @@
       "title": "Bloomberg — Crispier Chicken and Remodels Pit McDonald's Against Franchisees",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-remodel-pits-company-against-franchisees-video",
       "ts": 1795541150000
+    },
+    {
+      "time": "12:25 PM",
+      "title": "Bloomberg — Bank of Canada Chief Warns of Oil Passthrough, Sticky Inflation",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-canada-chief-warns-of-oil-passthrough-sticky-inflation",
+      "ts": 1795541100000
     },
     {
       "time": "12:24 PM",
@@ -288,24 +306,6 @@
       "title": "WSJ Markets — Tech, Media & Telecom Roundup: Market Talk",
       "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main",
       "ts": 1795541040000
-    },
-    {
-      "time": "12:22 PM",
-      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main",
-      "ts": 1795540920000
-    },
-    {
-      "time": "12:15 PM",
-      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "ts": 1795540500000
-    },
-    {
-      "time": "12:12 PM",
-      "title": "Investing.com — Ford in talks with the Pentagon to supply military vehicles",
-      "url": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-with-general-motors-and-ford-on-military-drones-wsj-reports-5047560",
-      "ts": 1795540372000
     }
   ]
 }
