@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 12:23 PM ET",
+  "generated_at": "Nov 24, 2026, 12:26 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795540984316,
+  "updated_ts": 1795541186030,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -236,6 +236,30 @@
   ],
   "ticker": [
     {
+      "time": "12:24 PM",
+      "title": "CNBC — Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
+      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795541082000
+    },
+    {
+      "time": "12:24 PM",
+      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main",
+      "ts": 1795541040000
+    },
+    {
+      "time": "12:24 PM",
+      "title": "WSJ Markets — Tech, Media & Telecom Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main",
+      "ts": 1795541040000
+    },
+    {
+      "time": "12:22 PM",
+      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main",
+      "ts": 1795540920000
+    },
+    {
       "time": "12:15 PM",
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
@@ -282,30 +306,6 @@
       "title": "Investing.com — U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.20%",
       "url": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-020-5048779",
       "ts": 1795540147000
-    },
-    {
-      "time": "12:09 PM",
-      "title": "Investing.com — GitLab options signal 13% stock move ahead of Dec. 1 earnings",
-      "url": "https://www.investing.com/news/stock-market-news/gitlab-options-signal-13-stock-move-ahead-of-dec-1-earnings-93CH-5048778",
-      "ts": 1795540143000
-    },
-    {
-      "time": "12:08 PM",
-      "title": "Investing.com — Spain stocks lower at close of trade; IBEX 35 down 0.86%",
-      "url": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-086-5048777",
-      "ts": 1795540120000
-    },
-    {
-      "time": "12:04 PM",
-      "title": "Bloomberg — Iraq Rejects OPEC+ Assessment of Its Oil Production Capacity",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/iraq-rejects-opec-assessment-of-its-oil-production-capacity",
-      "ts": 1795539874000
-    },
-    {
-      "time": "12:01 PM",
-      "title": "CNBC — Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
-      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795539663000
     }
   ]
 }
