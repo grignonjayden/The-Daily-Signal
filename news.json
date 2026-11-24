@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 12:59 PM ET",
+  "generated_at": "Nov 24, 2026, 1:03 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795543196179,
+  "updated_ts": 1795543395072,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -237,10 +237,16 @@
   ],
   "ticker": [
     {
-      "time": "12:58 PM",
+      "time": "1:00 PM",
+      "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "ts": 1795543200000
+    },
+    {
+      "time": "12:59 PM",
       "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-      "ts": 1795543081000
+      "ts": 1795543184000
     },
     {
       "time": "12:52 PM",
@@ -300,12 +306,6 @@
       "time": "12:30 PM",
       "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
       "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
-      "ts": 1795541400000
-    },
-    {
-      "time": "12:30 PM",
-      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "ts": 1795541400000
     }
   ]
