@@ -446,8 +446,12 @@
   .tldr-list li { font-size: 15.5px; line-height: 1.55; font-weight: 600; color: var(--ink); }
   .tldr-list li::marker { color: var(--mint-deep); font-weight: 800; }
   /* Key words: a soft highlighter swipe, and a chat-bubble that pops out of the word. */
-  .gl-term { all: unset; cursor: pointer; font-weight: inherit; padding: 0 2px; margin: 0 -1px; border-radius: 4px; background: linear-gradient(transparent 58%, var(--mint-soft) 58%); transition: background .2s var(--ease), color .2s var(--ease); -webkit-tap-highlight-color: transparent; }
-  .gl-term:hover, .gl-term:focus-visible, .gl-term.on { background: var(--mint-soft); color: var(--mint-deep); }
+  .gl-term { all: unset; cursor: pointer; font-weight: 700; color: var(--pink-deep); padding: 0 2px; margin: 0 -1px; border-radius: 4px; background: linear-gradient(transparent 52%, var(--pink-soft) 52%); transition: background .2s var(--ease), color .2s var(--ease); -webkit-tap-highlight-color: transparent; animation: glGlow 1.6s ease-in-out .6s 2; }
+  .gl-term::after { content: '?'; display: inline-flex; align-items: center; justify-content: center; width: 13px; height: 13px; margin-left: 3px; border-radius: 50%; background: var(--pink); color: #fff; font-size: 9px; font-weight: 800; line-height: 1; vertical-align: 2px; }
+  .gl-term:hover, .gl-term:focus-visible, .gl-term.on { background: var(--pink-soft); }
+  @keyframes glGlow { 0%, 100% { box-shadow: 0 0 0 0 transparent; } 50% { box-shadow: 0 0 0 4px var(--pink-soft); } }
+  .gl-tip { display: flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600; color: var(--ink-soft); margin: 12px 0 0; }
+  .gl-tip b { display: inline-flex; align-items: center; justify-content: center; width: 15px; height: 15px; border-radius: 50%; background: var(--pink); color: #fff; font-size: 10px; }
   .gl-pop { position: absolute; z-index: 1000; max-width: 260px; background: var(--ink); color: var(--surface); border-radius: 16px; box-shadow: 0 12px 30px rgba(0,0,0,.22); padding: 11px 14px 12px; font-size: 13.5px; line-height: 1.45; font-weight: 500; transform-origin: var(--ax, 50%) 0; animation: glPop .28s cubic-bezier(.34,1.56,.64,1) both; }
   .gl-pop.up { transform-origin: var(--ax, 50%) 100%; }
   .gl-pop::before { content: ''; position: absolute; left: var(--ax, 50%); top: -6px; width: 12px; height: 12px; margin-left: -6px; background: inherit; border-radius: 3px; transform: rotate(45deg); }
@@ -1991,6 +1995,9 @@ function buildTldr(data, title) {
   const ol = el('ol', { className: 'tldr-list' });
   data.tldr.slice(0, 3).forEach(t => ol.appendChild(el('li', { text: t })));
   w.appendChild(ol);
+  const tip = el('p', { className: 'gl-tip' }); tip.appendChild(el('b', { text: '?' }));
+  tip.appendChild(document.createTextNode('Tap any orange word for a quick, plain-English meaning.'));
+  w.appendChild(tip);
   return w;
 }
 
