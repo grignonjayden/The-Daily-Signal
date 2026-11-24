@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 1:53 PM ET",
+  "generated_at": "Nov 24, 2026, 1:57 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795546427684,
+  "updated_ts": 1795546627435,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -14,26 +14,6 @@
       "ts": 1795545058000
     },
     {
-      "title": "Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
-      "time": "Nov 24, 1:18 PM",
-      "coverage": 6,
-      "ts": 1795544299000
-    },
-    {
-      "title": "Nvidia’s Huang returns to cheers in China, but political hurdles mount",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidias-huang-returns-to-cheers-in-china-but-political-hurdles-mount-5048427",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN17M_L.jpg",
-      "time": "Nov 24, 1:00 PM",
-      "coverage": 6,
-      "ts": 1795543219000
-    },
-    {
       "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
@@ -44,15 +24,24 @@
       "ts": 1795542705000
     },
     {
-      "title": "Nvidia (NVDA) Surging on Huang’s Reinstatement Brings Back Leveraged ETF Debate",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/nvidia-nvda-surging-on-huang-s-reinstatement-brings-back-leveraged-etf-debate",
-      "snippet": "Nvidia’s stock-price surge created big winners and losers among leveraged ETF investors",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 11:42 AM",
-      "coverage": 6,
-      "ts": 1795538545000
+      "title": "Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
+      "time": "Nov 24, 1:18 PM",
+      "coverage": 5,
+      "ts": 1795544299000
+    },
+    {
+      "title": "Nvidia’s Huang returns to cheers in China, but political hurdles mount",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidias-huang-returns-to-cheers-in-china-but-political-hurdles-mount-5048427",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN17M_L.jpg",
+      "time": "Nov 24, 1:00 PM",
+      "coverage": 5,
+      "ts": 1795543219000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -85,14 +74,14 @@
       "ts": 1795478438000
     },
     {
-      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
-      "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
-      "image": "https://images.wsj.net/im-75358264",
-      "time": "Nov 23, 5:25 PM",
+      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
+      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
+      "image": "https://images.wsj.net/im-87333679",
+      "time": "Nov 23, 5:15 PM",
       "coverage": 6,
-      "ts": 1795472700000
+      "ts": 1795472100000
     },
     {
       "title": "Stocks Fall as Jensen Huang Fueled Stock Rally Quickly Fades",
@@ -124,6 +113,17 @@
       "time": "Nov 23, 9:06 AM",
       "coverage": 6,
       "ts": 1795442808000
+    },
+    {
+      "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "snippet": "Anthropic PBC shares sank as much as nearly 9% below their $83 initial public offering price, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 6:19 AM",
+      "coverage": 4,
+      "ts": 1795519164000
     },
     {
       "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "1:52 PM",
+      "title": "WSJ Markets — Gold Futures Give Back Gains Following Nvidia-Driven Rally",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
+      "ts": 1795546320000
+    },
+    {
       "time": "1:50 PM",
       "title": "Globe and Mail — Bank of Canada refines inflation-targeting framework for shock-prone world",
       "url": "https://www.theglobeandmail.com/business/article-bank-of-canada-macklem-inflation-targeting-framework-november-24/",
@@ -264,12 +270,6 @@
       "title": "Investing.com — Nasdaq slides as AI trade uncertainty remains despite explosive Nvidia-led rally",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
       "ts": 1795545909000
-    },
-    {
-      "time": "1:44 PM",
-      "title": "WSJ Markets — Comex Gold Settles 2.45% Lower at $3559.90",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
-      "ts": 1795545840000
     },
     {
       "time": "1:42 PM",
