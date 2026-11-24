@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:05 AM ET",
+  "generated_at": "Nov 24, 2026, 10:08 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795532713140,
+  "updated_ts": 1795532913144,
   "articles": [
     {
       "title": "Nvidia shares fall over 5% after Huang comeback rally",
@@ -44,10 +44,10 @@
       "ts": 1795519556000
     },
     {
-      "title": "Anthropic falls below $83 IPO price as debut rally unravels",
+      "title": "Anthropic falls below IPO price as debut rally unravels",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/article-anthropic-stock-price-after-debut-rally/",
-      "snippet": "Company missed out on Monday’s broad Wall Street rally after Jensen Huang was reinstated as Nvidia CEO",
+      "snippet": "AI lab notched large gains during its debut trading session but has since been swept up in a broader technology sell-off",
       "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
       "time": "Nov 24, 6:52 AM",
       "coverage": 6,
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "10:04 AM",
+      "time": "10:05 AM",
       "title": "CNBC — Commercial real estate activity falls 14% in October, as interest rates rise",
       "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
-      "ts": 1795532680000
+      "ts": 1795532714000
     },
     {
       "time": "10:03 AM",
@@ -253,6 +253,18 @@
       "title": "CNBC — Stocks making the biggest moves Tuesday: Kohl's, Dicks Sporting Goods, Abercrombie & Fitch & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
       "ts": 1795532531000
+    },
+    {
+      "time": "10:01 AM",
+      "title": "Bloomberg — Venezuela Unveils $237 Billion Debt Load Ahead of Restructuring",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/venezuela-unveils-237-billion-debt-load-ahead-of-restructuring",
+      "ts": 1795532479000
+    },
+    {
+      "time": "10:01 AM",
+      "title": "Globe and Mail — U.S. FDA approves Roche’s Wilserdly for early-stage breast cancer",
+      "url": "https://www.theglobeandmail.com/business/international-business/article-fda-approves-roche-breast-cancer-pill-wilserdly/",
+      "ts": 1795532475000
     },
     {
       "time": "10:00 AM",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Why is Bloom Energy stock sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-5048571",
       "ts": 1795532108000
-    },
-    {
-      "time": "9:53 AM",
-      "title": "Investing.com — Why is Nebius stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-5048568",
-      "ts": 1795532010000
-    },
-    {
-      "time": "9:52 AM",
-      "title": "CNBC — Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "ts": 1795531940000
     }
   ]
 }
