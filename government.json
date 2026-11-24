@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 24, 2026, 2:10 PM ET",
+  "generated_at": "Nov 24, 2026, 2:44 PM ET",
   "date_key": "2026-11-24",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -100,6 +100,18 @@
       "group": "sector"
     },
     {
+      "title": "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+      "url": "https://www.cp24.com/news/money/2026/11/24/macklem-admits-bank-of-canada-offered-mixed-messaging-on-core-inflation-in-past/",
+      "image": "https://www.cp24.com/resizer/v2/LMOMYW434FLI45QC7W3N5BKSAU.jpg?auth=c10305f20554a96ca02fc0268f3874a2b3c755966de4a087394e4452eb926795&smart=true&width=1400&height=911",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 24",
+      "date": "2026-11-24T23:13:39.000Z",
+      "group": "policy"
+    },
+    {
       "title": "Bank of Canada expects 2nd round of oil-linked inflation in 2027, Macklem says",
       "url": "https://www.cbc.ca/news/business/bank-canada-governor-tiff-macklem-speech-9.7433693?cmp=rss",
       "image": "https://i.cbc.ca/ais/f7e7ae7f-e69b-42ad-9eda-0eef2d268c61,1795528758290/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
@@ -158,18 +170,6 @@
       "time": "Nov 24",
       "date": "2026-11-24T12:25:17.000Z",
       "group": "policy"
-    },
-    {
-      "title": "Why the Bank of Canada Should Stay Focused on Price Stability",
-      "url": "https://cdhowe.org/publication/why-the-bank-of-canada-should-stay-focused-on-price-stability/",
-      "image": "https://cdhowe.org/wp-content/uploads/2026/11/GI_figure_1123-150x150.png",
-      "source": "C.D. Howe Institute",
-      "badge": "CDH",
-      "analysis": true,
-      "sector": "Monetary",
-      "time": "Nov 23",
-      "date": "2026-11-23T11:00:15.000Z",
-      "group": "policy"
     }
   ],
   "sources": [
@@ -213,14 +213,14 @@
       "kept": 3
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 3
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
+    },
+    {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 3
     },
     {
       "source": "CDEV",
@@ -245,7 +245,7 @@
     {
       "source": "CP24",
       "fetched": 200,
-      "kept": 2
+      "kept": 3
     }
   ]
 }

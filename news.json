@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 2:41 PM ET",
+  "generated_at": "Nov 24, 2026, 2:44 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795549276851,
+  "updated_ts": 1795549480143,
   "articles": [
     {
       "title": "Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
@@ -242,6 +242,12 @@
       "ts": 1795548720000
     },
     {
+      "time": "2:31 PM",
+      "title": "Bloomberg — Canadian Dollar Gains Most Since August on BOC Inflation Warning",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
+      "ts": 1795548685000
+    },
+    {
       "time": "2:26 PM",
       "title": "CNBC — Retail turnarounds are taking hold just in time for the holiday season",
       "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
@@ -300,12 +306,6 @@
       "title": "Globe and Mail — Who has the best market forecast? You do",
       "url": "https://www.theglobeandmail.com/investing/personal-finance/article-who-has-the-best-market-forecast-you-do/",
       "ts": 1795547485000
-    },
-    {
-      "time": "2:08 PM",
-      "title": "Bloomberg — Quant Funds Reduce US Treasury Short Bets, Fueling Bond Rally",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/trend-followers-dump-bond-shorts-as-stocks-swoon-aids-haven-bids",
-      "ts": 1795547297000
     }
   ]
 }
