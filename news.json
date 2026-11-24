@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:45 AM ET",
+  "generated_at": "Nov 24, 2026, 9:48 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795531506172,
+  "updated_ts": 1795531710373,
   "articles": [
     {
       "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
@@ -157,6 +157,26 @@
   ],
   "official": [
     {
+      "title": "Quarterly financial statistics for enterprises, third quarter 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123a-eng.htm",
+      "snippet": "Operating profit reported by Canadian corporations declined to $236.6 billion in the third quarter, down $4.9 billion (-2.0%) from the second quarter. This decrease was attributable to both the non-financial and…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/TunneysPasture2022.jpg/330px-TunneysPasture2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 23, 8:30 AM",
+      "ts": 1795440600000
+    },
+    {
+      "title": "Travel between Canada and other countries, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123b-eng.htm",
+      "snippet": "In September, the number of Canadian-resident return trips from the United States increased 8.7% year over year, while trips to Canada by US residents rose 16.7%.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/TunneysPasture2022.jpg/330px-TunneysPasture2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 23, 8:30 AM",
+      "ts": 1795440600000
+    },
+    {
       "title": "Federal Reserve announces College Fed Challenge winners",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
@@ -219,6 +239,18 @@
   ],
   "ticker": [
     {
+      "time": "9:46 AM",
+      "title": "CNBC — Signal joins United Airlines, banks in limiting AI agents over customer risks",
+      "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+      "ts": 1795531561000
+    },
+    {
+      "time": "9:43 AM",
+      "title": "Globe and Mail — George Weston profit rises, boosted by Loblaw’s sale of PC Financial",
+      "url": "https://www.theglobeandmail.com/business/article-george-weston-profit-rises-boosted-by-loblaws-sale-of-pc-financial/",
+      "ts": 1795531393000
+    },
+    {
       "time": "9:39 AM",
       "title": "CNBC — Stocks decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
@@ -277,18 +309,6 @@
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795529820000
-    },
-    {
-      "time": "9:16 AM",
-      "title": "Investing.com — Why is Applied Optoelectronics stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-applied-optoelectronics-stock-rallying-today-93CH-5048448",
-      "ts": 1795529777000
-    },
-    {
-      "time": "9:14 AM",
-      "title": "Investing.com — Applied Optoelectronics stock rises on datacenter deal",
-      "url": "https://www.investing.com/news/stock-market-news/applied-optoelectronics-stock-rises-on-datacenter-deal-5048440",
-      "ts": 1795529649000
     }
   ]
 }
