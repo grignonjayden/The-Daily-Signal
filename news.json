@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 3:18 PM ET",
+  "generated_at": "Nov 24, 2026, 3:21 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795551508407,
+  "updated_ts": 1795551719054,
   "articles": [
+    {
+      "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
+      "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
+      "image": "https://www.theglobeandmail.com/resizer/v2/OPYQF7O5SVEPRMEDR3I5UCEATQ.JPG?auth=7a02ad79d399820d54b5fc9bdcf043041c14540e2bce47208bd2ec8de1cf9608&smart=true&width=5500&height=3668",
+      "time": "Nov 24, 3:16 PM",
+      "coverage": 5,
+      "ts": 1795551400000
+    },
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "source": "CNBC",
@@ -62,16 +72,6 @@
       "time": "Nov 24, 6:25 AM",
       "coverage": 5,
       "ts": 1795519556000
-    },
-    {
-      "title": "Wall Street rebounds as Jensen Huang is reinstated as Nvidia CEO",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/video-wall-street-rebounds-as-jensen-huang-is-reinstated-as-nvidia-ceo/",
-      "snippet": "U.S. stocks surged on Monday, led by a more than 6 per cent jump in the Nasdaq as Nvidia's reinstatement of Jensen Huang as CEO drove investors back into AI-related shares after last week's rout.",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-23-2026%2Ft_3c6529588d4942bf8641718287c5901f_name_2026_11_23T234212Z_1_LOP071923112026RP1_RTRMADP_BASEIMAGE_960X540_USA_STOCKS_WRAP.JPG?auth=a4cfc397154e1f583c7d5efbc946fee276c8f3a5a12a0c835191e0e2dac7971b&smart=true&width=1920&height=1080",
-      "time": "Nov 23, 7:00 PM",
-      "coverage": 6,
-      "ts": 1795478438000
     },
     {
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "3:16 PM",
+      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "ts": 1795551360000
+    },
+    {
       "time": "3:02 PM",
       "title": "CNBC — Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
       "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
@@ -301,12 +307,6 @@
       "title": "CNBC — Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
       "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
       "ts": 1795548386000
-    },
-    {
-      "time": "2:25 PM",
-      "title": "CNBC — Gold is doing something strange. Here's one way to play it",
-      "url": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
-      "ts": 1795548313000
     }
   ]
 }
