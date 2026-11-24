@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 7:57 AM ET",
+  "generated_at": "Nov 24, 2026, 8:03 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795525068836,
+  "updated_ts": 1795525387645,
   "articles": [
     {
       "title": "Nvidia stock falls 4% premarket; Goldman says Huang’s return not a clearing event",
@@ -215,6 +215,21 @@
   ],
   "ticker": [
     {
+      "time": "7:58 AM",
+      "title": "CNBC — Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more",
+      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+    },
+    {
+      "time": "7:57 AM",
+      "title": "CNBC — Best Buy reports comparable sales growth of 6.1%, highest in five years",
+      "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html"
+    },
+    {
+      "time": "7:56 AM",
+      "title": "MarketWatch — Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.",
+      "url": "https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories"
+    },
+    {
       "time": "7:54 AM",
       "title": "Investing.com — Sanofi’s $41 billion Insmed bet charts life beyond Dupixent",
       "url": "https://www.investing.com/news/stock-market-news/sanofi-strikes-41-billion-deal-to-acquire-us-drugmaker-insmed-5047163"
@@ -258,21 +273,6 @@
       "time": "7:45 AM",
       "title": "Globe and Mail — Alberta gas flaring set to rise 10% this year as Ottawa and the province curb climate measures",
       "url": "https://www.theglobeandmail.com/business/article-alberta-gas-flaring-set-to-rise-as-governments-ease-climate-measures/"
-    },
-    {
-      "time": "7:45 AM",
-      "title": "Investing.com — Goldman Sachs says AI trade hinges on returns, not Nvidia",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-says-ai-trade-hinges-on-returns-not-nvidia-5048038"
-    },
-    {
-      "time": "7:45 AM",
-      "title": "Investing.com — Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.40%",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-040-5048037"
-    },
-    {
-      "time": "7:44 AM",
-      "title": "CNBC — Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more",
-      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
     }
   ]
 }
