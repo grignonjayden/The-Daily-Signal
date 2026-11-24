@@ -452,10 +452,10 @@
   @keyframes glGlow { 0%, 100% { box-shadow: 0 0 0 0 transparent; } 50% { box-shadow: 0 0 0 4px var(--pink-soft); } }
   .gl-tip { display: flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600; color: var(--ink-soft); margin: 12px 0 0; }
   .gl-tip b { display: inline-flex; align-items: center; justify-content: center; width: 15px; height: 15px; border-radius: 50%; background: var(--pink); color: #fff; font-size: 10px; }
-  .gl-pop { position: absolute; z-index: 1000; max-width: 260px; background: linear-gradient(180deg, #1C2E52 0%, #2E4383 55%, #8A4A3C 100%); color: #fff; border-radius: 16px; box-shadow: 0 14px 32px rgba(28,46,82,.35); padding: 11px 14px 12px; font-size: 13.5px; line-height: 1.45; font-weight: 500; transform-origin: var(--ax, 50%) 0; animation: glPop .28s cubic-bezier(.34,1.56,.64,1) both; }
+  .gl-pop { position: absolute; z-index: 1000; max-width: 260px; background: #1C2E52; color: #fff; border-radius: 16px; box-shadow: 0 14px 32px rgba(28,46,82,.35); padding: 11px 14px 12px; font-size: 13.5px; line-height: 1.45; font-weight: 500; transform-origin: var(--ax, 50%) 0; animation: glPop .28s cubic-bezier(.34,1.56,.64,1) both; }
   .gl-pop.up { transform-origin: var(--ax, 50%) 100%; }
   .gl-pop::before { content: ''; position: absolute; left: var(--ax, 50%); top: -7px; margin-left: -8px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 8px solid #1C2E52; }
-  .gl-pop.up::before { top: auto; bottom: -7px; border-bottom: 0; border-top: 8px solid #8A4A3C; }
+  .gl-pop.up::before { top: auto; bottom: -7px; border-bottom: 0; border-top: 8px solid #1C2E52; }
   .gl-pop strong { display: block; font-size: 11px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: #F7B27A; margin-bottom: 3px; }
   @keyframes glPop { from { opacity: 0; transform: scale(.6); } to { opacity: 1; transform: scale(1); } }
   .gov-sub { margin: -6px 0 12px; }
