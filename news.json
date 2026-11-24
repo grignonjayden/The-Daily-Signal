@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 12:53 PM ET",
+  "generated_at": "Nov 24, 2026, 12:56 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795542795412,
+  "updated_ts": 1795542995383,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -236,16 +236,22 @@
   ],
   "ticker": [
     {
+      "time": "12:52 PM",
+      "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+      "ts": 1795542771000
+    },
+    {
+      "time": "12:51 PM",
+      "title": "Bloomberg — Zelenskyy Says Congress Should Pressure Russia if Trump Talks Fail",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/zelenskyy-congress-should-press-russia-if-talks-fail-video",
+      "ts": 1795542707000
+    },
+    {
       "time": "12:48 PM",
       "title": "MarketWatch — The AI debt market isn’t convinced the worst is over for investors",
       "url": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
       "ts": 1795542480000
-    },
-    {
-      "time": "12:47 PM",
-      "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-      "ts": 1795542450000
     },
     {
       "time": "12:33 PM",
@@ -299,12 +305,6 @@
       "time": "12:28 PM",
       "title": "Investing.com — Gold producer offers 86% upside as Canadian mine deal adds value for its investors",
       "url": "https://www.investing.com/news/stock-market-news/gold-producer-offers-86-upside-as-canadian-mine-deal-adds-value-for-its-investors-5048800",
-      "ts": 1795541291000
-    },
-    {
-      "time": "12:28 PM",
-      "title": "Investing.com — TD Cowen sees nearly 30% upside in this stock on senior housing growth",
-      "url": "https://www.investing.com/news/stock-market-news/td-cowen-sees-nearly-30-upside-in-this-stock-on-senior-housing-growth-5048803",
       "ts": 1795541291000
     }
   ]
