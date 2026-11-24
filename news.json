@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 12:26 PM ET",
+  "generated_at": "Nov 24, 2026, 12:29 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795541186030,
+  "updated_ts": 1795541386188,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "12:27 PM",
+      "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+      "ts": 1795541260000
+    },
+    {
       "time": "12:24 PM",
       "title": "CNBC — Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
@@ -300,12 +306,6 @@
       "title": "Investing.com — Marvell options signal 8.3% move ahead of Dec. 1 earnings",
       "url": "https://www.investing.com/news/stock-market-news/marvell-options-signal-83-move-ahead-of-dec-1-earnings-93CH-5048781",
       "ts": 1795540195000
-    },
-    {
-      "time": "12:09 PM",
-      "title": "Investing.com — U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.20%",
-      "url": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-020-5048779",
-      "ts": 1795540147000
     }
   ]
 }
