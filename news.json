@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 6:14 PM ET",
+  "generated_at": "Nov 24, 2026, 6:17 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795562067766,
+  "updated_ts": 1795562270193,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -115,16 +115,6 @@
       "ts": 1795456173000
     },
     {
-      "title": "Anthropic’s stock just broke below its IPO price for the first time",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "snippet": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
-      "image": "https://images.mktw.net/im-34075557",
-      "time": "Nov 24, 4:46 PM",
-      "coverage": 5,
-      "ts": 1795556760000
-    },
-    {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
@@ -133,6 +123,16 @@
       "time": "Nov 23, 9:06 AM",
       "coverage": 7,
       "ts": 1795442808000
+    },
+    {
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "snippet": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+      "image": "https://images.mktw.net/im-34075557",
+      "time": "Nov 24, 4:46 PM",
+      "coverage": 4,
+      "ts": 1795556760000
     },
     {
       "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Loom",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "6:14 PM",
+      "title": "CNBC — Stocks making the biggest moves Tuesday: Ambarella, Dell, Autodesk, Urban Outfitters & more",
+      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795562043000
+    },
+    {
+      "time": "6:12 PM",
+      "title": "Bloomberg — Butterball CEO on Thanksgiving Dinner Outlook",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/butterball-ceo-on-thanksgiving-dinner-outlook-video",
+      "ts": 1795561937000
+    },
+    {
       "time": "6:11 PM",
       "title": "MarketWatch — Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
       "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
@@ -285,12 +297,6 @@
       "ts": 1795560722000
     },
     {
-      "time": "5:49 PM",
-      "title": "CNBC — Stocks making the biggest moves after hours: Ambarella, Dell, Autodesk, Urban Outfitters & more",
-      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795560564000
-    },
-    {
       "time": "5:47 PM",
       "title": "Investing.com — Why is Dell Technologies stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-surging-today-93CH-5049300",
@@ -301,12 +307,6 @@
       "title": "Investing.com — JBS proposes election of Wesley Batista as chairman",
       "url": "https://www.investing.com/news/stock-market-news/jbs-proposes-election-of-wesley-batista-as-chairman-5049276",
       "ts": 1795559813000
-    },
-    {
-      "time": "5:36 PM",
-      "title": "Investing.com — S&P upgrades Canadian Pacific Kansas City to A- on cross-border growth momentum",
-      "url": "https://www.investing.com/news/stock-market-news/sp-upgrades-canadian-pacific-kansas-city-to-a-on-crossborder-growth-momentum-5049273",
-      "ts": 1795559761000
     }
   ]
 }
