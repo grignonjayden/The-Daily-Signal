@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 2:27 PM ET",
+  "generated_at": "Nov 24, 2026, 2:31 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795548468505,
+  "updated_ts": 1795548672235,
   "articles": [
+    {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
+      "time": "Nov 24, 2:26 PM",
+      "coverage": 5,
+      "ts": 1795548380000
+    },
     {
       "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
       "source": "Investing.com",
@@ -22,16 +32,6 @@
       "time": "Nov 24, 1:30 PM",
       "coverage": 5,
       "ts": 1795545058000
-    },
-    {
-      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-      "snippet": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
-      "time": "Nov 24, 12:51 PM",
-      "coverage": 5,
-      "ts": 1795542705000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -253,6 +253,12 @@
       "ts": 1795548381000
     },
     {
+      "time": "2:23 PM",
+      "title": "CNBC — Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
+      "url": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
+      "ts": 1795548239000
+    },
+    {
       "time": "2:19 PM",
       "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
@@ -299,12 +305,6 @@
       "title": "Investing.com — GDP, jobless claims, and PCE among key data due Wednesday",
       "url": "https://www.investing.com/news/stock-market-news/gdp-jobless-claims-and-pce-among-key-data-due-wednesday-93CH-5048884",
       "ts": 1795546883000
-    },
-    {
-      "time": "2:00 PM",
-      "title": "Investing.com — Deere, Polestar, and more set to report earnings Wednesday",
-      "url": "https://www.investing.com/news/stock-market-news/deere-polestar-and-more-set-to-report-earnings-wednesday-93CH-5048882",
-      "ts": 1795546831000
     }
   ]
 }
