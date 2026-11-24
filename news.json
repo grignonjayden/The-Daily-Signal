@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 6:11 PM ET",
+  "generated_at": "Nov 24, 2026, 6:14 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795561867398,
+  "updated_ts": 1795562067766,
   "articles": [
+    {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
+      "time": "Nov 24, 6:13 PM",
+      "coverage": 7,
+      "ts": 1795562029000
+    },
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
       "source": "Investing.com",
@@ -33,16 +43,6 @@
       "time": "Nov 24, 4:14 PM",
       "coverage": 7,
       "ts": 1795554840000
-    },
-    {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
-      "time": "Nov 24, 3:42 PM",
-      "coverage": 7,
-      "ts": 1795552927000
     },
     {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "6:11 PM",
+      "title": "MarketWatch — Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+      "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+      "ts": 1795561860000
+    },
+    {
       "time": "6:05 PM",
       "title": "Globe and Mail — Couche-Tard earns $691.3M second-quarter profit",
       "url": "https://www.theglobeandmail.com/business/article-couche-tard-earns-6913m-second-quarter-profit/",
@@ -289,12 +295,6 @@
       "title": "Investing.com — Why is Dell Technologies stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-surging-today-93CH-5049300",
       "ts": 1795560424000
-    },
-    {
-      "time": "5:43 PM",
-      "title": "MarketWatch — Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
-      "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
-      "ts": 1795560180000
     },
     {
       "time": "5:36 PM",
