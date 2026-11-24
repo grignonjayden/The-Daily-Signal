@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 12:39 PM ET",
+  "generated_at": "Nov 24, 2026, 12:43 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795541992753,
+  "updated_ts": 1795542193765,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -243,7 +243,7 @@
     },
     {
       "time": "12:33 PM",
-      "title": "Globe and Mail — Telecom infrastructure is critical to Canada’s security and sovereignty, Joly says after meeting CEOs",
+      "title": "Globe and Mail — Telecom infrastructure is critical to Canada’s security and sovereignty, Joly says",
       "url": "https://www.theglobeandmail.com/business/article-telecom-infrastructure-security-and-sovereignty-melanie-joly-ceos/",
       "ts": 1795541581000
     },
@@ -279,6 +279,12 @@
     },
     {
       "time": "12:28 PM",
+      "title": "CNBC — Waymo says recall prompted by 11 new incidents of robotaxis entering closed freeway lanes",
+      "url": "https://www.cnbc.com/2026/11/24/waymo-recall-prompted-by-robotaxis-entering-closed-freeway-lanes.html",
+      "ts": 1795541317000
+    },
+    {
+      "time": "12:28 PM",
       "title": "Investing.com — This bank stock offers 23% upside as PC Financial deal boosts its growth prospects",
       "url": "https://www.investing.com/news/stock-market-news/this-bank-stock-offers-23-upside-as-pc-financial-deal-boosts-its-growth-prospects-5048802",
       "ts": 1795541292000
@@ -300,12 +306,6 @@
       "title": "WSJ Markets — Health Care Roundup: Market Talk",
       "url": "https://www.wsj.com/business/health-care-roundup-market-talk-0f197179?mod=rss_markets_main",
       "ts": 1795541280000
-    },
-    {
-      "time": "12:27 PM",
-      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main",
-      "ts": 1795541220000
     }
   ]
 }
