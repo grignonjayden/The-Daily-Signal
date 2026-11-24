@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:13 AM ET",
+  "generated_at": "Nov 24, 2026, 8:18 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795526018430,
+  "updated_ts": 1795526335275,
   "articles": [
     {
       "title": "Nvidia stock falls 4% premarket; Goldman says Huang’s return not a clearing event",
@@ -215,14 +215,24 @@
   ],
   "ticker": [
     {
+      "time": "8:17 AM",
+      "title": "CNBC — Commercial real estate activity falls 14% in October, as interest rates rise",
+      "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html"
+    },
+    {
+      "time": "8:16 AM",
+      "title": "Investing.com — FTSE 100 today: Stocks extend losses as miners slide on weaker metals prices",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-miners-slide-with-metals-5047340"
+    },
+    {
+      "time": "8:12 AM",
+      "title": "Investing.com — Silver miners fall as metal price drops on rate hike concerns",
+      "url": "https://www.investing.com/news/stock-market-news/silver-miners-fall-as-metal-price-drops-on-rate-hike-concerns-93CH-5048203"
+    },
+    {
       "time": "8:11 AM",
       "title": "CNBC — Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
-    },
-    {
-      "time": "8:05 AM",
-      "title": "CNBC — Property Play: Commercial real estate activity falls 14% in October, as interest rates rise",
-      "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html"
     },
     {
       "time": "8:00 AM",
@@ -263,16 +273,6 @@
       "time": "7:50 AM",
       "title": "MarketWatch — The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
       "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories"
-    },
-    {
-      "time": "7:49 AM",
-      "title": "Investing.com — HPE shares fall as margin worries overshadow raised outlook",
-      "url": "https://www.investing.com/news/stock-market-news/hpe-shares-fall-as-margin-worries-overshadow-raised-outlook-5048068"
-    },
-    {
-      "time": "7:46 AM",
-      "title": "Investing.com — Why is Dollar Tree stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-dollar-tree-stock-surging-today-93CH-5048049"
     }
   ]
 }
