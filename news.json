@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 3:55 PM ET",
+  "generated_at": "Nov 24, 2026, 3:59 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795553750119,
+  "updated_ts": 1795553953533,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "3:53 PM",
+      "title": "WSJ Markets — Front Month Nymex Natural Gas Rose 4.37% to Settle at $3.3230",
+      "url": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
+      "ts": 1795553580000
+    },
+    {
       "time": "3:45 PM",
       "title": "CNBC — Utah drops criminal charges against Kalshi founders after company suspended operations in state",
       "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Moody’s affirms Sanofi’s Aa3 rating, shifts outlook to negative on Insmed deal",
       "url": "https://www.investing.com/news/stock-market-news/moodys-affirms-sanofis-aa3-rating-shifts-outlook-to-negative-on-insmed-deal-5048942",
       "ts": 1795551485000
-    },
-    {
-      "time": "3:16 PM",
-      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "ts": 1795551360000
     }
   ]
 }
