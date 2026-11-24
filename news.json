@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 6:44 PM ET",
+  "generated_at": "Nov 24, 2026, 6:48 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795563891770,
+  "updated_ts": 1795564097367,
   "articles": [
     {
       "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "6:44 PM",
+      "title": "WSJ Markets — The WSJ Dollar Index Falls 0.27% to 98.75",
+      "url": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
+      "ts": 1795563840000
+    },
+    {
       "time": "6:41 PM",
       "title": "Bloomberg — US Readies Tariff Hike on China, EU Goods",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video-mwvca1k8",
@@ -247,6 +253,12 @@
       "title": "MarketWatch — Dell’s stock rises as the AI boom helps sales more than double",
       "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
       "ts": 1795563240000
+    },
+    {
+      "time": "6:30 PM",
+      "title": "Investing.com — Reliance Worldwide hits 20-month high as AustralianSuper backs Brookfield bid (Nov. 24)",
+      "url": "https://www.investing.com/news/stock-market-news/reliance-worldwide-hits-20month-high-as-australiansuper-backs-brookfield-bid-nov-24-5049371",
+      "ts": 1795563033000
     },
     {
       "time": "6:14 PM",
@@ -295,18 +307,6 @@
       "title": "Globe and Mail — Sell now or wait? The gamble facing Canadian homeowners",
       "url": "https://www.theglobeandmail.com/investing/personal-finance/article-sell-now-or-wait-the-gamble-facing-canadian-homeowners/",
       "ts": 1795561061000
-    },
-    {
-      "time": "5:56 PM",
-      "title": "Investing.com — Why is Nutanix stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-nutanix-stock-sliding-today-93CH-5049309",
-      "ts": 1795561000000
-    },
-    {
-      "time": "5:53 PM",
-      "title": "Investing.com — Why is Autodesk stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-autodesk-stock-sliding-today-93CH-5049306",
-      "ts": 1795560834000
     }
   ]
 }
