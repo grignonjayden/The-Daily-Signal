@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 1:10 PM ET",
+  "generated_at": "Nov 24, 2026, 1:13 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795543803599,
+  "updated_ts": 1795544004530,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -261,6 +261,12 @@
       "ts": 1795543152000
     },
     {
+      "time": "12:54 PM",
+      "title": "Bloomberg — Hormuz Strait Authority Blacklists Tugboats, Raising Pressure on Tanker Traffic",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/iran-adds-tugs-to-hormuz-blacklist-as-pressure-on-shipping-grows",
+      "ts": 1795542874000
+    },
+    {
       "time": "12:52 PM",
       "title": "Investing.com — xAI co-founders launch Epochal to build predictive AI models",
       "url": "https://www.investing.com/news/stock-market-news/former-xai-cofounders-launch-epochal-to-build-predictive-ai-models-5048830",
@@ -301,12 +307,6 @@
       "title": "Globe and Mail — Telecom infrastructure is critical to Canada’s security and sovereignty, Joly says",
       "url": "https://www.theglobeandmail.com/business/article-telecom-infrastructure-security-and-sovereignty-melanie-joly-ceos/",
       "ts": 1795541581000
-    },
-    {
-      "time": "12:30 PM",
-      "title": "CNBC — Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "ts": 1795541426000
     }
   ]
 }
