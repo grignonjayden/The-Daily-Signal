@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 2:48 PM ET",
+  "generated_at": "Nov 24, 2026, 2:51 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795549690184,
+  "updated_ts": 1795549889720,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -54,6 +54,16 @@
       "ts": 1795536060000
     },
     {
+      "title": "Wall Street rebounds as Jensen Huang is reinstated as Nvidia CEO",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/video-wall-street-rebounds-as-jensen-huang-is-reinstated-as-nvidia-ceo/",
+      "snippet": "U.S. stocks surged on Monday, led by a more than 6 per cent jump in the Nasdaq as Nvidia's reinstatement of Jensen Huang as CEO drove investors back into AI-related shares after last week's rout.",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-23-2026%2Ft_3c6529588d4942bf8641718287c5901f_name_2026_11_23T234212Z_1_LOP071923112026RP1_RTRMADP_BASEIMAGE_960X540_USA_STOCKS_WRAP.JPG?auth=a4cfc397154e1f583c7d5efbc946fee276c8f3a5a12a0c835191e0e2dac7971b&smart=true&width=1920&height=1080",
+      "time": "Nov 23, 7:00 PM",
+      "coverage": 6,
+      "ts": 1795478438000
+    },
+    {
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
@@ -64,6 +74,16 @@
       "ts": 1795548660000
     },
     {
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
+    },
+    {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
@@ -72,16 +92,6 @@
       "time": "Nov 24, 6:25 AM",
       "coverage": 4,
       "ts": 1795519556000
-    },
-    {
-      "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/technology/article-nvidia-reinstates-jensen-huang-as-ceo-after-trump-intervention/",
-      "snippet": "Chipmaker’s shares soar as board continues investigation into allegations involving foreign intelligence",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TMVSVBWMHJB7BBNYQHEUJJI22M.JPG?auth=cc886863b6b81f085271c24364ca17f0edd1832fc454f9c54d0bd21045236d2e&smart=true&width=5792&height=3856",
-      "time": "Nov 23, 7:45 PM",
-      "coverage": 5,
-      "ts": 1795481121000
     },
     {
       "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
@@ -95,6 +105,16 @@
       "ts": 1795519164000
     },
     {
+      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
+      "snippet": "GameStop’s base of fervent retail investors is still intact, but Needham analysts say more institutional investors should take note of the company’s transformation.",
+      "image": "https://images.mktw.net/im-796776",
+      "time": "Nov 24, 2:48 PM",
+      "coverage": 4,
+      "ts": 1795549680000
+    },
+    {
       "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
@@ -103,16 +123,6 @@
       "time": "Nov 23, 5:25 PM",
       "coverage": 5,
       "ts": 1795472700000
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 5,
-      "ts": 1795456173000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -134,15 +144,6 @@
       "time": "Nov 24, 4:45 AM",
       "coverage": 2,
       "ts": 1795513527000
-    },
-    {
-      "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
-      "snippet": "Even for Seaport analyst Ron Jewsikow, Tesla’s robotaxi progress is now “impossible to ignore.”",
-      "image": "https://images.mktw.net/im-47681442",
-      "time": "Nov 24, 1:28 PM",
-      "ts": 1795544880000
     }
   ],
   "outlets": [
@@ -239,7 +240,7 @@
       "time": "2:47 PM",
       "title": "CNBC — Anthropic shares fall below IPO price. Traders see even more pain",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
-      "ts": 1795549634000
+      "ts": 1795549662000
     },
     {
       "time": "2:32 PM",
