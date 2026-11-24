@@ -1,8 +1,20 @@
 {
-  "generated_at": "Nov 24, 2026, 6:07 PM ET",
+  "generated_at": "Nov 24, 2026, 6:41 PM ET",
   "date_key": "2026-11-24",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Joint statement by the Minister of Industry of Canada and the Minister responsible for Canada Economic Development for Quebec Regions, and the Minister of Science, Technology and Innovation of South Africa on advancing bilateral cooperation in science, technology, and innovation",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/joint-statement-by-the-minister-of-industry-of-canada-and-the-minister-responsible-for-canada-economic-development-for-quebec-regions-and-the-minis.html",
+      "image": "",
+      "source": "ISED",
+      "badge": "ISED",
+      "analysis": false,
+      "sector": "AI & tech",
+      "time": "Nov 24",
+      "date": "2026-11-24T23:37:17.000Z",
+      "group": "sector"
+    },
     {
       "title": "James Moore: Some urgent questions for Mark Carney before a tariff deal with the U.S.",
       "url": "https://www.cp24.com/news/canada/2026/11/24/james-moore-some-urgent-questions-for-mark-carney-before-a-tariff-deal-with-the-us/",
@@ -85,18 +97,6 @@
       "sector": "Trade",
       "time": "Nov 20",
       "date": "2026-11-20T11:00:03.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Minister Joly to announce investment to expand Canada’s automobile industry",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-joly-to-announce-investment-to-expand-canadas-automobile-industry.html",
-      "image": "",
-      "source": "ISED",
-      "badge": "ISED",
-      "analysis": false,
-      "sector": "Autos",
-      "time": "Nov 19",
-      "date": "2026-11-19T17:00:04.000Z",
       "group": "sector"
     },
     {
@@ -218,11 +218,6 @@
       "kept": 3
     },
     {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 4
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
@@ -233,13 +228,18 @@
       "kept": 0
     },
     {
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 4
+    },
+    {
       "source": "Canada Media Fund",
       "fetched": 24,
       "kept": 1
     },
     {
-      "source": "ISED",
-      "fetched": 20,
+      "source": "CP24",
+      "fetched": 200,
       "kept": 4
     },
     {
