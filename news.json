@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 3:01 PM ET",
+  "generated_at": "Nov 24, 2026, 3:04 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795550492748,
+  "updated_ts": 1795550699148,
   "articles": [
     {
       "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "3:02 PM",
+      "title": "CNBC — Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+      "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+      "ts": 1795550569000
+    },
+    {
       "time": "2:49 PM",
       "title": "Investing.com — US proposes to give automakers until 2031 to install automatic emergency braking",
       "url": "https://www.investing.com/news/stock-market-news/us-proposes-to-give-automakers-until-2031-to-install-automatic-emergency-braking-5048923",
@@ -301,12 +307,6 @@
       "title": "CNBC — Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
       "url": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
       "ts": 1795548239000
-    },
-    {
-      "time": "2:23 PM",
-      "title": "Investing.com — CoreWeave bonds hit record lows as AI trade concerns return",
-      "url": "https://www.investing.com/news/stock-market-news/coreweave-bonds-hit-record-lows-as-ai-trade-concerns-return-5048907",
-      "ts": 1795548201000
     }
   ]
 }
