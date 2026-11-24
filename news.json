@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:14 AM ET",
+  "generated_at": "Nov 24, 2026, 9:18 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795529693715,
+  "updated_ts": 1795529894588,
   "articles": [
     {
       "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
@@ -12,6 +12,26 @@
       "time": "Nov 24, 9:09 AM",
       "coverage": 7,
       "ts": 1795529358000
+    },
+    {
+      "title": "Nvidia’s Huang returns to cheers in China, but political hurdles mount",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidias-huang-returns-to-cheers-in-china-but-political-hurdles-mount-5048427",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN17M_L.jpg",
+      "time": "Nov 24, 9:07 AM",
+      "coverage": 7,
+      "ts": 1795529237000
+    },
+    {
+      "title": "Nvidia stock falls 5% premarket; Goldman says Huang’s return not a clearing event",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-surge-30-as-board-announces-jensen-huangs-reinstatement-5045795",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM811C3_L.jpg",
+      "time": "Nov 24, 9:01 AM",
+      "coverage": 7,
+      "ts": 1795528886000
     },
     {
       "title": "Six key questions raised by Jensen Huang's return to Nvidia",
@@ -42,16 +62,6 @@
       "time": "Nov 24, 6:59 AM",
       "coverage": 7,
       "ts": 1795521540000
-    },
-    {
-      "title": "Jensen Huang’s return could reignite AI semiconductor rally, analyst says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/jensen-huangs-return-could-reignite-ai-semiconductor-rally-analyst-says-5048329",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM4Q094_L.jpg",
-      "time": "Nov 24, 8:36 AM",
-      "coverage": 7,
-      "ts": 1795527392000
     },
     {
       "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
@@ -94,14 +104,14 @@
       "ts": 1795519556000
     },
     {
-      "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
+      "title": "Nvidia’s decision to bring back Huang draws bipartisan criticism from U.S. lawmakers",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/technology/article-nvidia-reinstates-jensen-huang-as-ceo-after-trump-intervention/",
-      "snippet": "Chipmaker’s shares soar as board continues investigation into allegations involving foreign intelligence",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TMVSVBWMHJB7BBNYQHEUJJI22M.JPG?auth=cc886863b6b81f085271c24364ca17f0edd1832fc454f9c54d0bd21045236d2e&smart=true&width=5792&height=3856",
-      "time": "Nov 23, 7:45 PM",
-      "coverage": 6,
-      "ts": 1795481121000
+      "url": "https://www.theglobeandmail.com/world/us-politics/article-us-lawmakers-criticize-nvidia-decision-to-reinstate-jensen-huang/",
+      "snippet": "Prominent members of Congress say the move highlights need to probe potential wrongdoing, enact greater export controls",
+      "image": "https://www.theglobeandmail.com/resizer/v2/4SNX3QNKW5BJRGOGEONXVOJ67I.jpg?auth=72af63d2a4937e0969e17477550a9600948510ae859b4114947231b7e5296a75&smart=true&width=8192&height=5464",
+      "time": "Nov 23, 12:21 PM",
+      "coverage": 7,
+      "ts": 1795454474000
     },
     {
       "title": "Huang’s Return Hits the Reset Button for AI Bets",
@@ -125,16 +135,6 @@
       "ts": 1795441018000
     },
     {
-      "title": "U.S. stock futures slide a day after Wall Street’s explosive rally",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg",
-      "time": "Nov 24, 8:34 AM",
-      "coverage": 5,
-      "ts": 1795527280000
-    },
-    {
       "title": "Stocks Fall as Nvidia Fades and Trade Fears Return: Markets Wrap",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
@@ -142,7 +142,7 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 23, 5:06 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795471606000
     }
   ],
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "9:14 AM",
+      "title": "Investing.com — Applied Optoelectronics stock rises on datacenter deal",
+      "url": "https://www.investing.com/news/stock-market-news/applied-optoelectronics-stock-rises-on-datacenter-deal-5048440",
+      "ts": 1795529649000
+    },
+    {
       "time": "9:12 AM",
       "title": "CNBC — Stocks making the biggest moves Tuesday: Nvidia, Anthropic, retailers & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
@@ -249,10 +255,46 @@
       "ts": 1795529520000
     },
     {
+      "time": "9:12 AM",
+      "title": "Investing.com — Why is GameStop stock gaining today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-gaining-today-93CH-5048434",
+      "ts": 1795529520000
+    },
+    {
+      "time": "9:08 AM",
+      "title": "Investing.com — 3 defensive stocks to watch as tech, chip volatility persists",
+      "url": "https://www.investing.com/news/stock-market-news/3-defensive-stocks-to-watch-as-tech-chip-volatility-persists-93CH-5048428",
+      "ts": 1795529286000
+    },
+    {
+      "time": "9:06 AM",
+      "title": "Investing.com — From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
+      "url": "https://www.investing.com/news/stock-market-news/from-horsepower-to-firepower-japan-draws-auto-suppliers-into-major-arms-buildup-5046991",
+      "ts": 1795529218000
+    },
+    {
+      "time": "9:06 AM",
+      "title": "Investing.com — TSX futures slip as caution takes hold after AI-fueled rally",
+      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-as-caution-takes-hold-after-aifueled-rally-5047984",
+      "ts": 1795529169000
+    },
+    {
+      "time": "9:05 AM",
+      "title": "Investing.com — Cerberus Capital agrees to buy Airbus space unit in Florida",
+      "url": "https://www.investing.com/news/stock-market-news/cerberus-capital-agrees-to-buy-airbus-space-unit-in-florida-5048422",
+      "ts": 1795529150000
+    },
+    {
       "time": "9:05 AM",
       "title": "Globe and Mail — La Caisse invests $30-million in Montreal furniture company Cozey",
       "url": "https://www.theglobeandmail.com/business/article-la-caisse-invests-30-million-in-montreal-furniture-company-cozey/",
       "ts": 1795529106000
+    },
+    {
+      "time": "9:04 AM",
+      "title": "Investing.com — U.S. stock futures slide a day after Wall Street’s explosive rally",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
+      "ts": 1795529050000
     },
     {
       "time": "9:01 AM",
@@ -262,51 +304,9 @@
     },
     {
       "time": "9:01 AM",
-      "title": "WSJ Markets — 11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
-      "url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
-      "ts": 1795528860000
-    },
-    {
-      "time": "9:00 AM",
-      "title": "Globe and Mail — Can my employer track my location when I’m working?",
-      "url": "https://www.theglobeandmail.com/business/careers/career-advice/article-can-my-employer-track-my-location-when-im-working/",
-      "ts": 1795528800000
-    },
-    {
-      "time": "8:53 AM",
-      "title": "CNBC — Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "url": "https://www.cnbc.com/investingclub/2026/11/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "ts": 1795528417000
-    },
-    {
-      "time": "8:50 AM",
-      "title": "MarketWatch — 12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-      "ts": 1795528200000
-    },
-    {
-      "time": "8:48 AM",
-      "title": "MarketWatch — Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
-      "url": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
-      "ts": 1795528080000
-    },
-    {
-      "time": "8:42 AM",
-      "title": "CNBC — Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
-      "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
-      "ts": 1795527775000
-    },
-    {
-      "time": "8:42 AM",
-      "title": "Investing.com — Pentagon in talks with GM, Ford for military drones, WSJ reports",
-      "url": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-with-general-motors-and-ford-on-military-drones-wsj-reports-5047560",
-      "ts": 1795527757000
-    },
-    {
-      "time": "8:41 AM",
-      "title": "Bloomberg — Market Timers Get Schooled as S&P 500 Swings Rip Up Playbooks",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
-      "ts": 1795527719000
+      "title": "Investing.com — Monday’s insider activity: Biglari leads buys, Tron sees major sale",
+      "url": "https://www.investing.com/news/stock-market-news/mondays-insider-activity-biglari-leads-buys-tron-sees-major-sale-93CH-5048393",
+      "ts": 1795528893000
     }
   ]
 }
