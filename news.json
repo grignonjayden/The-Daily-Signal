@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 4:46 PM ET",
+  "generated_at": "Nov 24, 2026, 4:49 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795556795692,
+  "updated_ts": 1795556994970,
   "articles": [
     {
       "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
@@ -45,16 +45,6 @@
       "ts": 1795554420000
     },
     {
-      "title": "Nvidia’s Huang said he violated code of conduct, source says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
-      "time": "Nov 24, 4:06 PM",
-      "coverage": 7,
-      "ts": 1795554390000
-    },
-    {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
@@ -63,16 +53,6 @@
       "time": "Nov 24, 3:42 PM",
       "coverage": 7,
       "ts": 1795552927000
-    },
-    {
-      "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories",
-      "snippet": "Congress appears even more likely to OK new restrictions on the chip giant’s dealings with China — and it’s calling for more investigations, additional hearings and briefings",
-      "image": "https://images.mktw.net/im-96418474",
-      "time": "Nov 24, 3:42 PM",
-      "coverage": 7,
-      "ts": 1795552920000
     },
     {
       "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
@@ -125,6 +105,16 @@
       "ts": 1795456173000
     },
     {
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "snippet": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+      "image": "https://images.mktw.net/im-34075557",
+      "time": "Nov 24, 4:46 PM",
+      "coverage": 5,
+      "ts": 1795556760000
+    },
+    {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
@@ -144,6 +134,16 @@
       "time": "Nov 24, 4:45 AM",
       "coverage": 4,
       "ts": 1795513527000
+    },
+    {
+      "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.86%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-086-5049102",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM3C1A3_1200_L.jpg",
+      "time": "Nov 24, 4:31 PM",
+      "coverage": 3,
+      "ts": 1795555860000
     }
   ],
   "outlets": [
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "4:45 PM",
+      "title": "MarketWatch — HPE just posted its strongest growth ever — but its stock is sinking",
+      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "ts": 1795556700000
+    },
+    {
       "time": "4:42 PM",
       "title": "WSJ Markets — U.S. Treasury Yields Mixed Ahead of Inflation, GDP Data",
       "url": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
@@ -268,6 +274,18 @@
     },
     {
       "time": "4:30 PM",
+      "title": "Investing.com — Mexico stocks higher at close of trade; S&P/BMV IPC up 0.03%",
+      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-003-5049091",
+      "ts": 1795555832000
+    },
+    {
+      "time": "4:30 PM",
+      "title": "Investing.com — Canada stocks lower at close of trade; S&P/TSX Composite down 0.35%",
+      "url": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-035-5049085",
+      "ts": 1795555805000
+    },
+    {
+      "time": "4:30 PM",
       "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
       "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
       "ts": 1795555800000
@@ -289,24 +307,6 @@
       "title": "WSJ Markets — Oil Prices Rebound as Shipping Risks Persist",
       "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main",
       "ts": 1795555680000
-    },
-    {
-      "time": "4:27 PM",
-      "title": "Bloomberg — Escalation in Iran Appears As the Default",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/opinion-escalation-in-iran-appears-as-the-default-video",
-      "ts": 1795555661000
-    },
-    {
-      "time": "4:24 PM",
-      "title": "Investing.com — Dell lifts annual forecasts after record quarter on surging AI server demand",
-      "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024",
-      "ts": 1795555457000
-    },
-    {
-      "time": "4:23 PM",
-      "title": "WSJ Markets — Nvidia’s Relief Rally Stalls",
-      "url": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
-      "ts": 1795555380000
     }
   ]
 }
