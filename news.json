@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:48 AM ET",
+  "generated_at": "Nov 24, 2026, 10:52 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795535332020,
+  "updated_ts": 1795535534030,
   "articles": [
     {
       "title": "Nvidia shares fall over 5% after Huang comeback rally",
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "10:48 AM",
+      "time": "10:49 AM",
       "title": "CNBC — Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
       "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-      "ts": 1795535295000
+      "ts": 1795535367000
     },
     {
       "time": "10:47 AM",
@@ -253,6 +253,12 @@
       "title": "WSJ Markets — Tech Stocks Backslide After Epic Rally",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
       "ts": 1795535040000
+    },
+    {
+      "time": "10:42 AM",
+      "title": "Bloomberg — Nigeria Billionaire Sets Blockbuster Refinery Listing for Dec. 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/nigeria-billionaire-sets-blockbuster-refinery-listing-for-dec-1",
+      "ts": 1795534975000
     },
     {
       "time": "10:34 AM",
@@ -301,12 +307,6 @@
       "title": "Globe and Mail — Scotiabank, CIBC launch new offices abroad",
       "url": "https://www.theglobeandmail.com/business/article-scotiabank-cibc-launch-new-offices-abroad/",
       "ts": 1795534031000
-    },
-    {
-      "time": "10:26 AM",
-      "title": "Investing.com — Dick’s Sporting Goods lifts annual profit forecast as demand stays steady",
-      "url": "https://www.investing.com/news/stock-market-news/dicks-sporting-goods-lifts-annual-profit-forecast-as-demand-stays-steady-5048647",
-      "ts": 1795533987000
     }
   ]
 }
