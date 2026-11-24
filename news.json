@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:01 AM ET",
+  "generated_at": "Nov 24, 2026, 10:05 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795532513054,
+  "updated_ts": 1795532713140,
   "articles": [
     {
       "title": "Nvidia shares fall over 5% after Huang comeback rally",
@@ -10,18 +10,38 @@
       "snippet": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558076-1795501710580-gettyimages-2299493080-AFP_D36R6ZH.jpeg?v=1795501751&w=1920&h=1080",
       "time": "Nov 24, 9:43 AM",
-      "coverage": 6,
+      "coverage": 7,
       "ts": 1795531433000
     },
     {
-      "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
+      "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+      "snippet": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
+      "image": "https://images.mktw.net/im-72615127",
+      "time": "Nov 24, 9:59 AM",
+      "coverage": 6,
+      "ts": 1795532340000
+    },
+    {
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
-      "snippet": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108548916-1794403429337-108548916-1794403365942-gettyimages-2299714787-UK_HUANG.jpg?v=1795450267&w=1920&h=1080",
-      "time": "Nov 24, 9:20 AM",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "snippet": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550584-1794519112118-gettyimages-2297269641-TRUMP_TECH_AI.jpeg?v=1795450322&w=1920&h=1080",
+      "time": "Nov 24, 8:31 AM",
+      "coverage": 6,
+      "ts": 1795527089000
+    },
+    {
+      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
+      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
+      "time": "Nov 24, 6:25 AM",
       "coverage": 5,
-      "ts": 1795530033000
+      "ts": 1795519556000
     },
     {
       "title": "Anthropic falls below $83 IPO price as debut rally unravels",
@@ -44,14 +64,14 @@
       "ts": 1795532100000
     },
     {
-      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
-      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
-      "time": "Nov 24, 6:25 AM",
-      "coverage": 4,
-      "ts": 1795519556000
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
     },
     {
       "title": "Anthropic Sinks Below IPO Price Less Than a Week After Debut",
@@ -65,33 +85,13 @@
       "ts": 1795519164000
     },
     {
-      "title": "TSX falls as global market rally loses steam, Nvidia shares retreat",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-as-caution-takes-hold-after-aifueled-rally-5047984",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
-      "time": "Nov 24, 9:44 AM",
-      "coverage": 3,
-      "ts": 1795531448000
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 5,
-      "ts": 1795456173000
-    },
-    {
       "title": "Stocks soar on Jensen Huang’s return to Nvidia",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026",
       "snippet": "Major U.S. equity indexes are higher Monday after last week&apos;s steep AI sell-off, with investors eyeing Nvidia&apos;s recovery and Wednesday&apos;s PCE inflation report.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-historic-stock-market-selloff-1.jpg",
       "time": "Nov 23, 8:36 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795441018000
     },
     {
@@ -101,7 +101,7 @@
       "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
       "image": "https://images.wsj.net/im-75358264",
       "time": "Nov 23, 5:25 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795472700000
     },
     {
@@ -111,7 +111,7 @@
       "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
       "image": "https://images.wsj.net/im-87333679",
       "time": "Nov 23, 5:15 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795472100000
     },
     {
@@ -122,8 +122,18 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 23, 5:06 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795471606000
+    },
+    {
+      "title": "TSX falls as global market rally loses steam, Nvidia shares retreat",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-as-caution-takes-hold-after-aifueled-rally-5047984",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
+      "time": "Nov 24, 9:44 AM",
+      "coverage": 3,
+      "ts": 1795531448000
     },
     {
       "title": "Guggenheim lifts CrowdStrike to Buy, sees 34% upside",
@@ -134,16 +144,6 @@
       "time": "Nov 24, 9:56 AM",
       "coverage": 2,
       "ts": 1795532166000
-    },
-    {
-      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-      "snippet": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
-      "image": "https://images.mktw.net/im-44503864",
-      "time": "Nov 24, 8:50 AM",
-      "coverage": 2,
-      "ts": 1795528200000
     }
   ],
   "outlets": [
@@ -161,8 +161,7 @@
       "source": "Statistics Canada",
       "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123a-eng.htm",
       "snippet": "Operating profit reported by Canadian corporations declined to $236.6 billion in the third quarter, down $4.9 billion (-2.0%) from the second quarter. This decrease was attributable to both the non-financial and…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/TunneysPasture2022.jpg/330px-TunneysPasture2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261123/cg261123a001-eng.png",
       "time": "Nov 23, 8:30 AM",
       "ts": 1795440600000
     },
@@ -238,6 +237,36 @@
   ],
   "ticker": [
     {
+      "time": "10:04 AM",
+      "title": "CNBC — Commercial real estate activity falls 14% in October, as interest rates rise",
+      "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+      "ts": 1795532680000
+    },
+    {
+      "time": "10:03 AM",
+      "title": "CNBC — Nvidia brought Jensen Huang back. But the investigations aren’t over",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
+      "ts": 1795532616000
+    },
+    {
+      "time": "10:02 AM",
+      "title": "CNBC — Stocks making the biggest moves Tuesday: Kohl's, Dicks Sporting Goods, Abercrombie & Fitch & more",
+      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795532531000
+    },
+    {
+      "time": "10:00 AM",
+      "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "ts": 1795532400000
+    },
+    {
+      "time": "9:59 AM",
+      "title": "MarketWatch — The number of 401(k) millionaires drops as the stock market swings",
+      "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "ts": 1795532340000
+    },
+    {
       "time": "9:57 AM",
       "title": "Investing.com — Why is KLA stock sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-kla-stock-sliding-today-93CH-5048580",
@@ -278,36 +307,6 @@
       "title": "CNBC — Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
       "ts": 1795531940000
-    },
-    {
-      "time": "9:51 AM",
-      "title": "CNBC — Best Buy reports comparable sales growth of 6.1%, highest in five years",
-      "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-      "ts": 1795531918000
-    },
-    {
-      "time": "9:51 AM",
-      "title": "Investing.com — Why is CoreWeave stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5048566",
-      "ts": 1795531878000
-    },
-    {
-      "time": "9:49 AM",
-      "title": "Investing.com — Fossil Group stock jumps on extended Michael Kors license deal",
-      "url": "https://www.investing.com/news/stock-market-news/fossil-group-stock-jumps-on-extended-michael-kors-license-deal-5048564",
-      "ts": 1795531766000
-    },
-    {
-      "time": "9:48 AM",
-      "title": "Investing.com — Why is Lumentum stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-lumentum-stock-sliding-today-93CH-5048561",
-      "ts": 1795531714000
-    },
-    {
-      "time": "9:46 AM",
-      "title": "Investing.com — Why is SanDisk stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-sliding-today-93CH-5048553",
-      "ts": 1795531576000
     }
   ]
 }
