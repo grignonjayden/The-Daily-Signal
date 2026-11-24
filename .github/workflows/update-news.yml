@@ -6,7 +6,7 @@ on:
   workflow_dispatch:          # lets you run it by hand from the Actions tab
   push:                       # also runs right away when its script changes
     branches: [main]
-    paths: ['scripts/fetch-news.mjs', 'scripts/fetch-quotes.mjs', '.github/workflows/update-news.yml']
+    paths: ['scripts/fetch-news.mjs', 'scripts/fetch-quotes.mjs', 'scripts/fetch-history.mjs', '.github/workflows/update-news.yml']
 
 permissions:
   contents: write
@@ -42,6 +42,10 @@ jobs:
             if [ $((round % 5)) = 1 ]; then
               node scripts/fetch-quotes.mjs || echo "portfolio quotes fetch failed this round"
               files="$files quotes.json"
+            fi
+            if [ $((round % 40)) = 2 ]; then
+              node scripts/fetch-history.mjs || echo "portfolio history fetch failed this round"
+              files="$files history.json"
             fi
             if [ $((round % 10)) = 1 ]; then
               node scripts/fetch-canada.mjs || echo "government fetch failed this round"
