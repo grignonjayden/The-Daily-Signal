@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 12:56 PM ET",
+  "generated_at": "Nov 24, 2026, 12:59 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795542995383,
+  "updated_ts": 1795543196179,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -96,6 +96,16 @@
       "ts": 1795541210000
     },
     {
+      "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+      "snippet": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharmaceutical giant offset the patent expiration on a key drug.",
+      "image": "https://images.mktw.net/im-84195130",
+      "time": "Nov 24, 10:21 AM",
+      "coverage": 4,
+      "ts": 1795533660000
+    },
+    {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
@@ -106,6 +116,16 @@
       "ts": 1795456173000
     },
     {
+      "title": "Possible Tesla merger could aid SpaceX’s S&P 500 entry, ⁠J.P. Morgan says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/possible-tesla-merger-could-aid-spacexs-sp-500-entry-jp-morgan-says-5048726",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1IL_L.jpg",
+      "time": "Nov 24, 12:48 PM",
+      "coverage": 2,
+      "ts": 1795542502000
+    },
+    {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
@@ -114,25 +134,6 @@
       "time": "Nov 23, 9:06 AM",
       "coverage": 5,
       "ts": 1795442808000
-    },
-    {
-      "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-      "snippet": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharmaceutical giant offset the patent expiration on a key drug.",
-      "image": "https://images.mktw.net/im-84195130",
-      "time": "Nov 24, 10:21 AM",
-      "coverage": 3,
-      "ts": 1795533660000
-    },
-    {
-      "title": "FTSE 100 today: Stocks edge lower as miners slide on weaker metals prices",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-miners-slide-with-metals-5047340",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC2028Y_M.jpg",
-      "time": "Nov 24, 12:21 PM",
-      "ts": 1795540882000
     },
     {
       "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
@@ -236,10 +237,16 @@
   ],
   "ticker": [
     {
-      "time": "12:52 PM",
+      "time": "12:58 PM",
       "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-      "ts": 1795542771000
+      "ts": 1795543081000
+    },
+    {
+      "time": "12:52 PM",
+      "title": "Investing.com — xAI co-founders launch Epochal to build predictive AI models",
+      "url": "https://www.investing.com/news/stock-market-news/former-xai-cofounders-launch-epochal-to-build-predictive-ai-models-5048830",
+      "ts": 1795542779000
     },
     {
       "time": "12:51 PM",
@@ -254,16 +261,28 @@
       "ts": 1795542480000
     },
     {
+      "time": "12:42 PM",
+      "title": "Investing.com — Exclusive-Blackstone, Warburg Pincus, Apollo in talks to back GTCR’s $50 billion Global Payments deal, sources say",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveblackstone-warburg-pincus-apollo-in-talks-to-back-gtcrs-50-billion-global-payments-deal-sources-say-5048817",
+      "ts": 1795542176000
+    },
+    {
+      "time": "12:42 PM",
+      "title": "Investing.com — Elon Musk asks US appeals court to throw out Twitter fraud verdict",
+      "url": "https://www.investing.com/news/stock-market-news/elon-musk-asks-us-appeals-court-to-throw-out-twitter-fraud-verdict-5048808",
+      "ts": 1795542158000
+    },
+    {
+      "time": "12:42 PM",
+      "title": "Investing.com — CFTC staff advisory says crypto can count toward reserves, not liquidity rule",
+      "url": "https://www.investing.com/news/stock-market-news/cftc-staff-advisory-says-crypto-can-count-toward-reserves-not-liquidity-rule-5046749",
+      "ts": 1795542143000
+    },
+    {
       "time": "12:33 PM",
       "title": "Globe and Mail — Telecom infrastructure is critical to Canada’s security and sovereignty, Joly says",
       "url": "https://www.theglobeandmail.com/business/article-telecom-infrastructure-security-and-sovereignty-melanie-joly-ceos/",
       "ts": 1795541581000
-    },
-    {
-      "time": "12:30 PM",
-      "title": "Investing.com — Elon Musk asks US appeals court to throw out Twitter fraud verdict",
-      "url": "https://www.investing.com/news/stock-market-news/elon-musk-asks-us-appeals-court-to-throw-out-twitter-fraud-verdict-5048808",
-      "ts": 1795541442000
     },
     {
       "time": "12:30 PM",
@@ -288,24 +307,6 @@
       "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "ts": 1795541400000
-    },
-    {
-      "time": "12:28 PM",
-      "title": "CNBC — Waymo says recall prompted by 11 new incidents of robotaxis entering closed freeway lanes",
-      "url": "https://www.cnbc.com/2026/11/24/waymo-recall-prompted-by-robotaxis-entering-closed-freeway-lanes.html",
-      "ts": 1795541317000
-    },
-    {
-      "time": "12:28 PM",
-      "title": "Investing.com — This bank stock offers 23% upside as PC Financial deal boosts its growth prospects",
-      "url": "https://www.investing.com/news/stock-market-news/this-bank-stock-offers-23-upside-as-pc-financial-deal-boosts-its-growth-prospects-5048802",
-      "ts": 1795541292000
-    },
-    {
-      "time": "12:28 PM",
-      "title": "Investing.com — Gold producer offers 86% upside as Canadian mine deal adds value for its investors",
-      "url": "https://www.investing.com/news/stock-market-news/gold-producer-offers-86-upside-as-canadian-mine-deal-adds-value-for-its-investors-5048800",
-      "ts": 1795541291000
     }
   ]
 }
