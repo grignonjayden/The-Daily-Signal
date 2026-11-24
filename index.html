@@ -600,6 +600,41 @@
   .pf-math-btn { margin-top: 16px; }
   .pf-math[hidden] { display: none; }
   @media (max-width: 600px) { .pf-simple .numt { font-size: 15px; } .pf-simple .num { r: 14; } .pf-sugg-row { flex-direction: column; gap: 2px; } }
+  .pf-donut-btn { all: unset; cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: 6px; border-radius: 50%; -webkit-tap-highlight-color: transparent; }
+  .pf-donut-btn .pf-donut { transition: transform .25s cubic-bezier(.34,1.56,.64,1), filter .25s; animation: pfBreathe 2.6s ease-in-out 3; }
+  .pf-donut-btn:hover .pf-donut, .pf-donut-btn:focus-visible .pf-donut { transform: scale(1.07); filter: drop-shadow(0 8px 18px rgba(28,46,82,.25)); }
+  .pf-donut-btn:active .pf-donut { transform: scale(.97); }
+  @keyframes pfBreathe { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } }
+  .pf-donut-hint { font-size: 12px; font-weight: 800; color: var(--pink-deep); background: var(--pink-soft); border-radius: 999px; padding: 4px 10px; }
+  .pf-rundown { max-width: 560px; }
+  .pf-rundown h3 { margin-bottom: 8px !important; }
+  .pf-rd-head { display: flex; align-items: center; justify-content: space-between; gap: 14px; margin-bottom: 10px; }
+  .pf-donut-big { width: 130px; height: 130px; flex: none; }
+  .pf-up { color: var(--mint-deep); } .pf-down { color: var(--pink-deep); }
+  .pf-rundown .pf-legend { margin: 4px 0 14px; }
+  .pf-rd-list { display: flex; flex-direction: column; gap: 12px; border-top: 1px solid var(--line); padding-top: 14px; }
+  .pf-rd-row { display: flex; gap: 12px; align-items: flex-start; }
+  .pf-rd-ic { font-size: 20px; line-height: 1.2; flex: none; }
+  .info-box .pf-rd-row p { font-size: 15px; line-height: 1.5; margin: 0; color: var(--ink-soft); }
+  .info-box p.pf-rd-note { font-size: 12px; color: var(--ink-faint); margin: 14px 0 12px; }
+  .pf-simple .num-btn { cursor: pointer; outline: none; }
+  .pf-simple .num-btn .num { transition: r .2s; }
+  .pf-simple .num-btn:hover .num, .pf-simple .num-btn.on .num, .pf-simple .num-btn:focus-visible .num { r: 14; }
+  .pf-simple .num-ring { fill: none; stroke-width: 3; opacity: .55; transform-box: fill-box; transform-origin: center; animation: pfRing 1.8s ease-out infinite; }
+  .pf-simple .num-ring.n1 { stroke: #2F63D6; } .pf-simple .num-ring.n2 { stroke: #5A5D68; } .pf-simple .num-ring.n3 { stroke: #D9722C; } .pf-simple .num-ring.n4 { stroke: #1E9E5A; }
+  .pf-simple.tapped .num-ring { animation: none; opacity: 0; }
+  @keyframes pfRing { 0% { transform: scale(1); opacity: .6; } 100% { transform: scale(2.1); opacity: 0; } }
+  .pf-tap-hint { font-size: 13px; font-weight: 800; color: var(--pink-deep); margin: 2px 0 10px; }
+  .pf-tap-hint.done { color: var(--ink-faint); font-weight: 600; }
+  .pf-key-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .pf-key-chip { all: unset; cursor: pointer; display: inline-flex; align-items: center; gap: 7px; padding: 5px 12px 5px 5px; border-radius: 999px; background: var(--surface-alt); font-size: 13px; font-weight: 700; color: var(--ink); border: 2px solid transparent; -webkit-tap-highlight-color: transparent; transition: background .15s, border-color .15s; }
+  .pf-key-chip:hover { background: var(--line); }
+  .pf-key-chip.on.n1 { border-color: #2F63D6; } .pf-key-chip.on.n2 { border-color: #5A5D68; } .pf-key-chip.on.n3 { border-color: #D9722C; } .pf-key-chip.on.n4 { border-color: #1E9E5A; }
+  .pf-key-chip .pf-key-n { margin: 0; width: 30px; height: 30px; font-size: 14px; }
+  .pf-key-chip { padding: 4px !important; } .pf-key-chip-t { display: none; }
+  .pf-key-panel { margin-top: 12px; background: var(--surface-alt); border-radius: 14px; padding: 14px; animation: rise .3s var(--ease) both; }
+  .pf-key-panel[hidden] { display: none; }
+  @media (max-width: 600px) { .pf-rd-head { flex-direction: column-reverse; align-items: flex-start; } .pf-donut-big { width: 120px; height: 120px; align-self: center; } }
   .pf-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 6px 2px 0; }
   .pf-foot .live-updated { margin: 0; max-width: 620px; }
   .pf-protect { flex-basis: 100%; font-size: 12.5px; margin: 0; }
@@ -2566,7 +2601,10 @@ function pfDraw() {
     mix.appendChild(el('p', { className: 'item-summary gov-sub', text: 'Your asset allocation: how your money is split up. Diversification, spreading it across different types, can soften the ups and downs of any one of them.' }));
     const row = el('div', { className: 'pf-mix' });
     const parts = Object.keys(PF_CATS).map(k => ({ k, ...PF_CATS[k], value: vals.filter(x => x.v.cat === k).reduce((s, x) => s + x.v.value, 0) })).filter(p => p.value > 0);
-    row.appendChild(pfDonut(parts, total));
+    const dbtn = el('button', { className: 'pf-donut-btn' }); dbtn.type = 'button'; dbtn.setAttribute('aria-label', 'Open your portfolio rundown');
+    dbtn.appendChild(pfDonut(parts, total)); dbtn.appendChild(el('span', { className: 'pf-donut-hint', text: '👆 Tap for your rundown' }));
+    dbtn.onclick = () => pfRundown(vals, total, parts);
+    row.appendChild(dbtn);
     const legend = el('div', { className: 'pf-legend' });
     parts.forEach(p => {
       const li = el('div', { className: 'pf-leg' }); const dot = el('span', { className: 'pf-dot' }); dot.style.background = p.color; li.appendChild(dot);
@@ -2817,6 +2855,53 @@ function pfIndirect(vals, total) {
   return pick;
 }
 
+// Tap the donut: a pop-out rundown of the whole portfolio in plain words.
+function pfRundown(vals, total, parts) {
+  const overlay = el('div', { className: 'info-overlay' });
+  const box = el('div', { className: 'info-box card-pop pf-rundown' });
+  box.setAttribute('role', 'dialog'); box.setAttribute('aria-modal', 'true');
+  box.appendChild(el('h3', { text: 'Your portfolio rundown' }));
+  const day = vals.reduce((s, x) => s + x.v.day, 0), base = total - day;
+  const head = el('div', { className: 'pf-rd-head' });
+  const big = el('div'); big.appendChild(el('div', { className: 'pf-total-val', text: pfMoney(total) }));
+  big.appendChild(el('div', { className: 'pf-stat-val ' + (day > 0 ? 'pf-up' : day < 0 ? 'pf-down' : ''), text: (day > 0 ? '▲ ' : day < 0 ? '▼ ' : '') + pfSigned(day) + ' today (' + pfPct(base > 0 ? day / base * 100 : 0) + ')' }));
+  head.appendChild(big);
+  const d = pfDonut(parts, total); d.classList.add('pf-donut-big'); head.appendChild(d);
+  box.appendChild(head);
+  const leg = el('div', { className: 'pf-legend' });
+  parts.forEach(p => { const li = el('div', { className: 'pf-leg' }); const dot = el('span', { className: 'pf-dot' }); dot.style.background = p.color; li.appendChild(dot); li.appendChild(el('span', { className: 'pf-leg-name', text: p.label })); li.appendChild(el('span', { className: 'pf-leg-pct', text: Math.round(p.value / total * 100) + '%' })); li.appendChild(el('span', { className: 'pf-leg-val', text: pfMoney(p.value) })); leg.appendChild(li); });
+  box.appendChild(leg);
+
+  const pts = [];
+  const sorted = vals.slice().sort((a, b) => b.v.value - a.v.value), top = sorted[0], topShare = top ? top.v.value / total : 0;
+  const name = x => x.h.type === 'cash' ? (x.h.name || 'Cash') : (x.h.sym || x.h.name);
+  pts.push(['🧺', 'What you own', vals.length + ' holding' + (vals.length === 1 ? '' : 's') + ' across ' + parts.length + ' type' + (parts.length === 1 ? '' : 's') + '. Biggest: ' + name(top) + ' at ' + Math.round(topShare * 100) + '%.' + (topShare > 0.4 ? ' That’s a lot in one place, so its ups and downs drive yours.' : topShare > 0.25 ? ' A sizeable chunk, but not everything rides on it.' : ' Nicely spread out.')]);
+  const movers = vals.filter(x => Math.abs(x.v.day) >= 0.005).sort((a, b) => b.v.day - a.v.day);
+  if (movers.length) pts.push(['📈', 'Today', 'Best: ' + name(movers[0]) + ' (' + pfSigned(movers[0].v.day) + ')' + (movers.length > 1 && movers[movers.length - 1].v.day < 0 ? '. Worst: ' + name(movers[movers.length - 1]) + ' (' + pfSigned(movers[movers.length - 1].v.day) + ').' : '.')]);
+  const withCost = vals.filter(x => x.v.gain != null);
+  if (withCost.length) { const g = withCost.reduce((s, x) => s + x.v.gain, 0), c = withCost.reduce((s, x) => s + x.v.cost, 0); pts.push(['🧾', 'Since you bought', (g >= 0 ? 'Up ' : 'Down ') + pfMoney(Math.abs(g)) + ' (' + pfPct(c ? g / c * 100 : 0) + ') on the holdings where you entered a price.']); }
+  const usd = vals.filter(x => x.v.cur === 'USD').reduce((s, x) => s + x.v.value, 0) / total;
+  if (usd > 0.005) pts.push(['💱', 'U.S. dollars', Math.round(usd * 100) + '% of your money is in U.S.-dollar investments, so a weaker loonie raises their value in Canadian dollars and a stronger one lowers it.']);
+  const cash = vals.filter(x => x.h.type === 'cash').reduce((s, x) => s + x.v.value, 0), yearly = vals.reduce((s, x) => s + (x.v.yearly || 0), 0);
+  pts.push(['🛟', 'Safety cushion', cash > 0 ? Math.round(cash / total * 100) + '% in cash and GICs' + (yearly > 0 ? ', earning about ' + pfMoney(yearly) + ' a year.' : '.') + ' This part barely moves when markets swing.' : 'No cash or GICs, so all of your money moves with markets.']);
+  const crypto = vals.filter(x => x.h.type === 'crypto').reduce((s, x) => s + x.v.value, 0) / total;
+  if (crypto > 0.005) pts.push(['🪙', 'Crypto', Math.round(crypto * 100) + '% in crypto, the bumpiest part of most portfolios.' + (crypto > 0.25 ? ' That’s a big share for something that can halve in a bad year.' : '')]);
+  try {
+    const R = pfRisk(vals, total);
+    if (R && !R.empty) pts.push(['🎢', 'Bumpiness', 'Over the past year your mix swung about ' + (R.past.vol * 100).toFixed(0) + '% a year, moving about ' + R.beta.toFixed(1) + '× as much as the market. ' + Math.round(Math.max(0, Math.min(1, R.systematic)) * 100) + '% of your ups and downs came from the whole market, the rest from your specific picks.']);
+  } catch (e) { /* history not loaded yet */ }
+  const list = el('div', { className: 'pf-rd-list' });
+  pts.forEach(([ic, t, txt]) => { const r = el('div', { className: 'pf-rd-row' }); r.appendChild(el('span', { className: 'pf-rd-ic', text: ic })); const b = el('div'); b.appendChild(el('div', { className: 'pf-key-t', text: t })); b.appendChild(el('p', { text: txt })); r.appendChild(b); list.appendChild(r); });
+  box.appendChild(list);
+  box.appendChild(el('p', { className: 'pf-rd-note', text: 'A snapshot for your own understanding, not advice.' }));
+  const close = el('button', { className: 'info-btn info-close', text: 'Got it' }); close.type = 'button';
+  const shut = () => { overlay.remove(); document.removeEventListener('keydown', onKey); };
+  const onKey = e => { if (e.key === 'Escape') shut(); };
+  close.addEventListener('click', shut); overlay.addEventListener('click', e => { if (e.target === overlay) shut(); });
+  document.addEventListener('keydown', onKey);
+  box.appendChild(close); overlay.appendChild(box); document.body.appendChild(overlay); close.focus({ preventScroll: true });
+}
+
 function pfWhyWidget(vals, total) {
   const w = widgetShell('w-span-12', 'lightbulb', 'var(--pink-soft)', 'var(--pink-deep)', 'Why your portfolio moved');
   const ul = el('div', { className: 'pf-why' });
@@ -3033,7 +3118,14 @@ function pfSimpleDiagram(R, youP, modP) {
   // ② the trade-off line from safe money through the suggested mix
   const slope = (modP.mean - R.rf) / Math.max(modP.sd, 1e-6), xe = xmax;
   pfS(svg, 'line', { x1: X(0), y1: Y(R.rf), x2: X(xe), y2: Y(Math.min(ymax, R.rf + slope * xe)), class: 'cml' });
-  const num = (x, y, n, cls) => { pfS(svg, 'circle', { cx: x, cy: y, r: 11, class: 'num ' + cls }); pfS(svg, 'text', { x, y: y + 4, class: 'numt', 'text-anchor': 'middle' }, String(n)); };
+  const nums = {};
+  const num = (x, y, n, cls) => {
+    const g = pfS(svg, 'g', { class: 'num-btn', 'data-n': n, role: 'button', tabindex: 0, 'aria-label': 'Explain point ' + n });
+    const ring = document.createElementNS('http://www.w3.org/2000/svg', 'circle'); ring.setAttribute('cx', x); ring.setAttribute('cy', y); ring.setAttribute('r', 11); ring.setAttribute('class', 'num-ring ' + cls); g.appendChild(ring);
+    const c = document.createElementNS('http://www.w3.org/2000/svg', 'circle'); c.setAttribute('cx', x); c.setAttribute('cy', y); c.setAttribute('r', 11); c.setAttribute('class', 'num ' + cls); g.appendChild(c);
+    const t = document.createElementNS('http://www.w3.org/2000/svg', 'text'); t.setAttribute('x', x); t.setAttribute('y', y + 4); t.setAttribute('class', 'numt'); t.setAttribute('text-anchor', 'middle'); t.textContent = String(n); g.appendChild(t);
+    nums[n] = g;
+  };
   num(X(0), Y(R.rf), 1, 'n1');
   const mid = Math.min(xe * 0.82, (ymax * 0.92 - R.rf) / Math.max(slope, 1e-6));
   num(X(mid), Y(R.rf + slope * mid) - 18, 2, 'n2');
@@ -3049,15 +3141,27 @@ function pfSimpleDiagram(R, youP, modP) {
     ['n3', 'You', 'Your current mix over the past year: about ' + pct(youP.sd) + ' bumpiness and ' + pct(youP.mean) + ' average yearly return.', modP.sharpe - youP.sharpe > 0.05 ? 'You’re below the line, so the same holdings in a different split would have paid you more for the risk.' : 'You’re close to the line already. Nice balance.'],
     ['n4', 'The suggested mix', 'The same investments you own, re-weighted so they would have given the most return for their bumpiness over the past year: about ' + pct(modP.sd) + ' bumpiness and ' + pct(modP.mean) + ' a year.', 'See “More of / Less of” above for the changes that get you there.'],
   ];
-  const ol = el('div', { className: 'pf-key' });
-  items.forEach(([cls, t, what, you], i) => {
+  // Tap a number (on the picture or in the row below) to open its explanation; tap again to close.
+  const hint = el('p', { className: 'pf-tap-hint', text: '👆 Tap a number to see what it means for you' });
+  const chips = el('div', { className: 'pf-key-chips' });
+  const panel = el('div', { className: 'pf-key-panel' }); panel.hidden = true;
+  let open = 0;
+  const show = n => {
+    open = open === n ? 0 : n;
+    Object.keys(nums).forEach(k => nums[k].classList.toggle('on', +k === open));
+    chips.querySelectorAll('button').forEach((b, i) => b.classList.toggle('on', i + 1 === open));
+    svg.classList.add('tapped'); hint.classList.add('done');
+    panel.innerHTML = ''; panel.hidden = !open; if (!open) return;
+    const [cls, t, what, you] = items[open - 1];
     const r = el('div', { className: 'pf-key-row' });
-    const n = el('span', { className: 'pf-key-n ' + cls, text: String(i + 1) }); r.appendChild(n);
+    r.appendChild(el('span', { className: 'pf-key-n ' + cls, text: String(open) }));
     const body = el('div'); body.appendChild(el('div', { className: 'pf-key-t', text: t }));
     body.appendChild(el('p', { className: 'item-summary', text: what })); body.appendChild(el('p', { className: 'item-summary pf-key-you', text: 'For you: ' + you }));
-    r.appendChild(body); ol.appendChild(r);
-  });
-  wrap.appendChild(ol);
+    r.appendChild(body); panel.appendChild(r);
+  };
+  Object.keys(nums).forEach(k => { const g = nums[k]; g.addEventListener('click', () => show(+k)); g.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); show(+k); } }); });
+  items.forEach(([cls, t], i) => { const b = el('button', { className: 'pf-key-chip ' + cls }); b.type = 'button'; b.setAttribute('aria-label', t); b.appendChild(el('span', { className: 'pf-key-n ' + cls, text: String(i + 1) })); b.appendChild(el('span', { className: 'pf-key-chip-t', text: t })); b.onclick = () => show(i + 1); chips.appendChild(b); });
+  wrap.appendChild(hint); wrap.appendChild(chips); wrap.appendChild(panel);
   return wrap;
 }
 
