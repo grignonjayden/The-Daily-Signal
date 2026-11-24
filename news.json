@@ -1,38 +1,8 @@
 {
-  "generated_at": "Nov 24, 2026, 6:34 PM ET",
+  "generated_at": "Nov 24, 2026, 6:38 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795563283914,
+  "updated_ts": 1795563483224,
   "articles": [
-    {
-      "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
-      "snippet": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
-      "image": "https://images.mktw.net/im-72615127",
-      "time": "Nov 24, 4:14 PM",
-      "coverage": 7,
-      "ts": 1795554840000
-    },
-    {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
-      "time": "Nov 24, 6:13 PM",
-      "coverage": 6,
-      "ts": 1795562029000
-    },
-    {
-      "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN20H_L.jpg",
-      "time": "Nov 24, 5:36 PM",
-      "coverage": 6,
-      "ts": 1795559799000
-    },
     {
       "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
       "source": "CNBC",
@@ -44,13 +14,33 @@
       "ts": 1795555010000
     },
     {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
+      "time": "Nov 24, 6:13 PM",
+      "coverage": 5,
+      "ts": 1795562029000
+    },
+    {
+      "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN20H_L.jpg",
+      "time": "Nov 24, 5:36 PM",
+      "coverage": 5,
+      "ts": 1795559799000
+    },
+    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795551400000
     },
     {
@@ -70,28 +60,18 @@
       "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
       "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
       "time": "Nov 24, 6:25 AM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795519556000
     },
     {
-      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+      "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
-      "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
-      "image": "https://images.wsj.net/im-75358264",
-      "time": "Nov 23, 5:25 PM",
-      "coverage": 6,
-      "ts": 1795472700000
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 6,
-      "ts": 1795456173000
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+      "snippet": "Tech stocks stumbled again, as fears around the AI trade crept back in a day after Jensen Huang’s return at Nvidia sparked the best day for U.S. stocks since April 2025.",
+      "image": "https://images.wsj.net/im-89305301",
+      "time": "Nov 24, 2:32 PM",
+      "coverage": 3,
+      "ts": 1795548720000
     },
     {
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
@@ -104,6 +84,16 @@
       "ts": 1795556760000
     },
     {
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 5,
+      "ts": 1795456173000
+    },
+    {
       "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Loom",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally",
@@ -111,18 +101,8 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 24, 4:45 AM",
-      "coverage": 4,
+      "coverage": 3,
       "ts": 1795513527000
-    },
-    {
-      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
-      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
-      "time": "Nov 23, 9:06 AM",
-      "coverage": 6,
-      "ts": 1795442808000
     },
     {
       "title": "Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
@@ -136,6 +116,16 @@
       "ts": 1795555285000
     },
     {
+      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
+      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
+      "time": "Nov 23, 9:06 AM",
+      "coverage": 5,
+      "ts": 1795442808000
+    },
+    {
       "title": "Dell lifts annual forecasts after record quarter on surging AI server demand",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024",
@@ -144,6 +134,16 @@
       "time": "Nov 24, 6:18 PM",
       "coverage": 2,
       "ts": 1795562301000
+    },
+    {
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "snippet": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "image": "https://images.mktw.net/im-44503864",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 2,
+      "ts": 1795557180000
     }
   ],
   "outlets": [
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "6:34 PM",
+      "title": "MarketWatch — Dell’s stock rises as the AI boom helps sales more than double",
+      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "ts": 1795563240000
+    },
+    {
       "time": "6:14 PM",
       "title": "CNBC — Stocks making the biggest moves Tuesday: Ambarella, Dell, Autodesk, Urban Outfitters & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Why is HP stock gaining today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-hp-stock-gaining-today-93CH-5049304",
       "ts": 1795560722000
-    },
-    {
-      "time": "5:47 PM",
-      "title": "Investing.com — Why is Dell Technologies stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-surging-today-93CH-5049300",
-      "ts": 1795560424000
     }
   ]
 }
