@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 6:00 PM ET",
+  "generated_at": "Nov 24, 2026, 6:04 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795561256962,
+  "updated_ts": 1795561457286,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "6:03 PM",
+      "title": "CNBC — Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+      "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+      "ts": 1795561404000
+    },
+    {
+      "time": "5:57 PM",
+      "title": "Globe and Mail — Sell now or wait? The gamble facing Canadian homeowners",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-sell-now-or-wait-the-gamble-facing-canadian-homeowners/",
+      "ts": 1795561061000
+    },
+    {
       "time": "5:49 PM",
       "title": "CNBC — Stocks making the biggest moves after hours: Ambarella, Dell, Autodesk, Urban Outfitters & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
@@ -295,18 +307,6 @@
       "title": "Bloomberg — Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
       "ts": 1795558158000
-    },
-    {
-      "time": "5:07 PM",
-      "title": "CNBC — Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-      "ts": 1795558065000
-    },
-    {
-      "time": "5:07 PM",
-      "title": "WSJ Markets — Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
-      "url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
-      "ts": 1795558020000
     }
   ]
 }
