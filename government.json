@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 24, 2026, 3:18 PM ET",
+  "generated_at": "Nov 24, 2026, 3:42 PM ET",
   "date_key": "2026-11-24",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -124,6 +124,18 @@
       "group": "policy"
     },
     {
+      "title": "Bank of Canada Media Interview – The Logic",
+      "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-media-interview-the-logic/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 24",
+      "date": "2026-11-24T15:00:24.000Z",
+      "group": "policy"
+    },
+    {
       "title": "A $27.5-Billion Deficit Revision Requires Parliamentary Examination",
       "url": "https://cdhowe.org/publication/a-27-5-billion-deficit-revision-requires-parliamentary-examination/",
       "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-1367728341.jpg",
@@ -157,18 +169,6 @@
       "sector": "Monetary",
       "time": "Nov 24",
       "date": "2026-11-24T12:35:21.000Z",
-      "group": "policy"
-    },
-    {
-      "title": "Keeping inflation low and stable in an uncertain world",
-      "url": "https://www.bankofcanada.ca/2026/11/keeping-inflation-low-and-stable-in-an-uncertain-world/",
-      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
-      "source": "Bank of Canada",
-      "badge": "BoC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 24",
-      "date": "2026-11-24T12:25:17.000Z",
       "group": "policy"
     }
   ],
@@ -213,14 +213,14 @@
       "kept": 3
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 3
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
+    },
+    {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 3
     },
     {
       "source": "CDEV",
@@ -228,14 +228,14 @@
       "kept": 0
     },
     {
-      "source": "ISED",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
       "source": "Canada Media Fund",
       "fetched": 24,
       "kept": 1
+    },
+    {
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 4
     },
     {
       "source": "C.D. Howe Institute",
