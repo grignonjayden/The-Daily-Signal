@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:22 AM ET",
+  "generated_at": "Nov 24, 2026, 10:25 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795533723986,
+  "updated_ts": 1795533923249,
   "articles": [
     {
       "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
@@ -118,11 +118,11 @@
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "snippet": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after they first started trading on the Nasdaq.",
+      "snippet": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after their debut on the Nasdaq.",
       "image": "https://images.mktw.net/im-34075557",
-      "time": "Nov 24, 9:55 AM",
+      "time": "Nov 24, 10:21 AM",
       "coverage": 5,
-      "ts": 1795532100000
+      "ts": 1795533660000
     },
     {
       "title": "Anthropic Sinks Below IPO Price Less Than a Week After Debut",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "10:22 AM",
+      "title": "CNBC — Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "ts": 1795533749000
+    },
+    {
+      "time": "10:21 AM",
+      "title": "MarketWatch — The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+      "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+      "ts": 1795533660000
+    },
+    {
+      "time": "10:21 AM",
+      "title": "WSJ Markets — Crude Futures Pick Up After Sharp Drop",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
+      "ts": 1795533660000
+    },
+    {
       "time": "10:17 AM",
       "title": "WSJ Markets — Dollar Could Rise Further in 2027 if Fed Lifts Rates",
       "url": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
@@ -253,12 +271,6 @@
       "title": "Investing.com — Why is Salesforce stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-rallying-today-93CH-5048625",
       "ts": 1795533284000
-    },
-    {
-      "time": "10:14 AM",
-      "title": "CNBC — Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "ts": 1795533263000
     },
     {
       "time": "10:12 AM",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Morocco stocks lower at close of trade; Moroccan All Shares down 0.45%",
       "url": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-045-5048616",
       "ts": 1795533003000
-    },
-    {
-      "time": "10:09 AM",
-      "title": "Investing.com — Why is Moderna stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-rallying-today-93CH-5048614",
-      "ts": 1795532952000
-    },
-    {
-      "time": "10:07 AM",
-      "title": "Investing.com — Why is Netflix stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-climbing-today-93CH-5048609",
-      "ts": 1795532840000
     }
   ]
 }
