@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:11 AM ET",
+  "generated_at": "Nov 24, 2026, 10:15 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795533111990,
+  "updated_ts": 1795533314015,
   "articles": [
     {
       "title": "Nvidia shares fall over 5% after Huang comeback rally",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "10:14 AM",
+      "title": "CNBC — Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "ts": 1795533263000
+    },
+    {
+      "time": "10:10 AM",
+      "title": "Globe and Mail — The casino that never closes: Inside Canada’s online gambling epidemic",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-the-casino-that-never-closes-inside-canadas-online-gambling-epidemic/",
+      "ts": 1795533016000
+    },
+    {
       "time": "10:05 AM",
       "title": "CNBC — Commercial real estate activity falls 14% in October, as interest rates rise",
       "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
@@ -295,18 +307,6 @@
       "title": "Bloomberg — Petrobras aumenta investimentos com alta do petróleo",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/petrobras-aumenta-investimentos-com-alta-do-petroleo-video",
       "ts": 1795532144000
-    },
-    {
-      "time": "9:55 AM",
-      "title": "Investing.com — Cogent Biosciences stock surges on FDA approval of EKITNA",
-      "url": "https://www.investing.com/news/stock-market-news/cogent-biosciences-stock-surges-on-fda-approval-of-ekitna-5048574",
-      "ts": 1795532143000
-    },
-    {
-      "time": "9:55 AM",
-      "title": "Investing.com — Why is Bloom Energy stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-5048571",
-      "ts": 1795532108000
     }
   ]
 }
