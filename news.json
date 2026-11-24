@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:18 AM ET",
+  "generated_at": "Nov 24, 2026, 9:21 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795529894588,
+  "updated_ts": 1795530095458,
   "articles": [
     {
       "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
@@ -9,9 +9,9 @@
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
       "snippet": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
       "image": "https://image.cnbcfm.com/api/v1/image/108548916-1794403429337-108548916-1794403365942-gettyimages-2299714787-UK_HUANG.jpg?v=1795450267&w=1920&h=1080",
-      "time": "Nov 24, 9:09 AM",
+      "time": "Nov 24, 9:20 AM",
       "coverage": 7,
-      "ts": 1795529358000
+      "ts": 1795530033000
     },
     {
       "title": "Nvidia’s Huang returns to cheers in China, but political hurdles mount",
@@ -54,16 +54,6 @@
       "ts": 1795522860000
     },
     {
-      "title": "This billionaire bought Nvidia in anticipation of Jensen Huang’s return — and warns the S&P 500 could fall by a third",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-billionaire-bought-nvidia-in-anticipation-of-jensen-huangs-return-and-warns-the-s-p-500-could-fall-by-a-third-dcff9489?mod=mw_rss_topstories",
-      "snippet": "Jim Mellon is a billionaire investor with strong views on diverse asset classes. He’s bearish on the AI sector and U.S. stocks generally but he sees real value in Chinese equity markets and long-term Japanese…",
-      "image": "https://images.mktw.net/im-68828902",
-      "time": "Nov 24, 6:59 AM",
-      "coverage": 7,
-      "ts": 1795521540000
-    },
-    {
       "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
@@ -72,16 +62,6 @@
       "time": "Nov 23, 5:15 PM",
       "coverage": 7,
       "ts": 1795472100000
-    },
-    {
-      "title": "Jensen Huang’s Return Sparks Rally in Asia, but Concerns Remain",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main",
-      "snippet": "The risk posed by tighter U.S. restrictions on advanced chips hasn’t gone away, nor have concerns around AI financing, and fears of a market bubble.",
-      "image": "https://images.wsj.net/im-07909036",
-      "time": "Nov 24, 4:52 AM",
-      "coverage": 7,
-      "ts": 1795513920000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -114,17 +94,6 @@
       "ts": 1795454474000
     },
     {
-      "title": "Huang’s Return Hits the Reset Button for AI Bets",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/huang-s-return-hits-the-reset-button-for-ai-bets",
-      "snippet": "Jensen Huang is back at the center of the AI trade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 6:33 AM",
-      "coverage": 6,
-      "ts": 1795520013000
-    },
-    {
       "title": "Stocks soar on Jensen Huang’s return to Nvidia",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026",
@@ -133,6 +102,16 @@
       "time": "Nov 23, 8:36 AM",
       "coverage": 7,
       "ts": 1795441018000
+    },
+    {
+      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
+      "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
+      "image": "https://images.wsj.net/im-75358264",
+      "time": "Nov 23, 5:25 PM",
+      "coverage": 6,
+      "ts": 1795472700000
     },
     {
       "title": "Stocks Fall as Nvidia Fades and Trade Fears Return: Markets Wrap",
@@ -144,6 +123,27 @@
       "time": "Nov 23, 5:06 PM",
       "coverage": 6,
       "ts": 1795471606000
+    },
+    {
+      "title": "Stock Rally Takes Breather as Nvidia Euphoria Wears Off",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-opening-trade-11-24-2026-video",
+      "snippet": "The rally in stocks that followed Jensen Huang’s return to Nvidia is giving way to caution as traders wait for further evidence that the artificial intelligence trade can build on its rebound. While Huang’s…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 7:13 AM",
+      "coverage": 3,
+      "ts": 1795522410000
+    },
+    {
+      "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+      "snippet": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharmaceutical giant offset the patent expiration on a key drug.",
+      "image": "https://images.mktw.net/im-84195130",
+      "time": "Nov 24, 7:50 AM",
+      "coverage": 3,
+      "ts": 1795524600000
     }
   ],
   "outlets": [
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "9:17 AM",
+      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "ts": 1795529820000
+    },
+    {
       "time": "9:14 AM",
       "title": "Investing.com — Applied Optoelectronics stock rises on datacenter deal",
       "url": "https://www.investing.com/news/stock-market-news/applied-optoelectronics-stock-rises-on-datacenter-deal-5048440",
@@ -301,12 +307,6 @@
       "title": "CNBC — Stock futures decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
       "ts": 1795528905000
-    },
-    {
-      "time": "9:01 AM",
-      "title": "Investing.com — Monday’s insider activity: Biglari leads buys, Tron sees major sale",
-      "url": "https://www.investing.com/news/stock-market-news/mondays-insider-activity-biglari-leads-buys-tron-sees-major-sale-93CH-5048393",
-      "ts": 1795528893000
     }
   ]
 }
