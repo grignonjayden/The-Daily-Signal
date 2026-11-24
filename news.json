@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 4:53 PM ET",
+  "generated_at": "Nov 24, 2026, 4:56 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795557194549,
+  "updated_ts": 1795557394945,
   "articles": [
     {
       "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
@@ -237,10 +237,22 @@
   ],
   "ticker": [
     {
-      "time": "4:50 PM",
+      "time": "4:54 PM",
       "title": "CNBC — Saudi national charged in OpenAI bugging to be released on $1 million bond",
       "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-      "ts": 1795557029000
+      "ts": 1795557289000
+    },
+    {
+      "time": "4:53 PM",
+      "title": "MarketWatch — 12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "ts": 1795557180000
+    },
+    {
+      "time": "4:51 PM",
+      "title": "WSJ Markets — Crude Futures Settle Higher on Shipping Risks",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
+      "ts": 1795557060000
     },
     {
       "time": "4:45 PM",
@@ -295,18 +307,6 @@
       "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
       "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
       "ts": 1795555800000
-    },
-    {
-      "time": "4:30 PM",
-      "title": "Bloomberg — Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/bond-traders-rush-to-hedge-risk-of-fed-hikes-stalling-economy",
-      "ts": 1795555800000
-    },
-    {
-      "time": "4:29 PM",
-      "title": "CNBC — Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-      "ts": 1795555743000
     }
   ]
 }
