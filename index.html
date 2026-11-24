@@ -480,6 +480,66 @@
   .gov-sub { margin: -6px 0 12px; }
   .gov-more { display: block; margin: 12px auto 4px; }
   .news-card[hidden] { display: none; }
+  /* ---------- Portfolio Visualizer ---------- */
+  .pf-total { margin: 2px 0 14px; }
+  .pf-total-val { font-size: 38px; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; }
+  .pf-total-lbl { font-size: 12.5px; font-weight: 600; color: var(--ink-faint); margin-top: 2px; }
+  .pf-stats { display: flex; flex-wrap: wrap; gap: 10px; }
+  .pf-stat { flex: 1 1 180px; background: var(--surface-alt); border-radius: 14px; padding: 12px 14px; }
+  .pf-stat-lbl { font-size: 11.5px; font-weight: 700; color: var(--ink-soft); margin-bottom: 3px; }
+  .pf-stat-val { font-size: 17px; font-weight: 800; }
+  .pf-stat.up .pf-stat-val, .pf-chg.up { color: var(--mint-deep); }
+  .pf-stat.down .pf-stat-val, .pf-chg.down { color: var(--pink-deep); }
+  .pf-private { font-size: 12.5px; font-weight: 600; color: var(--ink-soft); margin: 12px 0 0; }
+  .pf-mix { display: flex; align-items: center; gap: 28px; flex-wrap: wrap; }
+  .pf-donut { width: 170px; height: 170px; flex: none; }
+  .pf-donut-bg { fill: none; stroke: var(--surface-alt); stroke-width: 16; }
+  .pf-donut-val { font-size: 15px; font-weight: 800; fill: var(--ink); text-anchor: middle; font-family: inherit; }
+  .pf-donut-lbl { font-size: 9px; font-weight: 600; fill: var(--ink-faint); text-anchor: middle; font-family: inherit; }
+  .pf-legend { flex: 1 1 220px; display: flex; flex-direction: column; gap: 10px; }
+  .pf-leg { display: grid; grid-template-columns: 12px 1fr auto auto; align-items: center; gap: 10px; font-size: 14px; font-weight: 600; }
+  .pf-leg-pct { font-weight: 800; }
+  .pf-leg-val { color: var(--ink-soft); font-size: 13px; min-width: 76px; text-align: right; }
+  .pf-dot { width: 10px; height: 10px; border-radius: 50%; flex: none; display: inline-block; }
+  .pf-row { padding: 14px 4px; border-bottom: 1px solid var(--line); }
+  .pf-row:last-of-type { border-bottom: none; }
+  .pf-row-top { display: flex; align-items: center; gap: 10px; }
+  .pf-name { display: flex; align-items: center; gap: 10px; flex: 1; min-width: 0; }
+  .pf-name > div { min-width: 0; }
+  .pf-sym { font-size: 15px; font-weight: 800; }
+  .pf-sub { font-size: 12.5px; color: var(--ink-soft); font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .pf-right { text-align: right; }
+  .pf-val { font-size: 15px; font-weight: 800; }
+  .pf-chg { font-size: 12px; font-weight: 700; color: var(--ink-faint); }
+  .pf-del { all: unset; cursor: pointer; width: 28px; height: 28px; border-radius: 50%; text-align: center; line-height: 28px; font-size: 18px; color: var(--ink-faint); flex: none; -webkit-tap-highlight-color: transparent; }
+  .pf-del:hover { background: var(--surface-alt); color: var(--ink); }
+  .pf-bar { height: 6px; border-radius: 3px; background: var(--surface-alt); margin: 10px 0 6px 20px; overflow: hidden; }
+  .pf-bar span { display: block; height: 100%; border-radius: 3px; }
+  .pf-det { font-size: 12px; color: var(--ink-soft); font-weight: 500; margin-left: 20px; }
+  .pf-seg { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+  .pf-form { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px 14px; }
+  .pf-field { display: flex; flex-direction: column; gap: 5px; font-size: 12px; font-weight: 700; color: var(--ink-soft); }
+  .pf-field small { font-weight: 500; color: var(--ink-faint); font-size: 11px; }
+  .pf-add input, .pf-add select { font: inherit; font-size: 16px; font-weight: 600; color: var(--ink); background: var(--surface-alt); border: 1px solid transparent; border-radius: 12px; padding: 11px 12px; width: 100%; box-sizing: border-box; outline: none; }
+  .pf-add input:focus, .pf-add select:focus { border-color: var(--ink-faint); background: var(--surface); }
+  .pf-search { position: relative; }
+  .pf-sug { position: absolute; left: 0; right: 0; top: calc(100% + 4px); z-index: 50; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow-md); overflow: hidden; }
+  .pf-sug:empty { display: none; }
+  .pf-sug-item { all: unset; box-sizing: border-box; display: flex; justify-content: space-between; gap: 10px; width: 100%; padding: 10px 12px; font-size: 13.5px; cursor: pointer; color: var(--ink); }
+  .pf-sug-item span span { color: var(--ink-soft); font-weight: 500; }
+  .pf-sug-item:hover, .pf-sug-item:focus { background: var(--surface-alt); }
+  .pf-sug-price { font-weight: 700; color: var(--ink-soft); white-space: nowrap; }
+  .pf-sug-other { color: var(--pink-deep); font-weight: 700; border-top: 1px solid var(--line); }
+  .pf-manual { grid-column: 1 / -1; display: flex; flex-direction: column; gap: 6px; }
+  .pf-manual[hidden] { display: none; }
+  .pf-manual small { font-size: 12px; color: var(--ink-soft); font-weight: 600; }
+  .pf-manual-row { display: flex; gap: 8px; max-width: 360px; }
+  .pf-manual-row select { width: 90px; flex: none; }
+  .pf-go { margin-top: 16px; }
+  .pf-msg { font-size: 13px; font-weight: 600; color: var(--ink-soft); margin: 10px 0 0; min-height: 1em; }
+  .pf-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 6px 2px 0; }
+  .pf-foot .live-updated { margin: 0; max-width: 620px; }
+  @media (max-width: 600px) { .pf-total-val { font-size: 32px; } .pf-donut { width: 140px; height: 140px; margin: 0 auto; } .pf-mix { gap: 18px; } }
   .why-p { font-size: 15px; line-height: 1.6; max-width: 72ch; }
   .why-link { display: inline-block; margin-top: 12px; font-size: 13.5px; font-weight: 700; color: var(--sky); text-decoration: none; }
   .why-link:hover { text-decoration: underline; }
@@ -668,6 +728,7 @@ const ICONS = {
   car: 'M3 13l2-6a2 2 0 012-1h10a2 2 0 012 1l2 6M5 13h14v5H5zM7 18v2M17 18v2M5 15h.01M19 15h.01',
   signal: 'M4 20h2v-3H4zM9 20h2v-7H9zM14 20h2v-11h-2zM19 20h2v-15h-2z',
   gem: 'M6 3h12l3 6-9 12L3 9zM3 9h18M9 3l3 6 3-6',
+  pie: 'M11 3.05A9 9 0 1020.95 13H11V3.05zM14 2.6a8 8 0 017.4 7.4H14V2.6z',
   coin: 'M12 3a9 9 0 100 18 9 9 0 000-18zM12 7v10M9.3 9.6c0-1.1 1-1.7 2.7-1.7s2.7.7 2.7 1.7-1.1 1.4-2.7 1.9-2.7 1.1-2.7 2 1.1 1.5 2.7 1.5 2.7-.6 2.7-1.5',
   maple: 'm4890 4430-45-863a95 95 0 0 1 111-98l859 151-116-320a65 65 0 0 1 20-73l941-762-212-99a65 65 0 0 1-34-79l186-572-542 115a65 65 0 0 1-73-38l-105-247-423 454a65 65 0 0 1-111-57l204-1052-327 189a65 65 0 0 1-91-27l-332-652-332 652a65 65 0 0 1-91 27l-327-189 204 1052a65 65 0 0 1-111 57l-423-454-105 247a65 65 0 0 1-73 38l-542-115 186 572a65 65 0 0 1-34 79l-212 99 941 762a65 65 0 0 1 20 73l-116 320 859-151a95 95 0 0 1 111 98l-45 863z',
   bitcoin: 'M6 5h7a3.5 3.5 0 010 7H6zM6 12h8a3.5 3.5 0 010 7H6zM6 5v14M8.5 3v2M12 3v2M8.5 19v2M12 19v2',
@@ -2168,6 +2229,285 @@ window.addEventListener('scroll', () => { if (Math.abs(window.scrollY - glOpenY)
 document.addEventListener('keydown', e => { if (e.key === 'Escape') glClose(); });
 new MutationObserver(() => applyGlossary()).observe(mainPanel, { childList: true, subtree: true });
 
+// ---------- Portfolio Visualizer (Module 4) ----------
+// Holdings are saved only in this browser (localStorage). Stocks/ETFs priced from quotes.json (~15 min),
+// crypto live from CoinGecko in Canadian dollars, U.S. prices converted with today's USD/CAD.
+const PF_KEY = 'tds-portfolio';
+const PF_CATS = {
+  ca: { label: 'Canadian stocks & ETFs', color: '#D52B1E' },
+  us: { label: 'U.S. stocks & ETFs', color: '#2F63D6' },
+  crypto: { label: 'Crypto', color: '#F2930F' },
+  cash: { label: 'Cash & GICs', color: '#1E9E5A' },
+};
+const PF = { quotes: null, quotesTs: 0, coins: null, coinsTs: 0, addType: 'stock', timer: null };
+function pfLoad() { try { const d = JSON.parse(localStorage.getItem(PF_KEY) || '{}'); return Array.isArray(d.holdings) ? d.holdings : []; } catch (e) { return []; } }
+function pfSave(h) { try { localStorage.setItem(PF_KEY, JSON.stringify({ holdings: h })); } catch (e) { /* storage blocked */ } }
+const pfMoney = (v, cur) => (cur === 'USD' ? 'US$' : '$') + (Math.abs(v) >= 1000 ? Math.round(v).toLocaleString('en-CA') : v.toLocaleString('en-CA', { minimumFractionDigits: 2, maximumFractionDigits: 2 }));
+const pfSigned = v => (v >= 0 ? '+' : '−') + pfMoney(Math.abs(v));
+const pfPct = v => (v >= 0 ? '+' : '−') + Math.abs(v).toFixed(2) + '%';
+function pfShort(v) { return v >= 1e6 ? '$' + (v / 1e6).toFixed(2) + 'M' : v >= 1e4 ? '$' + (v / 1e3).toFixed(1) + 'K' : pfMoney(v); }
+function pfFx() {
+  const m = PRICES && (PRICES.markets || []).find(x => x.symbol === 'CAD=X');
+  return m && m.price ? m.price : null;
+}
+async function pfLoadQuotes(force) {
+  if (!force && PF.quotes && Date.now() - PF.quotesTs < 5 * 60e3) return;
+  for (const u of ['https://raw.githubusercontent.com/grignonjayden/The-Daily-Signal/main/quotes.json', 'quotes.json']) {
+    try { const r = await fetch(u + '?t=' + Date.now(), { cache: 'no-store' }); if (!r.ok) continue; PF.quotes = await r.json(); PF.quotesTs = Date.now(); return; } catch (e) { /* next */ }
+  }
+}
+async function pfLoadCoins(force) {
+  if (!force && PF.coins && Date.now() - PF.coinsTs < 2 * 60e3) return;
+  try {
+    const r = await fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=cad&order=market_cap_desc&per_page=250&page=1&price_change_percentage=24h');
+    if (r.ok) { PF.coins = await r.json(); PF.coinsTs = Date.now(); }
+  } catch (e) { /* keep last */ }
+}
+// TSX names arrive in capitals ("ROYAL BANK OF CANADA"); show them as "Royal Bank Of Canada", keeping short codes like ETF/S&P.
+function pfNice(n) {
+  if (!n || n !== n.toUpperCase()) return n;
+  return n.toLowerCase().replace(/\b([a-z])([a-z'&.]*)/g, (m, a, b) => /^(etf|s&p|tsx|us|usd|cad|bmo|td|ci|rbc|cibc|bce|reit|ai|tsx60|msci|esg|ii|iii)$/.test(m) ? m.toUpperCase() : m === 'sp' ? 'S&P' : /^(of|and|the|for|de|du|ex)$/.test(m) ? m : a.toUpperCase() + b);
+}
+function pfQuote(h) { return PF.quotes && (PF.quotes.quotes || []).find(q => q.s === h.sym && q.x === h.x); }
+function pfCoin(h) { return PF.coins && PF.coins.find(c => c.id === h.cgId); }
+
+// Value one holding in Canadian dollars: { value, day, gain, cost, price, cur, live }
+function pfValue(h, fx) {
+  if (h.type === 'cash') return { value: h.amount, day: 0, gain: null, cat: 'cash', live: true, yearly: h.amount * (h.rate || 0) / 100 };
+  if (h.type === 'crypto') {
+    const c = pfCoin(h); const price = c ? c.current_price : h.lastPrice;
+    if (price == null) return { value: 0, day: 0, gain: null, cat: 'crypto', live: false };
+    const value = price * h.qty, pct = c && typeof c.price_change_percentage_24h === 'number' ? c.price_change_percentage_24h : 0;
+    return { value, day: value - value / (1 + pct / 100), pct, gain: h.cost ? (price - h.cost) * h.qty : null, cost: h.cost ? h.cost * h.qty : null, price, cur: 'CAD', cat: 'crypto', live: !!c };
+  }
+  const q = pfQuote(h); const cur = q ? q.c : (h.cur || 'CAD');
+  const price = q ? q.p : h.manualPrice; const rate = cur === 'USD' ? (fx || 1.4) : 1;
+  if (price == null) return { value: 0, day: 0, gain: null, cat: h.x === 'US' ? 'us' : 'ca', live: false };
+  const value = price * h.qty * rate;
+  const day = q && q.pc ? (q.p - q.pc) * h.qty * rate : 0;
+  return { value, day, pct: q && q.pc ? (q.p - q.pc) / q.pc * 100 : 0, gain: h.cost ? (price - h.cost) * h.qty * rate : null, cost: h.cost ? h.cost * h.qty * rate : null,
+    price, cur, cat: (cur === 'USD' || h.x === 'US') ? 'us' : 'ca', live: !!q && !q.stale };
+}
+
+function pfDonut(parts, total) {
+  const ns = 'http://www.w3.org/2000/svg', svg = document.createElementNS(ns, 'svg');
+  svg.setAttribute('viewBox', '0 0 120 120'); svg.setAttribute('class', 'pf-donut');
+  const r = 46, C = 2 * Math.PI * r; let off = 0;
+  const bg = document.createElementNS(ns, 'circle'); bg.setAttribute('cx', 60); bg.setAttribute('cy', 60); bg.setAttribute('r', r); bg.setAttribute('class', 'pf-donut-bg'); svg.appendChild(bg);
+  parts.forEach(p => {
+    const len = total > 0 ? p.value / total * C : 0; if (len <= 0) return;
+    const c = document.createElementNS(ns, 'circle');
+    c.setAttribute('cx', 60); c.setAttribute('cy', 60); c.setAttribute('r', r); c.setAttribute('fill', 'none');
+    c.setAttribute('stroke', p.color); c.setAttribute('stroke-width', 16);
+    c.setAttribute('stroke-dasharray', Math.max(0, len - (parts.length > 1 ? 1.5 : 0)) + ' ' + C);
+    c.setAttribute('stroke-dashoffset', -off); c.setAttribute('transform', 'rotate(-90 60 60)');
+    svg.appendChild(c); off += len;
+  });
+  const t = document.createElementNS(ns, 'text'); t.setAttribute('x', 60); t.setAttribute('y', 58); t.setAttribute('class', 'pf-donut-val'); t.textContent = pfShort(total); svg.appendChild(t);
+  const t2 = document.createElementNS(ns, 'text'); t2.setAttribute('x', 60); t2.setAttribute('y', 74); t2.setAttribute('class', 'pf-donut-lbl'); t2.textContent = 'total'; svg.appendChild(t2);
+  return svg;
+}
+
+async function renderPortfolio() {
+  dateline.textContent = 'Portfolio Visualizer · see what you own, in plain numbers';
+  if (!mainPanel.querySelector('.pf-root')) {
+    mainPanel.innerHTML = '';
+    const w = el('div', { className: 'widget w-span-12 pf-root' }); w.appendChild(el('p', { className: 'item-summary', text: 'Loading prices…' })); mainPanel.appendChild(w);
+  }
+  await Promise.all([pfLoadQuotes(), pfLoadCoins()]);
+  if (activeTab !== 'portfolio') return;
+  pfDraw();
+  clearInterval(PF.timer);
+  PF.timer = setInterval(async () => {
+    if (activeTab !== 'portfolio') { clearInterval(PF.timer); return; }
+    if (document.activeElement && document.activeElement.closest && document.activeElement.closest('.pf-add')) return; // don't redraw while typing
+    await Promise.all([pfLoadQuotes(), pfLoadCoins()]); if (activeTab === 'portfolio') pfDraw();
+  }, 60e3);
+}
+
+function pfDraw() {
+  const holdings = pfLoad(), fx = pfFx();
+  const keepType = PF.addType;
+  mainPanel.innerHTML = '';
+  const vals = holdings.map(h => ({ h, v: pfValue(h, fx) }));
+  const total = vals.reduce((s, x) => s + x.v.value, 0);
+
+  // 1) Summary
+  const sum = widgetShell('w-span-12 pf-root', 'pie', 'var(--mint-soft)', 'var(--mint-deep)', 'Your portfolio', holdings.length || undefined);
+  if (!holdings.length) {
+    sum.appendChild(el('p', { className: 'item-summary why-p', text: 'Add what you own, like shares of a Canadian bank, an ETF in your TFSA, some Bitcoin or a GIC, and see it all in one place: what it’s worth today in Canadian dollars, how much it moved, and how it’s split up.' }));
+    sum.appendChild(el('p', { className: 'pf-private', text: '🔒 Saved only in this browser on this device. Nothing is sent anywhere.' }));
+  } else {
+    const day = vals.reduce((s, x) => s + x.v.day, 0), dayBase = total - day;
+    const withCost = vals.filter(x => x.v.gain != null), gain = withCost.reduce((s, x) => s + x.v.gain, 0), cost = withCost.reduce((s, x) => s + x.v.cost, 0);
+    const big = el('div', { className: 'pf-total' });
+    big.appendChild(el('div', { className: 'pf-total-val', text: pfMoney(total) }));
+    big.appendChild(el('div', { className: 'pf-total-lbl', text: 'Total value in Canadian dollars' }));
+    sum.appendChild(big);
+    const stats = el('div', { className: 'pf-stats' });
+    const stat = (label, v, pct) => { const s = el('div', { className: 'pf-stat ' + (v > 0 ? 'up' : v < 0 ? 'down' : '') }); s.appendChild(el('div', { className: 'pf-stat-lbl', text: label })); s.appendChild(el('div', { className: 'pf-stat-val', text: (v > 0 ? '▲ ' : v < 0 ? '▼ ' : '') + pfSigned(v) + (pct != null ? '  (' + pfPct(pct) + ')' : '') })); stats.appendChild(s); };
+    stat('Today', day, dayBase > 0 ? day / dayBase * 100 : 0);
+    if (withCost.length) stat('Since you bought' + (withCost.length < holdings.filter(h => h.type !== 'cash').length ? ' (where you entered a price)' : ''), gain, cost > 0 ? gain / cost * 100 : null);
+    const yearly = vals.reduce((s, x) => s + (x.v.yearly || 0), 0);
+    if (yearly > 0) { const s = el('div', { className: 'pf-stat' }); s.appendChild(el('div', { className: 'pf-stat-lbl', text: 'Cash & GIC interest per year' })); s.appendChild(el('div', { className: 'pf-stat-val', text: '≈ ' + pfMoney(yearly) })); stats.appendChild(s); }
+    sum.appendChild(stats);
+  }
+  mainPanel.appendChild(sum);
+
+  if (holdings.length) {
+    // 2) Mix (donut by type)
+    const mix = widgetShell('w-span-12', 'sectors', 'var(--lavender-soft)', 'var(--lavender)', 'Your mix');
+    mix.appendChild(el('p', { className: 'item-summary gov-sub', text: 'How your money is split up. Spreading it across different types can soften the ups and downs of any one of them.' }));
+    const row = el('div', { className: 'pf-mix' });
+    const parts = Object.keys(PF_CATS).map(k => ({ k, ...PF_CATS[k], value: vals.filter(x => x.v.cat === k).reduce((s, x) => s + x.v.value, 0) })).filter(p => p.value > 0);
+    row.appendChild(pfDonut(parts, total));
+    const legend = el('div', { className: 'pf-legend' });
+    parts.forEach(p => {
+      const li = el('div', { className: 'pf-leg' }); const dot = el('span', { className: 'pf-dot' }); dot.style.background = p.color; li.appendChild(dot);
+      li.appendChild(el('span', { className: 'pf-leg-name', text: p.label }));
+      li.appendChild(el('span', { className: 'pf-leg-pct', text: (total ? p.value / total * 100 : 0).toFixed(0) + '%' }));
+      li.appendChild(el('span', { className: 'pf-leg-val', text: pfMoney(p.value) }));
+      legend.appendChild(li);
+    });
+    row.appendChild(legend); mix.appendChild(row);
+    mainPanel.appendChild(mix);
+
+    // 3) Holdings
+    const list = widgetShell('w-span-12', 'watch', 'var(--sky-soft)', 'var(--sky)', 'What you own', holdings.length);
+    vals.slice().sort((a, b) => b.v.value - a.v.value).forEach(({ h, v }) => {
+      const r = el('div', { className: 'pf-row' });
+      const top = el('div', { className: 'pf-row-top' });
+      const nm = el('div', { className: 'pf-name' });
+      const dot = el('span', { className: 'pf-dot' }); dot.style.background = PF_CATS[v.cat].color; nm.appendChild(dot);
+      const nmText = el('div');
+      nmText.appendChild(el('div', { className: 'pf-sym', text: h.type === 'cash' ? (h.name || 'Cash') : (h.sym || '').toUpperCase() }));
+      nmText.appendChild(el('div', { className: 'pf-sub', text: h.type === 'cash' ? (h.rate ? h.rate + '% interest' : 'Cash') : (h.name || '') }));
+      nm.appendChild(nmText); top.appendChild(nm);
+      const right = el('div', { className: 'pf-right' });
+      right.appendChild(el('div', { className: 'pf-val', text: pfMoney(v.value) }));
+      if (h.type !== 'cash') right.appendChild(el('div', { className: 'pf-chg ' + (v.day > 0 ? 'up' : v.day < 0 ? 'down' : ''), text: v.live || v.day ? (v.day > 0 ? '▲ ' : v.day < 0 ? '▼ ' : '') + pfSigned(v.day) + ' today' : (h.manualPrice != null ? 'your price' : 'price unavailable') }));
+      top.appendChild(right);
+      const del = el('button', { className: 'pf-del', text: '×' }); del.type = 'button'; del.setAttribute('aria-label', 'Remove ' + (h.sym || h.name));
+      del.onclick = () => { pfSave(pfLoad().filter(x => x.id !== h.id)); pfDraw(); };
+      top.appendChild(del);
+      r.appendChild(top);
+      const bar = el('div', { className: 'pf-bar' }); const fill = el('span'); fill.style.width = (total ? v.value / total * 100 : 0).toFixed(1) + '%'; fill.style.background = PF_CATS[v.cat].color; bar.appendChild(fill); r.appendChild(bar);
+      const det = [];
+      if (h.type === 'cash') det.push(h.rate ? '≈ ' + pfMoney(v.yearly) + ' interest a year' : '');
+      else det.push(fmtQty(h.qty) + (h.type === 'crypto' ? ' coins' : ' shares') + ' × ' + pfMoney(v.price || 0, v.cur));
+      det.push((total ? (v.value / total * 100).toFixed(1) : 0) + '% of your portfolio');
+      if (v.gain != null) det.push((v.gain >= 0 ? 'up ' : 'down ') + pfMoney(Math.abs(v.gain)) + ' since you bought');
+      r.appendChild(el('div', { className: 'pf-det', text: det.filter(Boolean).join(' · ') }));
+      list.appendChild(r);
+    });
+    const q = PF.quotes;
+    list.appendChild(el('p', { className: 'live-updated', text: 'Stock & ETF prices from Yahoo Finance' + (q ? ', updated ' + q.generated_at : '') + ' (about every 15 min, delayed) · crypto live from CoinGecko · U.S. prices converted at US$1 = C$' + (fx ? fx.toFixed(4) : '1.40 (estimate)') }));
+    mainPanel.appendChild(list);
+  }
+
+  // 4) Add an investment
+  mainPanel.appendChild(pfAddWidget(keepType));
+
+  const foot = el('div', { className: 'pf-foot' });
+  foot.appendChild(el('p', { className: 'live-updated', text: 'For your own tracking only, not investment advice. Your holdings are saved only in this browser on this device; nothing is sent anywhere.' }));
+  if (holdings.length) {
+    const clr = el('button', { className: 'info-btn', text: 'Clear my portfolio' }); clr.type = 'button';
+    clr.onclick = () => { if (clr.dataset.sure) { pfSave([]); pfDraw(); } else { clr.dataset.sure = '1'; clr.textContent = 'Tap again to delete everything'; } };
+    foot.appendChild(clr);
+  }
+  mainPanel.appendChild(foot);
+}
+function fmtQty(n) { return n.toLocaleString('en-CA', { maximumFractionDigits: 8 }); }
+
+function pfAddWidget(type) {
+  PF.addType = type || 'stock';
+  const w = widgetShell('w-span-12 pf-add', 'coin', 'var(--pink-soft)', 'var(--pink-deep)', 'Add an investment');
+  const seg = el('div', { className: 'pf-seg' });
+  [['stock', 'Stock / ETF'], ['crypto', 'Crypto'], ['cash', 'Cash / GIC']].forEach(([k, label]) => {
+    const b = el('button', { className: 'chip' + (k === PF.addType ? ' active' : ''), text: label }); b.type = 'button';
+    b.onclick = () => { const nw = pfAddWidget(k); w.replaceWith(nw); };
+    seg.appendChild(b);
+  });
+  w.appendChild(seg);
+  const form = el('div', { className: 'pf-form' });
+  const field = (label, input, hint) => { const f = el('label', { className: 'pf-field' }); f.appendChild(el('span', { text: label })); f.appendChild(input); if (hint) f.appendChild(el('small', { text: hint })); form.appendChild(f); return input; };
+  const inp = (type, ph, extra) => { const i = document.createElement('input'); i.type = type; i.placeholder = ph || ''; if (type === 'number') { i.inputMode = 'decimal'; i.step = 'any'; i.min = '0'; } Object.assign(i, extra || {}); return i; };
+  const msg = el('p', { className: 'pf-msg' });
+  let picked = null;
+
+  if (PF.addType === 'cash') {
+    const name = field('Name', inp('text', 'e.g. TFSA GIC, savings account'));
+    const amt = field('Amount (C$)', inp('number', 'e.g. 5000'));
+    const rate = field('Interest rate (% a year, optional)', inp('number', 'e.g. 3.5'));
+    const add = el('button', { className: 'gen-btn pf-go', text: 'Add to my portfolio' }); add.type = 'button';
+    add.onclick = () => {
+      const a = parseFloat(amt.value); if (!(a > 0)) { msg.textContent = 'Enter an amount.'; return; }
+      pfSave(pfLoad().concat({ id: Date.now() + '', type: 'cash', name: name.value.trim() || 'Cash', amount: a, rate: parseFloat(rate.value) || 0 })); pfDraw();
+    };
+    w.appendChild(form); w.appendChild(add); w.appendChild(msg); return w;
+  }
+
+  // Search box with suggestions (stocks/ETFs from quotes.json, crypto from CoinGecko's top 250)
+  const search = inp('text', PF.addType === 'crypto' ? 'Search, e.g. Bitcoin or ETH' : 'Search, e.g. RY, VFV, Apple', { autocomplete: 'off', spellcheck: false });
+  const wrap = el('div', { className: 'pf-search' }); wrap.appendChild(search);
+  const sug = el('div', { className: 'pf-sug' }); wrap.appendChild(sug);
+  const f1 = el('label', { className: 'pf-field' }); f1.appendChild(el('span', { text: PF.addType === 'crypto' ? 'Coin' : 'Stock or ETF' })); f1.appendChild(wrap); form.appendChild(f1);
+  const qty = field(PF.addType === 'crypto' ? 'How many coins' : 'Number of shares', inp('number', PF.addType === 'crypto' ? 'e.g. 0.05' : 'e.g. 10'));
+  const cost = field('Price you paid per ' + (PF.addType === 'crypto' ? 'coin (C$)' : 'share'), inp('number', 'optional'), 'Optional. Lets you see how much you’re up or down. Use the stock’s own currency.');
+  const manual = el('div', { className: 'pf-manual' }); manual.hidden = true;
+  const mPrice = inp('number', 'Current price'); const mCur = document.createElement('select');
+  ['CAD', 'USD'].forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c === 'CAD' ? 'C$' : 'US$'; mCur.appendChild(o); });
+  manual.appendChild(el('small', { text: 'Not in our list, so enter its current price yourself (it won’t update on its own):' }));
+  const mr = el('div', { className: 'pf-manual-row' }); mr.appendChild(mPrice); mr.appendChild(mCur); manual.appendChild(mr);
+  form.appendChild(manual);
+
+  const options = () => {
+    const t = search.value.trim().toLowerCase(); if (!t) return [];
+    if (PF.addType === 'crypto') return (PF.coins || []).filter(c => c.symbol.toLowerCase().startsWith(t) || (' ' + c.name.toLowerCase()).includes(' ' + t)).slice(0, 8)
+      .map(c => ({ key: c.id, title: c.symbol.toUpperCase(), sub: c.name, right: pfMoney(c.current_price), pick: { type: 'crypto', cgId: c.id, sym: c.symbol.toUpperCase(), name: c.name, lastPrice: c.current_price } }));
+    const qs = (PF.quotes && PF.quotes.quotes) || [];
+    const score = q => q.s.toLowerCase() === t ? 0 : q.s.toLowerCase().startsWith(t) ? 1 : q.n.toLowerCase().startsWith(t) ? 2 : (' ' + q.n.toLowerCase()).includes(' ' + t) ? 3 : 9;
+    return qs.map(q => [score(q), q]).filter(([s]) => s < 9).sort((a, b) => a[0] - b[0] || (a[1].x === 'TSX' ? -1 : 1)).slice(0, 8).map(([, q]) => ({
+      key: q.x + q.s, title: q.s, sub: pfNice(q.n) + ' · ' + (q.x === 'TSX' ? 'TSX' : 'U.S.'), right: pfMoney(q.p, q.c), pick: { type: 'stock', sym: q.s, x: q.x, name: pfNice(q.n), cur: q.c } }));
+  };
+  const showSug = () => {
+    sug.innerHTML = ''; const opts = options();
+    opts.forEach(o => {
+      const b = el('button', { className: 'pf-sug-item' }); b.type = 'button';
+      const l = el('span'); l.appendChild(el('b', { text: o.title })); l.appendChild(el('span', { text: ' ' + o.sub })); b.appendChild(l);
+      b.appendChild(el('span', { className: 'pf-sug-price', text: o.right }));
+      b.onmousedown = e => e.preventDefault();
+      b.onclick = () => { picked = o.pick; search.value = o.title + ' · ' + o.pick.name; sug.innerHTML = ''; manual.hidden = true; qty.focus(); };
+      sug.appendChild(b);
+    });
+    const t = search.value.trim();
+    if (PF.addType === 'stock' && t && !opts.some(o => o.title.toLowerCase() === t.toLowerCase())) {
+      const b = el('button', { className: 'pf-sug-item pf-sug-other' }); b.type = 'button';
+      b.textContent = 'Not listed? Add “' + t.toUpperCase() + '” with your own price';
+      b.onmousedown = e => e.preventDefault();
+      b.onclick = () => { picked = { type: 'stock', sym: t.toUpperCase(), x: 'OTHER', name: t.toUpperCase(), manual: true }; sug.innerHTML = ''; manual.hidden = false; mPrice.focus(); };
+      sug.appendChild(b);
+    }
+  };
+  search.addEventListener('input', () => { picked = null; manual.hidden = true; showSug(); });
+  search.addEventListener('focus', showSug);
+  search.addEventListener('blur', () => setTimeout(() => { sug.innerHTML = ''; }, 150));
+
+  const add = el('button', { className: 'gen-btn pf-go', text: 'Add to my portfolio' }); add.type = 'button';
+  add.onclick = () => {
+    if (!picked) { msg.textContent = 'Pick one from the list as you type.'; search.focus(); return; }
+    const q = parseFloat(qty.value); if (!(q > 0)) { msg.textContent = 'Enter how many you own.'; qty.focus(); return; }
+    const h = { id: Date.now() + '', ...picked, qty: q, cost: parseFloat(cost.value) || null };
+    if (picked.manual) { const p = parseFloat(mPrice.value); if (!(p > 0)) { msg.textContent = 'Enter its current price.'; mPrice.focus(); return; } h.manualPrice = p; h.cur = mCur.value; h.x = mCur.value === 'USD' ? 'US' : 'TSX'; delete h.manual; }
+    pfSave(pfLoad().concat(h)); pfDraw();
+    const again = mainPanel.querySelector('.pf-msg'); if (again) again.textContent = '✓ Added ' + (h.sym || h.name) + '.';
+  };
+  if (PF.addType === 'stock' && !(PF.quotes && PF.quotes.quotes && PF.quotes.quotes.length)) msg.textContent = 'The stock list is still loading. You can still add any stock with your own price.';
+  if (PF.addType === 'crypto' && !(PF.coins && PF.coins.length)) msg.textContent = 'Couldn’t reach CoinGecko just now. Try again in a minute.';
+  w.appendChild(form); w.appendChild(add); w.appendChild(msg);
+  return w;
+}
+
 // Why TDS tab — a plain-language explainer of the project (static, no data file).
 function renderWhy() {
   dateline.textContent = 'Why TDS · what this is, who it’s for and how it works';
@@ -2230,6 +2570,7 @@ const TAB_CONFIG = {
   news: { label: 'News', icon: 'frontpage', color: '#2F63D6', data: TODAYS_NEWS, render: renderNews },
   canada: { label: 'Canada', icon: 'maple', color: '#D52B1E', data: TODAYS_CANADA, render: renderCanada },
   government: { label: 'Industry Moves from Ottawa', icon: 'parliament', color: '#7B4FB8', data: TODAYS_GOV, render: (d, k) => TAB_CONFIG.news.render(TAB_CONFIG.news.data, k), hidden: true }, // shown inside News
+  portfolio: { label: 'Portfolio', icon: 'pie', color: '#7B4FB8', data: {}, render: renderPortfolio, isStatic: true },
   why: { label: 'Why TDS', icon: 'lightbulb', color: '#0F8B8D', data: {}, render: renderWhy, isStatic: true }
 };
 let activeTab = 'markets';
