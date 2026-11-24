@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:03 AM ET",
+  "generated_at": "Nov 24, 2026, 8:08 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795525387645,
+  "updated_ts": 1795525702495,
   "articles": [
     {
       "title": "Nvidia stock falls 4% premarket; Goldman says Huang’s return not a clearing event",
@@ -215,6 +215,16 @@
   ],
   "ticker": [
     {
+      "time": "8:05 AM",
+      "title": "CNBC — Property Play: Commercial real estate activity falls 14% in October, as interest rates rise",
+      "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html"
+    },
+    {
+      "time": "8:00 AM",
+      "title": "Bloomberg — DRC Reinstates Cobalt Export Ban",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/drc-reinstates-cobalt-export-ban-video"
+    },
+    {
       "time": "7:58 AM",
       "title": "CNBC — Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
@@ -263,16 +273,6 @@
       "time": "7:46 AM",
       "title": "Investing.com — Vicat shares rise as J.P. Morgan flags European cement pricing potential",
       "url": "https://www.investing.com/news/stock-market-news/vicat-shares-rise-as-jp-morgan-flags-european-cement-pricing-potential-5048045"
-    },
-    {
-      "time": "7:46 AM",
-      "title": "Investing.com — Why is General Motors stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-general-motors-stock-climbing-today-93CH-5048044"
-    },
-    {
-      "time": "7:45 AM",
-      "title": "Globe and Mail — Alberta gas flaring set to rise 10% this year as Ottawa and the province curb climate measures",
-      "url": "https://www.theglobeandmail.com/business/article-alberta-gas-flaring-set-to-rise-as-governments-ease-climate-measures/"
     }
   ]
 }
