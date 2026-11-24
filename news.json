@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 11:22 AM ET",
+  "generated_at": "Nov 24, 2026, 11:25 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795537353810,
+  "updated_ts": 1795537552776,
   "articles": [
     {
       "title": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
@@ -125,15 +125,15 @@
       "ts": 1795536025000
     },
     {
-      "title": "McDonald's Moves on Makeover; Dick's Sporting Goods Up on Earnings | Stock Movers",
+      "title": "Nasdaq 100 Sinks as Nvidia, Anthropic Get Hammered: Markets Wrap",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-makeover-dick-s-sporting-goods-earnings-video",
-      "snippet": "On this episode of Stock Movers: - Anthropic (ANT) shares are lower and briefly traded below their $83 initial public offering price in premarket trading, wiping out gains for investors who piled into the artificial…",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+      "snippet": "A selloff in technology giants dragged down stocks, with Wall Street also parsing news reports about a fresh round of US tariffs.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 24, 11:13 AM",
-      "coverage": 2,
-      "ts": 1795536804000
+      "time": "Nov 23, 5:06 PM",
+      "coverage": 3,
+      "ts": 1795471606000
     },
     {
       "title": "Retail stocks surge into Black Friday amid earnings beats",
@@ -255,6 +255,12 @@
       "ts": 1795536983000
     },
     {
+      "time": "11:13 AM",
+      "title": "Bloomberg — McDonald's Moves on Makeover; Dick's Sporting Goods Up on Earnings | Stock Movers",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-makeover-dick-s-sporting-goods-earnings-video",
+      "ts": 1795536804000
+    },
+    {
       "time": "11:12 AM",
       "title": "Investing.com — Exclusive-Microsoft declares ’Code Red’ after historic outage, internal memos show",
       "url": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-declares-code-red-after-historic-outage-internal-memos-show-5048702",
@@ -301,12 +307,6 @@
       "title": "Investing.com — US agency expects to screen 17.6 million air travelers over Thanksgiving week, down slightly",
       "url": "https://www.investing.com/news/stock-market-news/us-agency-expects-to-screen-176-million-air-travelers-over-thanksgiving-holiday-5048646",
       "ts": 1795536058000
-    },
-    {
-      "time": "10:57 AM",
-      "title": "Bloomberg — Consumer Mood Improves Into Holidays, But Risks Loom",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/consumer-mood-improves-into-holidays-but-risks-loom-video",
-      "ts": 1795535821000
     }
   ]
 }
