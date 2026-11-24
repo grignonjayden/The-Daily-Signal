@@ -537,10 +537,20 @@
   .pf-manual-row select { width: 90px; flex: none; }
   .pf-go { margin-top: 16px; }
   .pf-msg { font-size: 13px; font-weight: 600; color: var(--ink-soft); margin: 10px 0 0; min-height: 1em; }
+  .pf-why { display: flex; flex-direction: column; gap: 8px; }
+  .pf-why .item-summary { font-size: 14.5px; line-height: 1.55; color: var(--ink); }
+  .pf-ind { padding: 14px 2px; border-bottom: 1px solid var(--line); }
+  .pf-ind:last-of-type { border-bottom: none; }
+  .pf-ind-title { display: block; font-size: 15px; font-weight: 700; color: var(--ink); text-decoration: none; line-height: 1.35; }
+  .pf-ind-title:hover { text-decoration: underline; }
+  .pf-ind-meta { font-size: 11.5px; font-weight: 600; color: var(--ink-faint); margin: 3px 0 6px; }
+  .pf-ind-row { display: flex; align-items: baseline; gap: 10px; margin-top: 6px; }
+  .pf-ind-why { margin: 0; }
+  .pf-ind-you { flex: none; white-space: nowrap; display: inline-block; font-size: 11.5px; font-weight: 700; color: var(--pink-deep); background: var(--pink-soft); border-radius: 999px; padding: 3px 10px; }
   .pf-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 6px 2px 0; }
   .pf-foot .live-updated { margin: 0; max-width: 620px; }
   .pf-protect { flex-basis: 100%; font-size: 12.5px; margin: 0; }
-  @media (max-width: 600px) { .pf-total-val { font-size: 32px; } .pf-donut { width: 140px; height: 140px; margin: 0 auto; } .pf-mix { gap: 18px; } }
+  @media (max-width: 600px) { .pf-ind-row { flex-direction: column; gap: 4px; } .pf-total-val { font-size: 32px; } .pf-donut { width: 140px; height: 140px; margin: 0 auto; } .pf-mix { gap: 18px; } }
   .why-p { font-size: 15px; line-height: 1.6; max-width: 72ch; }
   .why-link { display: inline-block; margin-top: 12px; font-size: 13.5px; font-weight: 700; color: var(--sky); text-decoration: none; }
   .why-link:hover { text-decoration: underline; }
@@ -2440,7 +2450,7 @@ async function renderPortfolio() {
     mainPanel.innerHTML = '';
     const w = el('div', { className: 'widget w-span-12 pf-root' }); w.appendChild(el('p', { className: 'item-summary', text: 'Loading prices…' })); mainPanel.appendChild(w);
   }
-  await Promise.all([pfLoadQuotes(), pfLoadCoins()]);
+  await Promise.all([pfLoadQuotes(), pfLoadCoins(), liveLoaded.news ? null : loadLive('news'), liveLoaded.government ? null : loadLive('government')]);
   if (activeTab !== 'portfolio') return;
   pfDraw();
   clearInterval(PF.timer);
@@ -2479,6 +2489,7 @@ function pfDraw() {
     sum.appendChild(stats);
   }
   mainPanel.appendChild(sum);
+  if (holdings.length) mainPanel.appendChild(pfWhyWidget(vals, total));
 
   if (holdings.length) {
     // 2) Mix (donut by type)
@@ -2529,6 +2540,7 @@ function pfDraw() {
     const q = PF.quotes;
     list.appendChild(el('p', { className: 'live-updated', text: 'Stock & ETF prices from Yahoo Finance' + (q ? ', updated ' + q.generated_at : '') + ' (about every 15 min, delayed) · crypto live from CoinGecko · U.S. prices converted at US$1 = C$' + (fx ? fx.toFixed(4) : '1.40 (estimate)') }));
     mainPanel.appendChild(list);
+    mainPanel.appendChild(pfIndirectWidget(vals, total));
   }
 
   // 4) Add an investment
@@ -2545,6 +2557,216 @@ function pfDraw() {
   mainPanel.appendChild(foot);
 }
 function fmtQty(n) { return n.toLocaleString('en-CA', { maximumFractionDigits: 8 }); }
+
+// ---------- Portfolio: "Why it moved" + "Indirect news" ----------
+// Built entirely in the browser from TDS's own data (headlines, government stories, index moves, Markets themes),
+// so a visitor's holdings never leave their device. Wording follows the writing guide: "came alongside", not "because".
+const PF_INDEX_ETF = {
+  'S&P 500': 'VFV ZSP XUS XSP HXS VSP SPY VOO IVV', 'S&P/TSX': 'XIU XIC VCN ZCN HXT TTP', 'Nasdaq': 'QQQ ZQQ XQQ QQC HXQ QQQM',
+};
+const PF_GLOBAL_ETF = 'VEQT XEQT VGRO XGRO VBAL XBAL VCNS XAW VXC XEF XEC ZEA ZEM VIU VXUS VEA VWO VTI'.split(' ');
+const PF_BOND_ETF = 'ZAG XBB VAB BND AGG TLT'.split(' ');
+const PF_CASH_ETF = 'CASH PSA ZMMK HSAV'.split(' ');
+const PF_EXPOSURE = { // what a holding is sensitive to (used for indirect news)
+  banks: 'RY TD BMO BNS CM NA EQB JPM BAC WFC GS MS C SCHW ZEB ZWB XLF',
+  financials: 'MFC SLF GWO POW IFC FFH BN BAM BLK SPGI V MA PYPL SQ',
+  oil: 'CNQ SU CVE IMO TOU ARX XOM CVX XLE XEG', pipelines: 'ENB TRP PPL',
+  utilities: 'FTS EMA H BEP-UN BIP-UN', telecom: 'BCE T RCI-B VZ', reits: 'REI-UN CAR-UN',
+  rail: 'CNR CP TFII', airlines: 'AC', gold: 'AEM ABX FNV WPM K XGD ZGLD CGL GLD', silver: 'SLV',
+  mining: 'TECK-B FM LUN CCO NTR', retail: 'ATD DOL L MRU WN QSR CTC-A CCL-B WMT COST HD TGT LOW NKE MCD SBUX LULU KO PEP PG DIS',
+  autos: 'MG TSLA F GM RIVN', health: 'LLY UNH JNJ MRK ABBV PFE MRNA XLV',
+  tech: 'SHOP CSU OTEX GIB-A DSG KXS AAPL MSFT GOOGL META AMZN ORCL CRM ADBE IBM NFLX UBER PLTR SNOW ABNB TEC XLK VGT',
+  chips: 'NVDA AVGO AMD INTC QCOM TXN MU ARM SMCI TSM ASML CLS SMH SOXX', cryptostock: 'COIN',
+};
+const PF_ALIASES = {
+  RY: 'Royal Bank|RBC', TD: 'TD Bank|Toronto-Dominion|TD Securities', BMO: 'BMO|Bank of Montreal', BNS: 'Scotiabank|Bank of Nova Scotia', CM: 'CIBC',
+  NA: 'National Bank', ENB: 'Enbridge', TRP: 'TC Energy', CNQ: 'Canadian Natural', SU: 'Suncor', CVE: 'Cenovus', SHOP: 'Shopify', CNR: 'CN Rail|Canadian National',
+  CP: 'CPKC|Canadian Pacific', BCE: 'BCE|Bell Canada', T: 'Telus', 'RCI-B': 'Rogers', ATD: 'Couche-Tard', AC: 'Air Canada', MG: 'Magna', MFC: 'Manulife', SLF: 'Sun Life',
+  ABX: 'Barrick', AEM: 'Agnico', CSU: 'Constellation Software', BN: 'Brookfield', BAM: 'Brookfield', NTR: 'Nutrien', CCO: 'Cameco', TECK: 'Teck', 'TECK-B': 'Teck', L: 'Loblaw',
+  DOL: 'Dollarama', QSR: 'Restaurant Brands|Tim Hortons', CLS: 'Celestica', OTEX: 'OpenText', WCN: 'Waste Connections', TRI: 'Thomson Reuters', CAE: 'CAE', FTS: 'Fortis',
+  AAPL: 'Apple', MSFT: 'Microsoft', NVDA: 'Nvidia', AMZN: 'Amazon', GOOGL: 'Alphabet|Google', META: 'Meta|Facebook|Instagram', TSLA: 'Tesla', AVGO: 'Broadcom', AMD: 'AMD',
+  'BRK-B': 'Berkshire', JPM: 'JPMorgan', V: 'Visa', MA: 'Mastercard', LLY: 'Eli Lilly', UNH: 'UnitedHealth', XOM: 'Exxon', WMT: 'Walmart', COST: 'Costco', ORCL: 'Oracle',
+  NFLX: 'Netflix', CRM: 'Salesforce', ADBE: 'Adobe', INTC: 'Intel', QCOM: 'Qualcomm', DIS: 'Disney', NKE: 'Nike', MCD: "McDonald's", SBUX: 'Starbucks', BA: 'Boeing',
+  UBER: 'Uber', PLTR: 'Palantir', COIN: 'Coinbase', PYPL: 'PayPal', MU: 'Micron', ARM: 'Arm Holdings', SMCI: 'Super Micro', TSM: 'TSMC|Taiwan Semiconductor', ASML: 'ASML',
+  F: 'Ford', GM: 'General Motors|GM ', RIVN: 'Rivian', PFE: 'Pfizer', MRNA: 'Moderna', LULU: 'Lululemon', ABNB: 'Airbnb', GS: 'Goldman', MS: 'Morgan Stanley', BAC: 'Bank of America', WFC: 'Wells Fargo',
+};
+// News themes → which exposures they touch, and a plain-language "how it could connect" line for each.
+const PF_THEMES = [
+  { key: 'rates', re: /bank of canada|federal reserve|\bthe fed\b|interest rate|rate (cut|hike|hold|decision)|policy rate|overnight rate|inflation|\bCPI\b|\bPCE\b|bond yield|treasury yield|macklem|powell/i,
+    hits: { banks: 'Interest-rate changes affect how much banks earn between what they charge on loans and pay on deposits.',
+      reits: 'Real estate trusts borrow a lot and are bought for steady income, so they often move opposite to interest rates.',
+      utilities: 'Utilities are bought for steady dividends and carry a lot of debt, so they often move opposite to interest rates.',
+      telecom: 'Telecoms carry big debts and are bought for dividends, so rate expectations can sway them.',
+      bonds: 'Bond prices move opposite to interest rates: expectations of cuts tend to lift bond funds, hikes tend to weigh on them.',
+      cash: 'Rate changes feed through to what savings accounts, cash ETFs and new GICs pay.',
+      tech: 'Higher rates tend to weigh on fast-growing companies, since more of their value is in profits expected years from now.',
+      chips: 'Higher rates tend to weigh on fast-growing companies, since more of their value is in profits expected years from now.',
+      crypto: 'Crypto has often traded like a “risk-on” asset, rising when borrowing looks cheaper and falling when rates look set to stay high.',
+      index: 'Interest-rate expectations are one of the biggest swing factors for the whole stock market.' } },
+  { key: 'oil', re: /\boil\b|crude|\bOPEC|\bWTI\b|brent|\bLNG\b|natural gas|pipeline|gasoline|gas prices/i,
+    hits: { oil: 'Oil and gas prices drive energy producers’ profits.', pipelines: 'Pipelines are paid mostly by volume, but energy-sector moods and policy news still sway them.',
+      airlines: 'Fuel is one of an airline’s biggest costs, so oil prices can hit profits.', tsx: 'Energy is one of the biggest parts of the TSX, so oil swings move Canadian index funds.',
+      loonie: 'Higher oil prices have often lifted the loonie, which changes what your U.S. holdings are worth in Canadian dollars.' } },
+  { key: 'trade', re: /tariff|trade war|\bCUSMA\b|USMCA|\bexports?\b|\bduties\b|trade deal|steel|aluminum/i,
+    hits: { autos: 'Car makers and parts suppliers ship across the border many times, so tariffs can raise their costs.',
+      rail: 'Railways carry a lot of cross-border freight, so trade volumes affect their business.',
+      mining: 'Metal and fertilizer producers sell much of their output abroad, so trade barriers matter.',
+      tsx: 'Many big TSX companies sell heavily into the U.S., so tariff news can move Canadian index funds.',
+      loonie: 'Trade tensions have tended to weaken the loonie, which raises the Canadian-dollar value of U.S. holdings.',
+      retail: 'Tariffs can raise what stores pay for goods, squeezing margins or pushing up prices.' } },
+  { key: 'ai', re: /\bAI\b|artificial intelligence|\bchips?\b|semiconductor|data cent(er|re)|nvidia|chipmaker/i,
+    hits: { chips: 'Chipmakers sell the hardware behind AI, so AI spending news can move them sharply.',
+      tech: 'Big tech companies are spending heavily on AI, and investors react to signs it is or isn’t paying off.',
+      sp500: 'A handful of AI-linked giants make up a big slice of the S&P 500, so their news moves S&P 500 funds.',
+      nasdaq: 'The Nasdaq is packed with tech and AI companies, so their news moves Nasdaq funds the most.',
+      global: 'Global ETFs hold a lot of U.S. tech, so big AI news can nudge them too.',
+      utilities: 'AI data centres use huge amounts of electricity, which can boost demand for power companies.' } },
+  { key: 'loonie', re: /canadian dollar|\bloonie\b|USD\/CAD|exchange rate|currency/i,
+    hits: { loonie: 'Your U.S. holdings are priced in U.S. dollars: a weaker loonie raises their value in Canadian dollars, a stronger one lowers it.' } },
+  { key: 'housing', re: /housing|mortgage|home (sales|prices)|real estate|homebuy|condo|rent/i,
+    hits: { banks: 'Mortgages are a big part of Canadian banks’ lending, so housing news can affect them.', reits: 'Real estate trusts own buildings, so property market news matters directly.' } },
+  { key: 'gold', re: /\bgold\b|safe[- ]haven|precious metal|silver/i,
+    hits: { gold: 'Gold miners’ profits rise and fall with the gold price, usually by more.', silver: 'Silver often moves with gold when investors seek safety.' } },
+  { key: 'crypto', re: /crypto|bitcoin|ethereum|stablecoin|\bSEC\b.*(crypto|token)|digital asset|blockchain/i,
+    hits: { crypto: 'News about regulation, big buyers or crypto ETFs can shift sentiment across the whole crypto market.', cryptostock: 'Coinbase earns more when crypto trading picks up.' } },
+  { key: 'consumer', re: /retail sales|consumer spending|consumer confidence|holiday (shopping|sales)|black friday|jobs report|unemployment|layoffs/i,
+    hits: { retail: 'Stores and restaurants depend on how much people are spending.', banks: 'A weaker job market can mean more people struggling to repay loans.', index: 'Spending and jobs data are big clues about where the economy is heading.' } },
+  { key: 'geo', re: /\bwar\b|sanction|conflict|geopolit|missile|invasion|strait of hormuz|middle east/i,
+    hits: { oil: 'Conflict in oil-producing regions can push oil prices up.', gold: 'Gold is often bought as a safe haven when tensions rise.', index: 'Geopolitical shocks can make the whole market jumpy for a while.' } },
+  { key: 'health', re: /\bFDA\b|drug pric|health canada|pharma|vaccine|obesity|GLP-1/i,
+    hits: { health: 'Drug approvals and pricing rules directly affect drugmakers’ sales.' } },
+];
+const pfSymIn = (list, s) => (' ' + list + ' ').includes(' ' + s + ' ');
+function pfExposures(h, v) {
+  const out = new Set();
+  if (h.type === 'cash') { out.add('cash'); return out; }
+  if (h.type === 'crypto') { out.add('crypto'); return out; }
+  const s = h.sym;
+  Object.keys(PF_EXPOSURE).forEach(k => { if (pfSymIn(PF_EXPOSURE[k], s)) out.add(k); });
+  if (pfSymIn(PF_INDEX_ETF['S&P 500'], s)) { out.add('sp500'); out.add('index'); }
+  if (pfSymIn(PF_INDEX_ETF['S&P/TSX'], s)) { out.add('tsx'); out.add('index'); }
+  if (pfSymIn(PF_INDEX_ETF['Nasdaq'], s)) { out.add('nasdaq'); out.add('index'); }
+  if (PF_GLOBAL_ETF.includes(s)) { out.add('global'); out.add('index'); }
+  if (PF_BOND_ETF.includes(s)) out.add('bonds');
+  if (PF_CASH_ETF.includes(s)) out.add('cash');
+  if (v && v.cur === 'USD') out.add('loonie');
+  return out;
+}
+function pfNameRe(h) {
+  if (h.type === 'cash') return null;
+  if (h.type === 'crypto') return new RegExp('\\b(' + [h.name, h.sym.length >= 3 ? h.sym : null, h.cgId === 'ethereum' ? 'Ether' : null].filter(Boolean).map(x => x.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|') + ')\\b', 'i');
+  const a = PF_ALIASES[h.sym];
+  return a ? new RegExp('\\b(' + a.replace(/[.*+?^${}()[\]\\]/g, '\\$&') + ')', a === 'AMD' || a === 'BMO' || a === 'CIBC' || a === 'BCE' || a === 'CAE' || a === 'ASML' ? '' : 'i') : null;
+}
+function pfStories() {
+  const n = (TAB_CONFIG.news && TAB_CONFIG.news.data) || {}, g = (TAB_CONFIG.government && TAB_CONFIG.government.data) || {};
+  const out = [];
+  (n.articles || []).forEach(a => out.push({ title: a.title, url: a.url, source: a.source, time: a.time, ts: a.ts || 0 }));
+  (n.ticker || []).forEach(a => { const m = (a.title || '').match(/^(.+?) — (.+)$/); out.push({ title: m ? m[2] : a.title, source: m ? m[1] : '', url: a.url, time: a.time, ts: a.ts || 0 }); });
+  (n.official || []).forEach(a => out.push({ title: a.title, url: a.url, source: a.source, time: a.time, ts: a.ts || 0 }));
+  (g.items || []).forEach(a => out.push({ title: a.title, url: a.url, source: a.source, time: a.time, ts: Date.parse(a.date || '') || 0 }));
+  const seen = new Set();
+  return out.filter(s => s.title && !seen.has(s.title) && seen.add(s.title)).sort((a, b) => b.ts - a.ts);
+}
+function pfIndexMove(name) { const m = PRICES && (PRICES.markets || []).find(x => x.name === name); return m && typeof m.change_pct === 'number' ? m.change_pct : null; }
+
+function pfWhyMoved(vals, total) {
+  const day = vals.reduce((s, x) => s + x.v.day, 0), base = total - day, pct = base > 0 ? day / base * 100 : 0;
+  const lines = [];
+  const movers = vals.filter(x => Math.abs(x.v.day) >= 0.005).sort((a, b) => Math.abs(b.v.day) - Math.abs(a.v.day));
+  if (!movers.length) {
+    lines.push('Your portfolio is about flat today.' + (vals.some(x => x.h.type === 'stock') ? ' Stock prices update during market hours (9:30 AM–4 PM ET on weekdays); crypto trades around the clock.' : ''));
+    return lines;
+  }
+  const label = x => (x.h.sym || x.h.name);
+  const top = movers.slice(0, 2);
+  const parts = top.map(x => label(x) + ' (' + (x.v.day >= 0 ? '+' : '−') + pfMoney(Math.abs(x.v.day)) + ')');
+  lines.push('Your portfolio is ' + (day >= 0 ? 'up ' : 'down ') + pfMoney(Math.abs(day)) + ' (' + pfPct(pct) + ') today. ' +
+    (top.length > 1 && Math.sign(top[0].v.day) !== Math.sign(top[1].v.day) ? 'The biggest moves were ' + parts.join(' and ') + ', pulling in opposite directions.' : 'Most of the move came from ' + parts.join(' and ') + '.'));
+  // Context for the biggest mover: its index, or how it compares with the market
+  const x = top[0], s = x.h.sym, ex = pfExposures(x.h, x.v);
+  let ctx = '';
+  for (const idx of Object.keys(PF_INDEX_ETF)) if (pfSymIn(PF_INDEX_ETF[idx], s)) { const m = pfIndexMove(idx); if (m != null) ctx = s + ' tracks the ' + idx + ', which is ' + (m >= 0 ? 'up ' : 'down ') + Math.abs(m).toFixed(1) + '% today.'; }
+  if (!ctx && ex.has('global')) { const a = pfIndexMove('S&P 500'), b = pfIndexMove('S&P/TSX'); if (a != null && b != null) ctx = s + ' holds a global mix of stocks; today the S&P 500 is ' + pfPct(a) + ' and the TSX ' + pfPct(b) + '.'; }
+  if (!ctx && x.h.type === 'stock' && x.v.pct) {
+    const idx = x.v.cur === 'USD' ? 'S&P 500' : 'S&P/TSX', m = pfIndexMove(idx);
+    if (m != null) { const diff = x.v.pct - m; ctx = s + ' is ' + pfPct(x.v.pct) + ' today, ' + (Math.abs(diff) < 1 ? 'roughly in line with' : diff > 0 ? 'ahead of' : 'behind') + ' the ' + (idx === 'S&P/TSX' ? 'TSX' : idx) + ' (' + pfPct(m) + ')' + (Math.abs(diff) < 1 ? ', so the broad market explains most of it.' : ', so something specific to the company is likely in play.'); }
+  }
+  if (!ctx && x.h.type === 'crypto' && x.v.pct != null) {
+    const g = PRICES && PRICES.crypto_global; ctx = (x.h.name || s) + ' is ' + pfPct(x.v.pct) + ' over 24 hours' + (g && typeof g.market_cap_change_pct === 'number' ? ', while the whole crypto market is ' + pfPct(g.market_cap_change_pct) + '.' : '.');
+  }
+  if (ctx) lines.push(ctx);
+  // A headline that mentions one of the top movers (or the index it tracks)
+  const stories = pfStories(), themes = ((TAB_CONFIG.markets && TAB_CONFIG.markets.data && TAB_CONFIG.markets.data.themes) || []).map(t => ({ title: t.title, source: 'TDS Markets', url: '' }));
+  for (const m of top) {
+    const re = pfNameRe(m.h); if (!re) continue;
+    const hit = stories.find(st => re.test(st.title)) || themes.find(t => re.test(t.title));
+    if (hit) { lines.push('In the news alongside it: “' + hit.title + '”' + (hit.source ? ' (' + hit.source + ')' : '') + '.'); break; }
+  }
+  if (lines.length < 3) {
+    const idxEx = top.find(m => pfExposures(m.h, m.v).has('index'));
+    const t = idxEx && themes[0];
+    if (t) lines.push('Today’s big market story: “' + t.title + '.”');
+  }
+  return lines.slice(0, 3);
+}
+
+function pfIndirect(vals, total) {
+  const stories = pfStories().slice(0, 80), res = [];
+  stories.forEach(st => {
+    const direct = vals.some(x => { const re = pfNameRe(x.h); return re && re.test(st.title); });
+    if (direct) return;
+    for (const th of PF_THEMES) {
+      if (!th.re.test(st.title)) continue;
+      // group your holdings by the reason this story could reach them (biggest group first, max 2 reasons)
+      const groups = {};
+      vals.forEach(x => {
+        const ex = pfExposures(x.h, x.v);
+        for (const k of Object.keys(th.hits)) if (ex.has(k)) { (groups[k] = groups[k] || []).push(x); break; }
+      });
+      const gl = Object.keys(groups).map(k => ({ k, why: th.hits[k], items: groups[k], w: groups[k].reduce((s, x) => s + x.v.value, 0) / (total || 1) }))
+        .sort((a, b) => b.w - a.w).slice(0, 2);
+      if (gl.length) {
+        const w = gl.reduce((s, g) => s + g.w, 0);
+        res.push({ st, groups: gl, w, score: w * 2 + (Date.now() - st.ts < 864e5 ? 1 : 0), theme: th.key });
+        break;
+      }
+    }
+  });
+  const used = new Set(), pick = [];
+  res.sort((a, b) => b.score - a.score).forEach(r => { if (pick.length < 4 && !used.has(r.theme)) { used.add(r.theme); pick.push(r); } });
+  return pick;
+}
+
+function pfWhyWidget(vals, total) {
+  const w = widgetShell('w-span-12', 'lightbulb', 'var(--pink-soft)', 'var(--pink-deep)', 'Why your portfolio moved');
+  const ul = el('div', { className: 'pf-why' });
+  pfWhyMoved(vals, total).forEach(t => ul.appendChild(el('p', { className: 'item-summary', text: t })));
+  w.appendChild(ul);
+  w.appendChild(el('p', { className: 'live-updated', text: 'Based on today’s prices and TDS headlines. News that appears alongside a move isn’t always its cause.' }));
+  return w;
+}
+function pfIndirectWidget(vals, total) {
+  const picks = pfIndirect(vals, total);
+  const w = widgetShell('w-span-12', 'newspaper', 'var(--sky-soft)', 'var(--sky)', 'News that could reach your portfolio', picks.length || undefined);
+  w.appendChild(el('p', { className: 'item-summary gov-sub', text: 'Stories that don’t name what you own but can still affect it, through interest rates, oil, trade, the loonie and more. The tag shows which of your holdings and how much of your portfolio.' }));
+  if (!picks.length) { w.appendChild(el('p', { className: 'item-summary', text: 'No stories in today’s headlines connect to your holdings yet. This updates as news comes in.' })); return w; }
+  picks.forEach(p => {
+    const card = el('div', { className: 'pf-ind' });
+    const a = el('a', { className: 'pf-ind-title', href: p.st.url || '#', text: p.st.title }); card.appendChild(a);
+    card.appendChild(el('div', { className: 'pf-ind-meta', text: [p.st.source, p.st.time].filter(Boolean).join(' · ') }));
+    p.groups.forEach(g => {
+      const names = g.items.map(x => x.h.sym || x.h.name);
+      const row = el('div', { className: 'pf-ind-row' });
+      row.appendChild(el('div', { className: 'pf-ind-you', text: names.slice(0, 3).join(', ') + (names.length > 3 ? ' +' + (names.length - 3) : '') + ' · ' + Math.max(1, Math.round(g.w * 100)) + '%' }));
+      row.appendChild(el('p', { className: 'item-summary pf-ind-why', text: g.why }));
+      card.appendChild(row);
+    });
+    w.appendChild(card);
+  });
+  w.appendChild(el('p', { className: 'live-updated', text: 'General patterns, not predictions or advice. Real effects depend on many things at once.' }));
+  return w;
+}
 
 function pfAddWidget(type) {
   PF.addType = type || 'stock';
