@@ -281,6 +281,18 @@
     .w-span-8, .w-span-7, .w-span-6, .w-span-5, .w-span-4 { grid-column: span 12; }
   }
 
+
+  /* ---------- Preview: one continuous page per tab (only with ?layout=flow) ---------- */
+  html.flow #mainPanel { display: block; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); box-shadow: var(--shadow-sm); padding: 4px 30px; }
+  html.flow .widget { margin: 0; background: none; border: none; box-shadow: none; border-radius: 0; padding: 30px 0 28px; border-bottom: 1px solid var(--line); }
+  html.flow .widget:last-of-type { border-bottom: none; }
+  html.flow .widget:hover { box-shadow: none; transform: none; }
+  html.flow .widget-head { margin-bottom: 14px; }
+  html.flow .widget-title h2 { font-size: 19px; font-weight: 800; letter-spacing: -0.02em; }
+  html.flow .w-icon { width: 26px; height: 26px; border-radius: 8px; }
+  html.flow #mainPanel > .live-updated, html.flow #mainPanel > .error-box { margin: 18px 0; }
+  @media (max-width: 600px) { html.flow #mainPanel { padding: 2px 18px; border-radius: 18px; } html.flow .widget { padding: 24px 0 22px; } html.flow .widget-title h2 { font-size: 17px; } }
+
   .widget-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 16px; }
   .widget-title { display: flex; align-items: center; gap: 9px; }
   .w-icon {
@@ -547,6 +559,7 @@
   .news-coverage { font-size: 10.5px; font-weight: 700; color: var(--pink-deep); background: var(--pink-soft); border-radius: 99px; padding: 1px 8px; }
   @media (max-width: 600px) { .kt-row { grid-template-columns: 1fr; gap: 2px; } }
 </style>
+<script>try{var L=new URLSearchParams(location.search).get('layout');if(L==='flow'||L==='cards')localStorage.setItem('ds-layout',L);if((L||localStorage.getItem('ds-layout'))==='flow')document.documentElement.classList.add('flow');}catch(e){}</script>
 </head>
 <body class="splash-on">
 <div class="splash" id="splash" aria-hidden="true">
