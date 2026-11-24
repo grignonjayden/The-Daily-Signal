@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 3:59 PM ET",
+  "generated_at": "Nov 24, 2026, 4:02 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795553953533,
+  "updated_ts": 1795554154004,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "3:58 PM",
+      "title": "MarketWatch — Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
+      "url": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+      "ts": 1795553880000
+    },
+    {
+      "time": "3:57 PM",
+      "title": "Globe and Mail — Alpine ski, biathlon federations merge in Canada",
+      "url": "https://www.theglobeandmail.com/sports/article-alpine-ski-biathlon-federations-merge-in-canada/",
+      "ts": 1795553872000
+    },
+    {
       "time": "3:53 PM",
       "title": "WSJ Markets — Front Month Nymex Natural Gas Rose 4.37% to Settle at $3.3230",
       "url": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
@@ -295,18 +307,6 @@
       "title": "Investing.com — S&P upgrades E.W. Scripps to ‘B-’ on cost cuts and debt reduction progress",
       "url": "https://www.investing.com/news/stock-market-news/sp-upgrades-ew-scripps-to-b-on-cost-cuts-and-debt-reduction-progress-5048953",
       "ts": 1795551891000
-    },
-    {
-      "time": "3:18 PM",
-      "title": "Investing.com — Sanofi’s $41 billion Insmed bet charts life beyond Dupixent",
-      "url": "https://www.investing.com/news/stock-market-news/sanofi-strikes-41-billion-deal-to-acquire-us-drugmaker-insmed-5047163",
-      "ts": 1795551515000
-    },
-    {
-      "time": "3:18 PM",
-      "title": "Investing.com — Moody’s affirms Sanofi’s Aa3 rating, shifts outlook to negative on Insmed deal",
-      "url": "https://www.investing.com/news/stock-market-news/moodys-affirms-sanofis-aa3-rating-shifts-outlook-to-negative-on-insmed-deal-5048942",
-      "ts": 1795551485000
     }
   ]
 }
