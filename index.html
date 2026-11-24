@@ -430,6 +430,13 @@
   /* ---------- Sources ---------- */
   .sources { display: flex; flex-direction: column; gap: 2px; }
   .sources[hidden] { display: none; }
+  .tldr-list { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 8px; }
+  .tldr-list li { font-size: 15.5px; line-height: 1.55; font-weight: 600; color: var(--ink); }
+  .tldr-list li::marker { color: var(--mint-deep); font-weight: 800; }
+  .gl-term { all: unset; cursor: help; border-bottom: 1.5px dotted currentColor; text-underline-offset: 3px; }
+  .gl-term:hover, .gl-term:focus-visible { color: var(--sky); }
+  .gl-pop { position: absolute; z-index: 1000; max-width: 280px; background: var(--surface); color: var(--ink); border: 1px solid var(--line, rgba(0,0,0,.1)); border-radius: 12px; box-shadow: var(--shadow-md); padding: 10px 12px; font-size: 13px; line-height: 1.45; display: flex; flex-direction: column; gap: 3px; animation: rise 0.2s var(--ease) forwards; }
+  .gl-pop strong { font-size: 13px; }
   .why-p { font-size: 15px; line-height: 1.6; max-width: 72ch; }
   .why-link { display: inline-block; margin-top: 12px; font-size: 13.5px; font-weight: 700; color: var(--sky); text-decoration: none; }
   .why-link:hover { text-decoration: underline; }
@@ -923,7 +930,7 @@ function moodMeter(mood) {
 
 // Pulse first, then Themes, at the top of the Markets and Crypto tabs.
 function moveToTop() {
-  ['2', '1'].forEach(n => { const w = mainPanel.querySelector('[data-top="' + n + '"]'); if (w) mainPanel.prepend(w); });
+  ['2', '1', 'w', '0'].forEach(n => { const w = mainPanel.querySelector('[data-top="' + n + '"]'); if (w) mainPanel.prepend(w); });
 }
 
 // Tap a card to pop it out big, with a plain-language "Why it matters" when the update includes one.
@@ -1200,6 +1207,11 @@ function renderBriefing(data, dateKey) {
     if (Array.isArray(PRICES.stocks) && PRICES.stocks.length) mainPanel.appendChild(buildLivePrices('Big Names (live)', PRICES.stocks));
   }
 
+  const tldr = buildTldr(data, 'The day in 3 sentences');
+  if (tldr) mainPanel.appendChild(tldr);
+  const week = buildWeekReview(data);
+  if (week) mainPanel.appendChild(week);
+
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
     const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', 'var(--lavender)', "Today's Themes", data.themes.length);
@@ -1342,6 +1354,9 @@ function renderCrypto(data, dateKey) {
       mainPanel.appendChild(buildLiveMoves('Biggest 24h Moves (top 100, live)', 'trophy', rows));
     }
   }
+
+  const ctldr = buildTldr(data, 'Crypto in 3 sentences');
+  if (ctldr) mainPanel.appendChild(ctldr);
 
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
@@ -1905,13 +1920,9 @@ function renderGovernment(data, dateKey) {
   mainPanel.appendChild(note);
 }
 
-// Why DS tab — a plain-language explainer of the project (static, no data file).
-function renderWhy() {
-  dateline.textContent = 'Why DS · what this is, who it’s for and how it works';
-  mainPanel.innerHTML = '';
-  const card = (span, icon, bg, fg, title) => { const w = widgetShell(span, icon, bg, fg, title); mainPanel.appendChild(w); return w; };
-  const para = (w, t) => w.appendChild(el('p', { className: 'item-summary why-p', text: t }));
-  const rows = (w, list) => list.forEach((r, i) => {
+// Simple dot + title + text rows (Why DS, Week in review).
+function plainRows(w, list) {
+  list.forEach((r, i) => {
     const item = el('div', { className: 'item' });
     item.style.animationDelay = (i * 0.05) + 's';
     const dot = el('div', { className: 'item-dot' }); dot.style.background = r[2] || 'var(--sky)';
@@ -1921,6 +1932,148 @@ function renderWhy() {
     body.appendChild(el('p', { className: 'item-summary', text: r[1] }));
     item.appendChild(body); w.appendChild(item);
   });
+}
+
+// "The day in 3 sentences" — top of Markets and Crypto (tldr: array of short sentences).
+function buildTldr(data, title) {
+  if (!Array.isArray(data.tldr) || !data.tldr.length) return null;
+  const w = widgetShell('w-span-12 tldr', 'signal', 'var(--mint-soft)', 'var(--mint-deep)', title);
+  w.dataset.top = '0';
+  const ol = el('ol', { className: 'tldr-list' });
+  data.tldr.slice(0, 3).forEach(t => ol.appendChild(el('li', { text: t })));
+  w.appendChild(ol);
+  return w;
+}
+
+// Friday "Week in review" — shown from Friday's close until Monday's first update.
+function buildWeekReview(data) {
+  const wr = data.week_review;
+  if (!wr || !Array.isArray(wr.points) || !wr.points.length) return null;
+  const w = widgetShell('w-span-12', 'history', 'var(--lavender-soft)', 'var(--lavender)', wr.title || 'Week in review');
+  w.dataset.top = 'w';
+  if (wr.summary) w.appendChild(el('p', { className: 'item-summary why-p', text: wr.summary }));
+  plainRows(w, wr.points.map(pt => [pt.title || '', pt.summary || '', 'var(--lavender)']));
+  return w;
+}
+
+// Tap-to-define: underlines finance words in card text and shows a one-line meaning when tapped.
+const GLOSSARY = {
+  'TSX': 'The Toronto Stock Exchange, Canada’s main stock market. “The TSX” usually means its main index of big Canadian companies.',
+  'S&P 500': 'An index of 500 of the largest U.S. companies. The most common way to say how “the U.S. market” did.',
+  'Nasdaq': 'A U.S. stock market heavy with tech companies. Its index often moves more than the others.',
+  'Dow': 'The Dow Jones: an index of 30 large, well-known U.S. companies. The oldest market scoreboard.',
+  'index': 'A basket of stocks tracked together, like a scoreboard for part of the market.',
+  'indexes': 'Baskets of stocks tracked together, like scoreboards for parts of the market.',
+  'sector': 'A group of companies in the same line of business, like banks, energy or tech.',
+  'market cap': 'What a company is worth on the stock market: share price × number of shares.',
+  'earnings': 'A company’s profit report, usually every three months. Stocks often jump or drop on it.',
+  'guidance': 'What a company says it expects to earn in the coming months.',
+  'dividend': 'A slice of profit a company pays out to its shareholders, often every three months.',
+  'bond': 'A loan you give to a government or company that pays you interest.',
+  'bonds': 'Loans to governments or companies that pay interest.',
+  'yield': 'The return you get on a bond or investment each year, as a percentage.',
+  'yields': 'The yearly returns on bonds, as a percentage. When they rise, borrowing usually gets more expensive.',
+  'interest rate': 'The cost of borrowing money. It affects mortgages, car loans and savings accounts.',
+  'interest rates': 'The cost of borrowing money. They affect mortgages, car loans and savings accounts.',
+  'rate cut': 'When a central bank lowers its key interest rate, making borrowing cheaper.',
+  'rate hike': 'When a central bank raises its key interest rate, making borrowing more expensive.',
+  'inflation': 'How fast prices are rising. 2% a year is what Canada and the U.S. aim for.',
+  'CPI': 'Consumer Price Index: the main measure of how much everyday prices went up.',
+  'PCE': 'A U.S. inflation measure the Federal Reserve watches most closely.',
+  'GDP': 'Gross Domestic Product: the total value of everything a country produces. The economy’s size.',
+  'recession': 'When the economy shrinks for a while and jobs usually get harder to find.',
+  'Bank of Canada': 'Canada’s central bank. It sets the interest rate that shapes mortgage and loan rates.',
+  'Federal Reserve': 'The U.S. central bank. Its rate decisions move markets around the world, including Canada.',
+  'the Fed': 'Short for the Federal Reserve, the U.S. central bank.',
+  'loonie': 'Nickname for the Canadian dollar. A weaker loonie makes U.S. goods and trips cost more.',
+  'volatility': 'How much and how fast prices swing. High volatility means bigger ups and downs.',
+  'VIX': 'Wall Street’s “fear gauge.” Higher means investors expect bigger swings.',
+  'fear gauge': 'Nickname for the VIX, which measures how nervous investors are.',
+  'rally': 'A strong run of rising prices.',
+  'relief rally': 'A bounce after a big drop, when investors feel the worst may be over.',
+  'sell-off': 'A quick drop as lots of investors sell at once.',
+  'bull market': 'A long stretch of rising prices.',
+  'bear market': 'A drop of 20% or more from a recent high.',
+  'correction': 'A drop of 10% or more from a recent high. Fairly common.',
+  'ETF': 'Exchange-traded fund: one investment that holds a basket of stocks or bonds.',
+  'IPO': 'Initial public offering: when a company first sells shares on the stock market.',
+  'tariff': 'A tax on imported goods. It can raise prices and hurt trade.',
+  'tariffs': 'Taxes on imported goods. They can raise prices and hurt trade.',
+  'jobless claims': 'The number of people newly applying for unemployment benefits in the U.S. each week.',
+  'pre-market': 'Trading before the official 9:30 AM ET open. Fewer trades, so bigger swings.',
+  'after hours': 'Trading after the 4 PM ET close, often when companies report earnings.',
+  'Bitcoin': 'The first and largest cryptocurrency.',
+  'Ethereum': 'The second-largest cryptocurrency, also used to run apps on its network.',
+  'altcoins': 'Any cryptocurrency other than Bitcoin.',
+  'altcoin': 'Any cryptocurrency other than Bitcoin.',
+  'stablecoin': 'A crypto token designed to stay worth $1 (or another fixed amount).',
+  'stablecoins': 'Crypto tokens designed to stay worth $1 (or another fixed amount).',
+  'DeFi': 'Decentralized finance: crypto apps for lending, borrowing and trading without a bank.',
+  'dominance': 'Bitcoin dominance: Bitcoin’s share of the whole crypto market’s value.',
+  'market sentiment': 'The overall mood of investors, from fearful to greedy.',
+  'sentiment': 'The overall mood of investors, from fearful to greedy.',
+  'chipmakers': 'Companies that design or make computer chips, like Nvidia, AMD and Intel.',
+  'semiconductor': 'Computer chips, and the industry that makes them.',
+  'semiconductors': 'Computer chips, and the industry that makes them.'
+};
+const GLOSS_TERMS = Object.keys(GLOSSARY).sort((a, b) => b.length - a.length);
+const GLOSS_RE = new RegExp('(?<![\\w-])(' + GLOSS_TERMS.map(t => t.replace(/[.*+?^${}()|[\]\\&]/g, '\\$&')).join('|') + ')(?![\\w-])', 'gi');
+function glossKey(match) {
+  if (GLOSSARY[match]) return match;
+  const k = GLOSS_TERMS.find(t => t.toLowerCase() === match.toLowerCase());
+  return k && k !== k.toUpperCase() ? k : null; // acronyms must match in capitals
+}
+function applyGlossary(root) {
+  (root || mainPanel).querySelectorAll('.item-summary, .item-title, .tldr-list li, .why-p').forEach(node => {
+    if (node.dataset.gl || node.closest('a')) return;
+    node.dataset.gl = '1';
+    const card = node.closest('.widget') || node;
+    const used = card._glUsed || (card._glUsed = new Set());
+    const walker = document.createTreeWalker(node, NodeFilter.SHOW_TEXT);
+    const texts = []; while (walker.nextNode()) texts.push(walker.currentNode);
+    texts.forEach(tn => {
+      const txt = tn.nodeValue; let last = 0, m, frag = null;
+      GLOSS_RE.lastIndex = 0;
+      while ((m = GLOSS_RE.exec(txt))) {
+        const key = glossKey(m[0]);
+        if (!key || used.has(GLOSSARY[key])) continue;
+        used.add(GLOSSARY[key]);
+        frag = frag || document.createDocumentFragment();
+        frag.appendChild(document.createTextNode(txt.slice(last, m.index)));
+        const b = el('button', { className: 'gl-term', text: m[0] });
+        b.type = 'button'; b.dataset.def = GLOSSARY[key]; b.dataset.term = key;
+        frag.appendChild(b); last = m.index + m[0].length;
+      }
+      if (frag) { frag.appendChild(document.createTextNode(txt.slice(last))); tn.replaceWith(frag); }
+    });
+  });
+}
+document.addEventListener('click', e => {
+  const old = document.querySelector('.gl-pop');
+  const t = e.target.closest && e.target.closest('.gl-term');
+  if (old && (!t || old._for === t)) { old.remove(); if (t) { e.stopPropagation(); e.preventDefault(); } return; }
+  if (old) old.remove();
+  if (!t) return;
+  e.stopPropagation(); e.preventDefault();
+  const pop = el('div', { className: 'gl-pop' }); pop._for = t;
+  pop.setAttribute('role', 'tooltip');
+  pop.appendChild(el('strong', { text: t.dataset.term }));
+  pop.appendChild(el('span', { text: t.dataset.def }));
+  document.body.appendChild(pop);
+  const r = t.getBoundingClientRect(), pw = pop.offsetWidth;
+  pop.style.left = Math.max(8, Math.min(window.innerWidth - pw - 8, r.left + window.scrollX + r.width / 2 - pw / 2)) + 'px';
+  pop.style.top = (r.bottom + window.scrollY + 8) + 'px';
+}, true);
+document.addEventListener('keydown', e => { if (e.key === 'Escape') { const p = document.querySelector('.gl-pop'); if (p) p.remove(); } });
+new MutationObserver(() => applyGlossary()).observe(mainPanel, { childList: true, subtree: true });
+
+// Why DS tab — a plain-language explainer of the project (static, no data file).
+function renderWhy() {
+  dateline.textContent = 'Why DS · what this is, who it’s for and how it works';
+  mainPanel.innerHTML = '';
+  const card = (span, icon, bg, fg, title) => { const w = widgetShell(span, icon, bg, fg, title); mainPanel.appendChild(w); return w; };
+  const para = (w, t) => w.appendChild(el('p', { className: 'item-summary why-p', text: t }));
+  const rows = plainRows;
 
   const intro = card('w-span-12', 'signal', 'var(--sky-soft)', 'var(--sky)', 'What is The Daily Signal?');
   para(intro, 'The Daily Signal is a free daily briefing on markets, crypto and the news, written for Canadians who don’t work in finance. Financial news is loud, full of jargon and easy to tune out. DS cuts it down to what moved, why it matters and where to read more, in plain language and on one simple page.');
