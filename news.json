@@ -1,37 +1,17 @@
 {
-  "generated_at": "Nov 24, 2026, 11:02 AM ET",
+  "generated_at": "Nov 24, 2026, 11:05 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795536145108,
+  "updated_ts": 1795536346148,
   "articles": [
     {
-      "title": "Nvidia shares fall over 5% after Huang comeback rally",
+      "title": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-      "snippet": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558076-1795501710580-gettyimages-2299493080-AFP_D36R6ZH.jpeg?v=1795501751&w=1920&h=1080",
-      "time": "Nov 24, 10:36 AM",
-      "coverage": 7,
-      "ts": 1795534594000
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
-      "snippet": "Kress led the company for 11 days during Huang’s sudden departure and steered Nvidia through billions in AI financing deals before that. Now she's back to CFO.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108557902-1795471379811-Kress_Huang.jpg?v=1795471502&w=1920&h=1080",
-      "time": "Nov 24, 10:19 AM",
-      "coverage": 7,
-      "ts": 1795533586000
-    },
-    {
-      "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
-      "snippet": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
-      "image": "https://images.mktw.net/im-72615127",
-      "time": "Nov 24, 9:59 AM",
-      "coverage": 7,
-      "ts": 1795532340000
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+      "snippet": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
+      "time": "Nov 24, 10:47 AM",
+      "coverage": 6,
+      "ts": 1795535237000
     },
     {
       "title": "Nvidia’s Huang returns to cheers in China, but political hurdles mount",
@@ -44,6 +24,26 @@
       "ts": 1795534606000
     },
     {
+      "title": "Nvidia shares fall over 5% after Huang comeback rally",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "snippet": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558076-1795501710580-gettyimages-2299493080-AFP_D36R6ZH.jpeg?v=1795501751&w=1920&h=1080",
+      "time": "Nov 24, 10:36 AM",
+      "coverage": 6,
+      "ts": 1795534594000
+    },
+    {
+      "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+      "snippet": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
+      "image": "https://images.mktw.net/im-72615127",
+      "time": "Nov 24, 9:59 AM",
+      "coverage": 6,
+      "ts": 1795532340000
+    },
+    {
       "title": "Wall Street largely under pressure a day after explosive rally led by Nvidia",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
@@ -52,16 +52,6 @@
       "time": "Nov 24, 10:36 AM",
       "coverage": 5,
       "ts": 1795534573000
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 7,
-      "ts": 1795456173000
     },
     {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
@@ -82,16 +72,6 @@
       "time": "Nov 23, 7:45 PM",
       "coverage": 6,
       "ts": 1795481121000
-    },
-    {
-      "title": "Stocks soar on Jensen Huang’s return to Nvidia",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026",
-      "snippet": "Major U.S. equity indexes are higher Monday after last week&apos;s steep AI sell-off, with investors eyeing Nvidia&apos;s recovery and Wednesday&apos;s PCE inflation report.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-historic-stock-market-selloff-1.jpg",
-      "time": "Nov 23, 8:36 AM",
-      "coverage": 7,
-      "ts": 1795441018000
     },
     {
       "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
@@ -124,6 +104,16 @@
       "ts": 1795533660000
     },
     {
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
+    },
+    {
       "title": "Anthropic Shares Plunge 6% Below IPO Price in Fourth Trading Day",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
@@ -135,15 +125,25 @@
       "ts": 1795519164000
     },
     {
-      "title": "Stocks Fall as Nvidia Fades and Trade Fears Return: Markets Wrap",
+      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
+      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
+      "time": "Nov 23, 9:06 AM",
+      "coverage": 6,
+      "ts": 1795442808000
+    },
+    {
+      "title": "Senegal Debt Rework Risks Delay on Budget, Morgan Stanley Says",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
-      "snippet": "A selloff in technology giants dragged down stocks, with the market also retreating on concerns over fresh US tariffs.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/senegal-debt-rework-risks-delay-on-budget-morgan-stanley-says",
+      "snippet": "Morgan Stanley is skeptical of Senegal completing a debt restructuring by a self-imposed year-end deadline as an impasse over the budget risks stalling the process.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 23, 5:06 PM",
-      "coverage": 5,
-      "ts": 1795471606000
+      "time": "Nov 24, 9:46 AM",
+      "coverage": 2,
+      "ts": 1795531577000
     }
   ],
   "outlets": [
@@ -237,10 +237,22 @@
   ],
   "ticker": [
     {
-      "time": "10:55 AM",
+      "time": "11:03 AM",
       "title": "CNBC — Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
       "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-      "ts": 1795535739000
+      "ts": 1795536193000
+    },
+    {
+      "time": "11:01 AM",
+      "title": "WSJ Markets — The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "ts": 1795536060000
+    },
+    {
+      "time": "10:57 AM",
+      "title": "Bloomberg — Consumer Mood Improves Into Holidays, But Risks Loom",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/consumer-mood-improves-into-holidays-but-risks-loom-video",
+      "ts": 1795535821000
     },
     {
       "time": "10:55 AM",
@@ -273,12 +285,6 @@
       "ts": 1795535266000
     },
     {
-      "time": "10:47 AM",
-      "title": "CNBC — Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-      "ts": 1795535237000
-    },
-    {
       "time": "10:44 AM",
       "title": "WSJ Markets — Tech Stocks Backslide After Epic Rally",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Why is Cogent Biosciences stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-cogent-biosciences-stock-surging-today-93CH-5048671",
       "ts": 1795534864000
-    },
-    {
-      "time": "10:41 AM",
-      "title": "Investing.com — Why is Target stock surging to a 52-week high today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-target-stock-surging-to-a-52week-high-today-93CH-5048670",
-      "ts": 1795534860000
     }
   ]
 }
