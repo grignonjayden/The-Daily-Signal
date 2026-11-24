@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 2:24 PM ET",
+  "generated_at": "Nov 24, 2026, 2:27 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795548265729,
+  "updated_ts": 1795548468505,
   "articles": [
     {
       "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
@@ -235,6 +235,24 @@
   ],
   "ticker": [
     {
+      "time": "2:26 PM",
+      "title": "CNBC — Retail turnarounds are taking hold just in time for the holiday season",
+      "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+      "ts": 1795548399000
+    },
+    {
+      "time": "2:26 PM",
+      "title": "CNBC — Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+      "ts": 1795548386000
+    },
+    {
+      "time": "2:26 PM",
+      "title": "CNBC — Anthropic shares fall below IPO price. Traders see even more pain",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+      "ts": 1795548381000
+    },
+    {
       "time": "2:19 PM",
       "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
@@ -271,12 +289,6 @@
       "ts": 1795547121000
     },
     {
-      "time": "2:04 PM",
-      "title": "CNBC — Trump wanted Jensen Huang back. Now, he's all alone in Washington",
-      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-      "ts": 1795547053000
-    },
-    {
       "time": "2:02 PM",
       "title": "MarketWatch — Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
       "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
@@ -293,18 +305,6 @@
       "title": "Investing.com — Deere, Polestar, and more set to report earnings Wednesday",
       "url": "https://www.investing.com/news/stock-market-news/deere-polestar-and-more-set-to-report-earnings-wednesday-93CH-5048882",
       "ts": 1795546831000
-    },
-    {
-      "time": "1:56 PM",
-      "title": "Investing.com — US House Democrats expand probe into Trump Jr.’s investments",
-      "url": "https://www.investing.com/news/stock-market-news/house-democrats-investigate-trump-jrs-firm-and-related-companies-5048692",
-      "ts": 1795546565000
-    },
-    {
-      "time": "1:52 PM",
-      "title": "WSJ Markets — Gold Futures Give Back Gains Following Nvidia-Driven Rally",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
-      "ts": 1795546320000
     }
   ]
 }
