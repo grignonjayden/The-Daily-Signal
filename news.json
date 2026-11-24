@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:59 AM ET",
+  "generated_at": "Nov 24, 2026, 11:02 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795535943100,
+  "updated_ts": 1795536145108,
   "articles": [
     {
       "title": "Nvidia shares fall over 5% after Huang comeback rally",
@@ -238,6 +238,12 @@
   "ticker": [
     {
       "time": "10:55 AM",
+      "title": "CNBC — Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+      "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+      "ts": 1795535739000
+    },
+    {
+      "time": "10:55 AM",
       "title": "Investing.com — Israel stocks lower at close of trade; TA 35 down 0.86%",
       "url": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-086-5048685",
       "ts": 1795535703000
@@ -255,10 +261,22 @@
       "ts": 1795535367000
     },
     {
+      "time": "10:49 AM",
+      "title": "CNBC — Amtrak sets ridership record as rising gas prices encourage Americans to travel by rail",
+      "url": "https://www.cnbc.com/2026/11/24/amtrak-sets-ridership-record-amid-rising-gas-prices.html",
+      "ts": 1795535345000
+    },
+    {
       "time": "10:47 AM",
       "title": "CNBC — Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
       "ts": 1795535266000
+    },
+    {
+      "time": "10:47 AM",
+      "title": "CNBC — Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+      "ts": 1795535237000
     },
     {
       "time": "10:44 AM",
@@ -289,24 +307,6 @@
       "title": "Investing.com — Why is Target stock surging to a 52-week high today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-target-stock-surging-to-a-52week-high-today-93CH-5048670",
       "ts": 1795534860000
-    },
-    {
-      "time": "10:37 AM",
-      "title": "Investing.com — Sanofi’s $41 billion Insmed bet charts life beyond Dupixent",
-      "url": "https://www.investing.com/news/stock-market-news/sanofi-strikes-41-billion-deal-to-acquire-us-drugmaker-insmed-5047163",
-      "ts": 1795534627000
-    },
-    {
-      "time": "10:36 AM",
-      "title": "Investing.com — Dell, Analog Devices among market cap stock movers on Tuesday",
-      "url": "https://www.investing.com/news/stock-market-news/dell-analog-devices-among-market-cap-stock-movers-on-tuesday-93CH-5048665",
-      "ts": 1795534583000
-    },
-    {
-      "time": "10:35 AM",
-      "title": "Investing.com — Why is Nike stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-nike-stock-rallying-today-93CH-5048664",
-      "ts": 1795534555000
     }
   ]
 }
