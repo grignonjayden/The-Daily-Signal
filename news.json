@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 4:36 PM ET",
+  "generated_at": "Nov 24, 2026, 4:39 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795556185250,
+  "updated_ts": 1795556387920,
   "articles": [
     {
       "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
@@ -261,6 +261,12 @@
       "ts": 1795555800000
     },
     {
+      "time": "4:29 PM",
+      "title": "CNBC — Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+      "ts": 1795555743000
+    },
+    {
       "time": "4:28 PM",
       "title": "WSJ Markets — Oil Prices Rebound as Shipping Risks Persist",
       "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/dell-raises-ai-server-outlook-closing-bell-video",
       "ts": 1795555285000
-    },
-    {
-      "time": "4:20 PM",
-      "title": "Investing.com — Russia stocks lower at close of trade; MOEX Russia Index down 2.01%",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-201-5049047",
-      "ts": 1795555203000
     }
   ]
 }
