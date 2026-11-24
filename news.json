@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:01 AM ET",
+  "generated_at": "Nov 24, 2026, 9:04 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795528879894,
+  "updated_ts": 1795529081944,
   "articles": [
     {
       "title": "Six key questions raised by Jensen Huang's return to Nvidia",
@@ -237,16 +237,16 @@
   ],
   "ticker": [
     {
+      "time": "9:01 AM",
+      "title": "CNBC — Stock futures decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "ts": 1795528905000
+    },
+    {
       "time": "8:53 AM",
       "title": "CNBC — Jim Cramer's top 10 things to watch in the stock market Tuesday",
       "url": "https://www.cnbc.com/investingclub/2026/11/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
       "ts": 1795528417000
-    },
-    {
-      "time": "8:51 AM",
-      "title": "CNBC — Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
-      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-      "ts": 1795528262000
     },
     {
       "time": "8:50 AM",
