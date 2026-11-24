@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 12:16 PM ET",
+  "generated_at": "Nov 24, 2026, 12:19 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795540584803,
+  "updated_ts": 1795540785251,
   "articles": [
     {
       "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
@@ -45,24 +45,14 @@
       "ts": 1795478438000
     },
     {
-      "title": "Anthropic falls below IPO price as debut rally unravels",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/article-anthropic-stock-price-after-debut-rally/",
-      "snippet": "AI lab notched large gains during its debut trading session but has since been swept up in a broader technology sell-off",
-      "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
-      "time": "Nov 24, 6:52 AM",
-      "coverage": 6,
-      "ts": 1795521149000
-    },
-    {
-      "title": "Wall Street mostly lower, Nasdaq falls 2% a day after explosive Nvidia-led rally",
+      "title": "Wall Street mostly lower, Nasdaq slides a day after explosive Nvidia-led rally",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
       "snippet": "",
       "image": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg",
-      "time": "Nov 24, 11:23 AM",
+      "time": "Nov 24, 12:13 PM",
       "coverage": 4,
-      "ts": 1795537406000
+      "ts": 1795540393000
     },
     {
       "title": "Nvidia’s Board Faces Governance Questions",
@@ -106,6 +96,16 @@
       "ts": 1795456173000
     },
     {
+      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
+      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
+      "time": "Nov 24, 6:25 AM",
+      "coverage": 4,
+      "ts": 1795519556000
+    },
+    {
       "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
@@ -126,16 +126,6 @@
       "ts": 1795442808000
     },
     {
-      "title": "Possible Tesla merger could aid SpaceX’s S&P 500 entry, ⁠J.P. Morgan says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/possible-tesla-merger-could-aid-spacexs-sp-500-entry-jp-morgan-says-5048726",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1IL_L.jpg",
-      "time": "Nov 24, 11:30 AM",
-      "coverage": 2,
-      "ts": 1795537821000
-    },
-    {
       "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
@@ -144,6 +134,15 @@
       "time": "Nov 24, 10:21 AM",
       "coverage": 3,
       "ts": 1795533660000
+    },
+    {
+      "title": "Why is Skydance stock rallying today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-skydance-stock-rallying-today-93CH-5048786",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEL3O0OG_L.jpg",
+      "time": "Nov 24, 12:14 PM",
+      "ts": 1795540455000
     }
   ],
   "outlets": [
@@ -237,10 +236,64 @@
   ],
   "ticker": [
     {
+      "time": "12:15 PM",
+      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "ts": 1795540500000
+    },
+    {
+      "time": "12:12 PM",
+      "title": "Investing.com — Ford in talks with the Pentagon to supply military vehicles",
+      "url": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-with-general-motors-and-ford-on-military-drones-wsj-reports-5047560",
+      "ts": 1795540372000
+    },
+    {
+      "time": "12:12 PM",
+      "title": "Investing.com — Wendy’s hit with US class action over menu pricing",
+      "url": "https://www.investing.com/news/stock-market-news/wendys-hit-with-us-class-action-overmenu-pricing-5048785",
+      "ts": 1795540346000
+    },
+    {
+      "time": "12:12 PM",
+      "title": "Investing.com — Why is JetBlue Airways stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-jetblue-airways-stock-climbing-today-93CH-5048784",
+      "ts": 1795540326000
+    },
+    {
+      "time": "12:11 PM",
+      "title": "Investing.com — MongoDB options signal 14% move ahead of Dec. 1 earnings",
+      "url": "https://www.investing.com/news/stock-market-news/mongodb-options-signal-14-move-ahead-of-dec-1-earnings-93CH-5048783",
+      "ts": 1795540269000
+    },
+    {
       "time": "12:10 PM",
       "title": "MarketWatch — ‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
       "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
       "ts": 1795540200000
+    },
+    {
+      "time": "12:09 PM",
+      "title": "Investing.com — Marvell options signal 8.3% move ahead of Dec. 1 earnings",
+      "url": "https://www.investing.com/news/stock-market-news/marvell-options-signal-83-move-ahead-of-dec-1-earnings-93CH-5048781",
+      "ts": 1795540195000
+    },
+    {
+      "time": "12:09 PM",
+      "title": "Investing.com — U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.20%",
+      "url": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-020-5048779",
+      "ts": 1795540147000
+    },
+    {
+      "time": "12:09 PM",
+      "title": "Investing.com — GitLab options signal 13% stock move ahead of Dec. 1 earnings",
+      "url": "https://www.investing.com/news/stock-market-news/gitlab-options-signal-13-stock-move-ahead-of-dec-1-earnings-93CH-5048778",
+      "ts": 1795540143000
+    },
+    {
+      "time": "12:08 PM",
+      "title": "Investing.com — Spain stocks lower at close of trade; IBEX 35 down 0.86%",
+      "url": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-086-5048777",
+      "ts": 1795540120000
     },
     {
       "time": "12:04 PM",
@@ -253,60 +306,6 @@
       "title": "CNBC — Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
       "ts": 1795539663000
-    },
-    {
-      "time": "11:56 AM",
-      "title": "Bloomberg — What Really Matters for the AI Trade Now? Live Q&A",
-      "url": "https://www.bloomberg.com/sessions/2026-11-24/live-q-amp-a-is-the-ai-boom-too-dependent-on-nvidia",
-      "ts": 1795539378000
-    },
-    {
-      "time": "11:51 AM",
-      "title": "Bloomberg — European Gas Surges as Cold Snap Threatens Tight Winter Supplies",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/european-gas-surges-as-cold-snap-threatens-supplies-video",
-      "ts": 1795539101000
-    },
-    {
-      "time": "11:48 AM",
-      "title": "CNBC — Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "ts": 1795538929000
-    },
-    {
-      "time": "11:48 AM",
-      "title": "Investing.com — Shein to pay $100 million to settle US claims, FTC official says",
-      "url": "https://www.investing.com/news/stock-market-news/shein-to-pay-100-million-to-settle-us-claims-ftc-official-says-5048743",
-      "ts": 1795538915000
-    },
-    {
-      "time": "11:38 AM",
-      "title": "Bloomberg — Top Strategist Calls Nvidia a House of Cards",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/top-strategist-calls-nvidia-a-house-of-cards-video",
-      "ts": 1795538294000
-    },
-    {
-      "time": "11:36 AM",
-      "title": "Investing.com — Coffin-carrying Volkswagen workers threaten strikes after first wage talks",
-      "url": "https://www.investing.com/news/stock-market-news/volkswagen-confronts-union-over-costs-in-face-of-strike-threat-5047119",
-      "ts": 1795538199000
-    },
-    {
-      "time": "11:35 AM",
-      "title": "Investing.com — Poland stocks lower at close of trade; WIG30 down 2.51%",
-      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-251-5048735",
-      "ts": 1795538130000
-    },
-    {
-      "time": "11:35 AM",
-      "title": "Investing.com — Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.88%",
-      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-088-5048734",
-      "ts": 1795538103000
-    },
-    {
-      "time": "11:34 AM",
-      "title": "Investing.com — Wedbush kept this gaming stock on its Best Ideas List after its most recent launch",
-      "url": "https://www.investing.com/news/stock-market-news/wedbush-kept-this-gaming-stock-on-its-best-ideas-list-after-its-most-recent-launch-5048733",
-      "ts": 1795538060000
     }
   ]
 }
