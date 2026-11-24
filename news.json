@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 12:49 PM ET",
+  "generated_at": "Nov 24, 2026, 12:53 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795542594463,
+  "updated_ts": 1795542795412,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -19,9 +19,9 @@
       "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
       "snippet": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
       "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
-      "time": "Nov 24, 11:42 AM",
+      "time": "Nov 24, 12:51 PM",
       "coverage": 5,
-      "ts": 1795538577000
+      "ts": 1795542705000
     },
     {
       "title": "Nvidia (NVDA) Surging on Huang’s Reinstatement Brings Back Leveraged ETF Debate",
@@ -54,16 +54,6 @@
       "time": "Nov 24, 11:01 AM",
       "coverage": 4,
       "ts": 1795536060000
-    },
-    {
-      "title": "Anthropic’s stock just broke below its IPO price for the first time",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "snippet": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after their debut on the Nasdaq.",
-      "image": "https://images.mktw.net/im-34075557",
-      "time": "Nov 24, 10:21 AM",
-      "coverage": 5,
-      "ts": 1795533660000
     },
     {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
@@ -143,6 +133,16 @@
       "image": "https://content-media.investing.com/news/LYNXNPEC2028Y_M.jpg",
       "time": "Nov 24, 12:21 PM",
       "ts": 1795540882000
+    },
+    {
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "snippet": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "image": "https://images.mktw.net/im-93318812",
+      "time": "Nov 24, 12:15 PM",
+      "coverage": 2,
+      "ts": 1795540500000
     }
   ],
   "outlets": [
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "12:48 PM",
+      "title": "MarketWatch — The AI debt market isn’t convinced the worst is over for investors",
+      "url": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
+      "ts": 1795542480000
+    },
+    {
       "time": "12:47 PM",
       "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
@@ -300,12 +306,6 @@
       "title": "Investing.com — TD Cowen sees nearly 30% upside in this stock on senior housing growth",
       "url": "https://www.investing.com/news/stock-market-news/td-cowen-sees-nearly-30-upside-in-this-stock-on-senior-housing-growth-5048803",
       "ts": 1795541291000
-    },
-    {
-      "time": "12:28 PM",
-      "title": "WSJ Markets — Health Care Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-0f197179?mod=rss_markets_main",
-      "ts": 1795541280000
     }
   ]
 }
