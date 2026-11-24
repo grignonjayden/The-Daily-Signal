@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 12:46 PM ET",
+  "generated_at": "Nov 24, 2026, 12:49 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795542393755,
+  "updated_ts": 1795542594463,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -236,10 +236,10 @@
   ],
   "ticker": [
     {
-      "time": "12:33 PM",
+      "time": "12:47 PM",
       "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-      "ts": 1795541600000
+      "ts": 1795542450000
     },
     {
       "time": "12:33 PM",
