@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 1:50 PM ET",
+  "generated_at": "Nov 24, 2026, 1:53 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795546226832,
+  "updated_ts": 1795546427684,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -236,6 +236,36 @@
   ],
   "ticker": [
     {
+      "time": "1:50 PM",
+      "title": "Globe and Mail — Bank of Canada refines inflation-targeting framework for shock-prone world",
+      "url": "https://www.theglobeandmail.com/business/article-bank-of-canada-macklem-inflation-targeting-framework-november-24/",
+      "ts": 1795546257000
+    },
+    {
+      "time": "1:48 PM",
+      "title": "Investing.com — Bruised S&P 500 seen gaining more than 12% by end-2027",
+      "url": "https://www.investing.com/news/stock-market-news/bruised-sp-500-seen-gaining-more-than-12-by-end2027-reuters-poll-5048867",
+      "ts": 1795546134000
+    },
+    {
+      "time": "1:48 PM",
+      "title": "MarketWatch — Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+      "url": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+      "ts": 1795546080000
+    },
+    {
+      "time": "1:46 PM",
+      "title": "Investing.com — Schumer accuses Huang of violating US export law",
+      "url": "https://www.investing.com/news/stock-market-news/schumer-accuses-huang-of-violating-us-export-law-5048872",
+      "ts": 1795545971000
+    },
+    {
+      "time": "1:45 PM",
+      "title": "Investing.com — Nasdaq slides as AI trade uncertainty remains despite explosive Nvidia-led rally",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
+      "ts": 1795545909000
+    },
+    {
       "time": "1:44 PM",
       "title": "WSJ Markets — Comex Gold Settles 2.45% Lower at $3559.90",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
@@ -276,36 +306,6 @@
       "title": "Globe and Mail — Ottawa defends new land seizure powers proposed for Alto’s high-speed rail project",
       "url": "https://www.theglobeandmail.com/canada/article-alto-high-speed-rail-project-land-seizure-powers/",
       "ts": 1795545057000
-    },
-    {
-      "time": "1:30 PM",
-      "title": "CNBC — Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-      "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-      "ts": 1795545006000
-    },
-    {
-      "time": "1:21 PM",
-      "title": "CNBC — Retail turnarounds are taking hold just in time for the holiday season",
-      "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
-      "ts": 1795544495000
-    },
-    {
-      "time": "1:18 PM",
-      "title": "CNBC — Nvidia revived the AI trade, but investors still have reasons to hedge",
-      "url": "https://www.cnbc.com/2026/11/24/ai-trade-nvidia-rally-defensive-stocks.html",
-      "ts": 1795544333000
-    },
-    {
-      "time": "1:17 PM",
-      "title": "CNBC — As Anthropic falls below its IPO price, here's how big-money traders are reacting",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
-      "ts": 1795544232000
-    },
-    {
-      "time": "1:15 PM",
-      "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "ts": 1795544100000
     }
   ]
 }
