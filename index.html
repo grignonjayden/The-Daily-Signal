@@ -583,6 +583,23 @@
   .pf-chart .above { fill: #1C2E52; } .pf-chart .below { fill: #D9722C; }
   :root[data-theme="dark"] .pf-chart .above { fill: #9DB4E6; }
   .pf-formula { font-size: 13.5px; font-weight: 700; background: var(--surface-alt); border-radius: 12px; padding: 10px 12px; margin: 12px 0 0; font-variant-numeric: tabular-nums; }
+  .pf-sugg { display: flex; flex-direction: column; gap: 6px; margin: 10px 0; }
+  .pf-sugg-row { display: flex; gap: 10px; align-items: baseline; font-size: 14px; font-weight: 600; background: var(--surface-alt); border-radius: 12px; padding: 10px 12px; }
+  .pf-sugg-k { flex: none; font-weight: 800; }
+  .pf-sugg-row.more .pf-sugg-k { color: var(--mint-deep); } .pf-sugg-row.less .pf-sugg-k { color: var(--pink-deep); }
+  .pf-sugg-result { font-weight: 600; color: var(--ink) !important; }
+  .pf-simple .num { stroke: #fff; stroke-width: 2; } .pf-simple .n1 { fill: #2F63D6; } .pf-simple .n2 { fill: #5A5D68; } .pf-simple .n3 { fill: #D9722C; } .pf-simple .n4 { fill: #1E9E5A; }
+  .pf-simple .numt { font-size: 12px; font-weight: 800; fill: #fff; font-family: inherit; }
+  .pf-key { display: flex; flex-direction: column; gap: 12px; margin-top: 6px; }
+  .pf-key-row { display: flex; gap: 12px; align-items: flex-start; }
+  .pf-key-n { flex: none; width: 24px; height: 24px; border-radius: 50%; color: #fff; font-size: 12px; font-weight: 800; display: flex; align-items: center; justify-content: center; margin-top: 1px; }
+  .pf-key-n.n1 { background: #2F63D6; } .pf-key-n.n2 { background: #5A5D68; } .pf-key-n.n3 { background: #D9722C; } .pf-key-n.n4 { background: #1E9E5A; }
+  .pf-key-t { font-size: 14px; font-weight: 800; margin-bottom: 2px; }
+  .pf-key .item-summary { margin: 0; }
+  .pf-key-you { color: var(--ink) !important; font-weight: 600 !important; }
+  .pf-math-btn { margin-top: 16px; }
+  .pf-math[hidden] { display: none; }
+  @media (max-width: 600px) { .pf-simple .numt { font-size: 15px; } .pf-simple .num { r: 14; } .pf-sugg-row { flex-direction: column; gap: 2px; } }
   .pf-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 6px 2px 0; }
   .pf-foot .live-updated { margin: 0; max-width: 620px; }
   .pf-protect { flex-basis: 100%; font-size: 12.5px; margin: 0; }
@@ -2924,7 +2941,8 @@ function pfRisk(vals, total) {
   const exp = w => { let m = 0, v = 0; for (let i = 0; i < n; i++) { m += w[i] * mu[i]; for (let j = 0; j < n; j++) v += w[i] * w[j] * S[i][j]; } return { m, sd: Math.sqrt(Math.max(v, 0)) }; };
   // Whole-portfolio expected Sharpe (risky part scaled by its share; cash earns the risk-free rate)
   const total_ = w => { const e = exp(w); const m = riskyShare * e.m + (1 - riskyShare) * rf, sd = riskyShare * e.sd; return { m, sd, s: sd > 0 ? (m - rf) / sd : 0 }; };
-  const model = n >= 2 ? pfMaxSharpe(mu, S, rf) : null;
+  const muHist = means.map(m => m * 52); // what each holding actually averaged over the past year
+  const model = n >= 2 ? pfMaxSharpe(muHist, S, rf) : null; // suggested mix = best past-year reward per unit of risk
   return {
     rf, assets, excluded, cashW, riskyShare,
     past: { ret: pret, vol: pv, sharpe: pv > 0 ? (pret - rf) / pv : 0 },
@@ -2935,71 +2953,112 @@ function pfRisk(vals, total) {
 
 function pfRiskWidget(vals, total) {
   const R = pfRisk(vals, total);
-  const w = widgetShell('w-span-12', 'shield', 'var(--lavender-soft)', 'var(--lavender)', 'Risk & the math');
-  w.appendChild(el('p', { className: 'item-summary gov-sub', text: 'How much risk you’re taking and what portfolio theory says about your mix, using CAPM, the Sharpe ratio and Markowitz. A learning tool based on the past year, not advice.' }));
+  const w = widgetShell('w-span-12', 'shield', 'var(--lavender-soft)', 'var(--lavender)', 'Risk & reward, made simple');
+  w.appendChild(el('p', { className: 'item-summary gov-sub', text: 'How bumpy your portfolio is, whether you’re being paid for that bumpiness, and what the past year suggests about your mix.' }));
   if (!R) { w.appendChild(el('p', { className: 'item-summary', text: 'Price history is still loading. Check back in a few minutes.' })); return w; }
-  if (R.empty) { w.appendChild(el('p', { className: 'item-summary', text: 'Add stocks, ETFs or crypto to see the risk numbers. Cash and GICs have almost no market risk.' })); return w; }
-  const pct = v => (v * 100).toFixed(1) + '%';
-  // Tiles
+  if (R.empty) { w.appendChild(el('p', { className: 'item-summary', text: 'Add stocks, ETFs or crypto to see this. Cash and GICs barely move, so there’s no risk to measure yet.' })); return w; }
+  const pct = v => (v * 100).toFixed(1) + '%', P = v => Math.round(v * 100) + '%';
+  const curW = R.assets.map(a => a.w / R.riskyShare);
+  // Past-year results of a mix (risky part re-weighted, cash and other holdings unchanged)
+  const past = wts => { const W = R.assets[0].r.length, r = []; for (let t = 0; t < W; t++) r.push(R.riskyShare * R.assets.reduce((s, a, i) => s + wts[i] * a.r[t], 0) + R.cashW * R.rf / 52);
+    const m = pfMean(r), sd = Math.sqrt(r.reduce((s, x) => s + (x - m) ** 2, 0) / (W - 1) * 52), ret = r.reduce((p, x) => p * (1 + x), 1) - 1; return { ret, mean: m * 52, sd, sharpe: sd > 0 ? (m * 52 - R.rf) / sd : 0 }; };
+  const youP = past(curW);
+
+  // 1) Four plain tiles
   const tiles = el('div', { className: 'pf-stats pf-risk-tiles' });
   const tile = (label, value, note) => { const t = el('div', { className: 'pf-stat' }); t.appendChild(el('div', { className: 'pf-stat-lbl', text: label })); t.appendChild(el('div', { className: 'pf-stat-val', text: value })); t.appendChild(el('p', { className: 'item-summary pf-tile-note', text: note })); tiles.appendChild(t); };
-  const sh = R.past.sharpe;
-  tile('Sharpe ratio (past year)', sh.toFixed(2), 'Return above the risk-free rate for each unit of risk. ' + (sh >= 1 ? 'Above 1 is strong.' : sh >= 0.5 ? 'Between 0.5 and 1 is decent.' : sh >= 0 ? 'Below 0.5 means little reward for the risk.' : 'Negative: you’d have done better in a GIC.'));
-  tile('Beta', R.beta.toFixed(2), 'How much your stocks, ETFs and crypto move with the market (TSX + S&P 500). 1 = same as the market' + (R.beta > 1.15 ? '; yours swings more.' : R.beta < 0.85 ? '; yours swings less.' : '.'));
-  tile('Expected return (CAPM)', pct(R.rf + R.beta * PF_MRP * R.riskyShare), 'Risk-free rate (' + pct(R.rf) + ') plus beta × a ' + pct(PF_MRP) + ' market premium. A model estimate, not a promise.');
-  tile('Volatility (past year)', pct(R.past.vol), 'How much your portfolio’s value typically swung in a year (standard deviation).');
+  const sh = youP.sharpe;
+  tile('Reward for the risk', sh.toFixed(2), 'Your Sharpe ratio. Over the past year you earned about ' + Math.max(0, sh).toFixed(1) + '% more than a GIC for every 1% of bumpiness. ' + (sh >= 1 ? 'That’s strong.' : sh >= 0.5 ? 'That’s decent.' : sh >= 0 ? 'That’s a small reward for the risk.' : 'A GIC would have done better.'));
+  tile('How bumpy it is', pct(youP.sd), 'Your volatility. In a typical year your portfolio can swing about this much up or down from its average.');
+  tile('Moves with the market', R.beta.toFixed(2) + '×', 'Your beta. When the market moves 1%, your stocks and crypto have tended to move about ' + R.beta.toFixed(1) + '%.' );
+  tile('What theory expects', pct(R.cur.m), 'CAPM’s yearly estimate for your mix: a GIC-like ' + pct(R.rf) + ' plus extra for the market risk you take. An estimate, not a promise.');
   w.appendChild(tiles);
-  w.appendChild(el('p', { className: 'pf-formula', text: 'Sharpe = (Rp − Rf) ÷ σp = (' + pct(R.past.ret) + ' − ' + pct(R.rf) + ') ÷ ' + pct(R.past.vol) + ' = ' + R.past.sharpe.toFixed(2) + '   ·   CAPM: E(R) = Rf + β × (Rm − Rf) = ' + pct(R.rf) + ' + ' + R.beta.toFixed(2) + ' × ' + pct(PF_MRP) + (R.riskyShare < 0.999 ? ' on the ' + Math.round(R.riskyShare * 100) + '% that’s invested' : '') }));
-  // Systematic vs idiosyncratic
+
+  // 2) Market-wide vs your-picks risk (one simple bar)
   const sys = Math.max(0, Math.min(1, R.systematic));
   const box = el('div', { className: 'pf-sys' });
-  box.appendChild(el('div', { className: 'pf-sys-head', text: 'What drives your ups and downs' }));
-  const bar = el('div', { className: 'pf-sys-bar' }); const a = el('span'); a.style.width = (sys * 100).toFixed(0) + '%'; a.className = 'sys'; const b = el('span'); b.style.width = ((1 - sys) * 100).toFixed(0) + '%'; b.className = 'idio'; bar.appendChild(a); bar.appendChild(b); box.appendChild(bar);
-  const leg = el('div', { className: 'pf-sys-leg' });
-  leg.appendChild(el('span', { className: 'sys', text: Math.round(sys * 100) + '% systematic risk' })); leg.appendChild(el('span', { className: 'idio', text: Math.round((1 - sys) * 100) + '% idiosyncratic risk' })); box.appendChild(leg);
-  box.appendChild(el('p', { className: 'item-summary', text: 'Systematic risk comes from the whole market (interest rates, recessions, big news) and can’t be diversified away. Idiosyncratic risk comes from your specific holdings (a company’s earnings, a lawsuit, a new CEO) and shrinks as you spread your money across more, different investments. ' + (sys >= 0.75 ? 'Most of your swings follow the market, so you’re already well diversified.' : sys >= 0.45 ? 'A fair share of your swings comes from individual holdings.' : 'Much of your swings come from individual holdings, so company news matters a lot for you.') }));
+  box.appendChild(el('div', { className: 'pf-sys-head', text: 'Where your ups and downs come from' }));
+  const bar = el('div', { className: 'pf-sys-bar' }); const a = el('span', { className: 'sys' }); a.style.width = (sys * 100) + '%'; const b = el('span', { className: 'idio' }); b.style.width = ((1 - sys) * 100) + '%'; bar.appendChild(a); bar.appendChild(b); box.appendChild(bar);
+  const leg = el('div', { className: 'pf-sys-leg' }); leg.appendChild(el('span', { className: 'sys', text: P(sys) + ' the whole market' })); leg.appendChild(el('span', { className: 'idio', text: P(1 - sys) + ' your specific picks' })); box.appendChild(leg);
+  box.appendChild(el('p', { className: 'item-summary', text: 'Navy is systematic risk: things like interest rates or a recession that move almost everything, so you can’t escape it, only choose how much to take. Orange is idiosyncratic risk: news about one company you own. Owning more, different things shrinks the orange part. ' + (sys >= 0.75 ? 'Yours is mostly navy, so you’re already well spread out.' : sys >= 0.45 ? 'Yours is a mix, so company news matters a fair bit for you.' : 'Yours is mostly orange, so a few companies’ news drives a lot of your swings.') }));
   w.appendChild(box);
-  // Per-holding table
-  const tbl = el('div', { className: 'pf-rt' });
-  const hdr = el('div', { className: 'pf-rt-row pf-rt-head' }); ['Holding', 'Beta', 'CAPM expected', 'Past-year volatility'].forEach(t => hdr.appendChild(el('span', { text: t }))); tbl.appendChild(hdr);
-  R.assets.slice().sort((p, q) => q.w - p.w).forEach(x => {
-    const r = el('div', { className: 'pf-rt-row' });
-    [x.x.h.sym || x.x.h.name, x.bm.toFixed(2), pct(x.mu), pct(x.vol)].forEach(t => r.appendChild(el('span', { text: t }))); tbl.appendChild(r);
-  });
-  w.appendChild(tbl);
-  const sml = pfSmlChart(R); if (sml) w.appendChild(sml);
-  // Markowitz model mix
+
+  // 3) What history suggests (Markowitz on the past year), plain list + simple diagram
   if (R.model) {
-    const mm = el('div', { className: 'pf-model' });
-    mm.appendChild(el('div', { className: 'pf-sys-head', text: 'Markowitz model mix of what you already own' }));
-    mm.appendChild(el('p', { className: 'item-summary', text: 'Keeping your cash' + (R.excluded.length ? ' and holdings without price history' : '') + ' the same, this is the split of your stocks, ETFs and crypto with the best expected return per unit of risk (the highest Sharpe ratio), using CAPM returns and how your holdings moved together over the past year. To avoid putting everything in one place, no single holding is allowed above 50% (pure Markowitz often piles into one).' }));
-    const stacked = (label, weights) => {
-      const row = el('div', { className: 'pf-stack-row' }); row.appendChild(el('span', { className: 'pf-stack-lbl', text: label }));
-      const sb = el('div', { className: 'pf-stack' }); weights.forEach((wt, i) => { if (wt <= 0) return; const s = el('span'); s.style.width = (wt * 100) + '%'; s.style.background = PF_COLORS[i % PF_COLORS.length]; s.title = (R.assets[i].x.h.sym || '') + ' ' + Math.round(wt * 100) + '%'; sb.appendChild(s); });
-      row.appendChild(sb); return row;
-    };
-    const cur = R.assets.map(a => a.w / R.riskyShare);
-    mm.appendChild(stacked('Your mix', cur)); mm.appendChild(stacked('Model mix', R.model.w));
-    try { mm.appendChild(pfFrontierChart(R)); } catch (e) { /* chart optional */ }
-    const t2 = el('div', { className: 'pf-rt' });
-    const h2 = el('div', { className: 'pf-rt-row pf-rt-head' }); ['Holding', 'Your mix', 'Model mix', 'Change'].forEach(t => h2.appendChild(el('span', { text: t }))); t2.appendChild(h2);
-    R.assets.forEach((a, i) => {
-      const r = el('div', { className: 'pf-rt-row' }); const d = R.model.w[i] - cur[i];
-      const nm = el('span'); const dot = el('span', { className: 'pf-dot' }); dot.style.background = PF_COLORS[i % PF_COLORS.length]; nm.appendChild(dot); nm.appendChild(document.createTextNode(' ' + (a.x.h.sym || a.x.h.name))); r.appendChild(nm);
-      r.appendChild(el('span', { text: Math.round(cur[i] * 100) + '%' })); r.appendChild(el('span', { text: Math.round(R.model.w[i] * 100) + '%' }));
-      r.appendChild(el('span', { className: Math.abs(d) < 0.01 ? '' : d > 0 ? 'up' : 'down', text: Math.abs(d) < 0.01 ? 'about the same' : (d > 0 ? '▲ +' : '▼ −') + Math.round(Math.abs(d) * 100) + ' pts' }));
-      t2.appendChild(r);
-    });
-    mm.appendChild(t2);
-    mm.appendChild(el('p', { className: 'item-summary', text: 'Expected Sharpe ratio: your mix ' + R.cur.s.toFixed(2) + ' → model mix ' + R.model.s.toFixed(2) + ' (expected return ' + pct(R.cur.m) + ' → ' + pct(R.model.m) + ', volatility ' + pct(R.cur.sd) + ' → ' + pct(R.model.sd) + ').' }));
-    mm.appendChild(el('p', { className: 'pf-caveat', text: 'This is what the formulas produce from past data, not a recommendation. It ignores your goals, timeline, taxes, fees and how much risk you can handle, and past patterns between investments can change quickly. Talk to a registered advisor before making changes.' }));
-    w.appendChild(mm);
+    const modP = past(R.model.w);
+    const sec = el('div', { className: 'pf-model' });
+    sec.appendChild(el('div', { className: 'pf-sys-head', text: 'What the past year suggests' }));
+    sec.appendChild(el('p', { className: 'item-summary', text: 'Using how your investments moved over the past year, and how they moved together, this is the split of what you already own that would have given you the most return for each bit of bumpiness (Markowitz). No single holding goes above 50%, and your cash and GICs stay the same.' }));
+    const more = [], less = [];
+    R.assets.forEach((x, i) => { const d = R.model.w[i] - curW[i]; if (d > 0.03) more.push([x, i, d]); else if (d < -0.03) less.push([x, i, d]); });
+    const list = el('div', { className: 'pf-sugg' });
+    const line = (kind, arr) => { if (!arr.length) return; const r = el('div', { className: 'pf-sugg-row ' + kind }); r.appendChild(el('span', { className: 'pf-sugg-k', text: kind === 'more' ? '▲ More of' : '▼ Less of' }));
+      r.appendChild(el('span', { text: arr.sort((p, q) => Math.abs(q[2]) - Math.abs(p[2])).map(([x, i]) => (x.x.h.sym || x.x.h.name) + ' (' + P(curW[i]) + ' → ' + P(R.model.w[i]) + ')').join(', ') })); list.appendChild(r); };
+    line('more', more); line('less', less);
+    if (!more.length && !less.length) list.appendChild(el('p', { className: 'item-summary', text: 'Your mix is already close to what history suggests.' }));
+    sec.appendChild(list);
+    sec.appendChild(el('p', { className: 'item-summary pf-sugg-result', text: 'Past year, your mix: ' + (youP.ret >= 0 ? '+' : '') + pct(youP.ret) + ' with ' + pct(youP.sd) + ' bumpiness. Suggested mix: ' + (modP.ret >= 0 ? '+' : '') + pct(modP.ret) + ' with ' + pct(modP.sd) + ' bumpiness. ' + (modP.sd < youP.sd - 0.005 ? 'A smoother ride' : modP.sd > youP.sd + 0.005 ? 'A bumpier ride' : 'About the same ride') + (modP.ret >= youP.ret ? ' with more return.' : ', giving up some return') + ' Reward for the risk: ' + youP.sharpe.toFixed(2) + ' → ' + modP.sharpe.toFixed(2) + '.' }));
+    sec.appendChild(pfSimpleDiagram(R, youP, modP));
+    sec.appendChild(el('p', { className: 'pf-caveat', text: 'A suggestion from historical data, not personal advice. The past year won’t repeat exactly, and it doesn’t know your goals, timeline or taxes.' }));
+    w.appendChild(sec);
   }
-  const notes = [];
-  if (R.excluded.length) notes.push('Not included (no price history): ' + R.excluded.map(e => e.x.h.sym || e.x.h.name).join(', ') + '.');
-  notes.push('Risk-free rate: Bank of Canada policy rate (' + pct(R.rf) + '). Market premium assumed at ' + pct(PF_MRP) + '. Beta measured against a 50/50 mix of the TSX and S&P 500 over ' + (PF.hist.weeks.length - 1) + ' weeks. Prices from Yahoo Finance and CoinGecko' + (PF.hist.generated_at ? ', history updated ' + PF.hist.generated_at : '') + '.');
-  w.appendChild(el('p', { className: 'live-updated', text: notes.join(' ') }));
+
+  // 4) The math, hidden until asked for
+  const math = el('div', { className: 'pf-math' }); math.hidden = true;
+  math.appendChild(el('p', { className: 'pf-formula', text: 'Sharpe = (Rp − Rf) ÷ σp = (' + pct(youP.ret) + ' − ' + pct(R.rf) + ') ÷ ' + pct(youP.sd) + ' ≈ ' + youP.sharpe.toFixed(2) }));
+  math.appendChild(el('p', { className: 'pf-formula', text: 'CAPM: E(R) = Rf + β × (Rm − Rf) = ' + pct(R.rf) + ' + ' + R.beta.toFixed(2) + ' × ' + pct(PF_MRP) + (R.riskyShare < 0.999 ? ', on the ' + P(R.riskyShare) + ' that’s invested' : '') }));
+  const tbl = el('div', { className: 'pf-rt' });
+  const hdr = el('div', { className: 'pf-rt-row pf-rt-head' }); ['Holding', 'Beta', 'CAPM expected', 'Volatility'].forEach(t => hdr.appendChild(el('span', { text: t }))); tbl.appendChild(hdr);
+  R.assets.slice().sort((p, q) => q.w - p.w).forEach(x => { const r = el('div', { className: 'pf-rt-row' }); [x.x.h.sym || x.x.h.name, x.bm.toFixed(2), pct(x.mu), pct(x.vol)].forEach(t => r.appendChild(el('span', { text: t }))); tbl.appendChild(r); });
+  math.appendChild(tbl);
+  try { if (R.model) math.appendChild(pfFrontierChart(R)); } catch (e) { /* optional */ }
+  const sml = pfSmlChart(R); if (sml) math.appendChild(sml);
+  math.appendChild(el('p', { className: 'live-updated', text: 'Risk-free rate: Bank of Canada policy rate (' + pct(R.rf) + '). Market premium assumed at ' + pct(PF_MRP) + '. Beta vs a 50/50 mix of the TSX and S&P 500 over ' + (PF.hist.weeks.length - 1) + ' weeks. Suggested mix: highest past-year Sharpe ratio (past-year average returns and co-movement), max 50% in any one holding.' + (R.excluded.length ? ' Not included (no price history): ' + R.excluded.map(e => e.x.h.sym || e.x.h.name).join(', ') + '.' : '') }));
+  const tog = el('button', { className: 'info-btn pf-math-btn', text: 'Show the math' }); tog.type = 'button';
+  tog.onclick = () => { math.hidden = !math.hidden; tog.textContent = math.hidden ? 'Show the math' : 'Hide the math'; };
+  w.appendChild(tog); w.appendChild(math);
   return w;
+}
+
+// One easy diagram: safe money → the trade-off line → you → the suggested mix, each numbered and explained.
+function pfSimpleDiagram(R, youP, modP) {
+  const W = 560, H = 250, P = { l: 30, r: 20, t: 20, b: 34 };
+  const xmax = Math.max(youP.sd, modP.sd) * 1.55 || 0.2, ys = [R.rf, youP.mean, modP.mean], ymax = Math.max(...ys) * 1.3, ymin = Math.min(0, ...ys);
+  const X = v => P.l + v / xmax * (W - P.l - P.r), Y = v => H - P.b - (v - ymin) / (ymax - ymin) * (H - P.t - P.b);
+  const svg = pfSvg(W, H); svg.classList.add('pf-simple');
+  pfS(svg, 'line', { x1: P.l, y1: H - P.b, x2: W - P.r, y2: H - P.b, class: 'ax', 'marker-end': '' });
+  pfS(svg, 'line', { x1: P.l, y1: H - P.b, x2: P.l, y2: P.t, class: 'ax' });
+  pfS(svg, 'text', { x: W - P.r, y: H - 10, class: 'al', 'text-anchor': 'end' }, 'More bumpiness (risk) →');
+  pfS(svg, 'text', { x: P.l + 6, y: P.t + 4, class: 'al' }, '↑ More return (past year)');
+  // ② the trade-off line from safe money through the suggested mix
+  const slope = (modP.mean - R.rf) / Math.max(modP.sd, 1e-6), xe = xmax;
+  pfS(svg, 'line', { x1: X(0), y1: Y(R.rf), x2: X(xe), y2: Y(Math.min(ymax, R.rf + slope * xe)), class: 'cml' });
+  const num = (x, y, n, cls) => { pfS(svg, 'circle', { cx: x, cy: y, r: 11, class: 'num ' + cls }); pfS(svg, 'text', { x, y: y + 4, class: 'numt', 'text-anchor': 'middle' }, String(n)); };
+  num(X(0), Y(R.rf), 1, 'n1');
+  const mid = Math.min(xe * 0.82, (ymax * 0.92 - R.rf) / Math.max(slope, 1e-6));
+  num(X(mid), Y(R.rf + slope * mid) - 18, 2, 'n2');
+  num(X(youP.sd), Y(youP.mean), 3, 'n3');
+  num(X(modP.sd), Y(modP.mean), 4, 'n4');
+  const wrap = el('div', { className: 'pf-chart-wrap pf-simple-wrap' });
+  wrap.appendChild(el('div', { className: 'pf-sys-head', text: 'The picture' }));
+  wrap.appendChild(svg);
+  const pct = v => (v * 100).toFixed(1) + '%';
+  const items = [
+    ['n1', 'Safe money', 'What cash or a GIC earns with almost no risk: about ' + pct(R.rf) + ' a year right now (the risk-free rate).', R.cashW > 0.005 ? 'About ' + Math.round(R.cashW * 100) + '% of your money sits here.' : 'You don’t hold much cash or GICs, so all of your money is taking some risk.'],
+    ['n2', 'The trade-off line', 'It starts at safe money and runs through the best mix. Mixes on this line got the most reward for their bumpiness; the steeper it is, the better the pay for taking risk.', 'The closer you are to this line, the better you’re being paid for your risk.'],
+    ['n3', 'You', 'Your current mix over the past year: about ' + pct(youP.sd) + ' bumpiness and ' + pct(youP.mean) + ' average yearly return.', modP.sharpe - youP.sharpe > 0.05 ? 'You’re below the line, so the same holdings in a different split would have paid you more for the risk.' : 'You’re close to the line already. Nice balance.'],
+    ['n4', 'The suggested mix', 'The same investments you own, re-weighted so they would have given the most return for their bumpiness over the past year: about ' + pct(modP.sd) + ' bumpiness and ' + pct(modP.mean) + ' a year.', 'See “More of / Less of” above for the changes that get you there.'],
+  ];
+  const ol = el('div', { className: 'pf-key' });
+  items.forEach(([cls, t, what, you], i) => {
+    const r = el('div', { className: 'pf-key-row' });
+    const n = el('span', { className: 'pf-key-n ' + cls, text: String(i + 1) }); r.appendChild(n);
+    const body = el('div'); body.appendChild(el('div', { className: 'pf-key-t', text: t }));
+    body.appendChild(el('p', { className: 'item-summary', text: what })); body.appendChild(el('p', { className: 'item-summary pf-key-you', text: 'For you: ' + you }));
+    r.appendChild(body); ol.appendChild(r);
+  });
+  wrap.appendChild(ol);
+  return wrap;
 }
 
 // ---------- Portfolio charts: efficient frontier (Markowitz) and security market line (CAPM) — simple SVGs ----------
@@ -3019,7 +3078,7 @@ function pfAxes(svg, W, H, P, xmax, ymin, ymax, xl, yl, xfmt, yfmt) {
   return { X, Y };
 }
 function pfFrontierChart(R) {
-  const assets = R.assets, n = assets.length, mu = assets.map(a => a.mu);
+  const assets = R.assets, n = assets.length, mu = assets.map(a => pfMean(a.r) * 52);
   const W = assets[0].r.length, means = assets.map(a => pfMean(a.r));
   const S = assets.map((a, i) => assets.map((b, j) => { let s = 0; for (let t = 0; t < W; t++) s += (a.r[t] - means[i]) * (b.r[t] - means[j]); return s / (W - 1) * 52; }));
   const pt = w => { let m = 0, v = 0; for (let i = 0; i < n; i++) { m += w[i] * mu[i]; for (let j = 0; j < n; j++) v += w[i] * w[j] * S[i][j]; } return [Math.sqrt(Math.max(v, 0)), m]; };
@@ -3036,7 +3095,7 @@ function pfFrontierChart(R) {
   front.push(tan); front.sort((a, b) => a[1] - b[1]);
   const ys = cloud.map(c => c[1]).concat([R.rf]), ymin = Math.min(...ys) * 0.9, ymax = Math.max(...ys) * 1.12;
   const svg = pfSvg(560, 300), P = { l: 52, r: 16, t: 14, b: 36 };
-  const { X, Y } = pfAxes(svg, 560, 300, P, xmaxData, Math.min(ymin, R.rf * 0.9), ymax, 'Risk (yearly volatility)', 'Expected return', v => Math.round(v * 100) + '%', v => (v * 100).toFixed(1) + '%');
+  const { X, Y } = pfAxes(svg, 560, 300, P, xmaxData, Math.min(ymin, R.rf * 0.9), ymax, 'Risk (yearly volatility)', 'Return (past year)', v => Math.round(v * 100) + '%', v => (v * 100).toFixed(1) + '%');
   cloud.forEach(c => pfS(svg, 'circle', { cx: X(c[0]), cy: Y(c[1]), r: 1.6, class: 'cloud' }));
   pfS(svg, 'polyline', { points: front.map(p => X(p[0]) + ',' + Y(p[1])).join(' '), class: 'front' });
   if (front.length > 2) { const f = front[Math.floor(front.length * 0.35)]; pfS(svg, 'text', { x: X(f[0]) - 8, y: Y(f[1]), class: 'lbl', 'text-anchor': 'end' }, 'Efficient frontier'); }
