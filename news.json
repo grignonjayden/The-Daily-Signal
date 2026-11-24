@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:51 AM ET",
+  "generated_at": "Nov 24, 2026, 8:54 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795528276809,
+  "updated_ts": 1795528476736,
   "articles": [
     {
       "title": "Six key questions raised by Jensen Huang's return to Nvidia",
@@ -236,16 +236,22 @@
   ],
   "ticker": [
     {
+      "time": "8:51 AM",
+      "title": "CNBC — Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "ts": 1795528262000
+    },
+    {
+      "time": "8:50 AM",
+      "title": "MarketWatch — 12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "ts": 1795528200000
+    },
+    {
       "time": "8:48 AM",
       "title": "MarketWatch — Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
       "url": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
       "ts": 1795528080000
-    },
-    {
-      "time": "8:45 AM",
-      "title": "CNBC — Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
-      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-      "ts": 1795527950000
     },
     {
       "time": "8:42 AM",
@@ -264,6 +270,12 @@
       "title": "MarketWatch — I’ve paid for long-term-care insurance for 20 years. Is it still worth it?",
       "url": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
       "ts": 1795527660000
+    },
+    {
+      "time": "8:40 AM",
+      "title": "Bloomberg — Turkey Frees Ex-Minister Arrested in Fund Scandal After 18 Days",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/turkey-frees-ex-minister-arrested-in-fund-scandal-after-18-days",
+      "ts": 1795527602000
     },
     {
       "time": "8:40 AM",
@@ -294,18 +306,6 @@
       "title": "Investing.com — Top analyst-favored midcap stock with meaningful target upside",
       "url": "https://www.investing.com/news/stock-market-news/top-analystfavored-midcap-stock-with-meaningful-target-upside-93CH-5048297",
       "ts": 1795526881000
-    },
-    {
-      "time": "8:28 AM",
-      "title": "WSJ Markets — Nasdaq Futures Fall as Questions Linger Over AI Trade",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
-      "ts": 1795526880000
-    },
-    {
-      "time": "8:25 AM",
-      "title": "Investing.com — White House prepares sweeping new tariffs on China, EU, and dozens of nations",
-      "url": "https://www.investing.com/news/stock-market-news/white-house-prepares-sweeping-new-tariffs-on-china-eu-and-dozens-of-nations-5048285",
-      "ts": 1795526724000
     }
   ]
 }
