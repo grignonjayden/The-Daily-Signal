@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:38 AM ET",
+  "generated_at": "Nov 24, 2026, 9:41 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795531104900,
+  "updated_ts": 1795531304994,
   "articles": [
     {
       "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
@@ -157,24 +157,6 @@
   ],
   "official": [
     {
-      "title": "Quarterly financial statistics for enterprises, third quarter 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123a-eng.htm",
-      "snippet": "Operating profit reported by Canadian corporations declined to $236.6 billion in the third quarter, down $4.9 billion (-2.0%) from the second quarter. This decrease was attributable to both the non-financial and…",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261123/cg261123a001-eng.png",
-      "time": "Nov 23, 8:30 AM",
-      "ts": 1795440600000
-    },
-    {
-      "title": "Travel between Canada and other countries, September 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123b-eng.htm",
-      "snippet": "In September, the number of Canadian-resident return trips from the United States increased 8.7% year over year, while trips to Canada by US residents rose 16.7%.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261123/cg261123b001-eng.png",
-      "time": "Nov 23, 8:30 AM",
-      "ts": 1795440600000
-    },
-    {
       "title": "Federal Reserve announces College Fed Challenge winners",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
@@ -237,10 +219,16 @@
   ],
   "ticker": [
     {
-      "time": "9:37 AM",
+      "time": "9:39 AM",
       "title": "CNBC — Stocks decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-      "ts": 1795531030000
+      "ts": 1795531162000
+    },
+    {
+      "time": "9:38 AM",
+      "title": "Bloomberg — Shenzhen conquered tech, now it wants culture (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/shenzhen-conquered-tech-now-it-wants-culture-video",
+      "ts": 1795531098000
     },
     {
       "time": "9:35 AM",
@@ -301,12 +289,6 @@
       "title": "CNBC — Stocks making the biggest moves Tuesday: Nvidia, Anthropic, retailers & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
       "ts": 1795529543000
-    },
-    {
-      "time": "9:12 AM",
-      "title": "WSJ Markets — U.S. Natural Gas Futures Pick Up in Volatile Trading",
-      "url": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
-      "ts": 1795529520000
     }
   ]
 }
