@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 24, 2026, 1:06 PM ET",
+  "generated_at": "Nov 24, 2026, 1:40 PM ET",
   "date_key": "2026-11-24",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -100,6 +100,18 @@
       "group": "sector"
     },
     {
+      "title": "Bank of Canada expects 2nd round of oil-linked inflation in 2027, Macklem says",
+      "url": "https://www.cbc.ca/news/business/bank-canada-governor-tiff-macklem-speech-9.7433693?cmp=rss",
+      "image": "https://i.cbc.ca/ais/f7e7ae7f-e69b-42ad-9eda-0eef2d268c61,1795528758290/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
+      "source": "CBC News",
+      "badge": "CBC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 24",
+      "date": "2026-11-24T18:22:26.000Z",
+      "group": "policy"
+    },
+    {
       "title": "A $27.5-Billion Deficit Revision Requires Parliamentary Examination",
       "url": "https://cdhowe.org/publication/a-27-5-billion-deficit-revision-requires-parliamentary-examination/",
       "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-1367728341.jpg",
@@ -158,18 +170,6 @@
       "time": "Nov 23",
       "date": "2026-11-23T11:00:15.000Z",
       "group": "policy"
-    },
-    {
-      "title": "The Bank of Canada Got Its Framework Renewal Right. But Questions Remain",
-      "url": "https://cdhowe.org/publication/the-bank-of-canada-got-its-framework-renewal-right-but-questions-remain/",
-      "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-2158471757.jpg",
-      "source": "C.D. Howe Institute",
-      "badge": "CDH",
-      "analysis": true,
-      "sector": "Monetary",
-      "time": "Nov 20",
-      "date": "2026-11-20T20:00:12.000Z",
-      "group": "policy"
     }
   ],
   "sources": [
@@ -213,19 +213,14 @@
       "kept": 3
     },
     {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 3
+    },
+    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
-    },
-    {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
-    },
-    {
-      "source": "Canada Media Fund",
-      "fetched": 24,
-      "kept": 1
     },
     {
       "source": "CDEV",
@@ -236,6 +231,11 @@
       "source": "ISED",
       "fetched": 20,
       "kept": 4
+    },
+    {
+      "source": "Canada Media Fund",
+      "fetched": 24,
+      "kept": 1
     },
     {
       "source": "C.D. Howe Institute",
