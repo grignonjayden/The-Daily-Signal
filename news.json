@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 5:23 PM ET",
+  "generated_at": "Nov 24, 2026, 5:27 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795559024658,
+  "updated_ts": 1795559226009,
   "articles": [
     {
       "title": "Nvidia stock falls nearly 6% after Huang’s return sparks best day in over 23 years",
@@ -63,6 +63,16 @@
       "time": "Nov 24, 12:51 PM",
       "coverage": 7,
       "ts": 1795542705000
+    },
+    {
+      "title": "Schumer accuses Nvidia CEO of violating US export control law",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law-5048879",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1Q1_L.jpg",
+      "time": "Nov 24, 5:18 PM",
+      "coverage": 5,
+      "ts": 1795558700000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
@@ -134,16 +144,6 @@
       "time": "Nov 24, 4:45 AM",
       "coverage": 4,
       "ts": 1795513527000
-    },
-    {
-      "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.86%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-086-5049102",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM3C1A3_1200_L.jpg",
-      "time": "Nov 24, 4:31 PM",
-      "coverage": 3,
-      "ts": 1795555860000
     }
   ],
   "outlets": [
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "5:24 PM",
+      "title": "CNBC — Stocks making the biggest moves Tuesday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
+      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795559081000
+    },
+    {
       "time": "5:18 PM",
       "title": "CNBC — Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
       "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
@@ -301,12 +307,6 @@
       "title": "Globe and Mail — B.C. First Nations to acquire stake in Coastal GasLink pipeline",
       "url": "https://www.theglobeandmail.com/politics/article-bc-first-nations-coastal-gaslink-pipeline-november-24/",
       "ts": 1795557405000
-    },
-    {
-      "time": "4:56 PM",
-      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main",
-      "ts": 1795557360000
     }
   ]
 }
