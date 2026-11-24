@@ -1,8 +1,20 @@
 {
-  "generated_at": "Nov 24, 2026, 11:25 AM ET",
+  "generated_at": "Nov 24, 2026, 11:59 AM ET",
   "date_key": "2026-11-24",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "James Moore: A tariff deal? Some questions for Prime Minister Mark Carney",
+      "url": "https://www.cp24.com/news/canada/2026/11/24/james-moore-a-tariff-deal-some-questions-for-prime-minister-mark-carney/",
+      "image": "https://www.cp24.com/resizer/v2/AI5Q33VQS5EDVJBSFAEXX2YEWQ.JPG?auth=eefa7f43a7dbf2d050a6f84039a37afd64cf3a57b53ec5a0dabf44cb840ab948&smart=true&width=4716&height=3144",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "Trade",
+      "time": "Nov 24",
+      "date": "2026-11-24T20:29:07.000Z",
+      "group": "sector"
+    },
     {
       "title": "House Democrat expands investigation into Donald Trump Jr.'s investment firm",
       "url": "https://www.cp24.com/news/world/2026/11/24/house-democrat-expands-investigation-into-donald-trump-jrs-investment-firm/",
@@ -13,18 +25,6 @@
       "sector": "General",
       "time": "Nov 24",
       "date": "2026-11-24T17:44:50.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Amazon drone crashes into garage after delivering shampoo",
-      "url": "https://www.cp24.com/news/world/2026/11/24/amazon-drone-crashes-into-garage-after-delivering-shampoo/",
-      "image": "https://www.cp24.com/resizer/v2/DEXFUXVLFNCRZPSWJ3QCBYXEOM.JPG?auth=612d96b19e6d9959bce5892942b85ac5ba199919a6fd3067f67c00ef95948185&smart=true&width=584&height=329",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Defence",
-      "time": "Nov 24",
-      "date": "2026-11-24T15:37:44.000Z",
       "group": "sector"
     },
     {
@@ -213,6 +213,11 @@
       "kept": 3
     },
     {
+      "source": "Finance Canada",
+      "fetched": 20,
+      "kept": 4
+    },
+    {
       "source": "CBC News",
       "fetched": 40,
       "kept": 2
@@ -221,11 +226,6 @@
       "source": "CDEV",
       "fetched": 20,
       "kept": 0
-    },
-    {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 4
     },
     {
       "source": "Canada Media Fund",
