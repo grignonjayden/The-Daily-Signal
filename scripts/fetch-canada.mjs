@@ -317,7 +317,7 @@ async function deals() {
       if (seen.has(i.title)) return false; seen.add(i.title);
       if (!i.date || i.date < Date.now() - (f.maxDays || 21) * 864e5) return false;
       const t = i.title + ' ' + i.summary;
-      if (f.policyOnly) return !/advisory|webcast|upcoming|blackout|appoint|museum|bank note|unclaimed/i.test(i.title);
+      if (f.policyOnly) return !/availability|advisory|webcast|upcoming|blackout|appoint|museum|bank note|unclaimed|^speech:/i.test(i.title);
       if (isPolicy(i.title)) return true;
       if (f.news) return DEAL_RE.test(t) && FED_RE.test(t) && !/trump administration|american samoa/i.test(i.title);
       if (f.analysis) return ANALYSIS_RE.test(t);
