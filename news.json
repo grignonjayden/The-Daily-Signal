@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 11:09 AM ET",
+  "generated_at": "Nov 24, 2026, 11:12 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795536548308,
+  "updated_ts": 1795536750341,
   "articles": [
     {
       "title": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "11:11 AM",
+      "title": "CNBC — Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "ts": 1795536718000
+    },
+    {
+      "time": "11:08 AM",
+      "title": "MarketWatch — A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+      "url": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+      "ts": 1795536480000
+    },
+    {
       "time": "11:07 AM",
       "title": "Globe and Mail — U.S. consumer confidence soars with elections over, gas prices in retreat",
       "url": "https://www.theglobeandmail.com/business/economy/article-us-consumer-confidence-soars-with-elections-over-gas-prices-in-retreat/",
@@ -285,12 +297,6 @@
       "ts": 1795535345000
     },
     {
-      "time": "10:47 AM",
-      "title": "CNBC — Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "ts": 1795535266000
-    },
-    {
       "time": "10:44 AM",
       "title": "WSJ Markets — Tech Stocks Backslide After Epic Rally",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Nigeria Billionaire Sets Blockbuster Refinery Listing for Dec. 1",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/nigeria-billionaire-sets-blockbuster-refinery-listing-for-dec-1",
       "ts": 1795534975000
-    },
-    {
-      "time": "10:41 AM",
-      "title": "Investing.com — Why is Fossil stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-fossil-stock-rallying-today-93CH-5048672",
-      "ts": 1795534867000
     }
   ]
 }
