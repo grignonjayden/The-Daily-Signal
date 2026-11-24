@@ -1,17 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 4:26 PM ET",
+  "generated_at": "Nov 24, 2026, 4:29 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795555566777,
+  "updated_ts": 1795555777752,
   "articles": [
     {
-      "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-      "snippet": "U.S. stocks fell on Tuesday, giving back some of the sharp gains from the previous session that were sparked by Jensen Huang's return as Nvidia CEO.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558517-17955384902026-11-24t163620z_668368453_rc2duoa4bjw8_rtrmadp_0_usa-stocks.jpeg?v=1795538604&w=1920&h=1080",
-      "time": "Nov 24, 4:16 PM",
-      "coverage": 5,
-      "ts": 1795555010000
+      "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return",
+      "snippet": "Reddit user Outrageous-Voice1459 made a lot of money on Monday.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 4:17 PM",
+      "coverage": 7,
+      "ts": 1795555043000
     },
     {
       "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
@@ -20,7 +21,7 @@
       "snippet": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558076-1795501710580-gettyimages-2299493080-AFP_D36R6ZH.jpeg?v=1795501751&w=1920&h=1080",
       "time": "Nov 24, 4:15 PM",
-      "coverage": 5,
+      "coverage": 7,
       "ts": 1795554923000
     },
     {
@@ -30,8 +31,38 @@
       "snippet": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
       "image": "https://images.mktw.net/im-72615127",
       "time": "Nov 24, 4:14 PM",
-      "coverage": 5,
+      "coverage": 7,
       "ts": 1795554840000
+    },
+    {
+      "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-5047621",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0VS_L.jpg",
+      "time": "Nov 24, 4:07 PM",
+      "coverage": 7,
+      "ts": 1795554420000
+    },
+    {
+      "title": "Nvidia’s Huang said he violated code of conduct, source says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
+      "time": "Nov 24, 4:06 PM",
+      "coverage": 7,
+      "ts": 1795554390000
+    },
+    {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
+      "time": "Nov 24, 3:42 PM",
+      "coverage": 7,
+      "ts": 1795552927000
     },
     {
       "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return",
@@ -40,7 +71,7 @@
       "snippet": "Congress appears even more likely to OK new restrictions on the chip giant’s dealings with China — and it’s calling for more investigations, additional hearings and briefings",
       "image": "https://images.mktw.net/im-96418474",
       "time": "Nov 24, 3:42 PM",
-      "coverage": 5,
+      "coverage": 7,
       "ts": 1795552920000
     },
     {
@@ -50,38 +81,38 @@
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 5,
+      "coverage": 7,
       "ts": 1795551400000
     },
     {
-      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
+      "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
-      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
-      "time": "Nov 24, 6:25 AM",
-      "coverage": 5,
-      "ts": 1795519556000
+      "url": "https://www.theglobeandmail.com/business/technology/article-nvidia-reinstates-jensen-huang-as-ceo-after-trump-intervention/",
+      "snippet": "Chipmaker’s shares soar as board continues investigation into allegations involving foreign intelligence",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TMVSVBWMHJB7BBNYQHEUJJI22M.JPG?auth=cc886863b6b81f085271c24364ca17f0edd1832fc454f9c54d0bd21045236d2e&smart=true&width=5792&height=3856",
+      "time": "Nov 23, 7:45 PM",
+      "coverage": 7,
+      "ts": 1795481121000
     },
     {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 11:01 AM",
-      "coverage": 4,
-      "ts": 1795536060000
+      "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
+      "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
+      "image": "https://images.wsj.net/im-75358264",
+      "time": "Nov 23, 5:25 PM",
+      "coverage": 7,
+      "ts": 1795472700000
     },
     {
-      "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
-      "snippet": "Tech stocks stumbled again, as fears around the AI trade crept back in a day after Jensen Huang’s return at Nvidia sparked the best day for U.S. stocks since April 2025.",
-      "image": "https://images.wsj.net/im-89305301",
-      "time": "Nov 24, 2:32 PM",
-      "coverage": 3,
-      "ts": 1795548720000
+      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
+      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
+      "image": "https://images.wsj.net/im-87333679",
+      "time": "Nov 23, 5:15 PM",
+      "coverage": 7,
+      "ts": 1795472100000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -90,8 +121,18 @@
       "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
       "time": "Nov 23, 12:49 PM",
-      "coverage": 5,
+      "coverage": 7,
       "ts": 1795456173000
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
+      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
+      "time": "Nov 23, 9:06 AM",
+      "coverage": 7,
+      "ts": 1795442808000
     },
     {
       "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated",
@@ -103,47 +144,6 @@
       "time": "Nov 24, 4:45 AM",
       "coverage": 3,
       "ts": 1795513527000
-    },
-    {
-      "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "snippet": "Anthropic PBC shares traded below their $83 initial public offering price for the first time, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 6:19 AM",
-      "coverage": 4,
-      "ts": 1795519164000
-    },
-    {
-      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
-      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
-      "time": "Nov 23, 9:06 AM",
-      "coverage": 5,
-      "ts": 1795442808000
-    },
-    {
-      "title": "Utah moves to drop criminal charges against Kalshi after state geofence deal",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/utah-moves-to-drop-criminal-charges-against-kalshi-after-state-geofence-deal-5048976",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM7A0DI_L.jpg",
-      "time": "Nov 24, 3:50 PM",
-      "coverage": 2,
-      "ts": 1795553424000
-    },
-    {
-      "title": "Huawei found guilty of bank fraud and money laundering in US",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/huawei-found-guilty-of-bank-fraud-and-money-laundering-in-us-5048965",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEF150VB_M.jpg",
-      "time": "Nov 24, 3:41 PM",
-      "coverage": 2,
-      "ts": 1795552867000
     }
   ],
   "outlets": [
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "4:24 PM",
+      "title": "Investing.com — Dell lifts annual forecasts after record quarter on surging AI server demand",
+      "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024",
+      "ts": 1795555457000
+    },
+    {
       "time": "4:23 PM",
       "title": "WSJ Markets — Nvidia’s Relief Rally Stalls",
       "url": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
@@ -255,10 +261,28 @@
       "ts": 1795555320000
     },
     {
+      "time": "4:21 PM",
+      "title": "Bloomberg — Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/dell-raises-ai-server-outlook-closing-bell-video",
+      "ts": 1795555285000
+    },
+    {
+      "time": "4:20 PM",
+      "title": "Investing.com — Russia stocks lower at close of trade; MOEX Russia Index down 2.01%",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-201-5049047",
+      "ts": 1795555203000
+    },
+    {
       "time": "4:17 PM",
       "title": "Globe and Mail — Microsoft declares ‘Code Red’ in response to historic outage, internal memos show",
       "url": "https://www.theglobeandmail.com/business/article-microsoft-code-red-outage/",
       "ts": 1795555053000
+    },
+    {
+      "time": "4:16 PM",
+      "title": "CNBC — Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "ts": 1795555010000
     },
     {
       "time": "4:15 PM",
@@ -279,34 +303,10 @@
       "ts": 1795554819000
     },
     {
-      "time": "4:07 PM",
-      "title": "CNBC — Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-      "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-      "ts": 1795554439000
-    },
-    {
-      "time": "4:04 PM",
-      "title": "Bloomberg — Russian Pleads Not Guilty in Snooping Case Targeting Palantir",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/russian-pleads-not-guilty-in-snooping-case-targeting-palantir",
-      "ts": 1795554259000
-    },
-    {
-      "time": "4:04 PM",
-      "title": "CNBC — Anthropic closes below $83 IPO price, but analysts are still largely positive",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-      "ts": 1795554243000
-    },
-    {
-      "time": "4:04 PM",
-      "title": "WSJ Markets — U.S. Natural Gas Futures Recover Lost Ground",
-      "url": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
-      "ts": 1795554240000
-    },
-    {
-      "time": "3:58 PM",
-      "title": "MarketWatch — Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
-      "url": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
-      "ts": 1795553880000
+      "time": "4:11 PM",
+      "title": "Investing.com — Nasdaq ends 1.5% lower on AI trade uncertainty despite explosive Nvidia-led rally",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
+      "ts": 1795554684000
     }
   ]
 }
