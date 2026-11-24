@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 24, 2026, 2:44 PM ET",
+  "generated_at": "Nov 24, 2026, 3:18 PM ET",
   "date_key": "2026-11-24",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -100,7 +100,7 @@
       "group": "sector"
     },
     {
-      "title": "Macklem admits Bank of Canada offered mixed messaging on core inflation in past",
+      "title": "Bank of Canada keeps 2% inflation target but adjusts what to track",
       "url": "https://www.cp24.com/news/money/2026/11/24/macklem-admits-bank-of-canada-offered-mixed-messaging-on-core-inflation-in-past/",
       "image": "https://www.cp24.com/resizer/v2/LMOMYW434FLI45QC7W3N5BKSAU.jpg?auth=c10305f20554a96ca02fc0268f3874a2b3c755966de4a087394e4452eb926795&smart=true&width=1400&height=911",
       "source": "CP24",
@@ -213,14 +213,14 @@
       "kept": 3
     },
     {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
       "source": "CBC News",
       "fetched": 40,
       "kept": 3
+    },
+    {
+      "source": "Finance Canada",
+      "fetched": 20,
+      "kept": 4
     },
     {
       "source": "CDEV",
@@ -228,14 +228,14 @@
       "kept": 0
     },
     {
-      "source": "Canada Media Fund",
-      "fetched": 24,
-      "kept": 1
-    },
-    {
       "source": "ISED",
       "fetched": 20,
       "kept": 4
+    },
+    {
+      "source": "Canada Media Fund",
+      "fetched": 24,
+      "kept": 1
     },
     {
       "source": "C.D. Howe Institute",
