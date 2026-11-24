@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 4:12 PM ET",
+  "generated_at": "Nov 24, 2026, 4:16 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795554761884,
+  "updated_ts": 1795554962458,
   "articles": [
     {
       "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
@@ -11,17 +11,17 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108558517-17955384902026-11-24t163620z_668368453_rc2duoa4bjw8_rtrmadp_0_usa-stocks.jpeg?v=1795538604&w=1920&h=1080",
       "time": "Nov 24, 4:12 PM",
       "coverage": 6,
-      "ts": 1795554724000
+      "ts": 1795554732000
     },
     {
-      "title": "Nvidia shares fall over 5% as Huang comeback rally cools",
+      "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
       "snippet": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558076-1795501710580-gettyimages-2299493080-AFP_D36R6ZH.jpeg?v=1795501751&w=1920&h=1080",
-      "time": "Nov 24, 4:07 PM",
+      "time": "Nov 24, 4:15 PM",
       "coverage": 5,
-      "ts": 1795554430000
+      "ts": 1795554923000
     },
     {
       "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "4:13 PM",
+      "title": "CNBC — Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+      "ts": 1795554819000
+    },
+    {
       "time": "4:07 PM",
       "title": "CNBC — Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
       "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
@@ -301,12 +307,6 @@
       "title": "CNBC — Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
       "ts": 1795552927000
-    },
-    {
-      "time": "3:37 PM",
-      "title": "CNBC — How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
-      "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
-      "ts": 1795552660000
     }
   ]
 }
