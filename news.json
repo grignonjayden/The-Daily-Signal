@@ -1,16 +1,17 @@
 {
-  "generated_at": "Nov 24, 2026, 8:29 AM ET",
+  "generated_at": "Nov 24, 2026, 8:37 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795526968656,
+  "updated_ts": 1795527474921,
   "articles": [
     {
-      "title": "Nvidia stock falls 4% premarket; Goldman says Huang’s return not a clearing event",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-surge-30-as-board-announces-jensen-huangs-reinstatement-5045795",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM811C3_L.jpg",
-      "time": "Nov 24, 7:51 AM",
-      "coverage": 7
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "snippet": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550584-1794519112118-gettyimages-2297269641-TRUMP_TECH_AI.jpeg?v=1795450322&w=1920&h=1080",
+      "time": "Nov 24, 8:31 AM",
+      "coverage": 6,
+      "ts": 1795527089000
     },
     {
       "title": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
@@ -19,7 +20,8 @@
       "snippet": "Trump got the CEO he wanted. Nvidia still has an investigation to finish. Plus, the outlook for AI jobs and why Medicare Advantage insurers missed Monday’s rally.",
       "image": "https://images.mktw.net/im-31029342",
       "time": "Nov 24, 7:21 AM",
-      "coverage": 7
+      "coverage": 6,
+      "ts": 1795522860000
     },
     {
       "title": "This billionaire bought Nvidia in anticipation of Jensen Huang’s return — and warns the S&P 500 could fall by a third",
@@ -28,61 +30,8 @@
       "snippet": "Jim Mellon is a billionaire investor with strong views on diverse asset classes. He’s bearish on the AI sector and U.S. stocks generally but he sees real value in Chinese equity markets and long-term Japanese…",
       "image": "https://images.mktw.net/im-68828902",
       "time": "Nov 24, 6:59 AM",
-      "coverage": 7
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
-      "snippet": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108557902-1795471379811-Kress_Huang.jpg?v=1795471502&w=1920&h=1080",
-      "time": "Nov 23, 9:21 PM",
-      "coverage": 7
-    },
-    {
-      "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
-      "snippet": "Nvidia's Jensen Huang admitted to an affair in a note to employees on Nov. 8 and resigned as CEO on Nov. 12.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108557780-1795465600170-Screenshot_2026-11-23_at_32208_PM.png?v=1795475517&w=1920&h=1080",
-      "time": "Nov 23, 9:20 PM",
-      "coverage": 7
-    },
-    {
-      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
-      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
-      "image": "https://images.wsj.net/im-87333679",
-      "time": "Nov 23, 5:15 PM",
-      "coverage": 7
-    },
-    {
-      "title": "Jensen Huang’s Return Sparks Rally in Asia, but Concerns Remain",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main",
-      "snippet": "The risk posed by tighter U.S. restrictions on advanced chips hasn’t gone away, nor have concerns around AI financing, and fears of a market bubble.",
-      "image": "https://images.wsj.net/im-07909036",
-      "time": "Nov 24, 4:52 AM",
-      "coverage": 7
-    },
-    {
-      "title": "U.S. stock futures slip as Nvidia-led Wall Street rally cools",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg",
-      "time": "Nov 24, 7:48 AM",
-      "coverage": 5
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 7
+      "coverage": 6,
+      "ts": 1795521540000
     },
     {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
@@ -91,7 +40,48 @@
       "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
       "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
       "time": "Nov 24, 6:25 AM",
-      "coverage": 5
+      "coverage": 5,
+      "ts": 1795519556000
+    },
+    {
+      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
+      "snippet": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108557902-1795471379811-Kress_Huang.jpg?v=1795471502&w=1920&h=1080",
+      "time": "Nov 23, 9:21 PM",
+      "coverage": 6,
+      "ts": 1795486866000
+    },
+    {
+      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
+      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
+      "image": "https://images.wsj.net/im-87333679",
+      "time": "Nov 23, 5:15 PM",
+      "coverage": 6,
+      "ts": 1795472100000
+    },
+    {
+      "title": "Jensen Huang’s Return Sparks Rally in Asia, but Concerns Remain",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main",
+      "snippet": "The risk posed by tighter U.S. restrictions on advanced chips hasn’t gone away, nor have concerns around AI financing, and fears of a market bubble.",
+      "image": "https://images.wsj.net/im-07909036",
+      "time": "Nov 24, 4:52 AM",
+      "coverage": 6,
+      "ts": 1795513920000
+    },
+    {
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
     },
     {
       "title": "Nvidia’s decision to bring back Huang draws bipartisan criticism from U.S. lawmakers",
@@ -100,7 +90,8 @@
       "snippet": "Prominent members of Congress say the move highlights need to probe potential wrongdoing, enact greater export controls",
       "image": "https://www.theglobeandmail.com/resizer/v2/4SNX3QNKW5BJRGOGEONXVOJ67I.jpg?auth=72af63d2a4937e0969e17477550a9600948510ae859b4114947231b7e5296a75&smart=true&width=8192&height=5464",
       "time": "Nov 23, 12:21 PM",
-      "coverage": 7
+      "coverage": 6,
+      "ts": 1795454474000
     },
     {
       "title": "Huang’s Return Hits the Reset Button for AI Bets",
@@ -110,7 +101,8 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 24, 6:33 AM",
-      "coverage": 6
+      "coverage": 5,
+      "ts": 1795520013000
     },
     {
       "title": "Stocks soar on Jensen Huang’s return to Nvidia",
@@ -119,17 +111,38 @@
       "snippet": "Major U.S. equity indexes are higher Monday after last week&apos;s steep AI sell-off, with investors eyeing Nvidia&apos;s recovery and Wednesday&apos;s PCE inflation report.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-historic-stock-market-selloff-1.jpg",
       "time": "Nov 23, 8:36 AM",
-      "coverage": 7
+      "coverage": 6,
+      "ts": 1795441018000
     },
     {
-      "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+      "title": "Stocks Fall as Nvidia Fades and Trade Fears Return: Markets Wrap",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "snippet": "Anthropic PBC shares briefly traded below their $83 initial public offering price in premarket trading, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+      "snippet": "The extraordinary stock rally that followed Jensen Huang’s return to Nvidia Corp. faded as skepticism surfaced over whether the AI trade can mount a sustained rebound, with fresh trade tensions adding to the retreat.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 24, 6:19 AM",
-      "coverage": 5
+      "time": "Nov 23, 5:06 PM",
+      "coverage": 5,
+      "ts": 1795471606000
+    },
+    {
+      "title": "FTSE 100 today: Stocks extend losses as miners slide on weaker metals prices",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-miners-slide-with-metals-5047340",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEC2028Y_M.jpg",
+      "time": "Nov 24, 8:16 AM",
+      "coverage": 2,
+      "ts": 1795526169000
+    },
+    {
+      "title": "AMD near-term technical setup: bearish bias with oversold bounce potential",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/amd-nearterm-technical-setup-bearish-bias-with-oversold-bounce-potential-93CH-5048295",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM731RT_L.jpg",
+      "time": "Nov 24, 8:26 AM",
+      "ts": 1795526806000
     }
   ],
   "outlets": [
@@ -148,7 +161,8 @@
       "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123a-eng.htm",
       "snippet": "Operating profit reported by Canadian corporations declined to $236.6 billion in the third quarter, down $4.9 billion (-2.0%) from the second quarter. This decrease was attributable to both the non-financial and…",
       "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261123/cg261123a001-eng.png",
-      "time": "Nov 23, 8:30 AM"
+      "time": "Nov 23, 8:30 AM",
+      "ts": 1795440600000
     },
     {
       "title": "Travel between Canada and other countries, September 2026",
@@ -156,7 +170,8 @@
       "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123b-eng.htm",
       "snippet": "In September, the number of Canadian-resident return trips from the United States increased 8.7% year over year, while trips to Canada by US residents rose 16.7%.",
       "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261123/cg261123b001-eng.png",
-      "time": "Nov 23, 8:30 AM"
+      "time": "Nov 23, 8:30 AM",
+      "ts": 1795440600000
     },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -165,7 +180,8 @@
       "snippet": "Federal Reserve announces College Fed Challenge winners",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 20, 4:15 PM"
+      "time": "Nov 20, 4:15 PM",
+      "ts": 1795209300000
     },
     {
       "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
@@ -174,7 +190,8 @@
       "snippet": "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Audit Trail (CAT). The Commission is proposing to rescind…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 20, 1:03 PM"
+      "time": "Nov 20, 1:03 PM",
+      "ts": 1795197804000
     },
     {
       "title": "Minister Champagne advances trade diversification and investment partnerships in the Gulf region",
@@ -183,7 +200,8 @@
       "snippet": "Canada’s government is focused on diversifying trade, catalyzing new investment, and building major projects that will create good jobs for Canadians for generations to come. In a more dangerous and divided world,…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 20, 10:42 AM"
+      "time": "Nov 20, 10:42 AM",
+      "ts": 1795189365000
     },
     {
       "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
@@ -192,7 +210,8 @@
       "snippet": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 20, 10:00 AM"
+      "time": "Nov 20, 10:00 AM",
+      "ts": 1795186800000
     },
     {
       "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
@@ -201,78 +220,82 @@
       "snippet": "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief against Indianapolis-based Backward Hat Capital, its…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 20, 9:28 AM"
-    },
-    {
-      "title": "Canada takes next steps in implementing the Consumer-Driven Banking Framework",
-      "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-takes-next-steps-in-implementing-the-consumer-driven-banking-framework.html",
-      "snippet": "The Government of Canada is strengthening Canada’s financial sector by promoting banking competition and innovation, and lowering financial costs for Canadians.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 19, 3:33 PM"
+      "time": "Nov 20, 9:28 AM",
+      "ts": 1795184908000
     }
   ],
   "ticker": [
     {
-      "time": "8:17 AM",
-      "title": "CNBC — Commercial real estate activity falls 14% in October, as interest rates rise",
-      "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html"
-    },
-    {
-      "time": "8:16 AM",
-      "title": "Investing.com — FTSE 100 today: Stocks extend losses as miners slide on weaker metals prices",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-miners-slide-with-metals-5047340"
-    },
-    {
-      "time": "8:12 AM",
-      "title": "Investing.com — Silver miners fall as metal price drops on rate hike concerns",
-      "url": "https://www.investing.com/news/stock-market-news/silver-miners-fall-as-metal-price-drops-on-rate-hike-concerns-93CH-5048203"
-    },
-    {
-      "time": "8:11 AM",
+      "time": "8:35 AM",
       "title": "CNBC — Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
-      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "ts": 1795527358000
     },
     {
-      "time": "8:00 AM",
-      "title": "Bloomberg — DRC Reinstates Cobalt Export Ban",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/drc-reinstates-cobalt-export-ban-video"
+      "time": "8:33 AM",
+      "title": "CNBC — Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+      "ts": 1795527206000
     },
     {
-      "time": "8:00 AM",
-      "title": "Bloomberg — Behind Binance Hack, a Reckoning Over Who Controls Crypto",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/behind-binance-hack-a-reckoning-over-who-controls-crypto"
+      "time": "8:31 AM",
+      "title": "CNBC — Stocks making the biggest moves Tuesday: Nvidia, Anthropic, Best Buy & more",
+      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795527111000
     },
     {
-      "time": "7:58 AM",
-      "title": "CNBC — Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more",
-      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
+      "time": "8:28 AM",
+      "title": "Investing.com — Top analyst-favored midcap stock with meaningful target upside",
+      "url": "https://www.investing.com/news/stock-market-news/top-analystfavored-midcap-stock-with-meaningful-target-upside-93CH-5048297",
+      "ts": 1795526881000
     },
     {
-      "time": "7:57 AM",
-      "title": "CNBC — Best Buy reports comparable sales growth of 6.1%, highest in five years",
-      "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html"
+      "time": "8:28 AM",
+      "title": "WSJ Markets — Nasdaq Futures Fall as Questions Linger Over AI Trade",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+      "ts": 1795526880000
     },
     {
-      "time": "7:56 AM",
-      "title": "MarketWatch — Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.",
-      "url": "https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories"
+      "time": "8:25 AM",
+      "title": "Investing.com — White House prepares sweeping new tariffs on China, EU, and dozens of nations",
+      "url": "https://www.investing.com/news/stock-market-news/white-house-prepares-sweeping-new-tariffs-on-china-eu-and-dozens-of-nations-5048285",
+      "ts": 1795526724000
     },
     {
-      "time": "7:54 AM",
-      "title": "Investing.com — Sanofi’s $41 billion Insmed bet charts life beyond Dupixent",
-      "url": "https://www.investing.com/news/stock-market-news/sanofi-strikes-41-billion-deal-to-acquire-us-drugmaker-insmed-5047163"
+      "time": "8:25 AM",
+      "title": "Investing.com — Jensen 2.0",
+      "url": "https://www.investing.com/news/stock-market-news/jensen-20-5048292",
+      "ts": 1795526701000
     },
     {
-      "time": "7:54 AM",
-      "title": "MarketWatch — HPE just posted its strongest growth ever — but its stock is sinking",
-      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories"
+      "time": "8:24 AM",
+      "title": "Investing.com — Kulicke & Soffa: an underrated AI semiconductor pick with limited analyst coverage",
+      "url": "https://www.investing.com/news/stock-market-news/kulicke--soffa-an-underrated-ai-semiconductor-pick-with-limited-analyst-coverage-93CH-5048287",
+      "ts": 1795526694000
     },
     {
-      "time": "7:50 AM",
-      "title": "CNBC — Anthropic has room to run despite volatile start as public company, Wedbush says",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-wedbush-outperform-price-target.html"
+      "time": "8:24 AM",
+      "title": "Investing.com — Volkswagen starts crunch wage talks as workers carry coffins in protest over cuts",
+      "url": "https://www.investing.com/news/stock-market-news/volkswagen-confronts-union-over-costs-in-face-of-strike-threat-5047119",
+      "ts": 1795526662000
+    },
+    {
+      "time": "8:23 AM",
+      "title": "Investing.com — United Airlines leads Thanksgiving airline gains on pricing power and premium mix",
+      "url": "https://www.investing.com/news/stock-market-news/united-airlines-leads-thanksgiving-airline-gains-on-pricing-power-and-premium-mix-93CH-5048286",
+      "ts": 1795526610000
+    },
+    {
+      "time": "8:22 AM",
+      "title": "Investing.com — S&P 500 positioning hits sweet spot for forward returns, Goldman says",
+      "url": "https://www.investing.com/news/stock-market-news/sp-500-positioning-hits-swee-5048269",
+      "ts": 1795526530000
+    },
+    {
+      "time": "8:21 AM",
+      "title": "Investing.com — Three retail stocks to watch this holiday season: Walmart, Target and TJX",
+      "url": "https://www.investing.com/news/stock-market-news/three-retail-stocks-to-watch-this-holiday-season-walmart-target-and-tjx-93CH-5048267",
+      "ts": 1795526516000
     }
   ]
 }
