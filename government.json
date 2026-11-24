@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 23, 2026, 10:25 PM ET",
+  "generated_at": "Nov 23, 2026, 10:27 PM ET",
   "date_key": "2026-11-23",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -148,18 +148,6 @@
       "group": "sector"
     },
     {
-      "title": "Media Availability: Economic Club of Canada",
-      "url": "https://www.bankofcanada.ca/multimedia/media-availability-economic-club-of-canada/",
-      "image": "https://www.bankofcanada.ca/wp-content/uploads/2014/02/tiff-macklem.jpg",
-      "source": "Bank of Canada",
-      "badge": "BoC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 24",
-      "date": "2026-11-24T14:00:14.000Z",
-      "group": "policy"
-    },
-    {
       "title": "Speech by Tiff Macklem, Governor of the Bank of Canada",
       "url": "https://www.bankofcanada.ca/2026/11/speech-tiff-macklem-governor-bank-canada-2026-11-24/",
       "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
@@ -169,18 +157,6 @@
       "sector": "Monetary",
       "time": "Nov 24",
       "date": "2026-11-24T12:40:55.000Z",
-      "group": "policy"
-    },
-    {
-      "title": "Speech: Economic Club of Canada",
-      "url": "https://www.bankofcanada.ca/multimedia/speech-economic-club-of-canada-2026-11-24/",
-      "image": "https://www.bankofcanada.ca/wp-content/uploads/2014/02/tiff-macklem.jpg",
-      "source": "Bank of Canada",
-      "badge": "BoC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 24",
-      "date": "2026-11-24T12:40:26.000Z",
       "group": "policy"
     },
     {
@@ -205,6 +181,30 @@
       "sector": "Monetary",
       "time": "Nov 20",
       "date": "2026-11-20T20:00:12.000Z",
+      "group": "policy"
+    },
+    {
+      "title": "Bank of Canada Media Interview – Barrie 360",
+      "url": "https://www.bankofcanada.ca/2026/11/bank-canada-media-interview-barrie-360-2026-11-19/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 19",
+      "date": "2026-11-19T16:00:58.000Z",
+      "group": "policy"
+    },
+    {
+      "title": "Setting the scenario: Monetary policy communications in uncertain times",
+      "url": "https://www.bankofcanada.ca/2026/11/setting-the-scenario-monetary-policy-communications-in-uncertain-times/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 18",
+      "date": "2026-11-18T12:30:41.000Z",
       "group": "policy"
     },
     {
@@ -266,6 +266,16 @@
       "kept": 2
     },
     {
+      "source": "Finance Canada",
+      "fetched": 20,
+      "kept": 4
+    },
+    {
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 4
+    },
+    {
       "source": "CDEV",
       "fetched": 20,
       "kept": 1
@@ -276,23 +286,13 @@
       "kept": 2
     },
     {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
-      "kept": 4
-    },
-    {
       "source": "CP24",
       "fetched": 200,
       "kept": 2
     },
     {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
-      "source": "ISED",
-      "fetched": 20,
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
       "kept": 4
     }
   ]
