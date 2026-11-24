@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 2:31 PM ET",
+  "generated_at": "Nov 24, 2026, 2:34 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795548672235,
+  "updated_ts": 1795548871753,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -54,6 +54,16 @@
       "ts": 1795546505000
     },
     {
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "snippet": "Shares are trading below their IPO price of $83 on Tuesday, less than a week after their debut on the Nasdaq.",
+      "image": "https://images.mktw.net/im-34075557",
+      "time": "Nov 24, 2:31 PM",
+      "coverage": 5,
+      "ts": 1795548660000
+    },
+    {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
@@ -74,6 +84,17 @@
       "ts": 1795481121000
     },
     {
+      "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "snippet": "Anthropic PBC shares sank as much as nearly 9% below their $83 initial public offering price, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 6:19 AM",
+      "coverage": 5,
+      "ts": 1795519164000
+    },
+    {
       "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
@@ -92,17 +113,6 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 5,
       "ts": 1795456173000
-    },
-    {
-      "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "snippet": "Anthropic PBC shares sank as much as nearly 9% below their $83 initial public offering price, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 6:19 AM",
-      "coverage": 4,
-      "ts": 1795519164000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -133,15 +143,6 @@
       "image": "https://images.mktw.net/im-47681442",
       "time": "Nov 24, 1:28 PM",
       "ts": 1795544880000
-    },
-    {
-      "title": "Many people overlook this crucial piece of retirement planning — and it isn’t money",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
-      "snippet": "Picking your retirement date should include factors beyond finances.",
-      "image": "https://images.mktw.net/im-38666031",
-      "time": "Nov 24, 2:21 PM",
-      "ts": 1795548060000
     }
   ],
   "outlets": [
@@ -259,6 +260,12 @@
       "ts": 1795548239000
     },
     {
+      "time": "2:21 PM",
+      "title": "MarketWatch — Many people overlook this crucial piece of retirement planning — and it isn’t money",
+      "url": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
+      "ts": 1795548060000
+    },
+    {
       "time": "2:19 PM",
       "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
@@ -299,12 +306,6 @@
       "title": "MarketWatch — Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
       "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
       "ts": 1795546920000
-    },
-    {
-      "time": "2:01 PM",
-      "title": "Investing.com — GDP, jobless claims, and PCE among key data due Wednesday",
-      "url": "https://www.investing.com/news/stock-market-news/gdp-jobless-claims-and-pce-among-key-data-due-wednesday-93CH-5048884",
-      "ts": 1795546883000
     }
   ]
 }
