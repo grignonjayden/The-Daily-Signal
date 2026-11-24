@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 4:43 PM ET",
+  "generated_at": "Nov 24, 2026, 4:46 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795556589337,
+  "updated_ts": 1795556795692,
   "articles": [
     {
       "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "4:42 PM",
+      "title": "WSJ Markets — U.S. Treasury Yields Mixed Ahead of Inflation, GDP Data",
+      "url": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
+      "ts": 1795556520000
+    },
+    {
       "time": "4:39 PM",
       "title": "Globe and Mail — Huawei guilty of conspiracy to steal trade secrets, U.S. jury finds",
       "url": "https://www.theglobeandmail.com/world/article-huawei-conspiracy-trade-secrets/",
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — Nvidia’s Relief Rally Stalls",
       "url": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
       "ts": 1795555380000
-    },
-    {
-      "time": "4:22 PM",
-      "title": "MarketWatch — Micron’s stock falls as an analyst warns about a future supply glut",
-      "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-      "ts": 1795555320000
     }
   ]
 }
