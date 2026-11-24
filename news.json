@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:28 AM ET",
+  "generated_at": "Nov 24, 2026, 10:32 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795534125116,
+  "updated_ts": 1795534324203,
   "articles": [
     {
       "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
@@ -157,22 +157,22 @@
   ],
   "official": [
     {
-      "title": "Quarterly financial statistics for enterprises, third quarter 2026",
+      "title": "Farm income, 2025 (revised data)",
       "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123a-eng.htm",
-      "snippet": "Operating profit reported by Canadian corporations declined to $236.6 billion in the third quarter, down $4.9 billion (-2.0%) from the second quarter. This decrease was attributable to both the non-financial and…",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261123/cg261123a001-eng.png",
-      "time": "Nov 23, 8:30 AM",
-      "ts": 1795440600000
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261124/dq261124a-eng.htm",
+      "snippet": "Realized net income for Canadian farmers rose $211.4 million (+2.5%) to $8.6 billion in 2025, following a decline in 2024 (-33.3%). Excluding cannabis, realized net income increased by 11.7% to $9.9 billion.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261124/cg261124a001-eng.png",
+      "time": "Nov 24, 8:30 AM",
+      "ts": 1795527000000
     },
     {
-      "title": "Travel between Canada and other countries, September 2026",
+      "title": "Farm cash receipts, January to September 2026",
       "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123b-eng.htm",
-      "snippet": "In September, the number of Canadian-resident return trips from the United States increased 8.7% year over year, while trips to Canada by US residents rose 16.7%.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261123/cg261123b001-eng.png",
-      "time": "Nov 23, 8:30 AM",
-      "ts": 1795440600000
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261124/dq261124b-eng.htm",
+      "snippet": "Farm cash receipts in Canada totalled $79.7 billion in the first three quarters of 2026, up $5.7 billion (+7.7%) from the same period in 2025. Receipts for crops (+$4.4 billion) and livestock (+$2.2 billion)…",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261124/cg261124b001-eng.png",
+      "time": "Nov 24, 8:30 AM",
+      "ts": 1795527000000
     },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -237,10 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "10:28 AM",
+      "title": "Bloomberg — Walking Clubs Are the Antidote to Fitness Culture (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/walking-clubs-are-the-antidote-to-fitness-culture-video",
+      "ts": 1795534109000
+    },
+    {
       "time": "10:22 AM",
       "title": "CNBC — Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
       "ts": 1795533749000
+    },
+    {
+      "time": "10:21 AM",
+      "title": "Bloomberg — NYC Calls on Kalshi, Polymarket to Testify on Marketing to Youth",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/nyc-calls-on-kalshi-polymarket-to-testify-on-marketing-to-youth",
+      "ts": 1795533677000
     },
     {
       "time": "10:21 AM",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Why is Eli Lilly stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-eli-lilly-stock-rallying-today-93CH-5048619",
       "ts": 1795533055000
-    },
-    {
-      "time": "10:10 AM",
-      "title": "Globe and Mail — The casino that never closes: Inside Canada’s online gambling epidemic",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-the-casino-that-never-closes-inside-canadas-online-gambling-epidemic/",
-      "ts": 1795533016000
-    },
-    {
-      "time": "10:10 AM",
-      "title": "Investing.com — Morocco stocks lower at close of trade; Moroccan All Shares down 0.45%",
-      "url": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-045-5048616",
-      "ts": 1795533003000
     }
   ]
 }
