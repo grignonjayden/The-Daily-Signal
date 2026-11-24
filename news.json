@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 2:54 PM ET",
+  "generated_at": "Nov 24, 2026, 2:58 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795550091097,
+  "updated_ts": 1795550291370,
   "articles": [
+    {
+      "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-5047621",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0VS_L.jpg",
+      "time": "Nov 24, 2:49 PM",
+      "coverage": 5,
+      "ts": 1795549745000
+    },
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "source": "CNBC",
@@ -14,24 +24,14 @@
       "ts": 1795549474000
     },
     {
-      "title": "Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
+      "title": "Nvidia’s Jensen Huang apologizes to employees, says he is in therapy",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+      "url": "https://www.investing.com/news/stock-market-news/nvidias-jensen-huang-apologizes-to-employees-says-he-is-in-therapy-5048912",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
-      "time": "Nov 24, 2:31 PM",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEMAB24G_L.jpg",
+      "time": "Nov 24, 2:33 PM",
       "coverage": 5,
-      "ts": 1795548672000
-    },
-    {
-      "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-5047621",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0VS_L.jpg",
-      "time": "Nov 24, 2:01 PM",
-      "coverage": 5,
-      "ts": 1795546883000
+      "ts": 1795548836000
     },
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -52,6 +52,16 @@
       "time": "Nov 24, 11:01 AM",
       "coverage": 5,
       "ts": 1795536060000
+    },
+    {
+      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
+      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
+      "time": "Nov 24, 6:25 AM",
+      "coverage": 5,
+      "ts": 1795519556000
     },
     {
       "title": "Wall Street rebounds as Jensen Huang is reinstated as Nvidia CEO",
@@ -82,16 +92,6 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 6,
       "ts": 1795456173000
-    },
-    {
-      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
-      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
-      "time": "Nov 24, 6:25 AM",
-      "coverage": 4,
-      "ts": 1795519556000
     },
     {
       "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
@@ -237,10 +237,34 @@
   ],
   "ticker": [
     {
+      "time": "2:54 PM",
+      "title": "Investing.com — Ford in talks with the Pentagon to supply military vehicles",
+      "url": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-with-general-motors-and-ford-on-military-drones-wsj-reports-5047560",
+      "ts": 1795550078000
+    },
+    {
+      "time": "2:54 PM",
+      "title": "Investing.com — CrowdStrike’s all-stock bid for Zscaler: deal structure shifts risk to target holders",
+      "url": "https://www.investing.com/news/stock-market-news/crowdstrikes-allstock-bid-for-zscaler-deal-structure-shifts-risk-to-target-holders-93CH-5048924",
+      "ts": 1795550055000
+    },
+    {
+      "time": "2:49 PM",
+      "title": "Investing.com — US proposes to give automakers until 2031 to install automatic emergency braking",
+      "url": "https://www.investing.com/news/stock-market-news/us-proposes-to-give-automakers-until-2031-to-install-automatic-emergency-braking-5048923",
+      "ts": 1795549779000
+    },
+    {
       "time": "2:47 PM",
       "title": "CNBC — Anthropic shares fall below IPO price. Traders see even more pain",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
       "ts": 1795549662000
+    },
+    {
+      "time": "2:41 PM",
+      "title": "Investing.com — BMO highlights top interactive entertainment pick",
+      "url": "https://www.investing.com/news/stock-market-news/bmo-highlights-top-interactive-entertainment-pick-5048917",
+      "ts": 1795549263000
     },
     {
       "time": "2:32 PM",
@@ -253,6 +277,12 @@
       "title": "Bloomberg — Canadian Dollar Gains Most Since August on BOC Inflation Warning",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
       "ts": 1795548685000
+    },
+    {
+      "time": "2:31 PM",
+      "title": "Investing.com — Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+      "ts": 1795548672000
     },
     {
       "time": "2:27 PM",
@@ -273,40 +303,10 @@
       "ts": 1795548386000
     },
     {
-      "time": "2:23 PM",
-      "title": "CNBC — Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
-      "url": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
-      "ts": 1795548239000
-    },
-    {
-      "time": "2:23 PM",
-      "title": "Investing.com — CoreWeave bonds hit record lows as AI trade concerns return",
-      "url": "https://www.investing.com/news/stock-market-news/coreweave-bonds-hit-record-lows-as-ai-trade-concerns-return-5048907",
-      "ts": 1795548201000
-    },
-    {
-      "time": "2:21 PM",
-      "title": "MarketWatch — Many people overlook this crucial piece of retirement planning — and it isn’t money",
-      "url": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
-      "ts": 1795548060000
-    },
-    {
-      "time": "2:19 PM",
-      "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-      "ts": 1795547952000
-    },
-    {
-      "time": "2:16 PM",
-      "title": "Investing.com — Citadel Securities tops 2025 revenue record in 9 months",
-      "url": "https://www.investing.com/news/stock-market-news/citadel-securities-tops-2025-revenue-record-in-9-months-5048899",
-      "ts": 1795547802000
-    },
-    {
-      "time": "2:15 PM",
-      "title": "CNBC — Investors are fleeing this data center stock. I see an opportunity",
-      "url": "https://www.cnbc.com/2026/11/24/investors-are-fleeing-this-data-center-stock-i-see-an-opportunity.html",
-      "ts": 1795547712000
+      "time": "2:25 PM",
+      "title": "CNBC — Gold is doing something strange. Here's one way to play it",
+      "url": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
+      "ts": 1795548313000
     }
   ]
 }
