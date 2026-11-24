@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:55 AM ET",
+  "generated_at": "Nov 24, 2026, 10:59 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795535741091,
+  "updated_ts": 1795535943100,
   "articles": [
     {
       "title": "Nvidia shares fall over 5% after Huang comeback rally",
@@ -39,29 +39,19 @@
       "url": "https://www.investing.com/news/stock-market-news/nvidias-huang-returns-to-cheers-in-china-but-political-hurdles-mount-5048427",
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN17M_L.jpg",
-      "time": "Nov 24, 10:26 AM",
+      "time": "Nov 24, 10:36 AM",
       "coverage": 6,
-      "ts": 1795533971000
+      "ts": 1795534606000
     },
     {
-      "title": "Jensen Huang returns to Nvidia, vows to be ’a better CEO’",
+      "title": "Wall Street largely under pressure a day after explosive rally led by Nvidia",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/jensen-huangs-comeback-to-nvidia-underscores-his-outsized-grip-on-ai-5046711",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAB26Q_L.jpg",
-      "time": "Nov 24, 10:25 AM",
-      "coverage": 6,
-      "ts": 1795533944000
-    },
-    {
-      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
-      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
-      "time": "Nov 24, 6:25 AM",
-      "coverage": 6,
-      "ts": 1795519556000
+      "image": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg",
+      "time": "Nov 24, 10:36 AM",
+      "coverage": 5,
+      "ts": 1795534573000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -72,6 +62,16 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 7,
       "ts": 1795456173000
+    },
+    {
+      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
+      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
+      "time": "Nov 24, 6:25 AM",
+      "coverage": 5,
+      "ts": 1795519556000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "10:55 AM",
+      "title": "Investing.com — Israel stocks lower at close of trade; TA 35 down 0.86%",
+      "url": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-086-5048685",
+      "ts": 1795535703000
+    },
+    {
+      "time": "10:50 AM",
+      "title": "Investing.com — Greece stocks lower at close of trade; Athens General Composite down 1.46%",
+      "url": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-146-5048682",
+      "ts": 1795535402000
+    },
+    {
       "time": "10:49 AM",
       "title": "CNBC — Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
       "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
@@ -261,52 +273,40 @@
       "ts": 1795534975000
     },
     {
-      "time": "10:34 AM",
-      "title": "CNBC — Kushner-backed OakNorth secures U.S. bank charter as global digital banks push into America",
-      "url": "https://www.cnbc.com/2026/11/24/oaknorth-us-bank-charter.html",
-      "ts": 1795534450000
+      "time": "10:41 AM",
+      "title": "Investing.com — Why is Fossil stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-fossil-stock-rallying-today-93CH-5048672",
+      "ts": 1795534867000
     },
     {
-      "time": "10:30 AM",
-      "title": "Investing.com — Turkey stocks lower at close of trade; BIST 100 down 1.25%",
-      "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-125-5048655",
-      "ts": 1795534204000
+      "time": "10:41 AM",
+      "title": "Investing.com — Why is Cogent Biosciences stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-cogent-biosciences-stock-surging-today-93CH-5048671",
+      "ts": 1795534864000
     },
     {
-      "time": "10:30 AM",
-      "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "ts": 1795534200000
+      "time": "10:41 AM",
+      "title": "Investing.com — Why is Target stock surging to a 52-week high today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-target-stock-surging-to-a-52week-high-today-93CH-5048670",
+      "ts": 1795534860000
     },
     {
-      "time": "10:28 AM",
-      "title": "Bloomberg — Walking Clubs Are the Antidote to Fitness Culture",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/walking-clubs-are-the-antidote-to-fitness-culture-video",
-      "ts": 1795534109000
+      "time": "10:37 AM",
+      "title": "Investing.com — Sanofi’s $41 billion Insmed bet charts life beyond Dupixent",
+      "url": "https://www.investing.com/news/stock-market-news/sanofi-strikes-41-billion-deal-to-acquire-us-drugmaker-insmed-5047163",
+      "ts": 1795534627000
     },
     {
-      "time": "10:28 AM",
-      "title": "Bloomberg — LME Tightens Rules on Big Positions to Ease Aluminum Squeeze",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/lme-tightens-rules-on-big-positions-to-address-aluminum-squeeze",
-      "ts": 1795534107000
+      "time": "10:36 AM",
+      "title": "Investing.com — Dell, Analog Devices among market cap stock movers on Tuesday",
+      "url": "https://www.investing.com/news/stock-market-news/dell-analog-devices-among-market-cap-stock-movers-on-tuesday-93CH-5048665",
+      "ts": 1795534583000
     },
     {
-      "time": "10:28 AM",
-      "title": "Bloomberg — New Balance Turns 'Dad Shoe' Into Trendy Hit With Gen Z",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/new-balance-turns-dad-shoe-into-trendy-hit-with-gen-z-video",
-      "ts": 1795534098000
-    },
-    {
-      "time": "10:27 AM",
-      "title": "Investing.com — Analyst says CrowdStrike’s $44B Zscaler deal makes it top zero trust player",
-      "url": "https://www.investing.com/news/stock-market-news/analyst-says-crowdstrikes-44b-zscaler-deal-makes-it-top-zero-trust-player-5048650",
-      "ts": 1795534039000
-    },
-    {
-      "time": "10:27 AM",
-      "title": "Globe and Mail — Scotiabank, CIBC launch new offices abroad",
-      "url": "https://www.theglobeandmail.com/business/article-scotiabank-cibc-launch-new-offices-abroad/",
-      "ts": 1795534031000
+      "time": "10:35 AM",
+      "title": "Investing.com — Why is Nike stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-nike-stock-rallying-today-93CH-5048664",
+      "ts": 1795534555000
     }
   ]
 }
