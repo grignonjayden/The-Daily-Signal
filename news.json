@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 1:57 PM ET",
+  "generated_at": "Nov 24, 2026, 2:00 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795546627435,
+  "updated_ts": 1795546828325,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -285,6 +285,12 @@
     },
     {
       "time": "1:34 PM",
+      "title": "CNBC — Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+      "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+      "ts": 1795545295000
+    },
+    {
+      "time": "1:34 PM",
       "title": "CNBC — Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
       "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
       "ts": 1795545283000
@@ -296,16 +302,10 @@
       "ts": 1795545180000
     },
     {
-      "time": "1:31 PM",
-      "title": "Globe and Mail — Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say",
-      "url": "https://www.theglobeandmail.com/business/article-trump-tariffs-excess-factory-capacity-november-24/",
-      "ts": 1795545061000
-    },
-    {
-      "time": "1:30 PM",
-      "title": "Globe and Mail — Ottawa defends new land seizure powers proposed for Alto’s high-speed rail project",
-      "url": "https://www.theglobeandmail.com/canada/article-alto-high-speed-rail-project-land-seizure-powers/",
-      "ts": 1795545057000
+      "time": "1:32 PM",
+      "title": "CNBC — Katie Stockton sees a comeback ahead for this beaten-down tech stock",
+      "url": "https://www.cnbc.com/2026/11/24/katie-stockton-sees-a-comeback-ahead-for-this-beaten-down-tech-stock.html",
+      "ts": 1795545152000
     }
   ]
 }
