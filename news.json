@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 6:48 PM ET",
+  "generated_at": "Nov 24, 2026, 6:51 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795564097367,
+  "updated_ts": 1795564298655,
   "articles": [
     {
       "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
@@ -237,10 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "6:46 PM",
+      "title": "Globe and Mail — Amazon violated Ontario’s anti-discrimination laws by not hiring Iranian engineer, tribunal rules",
+      "url": "https://www.theglobeandmail.com/business/article-amazon-violated-ontarios-anti-discrimination-laws-by-not-hiring/",
+      "ts": 1795563966000
+    },
+    {
       "time": "6:44 PM",
       "title": "WSJ Markets — The WSJ Dollar Index Falls 0.27% to 98.75",
       "url": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
       "ts": 1795563840000
+    },
+    {
+      "time": "6:43 PM",
+      "title": "Globe and Mail — Radar issue delays flights at Chicago O’Hare airport, U.S. FAA says",
+      "url": "https://www.theglobeandmail.com/world/article-faa-ground-chicago-ohare/",
+      "ts": 1795563810000
     },
     {
       "time": "6:41 PM",
@@ -295,18 +307,6 @@
       "title": "CNBC — Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
       "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
       "ts": 1795561404000
-    },
-    {
-      "time": "5:58 PM",
-      "title": "Investing.com — Why is Workday stock tumbling today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-workday-stock-tumbling-today-93CH-5049312",
-      "ts": 1795561094000
-    },
-    {
-      "time": "5:57 PM",
-      "title": "Globe and Mail — Sell now or wait? The gamble facing Canadian homeowners",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-sell-now-or-wait-the-gamble-facing-canadian-homeowners/",
-      "ts": 1795561061000
     }
   ]
 }
