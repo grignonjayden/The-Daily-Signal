@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:18 AM ET",
+  "generated_at": "Nov 24, 2026, 8:24 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795526335275,
+  "updated_ts": 1795526653098,
   "articles": [
     {
       "title": "Nvidia stock falls 4% premarket; Goldman says Huang’s return not a clearing event",
@@ -240,6 +240,11 @@
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/drc-reinstates-cobalt-export-ban-video"
     },
     {
+      "time": "8:00 AM",
+      "title": "Bloomberg — Behind Binance Hack, a Reckoning Over Who Controls Crypto",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/behind-binance-hack-a-reckoning-over-who-controls-crypto"
+    },
+    {
       "time": "7:58 AM",
       "title": "CNBC — Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html"
@@ -268,11 +273,6 @@
       "time": "7:50 AM",
       "title": "CNBC — Anthropic has room to run despite volatile start as public company, Wedbush says",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-wedbush-outperform-price-target.html"
-    },
-    {
-      "time": "7:50 AM",
-      "title": "MarketWatch — The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-      "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories"
     }
   ]
 }
