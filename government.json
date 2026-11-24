@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 24, 2026, 4:26 PM ET",
+  "generated_at": "Nov 24, 2026, 5:00 PM ET",
   "date_key": "2026-11-24",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -100,6 +100,18 @@
       "group": "sector"
     },
     {
+      "title": "Macklem says inflation forecast is lower, but oil price pressures are lingering",
+      "url": "https://www.cp24.com/news/money/2026/11/24/macklem-says-inflation-forecast-is-lower-but-oil-price-pressures-are-lingering/",
+      "image": "https://www.cp24.com/resizer/v2/XDEEBJ75UTIWNS6MRCQZZP4T7U.jpg?auth=1d68eef2a5da4d8ad29d4b3800198955194b68e13dc7e40666d4a166259b6277&smart=true&width=1400&height=917",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 24",
+      "date": "2026-11-25T01:35:31.000Z",
+      "group": "policy"
+    },
+    {
       "title": "Bank of Canada keeps 2% inflation target but adjusts what to track",
       "url": "https://www.cp24.com/news/money/2026/11/24/macklem-admits-bank-of-canada-offered-mixed-messaging-on-core-inflation-in-past/",
       "image": "https://www.cp24.com/resizer/v2/LMOMYW434FLI45QC7W3N5BKSAU.jpg?auth=c10305f20554a96ca02fc0268f3874a2b3c755966de4a087394e4452eb926795&smart=true&width=1400&height=911",
@@ -158,18 +170,6 @@
       "time": "Nov 24",
       "date": "2026-11-24T12:40:55.000Z",
       "group": "policy"
-    },
-    {
-      "title": "Canada’s monetary policy framework: A trusted anchor in uncertain waters",
-      "url": "https://www.bankofcanada.ca/2026/11/canadas-monetary-policy-framework-a-trusted-anchor-in-uncertain-waters/",
-      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
-      "source": "Bank of Canada",
-      "badge": "BoC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 24",
-      "date": "2026-11-24T12:35:21.000Z",
-      "group": "policy"
     }
   ],
   "sources": [
@@ -208,9 +208,9 @@
   ],
   "feed_status": [
     {
-      "source": "Bank of Canada",
+      "source": "Finance Canada",
       "fetched": 20,
-      "kept": 3
+      "kept": 4
     },
     {
       "source": "CBC News",
@@ -218,9 +218,9 @@
       "kept": 3
     },
     {
-      "source": "Finance Canada",
+      "source": "Bank of Canada",
       "fetched": 20,
-      "kept": 4
+      "kept": 3
     },
     {
       "source": "CDEV",
@@ -228,14 +228,14 @@
       "kept": 0
     },
     {
-      "source": "Canada Media Fund",
-      "fetched": 24,
-      "kept": 1
-    },
-    {
       "source": "ISED",
       "fetched": 20,
       "kept": 4
+    },
+    {
+      "source": "Canada Media Fund",
+      "fetched": 24,
+      "kept": 1
     },
     {
       "source": "C.D. Howe Institute",
@@ -245,7 +245,7 @@
     {
       "source": "CP24",
       "fetched": 200,
-      "kept": 3
+      "kept": 4
     }
   ]
 }

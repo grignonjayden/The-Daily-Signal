@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 4:56 PM ET",
+  "generated_at": "Nov 24, 2026, 5:00 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795557394945,
+  "updated_ts": 1795557601571,
   "articles": [
     {
       "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
@@ -45,7 +45,7 @@
       "ts": 1795552927000
     },
     {
-      "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
+      "title": "Nvidia’s board joins Huang in centre of scrutiny after reinstating him as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
@@ -63,6 +63,16 @@
       "time": "Nov 24, 4:16 PM",
       "coverage": 6,
       "ts": 1795555010000
+    },
+    {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "image": "https://images.wsj.net/im-52991838",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 5,
+      "ts": 1795557180000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
@@ -83,16 +93,6 @@
       "time": "Nov 23, 5:25 PM",
       "coverage": 7,
       "ts": 1795472700000
-    },
-    {
-      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
-      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
-      "image": "https://images.wsj.net/im-87333679",
-      "time": "Nov 23, 5:15 PM",
-      "coverage": 7,
-      "ts": 1795472100000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "4:56 PM",
+      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main",
+      "ts": 1795557360000
+    },
+    {
+      "time": "4:55 PM",
+      "title": "WSJ Markets — Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
+      "url": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main",
+      "ts": 1795557300000
+    },
+    {
+      "time": "4:55 PM",
+      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main",
+      "ts": 1795557300000
+    },
+    {
       "time": "4:54 PM",
       "title": "CNBC — Saudi national charged in OpenAI bugging to be released on $1 million bond",
       "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
@@ -246,6 +264,12 @@
       "time": "4:53 PM",
       "title": "MarketWatch — 12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
       "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "ts": 1795557180000
+    },
+    {
+      "time": "4:53 PM",
+      "title": "WSJ Markets — Tech, Media & Telecom Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main",
       "ts": 1795557180000
     },
     {
@@ -283,30 +307,6 @@
       "title": "WSJ Markets — U.S. Stocks Mixed as Huang Relief Rally Fades",
       "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main",
       "ts": 1795555920000
-    },
-    {
-      "time": "4:31 PM",
-      "title": "MarketWatch — How much more are richest Americans spending on the holidays compared to everyone else?",
-      "url": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
-      "ts": 1795555860000
-    },
-    {
-      "time": "4:30 PM",
-      "title": "Investing.com — Mexico stocks higher at close of trade; S&P/BMV IPC up 0.03%",
-      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-003-5049091",
-      "ts": 1795555832000
-    },
-    {
-      "time": "4:30 PM",
-      "title": "Investing.com — Canada stocks lower at close of trade; S&P/TSX Composite down 0.35%",
-      "url": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-035-5049085",
-      "ts": 1795555805000
-    },
-    {
-      "time": "4:30 PM",
-      "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "ts": 1795555800000
     }
   ]
 }
