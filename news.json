@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 5:06 PM ET",
+  "generated_at": "Nov 24, 2026, 5:10 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795558014628,
+  "updated_ts": 1795558214971,
   "articles": [
     {
       "title": "Nvidia stock falls nearly 6% after Huang’s return sparks best day in over 23 years",
@@ -237,10 +237,16 @@
   ],
   "ticker": [
     {
-      "time": "5:04 PM",
+      "time": "5:07 PM",
       "title": "CNBC — Dell earnings beat on AI strength, company authorizes $25 billion buyback",
       "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-      "ts": 1795557849000
+      "ts": 1795558065000
+    },
+    {
+      "time": "5:07 PM",
+      "title": "WSJ Markets — Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
+      "url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
+      "ts": 1795558020000
     },
     {
       "time": "5:03 PM",
@@ -300,12 +306,6 @@
       "time": "4:55 PM",
       "title": "WSJ Markets — Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
       "url": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main",
-      "ts": 1795557300000
-    },
-    {
-      "time": "4:55 PM",
-      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main",
       "ts": 1795557300000
     }
   ]
