@@ -1,18 +1,43 @@
 {
-  "generated_at": "Nov 23, 2026, 5:05 PM ET",
+  "generated_at": "Nov 23, 2026, 10:25 PM ET",
   "date_key": "2026-11-23",
-  "caption": "Federal investment news and decisions from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
+  "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
     {
-      "title": "Why the Bank of Canada Should Stay Focused on Price Stability",
-      "url": "https://cdhowe.org/publication/why-the-bank-of-canada-should-stay-focused-on-price-stability/",
-      "image": "https://cdhowe.org/wp-content/uploads/2026/11/GI_figure_1123-150x150.png",
-      "source": "C.D. Howe Institute",
-      "badge": "CDH",
-      "analysis": true,
-      "sector": "Housing",
+      "title": "Federal government awards $2.2 million to company led by AI minister’s brother",
+      "url": "https://www.cp24.com/news/canada/2026/11/24/federal-government-awards-22-million-to-company-led-by-ai-ministers-brother/",
+      "image": "https://www.cp24.com/resizer/v2/M5H3J65Q3VEFZE6IZKWIVMAZKE.JPG?auth=53f1826dff8ae739a23a091c28a2ae7c943e0a1d2028606d41ad54e5e625b599&smart=true&width=4232&height=2821",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "AI & tech",
+      "time": "Nov 24",
+      "date": "2026-11-24T06:43:11.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Indigenous leaders raise consultation concerns over Bill C-39 in Senate hearings",
+      "url": "https://www.cp24.com/politics/2026/11/23/indigenous-leaders-raise-consultation-concerns-over-bill-c-39-in-senate-hearings/",
+      "image": "https://www.cp24.com/resizer/v2/QA2PTB2CPBGAZOUWTNUGQSJFGI.JPG?auth=69af0c62170e842e7d5da1bb8e0bc8e1542429c403e2f28357a717c9e542c93e&smart=true&width=5022&height=3348",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "Infrastructure",
       "time": "Nov 23",
-      "date": "2026-11-23T11:00:15.000Z"
+      "date": "2026-11-24T03:16:56.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
+      "url": "https://www.cbc.ca/news/politics/pentagon-criticizes-canadian-military-readiness-9.7433335?cmp=rss",
+      "image": "https://i.cbc.ca/ais/981af887-be87-4eae-bea5-79e107f3f6cc,1795476335739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C47%2C3519%2C1979%29%3B",
+      "source": "CBC News",
+      "badge": "CBC",
+      "analysis": false,
+      "sector": "Defence",
+      "time": "Nov 23",
+      "date": "2026-11-23T23:32:21.000Z",
+      "group": "sector"
     },
     {
       "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
@@ -23,18 +48,8 @@
       "analysis": false,
       "sector": "Infrastructure",
       "time": "Nov 20",
-      "date": "2026-11-20T23:59:54.000Z"
-    },
-    {
-      "title": "Stellantis would owe feds $831M if sale of Brampton, Ont., plant proceeds: source",
-      "url": "https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss",
-      "image": "https://i.cbc.ca/ais/13456d71-5dd1-46ed-9028-7f32aa838115,1794510200404/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C110%2C6720%2C3780%29%3B",
-      "source": "CBC News",
-      "badge": "CBC",
-      "analysis": false,
-      "sector": "Autos",
-      "time": "Nov 20",
-      "date": "2026-11-20T19:09:55.000Z"
+      "date": "2026-11-20T23:59:54.000Z",
+      "group": "sector"
     },
     {
       "title": "Government of Canada announces major investment in Ford Motor Company of Canada that will strengthen auto manufacturing in Ontario and Canada",
@@ -45,7 +60,8 @@
       "analysis": false,
       "sector": "Autos",
       "time": "Nov 20",
-      "date": "2026-11-20T16:36:44.000Z"
+      "date": "2026-11-20T16:36:44.000Z",
+      "group": "sector"
     },
     {
       "title": "Minister Champagne advances trade diversification and investment partnerships in the Gulf region",
@@ -56,7 +72,8 @@
       "analysis": false,
       "sector": "Trade",
       "time": "Nov 20",
-      "date": "2026-11-20T15:42:45.000Z"
+      "date": "2026-11-20T15:42:45.000Z",
+      "group": "sector"
     },
     {
       "title": "Some Good Free Trade News from Across the Pacific",
@@ -67,7 +84,20 @@
       "analysis": true,
       "sector": "Trade",
       "time": "Nov 20",
-      "date": "2026-11-20T11:00:03.000Z"
+      "date": "2026-11-20T11:00:03.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Canada’s Immigration Plan Explained: What Do the 2027 Targets Really Mean?",
+      "url": "https://cdhowe.org/publication/canadas-immigration-plan-explained-what-do-the-2027-targets-really-mean-2/",
+      "image": "",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Infrastructure",
+      "time": "Nov 19",
+      "date": "2026-11-19T22:17:13.000Z",
+      "group": "sector"
     },
     {
       "title": "Minister Joly to announce investment to expand Canada’s automobile industry",
@@ -78,7 +108,8 @@
       "analysis": false,
       "sector": "Autos",
       "time": "Nov 19",
-      "date": "2026-11-19T17:00:04.000Z"
+      "date": "2026-11-19T17:00:04.000Z",
+      "group": "sector"
     },
     {
       "title": "Joint Outcomes of the 2nd Canada-China Economic and Financial Strategic Dialogue",
@@ -89,7 +120,8 @@
       "analysis": false,
       "sector": "General",
       "time": "Nov 16",
-      "date": "2026-11-17T03:20:04.000Z"
+      "date": "2026-11-17T03:20:04.000Z",
+      "group": "sector"
     },
     {
       "title": "MADE | NOUS celebrates Canadian storytelling with new conversation series MADE/unmade with George Stroumboulopoulos",
@@ -100,7 +132,8 @@
       "analysis": false,
       "sector": "Media",
       "time": "Nov 12",
-      "date": "2026-11-12T14:00:00.000Z"
+      "date": "2026-11-12T14:00:00.000Z",
+      "group": "sector"
     },
     {
       "title": "Indigenous Screen Office, CMF renew partnership on Interactive and Immersive Program",
@@ -111,18 +144,80 @@
       "analysis": false,
       "sector": "Media",
       "time": "Nov 9",
-      "date": "2026-11-09T19:00:00.000Z"
+      "date": "2026-11-09T19:00:00.000Z",
+      "group": "sector"
     },
     {
-      "title": "David Lobo joins CDEV as Chief Operating Officer, Elena Palumbo as Chief Human Resources Officer",
-      "url": "https://cdev.gc.ca/david-lobo-joins-cdev-as-chief-operating-officer-elena-palumbo-as-chief-human-resources-officer/",
-      "image": "",
-      "source": "CDEV",
-      "badge": "CDEV",
+      "title": "Media Availability: Economic Club of Canada",
+      "url": "https://www.bankofcanada.ca/multimedia/media-availability-economic-club-of-canada/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2014/02/tiff-macklem.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
       "analysis": false,
-      "sector": "General",
-      "time": "Oct 29",
-      "date": "2026-10-29T16:43:32.000Z"
+      "sector": "Monetary",
+      "time": "Nov 24",
+      "date": "2026-11-24T14:00:14.000Z",
+      "group": "policy"
+    },
+    {
+      "title": "Speech by Tiff Macklem, Governor of the Bank of Canada",
+      "url": "https://www.bankofcanada.ca/2026/11/speech-tiff-macklem-governor-bank-canada-2026-11-24/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 24",
+      "date": "2026-11-24T12:40:55.000Z",
+      "group": "policy"
+    },
+    {
+      "title": "Speech: Economic Club of Canada",
+      "url": "https://www.bankofcanada.ca/multimedia/speech-economic-club-of-canada-2026-11-24/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2014/02/tiff-macklem.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 24",
+      "date": "2026-11-24T12:40:26.000Z",
+      "group": "policy"
+    },
+    {
+      "title": "Why the Bank of Canada Should Stay Focused on Price Stability",
+      "url": "https://cdhowe.org/publication/why-the-bank-of-canada-should-stay-focused-on-price-stability/",
+      "image": "https://cdhowe.org/wp-content/uploads/2026/11/GI_figure_1123-150x150.png",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Monetary",
+      "time": "Nov 23",
+      "date": "2026-11-23T11:00:15.000Z",
+      "group": "policy"
+    },
+    {
+      "title": "The Bank of Canada Got Its Framework Renewal Right. But Questions Remain",
+      "url": "https://cdhowe.org/publication/the-bank-of-canada-got-its-framework-renewal-right-but-questions-remain/",
+      "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-2158471757.jpg",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Monetary",
+      "time": "Nov 20",
+      "date": "2026-11-20T20:00:12.000Z",
+      "group": "policy"
+    },
+    {
+      "title": "Parliamentary Secretary Bardeesy highlights Government of Canada’s investments from Budget 2026: Masters of our destiny",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-bardeesy-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny.html",
+      "image": "",
+      "source": "ISED",
+      "badge": "ISED",
+      "analysis": false,
+      "sector": "Fiscal",
+      "time": "Nov 14",
+      "date": "2026-11-14T15:02:26.000Z",
+      "group": "policy"
     }
   ],
   "sources": [
@@ -143,6 +238,10 @@
       "url": "https://www.canada.ca/en/department-finance.html"
     },
     {
+      "title": "Bank of Canada",
+      "url": "https://www.bankofcanada.ca/press/"
+    },
+    {
       "title": "CDEV",
       "url": "https://cdev.gc.ca/"
     },
@@ -157,18 +256,13 @@
   ],
   "feed_status": [
     {
+      "source": "Bank of Canada",
+      "fetched": 20,
+      "kept": 3
+    },
+    {
       "source": "CBC News",
       "fetched": 40,
-      "kept": 2
-    },
-    {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 2
-    },
-    {
-      "source": "Canada Media Fund",
-      "fetched": 24,
       "kept": 2
     },
     {
@@ -177,19 +271,29 @@
       "kept": 1
     },
     {
-      "source": "ISED",
-      "fetched": 20,
+      "source": "Canada Media Fund",
+      "fetched": 24,
       "kept": 2
     },
     {
       "source": "C.D. Howe Institute",
       "fetched": 24,
-      "kept": 2
+      "kept": 4
     },
     {
       "source": "CP24",
       "fetched": 200,
-      "kept": 0
+      "kept": 2
+    },
+    {
+      "source": "Finance Canada",
+      "fetched": 20,
+      "kept": 4
+    },
+    {
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 4
     }
   ]
 }
