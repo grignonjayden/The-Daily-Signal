@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 1:13 PM ET",
+  "generated_at": "Nov 24, 2026, 1:16 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795544004530,
+  "updated_ts": 1795544206533,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -96,16 +96,6 @@
       "ts": 1795541210000
     },
     {
-      "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-      "snippet": "French drugmaker Sanofi on Tuesday agreed to pay $41 billion for U.S. biotech Insmed, a hefty price that will help the pharmaceutical giant offset the patent expiration on a key drug.",
-      "image": "https://images.mktw.net/im-84195130",
-      "time": "Nov 24, 10:21 AM",
-      "coverage": 4,
-      "ts": 1795533660000
-    },
-    {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
@@ -144,6 +134,16 @@
       "time": "Nov 24, 12:15 PM",
       "coverage": 2,
       "ts": 1795540500000
+    },
+    {
+      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+      "snippet": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+      "image": "https://images.mktw.net/im-39779425",
+      "time": "Nov 24, 12:10 PM",
+      "coverage": 2,
+      "ts": 1795540200000
     }
   ],
   "outlets": [
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:14 PM",
+      "title": "MarketWatch — The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+      "url": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+      "ts": 1795544040000
+    },
+    {
       "time": "1:04 PM",
       "title": "CNBC — Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
       "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — CFTC staff advisory says crypto can count toward reserves, not liquidity rule",
       "url": "https://www.investing.com/news/stock-market-news/cftc-staff-advisory-says-crypto-can-count-toward-reserves-not-liquidity-rule-5046749",
       "ts": 1795542143000
-    },
-    {
-      "time": "12:33 PM",
-      "title": "Globe and Mail — Telecom infrastructure is critical to Canada’s security and sovereignty, Joly says",
-      "url": "https://www.theglobeandmail.com/business/article-telecom-infrastructure-security-and-sovereignty-melanie-joly-ceos/",
-      "ts": 1795541581000
     }
   ]
 }
