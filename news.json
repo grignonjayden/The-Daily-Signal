@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 6:24 PM ET",
+  "generated_at": "Nov 24, 2026, 6:28 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795562675286,
+  "updated_ts": 1795562881610,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -63,16 +63,6 @@
       "time": "Nov 24, 12:51 PM",
       "coverage": 7,
       "ts": 1795542705000
-    },
-    {
-      "title": "Schumer accuses Nvidia CEO of violating US export control law",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law-5048879",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1Q1_L.jpg",
-      "time": "Nov 24, 5:18 PM",
-      "coverage": 5,
-      "ts": 1795558700000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
@@ -144,6 +134,16 @@
       "time": "Nov 24, 4:45 AM",
       "coverage": 4,
       "ts": 1795513527000
+    },
+    {
+      "title": "Dell lifts annual forecasts after record quarter on surging AI server demand",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1WQ_L.jpg",
+      "time": "Nov 24, 6:18 PM",
+      "coverage": 2,
+      "ts": 1795562301000
     }
   ],
   "outlets": [
