@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:47 AM ET",
+  "generated_at": "Nov 24, 2026, 8:51 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795528076805,
+  "updated_ts": 1795528276809,
   "articles": [
     {
       "title": "Six key questions raised by Jensen Huang's return to Nvidia",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "8:48 AM",
+      "title": "MarketWatch — Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+      "url": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+      "ts": 1795528080000
+    },
+    {
       "time": "8:45 AM",
       "title": "CNBC — Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
@@ -246,6 +252,12 @@
       "title": "CNBC — Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
       "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
       "ts": 1795527775000
+    },
+    {
+      "time": "8:41 AM",
+      "title": "Bloomberg — Market Timers Get Schooled as S&P 500 Swings Rip Up Playbooks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
+      "ts": 1795527719000
     },
     {
       "time": "8:41 AM",
@@ -294,18 +306,6 @@
       "title": "Investing.com — White House prepares sweeping new tariffs on China, EU, and dozens of nations",
       "url": "https://www.investing.com/news/stock-market-news/white-house-prepares-sweeping-new-tariffs-on-china-eu-and-dozens-of-nations-5048285",
       "ts": 1795526724000
-    },
-    {
-      "time": "8:25 AM",
-      "title": "Investing.com — Jensen 2.0",
-      "url": "https://www.investing.com/news/stock-market-news/jensen-20-5048292",
-      "ts": 1795526701000
-    },
-    {
-      "time": "8:24 AM",
-      "title": "Investing.com — Kulicke & Soffa: an underrated AI semiconductor pick with limited analyst coverage",
-      "url": "https://www.investing.com/news/stock-market-news/kulicke--soffa-an-underrated-ai-semiconductor-pick-with-limited-analyst-coverage-93CH-5048287",
-      "ts": 1795526694000
     }
   ]
 }
