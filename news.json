@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:32 AM ET",
+  "generated_at": "Nov 24, 2026, 10:35 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795534324203,
+  "updated_ts": 1795534524127,
   "articles": [
     {
       "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
@@ -237,10 +237,34 @@
   ],
   "ticker": [
     {
+      "time": "10:30 AM",
+      "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "ts": 1795534200000
+    },
+    {
       "time": "10:28 AM",
-      "title": "Bloomberg — Walking Clubs Are the Antidote to Fitness Culture (Video)",
+      "title": "Bloomberg — Walking Clubs Are the Antidote to Fitness Culture",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/walking-clubs-are-the-antidote-to-fitness-culture-video",
       "ts": 1795534109000
+    },
+    {
+      "time": "10:28 AM",
+      "title": "Bloomberg — New Balance Turns 'Dad Shoe' Into Trendy Hit With Gen Z",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/new-balance-turns-dad-shoe-into-trendy-hit-with-gen-z-video",
+      "ts": 1795534098000
+    },
+    {
+      "time": "10:27 AM",
+      "title": "Globe and Mail — Scotiabank, CIBC launch new offices abroad",
+      "url": "https://www.theglobeandmail.com/business/article-scotiabank-cibc-launch-new-offices-abroad/",
+      "ts": 1795534031000
+    },
+    {
+      "time": "10:25 AM",
+      "title": "CNBC — Quitting can actually be the key to success, says expert: It's one of the 'most courageous moves you can make'",
+      "url": "https://www.cnbc.com/make-it/2026/11/24/how-to-know-when-to-quit.html",
+      "ts": 1795533937000
     },
     {
       "time": "10:22 AM",
@@ -283,30 +307,6 @@
       "title": "Investing.com — Why is Salesforce stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-rallying-today-93CH-5048625",
       "ts": 1795533284000
-    },
-    {
-      "time": "10:12 AM",
-      "title": "Investing.com — Why is GE Vernova stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-ge-vernova-stock-sliding-today-93CH-5048620",
-      "ts": 1795533155000
-    },
-    {
-      "time": "10:12 AM",
-      "title": "Investing.com — Pentagon in talks with GM, Ford for military drones, WSJ reports",
-      "url": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-with-general-motors-and-ford-on-military-drones-wsj-reports-5047560",
-      "ts": 1795533147000
-    },
-    {
-      "time": "10:12 AM",
-      "title": "Bloomberg — Brazil Real Rallies on Reports Lula Backs Further Spending Curbs",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
-      "ts": 1795533121000
-    },
-    {
-      "time": "10:10 AM",
-      "title": "Investing.com — Why is Eli Lilly stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-eli-lilly-stock-rallying-today-93CH-5048619",
-      "ts": 1795533055000
     }
   ]
 }
