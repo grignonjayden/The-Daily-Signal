@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 11:59 AM ET",
+  "generated_at": "Nov 24, 2026, 12:02 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795539571536,
+  "updated_ts": 1795539777727,
   "articles": [
     {
       "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "12:01 PM",
+      "title": "CNBC — Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
+      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795539663000
+    },
+    {
       "time": "11:56 AM",
       "title": "Bloomberg — What Really Matters for the AI Trade Now? Live Q&A",
       "url": "https://www.bloomberg.com/sessions/2026-11-24/live-q-amp-a-is-the-ai-boom-too-dependent-on-nvidia",
@@ -253,12 +259,6 @@
       "title": "CNBC — Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
       "ts": 1795538929000
-    },
-    {
-      "time": "11:48 AM",
-      "title": "CNBC — Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
-      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795538923000
     },
     {
       "time": "11:48 AM",
