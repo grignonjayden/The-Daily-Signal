@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:54 AM ET",
+  "generated_at": "Nov 24, 2026, 8:57 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795528476736,
+  "updated_ts": 1795528676614,
   "articles": [
     {
       "title": "Six key questions raised by Jensen Huang's return to Nvidia",
@@ -10,7 +10,7 @@
       "snippet": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
       "image": "https://image.cnbcfm.com/api/v1/image/108550584-1794519112118-gettyimages-2297269641-TRUMP_TECH_AI.jpeg?v=1795450322&w=1920&h=1080",
       "time": "Nov 24, 8:31 AM",
-      "coverage": 6,
+      "coverage": 7,
       "ts": 1795527089000
     },
     {
@@ -20,7 +20,7 @@
       "snippet": "Trump got the CEO he wanted. Nvidia still has an investigation to finish. Plus, the outlook for AI jobs and why Medicare Advantage insurers missed Monday’s rally.",
       "image": "https://images.mktw.net/im-31029342",
       "time": "Nov 24, 7:21 AM",
-      "coverage": 6,
+      "coverage": 7,
       "ts": 1795522860000
     },
     {
@@ -30,8 +30,58 @@
       "snippet": "Jim Mellon is a billionaire investor with strong views on diverse asset classes. He’s bearish on the AI sector and U.S. stocks generally but he sees real value in Chinese equity markets and long-term Japanese…",
       "image": "https://images.mktw.net/im-68828902",
       "time": "Nov 24, 6:59 AM",
-      "coverage": 6,
+      "coverage": 7,
       "ts": 1795521540000
+    },
+    {
+      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
+      "snippet": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108557902-1795471379811-Kress_Huang.jpg?v=1795471502&w=1920&h=1080",
+      "time": "Nov 23, 9:21 PM",
+      "coverage": 7,
+      "ts": 1795486866000
+    },
+    {
+      "title": "Jensen Huang’s return could reignite AI semiconductor rally, analyst says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/jensen-huangs-return-could-reignite-ai-semiconductor-rally-analyst-says-5048329",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM4Q094_L.jpg",
+      "time": "Nov 24, 8:36 AM",
+      "coverage": 7,
+      "ts": 1795527392000
+    },
+    {
+      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
+      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
+      "image": "https://images.wsj.net/im-87333679",
+      "time": "Nov 23, 5:15 PM",
+      "coverage": 7,
+      "ts": 1795472100000
+    },
+    {
+      "title": "Jensen Huang’s Return Sparks Rally in Asia, but Concerns Remain",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main",
+      "snippet": "The risk posed by tighter U.S. restrictions on advanced chips hasn’t gone away, nor have concerns around AI financing, and fears of a market bubble.",
+      "image": "https://images.wsj.net/im-07909036",
+      "time": "Nov 24, 4:52 AM",
+      "coverage": 7,
+      "ts": 1795513920000
+    },
+    {
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 7,
+      "ts": 1795456173000
     },
     {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
@@ -44,54 +94,14 @@
       "ts": 1795519556000
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
-      "snippet": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108557902-1795471379811-Kress_Huang.jpg?v=1795471502&w=1920&h=1080",
-      "time": "Nov 23, 9:21 PM",
-      "coverage": 6,
-      "ts": 1795486866000
-    },
-    {
-      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
-      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
-      "image": "https://images.wsj.net/im-87333679",
-      "time": "Nov 23, 5:15 PM",
-      "coverage": 6,
-      "ts": 1795472100000
-    },
-    {
-      "title": "Jensen Huang’s Return Sparks Rally in Asia, but Concerns Remain",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main",
-      "snippet": "The risk posed by tighter U.S. restrictions on advanced chips hasn’t gone away, nor have concerns around AI financing, and fears of a market bubble.",
-      "image": "https://images.wsj.net/im-07909036",
-      "time": "Nov 24, 4:52 AM",
-      "coverage": 6,
-      "ts": 1795513920000
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 6,
-      "ts": 1795456173000
-    },
-    {
-      "title": "Nvidia’s decision to bring back Huang draws bipartisan criticism from U.S. lawmakers",
+      "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/us-politics/article-us-lawmakers-criticize-nvidia-decision-to-reinstate-jensen-huang/",
-      "snippet": "Prominent members of Congress say the move highlights need to probe potential wrongdoing, enact greater export controls",
-      "image": "https://www.theglobeandmail.com/resizer/v2/4SNX3QNKW5BJRGOGEONXVOJ67I.jpg?auth=72af63d2a4937e0969e17477550a9600948510ae859b4114947231b7e5296a75&smart=true&width=8192&height=5464",
-      "time": "Nov 23, 12:21 PM",
+      "url": "https://www.theglobeandmail.com/business/technology/article-nvidia-reinstates-jensen-huang-as-ceo-after-trump-intervention/",
+      "snippet": "Chipmaker’s shares soar as board continues investigation into allegations involving foreign intelligence",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TMVSVBWMHJB7BBNYQHEUJJI22M.JPG?auth=cc886863b6b81f085271c24364ca17f0edd1832fc454f9c54d0bd21045236d2e&smart=true&width=5792&height=3856",
+      "time": "Nov 23, 7:45 PM",
       "coverage": 6,
-      "ts": 1795454474000
+      "ts": 1795481121000
     },
     {
       "title": "Huang’s Return Hits the Reset Button for AI Bets",
@@ -101,7 +111,7 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 24, 6:33 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795520013000
     },
     {
@@ -111,8 +121,18 @@
       "snippet": "Major U.S. equity indexes are higher Monday after last week&apos;s steep AI sell-off, with investors eyeing Nvidia&apos;s recovery and Wednesday&apos;s PCE inflation report.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-historic-stock-market-selloff-1.jpg",
       "time": "Nov 23, 8:36 AM",
-      "coverage": 6,
+      "coverage": 7,
       "ts": 1795441018000
+    },
+    {
+      "title": "U.S. stock futures slide a day after Wall Street’s explosive rally",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg",
+      "time": "Nov 24, 8:34 AM",
+      "coverage": 5,
+      "ts": 1795527280000
     },
     {
       "title": "Stocks Fall as Nvidia Fades and Trade Fears Return: Markets Wrap",
@@ -124,25 +144,6 @@
       "time": "Nov 23, 5:06 PM",
       "coverage": 5,
       "ts": 1795471606000
-    },
-    {
-      "title": "FTSE 100 today: Stocks extend losses as miners slide on weaker metals prices",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-miners-slide-with-metals-5047340",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC2028Y_M.jpg",
-      "time": "Nov 24, 8:16 AM",
-      "coverage": 2,
-      "ts": 1795526169000
-    },
-    {
-      "title": "AMD near-term technical setup: bearish bias with oversold bounce potential",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/amd-nearterm-technical-setup-bearish-bias-with-oversold-bounce-potential-93CH-5048295",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM731RT_L.jpg",
-      "time": "Nov 24, 8:26 AM",
-      "ts": 1795526806000
     }
   ],
   "outlets": [
@@ -236,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "8:53 AM",
+      "title": "CNBC — Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "url": "https://www.cnbc.com/investingclub/2026/11/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "ts": 1795528417000
+    },
+    {
       "time": "8:51 AM",
       "title": "CNBC — Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
@@ -258,6 +265,12 @@
       "title": "CNBC — Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
       "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
       "ts": 1795527775000
+    },
+    {
+      "time": "8:42 AM",
+      "title": "Investing.com — Pentagon in talks with GM, Ford for military drones, WSJ reports",
+      "url": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-with-general-motors-and-ford-on-military-drones-wsj-reports-5047560",
+      "ts": 1795527757000
     },
     {
       "time": "8:41 AM",
@@ -294,18 +307,6 @@
       "title": "CNBC — Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
       "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
       "ts": 1795527206000
-    },
-    {
-      "time": "8:31 AM",
-      "title": "CNBC — Stocks making the biggest moves Tuesday: Nvidia, Anthropic, Best Buy & more",
-      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795527111000
-    },
-    {
-      "time": "8:28 AM",
-      "title": "Investing.com — Top analyst-favored midcap stock with meaningful target upside",
-      "url": "https://www.investing.com/news/stock-market-news/top-analystfavored-midcap-stock-with-meaningful-target-upside-93CH-5048297",
-      "ts": 1795526881000
     }
   ]
 }
