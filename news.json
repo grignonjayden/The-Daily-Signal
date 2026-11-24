@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 2:34 PM ET",
+  "generated_at": "Nov 24, 2026, 2:37 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795548871753,
+  "updated_ts": 1795549073299,
   "articles": [
+    {
+      "title": "Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
+      "time": "Nov 24, 2:31 PM",
+      "coverage": 5,
+      "ts": 1795548672000
+    },
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "source": "CNBC",
@@ -42,16 +52,6 @@
       "time": "Nov 24, 11:01 AM",
       "coverage": 5,
       "ts": 1795536060000
-    },
-    {
-      "title": "Schumer accuses Nvidia CEO of violating US export control law",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law-5048879",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1Q1_L.jpg",
-      "time": "Nov 24, 1:55 PM",
-      "coverage": 4,
-      "ts": 1795546505000
     },
     {
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "2:32 PM",
+      "title": "WSJ Markets — Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+      "ts": 1795548720000
+    },
+    {
       "time": "2:26 PM",
       "title": "CNBC — Retail turnarounds are taking hold just in time for the holiday season",
       "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
@@ -260,6 +266,12 @@
       "ts": 1795548239000
     },
     {
+      "time": "2:23 PM",
+      "title": "Investing.com — CoreWeave bonds hit record lows as AI trade concerns return",
+      "url": "https://www.investing.com/news/stock-market-news/coreweave-bonds-hit-record-lows-as-ai-trade-concerns-return-5048907",
+      "ts": 1795548201000
+    },
+    {
       "time": "2:21 PM",
       "title": "MarketWatch — Many people overlook this crucial piece of retirement planning — and it isn’t money",
       "url": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
@@ -270,6 +282,12 @@
       "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
       "ts": 1795547952000
+    },
+    {
+      "time": "2:16 PM",
+      "title": "Investing.com — Citadel Securities tops 2025 revenue record in 9 months",
+      "url": "https://www.investing.com/news/stock-market-news/citadel-securities-tops-2025-revenue-record-in-9-months-5048899",
+      "ts": 1795547802000
     },
     {
       "time": "2:15 PM",
@@ -288,24 +306,6 @@
       "title": "Bloomberg — Quant Funds Reduce US Treasury Short Bets, Fueling Bond Rally",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/trend-followers-dump-bond-shorts-as-stocks-swoon-aids-haven-bids",
       "ts": 1795547297000
-    },
-    {
-      "time": "2:06 PM",
-      "title": "Investing.com — Shein to pay $100 million to settle US shipping, customer service claims",
-      "url": "https://www.investing.com/news/stock-market-news/shein-to-pay-100-million-to-settle-us-claims-ftc-official-says-5048743",
-      "ts": 1795547199000
-    },
-    {
-      "time": "2:05 PM",
-      "title": "Investing.com — Dell, Micron among market cap stock movers on Tuesday",
-      "url": "https://www.investing.com/news/stock-market-news/dell-micron-among-market-cap-stock-movers-on-tuesday-93CH-5048886",
-      "ts": 1795547121000
-    },
-    {
-      "time": "2:02 PM",
-      "title": "MarketWatch — Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
-      "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
-      "ts": 1795546920000
     }
   ]
 }
