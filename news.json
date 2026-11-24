@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 10:18 AM ET",
+  "generated_at": "Nov 24, 2026, 10:22 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795533515970,
+  "updated_ts": 1795533723986,
   "articles": [
+    {
+      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
+      "snippet": "Kress led the company for 11 days during Huang’s sudden departure and steered Nvidia through billions in AI financing deals before that. Now she's back to CFO.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108557902-1795471379811-Kress_Huang.jpg?v=1795471502&w=1920&h=1080",
+      "time": "Nov 24, 10:19 AM",
+      "coverage": 7,
+      "ts": 1795533586000
+    },
     {
       "title": "Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
       "source": "Investing.com",
@@ -32,16 +42,6 @@
       "time": "Nov 24, 9:43 AM",
       "coverage": 7,
       "ts": 1795531433000
-    },
-    {
-      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-      "snippet": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108550584-1794519112118-gettyimages-2297269641-TRUMP_TECH_AI.jpeg?v=1795450322&w=1920&h=1080",
-      "time": "Nov 24, 8:31 AM",
-      "coverage": 7,
-      "ts": 1795527089000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "10:17 AM",
+      "title": "WSJ Markets — Dollar Could Rise Further in 2027 if Fed Lifts Rates",
+      "url": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
+      "ts": 1795533420000
+    },
+    {
       "time": "10:16 AM",
       "title": "WSJ Markets — U.S. Treasury Yields Tick Down Ahead of Inflation Data",
       "url": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Why is Netflix stock climbing today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-climbing-today-93CH-5048609",
       "ts": 1795532840000
-    },
-    {
-      "time": "10:05 AM",
-      "title": "CNBC — Commercial real estate activity falls 14% in October, as interest rates rise",
-      "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
-      "ts": 1795532714000
     }
   ]
 }
