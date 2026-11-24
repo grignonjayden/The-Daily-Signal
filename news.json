@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 1:26 PM ET",
+  "generated_at": "Nov 24, 2026, 1:30 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795544808355,
+  "updated_ts": 1795545009558,
   "articles": [
     {
       "title": "Nvidia’s Huang returns to cheers in China, but political hurdles mount",
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "1:23 PM",
+      "time": "1:27 PM",
       "title": "CNBC — Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
       "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-      "ts": 1795544638000
+      "ts": 1795544878000
     },
     {
       "time": "1:15 PM",
