@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 4:09 PM ET",
+  "generated_at": "Nov 24, 2026, 4:12 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795554555082,
+  "updated_ts": 1795554761884,
   "articles": [
     {
       "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
@@ -9,9 +9,9 @@
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
       "snippet": "U.S. stocks fell on Tuesday, giving back some of the sharp gains from the previous session that were sparked by Jensen Huang's return as Nvidia CEO.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558517-17955384902026-11-24t163620z_668368453_rc2duoa4bjw8_rtrmadp_0_usa-stocks.jpeg?v=1795538604&w=1920&h=1080",
-      "time": "Nov 24, 4:03 PM",
+      "time": "Nov 24, 4:12 PM",
       "coverage": 6,
-      "ts": 1795554193000
+      "ts": 1795554724000
     },
     {
       "title": "Nvidia shares fall over 5% as Huang comeback rally cools",
@@ -87,7 +87,7 @@
       "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "snippet": "Anthropic PBC shares sank as much as nearly 9% below their $83 initial public offering price, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
+      "snippet": "Anthropic PBC shares traded below their $83 initial public offering price for the first time, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 24, 6:19 AM",
@@ -157,6 +157,16 @@
   ],
   "official": [
     {
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+      "snippet": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 2:00 PM",
+      "ts": 1795546800000
+    },
+    {
       "title": "Farm income, 2025 (revised data)",
       "source": "Statistics Canada",
       "url": "https://www.statcan.gc.ca/daily-quotidien/261124/dq261124a-eng.htm",
@@ -173,6 +183,16 @@
       "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261124/cg261124b001-eng.png",
       "time": "Nov 24, 8:30 AM",
       "ts": 1795527000000
+    },
+    {
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "snippet": "Federal Reserve announces College Fed Challenge winners",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 20, 4:15 PM",
+      "ts": 1795209300000
     },
     {
       "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
