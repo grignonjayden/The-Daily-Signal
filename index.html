@@ -494,6 +494,7 @@
   .scroll-arrow { position: absolute; top: 50%; transform: translateY(-50%); z-index: 3; width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--line); background: var(--surface); color: var(--mint); box-shadow: var(--shadow-md); display: flex; align-items: center; justify-content: center; font-size: 20px; font-weight: 800; line-height: 1; cursor: pointer; padding: 0; opacity: 0.96; transition: opacity .2s var(--ease); -webkit-tap-highlight-color: transparent; }
   .scroll-arrow.left { left: -6px; } .scroll-arrow.right { right: -6px; }
   .scroll-arrow[hidden] { display: none; }
+  @media (max-width: 700px) { .pulse-scroll::after { content: ''; flex: none; width: var(--end-pad, 0px); } }
   .scroll-arrow.right:not([hidden]) { animation: arrowNudge 1.6s ease-in-out 3; }
   @keyframes arrowNudge { 0%,100% { transform: translateY(-50%); } 50% { transform: translate(4px,-50%); } }
   /* Key Times */
@@ -2284,13 +2285,28 @@ setInterval(function () { if (['markets', 'crypto', 'government'].includes(activ
     l.setAttribute('aria-label', 'Scroll left'); r.setAttribute('aria-label', 'Scroll right');
     l.type = r.type = 'button';
     // Move exactly one card and line its left edge up with the row's left edge.
+    var phone = window.matchMedia('(max-width: 700px)');
     function step(dir) {
+      if (phone.matches) return stepCentered(dir);
       var base = sc.getBoundingClientRect().left, cur = sc.scrollLeft, target = null;
       var pos = [].map.call(sc.children, function (c) { return c.getBoundingClientRect().left - base + cur; });
       if (dir > 0) { for (var i = 0; i < pos.length; i++) if (pos[i] > cur + 4) { target = pos[i]; break; } }
       else { for (var j = pos.length - 1; j >= 0; j--) if (pos[j] < cur - 4) { target = pos[j]; break; } }
       if (target === null) target = dir > 0 ? sc.scrollWidth : 0;
       sc.scrollTo({ left: Math.max(0, target), behavior: 'smooth' });
+    }
+    // Phones: move one card and park it in the middle, between the two arrows.
+    function stepCentered(dir) {
+      var cards = [].slice.call(sc.children); if (!cards.length) return;
+      var base = sc.getBoundingClientRect().left, cur = sc.scrollLeft, mid = cur + sc.clientWidth / 2;
+      var info = cards.map(function (c) { var r = c.getBoundingClientRect(); return { left: r.left - base + cur, w: r.width }; });
+      var at = 0, best = Infinity;
+      info.forEach(function (c, i) { var d = Math.abs(c.left + c.w / 2 - mid); if (d < best) { best = d; at = i; } });
+      var next = Math.max(0, Math.min(info.length - 1, at + dir));
+      var last = info[info.length - 1], gap = parseFloat(getComputedStyle(sc).columnGap) || 0;
+      sc.style.setProperty('--end-pad', Math.max(0, (sc.clientWidth - last.w) / 2 - gap) + 'px'); // room for the last card to sit centred
+      var c = info[next], max = sc.scrollWidth - sc.clientWidth;
+      sc.scrollTo({ left: Math.max(0, Math.min(max, c.left + c.w / 2 - sc.clientWidth / 2)), behavior: 'smooth' });
     }
     l.onclick = function () { step(-1); };
     r.onclick = function () { step(1); };
