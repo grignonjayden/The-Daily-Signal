@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 3:04 PM ET",
+  "generated_at": "Nov 24, 2026, 3:08 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795550699148,
+  "updated_ts": 1795550901611,
   "articles": [
+    {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
+      "time": "Nov 24, 3:04 PM",
+      "coverage": 5,
+      "ts": 1795550671000
+    },
     {
       "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
       "source": "Investing.com",
@@ -12,16 +22,6 @@
       "time": "Nov 24, 2:49 PM",
       "coverage": 5,
       "ts": 1795549745000
-    },
-    {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
-      "time": "Nov 24, 2:44 PM",
-      "coverage": 5,
-      "ts": 1795549474000
     },
     {
       "title": "Nvidia’s Jensen Huang apologizes to employees, says he is in therapy",
