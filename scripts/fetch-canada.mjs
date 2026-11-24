@@ -225,15 +225,16 @@ const SECTORS = [
 
 // ---------- Deals in the works (headlines from Canadian news and federal sources) ----------
 const GC = (dept) => `https://api.io.canada.ca/io-server/gc/news/en/v2?dept=${dept}&sort=publishedDate&orderBy=desc&pick=20&format=atom`;
+const GOV_MAX_DAYS = 4; // News-tab government stories older than 4 days drop off
 const DEAL_FEEDS = [
   { source: 'CBC News', badge: 'CBC', news: true, urls: ['https://www.cbc.ca/webfeed/rss/rss-business', 'https://www.cbc.ca/webfeed/rss/rss-politics'] },
   { source: 'CP24', badge: 'CP24', news: true, urls: ['https://www.cp24.com/arc/outboundfeeds/rss/?outputType=xml', 'https://www.cp24.com/arc/outboundfeeds/rss/category/news/?outputType=xml'] },
   { source: 'ISED', badge: 'ISED', urls: [GC('departmentofindustry'), GC('departmentindustry'), GC('innovationscienceeconomicdevelopment')] },
   { source: 'Finance Canada', badge: 'FIN', urls: [GC('departmentfinance')] },
-  { source: 'CDEV', badge: 'CDEV', maxDays: 90, urls: ['https://cdev.gc.ca/feed/', 'https://www.cdev.gc.ca/feed/'] },
-  { source: 'Canada Media Fund', badge: 'CMF', maxDays: 45, urls: ['https://cmf-fmc.ca/feed/', 'https://cmf-fmc.ca/news/feed/'] },
+  { source: 'CDEV', badge: 'CDEV', urls: ['https://cdev.gc.ca/feed/', 'https://www.cdev.gc.ca/feed/'] },
+  { source: 'Canada Media Fund', badge: 'CMF', urls: ['https://cmf-fmc.ca/feed/', 'https://cmf-fmc.ca/news/feed/'] },
   { source: 'C.D. Howe Institute', badge: 'CDH', analysis: true, urls: ['https://www.cdhowe.org/feed', 'https://www.cdhowe.org/rss.xml'] },
-  { source: 'Bank of Canada', badge: 'BoC', policyOnly: true, maxDays: 45, urls: ['https://www.bankofcanada.ca/content_type/press/feed/', 'https://www.bankofcanada.ca/content_type/press-releases/feed/'] },
+  { source: 'Bank of Canada', badge: 'BoC', policyOnly: true, urls: ['https://www.bankofcanada.ca/content_type/press/feed/', 'https://www.bankofcanada.ca/content_type/press-releases/feed/'] },
 ];
 // Canadian economic policy: monetary (Bank of Canada, rates, inflation) and fiscal (budget, taxes, deficit, spending).
 const MONETARY_RE = /bank of canada|macklem|interest rates?|rate (cut|hike|hold|decision)|policy rate|monetary|inflation|price stability|\bCPI\b/i;
@@ -315,7 +316,7 @@ async function deals() {
     const seen = new Set();
     const keep = got.filter(i => {
       if (seen.has(i.title)) return false; seen.add(i.title);
-      if (!i.date || i.date < Date.now() - (f.maxDays || 21) * 864e5) return false;
+      if (!i.date || i.date < Date.now() - GOV_MAX_DAYS * 864e5) return false;
       const t = i.title + ' ' + i.summary;
       if (f.policyOnly) return !/availability|advisory|webcast|upcoming|blackout|appoint|museum|bank note|unclaimed|^speech:/i.test(i.title);
       if (isPolicy(i.title)) return true;
@@ -328,7 +329,7 @@ async function deals() {
     keep.splice(0, keep.length, ...keep.filter(i => !f.policyOnly && !isPolicy(i.title)).slice(0, 2), ...pol);
     feedStatus.push({ source: f.source, fetched: got.length, kept: keep.length });
     if (!got.length) { // source down this run: keep its last stories (still within the age window)
-      const old = ((prevGov && prevGov.items) || []).filter(a => a.source === f.source && Date.parse(a.date || 0) > Date.now() - (f.maxDays || 21) * 864e5);
+      const old = ((prevGov && prevGov.items) || []).filter(a => a.source === f.source && Date.parse(a.date || 0) > Date.now() - GOV_MAX_DAYS * 864e5);
       old.forEach(a => all.push({ ...a, image: BAD_IMG.test(a.image || '') ? '' : a.image, ts: Date.parse(a.date) }));
       return;
     }

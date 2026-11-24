@@ -2,15 +2,15 @@ name: Update news
 
 on:
   schedule:
-    - cron: '18,48 * * * *'   # starts twice an hour (off-peak minutes); each run then refreshes every 5 min for ~30 min,
-                              # so the page stays fresh even when GitHub skips or delays scheduled runs
+    - cron: '18,48 * * * *'   # backup starts; GitHub often skips these, so each run also restarts itself (see the last step)
   workflow_dispatch:          # lets you run it by hand from the Actions tab
   push:                       # also runs right away when its script changes
     branches: [main]
-    paths: ['scripts/fetch-news.mjs']
+    paths: ['scripts/fetch-news.mjs', '.github/workflows/update-news.yml']
 
 permissions:
   contents: write
+  actions: write              # so the run can start the next one
 
 concurrency:
   group: update-news
@@ -19,23 +19,38 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Fetch and commit news every 5 minutes for ~30 minutes
+      # Headlines refresh every 3 minutes; government stories (Industry Moves / Economic Policy) every ~30 minutes.
+      # One run lasts about 5.5 hours, then hands off to a fresh run, so updates keep going around the clock.
+      - name: Refresh news every 3 minutes for ~5.5 hours
         run: |
           git config user.name "daily-signal-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for round in 1 2 3 4 5 6 7; do
+          end=$(( $(date +%s) + 330*60 ))
+          round=0
+          while [ "$(date +%s)" -lt "$end" ]; do
+            round=$((round + 1))
             git pull -q --rebase origin main || true
-            node scripts/fetch-news.mjs || echo "fetch failed this round"
-            git add news.json
+            node scripts/fetch-news.mjs || echo "news fetch failed this round"
+            files="news.json"
+            if [ $((round % 10)) = 1 ]; then
+              node scripts/fetch-canada.mjs || echo "government fetch failed this round"
+              files="news.json canada.json government.json"
+            fi
+            git add $files
             if git diff --cached --quiet; then echo "No changes"; else
               git commit -q -m "Update news $(date -u +'%Y-%m-%d %H:%M UTC')"
               for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 7; done
             fi
-            [ "$round" = 7 ] || sleep 290
+            sleep 175
           done
+      - name: Start the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run update-news.yml --ref main -R "$GITHUB_REPOSITORY" || echo "could not start next run; the schedule will pick it up"

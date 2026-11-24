@@ -31,7 +31,7 @@ const PER_SOURCE = 2;    // cap per outlet so one source can't take over the lis
 const MAX_OFFICIAL = 8;  // "Official releases" card
 const OFFICIAL_PER_SOURCE = 2;
 const MAX_TICKER = 12;   // rows in "Throughout the Day"
-const MAX_AGE_DAYS = 7;
+const MAX_AGE_DAYS = 4; // stories older than 4 days drop off
 const TZ = 'America/Toronto';
 
 const decode = s => s
@@ -240,6 +240,7 @@ const card = a => ({
   title: a.title, source: a.source, url: a.url, snippet: a.snippet, image: a.image || undefined, fallback_image: a.fallback_image || undefined,
   time: fmt(a.date, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' }),
   coverage: a.coverage > 1 ? a.coverage : undefined,
+  ts: a.date.getTime(),
 });
 const out = {
   generated_at: fmt(now, { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' ET',
@@ -250,7 +251,7 @@ const out = {
   official: official.map(card),
   ticker: ticker.map(t => {
     const sameDay = t.date.toLocaleDateString('en-CA', { timeZone: TZ }) === now.toLocaleDateString('en-CA', { timeZone: TZ });
-    return { time: fmt(t.date, sameDay ? { hour: 'numeric', minute: '2-digit' } : { month: 'short', day: 'numeric' }), title: t.source + ' — ' + t.title, url: t.url };
+    return { time: fmt(t.date, sameDay ? { hour: 'numeric', minute: '2-digit' } : { month: 'short', day: 'numeric' }), title: t.source + ' — ' + t.title, url: t.url, ts: t.date.getTime() };
   }),
 };
 

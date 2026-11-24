@@ -1507,7 +1507,10 @@ function newsThumb(a, official) {
   return wrap;
 }
 
+const NEWS_MAX_MS = 4 * 864e5; // News tab: stories older than 4 days are hidden
+function freshOnly(list, when) { return (list || []).filter(a => { const t = when(a); return !t || Date.now() - t < NEWS_MAX_MS; }); }
 function renderNews(data, dateKey) {
+  data = { ...data, articles: freshOnly(data.articles, a => a.ts), official: freshOnly(data.official, a => a.ts), ticker: freshOnly(data.ticker, a => a.ts) };
   if (data.date_key) dateKey = data.date_key;
   dateline.textContent = 'News dispatch for ' + fmtDateHuman(dateKey) + ' · generated ' + (data.generated_at || '');
   mainPanel.innerHTML = '';
@@ -1921,7 +1924,7 @@ function govGroup(a) {
   return 'sector';
 }
 function buildGovWidgets(data) {
-  const all = data.items || [];
+  const all = freshOnly(data.items, a => Date.parse(a.date || '') || 0);
   const out = [];
   const sector = all.filter(a => govGroup(a) === 'sector');
   const policy = all.filter(a => govGroup(a) === 'policy').map(a => /Monetary|Fiscal/.test(a.sector) ? a : { ...a, sector: /bank of canada|rate|inflation|monetary|price stability/i.test(a.title) ? 'Monetary' : 'Fiscal' });
