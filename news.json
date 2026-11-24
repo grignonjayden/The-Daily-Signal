@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 11:52 AM ET",
+  "generated_at": "Nov 24, 2026, 11:56 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795539169491,
+  "updated_ts": 1795539369441,
   "articles": [
     {
       "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "11:51 AM",
+      "title": "Bloomberg — European Gas Surges as Cold Snap Threatens Tight Winter Supplies",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/european-gas-surges-as-cold-snap-threatens-supplies-video",
+      "ts": 1795539101000
+    },
+    {
       "time": "11:48 AM",
       "title": "CNBC — Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — CFTC finalises permanent data-reporting rules for event contracts",
       "url": "https://www.investing.com/news/stock-market-news/cftc-finalises-permanent-datareporting-rules-for-event-contracts-5046713",
       "ts": 1795537121000
-    },
-    {
-      "time": "11:18 AM",
-      "title": "MarketWatch — Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-      "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-      "ts": 1795537080000
     }
   ]
 }
