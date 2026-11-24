@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 5:00 PM ET",
+  "generated_at": "Nov 24, 2026, 5:03 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795557601571,
+  "updated_ts": 1795557814375,
   "articles": [
     {
       "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
@@ -55,14 +55,14 @@
       "ts": 1795551400000
     },
     {
-      "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-      "snippet": "U.S. stocks fell on Tuesday, giving back some of the sharp gains from the previous session that were sparked by Jensen Huang's return as Nvidia CEO.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558517-17955384902026-11-24t163620z_668368453_rc2duoa4bjw8_rtrmadp_0_usa-stocks.jpeg?v=1795538604&w=1920&h=1080",
-      "time": "Nov 24, 4:16 PM",
-      "coverage": 6,
-      "ts": 1795555010000
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+      "snippet": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
+      "time": "Nov 24, 12:51 PM",
+      "coverage": 7,
+      "ts": 1795542705000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -237,6 +237,36 @@
   ],
   "ticker": [
     {
+      "time": "5:03 PM",
+      "title": "CNBC — Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+      "ts": 1795557781000
+    },
+    {
+      "time": "5:02 PM",
+      "title": "CNBC — Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+      "ts": 1795557777000
+    },
+    {
+      "time": "4:59 PM",
+      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main",
+      "ts": 1795557540000
+    },
+    {
+      "time": "4:58 PM",
+      "title": "Bloomberg — US Readies Tariff Hike on China, EU Goods",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video",
+      "ts": 1795557495000
+    },
+    {
+      "time": "4:58 PM",
+      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
+      "ts": 1795557480000
+    },
+    {
       "time": "4:56 PM",
       "title": "WSJ Markets — Financial Services Roundup: Market Talk",
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main",
@@ -253,12 +283,6 @@
       "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
       "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main",
       "ts": 1795557300000
-    },
-    {
-      "time": "4:54 PM",
-      "title": "CNBC — Saudi national charged in OpenAI bugging to be released on $1 million bond",
-      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-      "ts": 1795557289000
     },
     {
       "time": "4:53 PM",
@@ -283,30 +307,6 @@
       "title": "MarketWatch — HPE just posted its strongest growth ever — but its stock is sinking",
       "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
       "ts": 1795556700000
-    },
-    {
-      "time": "4:42 PM",
-      "title": "WSJ Markets — U.S. Treasury Yields Mixed Ahead of Inflation, GDP Data",
-      "url": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
-      "ts": 1795556520000
-    },
-    {
-      "time": "4:39 PM",
-      "title": "Globe and Mail — Huawei guilty of conspiracy to steal trade secrets, U.S. jury finds",
-      "url": "https://www.theglobeandmail.com/world/article-huawei-conspiracy-trade-secrets/",
-      "ts": 1795556367000
-    },
-    {
-      "time": "4:36 PM",
-      "title": "Bloomberg — Quant Funds Are Having a Hard Time Keeping Up With This Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market",
-      "ts": 1795556182000
-    },
-    {
-      "time": "4:32 PM",
-      "title": "WSJ Markets — U.S. Stocks Mixed as Huang Relief Rally Fades",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main",
-      "ts": 1795555920000
     }
   ]
 }
