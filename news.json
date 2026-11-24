@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 2:14 PM ET",
+  "generated_at": "Nov 24, 2026, 2:17 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795547657241,
+  "updated_ts": 1795547863099,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -236,10 +236,22 @@
   ],
   "ticker": [
     {
+      "time": "2:14 PM",
+      "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+      "ts": 1795547644000
+    },
+    {
       "time": "2:11 PM",
       "title": "Globe and Mail — Who has the best market forecast? You do",
       "url": "https://www.theglobeandmail.com/investing/personal-finance/article-who-has-the-best-market-forecast-you-do/",
       "ts": 1795547485000
+    },
+    {
+      "time": "2:04 PM",
+      "title": "CNBC — Trump wanted Jensen Huang back. Now, he's all alone in Washington",
+      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+      "ts": 1795547053000
     },
     {
       "time": "2:02 PM",
@@ -294,18 +306,6 @@
       "title": "WSJ Markets — U.S. Treasury Auction of 5-Year Note Shows Slightly Soft Demand",
       "url": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
       "ts": 1795545480000
-    },
-    {
-      "time": "1:34 PM",
-      "title": "CNBC — Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-      "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-      "ts": 1795545295000
-    },
-    {
-      "time": "1:34 PM",
-      "title": "CNBC — Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-      "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-      "ts": 1795545283000
     }
   ]
 }
