@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 2:03 PM ET",
+  "generated_at": "Nov 24, 2026, 2:07 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795547028206,
+  "updated_ts": 1795547227042,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "2:02 PM",
+      "title": "MarketWatch — Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
+      "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+      "ts": 1795546920000
+    },
+    {
       "time": "1:52 PM",
       "title": "WSJ Markets — Gold Futures Give Back Gains Following Nvidia-Driven Rally",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
@@ -300,12 +306,6 @@
       "title": "MarketWatch — Micron’s stock falls as an analyst warns about a future supply glut",
       "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
       "ts": 1795545180000
-    },
-    {
-      "time": "1:32 PM",
-      "title": "CNBC — Katie Stockton sees a comeback ahead for this beaten-down tech stock",
-      "url": "https://www.cnbc.com/2026/11/24/katie-stockton-sees-a-comeback-ahead-for-this-beaten-down-tech-stock.html",
-      "ts": 1795545152000
     }
   ]
 }
