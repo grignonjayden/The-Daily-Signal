@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:28 AM ET",
+  "generated_at": "Nov 24, 2026, 9:31 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795530499044,
+  "updated_ts": 1795530701075,
   "articles": [
     {
       "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "9:29 AM",
+      "title": "Globe and Mail — Bonus payments for trades workers going out early next month",
+      "url": "https://www.theglobeandmail.com/canada/article-bonus-payments-for-trades-workers-going-out-early-next-month/",
+      "ts": 1795530547000
+    },
+    {
+      "time": "9:28 AM",
+      "title": "MarketWatch — The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+      "url": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+      "ts": 1795530480000
+    },
+    {
       "time": "9:21 AM",
       "title": "CNBC — Stock futures decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Cerberus Capital agrees to buy Airbus space unit in Florida",
       "url": "https://www.investing.com/news/stock-market-news/cerberus-capital-agrees-to-buy-airbus-space-unit-in-florida-5048422",
       "ts": 1795529150000
-    },
-    {
-      "time": "9:05 AM",
-      "title": "Globe and Mail — La Caisse invests $30-million in Montreal furniture company Cozey",
-      "url": "https://www.theglobeandmail.com/business/article-la-caisse-invests-30-million-in-montreal-furniture-company-cozey/",
-      "ts": 1795529106000
-    },
-    {
-      "time": "9:04 AM",
-      "title": "Investing.com — U.S. stock futures slide a day after Wall Street’s explosive rally",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
-      "ts": 1795529050000
     }
   ]
 }
