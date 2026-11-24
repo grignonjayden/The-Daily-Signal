@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:48 AM ET",
+  "generated_at": "Nov 24, 2026, 9:51 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795531710373,
+  "updated_ts": 1795531909920,
   "articles": [
     {
       "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
@@ -44,16 +44,6 @@
       "ts": 1795527089000
     },
     {
-      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
-      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
-      "image": "https://images.wsj.net/im-87333679",
-      "time": "Nov 23, 5:15 PM",
-      "coverage": 7,
-      "ts": 1795472100000
-    },
-    {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
@@ -74,14 +64,14 @@
       "ts": 1795519556000
     },
     {
-      "title": "Nvidia’s decision to bring back Huang draws bipartisan criticism from U.S. lawmakers",
+      "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/us-politics/article-us-lawmakers-criticize-nvidia-decision-to-reinstate-jensen-huang/",
-      "snippet": "Prominent members of Congress say the move highlights need to probe potential wrongdoing, enact greater export controls",
-      "image": "https://www.theglobeandmail.com/resizer/v2/4SNX3QNKW5BJRGOGEONXVOJ67I.jpg?auth=72af63d2a4937e0969e17477550a9600948510ae859b4114947231b7e5296a75&smart=true&width=8192&height=5464",
-      "time": "Nov 23, 12:21 PM",
-      "coverage": 7,
-      "ts": 1795454474000
+      "url": "https://www.theglobeandmail.com/business/technology/article-nvidia-reinstates-jensen-huang-as-ceo-after-trump-intervention/",
+      "snippet": "Chipmaker’s shares soar as board continues investigation into allegations involving foreign intelligence",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TMVSVBWMHJB7BBNYQHEUJJI22M.JPG?auth=cc886863b6b81f085271c24364ca17f0edd1832fc454f9c54d0bd21045236d2e&smart=true&width=5792&height=3856",
+      "time": "Nov 23, 7:45 PM",
+      "coverage": 6,
+      "ts": 1795481121000
     },
     {
       "title": "Stocks soar on Jensen Huang’s return to Nvidia",
@@ -102,6 +92,16 @@
       "time": "Nov 23, 5:25 PM",
       "coverage": 6,
       "ts": 1795472700000
+    },
+    {
+      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
+      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
+      "image": "https://images.wsj.net/im-87333679",
+      "time": "Nov 23, 5:15 PM",
+      "coverage": 6,
+      "ts": 1795472100000
     },
     {
       "title": "Stocks Fall as Nvidia Fades and Trade Fears Return: Markets Wrap",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "9:50 AM",
+      "title": "CNBC — Nasdaq declines as Nvidia slides, giving back part of Monday’s rally: Live updates",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "ts": 1795531809000
+    },
+    {
       "time": "9:46 AM",
       "title": "CNBC — Signal joins United Airlines, banks in limiting AI agents over customer risks",
       "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
@@ -249,12 +255,6 @@
       "title": "Globe and Mail — George Weston profit rises, boosted by Loblaw’s sale of PC Financial",
       "url": "https://www.theglobeandmail.com/business/article-george-weston-profit-rises-boosted-by-loblaws-sale-of-pc-financial/",
       "ts": 1795531393000
-    },
-    {
-      "time": "9:39 AM",
-      "title": "CNBC — Stocks decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
-      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-      "ts": 1795531162000
     },
     {
       "time": "9:38 AM",
@@ -273,6 +273,18 @@
       "title": "CNBC — Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
       "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
       "ts": 1795530905000
+    },
+    {
+      "time": "9:31 AM",
+      "title": "Bloomberg — Codelco Offers Lower Copper Premiums to Revive Sales to China",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/codelco-offers-lower-copper-premiums-to-revive-sales-to-china",
+      "ts": 1795530700000
+    },
+    {
+      "time": "9:31 AM",
+      "title": "Bloomberg — EDF Unit Plans €1 Billion Forge as New Nuclear Push Readied",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/edf-unit-plans-1-billion-forge-as-new-nuclear-push-readied",
+      "ts": 1795530676000
     },
     {
       "time": "9:29 AM",
@@ -297,18 +309,6 @@
       "title": "Investing.com — BNP Paribas cuts Micron rating on risks to 2028 hyperscaler capacity plans",
       "url": "https://www.investing.com/news/stock-market-news/bnp-paribas-cuts-micron-rating-on-risks-to-2028-hyperscaler-capacity-plans-5048466",
       "ts": 1795530184000
-    },
-    {
-      "time": "9:22 AM",
-      "title": "Investing.com — Why is Anthropic stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-anthropic-stock-sliding-today-93CH-5048464",
-      "ts": 1795530146000
-    },
-    {
-      "time": "9:17 AM",
-      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "ts": 1795529820000
     }
   ]
 }
