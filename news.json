@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 1:23 PM ET",
+  "generated_at": "Nov 24, 2026, 1:26 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795544605537,
+  "updated_ts": 1795544808355,
   "articles": [
     {
       "title": "Nvidia’s Huang returns to cheers in China, but political hurdles mount",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:23 PM",
+      "title": "CNBC — Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+      "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+      "ts": 1795544638000
+    },
+    {
       "time": "1:15 PM",
       "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
@@ -259,12 +265,6 @@
       "title": "Investing.com — Analog Devices earnings analysis: questions answered and next catalysts",
       "url": "https://www.investing.com/news/stock-market-news/analog-devices-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048853",
       "ts": 1795543548000
-    },
-    {
-      "time": "1:04 PM",
-      "title": "CNBC — Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-      "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-      "ts": 1795543460000
     },
     {
       "time": "1:00 PM",
