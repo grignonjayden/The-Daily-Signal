@@ -1951,7 +1951,7 @@ function buildGovWidget(items, title, icon, sub, data, withSources) {
   return widget;
 }
 
-// Simple dot + title + text rows (Why DS, Week in review).
+// Simple dot + title + text rows (Why TDS, Week in review).
 function plainRows(w, list) {
   list.forEach((r, i) => {
     const item = el('div', { className: 'item' });
@@ -1961,6 +1961,7 @@ function plainRows(w, list) {
     const body = el('div', { className: 'item-body' });
     body.appendChild(el('p', { className: 'item-title', text: r[0] }));
     body.appendChild(el('p', { className: 'item-summary', text: r[1] }));
+    if (r[3]) { const a = el('a', { href: r[3], text: 'Visit the site ↗' }); a.className = 'why-link'; a.target = '_blank'; a.rel = 'noopener'; body.appendChild(a); }
     item.appendChild(body); w.appendChild(item);
   });
 }
@@ -2098,16 +2099,16 @@ document.addEventListener('click', e => {
 document.addEventListener('keydown', e => { if (e.key === 'Escape') { const p = document.querySelector('.gl-pop'); if (p) p.remove(); } });
 new MutationObserver(() => applyGlossary()).observe(mainPanel, { childList: true, subtree: true });
 
-// Why DS tab — a plain-language explainer of the project (static, no data file).
+// Why TDS tab — a plain-language explainer of the project (static, no data file).
 function renderWhy() {
-  dateline.textContent = 'Why DS · what this is, who it’s for and how it works';
+  dateline.textContent = 'Why TDS · what this is, who it’s for and how it works';
   mainPanel.innerHTML = '';
   const card = (span, icon, bg, fg, title) => { const w = widgetShell(span, icon, bg, fg, title); mainPanel.appendChild(w); return w; };
   const para = (w, t) => w.appendChild(el('p', { className: 'item-summary why-p', text: t }));
   const rows = plainRows;
 
   const intro = card('w-span-12', 'signal', 'var(--sky-soft)', 'var(--sky)', 'What is The Daily Signal?');
-  para(intro, 'The Daily Signal is a free daily briefing on markets, crypto and the news, written for Canadians who don’t work in finance. Financial news is loud, full of jargon and easy to tune out. DS cuts it down to what moved, why it matters and where to read more, in plain language and on one simple page.');
+  para(intro, 'The Daily Signal is a free daily briefing on markets, crypto and the news, written for Canadians who don’t work in finance. Financial news is loud, full of jargon and easy to tune out. TDS cuts it down to what moved, why it matters and where to read more, in plain language and on one simple page.');
 
   const who = card('w-span-6', 'people', 'var(--lavender-soft)', 'var(--lavender)', 'Who it’s for');
   rows(who, [
@@ -2136,11 +2137,19 @@ function renderWhy() {
   rows(rules, [
     ['Real sources only', 'Every number and story links back to where it came from, so you can check it yourself.', 'var(--sky)'],
     ['Plain language', 'If a term needs explaining, the “What does this mean?” buttons explain it.', 'var(--sky)'],
-    ['Not investment advice', 'DS explains what happened. It never tells you what to buy or sell.', 'var(--sky)']
+    ['Not investment advice', 'TDS explains what happened. It never tells you what to buy or sell.', 'var(--sky)']
+  ]);
+
+  const learn = card('w-span-12', 'maple', 'var(--pink-soft)', 'var(--pink-deep)', 'Go to the source: three sites every Canadian should know');
+  para(learn, 'Most of the numbers on TDS start on three free government websites. News stories usually quote these sites, but learning to use them yourself means you can check a headline, look up numbers for your own province, and find out what a decision means for you without waiting for someone to explain it.');
+  rows(learn, [
+    ['Statistics Canada · statcan.gc.ca', 'Canada’s official numbers on prices, jobs, wages, housing and population. Look up inflation or unemployment for your own province or city, compare your rent or grocery costs to the national picture, and see the real figure behind a headline. The Daily (its morning release page) shows what came out today in plain summaries.', '#D52B1E', 'https://www.statcan.gc.ca/en/start'],
+    ['Government of Canada · canada.ca', 'Where Ottawa announces budgets, programs and decisions first, before anyone summarizes them. It is also where you find benefits and credits you may qualify for, like the GST/HST credit, the Canada Child Benefit or programs for first-time home buyers, and where you manage your taxes with the CRA.', '#D52B1E', 'https://www.canada.ca/en.html'],
+    ['Bank of Canada · bankofcanada.ca', 'The Bank sets the interest rate that moves mortgages, car loans, lines of credit and savings rates, eight times a year. Its site explains each decision in plain language and has handy free tools, like an inflation calculator (what $100 from years ago is worth today) and daily exchange rates for the loonie.', '#D52B1E', 'https://www.bankofcanada.ca/']
   ]);
 
   const build = card('w-span-6', 'lightbulb', 'var(--pink-soft)', 'var(--pink-deep)', 'Behind the build');
-  para(build, 'DS was designed and built by Jayden Grignon, one module at a time: first the daily briefing, then live updates, then the Canadian focus. Prices and headlines come from public data feeds that update automatically, and the written analysis is researched with Claude, an AI assistant, then published to the site several times a day. The whole project is open on GitHub.');
+  para(build, 'TDS was designed and built by Jayden Grignon, one module at a time: first the daily briefing, then live updates, then the Canadian focus. Prices and headlines come from public data feeds that update automatically, and the written analysis is researched with Claude, an AI assistant, then published to the site several times a day. The whole project is open on GitHub.');
   const link = el('a', { href: 'https://github.com/grignonjayden/The-Daily-Signal', text: 'See the project on GitHub ↗' });
   link.className = 'why-link';
   build.appendChild(link);
@@ -2152,7 +2161,7 @@ const TAB_CONFIG = {
   news: { label: 'News', icon: 'frontpage', color: '#2F63D6', data: TODAYS_NEWS, render: renderNews },
   canada: { label: 'Canada', icon: 'maple', color: '#D52B1E', data: TODAYS_CANADA, render: renderCanada },
   government: { label: 'Industry Moves from Ottawa', icon: 'parliament', color: '#7B4FB8', data: TODAYS_GOV, render: (d, k) => TAB_CONFIG.news.render(TAB_CONFIG.news.data, k), hidden: true }, // shown inside News
-  why: { label: 'Why DS', icon: 'lightbulb', color: '#0F8B8D', data: {}, render: renderWhy, isStatic: true }
+  why: { label: 'Why TDS', icon: 'lightbulb', color: '#0F8B8D', data: {}, render: renderWhy, isStatic: true }
 };
 let activeTab = 'markets';
 let generatedToday = false;
