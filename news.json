@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 2:44 PM ET",
+  "generated_at": "Nov 24, 2026, 2:48 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795549480143,
+  "updated_ts": 1795549690184,
   "articles": [
+    {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
+      "time": "Nov 24, 2:44 PM",
+      "coverage": 5,
+      "ts": 1795549474000
+    },
     {
       "title": "Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
       "source": "Investing.com",
@@ -12,16 +22,6 @@
       "time": "Nov 24, 2:31 PM",
       "coverage": 5,
       "ts": 1795548672000
-    },
-    {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
-      "time": "Nov 24, 2:26 PM",
-      "coverage": 5,
-      "ts": 1795548380000
     },
     {
       "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "2:47 PM",
+      "title": "CNBC — Anthropic shares fall below IPO price. Traders see even more pain",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+      "ts": 1795549634000
+    },
+    {
       "time": "2:32 PM",
       "title": "WSJ Markets — Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
@@ -248,6 +254,12 @@
       "ts": 1795548685000
     },
     {
+      "time": "2:27 PM",
+      "title": "CNBC — Buffer ETFs protect investors from the harshest market swings – for a price",
+      "url": "https://www.cnbc.com/2026/11/24/buffer-etfs-downside-protection.html",
+      "ts": 1795548445000
+    },
+    {
       "time": "2:26 PM",
       "title": "CNBC — Retail turnarounds are taking hold just in time for the holiday season",
       "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
@@ -258,12 +270,6 @@
       "title": "CNBC — Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
       "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
       "ts": 1795548386000
-    },
-    {
-      "time": "2:26 PM",
-      "title": "CNBC — Anthropic shares fall below IPO price. Traders see even more pain",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
-      "ts": 1795548381000
     },
     {
       "time": "2:23 PM",
@@ -300,12 +306,6 @@
       "title": "CNBC — Investors are fleeing this data center stock. I see an opportunity",
       "url": "https://www.cnbc.com/2026/11/24/investors-are-fleeing-this-data-center-stock-i-see-an-opportunity.html",
       "ts": 1795547712000
-    },
-    {
-      "time": "2:11 PM",
-      "title": "Globe and Mail — Who has the best market forecast? You do",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-who-has-the-best-market-forecast-you-do/",
-      "ts": 1795547485000
     }
   ]
 }
