@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 12:29 PM ET",
+  "generated_at": "Nov 24, 2026, 12:33 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795541386188,
+  "updated_ts": 1795541587108,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -236,10 +236,40 @@
   ],
   "ticker": [
     {
+      "time": "12:30 PM",
+      "title": "CNBC — Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "ts": 1795541426000
+    },
+    {
+      "time": "12:30 PM",
+      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "ts": 1795541400000
+    },
+    {
+      "time": "12:28 PM",
+      "title": "WSJ Markets — Health Care Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-0f197179?mod=rss_markets_main",
+      "ts": 1795541280000
+    },
+    {
       "time": "12:27 PM",
       "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
       "ts": 1795541260000
+    },
+    {
+      "time": "12:27 PM",
+      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main",
+      "ts": 1795541220000
+    },
+    {
+      "time": "12:25 PM",
+      "title": "Bloomberg — Crispier Chicken and Remodels Pit McDonald's Against Franchisees",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-remodel-pits-company-against-franchisees-video",
+      "ts": 1795541150000
     },
     {
       "time": "12:24 PM",
@@ -276,36 +306,6 @@
       "title": "Investing.com — Ford in talks with the Pentagon to supply military vehicles",
       "url": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-with-general-motors-and-ford-on-military-drones-wsj-reports-5047560",
       "ts": 1795540372000
-    },
-    {
-      "time": "12:12 PM",
-      "title": "Investing.com — Wendy’s hit with US class action over menu pricing",
-      "url": "https://www.investing.com/news/stock-market-news/wendys-hit-with-us-class-action-overmenu-pricing-5048785",
-      "ts": 1795540346000
-    },
-    {
-      "time": "12:12 PM",
-      "title": "Investing.com — Why is JetBlue Airways stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-jetblue-airways-stock-climbing-today-93CH-5048784",
-      "ts": 1795540326000
-    },
-    {
-      "time": "12:11 PM",
-      "title": "Investing.com — MongoDB options signal 14% move ahead of Dec. 1 earnings",
-      "url": "https://www.investing.com/news/stock-market-news/mongodb-options-signal-14-move-ahead-of-dec-1-earnings-93CH-5048783",
-      "ts": 1795540269000
-    },
-    {
-      "time": "12:10 PM",
-      "title": "MarketWatch — ‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-      "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-      "ts": 1795540200000
-    },
-    {
-      "time": "12:09 PM",
-      "title": "Investing.com — Marvell options signal 8.3% move ahead of Dec. 1 earnings",
-      "url": "https://www.investing.com/news/stock-market-news/marvell-options-signal-83-move-ahead-of-dec-1-earnings-93CH-5048781",
-      "ts": 1795540195000
     }
   ]
 }

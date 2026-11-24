@@ -1,11 +1,11 @@
 {
-  "generated_at": "Nov 24, 2026, 11:59 AM ET",
+  "generated_at": "Nov 24, 2026, 12:33 PM ET",
   "date_key": "2026-11-24",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
     {
-      "title": "James Moore: A tariff deal? Some questions for Prime Minister Mark Carney",
-      "url": "https://www.cp24.com/news/canada/2026/11/24/james-moore-a-tariff-deal-some-questions-for-prime-minister-mark-carney/",
+      "title": "James Moore: Some urgent questions for Mark Carney before a tariff deal with the U.S.",
+      "url": "https://www.cp24.com/news/canada/2026/11/24/james-moore-some-urgent-questions-for-mark-carney-before-a-tariff-deal-with-the-us/",
       "image": "https://www.cp24.com/resizer/v2/AI5Q33VQS5EDVJBSFAEXX2YEWQ.JPG?auth=eefa7f43a7dbf2d050a6f84039a37afd64cf3a57b53ec5a0dabf44cb840ab948&smart=true&width=4716&height=3144",
       "source": "CP24",
       "badge": "CP24",
@@ -16,15 +16,15 @@
       "group": "sector"
     },
     {
-      "title": "House Democrat expands investigation into Donald Trump Jr.'s investment firm",
-      "url": "https://www.cp24.com/news/world/2026/11/24/house-democrat-expands-investigation-into-donald-trump-jrs-investment-firm/",
-      "image": "https://www.cp24.com/resizer/v2/D7AVGEE4VDVLBSUP3G5P7CNJGY.jpg?auth=16515fca25b0517b2134eb52cd4ca77d93a10e9ca6c7a3b2e8b40585f245e3a3&smart=true&width=1400&height=933",
+      "title": "Ottawa company lands $4.5M military drone contract as it ramps up production",
+      "url": "https://www.cp24.com/news/canada/2026/11/24/ottawa-company-lands-45m-military-drone-contract-as-it-ramps-up-production/",
+      "image": "https://www.cp24.com/resizer/v2/47PV5GNTRNGNLDAVPVHCPFTOLY.jpeg?auth=6b7793ae1a4e526f5d38ad4661d812eebbcf6296439672ffdce4dc26b3211712&smart=true&width=1286&height=723",
       "source": "CP24",
       "badge": "CP24",
       "analysis": false,
-      "sector": "General",
+      "sector": "Defence",
       "time": "Nov 24",
-      "date": "2026-11-24T17:44:50.000Z",
+      "date": "2026-11-24T19:43:17.000Z",
       "group": "sector"
     },
     {
@@ -124,6 +124,30 @@
       "group": "policy"
     },
     {
+      "title": "Canada’s monetary policy framework: A trusted anchor in uncertain waters",
+      "url": "https://www.bankofcanada.ca/2026/11/canadas-monetary-policy-framework-a-trusted-anchor-in-uncertain-waters/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 24",
+      "date": "2026-11-24T12:35:21.000Z",
+      "group": "policy"
+    },
+    {
+      "title": "Keeping inflation low and stable in an uncertain world",
+      "url": "https://www.bankofcanada.ca/2026/11/keeping-inflation-low-and-stable-in-an-uncertain-world/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 24",
+      "date": "2026-11-24T12:25:17.000Z",
+      "group": "policy"
+    },
+    {
       "title": "Why the Bank of Canada Should Stay Focused on Price Stability",
       "url": "https://cdhowe.org/publication/why-the-bank-of-canada-should-stay-focused-on-price-stability/",
       "image": "https://cdhowe.org/wp-content/uploads/2026/11/GI_figure_1123-150x150.png",
@@ -145,30 +169,6 @@
       "sector": "Monetary",
       "time": "Nov 20",
       "date": "2026-11-20T20:00:12.000Z",
-      "group": "policy"
-    },
-    {
-      "title": "Bank of Canada Media Interview – Barrie 360",
-      "url": "https://www.bankofcanada.ca/2026/11/bank-canada-media-interview-barrie-360-2026-11-19/",
-      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
-      "source": "Bank of Canada",
-      "badge": "BoC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 19",
-      "date": "2026-11-19T16:00:58.000Z",
-      "group": "policy"
-    },
-    {
-      "title": "Setting the scenario: Monetary policy communications in uncertain times",
-      "url": "https://www.bankofcanada.ca/2026/11/setting-the-scenario-monetary-policy-communications-in-uncertain-times/",
-      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
-      "source": "Bank of Canada",
-      "badge": "BoC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 18",
-      "date": "2026-11-18T12:30:41.000Z",
       "group": "policy"
     }
   ],
@@ -213,14 +213,14 @@
       "kept": 3
     },
     {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
       "source": "CBC News",
       "fetched": 40,
       "kept": 2
+    },
+    {
+      "source": "Finance Canada",
+      "fetched": 20,
+      "kept": 4
     },
     {
       "source": "CDEV",
@@ -228,9 +228,9 @@
       "kept": 0
     },
     {
-      "source": "Canada Media Fund",
-      "fetched": 24,
-      "kept": 1
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 2
     },
     {
       "source": "ISED",
@@ -238,14 +238,14 @@
       "kept": 4
     },
     {
+      "source": "Canada Media Fund",
+      "fetched": 24,
+      "kept": 1
+    },
+    {
       "source": "C.D. Howe Institute",
       "fetched": 24,
       "kept": 4
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 2
     }
   ]
 }
