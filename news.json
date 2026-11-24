@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 6:41 PM ET",
+  "generated_at": "Nov 24, 2026, 6:44 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795563683146,
+  "updated_ts": 1795563891770,
   "articles": [
     {
       "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "6:41 PM",
+      "title": "Bloomberg — US Readies Tariff Hike on China, EU Goods",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video-mwvca1k8",
+      "ts": 1795563719000
+    },
+    {
       "time": "6:34 PM",
       "title": "MarketWatch — Dell’s stock rises as the AI boom helps sales more than double",
       "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Why is Autodesk stock sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-autodesk-stock-sliding-today-93CH-5049306",
       "ts": 1795560834000
-    },
-    {
-      "time": "5:52 PM",
-      "title": "Investing.com — Why is HP stock gaining today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-hp-stock-gaining-today-93CH-5049304",
-      "ts": 1795560722000
     }
   ]
 }
