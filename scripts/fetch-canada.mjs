@@ -233,7 +233,17 @@ const DEAL_FEEDS = [
   { source: 'CDEV', badge: 'CDEV', maxDays: 90, urls: ['https://cdev.gc.ca/feed/', 'https://www.cdev.gc.ca/feed/'] },
   { source: 'Canada Media Fund', badge: 'CMF', maxDays: 45, urls: ['https://cmf-fmc.ca/feed/', 'https://cmf-fmc.ca/news/feed/'] },
   { source: 'C.D. Howe Institute', badge: 'CDH', analysis: true, urls: ['https://www.cdhowe.org/feed', 'https://www.cdhowe.org/rss.xml'] },
+  { source: 'Bank of Canada', badge: 'BoC', policyOnly: true, maxDays: 45, urls: ['https://www.bankofcanada.ca/content_type/press/feed/', 'https://www.bankofcanada.ca/content_type/press-releases/feed/'] },
 ];
+// Canadian economic policy: monetary (Bank of Canada, rates, inflation) and fiscal (budget, taxes, deficit, spending).
+const MONETARY_RE = /bank of canada|macklem|interest rates?|rate (cut|hike|hold|decision)|policy rate|monetary|inflation|price stability|\bCPI\b/i;
+const FISCAL_RE = /budget|deficit|fiscal|\btax(es|ation)?\b|\bGST\b|\bHST\b|federal (spending|debt|finances)|public debt|economic (update|statement)|spending (cuts?|review)/i;
+const CANADA_RE = /canad|ottawa|federal|carney|champagne|macklem|\bCRA\b|provinc/i;
+const NOT_CANADA_RE = /federal reserve|\bthe fed\b|powell|\bfomc\b|u\.s\. (budget|deficit|treasury)|trump('s)? (tax|budget)/i;
+const isPolicy = t => (MONETARY_RE.test(t) || FISCAL_RE.test(t)) && CANADA_RE.test(t) && !NOT_CANADA_RE.test(t);
+// Monetary stories are always policy; fiscal ones only when no specific industry is named in the headline.
+const groupOf = (title, sector, source) => source === 'Bank of Canada' || (MONETARY_RE.test(title) && !NOT_CANADA_RE.test(title)) ? 'policy'
+  : FISCAL_RE.test(title) && (sector === 'Budget' || sector === 'General') && !NOT_CANADA_RE.test(title) ? 'policy' : 'sector';
 const DEAL_RE = /invest|fund|billion|million|\bdeal\b|agreement|partnership|contract|procure|acqui|stake|loan|major project|MOU|memorandum|build canada|canada strong/i;
 const FED_RE = /federal|ottawa|carney|crown corp|canada strong|major projects|champagne|joly|government of canada/i;
 const ANALYSIS_RE = /invest|budget|fiscal|defence|housing|energy|trade|tariff|productivity|infrastructure|\bAI\b|mineral|major project|sovereign/i;
@@ -307,10 +317,15 @@ async function deals() {
       if (seen.has(i.title)) return false; seen.add(i.title);
       if (!i.date || i.date < Date.now() - (f.maxDays || 21) * 864e5) return false;
       const t = i.title + ' ' + i.summary;
+      if (f.policyOnly) return !/advisory|webcast|upcoming|blackout|appoint|museum|bank note|unclaimed/i.test(i.title);
+      if (isPolicy(i.title)) return true;
       if (f.news) return DEAL_RE.test(t) && FED_RE.test(t) && !/trump administration|american samoa/i.test(i.title);
       if (f.analysis) return ANALYSIS_RE.test(t);
       return DEAL_RE.test(t);
-    }).sort((a, b) => b.date - a.date).slice(0, 2);
+    }).sort((a, b) => b.date - a.date);
+    // up to 2 industry stories and 2 policy stories per source
+    const pol = keep.filter(i => f.policyOnly || isPolicy(i.title)).slice(0, f.policyOnly ? 3 : 2);
+    keep.splice(0, keep.length, ...keep.filter(i => !f.policyOnly && !isPolicy(i.title)).slice(0, 2), ...pol);
     feedStatus.push({ source: f.source, fetched: got.length, kept: keep.length });
     if (!got.length) { // source down this run: keep its last stories (still within the age window)
       const old = ((prevGov && prevGov.items) || []).filter(a => a.source === f.source && Date.parse(a.date || 0) > Date.now() - (f.maxDays || 21) * 864e5);
@@ -320,12 +335,19 @@ async function deals() {
     keep.forEach(i => all.push({
       title: i.title, url: i.url, image: i.image || '', source: f.source, badge: f.badge, analysis: !!f.analysis,
       sector: (SECTOR_TAGS.find(([, re]) => re.test(i.title)) || SECTOR_TAGS.find(([, re]) => re.test(i.summary)) || ['General'])[0],
+      policy: f.policyOnly || isPolicy(i.title),
       time: i.date.toLocaleDateString('en-CA', { month: 'short', day: 'numeric', timeZone: TZ }), date: i.date.toISOString(), ts: i.date.getTime(),
     }));
   }));
   all.sort((a, b) => b.ts - a.ts);
   if (!all.length) throw new Error('Deals: no headlines');
-  const top = all.slice(0, 14);
+  all.forEach(a => {
+    if (a.policy) a.sector = MONETARY_RE.test(a.title) || a.source === 'Bank of Canada' ? 'Monetary' : 'Fiscal';
+    a.group = a.policy ? 'policy' : groupOf(a.title, a.sector, a.source);
+    if (a.group === 'policy' && !/Monetary|Fiscal/.test(a.sector)) a.sector = MONETARY_RE.test(a.title) ? 'Monetary' : 'Fiscal';
+    delete a.policy;
+  });
+  const top = [...all.filter(a => a.group === 'sector').slice(0, 12), ...all.filter(a => a.group === 'policy').slice(0, 6)];
   await Promise.all(top.filter(a => !a.image).map(async a => { a.image = await pageImage(a.url); }));
   console.log('Deal pictures:', top.filter(a => a.image).length + '/' + top.length);
   top.forEach(a => console.log(' ', a.source, a.image ? 'photo' : 'none', a.url));
@@ -371,11 +393,11 @@ const sections = [
 if (dealItems.length) writeFileSync(GOV_OUT, JSON.stringify({
   generated_at: now.toLocaleString('en-US', { timeZone: TZ, month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' }) + ' ET',
   date_key: todayIso,
-  caption: 'Federal investment news and decisions from CBC, CP24, ISED, Finance Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day',
+  caption: 'Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day',
   items: dealItems,
   sources: [
     { title: 'CBC News', url: 'https://www.cbc.ca/news/business' }, { title: 'CP24', url: 'https://www.cp24.com/' },
-    { title: 'ISED', url: 'https://ised-isde.canada.ca/site/ised/en' }, { title: 'Finance Canada', url: 'https://www.canada.ca/en/department-finance.html' },
+    { title: 'ISED', url: 'https://ised-isde.canada.ca/site/ised/en' }, { title: 'Finance Canada', url: 'https://www.canada.ca/en/department-finance.html' }, { title: 'Bank of Canada', url: 'https://www.bankofcanada.ca/press/' },
     { title: 'CDEV', url: 'https://cdev.gc.ca/' }, { title: 'Canada Media Fund', url: 'https://cmf-fmc.ca/' }, { title: 'C.D. Howe Institute', url: 'https://www.cdhowe.org/' },
   ],
   feed_status: feedStatus,

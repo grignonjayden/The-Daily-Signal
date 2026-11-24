@@ -1531,9 +1531,8 @@ function renderNews(data, dateKey) {
   widget.appendChild(el('p', { className: 'live-updated', text: freshness(data.updated_ts, 'Updated ' + (data.generated_at || '')) + ' · Ranked by how many outlets are covering a story and how recent it is, with at most 2 stories per outlet and opinion columns left out' + (Array.isArray(data.outlets) && data.outlets.length ? ' · Outlets: ' + data.outlets.join(', ') : '') }));
   mainPanel.appendChild(widget);
 
-  // Ottawa's Sector Moves (formerly the Government Decisions tab)
-  const gov = buildGovWidget(TODAYS_GOV_LIVE());
-  if (gov) mainPanel.appendChild(gov);
+  // Industry Moves from Ottawa + Canada's Economic Policy (formerly the Government Decisions tab)
+  buildGovWidgets(TODAYS_GOV_LIVE()).forEach(w => mainPanel.appendChild(w));
 
   // Official releases — Fed, Bank of Canada, Finance Canada, StatCan, SEC
   if (Array.isArray(data.official) && data.official.length) {
@@ -1879,16 +1878,35 @@ function renderCanada(data, dateKey) {
   mainPanel.appendChild(note);
 }
 
-// Ottawa's Sector Moves (inside News) — federal investment news from government.json (same GitHub Action as Canada).
+// Industry Moves from Ottawa + Canada's Economic Policy (inside News) — federal news from government.json (same GitHub Action as Canada).
 const TODAYS_GOV = { generated_at: '', items: [] };
 function TODAYS_GOV_LIVE() { return TAB_CONFIG.government.data || TODAYS_GOV; }
-const GOV_SECTOR_ART = { Defence: 'shield', Housing: 'home', Energy: 'bolt', Minerals: 'gem', 'AI & tech': 'chip', Autos: 'car', Media: 'film', Infrastructure: 'drill', Trade: 'coin', Budget: 'bank', General: 'parliament' };
-// Shown inside the News tab as "Ottawa's Sector Moves" (returns null until government.json has items).
-function buildGovWidget(data) {
-  const items = data.items || [];
+const GOV_SECTOR_ART = { Monetary: 'bank', Fiscal: 'coin', Defence: 'shield', Housing: 'home', Energy: 'bolt', Minerals: 'gem', 'AI & tech': 'chip', Autos: 'car', Media: 'film', Infrastructure: 'drill', Trade: 'coin', Budget: 'bank', General: 'parliament' };
+// Shown inside the News tab (returns null when a group has no stories).
+// Each story is either 'sector' (one industry) or 'policy' (Canadian monetary or fiscal policy).
+function govGroup(a) {
+  if (a.group) return a.group;
+  const t = a.title || '';
+  if (/federal reserve|\bthe fed\b|powell/i.test(t)) return 'sector';
+  if (/bank of canada|macklem|interest rates?|rate (cut|hike|hold|decision)|monetary|inflation|price stability/i.test(t)) return 'policy';
+  if (/budget|deficit|fiscal|\btax(es)?\b|\bGST\b|economic (update|statement)/i.test(t) && /Budget|General/.test(a.sector || 'General')) return 'policy';
+  return 'sector';
+}
+function buildGovWidgets(data) {
+  const all = data.items || [];
+  const out = [];
+  const sector = all.filter(a => govGroup(a) === 'sector');
+  const policy = all.filter(a => govGroup(a) === 'policy').map(a => /Monetary|Fiscal/.test(a.sector) ? a : { ...a, sector: /bank of canada|rate|inflation|monetary|price stability/i.test(a.title) ? 'Monetary' : 'Fiscal' });
+  const w1 = buildGovWidget(sector, 'Industry Moves from Ottawa', 'parliament', 'Canadian federal decisions that affect a big part of one industry, like autos, housing, energy or media.', data, !policy.length);
+  const w2 = buildGovWidget(policy, 'Canada’s Economic Policy', 'bank', 'Monetary policy (the Bank of Canada’s interest rates and inflation fight) and fiscal policy (Ottawa’s budget, taxes and spending).', data, true);
+  if (w1) out.push(w1);
+  if (w2) out.push(w2);
+  return out;
+}
+function buildGovWidget(items, title, icon, sub, data, withSources) {
   if (!items.length) return null;
-  const widget = widgetShell('w-span-12', 'parliament', 'var(--sky-soft)', 'var(--sky)', 'Ottawa’s Sector Moves', items.length);
-  widget.appendChild(el('p', { className: 'item-summary gov-sub', text: 'Federal government decisions that affect a big part of one Canadian industry, like housing, energy or autos.' }));
+  const widget = widgetShell('w-span-12', icon, 'var(--sky-soft)', 'var(--sky)', title, items.length);
+  widget.appendChild(el('p', { className: 'item-summary gov-sub', text: sub }));
   const list = el('div', { className: 'news-list' });
   items.forEach((a, i) => {
     const card = el('a', { className: 'news-card has-thumb', href: a.url || '#' });
@@ -1922,6 +1940,7 @@ function buildGovWidget(data) {
     more.onclick = () => { const open = extra[0].hidden; extra.forEach(c => { c.hidden = !open; }); more.textContent = open ? 'Show fewer' : 'Show all ' + items.length; };
     widget.appendChild(more);
   }
+  if (!withSources) return widget;
   if (data.caption || data.generated_at) widget.appendChild(el('p', { className: 'live-updated', text: [data.caption, data.generated_at ? 'Updated ' + data.generated_at : ''].filter(Boolean).join(' · ') + ' · tap a headline for the full story' }));
   if ((data.sources || []).length) {
     const note = el('p', { className: 'live-updated' });
@@ -2109,7 +2128,7 @@ function renderWhy() {
   rows(tabs, [
     ['Markets', 'How stocks did today, which sectors led, the biggest movers and the themes behind them.', '#1E9E5A'],
     ['Crypto', 'Bitcoin, Ethereum and the rest of the top 100, with live prices and the day’s biggest swings.', '#F2930F'],
-    ['News', 'The latest business headlines, Ottawa’s Sector Moves (federal decisions that shake up a Canadian industry) and official releases, each linked to the original story.', '#2F63D6'],
+    ['News', 'The latest business headlines, Industry Moves from Ottawa (federal decisions that shake up one industry), Canada’s Economic Policy (interest rates, budgets and taxes) and official releases, each linked to the original story.', '#2F63D6'],
     ['Canada', 'Everyday Canadian numbers, like gas, interest rates and groceries, with their sources.', '#D52B1E']
   ]);
 
@@ -2132,7 +2151,7 @@ const TAB_CONFIG = {
   crypto: { label: 'Crypto', icon: 'bitcoin', color: '#F2930F', data: TODAYS_CRYPTO, render: renderCrypto },
   news: { label: 'News', icon: 'frontpage', color: '#2F63D6', data: TODAYS_NEWS, render: renderNews },
   canada: { label: 'Canada', icon: 'maple', color: '#D52B1E', data: TODAYS_CANADA, render: renderCanada },
-  government: { label: 'Ottawa’s Sector Moves', icon: 'parliament', color: '#7B4FB8', data: TODAYS_GOV, render: (d, k) => TAB_CONFIG.news.render(TAB_CONFIG.news.data, k), hidden: true }, // shown inside News
+  government: { label: 'Industry Moves from Ottawa', icon: 'parliament', color: '#7B4FB8', data: TODAYS_GOV, render: (d, k) => TAB_CONFIG.news.render(TAB_CONFIG.news.data, k), hidden: true }, // shown inside News
   why: { label: 'Why DS', icon: 'lightbulb', color: '#0F8B8D', data: {}, render: renderWhy, isStatic: true }
 };
 let activeTab = 'markets';
