@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:38 AM ET",
+  "generated_at": "Nov 24, 2026, 10:42 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795534726156,
+  "updated_ts": 1795534926133,
   "articles": [
     {
       "title": "Nvidia shares fall over 5% after Huang comeback rally",
@@ -262,6 +262,12 @@
     },
     {
       "time": "10:28 AM",
+      "title": "Bloomberg — LME Tightens Rules on Big Positions to Address Aluminum Squeeze",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/lme-tightens-rules-on-big-positions-to-address-aluminum-squeeze",
+      "ts": 1795534107000
+    },
+    {
+      "time": "10:28 AM",
       "title": "Bloomberg — New Balance Turns 'Dad Shoe' Into Trendy Hit With Gen Z",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/new-balance-turns-dad-shoe-into-trendy-hit-with-gen-z-video",
       "ts": 1795534098000
@@ -301,12 +307,6 @@
       "title": "CNBC — Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
       "ts": 1795533749000
-    },
-    {
-      "time": "10:21 AM",
-      "title": "Investing.com — Why is Oracle stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-oracle-stock-sliding-today-93CH-5048639",
-      "ts": 1795533704000
     }
   ]
 }
