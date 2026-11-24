@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 11:19 AM ET",
+  "generated_at": "Nov 24, 2026, 11:22 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795537153620,
+  "updated_ts": 1795537353810,
   "articles": [
     {
       "title": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
@@ -125,6 +125,17 @@
       "ts": 1795536025000
     },
     {
+      "title": "McDonald's Moves on Makeover; Dick's Sporting Goods Up on Earnings | Stock Movers",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/mcdonald-s-makeover-dick-s-sporting-goods-earnings-video",
+      "snippet": "On this episode of Stock Movers: - Anthropic (ANT) shares are lower and briefly traded below their $83 initial public offering price in premarket trading, wiping out gains for investors who piled into the artificial…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 11:13 AM",
+      "coverage": 2,
+      "ts": 1795536804000
+    },
+    {
       "title": "Retail stocks surge into Black Friday amid earnings beats",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/retail-stocks-surge-into-black-friday-amid-earnings-beats-5048699",
@@ -133,17 +144,6 @@
       "time": "Nov 24, 11:07 AM",
       "coverage": 2,
       "ts": 1795536461000
-    },
-    {
-      "title": "Hg’s Visma Plans Up to €6.5 Billion Debt Sale With UK IPO on Ice",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/hg-s-visma-plans-up-to-6-5-billion-debt-sale-with-uk-ipo-on-ice",
-      "snippet": "Hg-owned Visma AS is working to sell as much as €6.5 billion ($7.1 billion) of debt to refinance loans and pay a dividend to shareholders, people familiar with the matter said, after its private equity backer put…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 11:02 AM",
-      "coverage": 2,
-      "ts": 1795536170000
     }
   ],
   "outlets": [
@@ -237,10 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "11:18 AM",
+      "title": "MarketWatch — Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "ts": 1795537080000
+    },
+    {
       "time": "11:16 AM",
       "title": "CNBC — Stocks making the biggest moves Tuesday: Kohl's, Dick's Sporting Goods, Abercrombie & Fitch & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
       "ts": 1795536984000
+    },
+    {
+      "time": "11:16 AM",
+      "title": "Bloomberg — Goldman's Rosner: Fed Hikes ‘Metered,’ Not Big Cycle",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/goldman-s-rosner-fed-hikes-metered-not-big-cycle-video",
+      "ts": 1795536983000
     },
     {
       "time": "11:12 AM",
@@ -273,6 +285,12 @@
       "ts": 1795536367000
     },
     {
+      "time": "11:02 AM",
+      "title": "Bloomberg — Hg’s Visma Plans Up to €6.5 Billion Debt Sale With UK IPO on Ice",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/hg-s-visma-plans-up-to-6-5-billion-debt-sale-with-uk-ipo-on-ice",
+      "ts": 1795536170000
+    },
+    {
       "time": "11:01 AM",
       "title": "WSJ Markets — The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
       "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
@@ -289,24 +307,6 @@
       "title": "Bloomberg — Consumer Mood Improves Into Holidays, But Risks Loom",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/consumer-mood-improves-into-holidays-but-risks-loom-video",
       "ts": 1795535821000
-    },
-    {
-      "time": "10:55 AM",
-      "title": "Investing.com — Norway stocks lower at close of trade; Oslo OBX down 0.82%",
-      "url": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-082-5048687",
-      "ts": 1795535730000
-    },
-    {
-      "time": "10:55 AM",
-      "title": "Investing.com — Israel stocks lower at close of trade; TA 35 down 0.86%",
-      "url": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-086-5048685",
-      "ts": 1795535703000
-    },
-    {
-      "time": "10:50 AM",
-      "title": "Investing.com — Greece stocks lower at close of trade; Athens General Composite down 1.46%",
-      "url": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-146-5048682",
-      "ts": 1795535402000
     }
   ]
 }
