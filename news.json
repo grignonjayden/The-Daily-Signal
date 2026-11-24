@@ -1,8 +1,17 @@
 {
-  "generated_at": "Nov 23, 2026, 10:03 PM ET",
+  "generated_at": "Nov 23, 2026, 10:08 PM ET",
   "date_key": "2026-11-23",
-  "updated_ts": 1795489416084,
+  "updated_ts": 1795489733790,
   "articles": [
+    {
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "snippet": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108550584-1794519112118-gettyimages-2297269641-TRUMP_TECH_AI.jpeg?v=1795450322&w=1920&h=1080",
+      "time": "Nov 23, 10:05 PM",
+      "coverage": 7
+    },
     {
       "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
       "source": "CNBC",
@@ -56,15 +65,6 @@
       "snippet": "U.S. stocks surged on Monday, led by a more than 6 per cent jump in the Nasdaq as Nvidia's reinstatement of Jensen Huang as CEO drove investors back into AI-related shares after last week's rout.",
       "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-23-2026%2Ft_3c6529588d4942bf8641718287c5901f_name_2026_11_23T234212Z_1_LOP071923112026RP1_RTRMADP_BASEIMAGE_960X540_USA_STOCKS_WRAP.JPG?auth=a4cfc397154e1f583c7d5efbc946fee276c8f3a5a12a0c835191e0e2dac7971b&smart=true&width=1920&height=1080",
       "time": "Nov 23, 7:00 PM",
-      "coverage": 7
-    },
-    {
-      "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-      "snippet": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795443300&w=1920&h=1080",
-      "time": "Nov 23, 6:42 PM",
       "coverage": 7
     },
     {
@@ -215,6 +215,16 @@
   ],
   "ticker": [
     {
+      "time": "10:03 PM",
+      "title": "WSJ Markets — Singapore Dollar Steady as Robust Domestic Economic Growth Supports",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-strengthen-amid-risk-on-sentiment-bf00d2c3?mod=rss_markets_main"
+    },
+    {
+      "time": "10:00 PM",
+      "title": "WSJ Markets — U.S. Treasurys Edge Lower Amid Higher Fed Rate-Hike Prospects",
+      "url": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main"
+    },
+    {
       "time": "9:54 PM",
       "title": "Investing.com — Tech giants to face billions of dollars in fines under Australian internet safety bill",
       "url": "https://www.investing.com/news/stock-market-news/australia-to-fine-tech-firms-up-to-5-of-global-revenue-under-internet-safety-bill-5046886"
@@ -263,16 +273,6 @@
       "time": "8:48 PM",
       "title": "Investing.com — At AI speed, Nvidia’s Jensen Huang finds exoneration",
       "url": "https://www.investing.com/news/stock-market-news/at-ai-speed-nvidias-jensen-huang-finds-exoneration-5046847"
-    },
-    {
-      "time": "8:45 PM",
-      "title": "Investing.com — Asia chipmaking stocks soar tracking Nvidia rally; S.Korea, Taiwan lead",
-      "url": "https://www.investing.com/news/stock-market-news/asia-chipmaking-stocks-soar-tracking-nvidia-rally-skorea-taiwan-lead-5046844"
-    },
-    {
-      "time": "8:29 PM",
-      "title": "Bloomberg — Copper Smelters Face Worsening Squeeze as Negotiations Stall",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/copper-smelters-face-worsening-squeeze-as-negotiations-stall"
     }
   ]
 }
