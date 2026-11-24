@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 11:12 AM ET",
+  "generated_at": "Nov 24, 2026, 11:15 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795536750341,
+  "updated_ts": 1795536952695,
   "articles": [
     {
       "title": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
@@ -114,10 +114,10 @@
       "ts": 1795456173000
     },
     {
-      "title": "Anthropic Shares Plunge 6% Below IPO Price in Fourth Trading Day",
+      "title": "Anthropic Shares Plunge 8% Below IPO Price in Fourth Trading Day",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "snippet": "Anthropic PBC shares sank 6% below their $83 initial public offering price, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
+      "snippet": "Anthropic PBC shares sank 8% below their $83 initial public offering price, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 24, 6:19 AM",
