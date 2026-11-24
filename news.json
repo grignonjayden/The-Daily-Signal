@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:41 AM ET",
+  "generated_at": "Nov 24, 2026, 8:44 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795527680008,
+  "updated_ts": 1795527877909,
   "articles": [
     {
       "title": "Six key questions raised by Jensen Huang's return to Nvidia",
@@ -226,10 +226,34 @@
   ],
   "ticker": [
     {
-      "time": "8:39 AM",
+      "time": "8:42 AM",
+      "title": "CNBC — Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
+      "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
+      "ts": 1795527775000
+    },
+    {
+      "time": "8:42 AM",
       "title": "CNBC — Stock futures decline as Nvidia pulls back, giving back part of Monday’s rally: Live updates",
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-      "ts": 1795527553000
+      "ts": 1795527720000
+    },
+    {
+      "time": "8:41 AM",
+      "title": "MarketWatch — I’ve paid for long-term-care insurance for 20 years. Is it still worth it?",
+      "url": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
+      "ts": 1795527660000
+    },
+    {
+      "time": "8:40 AM",
+      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "ts": 1795527600000
+    },
+    {
+      "time": "8:35 AM",
+      "title": "CNBC — Here are Tuesday's biggest analyst calls: Anthropic, SpaceX, Nvidia, Tesla, Boeing, JetBlue & more",
+      "url": "https://www.cnbc.com/2026/11/24/tuesday-wall-street-calls-like-nvidia-anthropic.html",
+      "ts": 1795527307000
     },
     {
       "time": "8:33 AM",
@@ -272,30 +296,6 @@
       "title": "Investing.com — Kulicke & Soffa: an underrated AI semiconductor pick with limited analyst coverage",
       "url": "https://www.investing.com/news/stock-market-news/kulicke--soffa-an-underrated-ai-semiconductor-pick-with-limited-analyst-coverage-93CH-5048287",
       "ts": 1795526694000
-    },
-    {
-      "time": "8:24 AM",
-      "title": "Investing.com — Volkswagen starts crunch wage talks as workers carry coffins in protest over cuts",
-      "url": "https://www.investing.com/news/stock-market-news/volkswagen-confronts-union-over-costs-in-face-of-strike-threat-5047119",
-      "ts": 1795526662000
-    },
-    {
-      "time": "8:23 AM",
-      "title": "Investing.com — United Airlines leads Thanksgiving airline gains on pricing power and premium mix",
-      "url": "https://www.investing.com/news/stock-market-news/united-airlines-leads-thanksgiving-airline-gains-on-pricing-power-and-premium-mix-93CH-5048286",
-      "ts": 1795526610000
-    },
-    {
-      "time": "8:22 AM",
-      "title": "Investing.com — S&P 500 positioning hits sweet spot for forward returns, Goldman says",
-      "url": "https://www.investing.com/news/stock-market-news/sp-500-positioning-hits-swee-5048269",
-      "ts": 1795526530000
-    },
-    {
-      "time": "8:21 AM",
-      "title": "Investing.com — Three retail stocks to watch this holiday season: Walmart, Target and TJX",
-      "url": "https://www.investing.com/news/stock-market-news/three-retail-stocks-to-watch-this-holiday-season-walmart-target-and-tjx-93CH-5048267",
-      "ts": 1795526516000
     }
   ]
 }
