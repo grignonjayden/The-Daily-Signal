@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 11:46 AM ET",
+  "generated_at": "Nov 24, 2026, 11:49 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795538765685,
+  "updated_ts": 1795538968521,
   "articles": [
     {
       "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
@@ -237,16 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "11:48 AM",
+      "title": "CNBC — Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "ts": 1795538929000
+    },
+    {
+      "time": "11:48 AM",
+      "title": "CNBC — Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
+      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795538923000
+    },
+    {
       "time": "11:38 AM",
       "title": "Bloomberg — Top Strategist Calls Nvidia a House of Cards",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/top-strategist-calls-nvidia-a-house-of-cards-video",
       "ts": 1795538294000
-    },
-    {
-      "time": "11:36 AM",
-      "title": "CNBC — Stocks making the biggest moves Tuesday: Kohl's, Dick's Sporting Goods, Abercrombie & Fitch & more",
-      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795538175000
     },
     {
       "time": "11:30 AM",
@@ -301,12 +307,6 @@
       "title": "MarketWatch — Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
       "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
       "ts": 1795537080000
-    },
-    {
-      "time": "11:17 AM",
-      "title": "Investing.com — Waymo recalls 4,500 robotaxis after 11 closed lane incidents",
-      "url": "https://www.investing.com/news/stock-market-news/waymo-recalls-4500-robotaxis-after-11-closed-lane-incidents-93CH-5048710",
-      "ts": 1795537024000
     }
   ]
 }
