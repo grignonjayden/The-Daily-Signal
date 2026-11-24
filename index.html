@@ -437,6 +437,7 @@
   .gl-term:hover, .gl-term:focus-visible { color: var(--sky); }
   .gl-pop { position: absolute; z-index: 1000; max-width: 280px; background: var(--surface); color: var(--ink); border: 1px solid var(--line, rgba(0,0,0,.1)); border-radius: 12px; box-shadow: var(--shadow-md); padding: 10px 12px; font-size: 13px; line-height: 1.45; display: flex; flex-direction: column; gap: 3px; animation: rise 0.2s var(--ease) forwards; }
   .gl-pop strong { font-size: 13px; }
+  .gl-hint { font-size: 11px; color: var(--ink-faint, #999); margin-top: 2px; }
   .gov-sub { margin: -6px 0 12px; }
   .gov-more { display: block; margin: 12px auto 4px; }
   .news-card[hidden] { display: none; }
@@ -2080,22 +2081,37 @@ function applyGlossary(root) {
     });
   });
 }
-document.addEventListener('click', e => {
-  const old = document.querySelector('.gl-pop');
+// While a definition is open, the next tap anywhere only closes it (it never opens a link or card).
+// iOS doesn't always send 'click' for taps on plain text, so closing happens on touch-down instead.
+let glSwallowUntil = 0, glOpenY = 0;
+function glClose() { const p = document.querySelector('.gl-pop'); if (p) p.remove(); }
+document.addEventListener('pointerdown', e => {
+  const pop = document.querySelector('.gl-pop');
+  if (!pop) return;
   const t = e.target.closest && e.target.closest('.gl-term');
-  if (old && (!t || old._for === t)) { old.remove(); if (t) { e.stopPropagation(); e.preventDefault(); } return; }
-  if (old) old.remove();
+  if (t && t !== pop._for) return; // tapping a different word switches to it
+  glClose();
+  glSwallowUntil = Date.now() + 800; // eat the click that follows this tap
+}, true);
+document.addEventListener('click', e => {
+  if (Date.now() < glSwallowUntil) { glSwallowUntil = 0; e.stopPropagation(); e.preventDefault(); return; }
+  const t = e.target.closest && e.target.closest('.gl-term');
   if (!t) return;
   e.stopPropagation(); e.preventDefault();
+  glClose();
   const pop = el('div', { className: 'gl-pop' }); pop._for = t;
   pop.setAttribute('role', 'tooltip');
   pop.appendChild(el('strong', { text: t.dataset.term }));
   pop.appendChild(el('span', { text: t.dataset.def }));
+  pop.appendChild(el('span', { className: 'gl-hint', text: 'Tap anywhere to close' }));
   document.body.appendChild(pop);
   const r = t.getBoundingClientRect(), pw = pop.offsetWidth;
   pop.style.left = Math.max(8, Math.min(window.innerWidth - pw - 8, r.left + window.scrollX + r.width / 2 - pw / 2)) + 'px';
   pop.style.top = (r.bottom + window.scrollY + 8) + 'px';
+  glOpenY = window.scrollY;
 }, true);
+// Scrolling away closes it too.
+window.addEventListener('scroll', () => { if (Math.abs(window.scrollY - glOpenY) > 40) glClose(); }, { passive: true });
 document.addEventListener('keydown', e => { if (e.key === 'Escape') { const p = document.querySelector('.gl-pop'); if (p) p.remove(); } });
 new MutationObserver(() => applyGlossary()).observe(mainPanel, { childList: true, subtree: true });
 
