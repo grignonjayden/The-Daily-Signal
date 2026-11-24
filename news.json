@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 3:45 PM ET",
+  "generated_at": "Nov 24, 2026, 3:48 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795553135391,
+  "updated_ts": 1795553334759,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -42,16 +42,6 @@
       "time": "Nov 24, 3:12 PM",
       "coverage": 6,
       "ts": 1795551136000
-    },
-    {
-      "title": "Nvidia’s Huang said he violated code of conduct, source says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
-      "time": "Nov 24, 3:06 PM",
-      "coverage": 6,
-      "ts": 1795550798000
     },
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -144,6 +134,16 @@
       "time": "Nov 24, 4:45 AM",
       "coverage": 2,
       "ts": 1795513527000
+    },
+    {
+      "title": "Huawei found guilty of bank fraud and money laundering in US",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/huawei-found-guilty-of-bank-fraud-and-money-laundering-in-us-5048965",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEF150VB_M.jpg",
+      "time": "Nov 24, 3:41 PM",
+      "coverage": 2,
+      "ts": 1795552867000
     }
   ],
   "outlets": [
@@ -237,10 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "3:45 PM",
+      "title": "CNBC — Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+      "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+      "ts": 1795553157000
+    },
+    {
       "time": "3:43 PM",
       "title": "Globe and Mail — Stellantis sues Unifor, alleging obstruction of environmental work at Brampton plant",
       "url": "https://www.theglobeandmail.com/business/article-stellantis-sues-unifor-brampton-roshel-sale-november-24/",
       "ts": 1795553009000
+    },
+    {
+      "time": "3:42 PM",
+      "title": "Investing.com — Shein to pay $100 million to settle US shipping, customer service claims",
+      "url": "https://www.investing.com/news/stock-market-news/shein-to-pay-100-million-to-settle-us-claims-ftc-official-says-5048743",
+      "ts": 1795552955000
     },
     {
       "time": "3:37 PM",
@@ -249,10 +261,28 @@
       "ts": 1795552660000
     },
     {
+      "time": "3:32 PM",
+      "title": "Investing.com — Fitch upgrades The GEO Group to ’BB’ on debt reduction and stronger cash flow",
+      "url": "https://www.investing.com/news/stock-market-news/fitch-upgrades-the-geo-group-to-bb-on-debt-reduction-and-stronger-cash-flow-5048962",
+      "ts": 1795552367000
+    },
+    {
+      "time": "3:30 PM",
+      "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 0.03%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-003-5048957",
+      "ts": 1795552204000
+    },
+    {
       "time": "3:30 PM",
       "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "ts": 1795552200000
+    },
+    {
+      "time": "3:29 PM",
+      "title": "Investing.com — S&P revises PROG Holdings outlook to stable on rapid post-deal deleveraging",
+      "url": "https://www.investing.com/news/stock-market-news/sp-revises-prog-holdings-outlook-to-stable-on-rapid-postdeal-deleveraging-5048956",
+      "ts": 1795552196000
     },
     {
       "time": "3:24 PM",
@@ -277,36 +307,6 @@
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795551360000
-    },
-    {
-      "time": "3:15 PM",
-      "title": "Bloomberg — Netflix Buys Seinfeld Studio Lot After Goldman Forecloses",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses",
-      "ts": 1795551334000
-    },
-    {
-      "time": "3:14 PM",
-      "title": "Investing.com — Eli Lilly earns Moody’s upgrade to Aa2 as obesity drug demand fuels earnings",
-      "url": "https://www.investing.com/news/stock-market-news/eli-lilly-earns-moodys-upgrade-to-aa2-as-obesity-drug-demand-fuels-earnings-5048935",
-      "ts": 1795551271000
-    },
-    {
-      "time": "3:06 PM",
-      "title": "Investing.com — Ford in talks with the Pentagon to supply military vehicles",
-      "url": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-with-general-motors-and-ford-on-military-drones-wsj-reports-5047560",
-      "ts": 1795550783000
-    },
-    {
-      "time": "3:02 PM",
-      "title": "CNBC — Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-      "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-      "ts": 1795550569000
-    },
-    {
-      "time": "2:58 PM",
-      "title": "Bloomberg — Advent Weighs Takeover Of Testing Firm Bureau Veritas",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/advent-weighs-takeover-of-testing-firm-bureau-veritas",
-      "ts": 1795550303000
     }
   ]
 }
