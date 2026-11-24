@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 3:25 PM ET",
+  "generated_at": "Nov 24, 2026, 3:28 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795551919410,
+  "updated_ts": 1795552121121,
   "articles": [
     {
       "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
@@ -14,6 +14,26 @@
       "ts": 1795551400000
     },
     {
+      "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-5047621",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0VS_L.jpg",
+      "time": "Nov 24, 3:12 PM",
+      "coverage": 5,
+      "ts": 1795551136000
+    },
+    {
+      "title": "Nvidia’s Huang said he violated code of conduct, source says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
+      "time": "Nov 24, 3:06 PM",
+      "coverage": 5,
+      "ts": 1795550798000
+    },
+    {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
@@ -22,26 +42,6 @@
       "time": "Nov 24, 3:04 PM",
       "coverage": 5,
       "ts": 1795550671000
-    },
-    {
-      "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-5047621",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0VS_L.jpg",
-      "time": "Nov 24, 2:49 PM",
-      "coverage": 5,
-      "ts": 1795549745000
-    },
-    {
-      "title": "Nvidia’s Jensen Huang apologizes to employees, says he is in therapy",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidias-jensen-huang-apologizes-to-employees-says-he-is-in-therapy-5048912",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEMAB24G_L.jpg",
-      "time": "Nov 24, 2:33 PM",
-      "coverage": 5,
-      "ts": 1795548836000
     },
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -64,14 +64,14 @@
       "ts": 1795536060000
     },
     {
-      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
+      "title": "Wall Street rebounds as Jensen Huang is reinstated as Nvidia CEO",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
-      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
-      "time": "Nov 24, 6:25 AM",
-      "coverage": 5,
-      "ts": 1795519556000
+      "url": "https://www.theglobeandmail.com/business/video-wall-street-rebounds-as-jensen-huang-is-reinstated-as-nvidia-ceo/",
+      "snippet": "U.S. stocks surged on Monday, led by a more than 6 per cent jump in the Nasdaq as Nvidia's reinstatement of Jensen Huang as CEO drove investors back into AI-related shares after last week's rout.",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-23-2026%2Ft_3c6529588d4942bf8641718287c5901f_name_2026_11_23T234212Z_1_LOP071923112026RP1_RTRMADP_BASEIMAGE_960X540_USA_STOCKS_WRAP.JPG?auth=a4cfc397154e1f583c7d5efbc946fee276c8f3a5a12a0c835191e0e2dac7971b&smart=true&width=1920&height=1080",
+      "time": "Nov 23, 7:00 PM",
+      "coverage": 6,
+      "ts": 1795478438000
     },
     {
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
@@ -237,10 +237,46 @@
   ],
   "ticker": [
     {
+      "time": "3:24 PM",
+      "title": "Investing.com — S&P upgrades E.W. Scripps to ‘B-’ on cost cuts and debt reduction progress",
+      "url": "https://www.investing.com/news/stock-market-news/sp-upgrades-ew-scripps-to-b-on-cost-cuts-and-debt-reduction-progress-5048953",
+      "ts": 1795551891000
+    },
+    {
+      "time": "3:18 PM",
+      "title": "Investing.com — Sanofi’s $41 billion Insmed bet charts life beyond Dupixent",
+      "url": "https://www.investing.com/news/stock-market-news/sanofi-strikes-41-billion-deal-to-acquire-us-drugmaker-insmed-5047163",
+      "ts": 1795551515000
+    },
+    {
+      "time": "3:18 PM",
+      "title": "Investing.com — Moody’s affirms Sanofi’s Aa3 rating, shifts outlook to negative on Insmed deal",
+      "url": "https://www.investing.com/news/stock-market-news/moodys-affirms-sanofis-aa3-rating-shifts-outlook-to-negative-on-insmed-deal-5048942",
+      "ts": 1795551485000
+    },
+    {
       "time": "3:16 PM",
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795551360000
+    },
+    {
+      "time": "3:15 PM",
+      "title": "Bloomberg — Netflix Buys Seinfeld Studio Lot After Goldman Forecloses",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses",
+      "ts": 1795551334000
+    },
+    {
+      "time": "3:14 PM",
+      "title": "Investing.com — Eli Lilly earns Moody’s upgrade to Aa2 as obesity drug demand fuels earnings",
+      "url": "https://www.investing.com/news/stock-market-news/eli-lilly-earns-moodys-upgrade-to-aa2-as-obesity-drug-demand-fuels-earnings-5048935",
+      "ts": 1795551271000
+    },
+    {
+      "time": "3:06 PM",
+      "title": "Investing.com — Ford in talks with the Pentagon to supply military vehicles",
+      "url": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-with-general-motors-and-ford-on-military-drones-wsj-reports-5047560",
+      "ts": 1795550783000
     },
     {
       "time": "3:02 PM",
@@ -255,6 +291,12 @@
       "ts": 1795550303000
     },
     {
+      "time": "2:54 PM",
+      "title": "Investing.com — CrowdStrike’s all-stock bid for Zscaler: deal structure shifts risk to target holders",
+      "url": "https://www.investing.com/news/stock-market-news/crowdstrikes-allstock-bid-for-zscaler-deal-structure-shifts-risk-to-target-holders-93CH-5048924",
+      "ts": 1795550055000
+    },
+    {
       "time": "2:49 PM",
       "title": "Investing.com — US proposes to give automakers until 2031 to install automatic emergency braking",
       "url": "https://www.investing.com/news/stock-market-news/us-proposes-to-give-automakers-until-2031-to-install-automatic-emergency-braking-5048923",
@@ -265,48 +307,6 @@
       "title": "CNBC — Anthropic shares fall below IPO price. Traders see even more pain",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
       "ts": 1795549662000
-    },
-    {
-      "time": "2:41 PM",
-      "title": "Investing.com — BMO highlights top interactive entertainment pick",
-      "url": "https://www.investing.com/news/stock-market-news/bmo-highlights-top-interactive-entertainment-pick-5048917",
-      "ts": 1795549263000
-    },
-    {
-      "time": "2:32 PM",
-      "title": "WSJ Markets — Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
-      "ts": 1795548720000
-    },
-    {
-      "time": "2:31 PM",
-      "title": "Bloomberg — Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
-      "ts": 1795548685000
-    },
-    {
-      "time": "2:31 PM",
-      "title": "Investing.com — Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-      "ts": 1795548672000
-    },
-    {
-      "time": "2:27 PM",
-      "title": "CNBC — Buffer ETFs protect investors from the harshest market swings – for a price",
-      "url": "https://www.cnbc.com/2026/11/24/buffer-etfs-downside-protection.html",
-      "ts": 1795548445000
-    },
-    {
-      "time": "2:26 PM",
-      "title": "CNBC — Retail turnarounds are taking hold just in time for the holiday season",
-      "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
-      "ts": 1795548399000
-    },
-    {
-      "time": "2:26 PM",
-      "title": "CNBC — Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-      "ts": 1795548386000
     }
   ]
 }
