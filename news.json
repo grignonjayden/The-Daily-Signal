@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 2:10 PM ET",
+  "generated_at": "Nov 24, 2026, 2:14 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795547444433,
+  "updated_ts": 1795547657241,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "2:11 PM",
+      "title": "Globe and Mail — Who has the best market forecast? You do",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-who-has-the-best-market-forecast-you-do/",
+      "ts": 1795547485000
+    },
+    {
       "time": "2:02 PM",
       "title": "MarketWatch — Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
       "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
@@ -300,12 +306,6 @@
       "title": "CNBC — Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
       "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
       "ts": 1795545283000
-    },
-    {
-      "time": "1:33 PM",
-      "title": "MarketWatch — Micron’s stock falls as an analyst warns about a future supply glut",
-      "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-      "ts": 1795545180000
     }
   ]
 }
