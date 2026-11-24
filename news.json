@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 1:40 PM ET",
+  "generated_at": "Nov 24, 2026, 1:43 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795545612551,
+  "updated_ts": 1795545824170,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -272,6 +272,12 @@
       "ts": 1795545006000
     },
     {
+      "time": "1:18 PM",
+      "title": "CNBC — Nvidia revived the AI trade, but investors still have reasons to hedge",
+      "url": "https://www.cnbc.com/2026/11/24/ai-trade-nvidia-rally-defensive-stocks.html",
+      "ts": 1795544333000
+    },
+    {
       "time": "1:17 PM",
       "title": "CNBC — As Anthropic falls below its IPO price, here's how big-money traders are reacting",
       "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
@@ -300,12 +306,6 @@
       "title": "Investing.com — Best Buy earnings analysis: questions answered and next catalysts",
       "url": "https://www.investing.com/news/stock-market-news/best-buy-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048854",
       "ts": 1795543561000
-    },
-    {
-      "time": "1:05 PM",
-      "title": "Investing.com — Analog Devices earnings analysis: questions answered and next catalysts",
-      "url": "https://www.investing.com/news/stock-market-news/analog-devices-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048853",
-      "ts": 1795543548000
     }
   ]
 }
