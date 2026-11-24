@@ -437,6 +437,9 @@
   .gl-term:hover, .gl-term:focus-visible { color: var(--sky); }
   .gl-pop { position: absolute; z-index: 1000; max-width: 280px; background: var(--surface); color: var(--ink); border: 1px solid var(--line, rgba(0,0,0,.1)); border-radius: 12px; box-shadow: var(--shadow-md); padding: 10px 12px; font-size: 13px; line-height: 1.45; display: flex; flex-direction: column; gap: 3px; animation: rise 0.2s var(--ease) forwards; }
   .gl-pop strong { font-size: 13px; }
+  .gov-sub { margin: -6px 0 12px; }
+  .gov-more { display: block; margin: 12px auto 4px; }
+  .news-card[hidden] { display: none; }
   .why-p { font-size: 15px; line-height: 1.6; max-width: 72ch; }
   .why-link { display: inline-block; margin-top: 12px; font-size: 13.5px; font-weight: 700; color: var(--sky); text-decoration: none; }
   .why-link:hover { text-decoration: underline; }
@@ -1528,6 +1531,10 @@ function renderNews(data, dateKey) {
   widget.appendChild(el('p', { className: 'live-updated', text: freshness(data.updated_ts, 'Updated ' + (data.generated_at || '')) + ' · Ranked by how many outlets are covering a story and how recent it is, with at most 2 stories per outlet and opinion columns left out' + (Array.isArray(data.outlets) && data.outlets.length ? ' · Outlets: ' + data.outlets.join(', ') : '') }));
   mainPanel.appendChild(widget);
 
+  // Ottawa's Sector Moves (formerly the Government Decisions tab)
+  const gov = buildGovWidget(TODAYS_GOV_LIVE());
+  if (gov) mainPanel.appendChild(gov);
+
   // Official releases — Fed, Bank of Canada, Finance Canada, StatCan, SEC
   if (Array.isArray(data.official) && data.official.length) {
     const offWidget = widgetShell('w-span-12', 'bank', 'var(--sky-soft)', 'var(--sky)', 'Official releases', data.official.length);
@@ -1872,21 +1879,16 @@ function renderCanada(data, dateKey) {
   mainPanel.appendChild(note);
 }
 
-// Government Decisions tab — federal investment news from government.json (same GitHub Action as Canada).
+// Ottawa's Sector Moves (inside News) — federal investment news from government.json (same GitHub Action as Canada).
 const TODAYS_GOV = { generated_at: '', items: [] };
+function TODAYS_GOV_LIVE() { return TAB_CONFIG.government.data || TODAYS_GOV; }
 const GOV_SECTOR_ART = { Defence: 'shield', Housing: 'home', Energy: 'bolt', Minerals: 'gem', 'AI & tech': 'chip', Autos: 'car', Media: 'film', Infrastructure: 'drill', Trade: 'coin', Budget: 'bank', General: 'parliament' };
-function renderGovernment(data, dateKey) {
-  dateline.textContent = 'Government decisions for ' + fmtDateHuman(data.date_key || dateKey) + (data.generated_at ? ' · updated ' + data.generated_at : '');
-  mainPanel.innerHTML = '';
+// Shown inside the News tab as "Ottawa's Sector Moves" (returns null until government.json has items).
+function buildGovWidget(data) {
   const items = data.items || [];
-  mainPanel.appendChild(buildKeyTimes('government'));
-  const widget = widgetShell('w-span-12', 'parliament', 'var(--sky-soft)', 'var(--sky)', 'Government Decisions', items.length);
-  if (!items.length) {
-    widget.appendChild(el('div', { className: 'empty' }));
-    widget.querySelector('.empty').appendChild(el('p', { text: 'Government decisions are loading. Check back in a moment.' }));
-    mainPanel.appendChild(widget);
-    return;
-  }
+  if (!items.length) return null;
+  const widget = widgetShell('w-span-12', 'parliament', 'var(--sky-soft)', 'var(--sky)', 'Ottawa’s Sector Moves', items.length);
+  widget.appendChild(el('p', { className: 'item-summary gov-sub', text: 'Federal government decisions that affect a big part of one Canadian industry, like housing, energy or autos.' }));
   const list = el('div', { className: 'news-list' });
   items.forEach((a, i) => {
     const card = el('a', { className: 'news-card has-thumb', href: a.url || '#' });
@@ -1913,12 +1915,21 @@ function renderGovernment(data, dateKey) {
     list.appendChild(card);
   });
   widget.appendChild(list);
-  if (data.caption) widget.appendChild(el('p', { className: 'live-updated', text: data.caption + ' · tap a headline for the full story' }));
-  mainPanel.appendChild(widget);
-  const note = el('p', { className: 'live-updated' });
-  note.appendChild(document.createTextNode('Sources: '));
-  (data.sources || []).forEach((src, i) => { if (i) note.appendChild(document.createTextNode(', ')); note.appendChild(el('a', { href: src.url, text: src.title })); });
-  mainPanel.appendChild(note);
+  if (items.length > 5) { // keep News tidy: top 5, the rest behind a button
+    const extra = [].slice.call(list.children, 5); extra.forEach(c => { c.hidden = true; });
+    const more = el('button', { className: 'info-btn gov-more', text: 'Show all ' + items.length });
+    more.type = 'button';
+    more.onclick = () => { const open = extra[0].hidden; extra.forEach(c => { c.hidden = !open; }); more.textContent = open ? 'Show fewer' : 'Show all ' + items.length; };
+    widget.appendChild(more);
+  }
+  if (data.caption || data.generated_at) widget.appendChild(el('p', { className: 'live-updated', text: [data.caption, data.generated_at ? 'Updated ' + data.generated_at : ''].filter(Boolean).join(' · ') + ' · tap a headline for the full story' }));
+  if ((data.sources || []).length) {
+    const note = el('p', { className: 'live-updated' });
+    note.appendChild(document.createTextNode('Sources: '));
+    data.sources.forEach((src, i) => { if (i) note.appendChild(document.createTextNode(', ')); note.appendChild(el('a', { href: src.url, text: src.title })); });
+    widget.appendChild(note);
+  }
+  return widget;
 }
 
 // Simple dot + title + text rows (Why DS, Week in review).
@@ -2098,9 +2109,8 @@ function renderWhy() {
   rows(tabs, [
     ['Markets', 'How stocks did today, which sectors led, the biggest movers and the themes behind them.', '#1E9E5A'],
     ['Crypto', 'Bitcoin, Ethereum and the rest of the top 100, with live prices and the day’s biggest swings.', '#F2930F'],
-    ['News', 'The latest business headlines and official releases, each linked to the original story.', '#2F63D6'],
-    ['Canada', 'Everyday Canadian numbers, like gas, interest rates and groceries, with their sources.', '#D52B1E'],
-    ['Government Decisions', 'What Ottawa is investing in and deciding, sorted by sector.', '#7B4FB8']
+    ['News', 'The latest business headlines, Ottawa’s Sector Moves (federal decisions that shake up a Canadian industry) and official releases, each linked to the original story.', '#2F63D6'],
+    ['Canada', 'Everyday Canadian numbers, like gas, interest rates and groceries, with their sources.', '#D52B1E']
   ]);
 
   const rules = card('w-span-6', 'shield', 'var(--sky-soft)', 'var(--sky)', 'Ground rules');
@@ -2122,7 +2132,7 @@ const TAB_CONFIG = {
   crypto: { label: 'Crypto', icon: 'bitcoin', color: '#F2930F', data: TODAYS_CRYPTO, render: renderCrypto },
   news: { label: 'News', icon: 'frontpage', color: '#2F63D6', data: TODAYS_NEWS, render: renderNews },
   canada: { label: 'Canada', icon: 'maple', color: '#D52B1E', data: TODAYS_CANADA, render: renderCanada },
-  government: { label: 'Government Decisions', icon: 'parliament', color: '#7B4FB8', data: TODAYS_GOV, render: renderGovernment },
+  government: { label: 'Ottawa’s Sector Moves', icon: 'parliament', color: '#7B4FB8', data: TODAYS_GOV, render: (d, k) => TAB_CONFIG.news.render(TAB_CONFIG.news.data, k), hidden: true }, // shown inside News
   why: { label: 'Why DS', icon: 'lightbulb', color: '#0F8B8D', data: {}, render: renderWhy, isStatic: true }
 };
 let activeTab = 'markets';
@@ -2133,6 +2143,7 @@ function renderTabBar() {
   bar.innerHTML = '';
   Object.keys(TAB_CONFIG).forEach(key => {
     const cfg = TAB_CONFIG[key];
+    if (cfg.hidden) return;
     const btn = el('button', { className: 'tab-btn' + (key === activeTab ? ' active' : '') });
     const ic = svgIcon(ICONS[cfg.icon]);
     if (cfg.color) ic.style.color = cfg.color; // coloured tab icon
@@ -2210,6 +2221,7 @@ async function loadLive(tab) {
         TAB_CONFIG[tab].data = data;
         liveLoaded[tab] = true;
         if (activeTab === tab && (generatedToday || tabSwitched)) TAB_CONFIG[tab].render(data, todayKey());
+        if (tab === 'government' && activeTab === 'news' && (generatedToday || tabSwitched)) TAB_CONFIG.news.render(TAB_CONFIG.news.data, todayKey());
         return;
       }
     } catch (e) { /* try the next source */ }
