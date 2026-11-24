@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 23, 2026, 9:47 PM ET",
+  "generated_at": "Nov 23, 2026, 9:53 PM ET",
   "date_key": "2026-11-23",
-  "updated_ts": 1795488468976,
+  "updated_ts": 1795488784940,
   "articles": [
     {
       "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
@@ -215,6 +215,11 @@
   ],
   "ticker": [
     {
+      "time": "9:38 PM",
+      "title": "Bloomberg — Copper Resumes Decline as Investors Look Beyond Drama at Nvidia",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia"
+    },
+    {
       "time": "9:37 PM",
       "title": "CNBC — U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
       "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html"
@@ -268,11 +273,6 @@
       "time": "8:12 PM",
       "title": "Investing.com — US agency to vote to ease ownership limits on local TV, radio stations",
       "url": "https://www.investing.com/news/stock-market-news/us-agency-to-vote-to-ease-ownership-limits-on-local-tv-radio-stations-5046494"
-    },
-    {
-      "time": "8:07 PM",
-      "title": "Bloomberg — Keppel Agrees to Merge M1 and Starhub in All-Share Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal"
     }
   ]
 }
