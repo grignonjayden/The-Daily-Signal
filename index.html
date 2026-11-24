@@ -1524,6 +1524,7 @@ function renderNews(data, dateKey) {
   }
 
   const widget = widgetShell('w-span-12', 'newspaper', 'var(--mint-soft)', 'var(--mint-deep)', 'Latest headlines', data.articles.length);
+  widget.appendChild(el('p', { className: 'item-summary gov-sub', text: 'The biggest business and market stories right now from major news outlets, ranked by how widely they’re being covered.' }));
   const list = el('div', { className: 'news-list' });
   data.articles.forEach((a, i) => {
     const hasVideo = !!(a.video && a.video.url);
@@ -1569,6 +1570,7 @@ function renderNews(data, dateKey) {
   // Official releases — Fed, Bank of Canada, Finance Canada, StatCan, SEC
   if (Array.isArray(data.official) && data.official.length) {
     const offWidget = widgetShell('w-span-12', 'bank', 'var(--sky-soft)', 'var(--sky)', 'Official releases', data.official.length);
+    offWidget.appendChild(el('p', { className: 'item-summary gov-sub', text: 'Announcements straight from the source: the Bank of Canada, Finance Canada, Statistics Canada, the U.S. Federal Reserve and the SEC.' }));
     const offList = el('div', { className: 'news-list' });
     data.official.forEach((a, i) => {
       const card = el('a', { className: 'news-card has-thumb', href: a.url || '#' });
