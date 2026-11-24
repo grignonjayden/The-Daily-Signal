@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 4:16 PM ET",
+  "generated_at": "Nov 24, 2026, 4:19 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795554962458,
+  "updated_ts": 1795555164032,
   "articles": [
     {
       "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
@@ -9,9 +9,9 @@
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
       "snippet": "U.S. stocks fell on Tuesday, giving back some of the sharp gains from the previous session that were sparked by Jensen Huang's return as Nvidia CEO.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558517-17955384902026-11-24t163620z_668368453_rc2duoa4bjw8_rtrmadp_0_usa-stocks.jpeg?v=1795538604&w=1920&h=1080",
-      "time": "Nov 24, 4:12 PM",
+      "time": "Nov 24, 4:16 PM",
       "coverage": 6,
-      "ts": 1795554732000
+      "ts": 1795555010000
     },
     {
       "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
@@ -22,6 +22,16 @@
       "time": "Nov 24, 4:15 PM",
       "coverage": 5,
       "ts": 1795554923000
+    },
+    {
+      "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+      "snippet": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
+      "image": "https://images.mktw.net/im-72615127",
+      "time": "Nov 24, 4:14 PM",
+      "coverage": 5,
+      "ts": 1795554840000
     },
     {
       "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return",
@@ -52,16 +62,6 @@
       "time": "Nov 24, 6:25 AM",
       "coverage": 5,
       "ts": 1795519556000
-    },
-    {
-      "title": "Anthropic’s stock just broke below its IPO price for the first time",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "snippet": "Shares are trading below their IPO price of $83 on Tuesday, less than a week after their debut on the Nasdaq.",
-      "image": "https://images.mktw.net/im-34075557",
-      "time": "Nov 24, 2:31 PM",
-      "coverage": 5,
-      "ts": 1795548660000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "4:15 PM",
+      "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "ts": 1795554900000
+    },
+    {
+      "time": "4:14 PM",
+      "title": "MarketWatch — Dell’s stock rises as the AI boom helps sales more than double",
+      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "ts": 1795554840000
+    },
+    {
       "time": "4:13 PM",
       "title": "CNBC — Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
       "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
@@ -247,6 +259,12 @@
       "title": "CNBC — Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
       "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
       "ts": 1795554439000
+    },
+    {
+      "time": "4:04 PM",
+      "title": "Bloomberg — Russian Pleads Not Guilty in Snooping Case Targeting Palantir",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/russian-pleads-not-guilty-in-snooping-case-targeting-palantir",
+      "ts": 1795554259000
     },
     {
       "time": "4:04 PM",
@@ -289,24 +307,6 @@
       "title": "CNBC — Utah drops criminal charges against Kalshi founders after company suspended operations in state",
       "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
       "ts": 1795553157000
-    },
-    {
-      "time": "3:43 PM",
-      "title": "Globe and Mail — Stellantis sues Unifor, alleging obstruction of environmental work at Brampton plant",
-      "url": "https://www.theglobeandmail.com/business/article-stellantis-sues-unifor-brampton-roshel-sale-november-24/",
-      "ts": 1795553009000
-    },
-    {
-      "time": "3:42 PM",
-      "title": "Investing.com — Shein to pay $100 million to settle US shipping, customer service claims",
-      "url": "https://www.investing.com/news/stock-market-news/shein-to-pay-100-million-to-settle-us-claims-ftc-official-says-5048743",
-      "ts": 1795552955000
-    },
-    {
-      "time": "3:42 PM",
-      "title": "CNBC — Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "ts": 1795552927000
     }
   ]
 }
