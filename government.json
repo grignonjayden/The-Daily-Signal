@@ -1,8 +1,20 @@
 {
-  "generated_at": "Nov 24, 2026, 8:45 AM ET",
+  "generated_at": "Nov 24, 2026, 9:11 AM ET",
   "date_key": "2026-11-24",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "House Democrat expands investigation into Donald Trump Jr.'s investment firm",
+      "url": "https://www.cp24.com/news/world/2026/11/24/house-democrat-expands-investigation-into-donald-trump-jrs-investment-firm/",
+      "image": "https://www.cp24.com/resizer/v2/D7AVGEE4VDVLBSUP3G5P7CNJGY.jpg?auth=16515fca25b0517b2134eb52cd4ca77d93a10e9ca6c7a3b2e8b40585f245e3a3&smart=true&width=1400&height=933",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "General",
+      "time": "Nov 24",
+      "date": "2026-11-24T17:44:50.000Z",
+      "group": "sector"
+    },
     {
       "title": "Amazon drone crashes into garage after delivering shampoo",
       "url": "https://www.cp24.com/news/world/2026/11/24/amazon-drone-crashes-into-garage-after-delivering-shampoo/",
@@ -13,18 +25,6 @@
       "sector": "Defence",
       "time": "Nov 24",
       "date": "2026-11-24T15:37:44.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "The DEA allowed 1.4 million fentanyl pills to go unseized in major probe: AP investigation",
-      "url": "https://www.cp24.com/news/world/2026/11/24/the-dea-allowed-14-million-fentanyl-pills-to-go-unseized-in-major-probe-ap-investigation/",
-      "image": "https://www.cp24.com/resizer/v2/O5ZWYBAKRYL45F4RYWLJVWVCEY.jpg?auth=2d2b13899ac82749e14990bcf9985183261a3a8ad13d996348368525a3d7251c&smart=true&width=1400&height=933",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "General",
-      "time": "Nov 24",
-      "date": "2026-11-24T15:19:04.000Z",
       "group": "sector"
     },
     {
@@ -213,11 +213,6 @@
       "kept": 3
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
@@ -226,6 +221,11 @@
       "source": "CDEV",
       "fetched": 20,
       "kept": 0
+    },
+    {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
     },
     {
       "source": "Canada Media Fund",
@@ -238,14 +238,14 @@
       "kept": 4
     },
     {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
-      "kept": 4
-    },
-    {
       "source": "CP24",
       "fetched": 200,
       "kept": 2
+    },
+    {
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
+      "kept": 4
     }
   ]
 }
