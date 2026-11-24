@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 5:27 PM ET",
+  "generated_at": "Nov 24, 2026, 5:30 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795559226009,
+  "updated_ts": 1795559428506,
   "articles": [
     {
       "title": "Nvidia stock falls nearly 6% after Huang’s return sparks best day in over 23 years",
@@ -249,6 +249,12 @@
       "ts": 1795558727000
     },
     {
+      "time": "5:12 PM",
+      "title": "Bloomberg — US Steel Buyers Turn Abroad as Data Center Boom Strains Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
+      "ts": 1795558377000
+    },
+    {
       "time": "5:07 PM",
       "title": "CNBC — Dell earnings beat on AI strength, company authorizes $25 billion buyback",
       "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Braemar Hotels stock jumps on 2027 dividend plan, $20M buyback",
       "url": "https://www.investing.com/news/stock-market-news/braemar-hotels-stock-jumps-on-2027-dividend-plan-20m-buyback-5049171",
       "ts": 1795557439000
-    },
-    {
-      "time": "4:56 PM",
-      "title": "Globe and Mail — B.C. First Nations to acquire stake in Coastal GasLink pipeline",
-      "url": "https://www.theglobeandmail.com/politics/article-bc-first-nations-coastal-gaslink-pipeline-november-24/",
-      "ts": 1795557405000
     }
   ]
 }
