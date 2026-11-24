@@ -607,6 +607,7 @@
   @keyframes pfBreathe { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } }
   .pf-donut-hint { font-size: 12px; font-weight: 800; color: var(--pink-deep); background: var(--pink-soft); border-radius: 999px; padding: 4px 10px; }
   .pf-rundown { max-width: 560px; }
+  .pf-rundown .info-close { display: block; width: 100%; box-shadow: 0 -16px 0 8px var(--surface), 0 8px 0 8px var(--surface); }
   .pf-rundown h3 { margin-bottom: 8px !important; }
   .pf-rd-head { display: flex; align-items: center; justify-content: space-between; gap: 14px; margin-bottom: 10px; }
   .pf-donut-big { width: 130px; height: 130px; flex: none; }
@@ -614,16 +615,11 @@
   .pf-rundown .pf-legend { margin: 4px 0 14px; }
   .pf-rd-list { display: flex; flex-direction: column; gap: 12px; border-top: 1px solid var(--line); padding-top: 14px; }
   .pf-rd-row { display: flex; gap: 12px; align-items: flex-start; }
-  .pf-rd-ic { font-size: 20px; line-height: 1.2; flex: none; }
   .info-box .pf-rd-row p { font-size: 15px; line-height: 1.5; margin: 0; color: var(--ink-soft); }
   .info-box p.pf-rd-note { font-size: 12px; color: var(--ink-faint); margin: 14px 0 12px; }
   .pf-simple .num-btn { cursor: pointer; outline: none; }
   .pf-simple .num-btn .num { transition: r .2s; }
   .pf-simple .num-btn:hover .num, .pf-simple .num-btn.on .num, .pf-simple .num-btn:focus-visible .num { r: 14; }
-  .pf-simple .num-ring { fill: none; stroke-width: 3; opacity: .55; transform-box: fill-box; transform-origin: center; animation: pfRing 1.8s ease-out infinite; }
-  .pf-simple .num-ring.n1 { stroke: #2F63D6; } .pf-simple .num-ring.n2 { stroke: #5A5D68; } .pf-simple .num-ring.n3 { stroke: #D9722C; } .pf-simple .num-ring.n4 { stroke: #1E9E5A; }
-  .pf-simple.tapped .num-ring { animation: none; opacity: 0; }
-  @keyframes pfRing { 0% { transform: scale(1); opacity: .6; } 100% { transform: scale(2.1); opacity: 0; } }
   .pf-tap-hint { font-size: 13px; font-weight: 800; color: var(--pink-deep); margin: 2px 0 10px; }
   .pf-tap-hint.done { color: var(--ink-faint); font-weight: 600; }
   .pf-key-chips { display: flex; flex-wrap: wrap; gap: 8px; }
@@ -2576,7 +2572,7 @@ function pfDraw() {
   const sum = widgetShell('w-span-12 pf-root', 'pie', 'var(--mint-soft)', 'var(--mint-deep)', 'Your portfolio', holdings.length || undefined);
   if (!holdings.length) {
     sum.appendChild(el('p', { className: 'item-summary why-p', text: 'Add what you own, like shares of a Canadian bank, an ETF in your TFSA, some Bitcoin or a GIC, and see it all in one place: what it’s worth today in Canadian dollars, how much it moved, and how it’s split up.' }));
-    sum.appendChild(el('p', { className: 'pf-private', text: '🔒 Saved only in this browser on this device. Nothing is sent anywhere.' }));
+    sum.appendChild(el('p', { className: 'pf-private', text: 'Saved only in this browser on this device. Nothing is sent anywhere.' }));
   } else {
     const day = vals.reduce((s, x) => s + x.v.day, 0), dayBase = total - day;
     const withCost = vals.filter(x => x.v.gain != null), gain = withCost.reduce((s, x) => s + x.v.gain, 0), cost = withCost.reduce((s, x) => s + x.v.cost, 0);
@@ -2602,7 +2598,7 @@ function pfDraw() {
     const row = el('div', { className: 'pf-mix' });
     const parts = Object.keys(PF_CATS).map(k => ({ k, ...PF_CATS[k], value: vals.filter(x => x.v.cat === k).reduce((s, x) => s + x.v.value, 0) })).filter(p => p.value > 0);
     const dbtn = el('button', { className: 'pf-donut-btn' }); dbtn.type = 'button'; dbtn.setAttribute('aria-label', 'Open your portfolio rundown');
-    dbtn.appendChild(pfDonut(parts, total)); dbtn.appendChild(el('span', { className: 'pf-donut-hint', text: '👆 Tap for your rundown' }));
+    dbtn.appendChild(pfDonut(parts, total)); dbtn.appendChild(el('span', { className: 'pf-donut-hint', text: 'Tap for your rundown' }));
     dbtn.onclick = () => pfRundown(vals, total, parts);
     row.appendChild(dbtn);
     const legend = el('div', { className: 'pf-legend' });
@@ -2875,23 +2871,23 @@ function pfRundown(vals, total, parts) {
   const pts = [];
   const sorted = vals.slice().sort((a, b) => b.v.value - a.v.value), top = sorted[0], topShare = top ? top.v.value / total : 0;
   const name = x => x.h.type === 'cash' ? (x.h.name || 'Cash') : (x.h.sym || x.h.name);
-  pts.push(['🧺', 'What you own', vals.length + ' holding' + (vals.length === 1 ? '' : 's') + ' across ' + parts.length + ' type' + (parts.length === 1 ? '' : 's') + '. Biggest: ' + name(top) + ' at ' + Math.round(topShare * 100) + '%.' + (topShare > 0.4 ? ' That’s a lot in one place, so its ups and downs drive yours.' : topShare > 0.25 ? ' A sizeable chunk, but not everything rides on it.' : ' Nicely spread out.')]);
+  pts.push(['sectors|var(--lavender-soft)|var(--lavender)', 'What you own', vals.length + ' holding' + (vals.length === 1 ? '' : 's') + ' across ' + parts.length + ' type' + (parts.length === 1 ? '' : 's') + '. Biggest: ' + name(top) + ' at ' + Math.round(topShare * 100) + '%.' + (topShare > 0.4 ? ' That’s a lot in one place, so its ups and downs drive yours.' : topShare > 0.25 ? ' A sizeable chunk, but not everything rides on it.' : ' Nicely spread out.')]);
   const movers = vals.filter(x => Math.abs(x.v.day) >= 0.005).sort((a, b) => b.v.day - a.v.day);
-  if (movers.length) pts.push(['📈', 'Today', 'Best: ' + name(movers[0]) + ' (' + pfSigned(movers[0].v.day) + ')' + (movers.length > 1 && movers[movers.length - 1].v.day < 0 ? '. Worst: ' + name(movers[movers.length - 1]) + ' (' + pfSigned(movers[movers.length - 1].v.day) + ').' : '.')]);
+  if (movers.length) pts.push(['pulse|var(--mint-soft)|var(--mint-deep)', 'Today', 'Best: ' + name(movers[0]) + ' (' + pfSigned(movers[0].v.day) + ')' + (movers.length > 1 && movers[movers.length - 1].v.day < 0 ? '. Worst: ' + name(movers[movers.length - 1]) + ' (' + pfSigned(movers[movers.length - 1].v.day) + ').' : '.')]);
   const withCost = vals.filter(x => x.v.gain != null);
-  if (withCost.length) { const g = withCost.reduce((s, x) => s + x.v.gain, 0), c = withCost.reduce((s, x) => s + x.v.cost, 0); pts.push(['🧾', 'Since you bought', (g >= 0 ? 'Up ' : 'Down ') + pfMoney(Math.abs(g)) + ' (' + pfPct(c ? g / c * 100 : 0) + ') on the holdings where you entered a price.']); }
+  if (withCost.length) { const g = withCost.reduce((s, x) => s + x.v.gain, 0), c = withCost.reduce((s, x) => s + x.v.cost, 0); pts.push(['history|var(--sky-soft)|var(--sky)', 'Since you bought', (g >= 0 ? 'Up ' : 'Down ') + pfMoney(Math.abs(g)) + ' (' + pfPct(c ? g / c * 100 : 0) + ') on the holdings where you entered a price.']); }
   const usd = vals.filter(x => x.v.cur === 'USD').reduce((s, x) => s + x.v.value, 0) / total;
-  if (usd > 0.005) pts.push(['💱', 'U.S. dollars', Math.round(usd * 100) + '% of your money is in U.S.-dollar investments, so a weaker loonie raises their value in Canadian dollars and a stronger one lowers it.']);
+  if (usd > 0.005) pts.push(['coin|var(--pink-soft)|var(--pink-deep)', 'U.S. dollars', Math.round(usd * 100) + '% of your money is in U.S.-dollar investments, so a weaker loonie raises their value in Canadian dollars and a stronger one lowers it.']);
   const cash = vals.filter(x => x.h.type === 'cash').reduce((s, x) => s + x.v.value, 0), yearly = vals.reduce((s, x) => s + (x.v.yearly || 0), 0);
-  pts.push(['🛟', 'Safety cushion', cash > 0 ? Math.round(cash / total * 100) + '% in cash and GICs' + (yearly > 0 ? ', earning about ' + pfMoney(yearly) + ' a year.' : '.') + ' This part barely moves when markets swing.' : 'No cash or GICs, so all of your money moves with markets.']);
+  pts.push(['shield|var(--mint-soft)|var(--mint-deep)', 'Safety cushion', cash > 0 ? Math.round(cash / total * 100) + '% in cash and GICs' + (yearly > 0 ? ', earning about ' + pfMoney(yearly) + ' a year.' : '.') + ' This part barely moves when markets swing.' : 'No cash or GICs, so all of your money moves with markets.']);
   const crypto = vals.filter(x => x.h.type === 'crypto').reduce((s, x) => s + x.v.value, 0) / total;
-  if (crypto > 0.005) pts.push(['🪙', 'Crypto', Math.round(crypto * 100) + '% in crypto, the bumpiest part of most portfolios.' + (crypto > 0.25 ? ' That’s a big share for something that can halve in a bad year.' : '')]);
+  if (crypto > 0.005) pts.push(['bitcoin|var(--pink-soft)|var(--pink-deep)', 'Crypto', Math.round(crypto * 100) + '% in crypto, the bumpiest part of most portfolios.' + (crypto > 0.25 ? ' That’s a big share for something that can halve in a bad year.' : '')]);
   try {
     const R = pfRisk(vals, total);
-    if (R && !R.empty) pts.push(['🎢', 'Bumpiness', 'Over the past year your mix swung about ' + (R.past.vol * 100).toFixed(0) + '% a year, moving about ' + R.beta.toFixed(1) + '× as much as the market. ' + Math.round(Math.max(0, Math.min(1, R.systematic)) * 100) + '% of your ups and downs came from the whole market, the rest from your specific picks.']);
+    if (R && !R.empty) pts.push(['signal|var(--lavender-soft)|var(--lavender)', 'Bumpiness', 'Over the past year your mix swung about ' + (R.past.vol * 100).toFixed(0) + '% a year, moving about ' + R.beta.toFixed(1) + '× as much as the market. ' + Math.round(Math.max(0, Math.min(1, R.systematic)) * 100) + '% of your ups and downs came from the whole market, the rest from your specific picks.']);
   } catch (e) { /* history not loaded yet */ }
   const list = el('div', { className: 'pf-rd-list' });
-  pts.forEach(([ic, t, txt]) => { const r = el('div', { className: 'pf-rd-row' }); r.appendChild(el('span', { className: 'pf-rd-ic', text: ic })); const b = el('div'); b.appendChild(el('div', { className: 'pf-key-t', text: t })); b.appendChild(el('p', { text: txt })); r.appendChild(b); list.appendChild(r); });
+  pts.forEach(([ic, t, txt]) => { const r = el('div', { className: 'pf-rd-row' }); const [k, bg, fg] = ic.split('|'); r.appendChild(widgetIcon(ICONS[k] ? k : 'pulse', bg, fg)); const b = el('div'); b.appendChild(el('div', { className: 'pf-key-t', text: t })); b.appendChild(el('p', { text: txt })); r.appendChild(b); list.appendChild(r); });
   box.appendChild(list);
   box.appendChild(el('p', { className: 'pf-rd-note', text: 'A snapshot for your own understanding, not advice.' }));
   const close = el('button', { className: 'info-btn info-close', text: 'Got it' }); close.type = 'button';
@@ -3121,7 +3117,6 @@ function pfSimpleDiagram(R, youP, modP) {
   const nums = {};
   const num = (x, y, n, cls) => {
     const g = pfS(svg, 'g', { class: 'num-btn', 'data-n': n, role: 'button', tabindex: 0, 'aria-label': 'Explain point ' + n });
-    const ring = document.createElementNS('http://www.w3.org/2000/svg', 'circle'); ring.setAttribute('cx', x); ring.setAttribute('cy', y); ring.setAttribute('r', 11); ring.setAttribute('class', 'num-ring ' + cls); g.appendChild(ring);
     const c = document.createElementNS('http://www.w3.org/2000/svg', 'circle'); c.setAttribute('cx', x); c.setAttribute('cy', y); c.setAttribute('r', 11); c.setAttribute('class', 'num ' + cls); g.appendChild(c);
     const t = document.createElementNS('http://www.w3.org/2000/svg', 'text'); t.setAttribute('x', x); t.setAttribute('y', y + 4); t.setAttribute('class', 'numt'); t.setAttribute('text-anchor', 'middle'); t.textContent = String(n); g.appendChild(t);
     nums[n] = g;
@@ -3142,7 +3137,7 @@ function pfSimpleDiagram(R, youP, modP) {
     ['n4', 'The suggested mix', 'The same investments you own, re-weighted so they would have given the most return for their bumpiness over the past year: about ' + pct(modP.sd) + ' bumpiness and ' + pct(modP.mean) + ' a year.', 'See “More of / Less of” above for the changes that get you there.'],
   ];
   // Tap a number (on the picture or in the row below) to open its explanation; tap again to close.
-  const hint = el('p', { className: 'pf-tap-hint', text: '👆 Tap a number to see what it means for you' });
+  const hint = el('p', { className: 'pf-tap-hint', text: 'Tap a number to see what it means for you' });
   const chips = el('div', { className: 'pf-key-chips' });
   const panel = el('div', { className: 'pf-key-panel' }); panel.hidden = true;
   let open = 0;
