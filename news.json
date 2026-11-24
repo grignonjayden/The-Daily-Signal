@@ -1,8 +1,17 @@
 {
-  "generated_at": "Nov 23, 2026, 9:37 PM ET",
+  "generated_at": "Nov 23, 2026, 9:42 PM ET",
   "date_key": "2026-11-23",
-  "updated_ts": 1795487836946,
+  "updated_ts": 1795488152450,
   "articles": [
+    {
+      "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "snippet": "On Monday, the S&P 500 and Nasdaq Composite posted their best sessions since April 2025 as the artificial intelligence trade roared back to life.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108557499-17954511872026-11-23t162257z_1550746027_rc2ptoat6i37_rtrmadp_0_usa-stocks.jpeg?v=1795451239&w=1920&h=1080",
+      "time": "Nov 23, 9:38 PM",
+      "coverage": 7
+    },
     {
       "title": "Jensen Huang’s comeback to Nvidia underscores his outsized grip on AI",
       "source": "Investing.com",
@@ -19,15 +28,6 @@
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN04E_L.jpg",
       "time": "Nov 23, 8:48 PM",
-      "coverage": 7
-    },
-    {
-      "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-      "snippet": "On Monday, the S&P 500 and Nasdaq Composite posted their best sessions since April 2025 as the artificial intelligence trade roared back to life.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108557499-17954511872026-11-23t162257z_1550746027_rc2ptoat6i37_rtrmadp_0_usa-stocks.jpeg?v=1795451239&w=1920&h=1080",
-      "time": "Nov 23, 8:43 PM",
       "coverage": 7
     },
     {
@@ -215,14 +215,34 @@
   ],
   "ticker": [
     {
+      "time": "9:37 PM",
+      "title": "CNBC — U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+      "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html"
+    },
+    {
+      "time": "9:35 PM",
+      "title": "Investing.com — Lock in InvestingPro for the year’s lowest price and find the best stocks NOW",
+      "url": "https://www.investing.com/news/stock-market-news/lock-in-investingpro-for-the-years-lowest-price-and-find-the-best-stocks-now-5045929"
+    },
+    {
+      "time": "9:34 PM",
+      "title": "Investing.com — BofA spots opportunities in these nine consumer staples stocks for 2027",
+      "url": "https://www.investing.com/news/stock-market-news/bofa-spots-opportunities-in-these-nine-consumer-staples-stocks-for-2027-5046888"
+    },
+    {
+      "time": "9:30 PM",
+      "title": "Investing.com — Australia to fine tech firms up to 5% of global revenue under internet safety bill",
+      "url": "https://www.investing.com/news/stock-market-news/australia-to-fine-tech-firms-up-to-5-of-global-revenue-under-internet-safety-bill-5046886"
+    },
+    {
       "time": "9:20 PM",
       "title": "CNBC — Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html"
     },
     {
-      "time": "8:56 PM",
-      "title": "CNBC — U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-      "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html"
+      "time": "9:18 PM",
+      "title": "Investing.com — US blacklists Megaspeed cloud company linked to Nvidia scandal",
+      "url": "https://www.investing.com/news/stock-market-news/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-5046337"
     },
     {
       "time": "8:45 PM",
@@ -253,26 +273,6 @@
       "time": "8:07 PM",
       "title": "Bloomberg — Keppel Agrees to Merge M1 and Starhub in All-Share Deal",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/keppel-agrees-to-merge-m1-and-starhub-in-all-share-deal"
-    },
-    {
-      "time": "8:06 PM",
-      "title": "Investing.com — Anthropic options post solid debut, trailing SpaceX record",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-options-debut-with-brisk-volume-5046078"
-    },
-    {
-      "time": "8:05 PM",
-      "title": "Investing.com — 60%+ since picked: Our AI stock picks for under $8 a month this early Black Friday",
-      "url": "https://www.investing.com/news/stock-market-news/60-since-picked-our-ai-stock-picks-for-under-8-a-month-this-early-black-friday-5044791"
-    },
-    {
-      "time": "8:04 PM",
-      "title": "WSJ Markets — Gold Rises Amid Risk-on Sentiment Across Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main"
-    },
-    {
-      "time": "8:01 PM",
-      "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories"
     }
   ]
 }
