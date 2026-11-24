@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 24, 2026, 5:00 PM ET",
+  "generated_at": "Nov 24, 2026, 5:33 PM ET",
   "date_key": "2026-11-24",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -126,7 +126,7 @@
     {
       "title": "Bank of Canada expects 2nd round of oil-linked inflation in 2027, Macklem says",
       "url": "https://www.cbc.ca/news/business/bank-canada-governor-tiff-macklem-speech-9.7433693?cmp=rss",
-      "image": "https://i.cbc.ca/ais/f7e7ae7f-e69b-42ad-9eda-0eef2d268c61,1795528758290/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
+      "image": "https://i.cbc.ca/ais/065d45b8-8024-4489-92c9-f21ada518486,1795552096676/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B",
       "source": "CBC News",
       "badge": "CBC",
       "analysis": false,
@@ -208,9 +208,9 @@
   ],
   "feed_status": [
     {
-      "source": "Finance Canada",
+      "source": "Bank of Canada",
       "fetched": 20,
-      "kept": 4
+      "kept": 3
     },
     {
       "source": "CBC News",
@@ -218,9 +218,9 @@
       "kept": 3
     },
     {
-      "source": "Bank of Canada",
+      "source": "Finance Canada",
       "fetched": 20,
-      "kept": 3
+      "kept": 4
     },
     {
       "source": "CDEV",
@@ -228,23 +228,23 @@
       "kept": 0
     },
     {
-      "source": "ISED",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
       "source": "Canada Media Fund",
       "fetched": 24,
       "kept": 1
     },
     {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
+      "source": "ISED",
+      "fetched": 20,
       "kept": 4
     },
     {
       "source": "CP24",
       "fetched": 200,
+      "kept": 4
+    },
+    {
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
       "kept": 4
     }
   ]
