@@ -1,0 +1,37 @@
+name: Update portfolio quotes
+
+# The news loop (update-news.yml) also refreshes quotes.json every ~15 minutes; this is a quick one-off/backup.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '41 */2 * * *'
+  push:
+    branches: [main]
+    paths: ['scripts/fetch-quotes.mjs']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-quotes
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch quotes
+        run: node scripts/fetch-quotes.mjs
+      - name: Commit quotes.json if it changed
+        run: |
+          git config user.name "daily-signal-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add quotes.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update portfolio quotes $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 7; done

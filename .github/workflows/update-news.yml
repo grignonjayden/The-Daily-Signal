@@ -6,7 +6,7 @@ on:
   workflow_dispatch:          # lets you run it by hand from the Actions tab
   push:                       # also runs right away when its script changes
     branches: [main]
-    paths: ['scripts/fetch-news.mjs', '.github/workflows/update-news.yml']
+    paths: ['scripts/fetch-news.mjs', 'scripts/fetch-quotes.mjs', '.github/workflows/update-news.yml']
 
 permissions:
   contents: write
@@ -25,7 +25,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      # Headlines refresh every 3 minutes; government stories (Industry Moves / Economic Policy) every ~30 minutes.
+      # Headlines refresh every 3 minutes; Portfolio stock/ETF prices every ~15 minutes;
+      # government stories (Industry Moves / Economic Policy) every ~30 minutes.
       # One run lasts about 5.5 hours, then hands off to a fresh run, so updates keep going around the clock.
       - name: Refresh news every 3 minutes for ~5.5 hours
         run: |
@@ -38,11 +39,15 @@ jobs:
             git pull -q --rebase origin main || true
             node scripts/fetch-news.mjs || echo "news fetch failed this round"
             files="news.json"
+            if [ $((round % 5)) = 1 ]; then
+              node scripts/fetch-quotes.mjs || echo "portfolio quotes fetch failed this round"
+              files="$files quotes.json"
+            fi
             if [ $((round % 10)) = 1 ]; then
               node scripts/fetch-canada.mjs || echo "government fetch failed this round"
-              files="news.json canada.json government.json"
+              files="$files canada.json government.json"
             fi
-            git add $files
+            git add $files 2>/dev/null || git add news.json
             if git diff --cached --quiet; then echo "No changes"; else
               git commit -q -m "Update news $(date -u +'%Y-%m-%d %H:%M UTC')"
               for i in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 7; done
