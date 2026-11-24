@@ -1507,10 +1507,11 @@ function newsThumb(a, official) {
   return wrap;
 }
 
-const NEWS_MAX_MS = 4 * 864e5; // News tab: stories older than 4 days are hidden
-function freshOnly(list, when) { return (list || []).filter(a => { const t = when(a); return !t || Date.now() - t < NEWS_MAX_MS; }); }
+// News tab age limits: headlines 4 days; slower sections stay longer.
+const NEWS_DAYS = { headlines: 4, official: 7, sector: 7, policy: 14 };
+function freshOnly(list, when, days) { return (list || []).filter(a => { const t = when(a); return !t || Date.now() - t < (days || NEWS_DAYS.headlines) * 864e5; }); }
 function renderNews(data, dateKey) {
-  data = { ...data, articles: freshOnly(data.articles, a => a.ts), official: freshOnly(data.official, a => a.ts), ticker: freshOnly(data.ticker, a => a.ts) };
+  data = { ...data, articles: freshOnly(data.articles, a => a.ts), official: freshOnly(data.official, a => a.ts, NEWS_DAYS.official), ticker: freshOnly(data.ticker, a => a.ts) };
   if (data.date_key) dateKey = data.date_key;
   dateline.textContent = 'News dispatch for ' + fmtDateHuman(dateKey) + ' · generated ' + (data.generated_at || '');
   mainPanel.innerHTML = '';
@@ -1924,7 +1925,7 @@ function govGroup(a) {
   return 'sector';
 }
 function buildGovWidgets(data) {
-  const all = freshOnly(data.items, a => Date.parse(a.date || '') || 0);
+  const all = freshOnly(data.items, a => Date.parse(a.date || '') || 0, NEWS_DAYS.policy).filter(a => govGroup(a) === 'policy' || Date.now() - (Date.parse(a.date || '') || Date.now()) < NEWS_DAYS.sector * 864e5);
   const out = [];
   const sector = all.filter(a => govGroup(a) === 'sector');
   const policy = all.filter(a => govGroup(a) === 'policy').map(a => /Monetary|Fiscal/.test(a.sector) ? a : { ...a, sector: /bank of canada|rate|inflation|monetary|price stability/i.test(a.title) ? 'Monetary' : 'Fiscal' });

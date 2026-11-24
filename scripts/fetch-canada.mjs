@@ -225,7 +225,9 @@ const SECTORS = [
 
 // ---------- Deals in the works (headlines from Canadian news and federal sources) ----------
 const GC = (dept) => `https://api.io.canada.ca/io-server/gc/news/en/v2?dept=${dept}&sort=publishedDate&orderBy=desc&pick=20&format=atom`;
-const GOV_MAX_DAYS = 4; // News-tab government stories older than 4 days drop off
+// How long stories stay in the News tab: industry stories a week, economic policy two weeks
+// (the Bank of Canada and Finance Canada post less often).
+const SECTOR_MAX_DAYS = 7, POLICY_MAX_DAYS = 14, GOV_MAX_DAYS = POLICY_MAX_DAYS;
 const DEAL_FEEDS = [
   { source: 'CBC News', badge: 'CBC', news: true, urls: ['https://www.cbc.ca/webfeed/rss/rss-business', 'https://www.cbc.ca/webfeed/rss/rss-politics'] },
   { source: 'CP24', badge: 'CP24', news: true, urls: ['https://www.cp24.com/arc/outboundfeeds/rss/?outputType=xml', 'https://www.cp24.com/arc/outboundfeeds/rss/category/news/?outputType=xml'] },
@@ -348,6 +350,8 @@ async function deals() {
     if (a.group === 'policy' && !/Monetary|Fiscal/.test(a.sector)) a.sector = MONETARY_RE.test(a.title) ? 'Monetary' : 'Fiscal';
     delete a.policy;
   });
+  const sectorCut = Date.now() - SECTOR_MAX_DAYS * 864e5;
+  all.splice(0, all.length, ...all.filter(a => a.group === 'policy' || a.ts >= sectorCut));
   const top = [...all.filter(a => a.group === 'sector').slice(0, 12), ...all.filter(a => a.group === 'policy').slice(0, 6)];
   await Promise.all(top.filter(a => !a.image).map(async a => { a.image = await pageImage(a.url); }));
   console.log('Deal pictures:', top.filter(a => a.image).length + '/' + top.length);

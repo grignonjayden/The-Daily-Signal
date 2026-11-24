@@ -31,7 +31,8 @@ const PER_SOURCE = 2;    // cap per outlet so one source can't take over the lis
 const MAX_OFFICIAL = 8;  // "Official releases" card
 const OFFICIAL_PER_SOURCE = 2;
 const MAX_TICKER = 12;   // rows in "Throughout the Day"
-const MAX_AGE_DAYS = 4; // stories older than 4 days drop off
+const MAX_AGE_DAYS = 4;      // headlines and 'Throughout the Day' drop off after 4 days
+const OFFICIAL_MAX_DAYS = 7; // official releases come out less often, so they stay a week
 const TZ = 'America/Toronto';
 
 const decode = s => s
@@ -99,9 +100,9 @@ async function load(feed) {
 
 const fmt = (d, opts) => d.toLocaleString('en-US', { timeZone: TZ, ...opts });
 
-const cutoff = Date.now() - MAX_AGE_DAYS * 864e5;
+const cutoff = Date.now() - MAX_AGE_DAYS * 864e5, officialCutoff = Date.now() - OFFICIAL_MAX_DAYS * 864e5;
 const results = await Promise.all(FEEDS.map(load));
-const all = results.flat().filter(i => i.date.getTime() >= cutoff).sort((a, b) => b.date - a.date);
+const all = results.flat().filter(i => i.date.getTime() >= (i.official ? officialCutoff : cutoff)).sort((a, b) => b.date - a.date);
 
 if (!all.length) { console.error('No feeds returned anything; leaving news.json unchanged.'); process.exit(0); }
 
