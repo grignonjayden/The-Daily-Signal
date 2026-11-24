@@ -1,14 +1,14 @@
 {
-  "generated_at": "Nov 24, 2026, 3:28 PM ET",
+  "generated_at": "Nov 24, 2026, 3:32 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795552121121,
+  "updated_ts": 1795552322529,
   "articles": [
     {
       "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
-      "image": "https://www.theglobeandmail.com/resizer/v2/OPYQF7O5SVEPRMEDR3I5UCEATQ.JPG?auth=7a02ad79d399820d54b5fc9bdcf043041c14540e2bce47208bd2ec8de1cf9608&smart=true&width=5500&height=3668",
+      "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "3:30 PM",
+      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "ts": 1795552200000
+    },
+    {
       "time": "3:24 PM",
       "title": "Investing.com — S&P upgrades E.W. Scripps to ‘B-’ on cost cuts and debt reduction progress",
       "url": "https://www.investing.com/news/stock-market-news/sp-upgrades-ew-scripps-to-b-on-cost-cuts-and-debt-reduction-progress-5048953",
@@ -301,12 +307,6 @@
       "title": "Investing.com — US proposes to give automakers until 2031 to install automatic emergency braking",
       "url": "https://www.investing.com/news/stock-market-news/us-proposes-to-give-automakers-until-2031-to-install-automatic-emergency-braking-5048923",
       "ts": 1795549779000
-    },
-    {
-      "time": "2:47 PM",
-      "title": "CNBC — Anthropic shares fall below IPO price. Traders see even more pain",
-      "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
-      "ts": 1795549662000
     }
   ]
 }
