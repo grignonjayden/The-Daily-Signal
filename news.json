@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 6:07 PM ET",
+  "generated_at": "Nov 24, 2026, 6:11 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795561658690,
+  "updated_ts": 1795561867398,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "6:05 PM",
+      "title": "Globe and Mail — Couche-Tard earns $691.3M second-quarter profit",
+      "url": "https://www.theglobeandmail.com/business/article-couche-tard-earns-6913m-second-quarter-profit/",
+      "ts": 1795561509000
+    },
+    {
       "time": "6:03 PM",
       "title": "CNBC — Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
       "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — S&P upgrades Canadian Pacific Kansas City to A- on cross-border growth momentum",
       "url": "https://www.investing.com/news/stock-market-news/sp-upgrades-canadian-pacific-kansas-city-to-a-on-crossborder-growth-momentum-5049273",
       "ts": 1795559761000
-    },
-    {
-      "time": "5:29 PM",
-      "title": "Investing.com — Centuri Holdings stock jumps on S&P SmallCap 600 inclusion",
-      "url": "https://www.investing.com/news/stock-market-news/centuri-holdings-stock-jumps-on-sp-smallcap-600-inclusion-5049257",
-      "ts": 1795559383000
     }
   ]
 }
