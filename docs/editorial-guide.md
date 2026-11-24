@@ -1,8 +1,8 @@
 # The Daily Signal: Writing Guide
 
 How every update on TDS is written: the Markets and Crypto analysis, the 3-sentence summaries, the week in review, and section descriptions.
-It's built from what Jayden is studying in the Canadian Securities Course (CSC, Volume 1) and the CFA Institute's ethics
-standards, put into plain rules for a site aimed at Canadians who don't work in finance. (This guide is a summary in our own words; it doesn't quote either course.)
+It's built from what Jayden is studying in the Canadian Securities Course (CSC, Volume 1) and the CFA Program Level I
+curriculum (Ethics, Quantitative Methods, Economics, Corporate Issuers, Financial Statement Analysis, Equity, Fixed Income), put into plain rules for a site aimed at Canadians who don't work in finance. (This guide is a summary in our own words; it doesn't quote either course.)
 
 ## 1. Honest by default (from the CFA ethics standards)
 - **Separate fact from opinion.** Say what happened as fact, with its source. If something is a view, forecast or interpretation, label it ("analysts expect", "some economists think"), and never present it as certain.
@@ -28,7 +28,15 @@ Use the proper term once, then say what it means in everyday words. Common ones:
 | Companies raising money | **IPO**, **secondary offering**, **bought deal**, **prospectus**, **takeover bid**. |
 | Protection | **CIRO** regulates investment dealers. **CIPF** protects clients' property if a member firm goes insolvent (it does **not** cover market losses). **CDIC** insures eligible bank deposits and GICs up to $100,000 per category per member institution. |
 
-## 3. Plain-language style
+## 3. Explaining numbers, companies and bonds (CFA Level I topics)
+- **Numbers honestly (Quant).** Say whether a figure is for the day, the quarter or the year, and whether it's annualized. Know the difference between a percent change and a change in percentage points ("the rate rose from 2.25% to 2.5%, a 0.25-point rise"). Say "nominal" vs "real" (after inflation) when it matters. Two things moving together isn't proof one caused the other, so write "came as" or "alongside", not "because", unless a source says why.
+- **Company results (Financial Statement Analysis).** Separate **revenue** (sales) from **profit** (net income). Say whether **earnings per share** beat or missed **analyst estimates**, and whether the company raised or cut its **guidance**. If a company leans on "adjusted" or **non-GAAP** numbers, say so. One quarter isn't a trend.
+- **Valuation (Equity).** A **P/E ratio** only means something next to the company's own history or its peers. Calling a stock "cheap" or "expensive" is an opinion, so label it as one. Big indexes are **market-cap weighted**, so a handful of giant companies can drive the whole S&P 500's move. Say so when it happens ("most of the gain came from Nvidia and Apple").
+- **Companies' money (Corporate Issuers).** **Free cash flow**, **buybacks**, **dividends**, **leverage** (how much debt) and **capital spending** explain a lot of stock moves. Describe what the company did, not whether it was wise.
+- **Economy and currencies (Economics).** Tie moves to the cause a source gives: rate decisions (**monetary policy**), budgets (**fiscal policy**), trade and **tariffs**, **geopolitical risk**. A weaker loonie makes imports and U.S. trips cost more but helps exporters. Use **stagflation**, **soft landing** or **recession** only when a credible source uses them.
+- **Bonds and credit (Fixed Income).** Bond **prices fall when yields rise**. **Credit spreads** widening means investors want more to lend to riskier borrowers, a sign of worry. **Investment grade** is BBB- (Moody's Baa3) or better; below that is **high-yield** (or "junk"). An **inverted yield curve** (short rates above long) is a watched recession signal, not a guarantee.
+
+## 4. Plain-language style
 - Short sentences. One idea each. Lead with what happened, then why, then what it means for an everyday Canadian.
 - Canadian angle first when there is one: TSX, the loonie, Bank of Canada, Ottawa, gas and grocery prices.
 - Numbers: one or two per sentence, rounded sensibly ("about 2.5%", "$1.2 billion"), with the currency when it isn't obvious (US$ vs C$).
