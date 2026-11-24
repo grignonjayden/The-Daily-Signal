@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 2:17 PM ET",
+  "generated_at": "Nov 24, 2026, 2:21 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795547863099,
+  "updated_ts": 1795548064420,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -24,24 +24,14 @@
       "ts": 1795542705000
     },
     {
-      "title": "Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
+      "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-5047621",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
-      "time": "Nov 24, 1:18 PM",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0VS_L.jpg",
+      "time": "Nov 24, 2:01 PM",
       "coverage": 5,
-      "ts": 1795544299000
-    },
-    {
-      "title": "Nvidia’s Huang returns to cheers in China, but political hurdles mount",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidias-huang-returns-to-cheers-in-china-but-political-hurdles-mount-5048427",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN17M_L.jpg",
-      "time": "Nov 24, 1:00 PM",
-      "coverage": 5,
-      "ts": 1795543219000
+      "ts": 1795546883000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -52,6 +42,16 @@
       "time": "Nov 24, 11:01 AM",
       "coverage": 5,
       "ts": 1795536060000
+    },
+    {
+      "title": "Schumer accuses Nvidia CEO of violating US export control law",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law-5048879",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1Q1_L.jpg",
+      "time": "Nov 24, 1:55 PM",
+      "coverage": 4,
+      "ts": 1795546505000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO after Trump intervention",
@@ -236,16 +236,34 @@
   ],
   "ticker": [
     {
-      "time": "2:14 PM",
+      "time": "2:19 PM",
       "title": "CNBC — AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
       "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-      "ts": 1795547644000
+      "ts": 1795547952000
+    },
+    {
+      "time": "2:15 PM",
+      "title": "CNBC — Investors are fleeing this data center stock. I see an opportunity",
+      "url": "https://www.cnbc.com/2026/11/24/investors-are-fleeing-this-data-center-stock-i-see-an-opportunity.html",
+      "ts": 1795547712000
     },
     {
       "time": "2:11 PM",
       "title": "Globe and Mail — Who has the best market forecast? You do",
       "url": "https://www.theglobeandmail.com/investing/personal-finance/article-who-has-the-best-market-forecast-you-do/",
       "ts": 1795547485000
+    },
+    {
+      "time": "2:06 PM",
+      "title": "Investing.com — Shein to pay $100 million to settle US shipping, customer service claims",
+      "url": "https://www.investing.com/news/stock-market-news/shein-to-pay-100-million-to-settle-us-claims-ftc-official-says-5048743",
+      "ts": 1795547199000
+    },
+    {
+      "time": "2:05 PM",
+      "title": "Investing.com — Dell, Micron among market cap stock movers on Tuesday",
+      "url": "https://www.investing.com/news/stock-market-news/dell-micron-among-market-cap-stock-movers-on-tuesday-93CH-5048886",
+      "ts": 1795547121000
     },
     {
       "time": "2:04 PM",
@@ -260,6 +278,24 @@
       "ts": 1795546920000
     },
     {
+      "time": "2:01 PM",
+      "title": "Investing.com — GDP, jobless claims, and PCE among key data due Wednesday",
+      "url": "https://www.investing.com/news/stock-market-news/gdp-jobless-claims-and-pce-among-key-data-due-wednesday-93CH-5048884",
+      "ts": 1795546883000
+    },
+    {
+      "time": "2:00 PM",
+      "title": "Investing.com — Deere, Polestar, and more set to report earnings Wednesday",
+      "url": "https://www.investing.com/news/stock-market-news/deere-polestar-and-more-set-to-report-earnings-wednesday-93CH-5048882",
+      "ts": 1795546831000
+    },
+    {
+      "time": "1:56 PM",
+      "title": "Investing.com — US House Democrats expand probe into Trump Jr.’s investments",
+      "url": "https://www.investing.com/news/stock-market-news/house-democrats-investigate-trump-jrs-firm-and-related-companies-5048692",
+      "ts": 1795546565000
+    },
+    {
       "time": "1:52 PM",
       "title": "WSJ Markets — Gold Futures Give Back Gains Following Nvidia-Driven Rally",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
@@ -270,42 +306,6 @@
       "title": "Globe and Mail — Bank of Canada refines inflation-targeting framework for shock-prone world",
       "url": "https://www.theglobeandmail.com/business/article-bank-of-canada-macklem-inflation-targeting-framework-november-24/",
       "ts": 1795546257000
-    },
-    {
-      "time": "1:48 PM",
-      "title": "Investing.com — Bruised S&P 500 seen gaining more than 12% by end-2027",
-      "url": "https://www.investing.com/news/stock-market-news/bruised-sp-500-seen-gaining-more-than-12-by-end2027-reuters-poll-5048867",
-      "ts": 1795546134000
-    },
-    {
-      "time": "1:48 PM",
-      "title": "MarketWatch — Visiting Las Vegas is getting too expensive — but don’t blame airfares",
-      "url": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
-      "ts": 1795546080000
-    },
-    {
-      "time": "1:46 PM",
-      "title": "Investing.com — Schumer accuses Huang of violating US export law",
-      "url": "https://www.investing.com/news/stock-market-news/schumer-accuses-huang-of-violating-us-export-law-5048872",
-      "ts": 1795545971000
-    },
-    {
-      "time": "1:45 PM",
-      "title": "Investing.com — Nasdaq slides as AI trade uncertainty remains despite explosive Nvidia-led rally",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
-      "ts": 1795545909000
-    },
-    {
-      "time": "1:42 PM",
-      "title": "Bloomberg — AI Is a Financing Story",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/ai-is-a-financing-story",
-      "ts": 1795545777000
-    },
-    {
-      "time": "1:38 PM",
-      "title": "WSJ Markets — U.S. Treasury Auction of 5-Year Note Shows Slightly Soft Demand",
-      "url": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
-      "ts": 1795545480000
     }
   ]
 }
