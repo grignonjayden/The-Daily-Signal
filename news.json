@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 2:00 PM ET",
+  "generated_at": "Nov 24, 2026, 2:03 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795546828325,
+  "updated_ts": 1795547028206,
   "articles": [
     {
       "title": "Nvidia shares fall 7% as Huang comeback rally cools",
@@ -156,6 +156,16 @@
   ],
   "official": [
     {
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+      "snippet": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 2:00 PM",
+      "ts": 1795546800000
+    },
+    {
       "title": "Farm income, 2025 (revised data)",
       "source": "Statistics Canada",
       "url": "https://www.statcan.gc.ca/daily-quotidien/261124/dq261124a-eng.htm",
@@ -202,16 +212,6 @@
       "fallback_image": true,
       "time": "Nov 20, 10:42 AM",
       "ts": 1795189365000
-    },
-    {
-      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-      "snippet": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 20, 10:00 AM",
-      "ts": 1795186800000
     },
     {
       "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
