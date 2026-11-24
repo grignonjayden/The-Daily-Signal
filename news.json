@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 5:16 PM ET",
+  "generated_at": "Nov 24, 2026, 5:20 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795558617449,
+  "updated_ts": 1795558822186,
   "articles": [
     {
       "title": "Nvidia stock falls nearly 6% after Huang’s return sparks best day in over 23 years",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "5:18 PM",
+      "title": "CNBC — Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+      "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+      "ts": 1795558727000
+    },
+    {
       "time": "5:07 PM",
       "title": "CNBC — Dell earnings beat on AI strength, company authorizes $25 billion buyback",
       "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — Financial Services Roundup: Market Talk",
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main",
       "ts": 1795557360000
-    },
-    {
-      "time": "4:55 PM",
-      "title": "WSJ Markets — Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
-      "url": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main",
-      "ts": 1795557300000
     }
   ]
 }
