@@ -547,6 +547,42 @@
   .pf-ind-row { display: flex; align-items: baseline; gap: 10px; margin-top: 6px; }
   .pf-ind-why { margin: 0; }
   .pf-ind-you { flex: none; white-space: nowrap; display: inline-block; font-size: 11.5px; font-weight: 700; color: var(--pink-deep); background: var(--pink-soft); border-radius: 999px; padding: 3px 10px; }
+  .pf-risk-tiles .pf-stat { flex: 1 1 200px; }
+  .pf-tile-note { font-size: 12px !important; line-height: 1.4; margin: 6px 0 0; color: var(--ink-soft); }
+  .pf-sys, .pf-model { margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--line); }
+  .pf-sys-head { font-size: 14px; font-weight: 800; margin-bottom: 10px; }
+  .pf-sys-bar { display: flex; height: 14px; border-radius: 7px; overflow: hidden; background: var(--surface-alt); }
+  .pf-sys-bar .sys { background: #1C2E52; } .pf-sys-bar .idio { background: #D9722C; }
+  .pf-sys-leg { display: flex; justify-content: space-between; gap: 10px; font-size: 12.5px; font-weight: 800; margin: 6px 0 8px; }
+  .pf-sys-leg .sys { color: #1C2E52; } .pf-sys-leg .idio { color: var(--pink-deep); }
+  :root[data-theme="dark"] .pf-sys-leg .sys { color: #9DB4E6; } :root[data-theme="dark"] .pf-sys-bar .sys { background: #6F8CC8; }
+  .pf-rt { margin-top: 14px; font-size: 13px; }
+  .pf-rt-row { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 8px; padding: 8px 4px; border-bottom: 1px solid var(--line); align-items: center; }
+  .pf-rt-row span:not(:first-child) { text-align: right; }
+  .pf-rt-head { font-size: 11.5px; font-weight: 700; color: var(--ink-faint); }
+  .pf-rt-row span:first-child { font-weight: 700; }
+  .pf-rt-row .up { color: var(--mint-deep); font-weight: 700; } .pf-rt-row .down { color: var(--pink-deep); font-weight: 700; }
+  .pf-stack-row { display: grid; grid-template-columns: 80px 1fr; gap: 10px; align-items: center; margin: 8px 0; }
+  .pf-stack-lbl { font-size: 12px; font-weight: 700; color: var(--ink-soft); }
+  .pf-stack { display: flex; height: 18px; border-radius: 9px; overflow: hidden; background: var(--surface-alt); }
+  .pf-stack span { height: 100%; }
+  .pf-caveat { font-size: 12px; font-weight: 600; color: var(--ink-soft); background: var(--surface-alt); border-radius: 12px; padding: 10px 12px; margin: 12px 0 0; }
+  .pf-ind-tag { display: inline-block; font-size: 10.5px; font-weight: 800; letter-spacing: .02em; border-radius: 999px; padding: 2px 8px; margin-left: 6px; background: var(--surface-alt); color: var(--ink-soft); }
+  @media (max-width: 600px) { .pf-risk-tiles .pf-stat { flex: 1 1 42%; padding: 10px 11px; } .pf-chart .tk { font-size: 15px; } .pf-chart .al, .pf-chart .lbl { font-size: 16px; } .pf-chart .cloud { r: 2.4; } .pf-rt { font-size: 12px; } .pf-rt-row { grid-template-columns: 1.2fr .8fr 1fr 1fr; gap: 6px; } }
+  .pf-chart-wrap { margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--line); }
+  .pf-chart { width: 100%; max-width: 640px; height: auto; display: block; margin: 4px 0 8px; }
+  .pf-chart .ax { stroke: var(--ink-faint); stroke-width: 1; } .pf-chart .grid { stroke: var(--line); stroke-width: 1; }
+  .pf-chart .tk { font-size: 10px; fill: var(--ink-faint); font-family: inherit; } .pf-chart .al { font-size: 10.5px; font-weight: 700; fill: var(--ink-soft); font-family: inherit; }
+  .pf-chart .lbl { font-size: 10.5px; font-weight: 700; fill: var(--ink); font-family: inherit; }
+  .pf-chart .cloud { fill: var(--ink-faint); opacity: .35; }
+  .pf-chart .front { fill: none; stroke: var(--ink); stroke-width: 3; stroke-linecap: round; }
+  .pf-chart .cmll { fill: #2F63D6; }
+  .pf-chart .cml, .pf-chart .sml { stroke: #2F63D6; stroke-width: 2; } .pf-chart .beta1 { stroke: var(--ink-faint); stroke-dasharray: 4 4; }
+  .pf-chart .rf { fill: #2F63D6; } .pf-chart .tan { fill: #1E9E5A; stroke: #fff; stroke-width: 1.5; } .pf-chart .you { fill: #D9722C; stroke: #fff; stroke-width: 1.5; }
+  .pf-chart .tanl { fill: #1E9E5A; } .pf-chart .youl { fill: #D9722C; }
+  .pf-chart .above { fill: #1C2E52; } .pf-chart .below { fill: #D9722C; }
+  :root[data-theme="dark"] .pf-chart .above { fill: #9DB4E6; }
+  .pf-formula { font-size: 13.5px; font-weight: 700; background: var(--surface-alt); border-radius: 12px; padding: 10px 12px; margin: 12px 0 0; font-variant-numeric: tabular-nums; }
   .pf-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 6px 2px 0; }
   .pf-foot .live-updated { margin: 0; max-width: 620px; }
   .pf-protect { flex-basis: 100%; font-size: 12.5px; margin: 0; }
@@ -2293,7 +2329,20 @@ const GLOSSARY = {
   'inverted yield curve': 'When short-term bonds pay more than long-term ones. A closely watched recession warning, but not a guarantee.',
   'coupon': 'The fixed interest payment a bond pays, usually twice a year.',
   'mortgage-backed securities': 'Bonds made by bundling many home mortgages together; investors get paid from homeowners’ payments.',
-  'debt default': 'When a borrower fails to make a promised payment on its debt.'
+  'debt default': 'When a borrower fails to make a promised payment on its debt.',
+  'Sharpe ratio': 'Return above the risk-free rate divided by volatility: how much reward you got for each unit of risk. Higher is better.',
+  'beta': 'How much an investment tends to move when the whole market moves. 1 = same as the market, 2 = twice as much, 0.5 = half.',
+  'CAPM': 'Capital Asset Pricing Model: says an investment should earn the risk-free rate plus extra for its market risk (beta).',
+  'Markowitz': 'Harry Markowitz, who showed that mixing investments that don’t move together can cut risk without giving up return.',
+  'portfolio theory': 'The idea, from Harry Markowitz, that you judge investments by how they work together, not one at a time.',
+  'efficient frontier': 'The set of mixes giving the most expected return for each level of risk.',
+  'tangency portfolio': 'The mix on the efficient frontier with the best Sharpe ratio, where the Capital Market Line touches it.',
+  'Capital Market Line': 'A line from the risk-free rate through the best-Sharpe mix: every blend of cash and that mix lies on it.',
+  'security market line': 'CAPM’s line of expected return for each level of beta. Investments above it beat their predicted return.',
+  'systematic risk': 'Risk from the whole market, like interest rates or recessions. Diversifying can’t remove it.',
+  'idiosyncratic risk': 'Risk specific to one company or investment. Spreading your money across many reduces it.',
+  'market premium': 'The extra return investors expect from the stock market over a risk-free investment.',
+  'risk-adjusted': 'Measured against how much risk was taken, not just the raw return.'
 };
 const GLOSS_TERMS = Object.keys(GLOSSARY).sort((a, b) => b.length - a.length);
 const GLOSS_RE = new RegExp('(?<![\\w-])(' + GLOSS_TERMS.map(t => t.replace(/[.*+?^${}()|[\]\\&]/g, '\\$&')).join('|') + ')(?![\\w-])', 'gi');
@@ -2450,7 +2499,8 @@ async function renderPortfolio() {
     mainPanel.innerHTML = '';
     const w = el('div', { className: 'widget w-span-12 pf-root' }); w.appendChild(el('p', { className: 'item-summary', text: 'Loading prices…' })); mainPanel.appendChild(w);
   }
-  await Promise.all([pfLoadQuotes(), pfLoadCoins(), liveLoaded.news ? null : loadLive('news'), liveLoaded.government ? null : loadLive('government')]);
+  await Promise.all([pfLoadQuotes(), pfLoadCoins(), pfLoadHistory(), liveLoaded.news ? null : loadLive('news'), liveLoaded.government ? null : loadLive('government'), liveLoaded.canada ? null : loadLive('canada')]);
+  await pfLoadCoinHistory(pfLoad().filter(h => h.type === 'crypto').map(h => h.cgId));
   if (activeTab !== 'portfolio') return;
   pfDraw();
   clearInterval(PF.timer);
@@ -2463,6 +2513,8 @@ async function renderPortfolio() {
 
 function pfDraw() {
   const holdings = pfLoad(), fx = pfFx();
+  const missing = holdings.filter(h => h.type === 'crypto' && PF.hist && !PF.coinHist[h.cgId]).map(h => h.cgId);
+  if (missing.length) pfLoadCoinHistory(missing).then(() => { if (activeTab === 'portfolio' && missing.some(id => PF.coinHist[id])) pfDraw(); });
   const keepType = PF.addType;
   mainPanel.innerHTML = '';
   const vals = holdings.map(h => ({ h, v: pfValue(h, fx) }));
@@ -2540,6 +2592,7 @@ function pfDraw() {
     const q = PF.quotes;
     list.appendChild(el('p', { className: 'live-updated', text: 'Stock & ETF prices from Yahoo Finance' + (q ? ', updated ' + q.generated_at : '') + ' (about every 15 min, delayed) · crypto live from CoinGecko · U.S. prices converted at US$1 = C$' + (fx ? fx.toFixed(4) : '1.40 (estimate)') }));
     mainPanel.appendChild(list);
+    mainPanel.appendChild(pfRiskWidget(vals, total));
     mainPanel.appendChild(pfIndirectWidget(vals, total));
   }
 
@@ -2668,7 +2721,13 @@ function pfStories() {
   const seen = new Set();
   return out.filter(s => s.title && !seen.has(s.title) && seen.add(s.title)).sort((a, b) => b.ts - a.ts);
 }
-function pfIndexMove(name) { const m = PRICES && (PRICES.markets || []).find(x => x.name === name); return m && typeof m.change_pct === 'number' ? m.change_pct : null; }
+// Today's index move, taken from the same price snapshot as your holdings (an ETF that tracks it), else the Markets data.
+const PF_INDEX_PROXY = { 'S&P 500': 'US:SPY', 'S&P/TSX': 'TSX:XIC', 'Nasdaq': 'US:QQQ' };
+function pfIndexMove(name) {
+  const k = PF_INDEX_PROXY[name], q = k && PF.quotes && (PF.quotes.quotes || []).find(x => x.x + ':' + x.s === k);
+  if (q && q.pc) return (q.p - q.pc) / q.pc * 100;
+  const m = PRICES && (PRICES.markets || []).find(x => x.name === name); return m && typeof m.change_pct === 'number' ? m.change_pct : null;
+}
 
 function pfWhyMoved(vals, total) {
   const day = vals.reduce((s, x) => s + x.v.day, 0), base = total - day, pct = base > 0 ? day / base * 100 : 0;
@@ -2689,8 +2748,11 @@ function pfWhyMoved(vals, total) {
   for (const idx of Object.keys(PF_INDEX_ETF)) if (pfSymIn(PF_INDEX_ETF[idx], s)) { const m = pfIndexMove(idx); if (m != null) ctx = s + ' tracks the ' + idx + ', which is ' + (m >= 0 ? 'up ' : 'down ') + Math.abs(m).toFixed(1) + '% today.'; }
   if (!ctx && ex.has('global')) { const a = pfIndexMove('S&P 500'), b = pfIndexMove('S&P/TSX'); if (a != null && b != null) ctx = s + ' holds a global mix of stocks; today the S&P 500 is ' + pfPct(a) + ' and the TSX ' + pfPct(b) + '.'; }
   if (!ctx && x.h.type === 'stock' && x.v.pct) {
-    const idx = x.v.cur === 'USD' ? 'S&P 500' : 'S&P/TSX', m = pfIndexMove(idx);
-    if (m != null) { const diff = x.v.pct - m; ctx = s + ' is ' + pfPct(x.v.pct) + ' today, ' + (Math.abs(diff) < 1 ? 'roughly in line with' : diff > 0 ? 'ahead of' : 'behind') + ' the ' + (idx === 'S&P/TSX' ? 'TSX' : idx) + ' (' + pfPct(m) + ')' + (Math.abs(diff) < 1 ? ', so the broad market explains most of it.' : ', so something specific to the company is likely in play.'); }
+    const idx = x.v.cur === 'USD' ? 'S&P 500' : 'S&P/TSX', m = pfIndexMove(idx), hs = pfHistFor(x.h), name = idx === 'S&P/TSX' ? 'TSX' : idx;
+    if (m != null && hs && typeof hs.b === 'number') { // split today's move: beta × market move = systematic, the rest = idiosyncratic
+      const sysPart = hs.b * m, idio = x.v.pct - sysPart;
+      ctx = 'Of ' + s + '’s ' + pfPct(x.v.pct) + ' today, about ' + pfPct(sysPart).replace('%', ' pts') + ' is what its beta of ' + hs.b.toFixed(2) + ' predicts from the ' + name + ' (' + pfPct(m) + '), the market-wide part (systematic risk), and ' + pfPct(idio).replace('%', ' pts') + ' is specific to ' + s + ' (idiosyncratic risk)' + (Math.abs(idio) >= 1 ? ', where company news matters most.' : '.');
+    } else if (m != null) { const diff = x.v.pct - m; ctx = s + ' is ' + pfPct(x.v.pct) + ' today, ' + (Math.abs(diff) < 1 ? 'roughly in line with' : diff > 0 ? 'ahead of' : 'behind') + ' the ' + name + ' (' + pfPct(m) + ').'; }
   }
   if (!ctx && x.h.type === 'crypto' && x.v.pct != null) {
     const g = PRICES && PRICES.crypto_global; ctx = (x.h.name || s) + ' is ' + pfPct(x.v.pct) + ' over 24 hours' + (g && typeof g.market_cap_change_pct === 'number' ? ', while the whole crypto market is ' + pfPct(g.market_cap_change_pct) + '.' : '.');
@@ -2706,7 +2768,7 @@ function pfWhyMoved(vals, total) {
   if (lines.length < 3) {
     const idxEx = top.find(m => pfExposures(m.h, m.v).has('index'));
     const t = idxEx && themes[0];
-    if (t) lines.push('Today’s big market story: “' + t.title + '.”');
+    if (t) lines.push('Latest market story from TDS: “' + t.title + '.”');
   }
   return lines.slice(0, 3);
 }
@@ -2749,12 +2811,14 @@ function pfWhyWidget(vals, total) {
 function pfIndirectWidget(vals, total) {
   const picks = pfIndirect(vals, total);
   const w = widgetShell('w-span-12', 'newspaper', 'var(--sky-soft)', 'var(--sky)', 'News that could reach your portfolio', picks.length || undefined);
-  w.appendChild(el('p', { className: 'item-summary gov-sub', text: 'Stories that don’t name what you own but can still affect it, through interest rates, oil, trade, the loonie and more. The tag shows which of your holdings and how much of your portfolio.' }));
+  w.appendChild(el('p', { className: 'item-summary gov-sub', text: 'Stories that don’t name what you own but can still affect it, through interest rates, oil, trade, the loonie and more. Market-wide stories are systematic risk (they hit almost everything); sector stories hit groups of companies. The orange tag shows which of your holdings and how much of your portfolio.' }));
   if (!picks.length) { w.appendChild(el('p', { className: 'item-summary', text: 'No stories in today’s headlines connect to your holdings yet. This updates as news comes in.' })); return w; }
   picks.forEach(p => {
     const card = el('div', { className: 'pf-ind' });
     const a = el('a', { className: 'pf-ind-title', href: p.st.url || '#', text: p.st.title }); card.appendChild(a);
-    card.appendChild(el('div', { className: 'pf-ind-meta', text: [p.st.source, p.st.time].filter(Boolean).join(' · ') }));
+    const meta = el('div', { className: 'pf-ind-meta', text: [p.st.source, p.st.time].filter(Boolean).join(' · ') });
+    meta.appendChild(el('span', { className: 'pf-ind-tag', text: /^(rates|geo|consumer)$/.test(p.theme) ? 'Systematic: market-wide' : p.theme === 'loonie' ? 'Currency risk' : 'Sector-wide' }));
+    card.appendChild(meta);
     p.groups.forEach(g => {
       const names = g.items.map(x => x.h.sym || x.h.name);
       const row = el('div', { className: 'pf-ind-row' });
@@ -2766,6 +2830,256 @@ function pfIndirectWidget(vals, total) {
   });
   w.appendChild(el('p', { className: 'live-updated', text: 'General patterns, not predictions or advice. Real effects depend on many things at once.' }));
   return w;
+}
+
+// ---------- Portfolio: risk & portfolio theory (CAPM, Sharpe, systematic vs idiosyncratic, Markowitz) ----------
+// All maths runs in the browser on history.json (1 year of weekly returns). Learning tool, not a recommendation.
+const PF_MRP = 0.05; // assumed market risk premium (how much more than the risk-free rate the market is expected to earn)
+const PF_COLORS = ['#1C2E52', '#D9722C', '#2F63D6', '#1E9E5A', '#7B4FB8', '#F2930F', '#D52B1E', '#0F8B8D', '#8E909A', '#A6591F'];
+PF.hist = null; PF.histTs = 0; PF.coinHist = {};
+async function pfLoadHistory() {
+  if (PF.hist && Date.now() - PF.histTs < 60 * 60e3) return;
+  for (const u of ['https://raw.githubusercontent.com/grignonjayden/The-Daily-Signal/main/history.json', 'history.json']) {
+    try { const r = await fetch(u + '?t=' + Date.now(), { cache: 'no-store' }); if (!r.ok) continue; PF.hist = await r.json(); PF.histTs = Date.now(); return; } catch (e) { /* next */ }
+  }
+}
+async function pfLoadCoinHistory(ids) {
+  if (!PF.hist) return;
+  await Promise.all(ids.filter(id => !PF.coinHist[id]).map(async id => {
+    try {
+      const r = await fetch('https://api.coingecko.com/api/v3/coins/' + encodeURIComponent(id) + '/market_chart?vs_currency=cad&days=365&interval=daily');
+      if (!r.ok) return;
+      const px = (await r.json()).prices || [];
+      const ref = PF.hist.weeks.map(d => Date.parse(d));
+      const at = ref.map(t => { let best = null, bd = 4 * 864e5; for (const [ts, v] of px) { const d = Math.abs(ts - t); if (d <= bd) { bd = d; best = v; } } return best; });
+      const ret = []; for (let i = 1; i < at.length; i++) ret.push(at[i] != null && at[i - 1] != null ? at[i] / at[i - 1] - 1 : null);
+      PF.coinHist[id] = ret;
+    } catch (e) { /* no history */ }
+  }));
+}
+function pfRf() { // risk-free rate: Bank of Canada policy rate from the Canada tab data
+  const c = TAB_CONFIG.canada && TAB_CONFIG.canada.data;
+  for (const sec of (c && c.sections) || []) for (const it of sec.items || []) if (/bank of canada rate/i.test(it.name || '')) { const v = parseFloat(String(it.value).replace(/[^0-9.]/g, '')); if (v > 0 && v < 20) return v / 100; }
+  return 0.025;
+}
+const pfMean = a => a.reduce((s, x) => s + x, 0) / (a.length || 1);
+function pfBetaVol(r, m) {
+  const p = r.map((x, i) => [x, m[i]]).filter(([x, y]) => x != null && y != null); if (p.length < 20) return null;
+  const mx = pfMean(p.map(q => q[0])), my = pfMean(p.map(q => q[1])); let c = 0, vm = 0, vx = 0;
+  p.forEach(([x, y]) => { c += (x - mx) * (y - my); vm += (y - my) ** 2; vx += (x - mx) ** 2; });
+  return { beta: c / vm, vol: Math.sqrt(vx / (p.length - 1) * 52) };
+}
+function pfHistFor(h) {
+  if (!PF.hist) return null;
+  if (h.type === 'crypto') { const r = PF.coinHist[h.cgId]; if (!r) return null; const bv = pfBetaVol(r, PF.hist.market.blend); return bv ? { r, bm: bv.beta, b: bv.beta, v: bv.vol } : null; }
+  if (h.type === 'stock') return PF.hist.s[h.x + ':' + h.sym] || null;
+  return null;
+}
+const PF_CAP = 0.5; // model mix: no single holding above 50%
+function pfProjectSimplex(v, cap) { // projection onto {0 <= w <= cap, sum w = 1} (bisection on the shift)
+  cap = cap || 1; let lo = Math.min(...v) - cap - 1, hi = Math.max(...v) + 1;
+  for (let k = 0; k < 80; k++) { const mid = (lo + hi) / 2, s = v.reduce((a, x) => a + Math.min(cap, Math.max(0, x - mid)), 0); if (s > 1) lo = mid; else hi = mid; }
+  return v.map(x => Math.min(cap, Math.max(0, x - (lo + hi) / 2)));
+}
+function pfMaxSharpe(mu, S, rf) { // long-only tangency portfolio by projected gradient ascent
+  const n = mu.length, cap = n >= 3 ? PF_CAP : 1; let w = Array(n).fill(1 / n);
+  const sharpe = w => { let m = 0, v = 0; for (let i = 0; i < n; i++) { m += w[i] * mu[i]; for (let j = 0; j < n; j++) v += w[i] * w[j] * S[i][j]; } return { s: (m - rf) / Math.sqrt(Math.max(v, 1e-12)), m, v }; };
+  let best = w, bs = sharpe(w).s, step = 0.05;
+  for (let it = 0; it < 4000; it++) {
+    const { m, v } = sharpe(w), sd = Math.sqrt(Math.max(v, 1e-12));
+    const Sw = S.map(row => row.reduce((s, x, j) => s + x * w[j], 0));
+    const g = mu.map((x, i) => (x - rf) / sd - (m - rf) * Sw[i] / (sd * sd * sd));
+    const nw = pfProjectSimplex(w.map((x, i) => x + step * g[i]), cap), ns = sharpe(nw).s;
+    if (ns >= bs - 1e-12) { w = nw; if (ns > bs) { best = nw; bs = ns; } } else step *= 0.7;
+    if (step < 1e-6) break;
+  }
+  return best.map(x => x < 0.005 ? 0 : x);
+}
+
+function pfRisk(vals, total) {
+  if (!PF.hist || !total) return null;
+  const rf = pfRf(), mkt = PF.hist.market.blend, W = mkt.length;
+  const assets = [], excluded = []; let cashW = 0;
+  vals.forEach(x => {
+    const w = x.v.value / total;
+    if (x.h.type === 'cash' || (x.h.type === 'stock' && PF_CASH_ETF.includes(x.h.sym))) { cashW += w; return; }
+    const hs = pfHistFor(x.h);
+    if (!hs) { excluded.push({ x, w }); return; }
+    assets.push({ x, w, r: hs.r.map(v => v == null ? 0 : v), b: hs.b, bm: hs.bm, vol: hs.v, mu: rf + hs.bm * PF_MRP });
+  });
+  if (!assets.length) return { rf, assets, excluded, cashW, empty: true };
+  // Past year, holding today's mix the whole time
+  const port = []; for (let t = 0; t < W; t++) port.push(assets.reduce((s, a) => s + a.w * a.r[t], 0) + cashW * rf / 52 + excluded.reduce((s, e) => s + e.w * 0, 0));
+  const pm = pfMean(port), pv = Math.sqrt(port.reduce((s, x) => s + (x - pm) ** 2, 0) / (W - 1) * 52), pret = pm * 52;
+  const mk = mkt.map(v => v == null ? 0 : v), mm = pfMean(mk);
+  let c = 0, vm = 0, vp = 0; for (let t = 0; t < W; t++) { c += (port[t] - pm) * (mk[t] - mm); vm += (mk[t] - mm) ** 2; vp += (port[t] - pm) ** 2; }
+  const r2 = vm > 0 && vp > 0 ? (c * c) / (vm * vp) : 0;
+  const beta = assets.reduce((s, a) => s + a.w * a.bm, 0);
+  // Covariance (yearly) for Markowitz
+  const n = assets.length, means = assets.map(a => pfMean(a.r));
+  const S = assets.map((a, i) => assets.map((b, j) => { let s = 0; for (let t = 0; t < W; t++) s += (a.r[t] - means[i]) * (b.r[t] - means[j]); return s / (W - 1) * 52; }));
+  const mu = assets.map(a => a.mu);
+  const riskyShare = assets.reduce((s, a) => s + a.w, 0);
+  const curRisky = assets.map(a => a.w / riskyShare);
+  const exp = w => { let m = 0, v = 0; for (let i = 0; i < n; i++) { m += w[i] * mu[i]; for (let j = 0; j < n; j++) v += w[i] * w[j] * S[i][j]; } return { m, sd: Math.sqrt(Math.max(v, 0)) }; };
+  // Whole-portfolio expected Sharpe (risky part scaled by its share; cash earns the risk-free rate)
+  const total_ = w => { const e = exp(w); const m = riskyShare * e.m + (1 - riskyShare) * rf, sd = riskyShare * e.sd; return { m, sd, s: sd > 0 ? (m - rf) / sd : 0 }; };
+  const model = n >= 2 ? pfMaxSharpe(mu, S, rf) : null;
+  return {
+    rf, assets, excluded, cashW, riskyShare,
+    past: { ret: pret, vol: pv, sharpe: pv > 0 ? (pret - rf) / pv : 0 },
+    beta, capm: rf + beta * PF_MRP * riskyShare / (riskyShare || 1), systematic: r2,
+    cur: total_(curRisky), model: model && { w: model, ...total_(model) },
+  };
+}
+
+function pfRiskWidget(vals, total) {
+  const R = pfRisk(vals, total);
+  const w = widgetShell('w-span-12', 'shield', 'var(--lavender-soft)', 'var(--lavender)', 'Risk & the math');
+  w.appendChild(el('p', { className: 'item-summary gov-sub', text: 'How much risk you’re taking and what portfolio theory says about your mix, using CAPM, the Sharpe ratio and Markowitz. A learning tool based on the past year, not advice.' }));
+  if (!R) { w.appendChild(el('p', { className: 'item-summary', text: 'Price history is still loading. Check back in a few minutes.' })); return w; }
+  if (R.empty) { w.appendChild(el('p', { className: 'item-summary', text: 'Add stocks, ETFs or crypto to see the risk numbers. Cash and GICs have almost no market risk.' })); return w; }
+  const pct = v => (v * 100).toFixed(1) + '%';
+  // Tiles
+  const tiles = el('div', { className: 'pf-stats pf-risk-tiles' });
+  const tile = (label, value, note) => { const t = el('div', { className: 'pf-stat' }); t.appendChild(el('div', { className: 'pf-stat-lbl', text: label })); t.appendChild(el('div', { className: 'pf-stat-val', text: value })); t.appendChild(el('p', { className: 'item-summary pf-tile-note', text: note })); tiles.appendChild(t); };
+  const sh = R.past.sharpe;
+  tile('Sharpe ratio (past year)', sh.toFixed(2), 'Return above the risk-free rate for each unit of risk. ' + (sh >= 1 ? 'Above 1 is strong.' : sh >= 0.5 ? 'Between 0.5 and 1 is decent.' : sh >= 0 ? 'Below 0.5 means little reward for the risk.' : 'Negative: you’d have done better in a GIC.'));
+  tile('Beta', R.beta.toFixed(2), 'How much your stocks, ETFs and crypto move with the market (TSX + S&P 500). 1 = same as the market' + (R.beta > 1.15 ? '; yours swings more.' : R.beta < 0.85 ? '; yours swings less.' : '.'));
+  tile('Expected return (CAPM)', pct(R.rf + R.beta * PF_MRP * R.riskyShare), 'Risk-free rate (' + pct(R.rf) + ') plus beta × a ' + pct(PF_MRP) + ' market premium. A model estimate, not a promise.');
+  tile('Volatility (past year)', pct(R.past.vol), 'How much your portfolio’s value typically swung in a year (standard deviation).');
+  w.appendChild(tiles);
+  w.appendChild(el('p', { className: 'pf-formula', text: 'Sharpe = (Rp − Rf) ÷ σp = (' + pct(R.past.ret) + ' − ' + pct(R.rf) + ') ÷ ' + pct(R.past.vol) + ' = ' + R.past.sharpe.toFixed(2) + '   ·   CAPM: E(R) = Rf + β × (Rm − Rf) = ' + pct(R.rf) + ' + ' + R.beta.toFixed(2) + ' × ' + pct(PF_MRP) + (R.riskyShare < 0.999 ? ' on the ' + Math.round(R.riskyShare * 100) + '% that’s invested' : '') }));
+  // Systematic vs idiosyncratic
+  const sys = Math.max(0, Math.min(1, R.systematic));
+  const box = el('div', { className: 'pf-sys' });
+  box.appendChild(el('div', { className: 'pf-sys-head', text: 'What drives your ups and downs' }));
+  const bar = el('div', { className: 'pf-sys-bar' }); const a = el('span'); a.style.width = (sys * 100).toFixed(0) + '%'; a.className = 'sys'; const b = el('span'); b.style.width = ((1 - sys) * 100).toFixed(0) + '%'; b.className = 'idio'; bar.appendChild(a); bar.appendChild(b); box.appendChild(bar);
+  const leg = el('div', { className: 'pf-sys-leg' });
+  leg.appendChild(el('span', { className: 'sys', text: Math.round(sys * 100) + '% systematic risk' })); leg.appendChild(el('span', { className: 'idio', text: Math.round((1 - sys) * 100) + '% idiosyncratic risk' })); box.appendChild(leg);
+  box.appendChild(el('p', { className: 'item-summary', text: 'Systematic risk comes from the whole market (interest rates, recessions, big news) and can’t be diversified away. Idiosyncratic risk comes from your specific holdings (a company’s earnings, a lawsuit, a new CEO) and shrinks as you spread your money across more, different investments. ' + (sys >= 0.75 ? 'Most of your swings follow the market, so you’re already well diversified.' : sys >= 0.45 ? 'A fair share of your swings comes from individual holdings.' : 'Much of your swings come from individual holdings, so company news matters a lot for you.') }));
+  w.appendChild(box);
+  // Per-holding table
+  const tbl = el('div', { className: 'pf-rt' });
+  const hdr = el('div', { className: 'pf-rt-row pf-rt-head' }); ['Holding', 'Beta', 'CAPM expected', 'Past-year volatility'].forEach(t => hdr.appendChild(el('span', { text: t }))); tbl.appendChild(hdr);
+  R.assets.slice().sort((p, q) => q.w - p.w).forEach(x => {
+    const r = el('div', { className: 'pf-rt-row' });
+    [x.x.h.sym || x.x.h.name, x.bm.toFixed(2), pct(x.mu), pct(x.vol)].forEach(t => r.appendChild(el('span', { text: t }))); tbl.appendChild(r);
+  });
+  w.appendChild(tbl);
+  const sml = pfSmlChart(R); if (sml) w.appendChild(sml);
+  // Markowitz model mix
+  if (R.model) {
+    const mm = el('div', { className: 'pf-model' });
+    mm.appendChild(el('div', { className: 'pf-sys-head', text: 'Markowitz model mix of what you already own' }));
+    mm.appendChild(el('p', { className: 'item-summary', text: 'Keeping your cash' + (R.excluded.length ? ' and holdings without price history' : '') + ' the same, this is the split of your stocks, ETFs and crypto with the best expected return per unit of risk (the highest Sharpe ratio), using CAPM returns and how your holdings moved together over the past year. To avoid putting everything in one place, no single holding is allowed above 50% (pure Markowitz often piles into one).' }));
+    const stacked = (label, weights) => {
+      const row = el('div', { className: 'pf-stack-row' }); row.appendChild(el('span', { className: 'pf-stack-lbl', text: label }));
+      const sb = el('div', { className: 'pf-stack' }); weights.forEach((wt, i) => { if (wt <= 0) return; const s = el('span'); s.style.width = (wt * 100) + '%'; s.style.background = PF_COLORS[i % PF_COLORS.length]; s.title = (R.assets[i].x.h.sym || '') + ' ' + Math.round(wt * 100) + '%'; sb.appendChild(s); });
+      row.appendChild(sb); return row;
+    };
+    const cur = R.assets.map(a => a.w / R.riskyShare);
+    mm.appendChild(stacked('Your mix', cur)); mm.appendChild(stacked('Model mix', R.model.w));
+    try { mm.appendChild(pfFrontierChart(R)); } catch (e) { /* chart optional */ }
+    const t2 = el('div', { className: 'pf-rt' });
+    const h2 = el('div', { className: 'pf-rt-row pf-rt-head' }); ['Holding', 'Your mix', 'Model mix', 'Change'].forEach(t => h2.appendChild(el('span', { text: t }))); t2.appendChild(h2);
+    R.assets.forEach((a, i) => {
+      const r = el('div', { className: 'pf-rt-row' }); const d = R.model.w[i] - cur[i];
+      const nm = el('span'); const dot = el('span', { className: 'pf-dot' }); dot.style.background = PF_COLORS[i % PF_COLORS.length]; nm.appendChild(dot); nm.appendChild(document.createTextNode(' ' + (a.x.h.sym || a.x.h.name))); r.appendChild(nm);
+      r.appendChild(el('span', { text: Math.round(cur[i] * 100) + '%' })); r.appendChild(el('span', { text: Math.round(R.model.w[i] * 100) + '%' }));
+      r.appendChild(el('span', { className: Math.abs(d) < 0.01 ? '' : d > 0 ? 'up' : 'down', text: Math.abs(d) < 0.01 ? 'about the same' : (d > 0 ? '▲ +' : '▼ −') + Math.round(Math.abs(d) * 100) + ' pts' }));
+      t2.appendChild(r);
+    });
+    mm.appendChild(t2);
+    mm.appendChild(el('p', { className: 'item-summary', text: 'Expected Sharpe ratio: your mix ' + R.cur.s.toFixed(2) + ' → model mix ' + R.model.s.toFixed(2) + ' (expected return ' + pct(R.cur.m) + ' → ' + pct(R.model.m) + ', volatility ' + pct(R.cur.sd) + ' → ' + pct(R.model.sd) + ').' }));
+    mm.appendChild(el('p', { className: 'pf-caveat', text: 'This is what the formulas produce from past data, not a recommendation. It ignores your goals, timeline, taxes, fees and how much risk you can handle, and past patterns between investments can change quickly. Talk to a registered advisor before making changes.' }));
+    w.appendChild(mm);
+  }
+  const notes = [];
+  if (R.excluded.length) notes.push('Not included (no price history): ' + R.excluded.map(e => e.x.h.sym || e.x.h.name).join(', ') + '.');
+  notes.push('Risk-free rate: Bank of Canada policy rate (' + pct(R.rf) + '). Market premium assumed at ' + pct(PF_MRP) + '. Beta measured against a 50/50 mix of the TSX and S&P 500 over ' + (PF.hist.weeks.length - 1) + ' weeks. Prices from Yahoo Finance and CoinGecko' + (PF.hist.generated_at ? ', history updated ' + PF.hist.generated_at : '') + '.');
+  w.appendChild(el('p', { className: 'live-updated', text: notes.join(' ') }));
+  return w;
+}
+
+// ---------- Portfolio charts: efficient frontier (Markowitz) and security market line (CAPM) — simple SVGs ----------
+function pfSvg(w, h) { const s = document.createElementNS('http://www.w3.org/2000/svg', 'svg'); s.setAttribute('viewBox', '0 0 ' + w + ' ' + h); s.setAttribute('class', 'pf-chart'); return s; }
+function pfS(svg, tag, attrs, text) { const n = document.createElementNS('http://www.w3.org/2000/svg', tag); for (const k in attrs) n.setAttribute(k, attrs[k]); if (text != null) n.textContent = text; svg.appendChild(n); return n; }
+function pfAxes(svg, W, H, P, xmax, ymin, ymax, xl, yl, xfmt, yfmt) {
+  const X = v => P.l + v / xmax * (W - P.l - P.r), Y = v => H - P.b - (v - ymin) / (ymax - ymin) * (H - P.t - P.b);
+  pfS(svg, 'line', { x1: P.l, y1: H - P.b, x2: W - P.r, y2: H - P.b, class: 'ax' }); pfS(svg, 'line', { x1: P.l, y1: P.t, x2: P.l, y2: H - P.b, class: 'ax' });
+  for (let i = 0; i <= 4; i++) {
+    const xv = xmax * i / 4, yv = ymin + (ymax - ymin) * i / 4;
+    pfS(svg, 'text', { x: X(xv), y: H - P.b + 14, class: 'tk', 'text-anchor': 'middle' }, xfmt(xv));
+    pfS(svg, 'text', { x: P.l - 6, y: Y(yv) + 3, class: 'tk', 'text-anchor': 'end' }, yfmt(yv));
+    if (i) pfS(svg, 'line', { x1: P.l, y1: Y(yv), x2: W - P.r, y2: Y(yv), class: 'grid' });
+  }
+  pfS(svg, 'text', { x: (P.l + W - P.r) / 2, y: H - 4, class: 'al', 'text-anchor': 'middle' }, xl);
+  pfS(svg, 'text', { x: 12, y: (P.t + H - P.b) / 2, class: 'al', 'text-anchor': 'middle', transform: 'rotate(-90 12 ' + ((P.t + H - P.b) / 2) + ')' }, yl);
+  return { X, Y };
+}
+function pfFrontierChart(R) {
+  const assets = R.assets, n = assets.length, mu = assets.map(a => a.mu);
+  const W = assets[0].r.length, means = assets.map(a => pfMean(a.r));
+  const S = assets.map((a, i) => assets.map((b, j) => { let s = 0; for (let t = 0; t < W; t++) s += (a.r[t] - means[i]) * (b.r[t] - means[j]); return s / (W - 1) * 52; }));
+  const pt = w => { let m = 0, v = 0; for (let i = 0; i < n; i++) { m += w[i] * mu[i]; for (let j = 0; j < n; j++) v += w[i] * w[j] * S[i][j]; } return [Math.sqrt(Math.max(v, 0)), m]; };
+  // cloud of random mixes of what you own (Dirichlet-like sampling)
+  const cloud = []; for (let k = 0; k < 900; k++) { const e = assets.map(() => (-Math.log(Math.random())) ** (k % 3 === 0 ? 3 : 1)); const s = e.reduce((a, b) => a + b, 0); cloud.push(pt(e.map(x => x / s))); }
+  assets.forEach((a, i) => cloud.push(pt(assets.map((_, j) => j === i ? 1 : 0))));
+  // frontier = left edge of the cloud (least risk for each return level), from the lowest-risk mix upward
+  const xs = cloud.map(c => c[0]), xmaxData = Math.max(...xs) * 1.08;
+  const yl = Math.min(...cloud.map(c => c[1])), yh = Math.max(...cloud.map(c => c[1])), bins = 30, edge = [];
+  for (let b = 0; b < bins; b++) { const lo = yl + (yh - yl) * b / bins, hi = yl + (yh - yl) * (b + 1) / bins; const inb = cloud.filter(c => c[1] >= lo && c[1] <= hi); if (inb.length) edge.push(inb.reduce((p, q) => q[0] < p[0] ? q : p)); }
+  const mv = edge.reduce((p, q) => q[0] < p[0] ? q : p, edge[0]);
+  const front = edge.filter(p => p[1] >= mv[1]).sort((a, b) => a[1] - b[1]);
+  const curW = assets.map(a => a.w / R.riskyShare), you = pt(curW), tan = pt(R.model.w);
+  front.push(tan); front.sort((a, b) => a[1] - b[1]);
+  const ys = cloud.map(c => c[1]).concat([R.rf]), ymin = Math.min(...ys) * 0.9, ymax = Math.max(...ys) * 1.12;
+  const svg = pfSvg(560, 300), P = { l: 52, r: 16, t: 14, b: 36 };
+  const { X, Y } = pfAxes(svg, 560, 300, P, xmaxData, Math.min(ymin, R.rf * 0.9), ymax, 'Risk (yearly volatility)', 'Expected return', v => Math.round(v * 100) + '%', v => (v * 100).toFixed(1) + '%');
+  cloud.forEach(c => pfS(svg, 'circle', { cx: X(c[0]), cy: Y(c[1]), r: 1.6, class: 'cloud' }));
+  pfS(svg, 'polyline', { points: front.map(p => X(p[0]) + ',' + Y(p[1])).join(' '), class: 'front' });
+  if (front.length > 2) { const f = front[Math.floor(front.length * 0.35)]; pfS(svg, 'text', { x: X(f[0]) - 8, y: Y(f[1]), class: 'lbl', 'text-anchor': 'end' }, 'Efficient frontier'); }
+  // Capital Market Line from the risk-free rate through the tangency (model) mix
+  const slope = (tan[1] - R.rf) / Math.max(tan[0], 1e-6), xEnd = Math.min(xmaxData, slope > 0 ? (ymax - R.rf) / slope : xmaxData);
+  pfS(svg, 'line', { x1: X(0), y1: Y(R.rf), x2: X(xEnd), y2: Y(R.rf + slope * xEnd), class: 'cml' });
+  pfS(svg, 'text', { x: X(xEnd) - 4, y: Y(R.rf + slope * xEnd) + 14, class: 'lbl cmll', 'text-anchor': 'end' }, 'Capital Market Line');
+  pfS(svg, 'circle', { cx: X(0), cy: Y(R.rf), r: 4, class: 'rf' });
+  pfS(svg, 'text', { x: X(0) + 8, y: Y(R.rf) + 14, class: 'lbl' }, 'Risk-free (' + (R.rf * 100).toFixed(1) + '%)');
+  pfS(svg, 'circle', { cx: X(tan[0]), cy: Y(tan[1]), r: 6, class: 'tan' });
+  pfS(svg, 'text', { x: X(tan[0]) + 9, y: Y(tan[1]) - 8, class: 'lbl tanl' }, 'Model mix (tangency)');
+  pfS(svg, 'circle', { cx: X(you[0]), cy: Y(you[1]), r: 6, class: 'you' });
+  pfS(svg, 'text', { x: X(you[0]) + 9, y: Y(you[1]) + 16, class: 'lbl youl' }, 'Your mix');
+  const wrap = el('div', { className: 'pf-chart-wrap' });
+  wrap.appendChild(el('div', { className: 'pf-sys-head', text: 'Efficient frontier' }));
+  wrap.appendChild(svg);
+  wrap.appendChild(el('p', { className: 'item-summary', text: 'Each faint dot is one possible mix of what you own. The dark curve along the upper-left edge is the efficient frontier: the most expected return for each level of risk. The straight Capital Market Line starts at the risk-free rate and touches the frontier at the tangency portfolio, the mix with the best Sharpe ratio.' }));
+  return wrap;
+}
+function pfSmlChart(R) {
+  const pts = R.assets.map(a => { const h = pfHistFor(a.x.h); return { name: a.x.h.sym || a.x.h.name, b: a.bm, y: a.x.h.type === 'crypto' ? (h && h.r ? h.r.reduce((p, x) => p * (1 + (x || 0)), 1) - 1 : null) : (h ? h.y : null) }; }).filter(p => p.y != null);
+  if (!pts.length) return null;
+  const bmax = Math.min(3, Math.max(2, ...pts.map(p => p.b)) * 1.1), clampY = v => Math.max(-0.6, Math.min(1, v));
+  const ys = pts.map(p => clampY(p.y)).concat([R.rf, R.rf + PF_MRP * bmax]);
+  const ymin = Math.min(0, ...ys) - 0.05, ymax = Math.max(...ys) + 0.08;
+  const svg = pfSvg(560, 300), P = { l: 52, r: 16, t: 14, b: 36 };
+  const { X, Y } = pfAxes(svg, 560, 300, P, bmax, ymin, ymax, 'Market risk (beta)', 'Return', v => v.toFixed(1), v => Math.round(v * 100) + '%');
+  pfS(svg, 'line', { x1: X(0), y1: Y(R.rf), x2: X(bmax), y2: Y(R.rf + PF_MRP * bmax), class: 'sml' });
+  pfS(svg, 'line', { x1: X(1), y1: Y(ymin), x2: X(1), y2: Y(R.rf + PF_MRP), class: 'beta1' });
+  pfS(svg, 'text', { x: X(bmax) - 4, y: Y(R.rf + PF_MRP * bmax) - 8, class: 'lbl', 'text-anchor': 'end' }, 'Security market line');
+  const placed = [];
+  pts.slice().sort((a, b) => b.y - a.y).forEach(p => {
+    const above = p.y >= R.rf + PF_MRP * p.b, cx = X(Math.max(-0.1, Math.min(p.b, bmax))), cy = Y(clampY(p.y));
+    pfS(svg, 'circle', { cx, cy, r: 5, class: above ? 'above' : 'below' });
+    let ly = cy + 4; while (placed.some(q => Math.abs(q.x - cx) < 60 && Math.abs(q.y - ly) < 12)) ly += 12; // keep labels apart
+    placed.push({ x: cx, y: ly });
+    pfS(svg, 'text', { x: cx + 8, y: ly, class: 'lbl' }, p.name + (p.y !== clampY(p.y) ? ' (' + (p.y > 0 ? '+' : '') + Math.round(p.y * 100) + '%)' : ''));
+  });
+  const wrap = el('div', { className: 'pf-chart-wrap' });
+  wrap.appendChild(el('div', { className: 'pf-sys-head', text: 'Security market line (CAPM)' }));
+  wrap.appendChild(svg);
+  wrap.appendChild(el('p', { className: 'item-summary', text: 'The line is what CAPM says an investment should earn for its beta: the risk-free rate plus beta × the market premium. Dots show what each of your holdings actually returned over the past year. Navy dots above the line did better than CAPM predicted for their risk; orange dots below did worse. One year is a short window, so treat this as a snapshot.' }));
+  return wrap;
 }
 
 function pfAddWidget(type) {
