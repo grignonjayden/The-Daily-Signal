@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 4:29 PM ET",
+  "generated_at": "Nov 24, 2026, 4:33 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795555777752,
+  "updated_ts": 1795555983623,
   "articles": [
     {
       "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "4:30 PM",
+      "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "ts": 1795555800000
+    },
+    {
+      "time": "4:28 PM",
+      "title": "WSJ Markets — Oil Prices Rebound as Shipping Risks Persist",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main",
+      "ts": 1795555680000
+    },
+    {
+      "time": "4:27 PM",
+      "title": "Bloomberg — Escalation in Iran Appears As the Default",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/opinion-escalation-in-iran-appears-as-the-default-video",
+      "ts": 1795555661000
+    },
+    {
       "time": "4:24 PM",
       "title": "Investing.com — Dell lifts annual forecasts after record quarter on surging AI server demand",
       "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024",
@@ -289,24 +307,6 @@
       "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "ts": 1795554900000
-    },
-    {
-      "time": "4:14 PM",
-      "title": "MarketWatch — Dell’s stock rises as the AI boom helps sales more than double",
-      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-      "ts": 1795554840000
-    },
-    {
-      "time": "4:13 PM",
-      "title": "CNBC — Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-      "ts": 1795554819000
-    },
-    {
-      "time": "4:11 PM",
-      "title": "Investing.com — Nasdaq ends 1.5% lower on AI trade uncertainty despite explosive Nvidia-led rally",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nvidialed-wall-street-rally-5046750",
-      "ts": 1795554684000
     }
   ]
 }
