@@ -340,6 +340,18 @@
   .pop-label { display: inline-block; font-size: 12px; font-weight: 700; padding: 3px 10px; border-radius: 999px; margin-left: 10px; background: var(--surface-alt); color: var(--ink-soft); vertical-align: middle; }
   .info-box p.pop-why-head { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-soft); margin: 0 0 6px; }
   .info-box .info-close { font-size: 15px; padding: 10px 20px; background: var(--ink); color: var(--surface); }
+  /* Pop-ups never taller than the screen: the text scrolls inside and "Got it" stays pinned at the bottom (iPhone fix). */
+  .info-overlay { overscroll-behavior: contain; touch-action: manipulation; }
+  .info-box { max-height: calc(100vh - 40px); max-height: calc(100dvh - 40px); overflow-y: auto; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; }
+  .info-box .info-close { position: sticky; bottom: 0; min-height: 44px; min-width: 88px; touch-action: manipulation; -webkit-tap-highlight-color: transparent; box-shadow: 0 -10px 0 6px var(--surface); }
+  .info-btn { touch-action: manipulation; }
+  @media (max-width: 600px) {
+    .info-overlay { padding: 14px; }
+    .info-box { padding: 22px 20px 16px; border-radius: 18px; }
+    .info-box h3 { font-size: 19px; margin-bottom: 10px; }
+    .info-box p { font-size: 16px; line-height: 1.55; margin-bottom: 16px; }
+    .info-box .info-close { display: block; width: 100%; box-shadow: 0 -16px 0 8px var(--surface), 0 8px 0 8px var(--surface); }
+  }
   .widget-desc { font-size: 12.5px; line-height: 1.45; color: var(--ink-soft); font-weight: 500; margin: -4px 2px 12px; }
   .live-updated { font-size: 11px; font-weight: 600; color: var(--ink-faint); margin: 10px 2px 0; }
   .live-updated a { color: inherit; }
@@ -957,7 +969,7 @@ function makePoppable(card, title, label, text, detail) {
     }
     const close = el('button', { className: 'info-btn info-close', text: 'Got it' });
     close.type = 'button';
-    const shut = () => { overlay.remove(); document.removeEventListener('keydown', onKey); card.focus(); };
+    const shut = () => { overlay.remove(); document.removeEventListener('keydown', onKey); card.focus({ preventScroll: true }); };
     const onKey = e => { if (e.key === 'Escape') shut(); };
     close.addEventListener('click', shut);
     overlay.addEventListener('click', e => { if (e.target === overlay) shut(); });
