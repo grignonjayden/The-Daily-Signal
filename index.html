@@ -539,6 +539,7 @@
   .pf-msg { font-size: 13px; font-weight: 600; color: var(--ink-soft); margin: 10px 0 0; min-height: 1em; }
   .pf-foot { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 6px 2px 0; }
   .pf-foot .live-updated { margin: 0; max-width: 620px; }
+  .pf-protect { flex-basis: 100%; font-size: 12.5px; margin: 0; }
   @media (max-width: 600px) { .pf-total-val { font-size: 32px; } .pf-donut { width: 140px; height: 140px; margin: 0 auto; } .pf-mix { gap: 18px; } }
   .why-p { font-size: 15px; line-height: 1.6; max-width: 72ch; }
   .why-link { display: inline-block; margin-top: 12px; font-size: 13.5px; font-weight: 700; color: var(--sky); text-decoration: none; }
@@ -2157,7 +2158,68 @@ const GLOSSARY = {
   'sentiment': 'The overall mood of investors, from fearful to greedy.',
   'chipmakers': 'Companies that design or make computer chips, like Nvidia, AMD and Intel.',
   'semiconductor': 'Computer chips, and the industry that makes them.',
-  'semiconductors': 'Computer chips, and the industry that makes them.'
+  'semiconductors': 'Computer chips, and the industry that makes them.',
+  // From the Canadian Securities Course vocabulary (definitions in our own plain words)
+  'basis points': 'A tiny unit for interest rates: 100 basis points = 1 percentage point, so a 25-basis-point cut is 0.25%.',
+  'basis point': 'One hundredth of a percentage point (0.01%). Used for small moves in interest rates.',
+  'overnight rate': 'The rate big banks charge each other for one-day loans. The Bank of Canada sets a target for it, and it ripples out to mortgages and savings rates.',
+  'policy rate': 'The Bank of Canada’s key interest rate (its target for the overnight rate). It shapes what banks charge for loans and pay on savings.',
+  'monetary policy': 'How a central bank, like the Bank of Canada, uses interest rates to keep inflation near its target.',
+  'fiscal policy': 'How a government uses taxes and spending to steer the economy, like Ottawa’s yearly budget.',
+  'budget deficit': 'When a government spends more than it takes in during a year, so it has to borrow the difference.',
+  'federal deficit': 'When Ottawa spends more than it collects in a year and borrows the rest.',
+  'national debt': 'All the money a country’s federal government owes, built up from past deficits.',
+  'core inflation': 'Inflation with the jumpiest prices (like gas and some food) left out, to show the underlying trend.',
+  'deflation': 'When prices across the economy actually fall. It sounds nice but usually signals a weak economy.',
+  'disinflation': 'When prices are still rising, just more slowly than before.',
+  'unemployment rate': 'The share of people in the labour force who want a job but don’t have one.',
+  'participation rate': 'The share of working-age people who are either working or looking for work.',
+  'real GDP': 'The size of the economy after taking inflation out, so it shows real growth.',
+  'leading indicators': 'Numbers that tend to change before the economy turns, like building permits or new orders. A hint of what’s ahead.',
+  'business cycle': 'The economy’s natural pattern of growing, peaking, slowing and recovering over the years.',
+  'exchange rate': 'How much one currency is worth in another, like how many U.S. cents one Canadian dollar buys.',
+  'bid-ask spread': 'The gap between the highest price a buyer will pay (bid) and the lowest a seller will take (ask). Smaller means easier, cheaper trading.',
+  'liquidity': 'How quickly something can be bought or sold without moving its price. Cash is the most liquid.',
+  'market order': 'An order to buy or sell right away at the best price available.',
+  'limit order': 'An order that only goes through at your price or better.',
+  'stop-loss': 'An order that sells automatically if the price drops to a level you set, to limit a loss.',
+  'short selling': 'Selling borrowed shares, hoping to buy them back cheaper later. It profits when a price falls.',
+  'short sellers': 'Investors betting a price will fall by selling borrowed shares and buying them back later.',
+  'margin call': 'When a broker asks for more money because investments bought with borrowed money have fallen in value.',
+  'common shares': 'Regular shares of a company: you own a piece, usually get a vote, and may get dividends.',
+  'preferred shares': 'Shares that usually pay a fixed dividend and get paid before common shares, but rarely come with a vote.',
+  'ex-dividend': 'From this date on, new buyers of a stock don’t get the next dividend. The price often drops by about the dividend amount.',
+  'stock split': 'When a company turns each share into several cheaper ones. Your total value doesn’t change.',
+  'dollar-cost averaging': 'Investing the same amount on a regular schedule, so you buy more when prices are low and less when they’re high.',
+  'S&P/TSX Composite': 'The main index for the Toronto Stock Exchange, made up of around 200+ of Canada’s largest companies.',
+  'S&P/TSX 60': 'An index of 60 of the biggest companies on the Toronto Stock Exchange.',
+  'TSX Venture': 'Canada’s exchange for smaller, early-stage companies. Higher risk, bigger swings.',
+  'yield curve': 'A comparison of interest rates on short-term vs long-term government bonds. When short rates are higher, it’s often seen as a recession warning.',
+  'Treasury bills': 'Very short-term government loans (a year or less). Considered among the safest places to park money.',
+  'GIC': 'Guaranteed Investment Certificate: you lend a bank money for a set time at a set rate and get it back with interest.',
+  'GICs': 'Guaranteed Investment Certificates: savings that pay a set rate for a set time, with your money back at the end.',
+  'credit rating': 'A grade from agencies like S&P or Moody’s on how likely a borrower is to pay its debts.',
+  'prospectus': 'The legal document a company must publish before selling new shares or bonds to the public, with the facts and risks.',
+  'bought deal': 'When banks buy a company’s entire new share issue up front, then resell it to investors.',
+  'secondary offering': 'When a company that’s already listed sells more shares, or big holders sell theirs.',
+  'takeover bid': 'An offer to buy enough of a company’s shares to take control of it.',
+  'takeover': 'When one company buys control of another.',
+  'insider trading': 'Trading on important information the public doesn’t have yet. Illegal.',
+  'buyback': 'When a company buys back its own shares, leaving fewer shares and a bigger slice for each remaining owner.',
+  'CIRO': 'The Canadian Investment Regulatory Organization: it oversees investment dealers and trading in Canada.',
+  'CIPF': 'Canadian Investor Protection Fund: protects what you hold at a CIRO member firm (up to set limits) if the firm goes bankrupt. It doesn’t cover market losses.',
+  'CDIC': 'Canada Deposit Insurance Corporation: insures eligible bank deposits and GICs up to $100,000 per category at each member bank.',
+  'diversification': 'Spreading money across different investments so one bad performer can’t sink everything.',
+  'asset allocation': 'How your money is split between types of investments, like stocks, bonds and cash.',
+  'risk tolerance': 'How comfortable you are with your investments going up and down.',
+  'futures': 'Contracts to buy or sell something (like oil or a stock index) at a set price on a future date.',
+  'derivatives': 'Contracts whose value comes from something else, like a stock, oil or interest rates. Options and futures are examples.',
+  'hedge fund': 'A private investment fund, usually for wealthy or professional investors, that can use riskier strategies.',
+  'hedge': 'An investment made to protect against losses somewhere else, like insurance.',
+  'book value': 'What a company would be worth on paper if it sold its assets and paid its debts.',
+  'ESG': 'Environmental, social and governance: ways of judging a company on things like its climate impact, how it treats people and how it’s run.',
+  'TFSA': 'Tax-Free Savings Account: investments grow and come out tax-free in Canada.',
+  'RRSP': 'Registered Retirement Savings Plan: contributions lower your taxes now; you pay tax when you take money out.'
 };
 const GLOSS_TERMS = Object.keys(GLOSSARY).sort((a, b) => b.length - a.length);
 const GLOSS_RE = new RegExp('(?<![\\w-])(' + GLOSS_TERMS.map(t => t.replace(/[.*+?^${}()|[\]\\&]/g, '\\$&')).join('|') + ')(?![\\w-])', 'gi');
@@ -2357,7 +2419,7 @@ function pfDraw() {
   if (holdings.length) {
     // 2) Mix (donut by type)
     const mix = widgetShell('w-span-12', 'sectors', 'var(--lavender-soft)', 'var(--lavender)', 'Your mix');
-    mix.appendChild(el('p', { className: 'item-summary gov-sub', text: 'How your money is split up. Spreading it across different types can soften the ups and downs of any one of them.' }));
+    mix.appendChild(el('p', { className: 'item-summary gov-sub', text: 'Your asset allocation: how your money is split up. Diversification, spreading it across different types, can soften the ups and downs of any one of them.' }));
     const row = el('div', { className: 'pf-mix' });
     const parts = Object.keys(PF_CATS).map(k => ({ k, ...PF_CATS[k], value: vals.filter(x => x.v.cat === k).reduce((s, x) => s + x.v.value, 0) })).filter(p => p.value > 0);
     row.appendChild(pfDonut(parts, total));
@@ -2410,6 +2472,7 @@ function pfDraw() {
 
   const foot = el('div', { className: 'pf-foot' });
   foot.appendChild(el('p', { className: 'live-updated', text: 'For your own tracking only, not investment advice. Your holdings are saved only in this browser on this device; nothing is sent anywhere.' }));
+  foot.appendChild(el('p', { className: 'item-summary pf-protect', text: 'Good to know: investments at a CIRO member firm are protected by CIPF (up to $1 million per account group) if the firm goes bankrupt, but not against market losses. Bank deposits and GICs are insured by CDIC up to $100,000 per category at each member bank.' }));
   if (holdings.length) {
     const clr = el('button', { className: 'info-btn', text: 'Clear my portfolio' }); clr.type = 'button';
     clr.onclick = () => { if (clr.dataset.sure) { pfSave([]); pfDraw(); } else { clr.dataset.sure = '1'; clr.textContent = 'Tap again to delete everything'; } };
@@ -2546,6 +2609,7 @@ function renderWhy() {
   rows(rules, [
     ['Real sources only', 'Every number and story links back to where it came from, so you can check it yourself.', 'var(--sky)'],
     ['Plain language', 'If a term needs explaining, the “What does this mean?” buttons explain it.', 'var(--sky)'],
+    ['Facts kept apart from opinions', 'Updates follow a writing guide built on the Canadian Securities Course and CFA Institute ethics standards: facts come with sources, views are labelled as views, and moves are given with their time period, never hyped.', 'var(--sky)'],
     ['Not investment advice', 'TDS explains what happened. It never tells you what to buy or sell.', 'var(--sky)']
   ]);
 
