@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 5:33 PM ET",
+  "generated_at": "Nov 24, 2026, 5:37 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795559629932,
+  "updated_ts": 1795559841504,
   "articles": [
     {
       "title": "Nvidia stock falls nearly 6% after Huang’s return sparks best day in over 23 years",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "5:29 PM",
+      "title": "Bloomberg — Icahn’s Fortune Sinks to $1.3b as Debt Pressures Rise",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/icahn-s-fortune-sinks-to-1-3b-as-debt-pressures-rise-video",
+      "ts": 1795559373000
+    },
+    {
       "time": "5:24 PM",
       "title": "CNBC — Stocks making the biggest moves Tuesday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
       "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
       "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
       "ts": 1795557480000
-    },
-    {
-      "time": "4:57 PM",
-      "title": "Investing.com — Braemar Hotels stock jumps on 2027 dividend plan, $20M buyback",
-      "url": "https://www.investing.com/news/stock-market-news/braemar-hotels-stock-jumps-on-2027-dividend-plan-20m-buyback-5049171",
-      "ts": 1795557439000
     }
   ]
 }
