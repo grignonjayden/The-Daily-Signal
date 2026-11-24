@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 3:42 PM ET",
+  "generated_at": "Nov 24, 2026, 3:45 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795552933061,
+  "updated_ts": 1795553135391,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -9,9 +9,19 @@
       "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
       "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
-      "time": "Nov 24, 3:40 PM",
-      "coverage": 5,
-      "ts": 1795552806000
+      "time": "Nov 24, 3:42 PM",
+      "coverage": 6,
+      "ts": 1795552927000
+    },
+    {
+      "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump’s push for Huang’s return",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories",
+      "snippet": "Congress appears even more likely to OK new restrictions on the chip giant’s dealings with China — and it’s calling for more investigations, additional hearings and briefings",
+      "image": "https://images.mktw.net/im-96418474",
+      "time": "Nov 24, 3:42 PM",
+      "coverage": 6,
+      "ts": 1795552920000
     },
     {
       "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
@@ -20,7 +30,7 @@
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795551400000
     },
     {
@@ -30,7 +40,7 @@
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0VS_L.jpg",
       "time": "Nov 24, 3:12 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795551136000
     },
     {
@@ -40,7 +50,7 @@
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
       "time": "Nov 24, 3:06 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795550798000
     },
     {
@@ -50,7 +60,7 @@
       "snippet": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558076-1795501710580-gettyimages-2299493080-AFP_D36R6ZH.jpeg?v=1795501751&w=1920&h=1080",
       "time": "Nov 24, 1:30 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795545058000
     },
     {
@@ -64,14 +74,14 @@
       "ts": 1795536060000
     },
     {
-      "title": "Wall Street rebounds as Jensen Huang is reinstated as Nvidia CEO",
+      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/video-wall-street-rebounds-as-jensen-huang-is-reinstated-as-nvidia-ceo/",
-      "snippet": "U.S. stocks surged on Monday, led by a more than 6 per cent jump in the Nasdaq as Nvidia's reinstatement of Jensen Huang as CEO drove investors back into AI-related shares after last week's rout.",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-23-2026%2Ft_3c6529588d4942bf8641718287c5901f_name_2026_11_23T234212Z_1_LOP071923112026RP1_RTRMADP_BASEIMAGE_960X540_USA_STOCKS_WRAP.JPG?auth=a4cfc397154e1f583c7d5efbc946fee276c8f3a5a12a0c835191e0e2dac7971b&smart=true&width=1920&height=1080",
-      "time": "Nov 23, 7:00 PM",
-      "coverage": 6,
-      "ts": 1795478438000
+      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
+      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
+      "time": "Nov 24, 6:25 AM",
+      "coverage": 5,
+      "ts": 1795519556000
     },
     {
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
@@ -82,6 +92,16 @@
       "time": "Nov 24, 2:31 PM",
       "coverage": 5,
       "ts": 1795548660000
+    },
+    {
+      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
+      "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
+      "image": "https://images.wsj.net/im-75358264",
+      "time": "Nov 23, 5:25 PM",
+      "coverage": 6,
+      "ts": 1795472700000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -105,33 +125,13 @@
       "ts": 1795519164000
     },
     {
-      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
-      "snippet": "GameStop’s base of fervent retail investors is still intact, but Needham analysts say more institutional investors should take note of the company’s transformation.",
-      "image": "https://images.mktw.net/im-796776",
-      "time": "Nov 24, 2:48 PM",
-      "coverage": 4,
-      "ts": 1795549680000
-    },
-    {
-      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
-      "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
-      "image": "https://images.wsj.net/im-75358264",
-      "time": "Nov 23, 5:25 PM",
-      "coverage": 5,
-      "ts": 1795472700000
-    },
-    {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
       "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
       "time": "Nov 23, 9:06 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795442808000
     },
     {
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "3:43 PM",
+      "title": "Globe and Mail — Stellantis sues Unifor, alleging obstruction of environmental work at Brampton plant",
+      "url": "https://www.theglobeandmail.com/business/article-stellantis-sues-unifor-brampton-roshel-sale-november-24/",
+      "ts": 1795553009000
+    },
+    {
+      "time": "3:37 PM",
+      "title": "CNBC — How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+      "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+      "ts": 1795552660000
+    },
+    {
       "time": "3:30 PM",
       "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
@@ -295,18 +307,6 @@
       "title": "Bloomberg — Advent Weighs Takeover Of Testing Firm Bureau Veritas",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/advent-weighs-takeover-of-testing-firm-bureau-veritas",
       "ts": 1795550303000
-    },
-    {
-      "time": "2:54 PM",
-      "title": "Investing.com — CrowdStrike’s all-stock bid for Zscaler: deal structure shifts risk to target holders",
-      "url": "https://www.investing.com/news/stock-market-news/crowdstrikes-allstock-bid-for-zscaler-deal-structure-shifts-risk-to-target-holders-93CH-5048924",
-      "ts": 1795550055000
-    },
-    {
-      "time": "2:49 PM",
-      "title": "Investing.com — US proposes to give automakers until 2031 to install automatic emergency braking",
-      "url": "https://www.investing.com/news/stock-market-news/us-proposes-to-give-automakers-until-2031-to-install-automatic-emergency-braking-5048923",
-      "ts": 1795549779000
     }
   ]
 }
