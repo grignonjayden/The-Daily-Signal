@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 5:47 PM ET",
+  "generated_at": "Nov 24, 2026, 5:50 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795560443681,
+  "updated_ts": 1795560646002,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "5:49 PM",
+      "title": "CNBC — Stocks making the biggest moves after hours: Ambarella, Dell, Autodesk, Urban Outfitters & more",
+      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795560564000
+    },
+    {
       "time": "5:43 PM",
       "title": "MarketWatch — Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
       "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
@@ -265,12 +271,6 @@
       "title": "Bloomberg — Icahn’s Fortune Sinks to $1.3b as Debt Pressures Rise",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/icahn-s-fortune-sinks-to-1-3b-as-debt-pressures-rise-video",
       "ts": 1795559373000
-    },
-    {
-      "time": "5:24 PM",
-      "title": "CNBC — Stocks making the biggest moves Tuesday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
-      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795559081000
     },
     {
       "time": "5:18 PM",
