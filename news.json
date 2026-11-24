@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 9:11 AM ET",
+  "generated_at": "Nov 24, 2026, 9:14 AM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795529485946,
+  "updated_ts": 1795529693715,
   "articles": [
+    {
+      "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
+      "snippet": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108548916-1794403429337-108548916-1794403365942-gettyimages-2299714787-UK_HUANG.jpg?v=1795450267&w=1920&h=1080",
+      "time": "Nov 24, 9:09 AM",
+      "coverage": 7,
+      "ts": 1795529358000
+    },
     {
       "title": "Six key questions raised by Jensen Huang's return to Nvidia",
       "source": "CNBC",
@@ -32,16 +42,6 @@
       "time": "Nov 24, 6:59 AM",
       "coverage": 7,
       "ts": 1795521540000
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-returns-colette-kress-cfo.html",
-      "snippet": "Kress steered the company through billions in AI financing deals and during Huang's sudden departure. Now she's back to full-time CFO.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108557902-1795471379811-Kress_Huang.jpg?v=1795471502&w=1920&h=1080",
-      "time": "Nov 23, 9:21 PM",
-      "coverage": 7,
-      "ts": 1795486866000
     },
     {
       "title": "Jensen Huang’s return could reignite AI semiconductor rally, analyst says",
@@ -237,10 +237,34 @@
   ],
   "ticker": [
     {
+      "time": "9:12 AM",
+      "title": "CNBC — Stocks making the biggest moves Tuesday: Nvidia, Anthropic, retailers & more",
+      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795529543000
+    },
+    {
+      "time": "9:12 AM",
+      "title": "WSJ Markets — U.S. Natural Gas Futures Pick Up in Volatile Trading",
+      "url": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
+      "ts": 1795529520000
+    },
+    {
+      "time": "9:05 AM",
+      "title": "Globe and Mail — La Caisse invests $30-million in Montreal furniture company Cozey",
+      "url": "https://www.theglobeandmail.com/business/article-la-caisse-invests-30-million-in-montreal-furniture-company-cozey/",
+      "ts": 1795529106000
+    },
+    {
       "time": "9:01 AM",
       "title": "CNBC — Stock futures decline as Nvidia slides, giving back part of Monday’s rally: Live updates",
       "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
       "ts": 1795528905000
+    },
+    {
+      "time": "9:01 AM",
+      "title": "WSJ Markets — 11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider",
+      "url": "https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main",
+      "ts": 1795528860000
     },
     {
       "time": "9:00 AM",
@@ -283,30 +307,6 @@
       "title": "Bloomberg — Market Timers Get Schooled as S&P 500 Swings Rip Up Playbooks",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/market-timers-get-schooled-as-s-p-500-swings-rip-up-playbooks",
       "ts": 1795527719000
-    },
-    {
-      "time": "8:41 AM",
-      "title": "MarketWatch — I’ve paid for long-term-care insurance for 20 years. Is it still worth it?",
-      "url": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
-      "ts": 1795527660000
-    },
-    {
-      "time": "8:40 AM",
-      "title": "Bloomberg — Turkey Frees Ex-Minister Arrested in Fund Scandal After 18 Days",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/turkey-frees-ex-minister-arrested-in-fund-scandal-after-18-days",
-      "ts": 1795527602000
-    },
-    {
-      "time": "8:40 AM",
-      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "ts": 1795527600000
-    },
-    {
-      "time": "8:35 AM",
-      "title": "CNBC — Here are Tuesday's biggest analyst calls: Anthropic, SpaceX, Nvidia, Tesla, Boeing, JetBlue & more",
-      "url": "https://www.cnbc.com/2026/11/24/tuesday-wall-street-calls-like-nvidia-anthropic.html",
-      "ts": 1795527307000
     }
   ]
 }
