@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:16 AM ET",
+  "generated_at": "Nov 25, 2026, 10:19 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795619781869,
+  "updated_ts": 1795619981322,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -85,6 +85,17 @@
       "ts": 1795609258000
     },
     {
+      "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Takeover",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
+      "snippet": "Banks are offering CVC Capital Partners Plc up to €11 billion ($12 billion) in debt financing for a takeover of Verisure Plc, as the buyout firm weighs a bid to return the home security group to private ownership…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 10:07 AM",
+      "coverage": 3,
+      "ts": 1795619245000
+    },
+    {
       "title": "Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
@@ -123,16 +134,6 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 5,
       "ts": 1795456173000
-    },
-    {
-      "title": "Homebuilder Stock Woes to Persist After Longest Slump Since 2008",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/homebuilder-stock-woes-to-persist-after-longest-slump-since-2008",
-      "snippet": "Homebuilders are coming up on an ominous market milestone, with stocks for the group set for three straight years of declines in the longest stretch since the subprime mortgage meltdown that led to the Global…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 10:01 AM",
-      "ts": 1795618899000
     },
     {
       "title": "Why is CoreWeave stock sliding today?",
@@ -235,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "10:18 AM",
+      "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795619926000
+    },
+    {
       "time": "10:09 AM",
       "title": "WSJ Markets — Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
@@ -247,10 +254,10 @@
       "ts": 1795619280000
     },
     {
-      "time": "10:04 AM",
-      "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795619064000
+      "time": "10:01 AM",
+      "title": "Bloomberg — Homebuilder Stock Woes to Persist After Longest Slump Since 2008",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/homebuilder-stock-woes-to-persist-after-longest-slump-since-2008",
+      "ts": 1795618899000
     },
     {
       "time": "10:01 AM",
@@ -299,12 +306,6 @@
       "title": "MarketWatch — Third-quarter GDP already looked great. Now it looks even better.",
       "url": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
       "ts": 1795618020000
-    },
-    {
-      "time": "9:46 AM",
-      "title": "Bloomberg — Deere Sees Headwinds Ahead for Farmers in 2027",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/deere-sees-headwinds-ahead-for-farmers-in-2027-video",
-      "ts": 1795617973000
     }
   ]
 }
