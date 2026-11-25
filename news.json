@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 5:19 PM ET",
+  "generated_at": "Nov 25, 2026, 5:22 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795645165217,
+  "updated_ts": 1795645367150,
   "articles": [
     {
       "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
@@ -257,6 +257,12 @@
       "ts": 1795644540000
     },
     {
+      "time": "5:07 PM",
+      "title": "Bloomberg — Porky Ends Peru’s Election Year Nearly Empty-Handed",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/porky-ends-peru-s-election-year-nearly-empty-handed",
+      "ts": 1795644461000
+    },
+    {
       "time": "5:03 PM",
       "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=rss_markets_main",
@@ -303,12 +309,6 @@
       "title": "Investing.com — Why is Vera Therapeutics stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-vera-therapeutics-stock-surging-today-93CH-5051578",
       "ts": 1795643717000
-    },
-    {
-      "time": "4:53 PM",
-      "title": "Investing.com — Why is Palo Alto Networks stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-sliding-today-93CH-5051576",
-      "ts": 1795643625000
     }
   ]
 }
