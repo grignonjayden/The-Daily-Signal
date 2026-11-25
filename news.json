@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:07 PM ET",
+  "generated_at": "Nov 25, 2026, 2:10 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795633626593,
+  "updated_ts": 1795633827783,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -12,16 +12,6 @@
       "time": "Nov 25, 2:04 PM",
       "coverage": 6,
       "ts": 1795633460000
-    },
-    {
-      "title": "U.S. Justice Department did not open probe into Jensen Huang before Nvidia rehired him, sources say",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-justice-department-did-not-open-probe-into-jensen-huang-nvidia/",
-      "snippet": "Huang’s reinstatement has angered members of Congress, who are set to hear him testify next week",
-      "image": "https://www.theglobeandmail.com/resizer/v2/4RRUIN2V2BBBPLYXMKCP5OQF4E.JPG?auth=12351d131ed8b3820fef207c684625782eebf75c673645da756f88bd3eb3bdcc&smart=true&width=7408&height=4941",
-      "time": "Nov 25, 1:02 PM",
-      "coverage": 5,
-      "ts": 1795629759000
     },
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -92,6 +82,16 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
+    },
+    {
+      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
+      "snippet": "Markets increasingly question whether even the biggest AI names can generate enough profit to justify their price tags",
+      "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
+      "time": "Nov 25, 11:40 AM",
+      "coverage": 4,
+      "ts": 1795624858000
     },
     {
       "title": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "2:05 PM",
+      "time": "2:09 PM",
       "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795633555000
+      "ts": 1795633768000
     },
     {
       "time": "1:56 PM",
