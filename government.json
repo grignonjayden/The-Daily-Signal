@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 25, 2026, 10:43 AM ET",
+  "generated_at": "Nov 25, 2026, 11:17 AM ET",
   "date_key": "2026-11-25",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -136,15 +136,15 @@
       "group": "policy"
     },
     {
-      "title": "Bank of Canada keeps 2% inflation target but adjusts what to track",
-      "url": "https://www.cp24.com/news/money/2026/11/24/macklem-admits-bank-of-canada-offered-mixed-messaging-on-core-inflation-in-past/",
-      "image": "https://www.cp24.com/resizer/v2/LMOMYW434FLI45QC7W3N5BKSAU.jpg?auth=c10305f20554a96ca02fc0268f3874a2b3c755966de4a087394e4452eb926795&smart=true&width=1400&height=911",
+      "title": "Provinces waiting to see if Trump follows through on data centre tax threat",
+      "url": "https://www.cp24.com/news/canada/2026/11/25/provinces-waiting-to-see-if-trump-follows-through-on-data-centre-tax-threat/",
+      "image": "https://www.cp24.com/resizer/v2/IM4J2HQNIUTVEU3DR36IX37COI.jpg?auth=7c93fe769a20828f4a6c1f995b0c0f03165b85b5bc302fff917af9ba609a84e6&smart=true&width=1400&height=933",
       "source": "CP24",
       "badge": "CP24",
       "analysis": false,
-      "sector": "Monetary",
+      "sector": "Fiscal",
       "time": "Nov 24",
-      "date": "2026-11-25T00:58:12.000Z",
+      "date": "2026-11-24T22:18:27.000Z",
       "group": "policy"
     },
     {
@@ -218,6 +218,11 @@
       "kept": 2
     },
     {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 4
+    },
+    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
@@ -240,11 +245,6 @@
     {
       "source": "C.D. Howe Institute",
       "fetched": 24,
-      "kept": 4
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
       "kept": 4
     }
   ]
