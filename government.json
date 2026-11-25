@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 25, 2026, 9:35 AM ET",
+  "generated_at": "Nov 25, 2026, 10:09 AM ET",
   "date_key": "2026-11-25",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -13,6 +13,18 @@
       "sector": "General",
       "time": "Nov 25",
       "date": "2026-11-25T18:19:01.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Minister Champagne to hold media callback following his visit to the Gulf region",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-to-hold-media-callback-following-his-visit-to-the-gulf-region.html",
+      "image": "",
+      "source": "Finance Canada",
+      "badge": "FIN",
+      "analysis": false,
+      "sector": "Media",
+      "time": "Nov 25",
+      "date": "2026-11-25T14:55:08.000Z",
       "group": "sector"
     },
     {
@@ -100,6 +112,18 @@
       "group": "policy"
     },
     {
+      "title": "Six Degrees of Optimism in the 2026 Federal Budget",
+      "url": "https://cdhowe.org/publication/six-degrees-of-optimism-in-the-2026-federal-budget/",
+      "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-1488351398.jpg",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Fiscal",
+      "time": "Nov 25",
+      "date": "2026-11-25T15:00:51.000Z",
+      "group": "policy"
+    },
+    {
       "title": "Canada’s 2026 Budget Is Not Restraining Spending",
       "url": "https://cdhowe.org/publication/canadas-2026-budget-is-not-restraining-spending/",
       "image": "https://cdhowe.org/wp-content/uploads/2026/11/Nov25_Memo_table_2026-150x150.jpg",
@@ -145,18 +169,6 @@
       "sector": "Monetary",
       "time": "Nov 24",
       "date": "2026-11-24T15:00:24.000Z",
-      "group": "policy"
-    },
-    {
-      "title": "A $27.5-Billion Deficit Revision Requires Parliamentary Examination",
-      "url": "https://cdhowe.org/publication/a-27-5-billion-deficit-revision-requires-parliamentary-examination/",
-      "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-1367728341.jpg",
-      "source": "C.D. Howe Institute",
-      "badge": "CDH",
-      "analysis": true,
-      "sector": "Fiscal",
-      "time": "Nov 24",
-      "date": "2026-11-24T13:30:29.000Z",
       "group": "policy"
     }
   ],
@@ -206,14 +218,19 @@
       "kept": 2
     },
     {
-      "source": "CDEV",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
+    },
+    {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 4
+    },
+    {
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 0
     },
     {
       "source": "Canada Media Fund",
@@ -221,18 +238,13 @@
       "kept": 1
     },
     {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
-      "kept": 4
-    },
-    {
       "source": "ISED",
       "fetched": 20,
       "kept": 4
     },
     {
-      "source": "CP24",
-      "fetched": 200,
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
       "kept": 4
     }
   ]

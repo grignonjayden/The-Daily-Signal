@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 10:06 AM ET",
+  "generated_at": "Nov 25, 2026, 10:09 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795619170324,
+  "updated_ts": 1795619371178,
   "articles": [
+    {
+      "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "snippet": "“Since the advent of the atom bomb, all futures have been at risk from the whims of one man.”",
+      "image": "https://images.mktw.net/im-58425830",
+      "time": "Nov 25, 10:03 AM",
+      "coverage": 5,
+      "ts": 1795618980000
+    },
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "source": "CNBC",
@@ -44,24 +54,14 @@
       "ts": 1795551400000
     },
     {
-      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
-      "snippet": "GameStop’s base of fervent retail investors is still intact, but Needham analysts say more institutional investors should take note of the company’s transformation.",
-      "image": "https://images.mktw.net/im-796776",
-      "time": "Nov 25, 9:32 AM",
-      "coverage": 4,
-      "ts": 1795617120000
-    },
-    {
-      "title": "U.S. inflation rises further in October, bolstering odds of successive Fed rate hikes",
+      "title": "U.S. plans to hike tariffs on China, EU and other partners over subsidized production",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-inflation-rises-further-in-october-bolstering-odds-of-successive/",
-      "snippet": "Personal Consumption Expenditures Price Index rose 0.3% last month, after a 0.5% gain in September",
-      "image": "https://www.theglobeandmail.com/resizer/v2/VUDARLZ5NJDYLEHKY4E65V5KSU.jpg?auth=3054035d7e65acc729ab52db5ac4d5ef2f12a9de943bd2d4a46e20f61778b5b1&smart=true&width=7820&height=5213",
-      "time": "Nov 25, 8:55 AM",
+      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
+      "snippet": "Levies still at the proposal stage, with no strict timelines on implementation, official says",
+      "image": "https://www.theglobeandmail.com/resizer/v2/Q4VIBLF5KFCNTDSUQ2MJ57M5SM.jpg?auth=1caa2d9f94ad675798cb6410a7ff289c414503eb7e070caf81845c5946c4faec&smart=true&width=1668&height=1112",
+      "time": "Nov 25, 8:29 AM",
       "coverage": 4,
-      "ts": 1795614954000
+      "ts": 1795613399000
     },
     {
       "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
@@ -125,14 +125,14 @@
       "ts": 1795456173000
     },
     {
-      "title": "Nasdaq 100 Set for Bear Market as AI Trade Unravels at the Seams",
+      "title": "Homebuilder Stock Woes to Persist After Longest Slump Since 2008",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
-      "snippet": "The Nasdaq 100 Index is set to fall into its first bear market in more than a year as investors dump stocks exposed to the artificial intelligence industry amid rapidly deteriorating sentiment.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/homebuilder-stock-woes-to-persist-after-longest-slump-since-2008",
+      "snippet": "Homebuilders are coming up on an ominous market milestone, with stocks for the group set for three straight years of declines in the longest stretch since the subprime mortgage meltdown that led to the Global…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 25, 9:50 AM",
-      "ts": 1795618256000
+      "time": "Nov 25, 10:01 AM",
+      "ts": 1795618899000
     },
     {
       "title": "Why is CoreWeave stock sliding today?",
@@ -271,6 +271,12 @@
       "ts": 1795618510000
     },
     {
+      "time": "9:50 AM",
+      "title": "Bloomberg — Nasdaq 100 Set for Bear Market as AI Trade Unravels at the Seams",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
+      "ts": 1795618256000
+    },
+    {
       "time": "9:48 AM",
       "title": "CNBC — U.S. stockpile of unstable and dangerous lead azide scheduled for detonation in Iowa",
       "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
@@ -299,12 +305,6 @@
       "title": "CNBC — Best low-interest personal loans of December 2026",
       "url": "https://www.cnbc.com/select/best-low-interest-personal-loans/",
       "ts": 1795617774000
-    },
-    {
-      "time": "9:40 AM",
-      "title": "Globe and Mail — U.S. third-quarter GDP growth revised sharply higher",
-      "url": "https://www.theglobeandmail.com/business/article-us-gdp-growth-third-quarter-2026/",
-      "ts": 1795617616000
     }
   ]
 }
