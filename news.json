@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:26 PM ET",
+  "generated_at": "Nov 25, 2026, 1:30 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795631201495,
+  "updated_ts": 1795631409815,
   "articles": [
     {
       "title": "U.S. Justice Department did not open probe into Jensen Huang before Nvidia rehired him, sources say",
@@ -52,6 +52,16 @@
       "time": "Nov 25, 9:29 AM",
       "coverage": 5,
       "ts": 1795616990000
+    },
+    {
+      "title": "Exclusive-Boehly signs US-backed share swap deal to buy Lukoil global assets",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveboehly-signs-usbacked-share-swap-deal-to-buy-lukoil-global-assets-5051129",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1CJ_L.jpg",
+      "time": "Nov 25, 1:06 PM",
+      "coverage": 4,
+      "ts": 1795630007000
     },
     {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
@@ -106,14 +116,14 @@
       "ts": 1795557180000
     },
     {
-      "title": "Exclusive-Boehly signs US-backed share swap deal to buy Lukoil global assets",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/exclusiveboehly-signs-usbacked-share-swap-deal-to-buy-lukoil-global-assets-5051129",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1CJ_L.jpg",
-      "time": "Nov 25, 1:06 PM",
+      "title": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a?mod=rss_markets_main",
+      "snippet": "The sale was initially sparked after the Trump administration slapped sanctions on Lukoil assets to pressure Moscow in negotiations over the war in Ukraine.",
+      "image": "https://images.wsj.net/im-31563309",
+      "time": "Nov 25, 1:26 PM",
       "coverage": 3,
-      "ts": 1795630007000
+      "ts": 1795631160000
     },
     {
       "title": "Wall Street cuts losses after brutal rout, Dow erases slide of over 2%",
@@ -124,17 +134,6 @@
       "time": "Nov 25, 1:01 PM",
       "coverage": 3,
       "ts": 1795629692000
-    },
-    {
-      "title": "U.S. Natural Gas Inventories Decrease in Line With Average",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "snippet": "Natural gas futures were mixed as U.S. storage saw its first withdrawal of the season last week as colder weather lifted heating demand.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 12:28 PM",
-      "coverage": 3,
-      "ts": 1795627680000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -239,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "1:26 PM",
+      "title": "WSJ Markets — Health Care Roundup: Market Talk",
+      "url": "https://www.wsj.com/articles/health-care-roundup-market-talk-a0c4634c?mod=rss_markets_main",
+      "ts": 1795631160000
+    },
+    {
       "time": "1:24 PM",
       "title": "WSJ Markets — Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
       "url": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=rss_markets_main",
@@ -303,12 +308,6 @@
       "title": "Investing.com — Deere forecasts 2027 profit below estimates as farm equipment recovery remains muted",
       "url": "https://www.investing.com/news/stock-market-news/deere-forecasts-fiscal-2027-net-income-below-estimates-5050370",
       "ts": 1795629297000
-    },
-    {
-      "time": "12:54 PM",
-      "title": "Investing.com — US authorizes SpaceX to deploy 1 million satellites for data centers in space",
-      "url": "https://www.investing.com/news/stock-market-news/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space-5051261",
-      "ts": 1795629280000
     }
   ]
 }
