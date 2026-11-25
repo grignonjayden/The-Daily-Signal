@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 25, 2026, 7:44 AM ET",
+  "generated_at": "Nov 25, 2026, 7:47 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795610657593,
+  "updated_ts": 1795610858048,
   "articles": [
-    {
-      "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "snippet": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108556540-17951897842026-11-20t154510z_724308925_rc2proaof0e8_rtrmadp_0_usa-stocks.jpeg?v=1795189801&w=1920&h=1080",
-      "time": "Nov 25, 7:42 AM",
-      "coverage": 5,
-      "ts": 1795610566000
-    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -34,6 +24,16 @@
       "ts": 1795569236000
     },
     {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
+      "time": "Nov 24, 6:13 PM",
+      "coverage": 5,
+      "ts": 1795562029000
+    },
+    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -44,14 +44,14 @@
       "ts": 1795551400000
     },
     {
-      "title": "Nasdaq futures fall 3% amid tech selloff, U.S. tariff reports",
+      "title": "RBRK near-term setup: key levels and earnings risk ahead of Nov 30",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "url": "https://www.investing.com/news/stock-market-news/rbrk-nearterm-setup-key-levels-and-earnings-risk-ahead-of-nov-30-93CH-5050539",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "time": "Nov 25, 7:24 AM",
+      "image": "https://content-media.investing.com/news/green1_b._M_1440048373.jpg",
+      "time": "Nov 25, 7:31 AM",
       "coverage": 4,
-      "ts": 1795609463000
+      "ts": 1795609901000
     },
     {
       "title": "Russia’s Elevated Oil Exports Add to Global Supply Surplus",
@@ -75,14 +75,14 @@
       "ts": 1795557180000
     },
     {
-      "title": "Nasdaq Futures Slide as AI Growth Fears Return to Center Stage",
+      "title": "Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
-      "snippet": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded.",
-      "image": "https://images.wsj.net/im-48917090",
-      "time": "Nov 25, 4:36 AM",
+      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
+      "snippet": "U.S. Treasury and European government bond yields fell as investors awaited October personal consumption expenditures inflation data and the second estimate of third-quarter GDP.",
+      "image": "https://images.wsj.net/im-88976063",
+      "time": "Nov 25, 4:43 AM",
       "coverage": 4,
-      "ts": 1795599360000
+      "ts": 1795599780000
     },
     {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
@@ -106,6 +106,16 @@
       "ts": 1795609258000
     },
     {
+      "title": "Nasdaq futures fall 3% amid tech selloff, U.S. tariff reports",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "time": "Nov 25, 7:24 AM",
+      "coverage": 3,
+      "ts": 1795609463000
+    },
+    {
       "title": "Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
@@ -116,23 +126,13 @@
       "ts": 1795609200000
     },
     {
-      "title": "AI stocks slide on fears over infrastructure buildout costs",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs-5050519",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO10F_L.jpg",
-      "time": "Nov 25, 7:18 AM",
-      "coverage": 2,
-      "ts": 1795609097000
-    },
-    {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
       "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
       "time": "Nov 23, 12:49 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795456173000
     },
     {
@@ -237,10 +237,64 @@
   ],
   "ticker": [
     {
+      "time": "7:46 AM",
+      "title": "CNBC — Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795610793000
+    },
+    {
+      "time": "7:45 AM",
+      "title": "Bloomberg — Bullrich confía en que la reforma electoral de Milei será aprobada",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/bullrich-confia-en-que-la-reforma-electoral-de-milei-sera-aprobada",
+      "ts": 1795610752000
+    },
+    {
+      "time": "7:44 AM",
+      "title": "CNBC — Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
+      "ts": 1795610685000
+    },
+    {
+      "time": "7:43 AM",
+      "title": "Investing.com — HSBC flags 3 \"peaks\" that could spark a rally in S&P 500",
+      "url": "https://www.investing.com/news/stock-market-news/hsbc-flags-3-peaks-that-could-spark-a-rally-in-sp-500-5050574",
+      "ts": 1795610617000
+    },
+    {
       "time": "7:40 AM",
       "title": "CNBC — Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
       "url": "https://www.cnbc.com/2026/11/25/kilmar-brego-garca-a-salvadoran-national-mistakenly-deported-from-the-us-arrives-in-spain-.html",
       "ts": 1795610403000
+    },
+    {
+      "time": "7:39 AM",
+      "title": "Investing.com — Thanksgiving stocks to watch for holiday season exposure",
+      "url": "https://www.investing.com/news/stock-market-news/thanksgiving-stocks-to-watch-for-holiday-season-exposure-93CH-5050566",
+      "ts": 1795610370000
+    },
+    {
+      "time": "7:36 AM",
+      "title": "Investing.com — Target vs Walmart holiday outlook: defensive strength against recovery potential",
+      "url": "https://www.investing.com/news/stock-market-news/target-vs-walmart-holiday-outlook-defensive-strength-against-recovery-potential-93CH-5050561",
+      "ts": 1795610177000
+    },
+    {
+      "time": "7:35 AM",
+      "title": "Investing.com — Nasdaq 100’s ±7% daily range and what it means for positioning",
+      "url": "https://www.investing.com/news/stock-market-news/nasdaq-100s-7-daily-range-and-what-it-means-for-positioning-93CH-5050559",
+      "ts": 1795610144000
+    },
+    {
+      "time": "7:34 AM",
+      "title": "Investing.com — Alphabet vs Meta: which stock has the stronger AI position",
+      "url": "https://www.investing.com/news/stock-market-news/alphabet-vs-meta-which-stock-has-the-stronger-ai-position-93CH-5050545",
+      "ts": 1795610088000
+    },
+    {
+      "time": "7:33 AM",
+      "title": "Investing.com — ARM Holdings near-term technical outlook: bearish setup with key levels to watch",
+      "url": "https://www.investing.com/news/stock-market-news/arm-holdings-nearterm-technical-outlook-bearish-setup-with-key-levels-to-watch-93CH-5050544",
+      "ts": 1795609994000
     },
     {
       "time": "7:31 AM",
@@ -253,60 +307,6 @@
       "title": "MarketWatch — Here’s how to find value in cybersecurity stocks after a strong year",
       "url": "https://www.marketwatch.com/story/heres-how-to-find-value-in-cybersecurity-stocks-after-a-strong-year-7fbe1f80?mod=mw_rss_topstories",
       "ts": 1795609800000
-    },
-    {
-      "time": "7:29 AM",
-      "title": "MarketWatch — This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
-      "url": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
-      "ts": 1795609740000
-    },
-    {
-      "time": "7:26 AM",
-      "title": "CNBC — Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-      "ts": 1795609601000
-    },
-    {
-      "time": "7:24 AM",
-      "title": "Investing.com — Deere forecasts fiscal 2027 net income below estimates amid muted farm equipment demand",
-      "url": "https://www.investing.com/news/stock-market-news/deere-forecasts-fiscal-2027-net-income-below-estimates-5050370",
-      "ts": 1795609458000
-    },
-    {
-      "time": "7:20 AM",
-      "title": "Investing.com — Why is Direxion Daily Semiconductor Bull 3X Shares tumbling today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-tumbling-today-93CH-5050524",
-      "ts": 1795609237000
-    },
-    {
-      "time": "7:19 AM",
-      "title": "Investing.com — Why is Jaguar Health stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-jaguar-health-stock-sliding-today-93CH-5050521",
-      "ts": 1795609191000
-    },
-    {
-      "time": "7:17 AM",
-      "title": "Investing.com — Why is Ethos Technologies stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-ethos-technologies-stock-climbing-today-93CH-5050512",
-      "ts": 1795609055000
-    },
-    {
-      "time": "7:16 AM",
-      "title": "Investing.com — Why is SPDR S&P 500 ETF Trust sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-spdr-sp-500-etf-trust-sliding-today-93CH-5050511",
-      "ts": 1795608977000
-    },
-    {
-      "time": "7:15 AM",
-      "title": "Globe and Mail — Fed officials at odds over causes of high inflation, with U.S. PCE report due today",
-      "url": "https://www.theglobeandmail.com/business/article-us-pce-inflation-october-2025-federal-reserve-rate-expectations/",
-      "ts": 1795608946000
-    },
-    {
-      "time": "7:15 AM",
-      "title": "Investing.com — Why is Invesco QQQ Trust ETF sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-etf-sliding-today-93CH-5050510",
-      "ts": 1795608939000
     }
   ]
 }
