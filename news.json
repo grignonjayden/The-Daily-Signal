@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 6:58 PM ET",
+  "generated_at": "Nov 24, 2026, 7:01 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795564703613,
+  "updated_ts": 1795564907847,
   "articles": [
     {
       "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "6:51 PM",
+      "title": "Bloomberg — Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+      "ts": 1795564282000
+    },
+    {
       "time": "6:46 PM",
       "title": "Globe and Mail — Amazon violated Ontario’s anti-discrimination laws by not hiring Iranian engineer, tribunal rules",
       "url": "https://www.theglobeandmail.com/business/article-amazon-violated-ontarios-anti-discrimination-laws-by-not-hiring/",
@@ -301,12 +307,6 @@
       "title": "Globe and Mail — Couche-Tard earns $691.3M second-quarter profit",
       "url": "https://www.theglobeandmail.com/business/article-couche-tard-earns-6913m-second-quarter-profit/",
       "ts": 1795561509000
-    },
-    {
-      "time": "6:03 PM",
-      "title": "CNBC — Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-      "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-      "ts": 1795561404000
     }
   ]
 }
