@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:34 PM ET",
+  "generated_at": "Nov 25, 2026, 3:37 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795638875342,
+  "updated_ts": 1795639075729,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "3:32 PM",
+      "title": "Bloomberg — Netflix Buys Seinfeld Studio Lot After Goldman Forecloses",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/netflix-buys-la-studio-lot-after-goldman-forecloses-video",
+      "ts": 1795638775000
+    },
+    {
       "time": "3:30 PM",
       "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -302,12 +308,6 @@
       "title": "Investing.com — ElevenLabs targets $33B valuation in early 2027 funding talks, Bloomberg reports",
       "url": "https://www.investing.com/news/stock-market-news/elevenlabs-targets-33b-valuation-in-early-2027-funding-talks-bloomberg-reports-5051400",
       "ts": 1795637169000
-    },
-    {
-      "time": "3:03 PM",
-      "title": "Bloomberg — BNP Paribas Hit by Higher Capital Surcharge Under New GSIB List",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/bnp-paribas-hit-by-higher-capital-surcharge-under-new-gsib-list",
-      "ts": 1795637015000
     }
   ]
 }
