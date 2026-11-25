@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 7:46 PM ET",
+  "generated_at": "Nov 24, 2026, 7:49 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795567562554,
+  "updated_ts": 1795567770754,
   "articles": [
     {
       "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
@@ -237,10 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "7:42 PM",
+      "title": "Investing.com — Citi weighs return to Venezuela five years after exit, Bloomberg News reports",
+      "url": "https://www.investing.com/news/stock-market-news/citi-weighs-return-to-venezuela-five-years-after-exit-bloomberg-news-reports-5049442",
+      "ts": 1795567342000
+    },
+    {
       "time": "7:41 PM",
       "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795567272000
+    },
+    {
+      "time": "7:30 PM",
+      "title": "Investing.com — China Southern orders 50 jets in Boeing’s biggest China deal in nearly a decade",
+      "url": "https://www.investing.com/news/stock-market-news/china-southern-airlines-unit-to-buy-50-boeing-7378-aircraft-5047529",
+      "ts": 1795566625000
     },
     {
       "time": "7:30 PM",
@@ -295,18 +307,6 @@
       "title": "Bloomberg — Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
       "ts": 1795564282000
-    },
-    {
-      "time": "6:50 PM",
-      "title": "Bloomberg — RBA’s Jacobs Says Financial Conditions ‘Restrictive’ After Hikes",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
-      "ts": 1795564200000
-    },
-    {
-      "time": "6:46 PM",
-      "title": "Globe and Mail — Amazon violated Ontario’s anti-discrimination laws by not hiring Iranian engineer, tribunal rules",
-      "url": "https://www.theglobeandmail.com/business/article-amazon-violated-ontarios-anti-discrimination-laws-by-not-hiring/",
-      "ts": 1795563966000
     }
   ]
 }
