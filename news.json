@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:48 PM ET",
+  "generated_at": "Nov 25, 2026, 4:52 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795643333454,
+  "updated_ts": 1795643541834,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -74,15 +74,14 @@
       "ts": 1795613399000
     },
     {
-      "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
+      "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "snippet": "Natural gas futures ended the session lower after the EIA’s weekly storage report showed a 24 Bcf draw.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 4:32 PM",
+      "url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
+      "snippet": "The Nasdaq composite plunged as much as 4.5% Wednesday before paring losses.",
+      "image": "https://images.wsj.net/im-02216921",
+      "time": "Nov 25, 4:48 PM",
       "coverage": 3,
-      "ts": 1795642320000
+      "ts": 1795643280000
     },
     {
       "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.33%",
@@ -263,6 +262,12 @@
       "ts": 1795642560000
     },
     {
+      "time": "4:32 PM",
+      "title": "WSJ Markets — U.S. Natural Gas Futures End Lower As December Contract Expires",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "ts": 1795642320000
+    },
+    {
       "time": "4:30 PM",
       "title": "Investing.com — Macy’s Thanksgiving Day Parade in New York City postponed due to storm projections",
       "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
@@ -303,12 +308,6 @@
       "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
       "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
       "ts": 1795641996000
-    },
-    {
-      "time": "4:25 PM",
-      "title": "Investing.com — Colombia stocks higher at close of trade; COLCAP up 0.28%",
-      "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-028-5051503",
-      "ts": 1795641906000
     }
   ]
 }
