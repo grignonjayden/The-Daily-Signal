@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:49 AM ET",
+  "generated_at": "Nov 25, 2026, 2:52 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795592968157,
+  "updated_ts": 1795593168808,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -64,6 +64,17 @@
       "ts": 1795558020000
     },
     {
+      "title": "Restructuring Firm Interpath in Deal to Buy US Company, CEO Says",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/restructuring-firm-interpath-in-deal-to-buy-us-company-ceo-says",
+      "snippet": "Interpath Ltd. is pushing to expand in the US on the heels of being taken over by private equity firm Bridgepoint Group Plc, according to its chief executive officer, who dismissed concerns that a string of senior…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 2:00 AM",
+      "coverage": 3,
+      "ts": 1795590000000
+    },
+    {
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
@@ -103,17 +114,6 @@
       "time": "Nov 25, 2:06 AM",
       "coverage": 2,
       "ts": 1795590377000
-    },
-    {
-      "title": "Houthi Drone Hits Riyadh Financial District, Injuring 11 Amid Near-Daily Saudi Attacks",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/horizons-middle-east-africa-25-112026-video",
-      "snippet": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 1:57 AM",
-      "coverage": 2,
-      "ts": 1795589872000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -237,10 +237,28 @@
   ],
   "ticker": [
     {
+      "time": "2:51 AM",
+      "title": "Bloomberg — UK Heating Bills Surge 26%, Adding to Inflation Pressure",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/uk-heating-bills-surge-26-adding-to-inflation-pressure",
+      "ts": 1795593107000
+    },
+    {
+      "time": "2:48 AM",
+      "title": "Bloomberg — Malaysia Says Too Early to See Impact of US Chip Curbs",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/malaysia-says-too-early-to-see-impact-of-us-chip-curbs-video",
+      "ts": 1795592917000
+    },
+    {
       "time": "2:46 AM",
       "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795592768000
+    },
+    {
+      "time": "2:44 AM",
+      "title": "CNBC — Treasury yields fall as investors await key inflation signal",
+      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+      "ts": 1795592664000
     },
     {
       "time": "2:44 AM",
@@ -289,24 +307,6 @@
       "title": "Investing.com — Hannover Re targets at least €2.9 bln net income in 2027, sets 18% ROE goal for 2027-29",
       "url": "https://www.investing.com/news/stock-market-news/hannover-re-targets-at-least-29-bln-net-income-in-2027-sets-18-roe-goal-for-202729-93CH-5049863",
       "ts": 1795591253000
-    },
-    {
-      "time": "2:13 AM",
-      "title": "Bloomberg — Neuberg Diagnostics Is Said to Pick Banks for $200 Million IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/neuberg-diagnostics-is-said-to-pick-banks-for-200-million-ipo",
-      "ts": 1795590794000
-    },
-    {
-      "time": "2:12 AM",
-      "title": "Investing.com — Indra raises 2030 revenue target to over €12 bln, margin goal to 12.5%",
-      "url": "https://www.investing.com/news/stock-market-news/indra-raises-2030-revenue-target-to-over-12-bln-margin-goal-to-125-5049850",
-      "ts": 1795590756000
-    },
-    {
-      "time": "2:05 AM",
-      "title": "Investing.com — Japan stocks lower at close of trade; Nikkei 225 down 2.62%",
-      "url": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-262-5049846",
-      "ts": 1795590303000
     }
   ]
 }
