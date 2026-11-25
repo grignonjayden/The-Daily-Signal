@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 7:52 PM ET",
+  "generated_at": "Nov 24, 2026, 7:56 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795567970639,
+  "updated_ts": 1795568170267,
   "articles": [
     {
       "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
@@ -34,16 +34,6 @@
       "ts": 1795562029000
     },
     {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 5,
-      "ts": 1795557180000
-    },
-    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -62,6 +52,16 @@
       "time": "Nov 24, 12:51 PM",
       "coverage": 5,
       "ts": 1795542705000
+    },
+    {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "image": "https://images.wsj.net/im-52991838",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 4,
+      "ts": 1795557180000
     },
     {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "7:55 PM",
+      "title": "CNBC — SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
+      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "ts": 1795568135000
+    },
+    {
       "time": "7:48 PM",
       "title": "Globe and Mail — Lululemon founder’s remarks about women spark outrage at leadership event in Calgary",
       "url": "https://www.theglobeandmail.com/business/article-lululemon-founder-chip-wilson-remarks-about-women/",
@@ -301,12 +307,6 @@
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795565100000
-    },
-    {
-      "time": "7:00 PM",
-      "title": "Investing.com — Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
-      "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
-      "ts": 1795564828000
     }
   ]
 }
