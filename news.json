@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 9:03 PM ET",
+  "generated_at": "Nov 24, 2026, 9:07 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795572234369,
+  "updated_ts": 1795572435192,
   "articles": [
+    {
+      "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/trump-says-he-could-pardon-jensen-huang-floats-us-govt-stake-in-nvidia--nyt-5049530",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEMAN0YV_1200_L.jpg",
+      "time": "Nov 24, 8:59 PM",
+      "coverage": 5,
+      "ts": 1795571987000
+    },
     {
       "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
       "source": "Investing.com",
@@ -12,16 +22,6 @@
       "time": "Nov 24, 8:30 PM",
       "coverage": 5,
       "ts": 1795570228000
-    },
-    {
-      "title": "Nvidia’s Huang said he violated code of conduct, source says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
-      "time": "Nov 24, 8:24 PM",
-      "coverage": 5,
-      "ts": 1795569879000
     },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -74,17 +74,6 @@
       "ts": 1795519556000
     },
     {
-      "title": "Asian Stocks Fall as AI Trade Falters, Gold Drops: Markets Wrap",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-      "snippet": "Asian stocks retreated after a selloff in US technology shares revived doubts about the durability of the artificial intelligence trade, extending losses from Wall Street into the region. Gold fell.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 5:09 PM",
-      "coverage": 4,
-      "ts": 1795558158000
-    },
-    {
       "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
@@ -113,6 +102,17 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 5,
       "ts": 1795456173000
+    },
+    {
+      "title": "Asian Stocks Fall as AI Trade Falters, Gold Drops: Markets Wrap",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+      "snippet": "Asian stocks retreated after a selloff in US technology shares revived doubts about the durability of the artificial intelligence trade, extending losses from Wall Street into the region. Gold fell.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 5:09 PM",
+      "coverage": 3,
+      "ts": 1795558158000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -238,6 +238,12 @@
   "ticker": [
     {
       "time": "9:00 PM",
+      "title": "Investing.com — As chips slide, AI-picked IT stocks remain up 27%-88% – meet the leader",
+      "url": "https://www.investing.com/news/stock-market-news/as-chips-slide-aipicked-it-stocks-remain-up-2788--meet-the-leader-5049536",
+      "ts": 1795572038000
+    },
+    {
+      "time": "9:00 PM",
       "title": "WSJ Markets — Oil Futures Decline as Traders Weigh Competing Supply Risks",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
       "ts": 1795572000000
@@ -285,6 +291,12 @@
       "ts": 1795570200000
     },
     {
+      "time": "8:24 PM",
+      "title": "Investing.com — Nvidia’s Huang said he violated code of conduct, source says",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+      "ts": 1795569879000
+    },
+    {
       "time": "8:12 PM",
       "title": "Investing.com — Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
       "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
@@ -295,18 +307,6 @@
       "title": "MarketWatch — Dell’s stock rises as the AI boom helps sales more than double",
       "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
       "ts": 1795569060000
-    },
-    {
-      "time": "7:54 PM",
-      "title": "Investing.com — From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
-      "url": "https://www.investing.com/news/stock-market-news/from-horsepower-to-firepower-japan-draws-auto-suppliers-into-major-arms-buildup-5046991",
-      "ts": 1795568063000
-    },
-    {
-      "time": "7:48 PM",
-      "title": "Globe and Mail — Lululemon founder’s remarks about women spark outrage at leadership event in Calgary",
-      "url": "https://www.theglobeandmail.com/business/article-lululemon-founder-chip-wilson-remarks-about-women/",
-      "ts": 1795567715000
     }
   ]
 }
