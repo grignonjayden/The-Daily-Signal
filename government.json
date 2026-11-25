@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 25, 2026, 3:30 AM ET",
+  "generated_at": "Nov 25, 2026, 4:04 AM ET",
   "date_key": "2026-11-25",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -49,18 +49,6 @@
       "sector": "Defence",
       "time": "Nov 23",
       "date": "2026-11-23T23:32:21.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
-      "url": "https://www.cbc.ca/news/politics/ndp-liberals-bill-c39-indigenous-concerns-9.7430722?cmp=rss",
-      "image": "https://i.cbc.ca/ais/e7be82db-c6a4-47b0-b535-48f6d02d5488,1795213793884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C435%2C8356%2C4700%29%3B",
-      "source": "CBC News",
-      "badge": "CBC",
-      "analysis": false,
-      "sector": "Infrastructure",
-      "time": "Nov 20",
-      "date": "2026-11-20T23:59:54.000Z",
       "group": "sector"
     },
     {
@@ -215,7 +203,7 @@
     {
       "source": "CBC News",
       "fetched": 40,
-      "kept": 3
+      "kept": 2
     },
     {
       "source": "Finance Canada",
@@ -238,13 +226,13 @@
       "kept": 4
     },
     {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
+      "source": "CP24",
+      "fetched": 200,
       "kept": 4
     },
     {
-      "source": "CP24",
-      "fetched": 200,
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
       "kept": 4
     }
   ]

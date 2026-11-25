@@ -1,13 +1,13 @@
 {
-  "generated_at": "Nov 25, 2026, 4:00 AM ET",
+  "generated_at": "Nov 25, 2026, 4:03 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795597236929,
+  "updated_ts": 1795597437960,
   "articles": [
     {
-      "title": "Why Jensen Huang’s Return to Nvidia Matters for China (Video)",
+      "title": "Why Jensen Huang’s Return to Nvidia Matters for China",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/why-jensen-huang-s-return-to-nvidia-matters-for-china-video",
-      "snippet": "",
+      "snippet": "After a week of whiplash over Jensen Huang’s future and new US chip curbs, Beijing sent a clear message to Washington about their trade truce: China is holding up its side of the bargain — for now. Nectar Gan…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 25, 3:59 AM",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "4:00 AM",
+      "title": "Globe and Mail — Steel distributors assert they’re being stiffed on tariff rebates",
+      "url": "https://www.theglobeandmail.com/business/article-steel-tariff-rebates-titus-algoma-cascadia/",
+      "ts": 1795597200000
+    },
+    {
       "time": "3:54 AM",
       "title": "WSJ Markets — Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
       "url": "https://www.wsj.com/finance/stocks/newly-listed-airtel-mobile-to-replace-ig-group-in-ftse-100-index-review-ad6b860c?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Australia passes law forcing internet platforms to take down harmful content",
       "url": "https://www.investing.com/news/stock-market-news/australia-passes-law-forcing-internet-platforms-to-take-down-harmful-content-5049860",
       "ts": 1795595782000
-    },
-    {
-      "time": "3:35 AM",
-      "title": "WSJ Markets — European Stock Indexes Mostly Higher as Industrials, Luxuries Gain",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
-      "ts": 1795595700000
     }
   ]
 }
