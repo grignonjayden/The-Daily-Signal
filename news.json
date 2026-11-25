@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:09 AM ET",
+  "generated_at": "Nov 25, 2026, 3:13 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795594190086,
+  "updated_ts": 1795594392864,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "3:09 AM",
+      "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795594162000
+    },
+    {
       "time": "2:57 AM",
       "title": "Bloomberg — China Dismisses US Tariff Prospect as ‘Political Maneuvering’",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-dismisses-us-tariff-prospect-as-political-maneuvering",
@@ -259,12 +265,6 @@
       "title": "Bloomberg — Malaysia Says Too Early to See Impact of US Chip Curbs",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/malaysia-says-too-early-to-see-impact-of-us-chip-curbs-video",
       "ts": 1795592917000
-    },
-    {
-      "time": "2:46 AM",
-      "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795592768000
     },
     {
       "time": "2:44 AM",
