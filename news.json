@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:06 PM ET",
+  "generated_at": "Nov 25, 2026, 1:09 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795629993947,
+  "updated_ts": 1795630193249,
   "articles": [
     {
       "title": "U.S. Justice Department did not open probe into Jensen Huang before Nvidia rehired him, sources say",
@@ -237,16 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "1:08 PM",
+      "title": "CNBC — Stocks making the biggest moves Wednesday: HP Inc, Ambarella, Nvidia, Sandisk & more",
+      "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795630115000
+    },
+    {
+      "time": "1:08 PM",
+      "title": "CNBC — 10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+      "ts": 1795630088000
+    },
+    {
       "time": "1:02 PM",
       "title": "Bloomberg — Ontario Teachers’ CEO Says ‘Very Long’ AI Buildout Imperils Bets",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/ontario-teachers-ceo-says-very-long-ai-buildout-imperils-bets",
       "ts": 1795629771000
-    },
-    {
-      "time": "12:57 PM",
-      "title": "CNBC — Stocks making the biggest moves midday: HP Inc, Ambarella, Nvidia, Sandisk & more",
-      "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795629465000
     },
     {
       "time": "12:57 PM",
@@ -301,12 +307,6 @@
       "title": "CNBC — Kalshi traders say state data center moratoriums are more likely than not",
       "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
       "ts": 1795628214000
-    },
-    {
-      "time": "12:32 PM",
-      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=rss_markets_main",
-      "ts": 1795627920000
     }
   ]
 }
