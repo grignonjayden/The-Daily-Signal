@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:55 AM ET",
+  "generated_at": "Nov 25, 2026, 8:58 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795614912924,
+  "updated_ts": 1795615114263,
   "articles": [
     {
       "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
@@ -237,10 +237,16 @@
   ],
   "ticker": [
     {
-      "time": "8:54 AM",
+      "time": "8:57 AM",
       "title": "CNBC — Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795614860000
+      "ts": 1795615038000
+    },
+    {
+      "time": "8:57 AM",
+      "title": "CNBC — Stocks making the biggest moves Wednesday: Nvidia, Urban Outfitters, Dell, Ambarella & more",
+      "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795615023000
     },
     {
       "time": "8:51 AM",
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — Nasdaq Futures Tumble as AI Selloff Returns",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
       "ts": 1795613280000
-    },
-    {
-      "time": "8:24 AM",
-      "title": "Bloomberg — Europe’s Gas Traders Are in for a Volatile Winter",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/europe-s-gas-traders-are-in-for-a-volatile-winter",
-      "ts": 1795613056000
     }
   ]
 }
