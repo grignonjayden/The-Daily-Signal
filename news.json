@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:00 PM ET",
+  "generated_at": "Nov 25, 2026, 3:04 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795636855143,
+  "updated_ts": 1795637055936,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -238,16 +238,16 @@
   ],
   "ticker": [
     {
+      "time": "3:01 PM",
+      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795636888000
+    },
+    {
       "time": "2:54 PM",
       "title": "CNBC — EU postpones discussion to approve Tesla's self-driving tech",
       "url": "https://www.cnbc.com/2026/11/25/eu-postpones-discussion-to-approve-teslas-self-driving-tech.html",
       "ts": 1795636482000
-    },
-    {
-      "time": "2:54 PM",
-      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795636473000
     },
     {
       "time": "2:52 PM",
