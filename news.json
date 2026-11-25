@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:44 PM ET",
+  "generated_at": "Nov 25, 2026, 3:48 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795639486090,
+  "updated_ts": 1795639687235,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -24,16 +24,6 @@
       "ts": 1795629600000
     },
     {
-      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
-      "snippet": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558516-17955383482025-12-03t204438z_1611070846_rc269iamutg0_rtrmadp_0_nvidia-huang-congress.jpeg?v=1795635517&w=1920&h=1080",
-      "time": "Nov 25, 3:28 PM",
-      "coverage": 6,
-      "ts": 1795638522000
-    },
-    {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
@@ -42,6 +32,16 @@
       "time": "Nov 25, 12:15 PM",
       "coverage": 5,
       "ts": 1795626900000
+    },
+    {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
+      "time": "Nov 25, 9:29 AM",
+      "coverage": 5,
+      "ts": 1795616990000
     },
     {
       "title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
@@ -60,9 +60,19 @@
       "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
       "snippet": "",
       "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "time": "Nov 25, 2:10 PM",
+      "time": "Nov 25, 3:33 PM",
       "coverage": 4,
-      "ts": 1795633858000
+      "ts": 1795638833000
+    },
+    {
+      "title": "Wall Street rebounds amid fragile sentiment as Nasdaq recovers from steep morning drop",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-rebounds-amid-fragile-sentiment-as-nasdaq-recovers-from-steep-morning-drop-93CH-5051426",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM3F142_1200_L.jpg",
+      "time": "Nov 25, 3:33 PM",
+      "coverage": 4,
+      "ts": 1795638828000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -106,24 +116,15 @@
       "ts": 1795636138000
     },
     {
-      "title": "EU postpones discussion to approve Tesla’s self-driving tech",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/eu-postpones-discussion-to-approve-teslas-selfdriving-tech-5050292",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0TU_L.jpg",
-      "time": "Nov 25, 2:36 PM",
-      "coverage": 2,
-      "ts": 1795635380000
-    },
-    {
-      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+      "title": "U.S. Natural Gas Inventories Decrease in Line With Average",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
-      "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
-      "image": "https://images.wsj.net/im-75358264",
-      "time": "Nov 23, 5:25 PM",
-      "coverage": 7,
-      "ts": 1795472700000
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "snippet": "Natural gas futures were mixed as U.S. storage saw its first withdrawal of the season last week as colder weather lifted heating demand.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 12:28 PM",
+      "coverage": 3,
+      "ts": 1795627680000
     },
     {
       "title": "Dow turns positive, S&P 500 and Nasdaq led lower by AI stocks",
@@ -238,10 +239,22 @@
   ],
   "ticker": [
     {
+      "time": "3:44 PM",
+      "title": "Investing.com — Citadel to return $3.5B to clients amid strong 2026 gains",
+      "url": "https://www.investing.com/news/stock-market-news/citadel-to-return-35b-to-clients-amid-strong-2026-gains-5051431",
+      "ts": 1795639494000
+    },
+    {
       "time": "3:40 PM",
       "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795639206000
+    },
+    {
+      "time": "3:37 PM",
+      "title": "Investing.com — AI spending leads the biggest market risks heading into 2027",
+      "url": "https://www.investing.com/news/stock-market-news/ai-spending-leads-the-biggest-market-risks-heading-into-2027-93CH-5051429",
+      "ts": 1795639062000
     },
     {
       "time": "3:32 PM",
@@ -250,64 +263,52 @@
       "ts": 1795638775000
     },
     {
+      "time": "3:30 PM",
+      "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 1.66%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-166-5051422",
+      "ts": 1795638604000
+    },
+    {
+      "time": "3:28 PM",
+      "title": "CNBC — Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "ts": 1795638522000
+    },
+    {
       "time": "3:27 PM",
       "title": "Bloomberg — Blue Owl, Blackstone Make Rare Pension Deal",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/blue-owl-blackstone-make-rare-pension-deal-video",
       "ts": 1795638437000
     },
     {
+      "time": "3:21 PM",
+      "title": "Investing.com — Workday earnings analysis: questions answered and next catalysts",
+      "url": "https://www.investing.com/news/stock-market-news/workday-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051419",
+      "ts": 1795638083000
+    },
+    {
+      "time": "3:20 PM",
+      "title": "Investing.com — Urban Outfitters earnings analysis: questions answered and next catalysts",
+      "url": "https://www.investing.com/news/stock-market-news/urban-outfitters-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051418",
+      "ts": 1795638056000
+    },
+    {
+      "time": "3:20 PM",
+      "title": "Investing.com — Autodesk earnings analysis: questions answered and next catalysts",
+      "url": "https://www.investing.com/news/stock-market-news/autodesk-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051417",
+      "ts": 1795638043000
+    },
+    {
+      "time": "3:20 PM",
+      "title": "Investing.com — HPQ earnings analysis: questions answered and next catalysts",
+      "url": "https://www.investing.com/news/stock-market-news/hpq-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051411",
+      "ts": 1795638027000
+    },
+    {
       "time": "3:19 PM",
       "title": "Bloomberg — Sanofi’s $41B Insmed Deal Shows Cost of a Patent Cliff",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/sanofi-s-41b-insmed-deal-shows-cost-of-a-patent-cliff-video",
       "ts": 1795637982000
-    },
-    {
-      "time": "3:17 PM",
-      "title": "CNBC — Gold falls to more than one-year low after data shows U.S. inflation rose further",
-      "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
-      "ts": 1795637859000
-    },
-    {
-      "time": "3:15 PM",
-      "title": "Investing.com — Dell earnings analysis: questions answered and next catalysts",
-      "url": "https://www.investing.com/news/stock-market-news/dell-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051407",
-      "ts": 1795637736000
-    },
-    {
-      "time": "3:15 PM",
-      "title": "Investing.com — Ambarella earnings analysis: questions answered and next catalysts",
-      "url": "https://www.investing.com/news/stock-market-news/ambarella-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051406",
-      "ts": 1795637717000
-    },
-    {
-      "time": "3:14 PM",
-      "title": "Investing.com — Deere earnings analysis: questions answered and next catalysts",
-      "url": "https://www.investing.com/news/stock-market-news/deere-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051402",
-      "ts": 1795637682000
-    },
-    {
-      "time": "3:14 PM",
-      "title": "Investing.com — Li Auto earnings analysis: questions answered and next catalysts",
-      "url": "https://www.investing.com/news/stock-market-news/li-auto-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051401",
-      "ts": 1795637672000
-    },
-    {
-      "time": "3:08 PM",
-      "title": "Bloomberg — Egypt Road Accident Kills at Least 30 in Greater Cairo",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/egypt-road-accident-kills-at-least-30-in-greater-cairo",
-      "ts": 1795637301000
-    },
-    {
-      "time": "3:06 PM",
-      "title": "Bloomberg — GTCR Is Said to Weigh $50B Global Payments Buyout",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/gtcr-is-said-to-weigh-50b-global-payments-buyout-video",
-      "ts": 1795637177000
-    },
-    {
-      "time": "3:06 PM",
-      "title": "Investing.com — ElevenLabs targets $33B valuation in early 2027 funding talks, Bloomberg reports",
-      "url": "https://www.investing.com/news/stock-market-news/elevenlabs-targets-33b-valuation-in-early-2027-funding-talks-bloomberg-reports-5051400",
-      "ts": 1795637169000
     }
   ]
 }
