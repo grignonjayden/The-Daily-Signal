@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:45 AM ET",
+  "generated_at": "Nov 25, 2026, 9:49 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795617955722,
+  "updated_ts": 1795618158138,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -54,14 +54,14 @@
       "ts": 1795551400000
     },
     {
-      "title": "U.S. plans to hike tariffs on China, EU and other partners over subsidized production",
+      "title": "U.S. inflation rises further in October, bolstering odds of successive Fed rate hikes",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
-      "snippet": "Levies still at the proposal stage, with no strict timelines on implementation, official says",
-      "image": "https://www.theglobeandmail.com/resizer/v2/Q4VIBLF5KFCNTDSUQ2MJ57M5SM.jpg?auth=1caa2d9f94ad675798cb6410a7ff289c414503eb7e070caf81845c5946c4faec&smart=true&width=1668&height=1112",
-      "time": "Nov 25, 8:29 AM",
+      "url": "https://www.theglobeandmail.com/business/article-us-inflation-rises-further-in-october-bolstering-odds-of-successive/",
+      "snippet": "Personal Consumption Expenditures Price Index rose 0.3% last month, after a 0.5% gain in September",
+      "image": "https://www.theglobeandmail.com/resizer/v2/VUDARLZ5NJDYLEHKY4E65V5KSU.jpg?auth=3054035d7e65acc729ab52db5ac4d5ef2f12a9de943bd2d4a46e20f61778b5b1&smart=true&width=7820&height=5213",
+      "time": "Nov 25, 8:55 AM",
       "coverage": 4,
-      "ts": 1795613399000
+      "ts": 1795614954000
     },
     {
       "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
@@ -95,13 +95,23 @@
       "ts": 1795609258000
     },
     {
+      "title": "Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
+      "snippet": "U.S. equities tumbled Wednesday after key PCE inflation data as Nvidia, Anthropic and Big Tech stocks slid alongside fresh Trump administration tariff threats.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
+      "time": "Nov 25, 9:38 AM",
+      "coverage": 3,
+      "ts": 1795617488000
+    },
+    {
       "title": "Ambarella downgraded by BofA, Morgan Stanley as memory squeeze hits demand",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/ambarella-downgraded-by-bofa-morgan-stanley-as-memory-squeeze-hits-demand-5050947",
       "snippet": "",
       "image": "https://content-media.investing.com/news/LYNXMPEM18123_1200_L.jpg",
       "time": "Nov 25, 9:21 AM",
-      "coverage": 3,
+      "coverage": 2,
       "ts": 1795616479000
     },
     {
@@ -133,16 +143,6 @@
       "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
       "time": "Nov 25, 9:26 AM",
       "ts": 1795616809000
-    },
-    {
-      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
-      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
-      "time": "Nov 23, 9:06 AM",
-      "coverage": 5,
-      "ts": 1795442808000
     }
   ],
   "outlets": [
@@ -236,10 +236,40 @@
   ],
   "ticker": [
     {
-      "time": "9:42 AM",
-      "title": "CNBC — Stocks tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
+      "time": "9:48 AM",
+      "title": "CNBC — U.S. stockpile of unstable and dangerous lead azide scheduled for detonation in Iowa",
+      "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
+      "ts": 1795618108000
+    },
+    {
+      "time": "9:48 AM",
+      "title": "CNBC — Dow craters 1,000 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795617768000
+      "ts": 1795618099000
+    },
+    {
+      "time": "9:46 AM",
+      "title": "Bloomberg — Deere Sees Headwinds Ahead for Farmers in 2027",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/deere-sees-headwinds-ahead-for-farmers-in-2027-video",
+      "ts": 1795617973000
+    },
+    {
+      "time": "9:45 AM",
+      "title": "Bloomberg — Bullrich dice que reelección de Milei está en riesgo si la economía no mejora",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/bullrich-dice-que-reeleccion-de-milei-esta-en-riesgo-si-la-economia-no-mejora",
+      "ts": 1795617951000
+    },
+    {
+      "time": "9:42 AM",
+      "title": "CNBC — Best low-interest personal loans of December 2026",
+      "url": "https://www.cnbc.com/select/best-low-interest-personal-loans/",
+      "ts": 1795617774000
+    },
+    {
+      "time": "9:40 AM",
+      "title": "Globe and Mail — U.S. third-quarter GDP growth revised sharply higher",
+      "url": "https://www.theglobeandmail.com/business/article-us-gdp-growth-third-quarter-2026/",
+      "ts": 1795617616000
     },
     {
       "time": "9:40 AM",
@@ -276,36 +306,6 @@
       "title": "MarketWatch — Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
       "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
       "ts": 1795617000000
-    },
-    {
-      "time": "9:27 AM",
-      "title": "CNBC — This robotics stock lost half its value. Here's why Citi says it's a buy",
-      "url": "https://www.cnbc.com/2026/11/25/a-robotics-stock-lost-half-its-value-heres-why-citi-says-its-a-buy-.html",
-      "ts": 1795616823000
-    },
-    {
-      "time": "9:26 AM",
-      "title": "CNBC — Army plans to detonate U.S. stockpile of lead azide in Iowa",
-      "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
-      "ts": 1795616816000
-    },
-    {
-      "time": "9:26 AM",
-      "title": "Investing.com — Why is Nebius stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-5050956",
-      "ts": 1795616785000
-    },
-    {
-      "time": "9:26 AM",
-      "title": "Investing.com — Why is Braemar Hotels & Resorts stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-braemar-hotels--resorts-stock-surging-today-93CH-5050955",
-      "ts": 1795616769000
-    },
-    {
-      "time": "9:24 AM",
-      "title": "Investing.com — Deere forecasts 2027 profit below estimates as farm equipment recovery remains muted",
-      "url": "https://www.investing.com/news/stock-market-news/deere-forecasts-fiscal-2027-net-income-below-estimates-5050370",
-      "ts": 1795616662000
     }
   ]
 }
