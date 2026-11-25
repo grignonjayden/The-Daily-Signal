@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:58 AM ET",
+  "generated_at": "Nov 25, 2026, 2:02 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795589927781,
+  "updated_ts": 1795590128347,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:57 AM",
+      "title": "Bloomberg — Horizons Middle East & Africa 25/112026 (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/horizons-middle-east-africa-25-112026-video",
+      "ts": 1795589872000
+    },
+    {
       "time": "1:53 AM",
       "title": "Bloomberg — Dangote Refinery Said to List in Lagos on December 1",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-said-to-list-in-lagos-on-december-1-video",
@@ -253,6 +259,12 @@
       "title": "Bloomberg — GPIF Agenda May Signal Portfolio Review Progress, JPMorgan Says",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/gpif-agenda-may-signal-portfolio-review-progress-jpmorgan-says-mwvrj40v",
       "ts": 1795589336000
+    },
+    {
+      "time": "1:47 AM",
+      "title": "Bloomberg — FTSE 100 Live: UK Stocks to Rebound, Pound Slips Further Below $1.31",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-11-25/ftse-100-live-updates-ai-stocks-pound-gilts-bonds-energy-bills-what-s-moving-uk-markets-right-now-markets-today",
+      "ts": 1795589236000
     },
     {
       "time": "1:42 AM",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US",
       "url": "https://www.investing.com/news/stock-market-news/amazon-to-launch-amazon-autos-in-uk-in-early-2027-in-first-expansion-beyond-us-5049784",
       "ts": 1795587866000
-    },
-    {
-      "time": "1:23 AM",
-      "title": "Investing.com — Houthis threaten Saudi ports amid Yemen conflict escalation",
-      "url": "https://www.investing.com/news/stock-market-news/houthis-threaten-saudi-ports-amid-yemen-conflict-escalation-93CH-5049796",
-      "ts": 1795587788000
-    },
-    {
-      "time": "1:21 AM",
-      "title": "Investing.com — ams OSRAM and Samsung Display strike microLED deal with €210 mln investment",
-      "url": "https://www.investing.com/news/stock-market-news/ams-osram-and-samsung-display-strike-microled-deal-with-210-mln-investment-93CH-5049794",
-      "ts": 1795587674000
     }
   ]
 }
