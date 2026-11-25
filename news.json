@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:28 AM ET",
+  "generated_at": "Nov 25, 2026, 8:31 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795613289427,
+  "updated_ts": 1795613501539,
   "articles": [
     {
       "title": "Nasdaq 100 futures crater 3% on AI trade rout, U.S. tariffs; eyes on PCE data",
@@ -30,7 +30,7 @@
       "snippet": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
       "image": "https://image.cnbcfm.com/api/v1/image/108557486-1795449758810-gettyimages-2306507012-anotherday41812403_hs4scjlw.jpeg?v=1795449858&w=1920&h=1080",
       "time": "Nov 25, 8:25 AM",
-      "coverage": 3,
+      "coverage": 4,
       "ts": 1795613157000
     },
     {
@@ -42,6 +42,26 @@
       "time": "Nov 25, 8:16 AM",
       "coverage": 3,
       "ts": 1795612560000
+    },
+    {
+      "title": "Nasdaq Futures Tumble as AI Selloff Returns",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
+      "snippet": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded.",
+      "image": "https://images.wsj.net/im-48917090",
+      "time": "Nov 25, 8:28 AM",
+      "coverage": 4,
+      "ts": 1795613280000
+    },
+    {
+      "title": "TSX futures slip amid deepening tech selloff, U.S. tariff reports",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-deepening-tech-selloff-us-tariff-reports-5050748",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
+      "time": "Nov 25, 8:24 AM",
+      "coverage": 4,
+      "ts": 1795613049000
     },
     {
       "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
@@ -75,16 +95,6 @@
       "ts": 1795608160000
     },
     {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 4,
-      "ts": 1795557180000
-    },
-    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -93,16 +103,6 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 4,
       "ts": 1795551400000
-    },
-    {
-      "title": "Nvidia, chipmakers slide premarket; Dell falls despite upbeat outlook",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-chipmakers-slide-premarket-dell-falls-despite-upbeat-outlook-5050581",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEMAC1IQ_L.jpg",
-      "time": "Nov 25, 7:46 AM",
-      "coverage": 2,
-      "ts": 1795610790000
     },
     {
       "title": "Huawei guilty of conspiracy to steal trade secrets, U.S. jury finds",
@@ -244,12 +244,6 @@
     },
     {
       "time": "8:24 AM",
-      "title": "Investing.com — TSX futures slip amid deepening tech selloff, U.S. tariff reports",
-      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-deepening-tech-selloff-us-tariff-reports-5050748",
-      "ts": 1795613049000
-    },
-    {
-      "time": "8:24 AM",
       "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
       "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9535388e?mod=rss_markets_main",
       "ts": 1795613040000
@@ -306,6 +300,12 @@
       "time": "8:09 AM",
       "title": "MarketWatch — 12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
       "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "ts": 1795612140000
+    },
+    {
+      "time": "8:09 AM",
+      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=rss_markets_main",
       "ts": 1795612140000
     }
   ]
