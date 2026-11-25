@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 5:46 PM ET",
+  "generated_at": "Nov 25, 2026, 5:49 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795646782619,
+  "updated_ts": 1795646997976,
   "articles": [
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 25, 5:45 PM",
+      "coverage": 6,
+      "ts": 1795646700000
+    },
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
@@ -42,16 +52,6 @@
       "time": "Nov 25, 9:29 AM",
       "coverage": 6,
       "ts": 1795616990000
-    },
-    {
-      "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-      "snippet": "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.",
-      "image": "https://images.mktw.net/im-31262008",
-      "time": "Nov 25, 5:11 PM",
-      "coverage": 4,
-      "ts": 1795644660000
     },
     {
       "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
@@ -286,6 +286,12 @@
       "ts": 1795644922000
     },
     {
+      "time": "5:11 PM",
+      "title": "MarketWatch — Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+      "ts": 1795644660000
+    },
+    {
       "time": "5:10 PM",
       "title": "Bloomberg — Asian Stocks Set for Gains After Late US Rebound: Markets Wrap",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
@@ -302,12 +308,6 @@
       "title": "Bloomberg — Porky Ends Peru’s Election Year Nearly Empty-Handed",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/porky-ends-peru-s-election-year-nearly-empty-handed",
       "ts": 1795644461000
-    },
-    {
-      "time": "5:03 PM",
-      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=rss_markets_main",
-      "ts": 1795644180000
     }
   ]
 }
