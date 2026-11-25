@@ -1,8 +1,20 @@
 {
-  "generated_at": "Nov 25, 2026, 9:01 AM ET",
+  "generated_at": "Nov 25, 2026, 9:35 AM ET",
   "date_key": "2026-11-25",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "U.S. inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+      "url": "https://www.cp24.com/news/money/2026/11/25/us-inflation-remains-uncomfortably-high-despite-a-retreat-in-gas-prices-as-challenges-mount-for-the-fed/",
+      "image": "https://www.cp24.com/resizer/v2/EVPLHXYM7CL4KJ4KTW6Z7NFAEU.jpg?auth=57edd90d0c4fcc1f329f8d26c5d62e1de0839c0dab1d627d88dc749be4ab7b4c&smart=true&width=1400&height=933",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "General",
+      "time": "Nov 25",
+      "date": "2026-11-25T18:19:01.000Z",
+      "group": "sector"
+    },
     {
       "title": "Joint statement by the Minister of Industry of Canada and the Minister responsible for Canada Economic Development for Quebec Regions, and the Minister of Science, Technology and Innovation of South Africa on advancing bilateral cooperation in science, technology, and innovation",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/joint-statement-by-the-minister-of-industry-of-canada-and-the-minister-responsible-for-canada-economic-development-for-quebec-regions-and-the-minis.html",
@@ -76,7 +88,7 @@
       "group": "sector"
     },
     {
-      "title": "Macklem says inflation forecast is lower, but oil price pressures are lingering",
+      "title": "Falling global oil prices could mean inflation ends below forecast, Bank of Canada says",
       "url": "https://www.cp24.com/news/money/2026/11/24/macklem-says-inflation-forecast-is-lower-but-oil-price-pressures-are-lingering/",
       "image": "https://www.cp24.com/resizer/v2/XDEEBJ75UTIWNS6MRCQZZP4T7U.jpg?auth=1d68eef2a5da4d8ad29d4b3800198955194b68e13dc7e40666d4a166259b6277&smart=true&width=1400&height=917",
       "source": "CP24",
@@ -194,19 +206,14 @@
       "kept": 2
     },
     {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 3
-    },
-    {
       "source": "CDEV",
       "fetched": 20,
       "kept": 0
+    },
+    {
+      "source": "Finance Canada",
+      "fetched": 20,
+      "kept": 4
     },
     {
       "source": "Canada Media Fund",
@@ -214,13 +221,18 @@
       "kept": 1
     },
     {
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
+      "kept": 4
+    },
+    {
       "source": "ISED",
       "fetched": 20,
       "kept": 4
     },
     {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
+      "source": "CP24",
+      "fetched": 200,
       "kept": 4
     }
   ]

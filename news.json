@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:32 AM ET",
+  "generated_at": "Nov 25, 2026, 9:35 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795617137287,
+  "updated_ts": 1795617338578,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -74,17 +74,6 @@
       "ts": 1795608780000
     },
     {
-      "title": "Russia’s Elevated Oil Exports Add to Global Supply Surplus",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/russia-s-elevated-oil-exports-add-to-global-supply-surplus",
-      "snippet": "Exports this year top all annual averages since the 2022 full-scale invasion of Ukraine",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 7:02 AM",
-      "coverage": 4,
-      "ts": 1795608160000
-    },
-    {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
@@ -114,6 +103,17 @@
       "time": "Nov 25, 9:21 AM",
       "coverage": 3,
       "ts": 1795616479000
+    },
+    {
+      "title": "Russia’s Elevated Oil Exports Add to Global Supply Surplus",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/russia-s-elevated-oil-exports-add-to-global-supply-surplus",
+      "snippet": "Exports this year top all annual averages since the 2022 full-scale invasion of Ukraine",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 7:02 AM",
+      "coverage": 3,
+      "ts": 1795608160000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -236,16 +236,34 @@
   ],
   "ticker": [
     {
-      "time": "9:31 AM",
+      "time": "9:34 AM",
       "title": "CNBC — Stocks tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795617065000
+      "ts": 1795617292000
+    },
+    {
+      "time": "9:32 AM",
+      "title": "MarketWatch — GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
+      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
+      "ts": 1795617120000
+    },
+    {
+      "time": "9:31 AM",
+      "title": "WSJ Markets — Crude Futures Pick Up in Choppy Trading",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
+      "ts": 1795617060000
     },
     {
       "time": "9:30 AM",
       "title": "CNBC — Stocks making the biggest moves Wednesday: Nvidia, Urban Outfitters, Dell, Ambarella & more",
       "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
       "ts": 1795617035000
+    },
+    {
+      "time": "9:30 AM",
+      "title": "MarketWatch — Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
+      "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+      "ts": 1795617000000
     },
     {
       "time": "9:27 AM",
@@ -288,24 +306,6 @@
       "title": "CNBC — CNBC Insurance Pro: Should I get pay-per-mile car insurance in New York?",
       "url": "https://www.cnbc.com/select/how-to-save-on-car-insurance-in-new-york/",
       "ts": 1795616621000
-    },
-    {
-      "time": "9:18 AM",
-      "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "ts": 1795616325000
-    },
-    {
-      "time": "9:17 AM",
-      "title": "CNBC — Secondhand shopping is going mainstream this holiday season as consumers seek value",
-      "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-      "ts": 1795616221000
-    },
-    {
-      "time": "9:15 AM",
-      "title": "CNBC — Our top 10 things to watch in the stock market Wednesday",
-      "url": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "ts": 1795616130000
     }
   ]
 }
