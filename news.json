@@ -1,8 +1,38 @@
 {
-  "generated_at": "Nov 25, 2026, 12:15 PM ET",
+  "generated_at": "Nov 25, 2026, 12:19 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795626925913,
+  "updated_ts": 1795627142053,
   "articles": [
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 25, 12:15 PM",
+      "coverage": 5,
+      "ts": 1795626900000
+    },
+    {
+      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+      "snippet": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558277-1795524065086-gettyimages-2306584355-vcg111684383910.jpeg?v=1795524128&w=1920&h=1080",
+      "time": "Nov 25, 12:10 PM",
+      "coverage": 5,
+      "ts": 1795626617000
+    },
+    {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
+      "time": "Nov 25, 9:29 AM",
+      "coverage": 5,
+      "ts": 1795616990000
+    },
     {
       "title": "US finds no evidence China directed executive to spy on Nvidia CEO, WSJ reports",
       "source": "Investing.com",
@@ -14,43 +44,13 @@
       "ts": 1795624958000
     },
     {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
-      "time": "Nov 25, 9:29 AM",
-      "coverage": 4,
-      "ts": 1795616990000
-    },
-    {
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
-      "time": "Nov 25, 9:29 AM",
-      "coverage": 4,
-      "ts": 1795616940000
-    },
-    {
-      "title": "Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-      "snippet": "Based on where retail investors bought Nvidia’s stock on the dip last week, their gains are nearly all gone, according to Vanda Research.",
-      "image": "https://images.mktw.net/im-31262008",
-      "time": "Nov 25, 10:43 AM",
-      "coverage": 3,
-      "ts": 1795621380000
-    },
-    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795551400000
     },
     {
@@ -141,7 +141,7 @@
       "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
       "time": "Nov 23, 9:06 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795442808000
     }
   ],
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "12:10 PM",
-      "title": "CNBC — Dow slides 300 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795626616000
+      "time": "12:11 PM",
+      "title": "Bloomberg — US Army Detonates Explosives Cache in Middletown, Iowa",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/us-army-detonates-explosives-cache-in-middletown-iowa-video",
+      "ts": 1795626706000
     },
     {
       "time": "12:07 PM",
