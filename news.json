@@ -1,28 +1,8 @@
 {
-  "generated_at": "Nov 25, 2026, 5:16 PM ET",
+  "generated_at": "Nov 25, 2026, 5:19 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795644963253,
+  "updated_ts": 1795645165217,
   "articles": [
-    {
-      "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-      "image": "https://images.mktw.net/im-58425830",
-      "time": "Nov 25, 1:00 PM",
-      "coverage": 5,
-      "ts": 1795629600000
-    },
-    {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
-      "time": "Nov 25, 9:29 AM",
-      "coverage": 5,
-      "ts": 1795616990000
-    },
     {
       "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
       "source": "MarketWatch",
@@ -44,14 +24,14 @@
       "ts": 1795642260000
     },
     {
-      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
-      "snippet": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558516-17955383482025-12-03t204438z_1611070846_rc269iamutg0_rtrmadp_0_nvidia-huang-congress.jpeg?v=1795635517&w=1920&h=1080",
-      "time": "Nov 25, 4:00 PM",
-      "coverage": 5,
-      "ts": 1795640408000
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
+      "time": "Nov 25, 9:29 AM",
+      "coverage": 4,
+      "ts": 1795616990000
     },
     {
       "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
@@ -65,14 +45,24 @@
       "ts": 1795642320000
     },
     {
-      "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
-      "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
-      "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
-      "time": "Nov 24, 3:16 PM",
-      "coverage": 5,
-      "ts": 1795551400000
+      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "snippet": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558516-17955383482025-12-03t204438z_1611070846_rc269iamutg0_rtrmadp_0_nvidia-huang-congress.jpeg?v=1795635517&w=1920&h=1080",
+      "time": "Nov 25, 4:00 PM",
+      "coverage": 4,
+      "ts": 1795640408000
+    },
+    {
+      "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
+      "snippet": "This tape has not been kind to Nvidia.",
+      "image": "https://images.mktw.net/im-09631159",
+      "time": "Nov 25, 2:43 PM",
+      "coverage": 2,
+      "ts": 1795635780000
     },
     {
       "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
@@ -93,6 +83,16 @@
       "time": "Nov 25, 4:30 PM",
       "coverage": 3,
       "ts": 1795642257000
+    },
+    {
+      "title": "U.S. Justice Department cleared Huang of national-security risk after probing its customers, sources say",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-justice-department-did-not-open-probe-into-jensen-huang-nvidia/",
+      "snippet": "Huang’s reinstatement as company’s CEO has angered members of Congress, who still question whether he endangered U.S. national security",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ODOXJTONSJCPTEVKYSIMHBVAB4.jpg?auth=4c8560cb3afbbe7388c9e007740a4afdd9a8d5de45e8dc2bd913ea80ff5532c6&smart=true&width=8123&height=5415",
+      "time": "Nov 25, 1:02 PM",
+      "coverage": 3,
+      "ts": 1795629759000
     },
     {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
@@ -143,7 +143,7 @@
       "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
       "time": "Nov 23, 12:49 PM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795456173000
     }
   ],
@@ -239,6 +239,18 @@
   ],
   "ticker": [
     {
+      "time": "5:16 PM",
+      "title": "MarketWatch — Oracle, CoreWeave and other tech stocks bounce back after selloff",
+      "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+      "ts": 1795644960000
+    },
+    {
+      "time": "5:10 PM",
+      "title": "Bloomberg — Asian Stocks Set for Gains After Late US Rebound: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
+      "ts": 1795644642000
+    },
+    {
       "time": "5:09 PM",
       "title": "WSJ Markets — Crude Posts Back-to-Back Gains on Middle East Tension",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
@@ -297,18 +309,6 @@
       "title": "Investing.com — Why is Palo Alto Networks stock sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-sliding-today-93CH-5051576",
       "ts": 1795643625000
-    },
-    {
-      "time": "4:52 PM",
-      "title": "Investing.com — Why is Targa Resources stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-targa-resources-stock-sliding-today-93CH-5051574",
-      "ts": 1795643521000
-    },
-    {
-      "time": "4:51 PM",
-      "title": "Investing.com — Why is Kinetik Holdings stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-kinetik-holdings-stock-surging-today-93CH-5051573",
-      "ts": 1795643498000
     }
   ]
 }
