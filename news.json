@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:18 PM ET",
+  "generated_at": "Nov 24, 2026, 10:21 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795576693119,
+  "updated_ts": 1795576892828,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "10:10 PM",
+      "title": "Bloomberg — Starbucks Is Said to Engage Banks for Sale of Japan Business",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
+      "ts": 1795576223000
+    },
+    {
       "time": "9:53 PM",
       "title": "WSJ Markets — Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
       "url": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "ts": 1795572000000
-    },
-    {
-      "time": "8:57 PM",
-      "title": "CNBC — SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
-      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-      "ts": 1795571849000
     }
   ]
 }
