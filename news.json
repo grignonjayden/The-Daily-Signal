@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:27 AM ET",
+  "generated_at": "Nov 25, 2026, 7:30 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795609646609,
+  "updated_ts": 1795609848027,
   "articles": [
     {
       "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
@@ -9,9 +9,9 @@
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "snippet": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
       "image": "https://image.cnbcfm.com/api/v1/image/108556540-17951897842026-11-20t154510z_724308925_rc2proaof0e8_rtrmadp_0_usa-stocks.jpeg?v=1795189801&w=1920&h=1080",
-      "time": "Nov 25, 7:23 AM",
+      "time": "Nov 25, 7:28 AM",
       "coverage": 5,
-      "ts": 1795609435000
+      "ts": 1795609704000
     },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -105,15 +105,15 @@
       "ts": 1795609200000
     },
     {
-      "title": "Tech Selloff Rolls On as AI Worries Persist",
+      "title": "Nasdaq Futures Sink 3% as Tech Selloff Rolls On: Markets Wrap",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video",
-      "snippet": "A global selloff in technology stocks is showing no sign of letting up as questions about the outlook for artificial intelligence pile up, with investors turning to bonds for safety. While technology stocks…",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+      "snippet": "A global selloff in technology stocks is showing no sign of letting up as questions about the outlook for the artificial intelligence trade pile up, with investors turning to bonds for safety.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 25, 6:20 AM",
-      "coverage": 3,
-      "ts": 1795605646000
+      "time": "Nov 24, 5:09 PM",
+      "coverage": 4,
+      "ts": 1795558158000
     },
     {
       "title": "AI stocks slide on fears over infrastructure buildout costs",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "7:29 AM",
+      "title": "MarketWatch — This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
+      "url": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
+      "ts": 1795609740000
+    },
+    {
+      "time": "7:26 AM",
+      "title": "CNBC — Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+      "ts": 1795609601000
+    },
+    {
       "time": "7:24 AM",
       "title": "Investing.com — Deere forecasts fiscal 2027 net income below estimates amid muted farm equipment demand",
       "url": "https://www.investing.com/news/stock-market-news/deere-forecasts-fiscal-2027-net-income-below-estimates-5050370",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Why is GoodRx stock sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-goodrx-stock-sliding-today-93CH-5050498",
       "ts": 1795608629000
-    },
-    {
-      "time": "7:00 AM",
-      "title": "CNBC — Secondhand shopping is going mainstream this holiday season as consumers seek value",
-      "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-      "ts": 1795608001000
-    },
-    {
-      "time": "7:00 AM",
-      "title": "Globe and Mail — Real Ventures returns with new fund – and support from giant Quebec investors",
-      "url": "https://www.theglobeandmail.com/business/technology/article-real-ventures-returns-with-new-fund-and-support-from-giant-quebec/",
-      "ts": 1795608000000
     }
   ]
 }
