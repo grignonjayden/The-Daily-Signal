@@ -1,18 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 12:19 PM ET",
+  "generated_at": "Nov 25, 2026, 12:53 PM ET",
   "date_key": "2026-11-25",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
     {
-      "title": "Automakers raise concerns China will use Canada’s EV policy to import gas vehicles",
-      "url": "https://www.cp24.com/news/canada/2026/11/25/automakers-raise-concerns-china-will-use-canadas-ev-policy-to-import-gas-vehicles/",
+      "title": "Concerns Canada’s EV policy opens door to Chinese ‘Trojan horse’",
+      "url": "https://www.cp24.com/news/canada/2026/11/25/concerns-canadas-ev-policy-opens-door-to-chinese-trojan-horse/",
       "image": "https://www.cp24.com/resizer/v2/FJWMZHHAQJEEPCD3E6YQZAVWVU.JPG?auth=f1427510facb0ddeda2c6186c86ce6cadeb75afd59c567fe430e006101b30f8b&smart=true&width=5771&height=4000",
       "source": "CP24",
       "badge": "CP24",
       "analysis": false,
       "sector": "Autos",
       "time": "Nov 25",
-      "date": "2026-11-25T20:27:44.000Z",
+      "date": "2026-11-25T21:48:11.000Z",
       "group": "sector"
     },
     {
@@ -223,14 +223,14 @@
       "kept": 4
     },
     {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 4
+    },
+    {
       "source": "CDEV",
       "fetched": 20,
       "kept": 0
-    },
-    {
-      "source": "Canada Media Fund",
-      "fetched": 24,
-      "kept": 1
     },
     {
       "source": "ISED",
@@ -238,13 +238,13 @@
       "kept": 4
     },
     {
-      "source": "C.D. Howe Institute",
+      "source": "Canada Media Fund",
       "fetched": 24,
-      "kept": 4
+      "kept": 1
     },
     {
-      "source": "CP24",
-      "fetched": 200,
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
       "kept": 4
     }
   ]
