@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 8:24 AM ET",
+  "generated_at": "Nov 25, 2026, 8:28 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795613087940,
+  "updated_ts": 1795613289427,
   "articles": [
+    {
+      "title": "Nasdaq 100 futures crater 3% on AI trade rout, U.S. tariffs; eyes on PCE data",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "time": "Nov 25, 8:21 AM",
+      "coverage": 6,
+      "ts": 1795612881000
+    },
     {
       "title": "U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
       "source": "MarketWatch",
@@ -10,18 +20,8 @@
       "snippet": "Plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year",
       "image": "https://images.mktw.net/im-17174473",
       "time": "Nov 25, 8:21 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795612860000
-    },
-    {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 5,
-      "ts": 1795557180000
     },
     {
       "title": "Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
@@ -29,9 +29,9 @@
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "snippet": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
       "image": "https://image.cnbcfm.com/api/v1/image/108557486-1795449758810-gettyimages-2306507012-anotherday41812403_hs4scjlw.jpeg?v=1795449858&w=1920&h=1080",
-      "time": "Nov 25, 8:19 AM",
+      "time": "Nov 25, 8:25 AM",
       "coverage": 3,
-      "ts": 1795612763000
+      "ts": 1795613157000
     },
     {
       "title": "What the options market says to do with Nvidia’s stock — and the rest of the stock market",
@@ -75,6 +75,16 @@
       "ts": 1795608160000
     },
     {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "image": "https://images.wsj.net/im-52991838",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 4,
+      "ts": 1795557180000
+    },
+    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -95,6 +105,16 @@
       "ts": 1795610790000
     },
     {
+      "title": "Huawei guilty of conspiracy to steal trade secrets, U.S. jury finds",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/article-huawei-conspiracy-trade-secrets/",
+      "snippet": "Chinese tech giant cleared of more serious charge of engaging in a criminal racketeering conspiracy",
+      "image": "https://www.theglobeandmail.com/resizer/v2/SOX6SZVMWZFHPFWUZ2DJ7HGEF4.JPG?auth=ae82e92ac0f83931354a5fda825bb38b79db58fe5dc1557b4120561f0ea8be29&smart=true&width=4500&height=3000",
+      "time": "Nov 24, 4:39 PM",
+      "coverage": 5,
+      "ts": 1795556367000
+    },
+    {
       "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value",
@@ -112,28 +132,8 @@
       "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
       "time": "Nov 23, 12:49 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795456173000
-    },
-    {
-      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
-      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
-      "time": "Nov 24, 6:25 AM",
-      "coverage": 4,
-      "ts": 1795519556000
-    },
-    {
-      "title": "Europe stocks split as autos, pharma gain, chipmakers drag; U.S. PCE next",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/europe-stocks-climb-as-autos-luxury-rally-eyes-on-us-pce-fed-hike-bets-5049961",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB880KQ_M.jpg",
-      "time": "Nov 25, 8:03 AM",
-      "coverage": 2,
-      "ts": 1795611789000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -237,6 +237,30 @@
   ],
   "ticker": [
     {
+      "time": "8:24 AM",
+      "title": "Bloomberg — Europe’s Gas Traders Are in for a Volatile Winter",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/europe-s-gas-traders-are-in-for-a-volatile-winter",
+      "ts": 1795613056000
+    },
+    {
+      "time": "8:24 AM",
+      "title": "Investing.com — TSX futures slip amid deepening tech selloff, U.S. tariff reports",
+      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-deepening-tech-selloff-us-tariff-reports-5050748",
+      "ts": 1795613049000
+    },
+    {
+      "time": "8:24 AM",
+      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9535388e?mod=rss_markets_main",
+      "ts": 1795613040000
+    },
+    {
+      "time": "8:23 AM",
+      "title": "MarketWatch — The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+      "ts": 1795612980000
+    },
+    {
       "time": "8:19 AM",
       "title": "CNBC — Stocks making the biggest moves premarket: Nvidia, Urban Outfitters, Dell, Ambarella & more",
       "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
@@ -247,6 +271,18 @@
       "title": "CNBC — Even the price of toys is on the rise. How Americans are scaling back holiday plans",
       "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
       "ts": 1795612651000
+    },
+    {
+      "time": "8:17 AM",
+      "title": "Bloomberg — Goldman Strategist Says It’s Too Early to Buy the AI Selloff",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/goldman-strategist-says-it-s-too-early-to-buy-the-ai-selloff",
+      "ts": 1795612633000
+    },
+    {
+      "time": "8:16 AM",
+      "title": "Investing.com — The AI paradox: How global growth’s biggest engine became its greatest risk",
+      "url": "https://www.investing.com/news/stock-market-news/the-ai-paradox-how-global-growths-biggest-engine-became-its-greatest-risk-5050712",
+      "ts": 1795612576000
     },
     {
       "time": "8:15 AM",
@@ -271,42 +307,6 @@
       "title": "MarketWatch — 12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
       "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
       "ts": 1795612140000
-    },
-    {
-      "time": "8:09 AM",
-      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=rss_markets_main",
-      "ts": 1795612140000
-    },
-    {
-      "time": "8:09 AM",
-      "title": "MarketWatch — S&P 500’s slide through a key trendline — again — is an ominous sign, history suggests",
-      "url": "https://www.marketwatch.com/story/s-p-500s-slide-through-a-key-trendline-again-is-an-ominous-sign-history-suggests-def8b99f?mod=mw_rss_topstories",
-      "ts": 1795612140000
-    },
-    {
-      "time": "8:08 AM",
-      "title": "Bloomberg — Tata Steel Weighs Changes to APL Apollo Deal After Backlash",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/tata-steel-weighs-changes-to-apl-apollo-deal-after-backlash",
-      "ts": 1795612137000
-    },
-    {
-      "time": "8:07 AM",
-      "title": "Globe and Mail — AI stocks slide on fears over infrastructure build out costs",
-      "url": "https://www.theglobeandmail.com/business/article-ai-stocks-slide-on-fears-over-infrastructure-build-out-costs/",
-      "ts": 1795612028000
-    },
-    {
-      "time": "8:05 AM",
-      "title": "MarketWatch — Liquidity peaked. First bitcoin fell, then gold and now stocks. How long the downturn will last, according to this veteran strategist.",
-      "url": "https://www.marketwatch.com/story/liquidity-peaked-first-bitcoin-fell-then-gold-and-now-stocks-how-long-the-downturn-will-last-according-to-this-veteran-strategist-bb91d6c4?mod=mw_rss_topstories",
-      "ts": 1795611900000
-    },
-    {
-      "time": "8:04 AM",
-      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-eb63fc1e?mod=rss_markets_main",
-      "ts": 1795611840000
     }
   ]
 }
