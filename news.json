@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 24, 2026, 7:08 PM ET",
+  "generated_at": "Nov 24, 2026, 7:11 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795565310319,
+  "updated_ts": 1795565510804,
   "articles": [
-    {
-      "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-      "snippet": "U.S. stocks fell on Tuesday, giving back some of the sharp gains from the previous session that were sparked by Jensen Huang's return as Nvidia CEO.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558517-17955384902026-11-24t163620z_668368453_rc2duoa4bjw8_rtrmadp_0_usa-stocks.jpeg?v=1795538604&w=1920&h=1080",
-      "time": "Nov 24, 4:16 PM",
-      "coverage": 6,
-      "ts": 1795555010000
-    },
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
       "source": "Investing.com",
@@ -44,6 +34,16 @@
       "ts": 1795551400000
     },
     {
+      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+      "snippet": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
+      "time": "Nov 24, 12:51 PM",
+      "coverage": 5,
+      "ts": 1795542705000
+    },
+    {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
@@ -64,14 +64,14 @@
       "ts": 1795519556000
     },
     {
-      "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
-      "snippet": "Tech stocks stumbled again, as fears around the AI trade crept back in a day after Jensen Huang’s return at Nvidia sparked the best day for U.S. stocks since April 2025.",
-      "image": "https://images.wsj.net/im-89305301",
-      "time": "Nov 24, 2:32 PM",
-      "coverage": 3,
-      "ts": 1795548720000
+      "url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
+      "snippet": "The Claude model developer fell below its offering price on Tuesday, extending its slide to three straight sessions",
+      "image": "https://images.wsj.net/im-29301151",
+      "time": "Nov 24, 5:07 PM",
+      "coverage": 4,
+      "ts": 1795558020000
     },
     {
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
@@ -94,17 +94,6 @@
       "ts": 1795456173000
     },
     {
-      "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Loom",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally",
-      "snippet": "The Nasdaq 100 Index plunged on Tuesday, led by another steep decline in chipmakers as a relief rally in technology stocks gave way to renewed worries about the durability of the AI trade. Plans for new US tariffs…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 4:45 AM",
-      "coverage": 3,
-      "ts": 1795513527000
-    },
-    {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
@@ -124,6 +113,17 @@
       "time": "Nov 24, 6:06 PM",
       "coverage": 2,
       "ts": 1795561589000
+    },
+    {
+      "title": "US Steel Buyers Turn Abroad as Data Center Boom Strains Supply",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
+      "snippet": "Cheaper Asian imports are gaining traction with US steel buyers despite Washington’s tariffs, as a data center construction boom squeezes domestic supplies and drives up prices.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 5:12 PM",
+      "coverage": 2,
+      "ts": 1795558377000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -255,6 +255,12 @@
     },
     {
       "time": "6:46 PM",
+      "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795564015000
+    },
+    {
+      "time": "6:46 PM",
       "title": "Globe and Mail — Amazon violated Ontario’s anti-discrimination laws by not hiring Iranian engineer, tribunal rules",
       "url": "https://www.theglobeandmail.com/business/article-amazon-violated-ontarios-anti-discrimination-laws-by-not-hiring/",
       "ts": 1795563966000
@@ -300,12 +306,6 @@
       "title": "Bloomberg — Butterball CEO on Thanksgiving Dinner Outlook",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/butterball-ceo-on-thanksgiving-dinner-outlook-video",
       "ts": 1795561937000
-    },
-    {
-      "time": "6:11 PM",
-      "title": "MarketWatch — Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
-      "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
-      "ts": 1795561860000
     }
   ]
 }
