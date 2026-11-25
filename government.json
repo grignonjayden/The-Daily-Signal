@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 25, 2026, 1:26 PM ET",
+  "generated_at": "Nov 25, 2026, 2:00 PM ET",
   "date_key": "2026-11-25",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -13,6 +13,18 @@
       "sector": "Autos",
       "time": "Nov 25",
       "date": "2026-11-25T21:48:11.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Goods Move at the Speed of the Slowest Link",
+      "url": "https://cdhowe.org/publication/goods-move-at-the-speed-of-the-slowest-link/",
+      "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-2239780043.jpg",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Trade",
+      "time": "Nov 25",
+      "date": "2026-11-25T18:35:15.000Z",
       "group": "sector"
     },
     {
@@ -73,18 +85,6 @@
       "sector": "Trade",
       "time": "Nov 20",
       "date": "2026-11-20T15:42:45.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Some Good Free Trade News from Across the Pacific",
-      "url": "https://cdhowe.org/publication/some-good-free-trade-news-from-across-the-pacific/",
-      "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-2244475825.jpg",
-      "source": "C.D. Howe Institute",
-      "badge": "CDH",
-      "analysis": true,
-      "sector": "Trade",
-      "time": "Nov 20",
-      "date": "2026-11-20T11:00:03.000Z",
       "group": "sector"
     },
     {
@@ -226,14 +226,14 @@
       "kept": 4
     },
     {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
-      "kept": 4
-    },
-    {
       "source": "CP24",
       "fetched": 200,
       "kept": 3
+    },
+    {
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
+      "kept": 4
     }
   ]
 }

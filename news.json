@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:56 PM ET",
+  "generated_at": "Nov 25, 2026, 2:00 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795633018301,
+  "updated_ts": 1795633219253,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:58 PM",
+      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795633131000
+    },
+    {
       "time": "1:52 PM",
       "title": "CNBC — There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
       "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html",
@@ -249,12 +255,6 @@
       "ts": 1795632720000
     },
     {
-      "time": "1:47 PM",
-      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795632472000
-    },
-    {
       "time": "1:45 PM",
       "title": "WSJ Markets — Comex Gold Settles 0.71% Lower at $3534.70",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
@@ -265,6 +265,12 @@
       "title": "Globe and Mail — Struggling Kensington Capital names new CEO",
       "url": "https://www.theglobeandmail.com/business/article-kensington-capital-names-saar-pikar-as-ceo/",
       "ts": 1795632162000
+    },
+    {
+      "time": "1:37 PM",
+      "title": "Bloomberg — CME E-Mini Options Briefly Paused During Chaotic Opening Session",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/cme-e-mini-options-briefly-paused-during-chaotic-opening-session",
+      "ts": 1795631820000
     },
     {
       "time": "1:36 PM",
@@ -301,12 +307,6 @@
       "title": "CNBC — Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
       "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
       "ts": 1795630992000
-    },
-    {
-      "time": "1:22 PM",
-      "title": "CNBC — SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-      "ts": 1795630979000
     }
   ]
 }
