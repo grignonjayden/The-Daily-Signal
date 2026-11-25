@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:25 AM ET",
+  "generated_at": "Nov 25, 2026, 2:29 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795591554782,
+  "updated_ts": 1795591756346,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -74,6 +74,27 @@
       "ts": 1795556760000
     },
     {
+      "title": "EasyJet posts annual profit miss on fuel costs ahead of Apollo takeover",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/easyjet-posts-annual-profit-miss-on-fuel-costs-ahead-of-apollo-takeover-5049859",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0GM_L.jpg",
+      "time": "Nov 25, 2:18 AM",
+      "coverage": 2,
+      "ts": 1795591121000
+    },
+    {
+      "title": "EasyJet Profit Hit By Middle East War as Apollo Takeover Looms",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/easyjet-profit-hit-by-middle-east-war-as-apollo-takeover-looms",
+      "snippet": "EasyJet Plc said the fallout from Middle East war eroded most of its profit in the fiscal year, with soaring fuel prices hitting the budget carrier as it prepares to be taken over by a US private equity firm early…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 2:16 AM",
+      "coverage": 2,
+      "ts": 1795590982000
+    },
+    {
       "title": "China eyes mergers, tougher rules to help struggling airlines, SCMP says",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/china-eyes-mergers-tougher-rules-tohelp-struggling-airlines-scmp-says-5049814",
@@ -95,16 +116,6 @@
       "ts": 1795589872000
     },
     {
-      "title": "BLACK FRIDAY IS LIVE: The lowest price of the year is in with 60% off InvestingPro",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/black-friday-is-live-the-lowest-price-of-the-year-is-in-with-60-off-investingpro-5048983",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEGAQ11L_L.jpg",
-      "time": "Nov 25, 1:52 AM",
-      "coverage": 2,
-      "ts": 1795589527000
-    },
-    {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
@@ -113,16 +124,6 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 4,
       "ts": 1795456173000
-    },
-    {
-      "title": "Dangote Refinery Said to List in Lagos on December 1",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-said-to-list-in-lagos-on-december-1-video",
-      "snippet": "Bloomberg understands billionaire Aliko Dangote’s oil refinery will start trading in Lagos as soon as next week. Dangote Petroleum Refinery & Petrochemicals debut is being set for December 1, in what will be Africa’s…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 1:53 AM",
-      "ts": 1795589587000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -236,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "2:27 AM",
+      "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795591648000
+    },
+    {
       "time": "2:20 AM",
       "title": "Investing.com — Hannover Re targets at least €2.9 bln net income in 2027, sets 18% ROE goal for 2027-29",
       "url": "https://www.investing.com/news/stock-market-news/hannover-re-targets-at-least-29-bln-net-income-in-2027-sets-18-roe-goal-for-202729-93CH-5049863",
@@ -246,12 +253,6 @@
       "title": "Investing.com — Australia passes law forcing internet platforms to take down harmful content",
       "url": "https://www.investing.com/news/stock-market-news/australia-passes-law-forcing-internet-platforms-to-take-down-harmful-content-5049860",
       "ts": 1795591134000
-    },
-    {
-      "time": "2:18 AM",
-      "title": "Investing.com — EasyJet posts annual profit miss on fuel costs ahead of Apollo takeover",
-      "url": "https://www.investing.com/news/stock-market-news/easyjet-posts-annual-profit-miss-on-fuel-costs-ahead-of-apollo-takeover-5049859",
-      "ts": 1795591121000
     },
     {
       "time": "2:12 AM",
@@ -278,10 +279,22 @@
       "ts": 1795589614000
     },
     {
+      "time": "1:53 AM",
+      "title": "Bloomberg — Dangote Refinery Said to List in Lagos on December 1",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-said-to-list-in-lagos-on-december-1-video",
+      "ts": 1795589587000
+    },
+    {
       "time": "1:52 AM",
       "title": "Bloomberg — Mizuho’s Avendus to Hire 75 Private Bankers Over Four Years",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/mizuho-s-avendus-to-hire-75-private-bankers-over-four-years",
       "ts": 1795589561000
+    },
+    {
+      "time": "1:52 AM",
+      "title": "Investing.com — BLACK FRIDAY IS LIVE: The lowest price of the year is in with 60% off InvestingPro",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-is-live-the-lowest-price-of-the-year-is-in-with-60-off-investingpro-5048983",
+      "ts": 1795589527000
     },
     {
       "time": "1:51 AM",
@@ -294,18 +307,6 @@
       "title": "Bloomberg — Treasuries Rise Across Curve as AI Concerns Dent Risk Sentiment",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
       "ts": 1795589374000
-    },
-    {
-      "time": "1:49 AM",
-      "title": "WSJ Markets — Nordic Stocks Tipped to Open Slightly Higher",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
-      "ts": 1795589340000
-    },
-    {
-      "time": "1:48 AM",
-      "title": "Bloomberg — GPIF Agenda May Signal Portfolio Review Progress, JPMorgan Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/gpif-agenda-may-signal-portfolio-review-progress-jpmorgan-says-mwvrj40v",
-      "ts": 1795589336000
     }
   ]
 }
