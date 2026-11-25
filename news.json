@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:42 PM ET",
+  "generated_at": "Nov 25, 2026, 12:46 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795628572798,
+  "updated_ts": 1795628775411,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "12:41 PM",
+      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f29f7572?mod=rss_markets_main",
+      "ts": 1795628460000
+    },
+    {
       "time": "12:39 PM",
       "title": "MarketWatch — Why this stock-market selloff is probably going to get worse before it gets better",
       "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Gold Slumps on Rate Hike Outlook, AI Stocks Selloff",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/gold-slumps-on-rate-hike-outlook-ai-stocks-selloff-video",
       "ts": 1795627241000
-    },
-    {
-      "time": "12:18 PM",
-      "title": "Bloomberg — Michael Burry Is More Long Than Short After Dumping Nasdaq Puts",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/michael-burry-is-more-long-than-short-after-dumping-nasdaq-puts",
-      "ts": 1795627089000
     }
   ]
 }
