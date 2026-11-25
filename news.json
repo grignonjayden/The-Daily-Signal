@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:10 PM ET",
+  "generated_at": "Nov 25, 2026, 2:13 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795633827783,
+  "updated_ts": 1795634029081,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "2:11 PM",
+      "title": "CNBC — Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+      "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+      "ts": 1795633913000
+    },
+    {
       "time": "2:09 PM",
       "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -301,12 +307,6 @@
       "title": "CNBC — Gold falls to more than one-year low after data shows U.S. inflation rose further",
       "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
       "ts": 1795631739000
-    },
-    {
-      "time": "1:26 PM",
-      "title": "Investing.com — TSX claws back losses as investors reassess global tech selloff and tariff risks",
-      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-deepening-tech-selloff-us-tariff-reports-5050748",
-      "ts": 1795631168000
     }
   ]
 }
