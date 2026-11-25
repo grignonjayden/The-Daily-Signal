@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:47 AM ET",
+  "generated_at": "Nov 25, 2026, 12:50 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795585626047,
+  "updated_ts": 1795585837035,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -126,13 +126,13 @@
       "ts": 1795557180000
     },
     {
-      "title": "Why is Harvey Norman stock sliding today?",
+      "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.39%",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-harvey-norman-stock-sliding-today-93CH-5049731",
+      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-039-5049741",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "time": "Nov 25, 12:08 AM",
-      "ts": 1795583297000
+      "image": "https://content-media.investing.com/news/LYNXMPEE5A00C_M.jpg",
+      "time": "Nov 25, 12:30 AM",
+      "ts": 1795584603000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -248,6 +248,12 @@
       "ts": 1795584022000
     },
     {
+      "time": "12:08 AM",
+      "title": "Investing.com — Why is Harvey Norman stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-harvey-norman-stock-sliding-today-93CH-5049731",
+      "ts": 1795583297000
+    },
+    {
       "time": "12:06 AM",
       "title": "Investing.com — Why is Taiwan Weighted stock plunging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-weighted-stock-plunging-today-93CH-5049730",
@@ -294,12 +300,6 @@
       "title": "Bloomberg — Malaysia Government Likely to Serve Full Term, Anwar Aide Says",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
       "ts": 1795583028000
-    },
-    {
-      "time": "Nov 24",
-      "title": "Investing.com — Why is SK Hynix stock tumbling today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-tumbling-today-93CH-5049708",
-      "ts": 1795582094000
     },
     {
       "time": "Nov 24",
