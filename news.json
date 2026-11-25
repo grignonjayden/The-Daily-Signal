@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:32 PM ET",
+  "generated_at": "Nov 25, 2026, 4:35 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795642322946,
+  "updated_ts": 1795642526304,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -12,16 +12,6 @@
       "time": "Nov 25, 1:00 PM",
       "coverage": 5,
       "ts": 1795629600000
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 25, 12:15 PM",
-      "coverage": 5,
-      "ts": 1795626900000
     },
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -42,6 +32,16 @@
       "time": "Nov 25, 4:00 PM",
       "coverage": 5,
       "ts": 1795640408000
+    },
+    {
+      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
+      "snippet": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
+      "image": "https://images.wsj.net/im-85047619",
+      "time": "Nov 25, 4:31 PM",
+      "coverage": 3,
+      "ts": 1795642260000
     },
     {
       "title": "Wall Street rebounds strongly after brutal rout, Dow ends higher & Nasdaq recovers",
@@ -74,34 +74,35 @@
       "ts": 1795640734000
     },
     {
-      "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
-      "snippet": "Plus: Malaysia finds no record of U.S.-sanctioned firm, Jensen Huang’s comeback collides with lawmakers demanding answers.",
-      "image": "https://images.wsj.net/im-38122472",
-      "time": "Nov 25, 7:13 AM",
-      "coverage": 4,
-      "ts": 1795608780000
+      "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
+      "snippet": "This tape has not been kind to Nvidia.",
+      "image": "https://images.mktw.net/im-09631159",
+      "time": "Nov 25, 2:43 PM",
+      "coverage": 2,
+      "ts": 1795635780000
     },
     {
-      "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
-      "snippet": "U.S. Treasury yields briefly extended their fall after a flurry of U.S. economic data including the personal consumption expenditures price index, the Federal Reserve’s preferred gauge of inflation.",
-      "image": "https://images.wsj.net/im-88976063",
-      "time": "Nov 25, 4:02 PM",
-      "coverage": 3,
-      "ts": 1795640520000
-    },
-    {
-      "title": "U.S. Justice Department cleared Huang of national-security risk after probing its customers, sources say",
+      "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-justice-department-did-not-open-probe-into-jensen-huang-nvidia/",
-      "snippet": "Huang’s reinstatement as company’s CEO has angered members of Congress, who still question whether he endangered U.S. national security",
-      "image": "https://www.theglobeandmail.com/resizer/v2/ODOXJTONSJCPTEVKYSIMHBVAB4.jpg?auth=4c8560cb3afbbe7388c9e007740a4afdd9a8d5de45e8dc2bd913ea80ff5532c6&smart=true&width=8123&height=5415",
-      "time": "Nov 25, 1:02 PM",
+      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
+      "snippet": "Washington plans new measures despite voters rejecting Trump’s economic agenda during the midterms",
+      "image": "https://www.theglobeandmail.com/resizer/v2/IUFRPLWK3NDZZEVEJGTYXDQPOU.JPG?auth=2f2f2b3beb5b5eef0877b43c4f697e499ebe57ab206c81ab426baceeef815324&smart=true&width=3529&height=2353",
+      "time": "Nov 25, 8:29 AM",
+      "coverage": 4,
+      "ts": 1795613399000
+    },
+    {
+      "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "snippet": "Natural gas futures ended the session lower after the EIA’s weekly storage report showed a 24 Bcf draw.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 4:32 PM",
       "coverage": 3,
-      "ts": 1795629759000
+      "ts": 1795642320000
     },
     {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
@@ -238,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "4:29 PM",
+      "title": "MarketWatch — How to spot ‘bogus boutiques’ and other Black Friday shopping scams",
+      "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
+      "ts": 1795642140000
+    },
+    {
       "time": "4:28 PM",
       "title": "WSJ Markets — U.S. Dollar Slips After Muted Reaction to U.S. Data",
       "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
@@ -302,12 +309,6 @@
       "title": "Investing.com — Kinetik Holdings shares surge on Targa takeover talks",
       "url": "https://www.investing.com/news/stock-market-news/kinetik-holdings-shares-surge-on-targa-takeover-talks-5051477",
       "ts": 1795641347000
-    },
-    {
-      "time": "4:05 PM",
-      "title": "Investing.com — Third Point reopens private investment side pocket to hedge fund clients - WSJ",
-      "url": "https://www.investing.com/news/stock-market-news/third-point-reopens-private-investment-side-pocket-to-hedge-fund-clients--wsj-5051447",
-      "ts": 1795640755000
     }
   ]
 }
