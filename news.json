@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:27 PM ET",
+  "generated_at": "Nov 25, 2026, 2:30 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795634834120,
+  "updated_ts": 1795635034763,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -263,6 +263,12 @@
       "ts": 1795634160000
     },
     {
+      "time": "2:12 PM",
+      "title": "CNBC — Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+      "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
+      "ts": 1795633965000
+    },
+    {
       "time": "2:11 PM",
       "title": "CNBC — Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
       "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
@@ -303,12 +309,6 @@
       "title": "MarketWatch — Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
       "url": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
       "ts": 1795632720000
-    },
-    {
-      "time": "1:45 PM",
-      "title": "WSJ Markets — Comex Gold Settles 0.71% Lower at $3534.70",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
-      "ts": 1795632300000
     }
   ]
 }
