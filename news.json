@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:56 AM ET",
+  "generated_at": "Nov 25, 2026, 2:59 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795593371273,
+  "updated_ts": 1795593581550,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -85,6 +85,17 @@
       "ts": 1795556760000
     },
     {
+      "title": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+      "snippet": "US stock futures signaled further declines as a global tech selloff continued to worry investors.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 2:51 AM",
+      "coverage": 2,
+      "ts": 1795593103000
+    },
+    {
       "title": "EasyJet posts annual profit miss on fuel costs ahead of Apollo takeover",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/easyjet-posts-annual-profit-miss-on-fuel-costs-ahead-of-apollo-takeover-5049859",
@@ -93,17 +104,6 @@
       "time": "Nov 25, 2:18 AM",
       "coverage": 2,
       "ts": 1795591121000
-    },
-    {
-      "title": "EasyJet Profit Hit By Iran War as Apollo Takeover Looms",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/easyjet-profit-hit-by-middle-east-war-as-apollo-takeover-looms",
-      "snippet": "EasyJet Plc said the fallout from Middle East war eroded most of its profit in the fiscal year, with soaring fuel prices hitting the budget carrier as it prepares to be taken over by a US private equity firm early…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 2:16 AM",
-      "coverage": 2,
-      "ts": 1795590982000
     },
     {
       "title": "China eyes mergers, tougher rules to help struggling airlines, SCMP says",
