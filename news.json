@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:01 AM ET",
+  "generated_at": "Nov 25, 2026, 8:04 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795611673737,
+  "updated_ts": 1795611873965,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "8:01 AM",
+      "title": "CNBC — Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+      "ts": 1795611661000
+    },
+    {
+      "time": "8:00 AM",
+      "title": "Globe and Mail — The face of Google in Canada really wants to talk about AI",
+      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-the-face-of-google-in-canada-really-wants-to-talk-about-ai/",
+      "ts": 1795611600000
+    },
+    {
       "time": "7:56 AM",
       "title": "WSJ Markets — Tech, Media & Telecom Roundup: Market Talk",
       "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-39807782?mod=rss_markets_main",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Nasdaq 100’s ±7% daily range and what it means for positioning",
       "url": "https://www.investing.com/news/stock-market-news/nasdaq-100s-7-daily-range-and-what-it-means-for-positioning-93CH-5050559",
       "ts": 1795610144000
-    },
-    {
-      "time": "7:34 AM",
-      "title": "Investing.com — Alphabet vs Meta: which stock has the stronger AI position",
-      "url": "https://www.investing.com/news/stock-market-news/alphabet-vs-meta-which-stock-has-the-stronger-ai-position-93CH-5050545",
-      "ts": 1795610088000
-    },
-    {
-      "time": "7:33 AM",
-      "title": "Investing.com — ARM Holdings near-term technical outlook: bearish setup with key levels to watch",
-      "url": "https://www.investing.com/news/stock-market-news/arm-holdings-nearterm-technical-outlook-bearish-setup-with-key-levels-to-watch-93CH-5050544",
-      "ts": 1795609994000
     }
   ]
 }
