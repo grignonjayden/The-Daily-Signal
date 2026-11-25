@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:26 PM ET",
+  "generated_at": "Nov 25, 2026, 12:29 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795627560020,
+  "updated_ts": 1795627762062,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -34,34 +34,24 @@
       "ts": 1795616990000
     },
     {
-      "title": "US finds no evidence China directed executive to spy on Nvidia CEO, WSJ reports",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-finds-no-evidence-china-directed-executive-to-spy-on-nvidia-ceo-wsj-reports-5051236",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1IR_L.jpg",
-      "time": "Nov 25, 11:42 AM",
-      "coverage": 4,
-      "ts": 1795624958000
-    },
-    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795551400000
     },
     {
-      "title": "How soon Trump’s new tariffs could hit the economy — and your wallet",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
-      "snippet": "The White House’s plan for new levies comes after the Supreme Court tossed out broader Trump tariffs earlier this year.",
-      "image": "https://images.mktw.net/im-17174473",
-      "time": "Nov 25, 11:59 AM",
+      "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
+      "snippet": "Treasury yields extended their fall after a flurry of U.S. economic data bolstered expectations for the Federal Reserve to raise rates in December.",
+      "image": "https://images.wsj.net/im-88976063",
+      "time": "Nov 25, 10:21 AM",
       "coverage": 4,
-      "ts": 1795625940000
+      "ts": 1795620060000
     },
     {
       "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Deal",
@@ -95,14 +85,24 @@
       "ts": 1795557180000
     },
     {
-      "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
-      "snippet": "Treasury yields extended their fall after a flurry of U.S. economic data bolstered expectations for the Federal Reserve to raise rates in December.",
-      "image": "https://images.wsj.net/im-88976063",
-      "time": "Nov 25, 10:21 AM",
+      "title": "How soon Trump’s new tariffs could hit the economy — and your wallet",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+      "snippet": "The White House’s plan for new levies comes after the Supreme Court tossed out broader Trump tariffs earlier this year.",
+      "image": "https://images.mktw.net/im-17174473",
+      "time": "Nov 25, 11:59 AM",
       "coverage": 3,
-      "ts": 1795620060000
+      "ts": 1795625940000
+    },
+    {
+      "title": "Stocks slide as AI sell-off deepens, Fed's preferred inflation gauge rises",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
+      "snippet": "U.S. equities tumbled Wednesday after key PCE inflation data as Nvidia, Anthropic and Big Tech stocks slid alongside fresh Trump administration tariff proposals.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
+      "time": "Nov 25, 9:38 AM",
+      "coverage": 3,
+      "ts": 1795617488000
     },
     {
       "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Fears Mount",
@@ -115,34 +115,34 @@
       "ts": 1795625042000
     },
     {
-      "title": "China eyes mergers, tougher rules to help struggling airlines, SCMP says",
+      "title": "FTSE 100 today: Stocks fall as U.S. tech stocks dent sentiment",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/china-eyes-mergers-tougher-rules-tohelp-struggling-airlines-scmp-says-5049814",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-consumer-shares-lead-us-pce-awaited-5049957",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0EN_L.jpg",
-      "time": "Nov 25, 12:00 PM",
+      "image": "https://content-media.investing.com/news/LYNXMPEB3J0AS_M.jpg",
+      "time": "Nov 25, 12:17 PM",
       "coverage": 2,
-      "ts": 1795626038000
+      "ts": 1795627045000
     },
     {
-      "title": "Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities tumbled Wednesday after key PCE inflation data as Nvidia, Anthropic and Big Tech stocks slid alongside fresh Trump administration tariff proposals.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
+      "title": "In olive branch to banks, Italy plans to drop curbs on home renovation tax credits",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/in-olive-branch-to-banks-italy-plans-to-drop-curbs-on-home-renovation-tax-credits-5051276",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1KG_L.jpg",
+      "time": "Nov 25, 12:06 PM",
       "coverage": 2,
-      "ts": 1795617488000
+      "ts": 1795626419000
     },
     {
-      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
-      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
-      "time": "Nov 23, 9:06 AM",
-      "coverage": 6,
-      "ts": 1795442808000
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 5,
+      "ts": 1795456173000
     }
   ],
   "outlets": [
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "12:24 PM",
+      "title": "MarketWatch — HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
+      "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+      "ts": 1795627440000
+    },
+    {
       "time": "12:23 PM",
       "title": "Bloomberg — One Thing In Markets To Be Thankful For",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/one-thing-in-markets-to-be-thankful-for",
@@ -268,45 +274,39 @@
     },
     {
       "time": "12:08 PM",
+      "title": "Investing.com — U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.43%",
+      "url": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-043-5051283",
+      "ts": 1795626531000
+    },
+    {
+      "time": "12:08 PM",
+      "title": "Investing.com — Spain stocks lower at close of trade; IBEX 35 down 2.00%",
+      "url": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-200-5051282",
+      "ts": 1795626506000
+    },
+    {
+      "time": "12:08 PM",
       "title": "CNBC — Prediction markets push OpenAI IPO expectations later into 2027",
       "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
       "ts": 1795626483000
+    },
+    {
+      "time": "12:08 PM",
+      "title": "Investing.com — Portugal stocks lower at close of trade; PSI down 0.85%",
+      "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-085-5051280",
+      "ts": 1795626481000
+    },
+    {
+      "time": "12:07 PM",
+      "title": "Investing.com — Netherlands stocks lower at close of trade; AEX down 1.30%",
+      "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-130-5051279",
+      "ts": 1795626453000
     },
     {
       "time": "12:07 PM",
       "title": "CNBC — This missile maker's stock has fallen on expected U.S. military spending cuts, but its backlog reduces the risk",
       "url": "https://www.cnbc.com/2026/11/25/rtx-stock-valuation-defense-budget.html",
       "ts": 1795626432000
-    },
-    {
-      "time": "12:01 PM",
-      "title": "Investing.com — US authorizes SpaceX to deploy 1 million satellites for data centers in space",
-      "url": "https://www.investing.com/news/stock-market-news/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space-5051261",
-      "ts": 1795626104000
-    },
-    {
-      "time": "12:00 PM",
-      "title": "Investing.com — Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.81%",
-      "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-081-5051257",
-      "ts": 1795626029000
-    },
-    {
-      "time": "11:55 AM",
-      "title": "Bloomberg — El Salvador Finally Reaps Economic Gains From Gang Crackdown",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/el-salvador-finally-reaps-economic-gains-from-gang-crackdown",
-      "ts": 1795625727000
-    },
-    {
-      "time": "11:54 AM",
-      "title": "Investing.com — S&P revises NewMarket outlook to stable on specialty materials growth",
-      "url": "https://www.investing.com/news/stock-market-news/sp-revises-newmarket-outlook-to-stable-on-specialty-materials-growth-5051251",
-      "ts": 1795625642000
-    },
-    {
-      "time": "11:53 AM",
-      "title": "Investing.com — TD Cowen Says this Pharma Stock is a Best Idea for 2027",
-      "url": "https://www.investing.com/news/stock-market-news/td-cowen-says-this-pharma-stock-is-a-best-idea-for-2027-5051250",
-      "ts": 1795625608000
     }
   ]
 }
