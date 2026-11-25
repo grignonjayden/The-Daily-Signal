@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 7:24 AM ET",
+  "generated_at": "Nov 25, 2026, 7:27 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795609445850,
+  "updated_ts": 1795609646609,
   "articles": [
+    {
+      "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "snippet": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556540-17951897842026-11-20t154510z_724308925_rc2proaof0e8_rtrmadp_0_usa-stocks.jpeg?v=1795189801&w=1920&h=1080",
+      "time": "Nov 25, 7:23 AM",
+      "coverage": 5,
+      "ts": 1795609435000
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -12,16 +22,6 @@
       "time": "Nov 25, 5:05 AM",
       "coverage": 5,
       "ts": 1795601100000
-    },
-    {
-      "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "snippet": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108556540-17951897842026-11-20t154510z_724308925_rc2proaof0e8_rtrmadp_0_usa-stocks.jpeg?v=1795189801&w=1920&h=1080",
-      "time": "Nov 25, 7:22 AM",
-      "coverage": 4,
-      "ts": 1795609322000
     },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -42,6 +42,16 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
+    },
+    {
+      "title": "Nasdaq futures fall 3% amid tech selloff, U.S. tariff reports",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "time": "Nov 25, 7:24 AM",
+      "coverage": 4,
+      "ts": 1795609463000
     },
     {
       "title": "Russia’s Elevated Oil Exports Add to Global Supply Surplus",
@@ -65,6 +75,16 @@
       "ts": 1795557180000
     },
     {
+      "title": "Nasdaq Futures Slide as AI Growth Fears Return to Center Stage",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
+      "snippet": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded.",
+      "image": "https://images.wsj.net/im-48917090",
+      "time": "Nov 25, 4:36 AM",
+      "coverage": 4,
+      "ts": 1795599360000
+    },
+    {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
@@ -85,26 +105,6 @@
       "ts": 1795609200000
     },
     {
-      "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
-      "snippet": "Plus: Malaysia finds no record of U.S.-sanctioned firm, Jensen Huang’s comeback collides with lawmakers demanding answers.",
-      "image": "https://images.wsj.net/im-38122472",
-      "time": "Nov 25, 7:13 AM",
-      "coverage": 3,
-      "ts": 1795608780000
-    },
-    {
-      "title": "How one Wall St. strategist predicted the S&P 500’s wild 2-week swing",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/how-one-wall-st-strategist-predicted-the-sp-500s-wild-2week-swing-5050391",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM5L0YH_1200_L.jpg",
-      "time": "Nov 25, 6:33 AM",
-      "coverage": 2,
-      "ts": 1795606410000
-    },
-    {
       "title": "Tech Selloff Rolls On as AI Worries Persist",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video",
@@ -112,8 +112,18 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 25, 6:20 AM",
-      "coverage": 2,
+      "coverage": 3,
       "ts": 1795605646000
+    },
+    {
+      "title": "AI stocks slide on fears over infrastructure buildout costs",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs-5050519",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO10F_L.jpg",
+      "time": "Nov 25, 7:18 AM",
+      "coverage": 2,
+      "ts": 1795609097000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -134,15 +144,6 @@
       "time": "Nov 23, 9:06 AM",
       "coverage": 5,
       "ts": 1795442808000
-    },
-    {
-      "title": "Deere forecasts fiscal 2027 net income below estimates amid muted farm equipment demand",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/deere-forecasts-fiscal-2027-net-income-below-estimates-5050370",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0W1_L.jpg",
-      "time": "Nov 25, 6:37 AM",
-      "ts": 1795606637000
     }
   ],
   "outlets": [
@@ -236,10 +237,64 @@
   ],
   "ticker": [
     {
+      "time": "7:24 AM",
+      "title": "Investing.com — Deere forecasts fiscal 2027 net income below estimates amid muted farm equipment demand",
+      "url": "https://www.investing.com/news/stock-market-news/deere-forecasts-fiscal-2027-net-income-below-estimates-5050370",
+      "ts": 1795609458000
+    },
+    {
+      "time": "7:20 AM",
+      "title": "Investing.com — Why is Direxion Daily Semiconductor Bull 3X Shares tumbling today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-tumbling-today-93CH-5050524",
+      "ts": 1795609237000
+    },
+    {
+      "time": "7:19 AM",
+      "title": "Investing.com — Why is Jaguar Health stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-jaguar-health-stock-sliding-today-93CH-5050521",
+      "ts": 1795609191000
+    },
+    {
+      "time": "7:17 AM",
+      "title": "Investing.com — Why is Ethos Technologies stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-ethos-technologies-stock-climbing-today-93CH-5050512",
+      "ts": 1795609055000
+    },
+    {
+      "time": "7:16 AM",
+      "title": "Investing.com — Why is SPDR S&P 500 ETF Trust sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-spdr-sp-500-etf-trust-sliding-today-93CH-5050511",
+      "ts": 1795608977000
+    },
+    {
       "time": "7:15 AM",
       "title": "Globe and Mail — Fed officials at odds over causes of high inflation, with U.S. PCE report due today",
       "url": "https://www.theglobeandmail.com/business/article-us-pce-inflation-october-2025-federal-reserve-rate-expectations/",
       "ts": 1795608946000
+    },
+    {
+      "time": "7:15 AM",
+      "title": "Investing.com — Why is Invesco QQQ Trust ETF sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-etf-sliding-today-93CH-5050510",
+      "ts": 1795608939000
+    },
+    {
+      "time": "7:14 AM",
+      "title": "Investing.com — Why is SPDR Gold Shares ETF sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-spdr-gold-shares-etf-sliding-today-93CH-5050507",
+      "ts": 1795608880000
+    },
+    {
+      "time": "7:13 AM",
+      "title": "WSJ Markets — The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
+      "ts": 1795608780000
+    },
+    {
+      "time": "7:10 AM",
+      "title": "Investing.com — Why is GoodRx stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-goodrx-stock-sliding-today-93CH-5050498",
+      "ts": 1795608629000
     },
     {
       "time": "7:00 AM",
@@ -252,60 +307,6 @@
       "title": "Globe and Mail — Real Ventures returns with new fund – and support from giant Quebec investors",
       "url": "https://www.theglobeandmail.com/business/technology/article-real-ventures-returns-with-new-fund-and-support-from-giant-quebec/",
       "ts": 1795608000000
-    },
-    {
-      "time": "6:57 AM",
-      "title": "Globe and Mail — Immigrants in Canada more likely to be overqualified for their jobs, report says",
-      "url": "https://www.theglobeandmail.com/canada/article-immigrants-in-canada-more-likely-to-be-overqualified-for-their-jobs/",
-      "ts": 1795607870000
-    },
-    {
-      "time": "6:51 AM",
-      "title": "WSJ Markets — Expectations of Fed Tightening Drive Dollar Higher",
-      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "ts": 1795607460000
-    },
-    {
-      "time": "6:47 AM",
-      "title": "Bloomberg — Bond Traders Hedge a Hike Now, Cut Later Scenario",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/bond-traders-hedge-a-hike-now-cut-later-scenario",
-      "ts": 1795607274000
-    },
-    {
-      "time": "6:42 AM",
-      "title": "Bloomberg — How Do Europe's Companies Regain Their Edge?",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/how-do-europe-s-companies-regain-their-edge-video",
-      "ts": 1795606921000
-    },
-    {
-      "time": "6:33 AM",
-      "title": "Investing.com — Why is Stellantis stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-surging-today-93CH-5050392",
-      "ts": 1795606418000
-    },
-    {
-      "time": "6:31 AM",
-      "title": "Investing.com — Why is Ferrari stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-ferrari-stock-rallying-today-93CH-5050388",
-      "ts": 1795606301000
-    },
-    {
-      "time": "6:31 AM",
-      "title": "WSJ Markets — The AI Grinch Won’t Steal Christmas, but Watch Next Year",
-      "url": "https://www.wsj.com/finance/stocks/the-ai-grinch-wont-steal-christmas-but-watch-next-year-b5b2dd7a?mod=rss_markets_main",
-      "ts": 1795606260000
-    },
-    {
-      "time": "6:30 AM",
-      "title": "Investing.com — Why is Renault stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-renault-stock-surging-today-93CH-5050385",
-      "ts": 1795606234000
-    },
-    {
-      "time": "6:29 AM",
-      "title": "Investing.com — Why is Volvo stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-volvo-stock-climbing-today-93CH-5050382",
-      "ts": 1795606191000
     }
   ]
 }
