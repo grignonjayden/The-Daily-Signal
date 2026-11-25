@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:33 PM ET",
+  "generated_at": "Nov 24, 2026, 8:36 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795570399768,
+  "updated_ts": 1795570604942,
   "articles": [
     {
       "title": "Nvidia’s Huang said he violated code of conduct, source says",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "8:32 PM",
+      "title": "WSJ Markets — Gold’s Comeback May Have to Wait",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
+      "ts": 1795570320000
+    },
+    {
       "time": "8:28 PM",
       "title": "CNBC — SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
       "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
@@ -295,12 +301,6 @@
       "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "ts": 1795566600000
-    },
-    {
-      "time": "7:24 PM",
-      "title": "WSJ Markets — Gold Edges Lower With U.S. Inflation Data in Focus",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
-      "ts": 1795566240000
     },
     {
       "time": "7:21 PM",
