@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:24 AM ET",
+  "generated_at": "Nov 25, 2026, 4:27 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795598665815,
+  "updated_ts": 1795598867387,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -23,16 +23,6 @@
       "time": "Nov 25, 3:59 AM",
       "coverage": 6,
       "ts": 1795597148000
-    },
-    {
-      "title": "Nvidia’s Huang said he violated code of conduct, source says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
-      "time": "Nov 25, 3:54 AM",
-      "coverage": 6,
-      "ts": 1795596859000
     },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -65,16 +55,6 @@
       "ts": 1795542705000
     },
     {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 4,
-      "ts": 1795557180000
-    },
-    {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
@@ -93,6 +73,16 @@
       "time": "Nov 23, 5:25 PM",
       "coverage": 6,
       "ts": 1795472700000
+    },
+    {
+      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
+      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
+      "image": "https://images.wsj.net/im-87333679",
+      "time": "Nov 23, 5:15 PM",
+      "coverage": 6,
+      "ts": 1795472100000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -123,6 +113,16 @@
       "time": "Nov 23, 9:06 AM",
       "coverage": 6,
       "ts": 1795442808000
+    },
+    {
+      "title": "Why is Urban Outfitters stock sliding today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-urban-outfitters-stock-sliding-today-93CH-5050068",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "time": "Nov 25, 4:15 AM",
+      "coverage": 2,
+      "ts": 1795598104000
     },
     {
       "title": "Malaysia's AI Ambitions Tested as US Chip Curbs Threaten Data Center Boom",
@@ -237,64 +237,64 @@
   ],
   "ticker": [
     {
+      "time": "4:24 AM",
+      "title": "Investing.com — Why is Norse Atlantic stock crashing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-norse-atlantic-stock-crashing-today-93CH-5050087",
+      "ts": 1795598664000
+    },
+    {
+      "time": "4:23 AM",
+      "title": "Investing.com — Why is Nutanix stock tumbling today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-nutanix-stock-tumbling-today-93CH-5050086",
+      "ts": 1795598623000
+    },
+    {
+      "time": "4:23 AM",
+      "title": "Investing.com — Why is Ambarella stock crashing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-ambarella-stock-crashing-today-93CH-5050085",
+      "ts": 1795598594000
+    },
+    {
       "time": "4:20 AM",
       "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795598415000
     },
     {
+      "time": "4:19 AM",
+      "title": "Investing.com — Why is CleanSpark stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-cleanspark-stock-sliding-today-93CH-5050083",
+      "ts": 1795598387000
+    },
+    {
+      "time": "4:18 AM",
+      "title": "Investing.com — Why is Dell Technologies stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-sliding-today-93CH-5050077",
+      "ts": 1795598311000
+    },
+    {
+      "time": "4:13 AM",
+      "title": "Investing.com — Why is Henry Boot stock tumbling today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-henry-boot-stock-tumbling-today-93CH-5050054",
+      "ts": 1795597987000
+    },
+    {
+      "time": "4:12 AM",
+      "title": "Investing.com — Why is Pharming stock collapsing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-pharming-stock-collapsing-today-93CH-5050052",
+      "ts": 1795597931000
+    },
+    {
+      "time": "4:11 AM",
+      "title": "Investing.com — Why is Ambarella stock crashing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-ambarella-stock-crashing-today-93CH-5050050",
+      "ts": 1795597868000
+    },
+    {
       "time": "4:00 AM",
       "title": "Globe and Mail — Steel distributors assert they’re being stiffed on tariff rebates",
       "url": "https://www.theglobeandmail.com/business/article-steel-tariff-rebates-titus-algoma-cascadia/",
       "ts": 1795597200000
-    },
-    {
-      "time": "3:55 AM",
-      "title": "Investing.com — Henry Boot warns 2026 profit will miss forecasts, shares tumble 12%",
-      "url": "https://www.investing.com/news/stock-market-news/henry-boot-warns-2026-profit-will-miss-forecasts-shares-tumble-12-5050011",
-      "ts": 1795596943000
-    },
-    {
-      "time": "3:55 AM",
-      "title": "Investing.com — AppLovin Jumped 32% in a Brutal Month—Then Dropped 15% This Week",
-      "url": "https://www.investing.com/news/stock-market-news/applovin-jumped-32-in-a-brutal-monththen-dropped-15-this-week-5045717",
-      "ts": 1795596909000
-    },
-    {
-      "time": "3:55 AM",
-      "title": "Investing.com — SanDisk Trades at 4.6x Earnings—And Still Got Cut in Half",
-      "url": "https://www.investing.com/news/stock-market-news/sandisk-trades-at-46x-earningsand-still-got-cut-in-half-5045683",
-      "ts": 1795596902000
-    },
-    {
-      "time": "3:54 AM",
-      "title": "Investing.com — AI Data Centers Need Power, Yet GE Vernova Sank 13% This Week",
-      "url": "https://www.investing.com/news/stock-market-news/ai-data-centers-need-power-yet-ge-vernova-sank-13-this-week-5045599",
-      "ts": 1795596893000
-    },
-    {
-      "time": "3:54 AM",
-      "title": "Investing.com — Why is Sectra stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-sectra-stock-surging-today-93CH-5050010",
-      "ts": 1795596892000
-    },
-    {
-      "time": "3:54 AM",
-      "title": "Investing.com — Super Micro forecasts 130% profit growth, yet shares sank to $22",
-      "url": "https://www.investing.com/news/stock-market-news/super-micro-forecasts-130-profit-growth-yet-shares-sank-to-22-5045591",
-      "ts": 1795596885000
-    },
-    {
-      "time": "3:54 AM",
-      "title": "Investing.com — Tesla Trades at 473x Earnings—While Amazon Grew Profits 84% at 20x",
-      "url": "https://www.investing.com/news/stock-market-news/tesla-trades-at-473x-earningswhile-amazon-grew-profits-84-at-20x-5049690",
-      "ts": 1795596857000
-    },
-    {
-      "time": "3:54 AM",
-      "title": "Investing.com — Skip insurance whiplash: How this surgical leader climbed 16%",
-      "url": "https://www.investing.com/news/stock-market-news/skip-insurance-whiplash-how-this-surgical-leader-climbed-16-5049680",
-      "ts": 1795596848000
     },
     {
       "time": "3:54 AM",
