@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:20 AM ET",
+  "generated_at": "Nov 25, 2026, 12:23 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795584011956,
+  "updated_ts": 1795584212522,
   "articles": [
     {
       "title": "Nvidia’s Huang said he violated code of conduct, source says",
@@ -114,17 +114,6 @@
       "ts": 1795442808000
     },
     {
-      "title": "Maybank Reviews Portfolio as Chip Curbs Hit Data Center Projects",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
-      "snippet": "Malaysia’s largest bank is reviewing its portfolio for potential exposure to the latest US chip curbs, as it assesses how the restrictions could affect data center clients and their funding needs.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 11:35 PM",
-      "coverage": 2,
-      "ts": 1795581330000
-    },
-    {
       "title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
@@ -134,6 +123,17 @@
       "time": "Nov 24, 10:57 PM",
       "coverage": 2,
       "ts": 1795579032000
+    },
+    {
+      "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
+      "snippet": "Asian stock market enthusiasm over the resurrection of Jensen Huang’s career evaporated Wednesday as investors refocused on worries around the global AI trade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 9:45 PM",
+      "coverage": 2,
+      "ts": 1795574727000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "12:20 AM",
+      "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795584022000
+    },
+    {
       "time": "12:03 AM",
       "title": "Bloomberg — Malaysia’s Government Will Likely Serve Full Term: Anwar Adviser",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
@@ -259,6 +265,12 @@
       "title": "Investing.com — Foxconn India unit faces vendor payment disputes worth millions, Bloomberg reports",
       "url": "https://www.investing.com/news/stock-market-news/foxconn-india-unit-faces-vendor-payment-disputes-worth-millions-bloomberg-reports-93CH-5049706",
       "ts": 1795582053000
+    },
+    {
+      "time": "Nov 24",
+      "title": "Bloomberg — Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
+      "ts": 1795581330000
     },
     {
       "time": "Nov 24",
@@ -295,18 +307,6 @@
       "title": "Investing.com — BlackRock-led consortium mulls lowering Stack Infrastructure Asia offer- Bloomberg",
       "url": "https://www.investing.com/news/stock-market-news/blackrockled-consortium-mulls-lowering-stack-infrastructure-asia-offer-bloomberg-5049671",
       "ts": 1795579991000
-    },
-    {
-      "time": "Nov 24",
-      "title": "Investing.com — Malaysia Airlines’ parent to buy 10 Boeing 787 Dreamliners, CEO says",
-      "url": "https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604",
-      "ts": 1795579960000
-    },
-    {
-      "time": "Nov 24",
-      "title": "CNBC — ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-      "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
-      "ts": 1795579561000
     }
   ]
 }
