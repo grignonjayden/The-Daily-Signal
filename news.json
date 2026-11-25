@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:02 AM ET",
+  "generated_at": "Nov 25, 2026, 2:05 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795590128347,
+  "updated_ts": 1795590329961,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -94,14 +94,14 @@
       "ts": 1795456173000
     },
     {
-      "title": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
+      "title": "BLACK FRIDAY IS LIVE: The lowest price of the year is in with 60% off InvestingPro",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-is-live-the-lowest-price-of-the-year-is-in-with-60-off-investingpro-5048983",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "time": "Nov 25, 1:39 AM",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEGAQ11L_L.jpg",
+      "time": "Nov 25, 1:52 AM",
       "coverage": 2,
-      "ts": 1795588785000
+      "ts": 1795589527000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -114,17 +114,6 @@
       "ts": 1795442808000
     },
     {
-      "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
-      "snippet": "Asian stock market enthusiasm over the resurrection of Jensen Huang’s career evaporated Wednesday as investors refocused on worries around the global AI trade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 9:45 PM",
-      "coverage": 2,
-      "ts": 1795574727000
-    },
-    {
       "title": "Latest Oil Market News and Analysis for Nov. 25",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
@@ -134,6 +123,16 @@
       "time": "Nov 24, 6:06 PM",
       "coverage": 2,
       "ts": 1795561589000
+    },
+    {
+      "title": "Horizons Middle East & Africa 25/112026 (Video)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/horizons-middle-east-africa-25-112026-video",
+      "snippet": "",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 1:57 AM",
+      "ts": 1795589872000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -237,16 +236,22 @@
   ],
   "ticker": [
     {
-      "time": "1:57 AM",
-      "title": "Bloomberg — Horizons Middle East & Africa 25/112026 (Video)",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/horizons-middle-east-africa-25-112026-video",
-      "ts": 1795589872000
+      "time": "1:53 AM",
+      "title": "Investing.com — Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs",
+      "url": "https://www.investing.com/news/stock-market-news/xiaomi-shares-jump-over-8-as-premium-phone-sales-cushion-rising-chip-costs-5049681",
+      "ts": 1795589614000
     },
     {
       "time": "1:53 AM",
       "title": "Bloomberg — Dangote Refinery Said to List in Lagos on December 1",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-said-to-list-in-lagos-on-december-1-video",
       "ts": 1795589587000
+    },
+    {
+      "time": "1:49 AM",
+      "title": "Bloomberg — Treasuries Rise Across Curve as AI Concerns Dent Risk Sentiment",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
+      "ts": 1795589374000
     },
     {
       "time": "1:49 AM",
@@ -261,10 +266,28 @@
       "ts": 1795589336000
     },
     {
+      "time": "1:48 AM",
+      "title": "Investing.com — Australian regulator finds more suspected audit misconduct at Big Four firms",
+      "url": "https://www.investing.com/news/stock-market-news/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms-5049824",
+      "ts": 1795589301000
+    },
+    {
+      "time": "1:47 AM",
+      "title": "Investing.com — Asian stocks slide as Taiwan, South Korea extend AI-led losses",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630",
+      "ts": 1795589266000
+    },
+    {
       "time": "1:47 AM",
       "title": "Bloomberg — FTSE 100 Live: UK Stocks to Rebound, Pound Slips Further Below $1.31",
       "url": "https://www.bloomberg.com/news/live-blog/2026-11-25/ftse-100-live-updates-ai-stocks-pound-gilts-bonds-energy-bills-what-s-moving-uk-markets-right-now-markets-today",
       "ts": 1795589236000
+    },
+    {
+      "time": "1:43 AM",
+      "title": "Investing.com — China eyes mergers, tougher rules to help struggling airlines, SCMP says",
+      "url": "https://www.investing.com/news/stock-market-news/china-eyes-mergers-tougher-rules-tohelp-struggling-airlines-scmp-says-5049814",
+      "ts": 1795589005000
     },
     {
       "time": "1:42 AM",
@@ -273,40 +296,16 @@
       "ts": 1795588951000
     },
     {
+      "time": "1:39 AM",
+      "title": "Investing.com — Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "ts": 1795588785000
+    },
+    {
       "time": "1:33 AM",
       "title": "Bloomberg — Dangote Refinery Set to Start Trading in Lagos on Dec. 1",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-set-to-start-trading-in-lagos-on-dec-1-video",
       "ts": 1795588381000
-    },
-    {
-      "time": "1:29 AM",
-      "title": "Investing.com — Hydro cuts 2026 capex outlook by NOK 1 bln, targets NOK 3 bln in savings",
-      "url": "https://www.investing.com/news/stock-market-news/hydro-cuts-2026-capex-outlook-by-nok-1-bln-targets-nok-3-bln-in-savings-93CH-5049799",
-      "ts": 1795588189000
-    },
-    {
-      "time": "1:29 AM",
-      "title": "CNBC — AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-      "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-      "ts": 1795588186000
-    },
-    {
-      "time": "1:24 AM",
-      "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
-      "ts": 1795587886000
-    },
-    {
-      "time": "1:24 AM",
-      "title": "Investing.com — Aroundtown raises lower end of 2026 FFO I guidance after 9M results",
-      "url": "https://www.investing.com/news/stock-market-news/aroundtown-raises-lower-end-of-2026-ffo-i-guidance-after-9m-results-93CH-5049797",
-      "ts": 1795587880000
-    },
-    {
-      "time": "1:24 AM",
-      "title": "Investing.com — Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US",
-      "url": "https://www.investing.com/news/stock-market-news/amazon-to-launch-amazon-autos-in-uk-in-early-2027-in-first-expansion-beyond-us-5049784",
-      "ts": 1795587866000
     }
   ]
 }
