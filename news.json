@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:01 PM ET",
+  "generated_at": "Nov 25, 2026, 4:05 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795640500904,
+  "updated_ts": 1795640702213,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -44,26 +44,6 @@
       "ts": 1795640408000
     },
     {
-      "title": "Wall Street rebounds strongly after brutal rout, Dow turns green & Nasdaq recovers",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "time": "Nov 25, 3:33 PM",
-      "coverage": 4,
-      "ts": 1795638833000
-    },
-    {
-      "title": "Wall Street rebounds amid fragile sentiment as Nasdaq recovers from steep morning drop",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-street-rebounds-amid-fragile-sentiment-as-nasdaq-recovers-from-steep-morning-drop-93CH-5051426",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM3F142_1200_L.jpg",
-      "time": "Nov 25, 3:33 PM",
-      "coverage": 4,
-      "ts": 1795638828000
-    },
-    {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
@@ -84,14 +64,14 @@
       "ts": 1795551400000
     },
     {
-      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
-      "snippet": "Markets increasingly question whether even the biggest AI names can generate enough profit to justify their price tags",
-      "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
-      "time": "Nov 25, 11:40 AM",
-      "coverage": 4,
-      "ts": 1795624858000
+      "title": "Urban Outfitters earnings analysis: questions answered and next catalysts",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/urban-outfitters-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051418",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+      "time": "Nov 25, 3:20 PM",
+      "coverage": 2,
+      "ts": 1795638056000
     },
     {
       "title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
@@ -116,15 +96,34 @@
       "ts": 1795636138000
     },
     {
-      "title": "U.S. Natural Gas Inventories Decrease in Line With Average",
+      "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "snippet": "Natural gas futures were mixed as U.S. storage saw its first withdrawal of the season last week as colder weather lifted heating demand.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 12:28 PM",
+      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
+      "snippet": "U.S. Treasury yields briefly extended their fall after a flurry of U.S. economic data including the personal consumption expenditures price index, the Federal Reserve’s preferred gauge of inflation.",
+      "image": "https://images.wsj.net/im-88976063",
+      "time": "Nov 25, 4:02 PM",
       "coverage": 3,
-      "ts": 1795627680000
+      "ts": 1795640520000
+    },
+    {
+      "title": "Wall Street rebounds strongly after brutal rout, Dow turns green & Nasdaq recovers",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "time": "Nov 25, 3:33 PM",
+      "coverage": 3,
+      "ts": 1795638833000
+    },
+    {
+      "title": "U.S. Justice Department cleared Huang of national-security risk after probing its customers, sources say",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-justice-department-did-not-open-probe-into-jensen-huang-nvidia/",
+      "snippet": "Huang’s reinstatement as company’s CEO has angered members of Congress, who still question whether he endangered U.S. national security",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ODOXJTONSJCPTEVKYSIMHBVAB4.jpg?auth=4c8560cb3afbbe7388c9e007740a4afdd9a8d5de45e8dc2bd913ea80ff5532c6&smart=true&width=8123&height=5415",
+      "time": "Nov 25, 1:02 PM",
+      "coverage": 3,
+      "ts": 1795629759000
     },
     {
       "title": "Dow turns positive, S&P 500 and Nasdaq led lower by AI stocks",
@@ -239,6 +238,30 @@
   ],
   "ticker": [
     {
+      "time": "4:03 PM",
+      "title": "Bloomberg — The Debate Over Where Anthropic’s New Millionaires Should Donate Their Money",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/where-will-anthropic-s-new-millionaires-donate-video",
+      "ts": 1795640591000
+    },
+    {
+      "time": "4:02 PM",
+      "title": "CNBC — 10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+      "ts": 1795640525000
+    },
+    {
+      "time": "4:01 PM",
+      "title": "CNBC — Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795640512000
+    },
+    {
+      "time": "4:00 PM",
+      "title": "Bloomberg — Targa Is Said in Talks to Buy Kinetik in Major Pipeline Tie-Up",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up",
+      "ts": 1795640457000
+    },
+    {
       "time": "3:55 PM",
       "title": "Bloomberg — Mega Rail Deal Gets Unusual WH Meeting",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/mega-rail-deal-gets-unusual-wh-meeting-video",
@@ -257,16 +280,16 @@
       "ts": 1795639484000
     },
     {
-      "time": "3:40 PM",
-      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795639206000
-    },
-    {
       "time": "3:37 PM",
       "title": "Investing.com — AI spending leads the biggest market risks heading into 2027",
       "url": "https://www.investing.com/news/stock-market-news/ai-spending-leads-the-biggest-market-risks-heading-into-2027-93CH-5051429",
       "ts": 1795639062000
+    },
+    {
+      "time": "3:33 PM",
+      "title": "Investing.com — Wall Street rebounds amid fragile sentiment as Nasdaq recovers from steep morning drop",
+      "url": "https://www.investing.com/news/stock-market-news/wall-street-rebounds-amid-fragile-sentiment-as-nasdaq-recovers-from-steep-morning-drop-93CH-5051426",
+      "ts": 1795638828000
     },
     {
       "time": "3:32 PM",
@@ -285,30 +308,6 @@
       "title": "Bloomberg — Blue Owl, Blackstone Make Rare Pension Deal",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/blue-owl-blackstone-make-rare-pension-deal-video",
       "ts": 1795638437000
-    },
-    {
-      "time": "3:21 PM",
-      "title": "Investing.com — Workday earnings analysis: questions answered and next catalysts",
-      "url": "https://www.investing.com/news/stock-market-news/workday-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051419",
-      "ts": 1795638083000
-    },
-    {
-      "time": "3:20 PM",
-      "title": "Investing.com — Urban Outfitters earnings analysis: questions answered and next catalysts",
-      "url": "https://www.investing.com/news/stock-market-news/urban-outfitters-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051418",
-      "ts": 1795638056000
-    },
-    {
-      "time": "3:20 PM",
-      "title": "Investing.com — Autodesk earnings analysis: questions answered and next catalysts",
-      "url": "https://www.investing.com/news/stock-market-news/autodesk-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051417",
-      "ts": 1795638043000
-    },
-    {
-      "time": "3:20 PM",
-      "title": "Investing.com — HPQ earnings analysis: questions answered and next catalysts",
-      "url": "https://www.investing.com/news/stock-market-news/hpq-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051411",
-      "ts": 1795638027000
     }
   ]
 }
