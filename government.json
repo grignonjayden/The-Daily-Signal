@@ -1,18 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 11:17 AM ET",
+  "generated_at": "Nov 25, 2026, 11:51 AM ET",
   "date_key": "2026-11-25",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
     {
-      "title": "U.S. inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-      "url": "https://www.cp24.com/news/money/2026/11/25/us-inflation-remains-uncomfortably-high-despite-a-retreat-in-gas-prices-as-challenges-mount-for-the-fed/",
-      "image": "https://www.cp24.com/resizer/v2/EVPLHXYM7CL4KJ4KTW6Z7NFAEU.jpg?auth=57edd90d0c4fcc1f329f8d26c5d62e1de0839c0dab1d627d88dc749be4ab7b4c&smart=true&width=1400&height=933",
+      "title": "Automakers raise concerns China will use Canada’s EV policy to import gas vehicles",
+      "url": "https://www.cp24.com/news/canada/2026/11/25/automakers-raise-concerns-china-will-use-canadas-ev-policy-to-import-gas-vehicles/",
+      "image": "https://www.cp24.com/resizer/v2/FJWMZHHAQJEEPCD3E6YQZAVWVU.JPG?auth=f1427510facb0ddeda2c6186c86ce6cadeb75afd59c567fe430e006101b30f8b&smart=true&width=5771&height=4000",
       "source": "CP24",
       "badge": "CP24",
       "analysis": false,
-      "sector": "General",
+      "sector": "Autos",
       "time": "Nov 25",
-      "date": "2026-11-25T18:19:01.000Z",
+      "date": "2026-11-25T20:27:44.000Z",
       "group": "sector"
     },
     {
@@ -213,16 +213,6 @@
       "kept": 3
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 4
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
@@ -231,6 +221,16 @@
       "source": "CDEV",
       "fetched": 20,
       "kept": 0
+    },
+    {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 4
+    },
+    {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
     },
     {
       "source": "Canada Media Fund",
