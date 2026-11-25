@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:19 AM ET",
+  "generated_at": "Nov 25, 2026, 10:23 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795619981322,
+  "updated_ts": 1795620181602,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -166,6 +166,16 @@
       "ts": 1795618508000
     },
     {
+      "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
+      "source": "U.S. SEC",
+      "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+      "snippet": "The Securities and Exchange Commission’s&nbsp;Investor Advisory Committee will hold a virtual public meeting on Dec. 3, at 9:30 a.m. ET to discuss the trading of tokenized securities, bankruptcy, and accounting…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 9:10 AM",
+      "ts": 1795615824000
+    },
+    {
       "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
@@ -222,16 +232,6 @@
       "fallback_image": true,
       "time": "Nov 20, 10:42 AM",
       "ts": 1795189365000
-    },
-    {
-      "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
-      "source": "U.S. SEC",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
-      "snippet": "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief against Indianapolis-based Backward Hat Capital, its…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 20, 9:28 AM",
-      "ts": 1795184908000
     }
   ],
   "ticker": [
@@ -240,6 +240,12 @@
       "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795619926000
+    },
+    {
+      "time": "10:18 AM",
+      "title": "CNBC — Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
+      "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
+      "ts": 1795619909000
     },
     {
       "time": "10:09 AM",
@@ -300,12 +306,6 @@
       "title": "CNBC — U.S. stockpile of unstable and dangerous lead azide scheduled for detonation in Iowa",
       "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
       "ts": 1795618108000
-    },
-    {
-      "time": "9:47 AM",
-      "title": "MarketWatch — Third-quarter GDP already looked great. Now it looks even better.",
-      "url": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
-      "ts": 1795618020000
     }
   ]
 }
