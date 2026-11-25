@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:03 AM ET",
+  "generated_at": "Nov 25, 2026, 7:07 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795608221493,
+  "updated_ts": 1795608425470,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -65,6 +65,17 @@
       "ts": 1795519556000
     },
     {
+      "title": "Russia’s Elevated Oil Exports Add to Global Supply Surplus",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/russia-s-elevated-oil-exports-add-to-global-supply-surplus",
+      "snippet": "Exports this year top all annual averages since the 2022 full-scale invasion of Ukraine",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 7:02 AM",
+      "coverage": 4,
+      "ts": 1795608160000
+    },
+    {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
@@ -123,17 +134,6 @@
       "time": "Nov 25, 6:33 AM",
       "coverage": 2,
       "ts": 1795606410000
-    },
-    {
-      "title": "Tech Selloff Rolls On as AI Worries Persist",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video",
-      "snippet": "A global selloff in technology stocks is showing no sign of letting up as questions about the outlook for artificial intelligence pile up, with investors turning to bonds for safety. While technology stocks…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 6:20 AM",
-      "coverage": 2,
-      "ts": 1795605646000
     },
     {
       "title": "Deere forecasts fiscal 2027 net income below estimates amid muted farm equipment demand",
