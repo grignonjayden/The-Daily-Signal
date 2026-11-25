@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 4:03 AM ET",
+  "generated_at": "Nov 25, 2026, 4:07 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795597437960,
+  "updated_ts": 1795597654573,
   "articles": [
+    {
+      "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN20H_L.jpg",
+      "time": "Nov 25, 4:00 AM",
+      "coverage": 6,
+      "ts": 1795597235000
+    },
     {
       "title": "Why Jensen Huang’s Return to Nvidia Matters for China",
       "source": "Bloomberg",
@@ -11,8 +21,18 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 25, 3:59 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795597148000
+    },
+    {
+      "title": "Nvidia’s Huang said he violated code of conduct, source says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
+      "time": "Nov 25, 3:54 AM",
+      "coverage": 6,
+      "ts": 1795596859000
     },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -21,7 +41,7 @@
       "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
       "time": "Nov 24, 8:13 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795569236000
     },
     {
@@ -31,7 +51,7 @@
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795551400000
     },
     {
@@ -41,8 +61,18 @@
       "snippet": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
       "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
       "time": "Nov 24, 12:51 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795542705000
+    },
+    {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "image": "https://images.wsj.net/im-52991838",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 4,
+      "ts": 1795557180000
     },
     {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
@@ -55,35 +85,24 @@
       "ts": 1795519556000
     },
     {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 3,
-      "ts": 1795557180000
+      "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
+      "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
+      "image": "https://images.wsj.net/im-75358264",
+      "time": "Nov 23, 5:25 PM",
+      "coverage": 6,
+      "ts": 1795472700000
     },
     {
-      "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
-      "snippet": "The Claude model developer fell below its offering price on Tuesday, extending its slide to three straight sessions.",
-      "image": "https://images.wsj.net/im-29301151",
-      "time": "Nov 24, 5:07 PM",
-      "coverage": 4,
-      "ts": 1795558020000
-    },
-    {
-      "title": "Restructuring Firm Interpath in Deal to Buy US Company, CEO Says",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/restructuring-firm-interpath-in-deal-to-buy-us-company-ceo-says",
-      "snippet": "Interpath Ltd. is pushing to expand in the US on the heels of being taken over by private equity firm Bridgepoint Group Plc, according to its chief executive officer, who dismissed concerns that a string of senior…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 2:00 AM",
-      "coverage": 3,
-      "ts": 1795590000000
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
     },
     {
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
@@ -96,44 +115,25 @@
       "ts": 1795556760000
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 5,
-      "ts": 1795456173000
-    },
-    {
-      "title": "Check out our livestream for an extra 10% off on top of our Black Friday discount",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/check-out-our-livestream-for-an-extra-10-off-on-top-of-our-black-friday-discount-5049948",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEL7C0M3_L.jpg",
-      "time": "Nov 25, 3:40 AM",
-      "coverage": 2,
-      "ts": 1795596015000
-    },
-    {
-      "title": "Bureau Veritas hits record high after report Advent weighs takeover bid",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/bureau-veritas-hits-record-high-after-report-advent-weighs-takeover-bid-5049977",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "time": "Nov 25, 3:39 AM",
-      "coverage": 2,
-      "ts": 1795595955000
-    },
-    {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
       "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
       "time": "Nov 23, 9:06 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795442808000
+    },
+    {
+      "title": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+      "snippet": "US stock futures signaled further declines as a global tech selloff continued to worry investors.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 2:51 AM",
+      "coverage": 2,
+      "ts": 1795593103000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -243,70 +243,70 @@
       "ts": 1795597200000
     },
     {
+      "time": "3:55 AM",
+      "title": "Investing.com — Henry Boot warns 2026 profit will miss forecasts, shares tumble 12%",
+      "url": "https://www.investing.com/news/stock-market-news/henry-boot-warns-2026-profit-will-miss-forecasts-shares-tumble-12-5050011",
+      "ts": 1795596943000
+    },
+    {
+      "time": "3:55 AM",
+      "title": "Investing.com — AppLovin Jumped 32% in a Brutal Month—Then Dropped 15% This Week",
+      "url": "https://www.investing.com/news/stock-market-news/applovin-jumped-32-in-a-brutal-monththen-dropped-15-this-week-5045717",
+      "ts": 1795596909000
+    },
+    {
+      "time": "3:55 AM",
+      "title": "Investing.com — SanDisk Trades at 4.6x Earnings—And Still Got Cut in Half",
+      "url": "https://www.investing.com/news/stock-market-news/sandisk-trades-at-46x-earningsand-still-got-cut-in-half-5045683",
+      "ts": 1795596902000
+    },
+    {
+      "time": "3:54 AM",
+      "title": "Investing.com — AI Data Centers Need Power, Yet GE Vernova Sank 13% This Week",
+      "url": "https://www.investing.com/news/stock-market-news/ai-data-centers-need-power-yet-ge-vernova-sank-13-this-week-5045599",
+      "ts": 1795596893000
+    },
+    {
+      "time": "3:54 AM",
+      "title": "Investing.com — Why is Sectra stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-sectra-stock-surging-today-93CH-5050010",
+      "ts": 1795596892000
+    },
+    {
+      "time": "3:54 AM",
+      "title": "Investing.com — Super Micro forecasts 130% profit growth, yet shares sank to $22",
+      "url": "https://www.investing.com/news/stock-market-news/super-micro-forecasts-130-profit-growth-yet-shares-sank-to-22-5045591",
+      "ts": 1795596885000
+    },
+    {
+      "time": "3:54 AM",
+      "title": "Investing.com — Tesla Trades at 473x Earnings—While Amazon Grew Profits 84% at 20x",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-trades-at-473x-earningswhile-amazon-grew-profits-84-at-20x-5049690",
+      "ts": 1795596857000
+    },
+    {
+      "time": "3:54 AM",
+      "title": "Investing.com — Skip insurance whiplash: How this surgical leader climbed 16%",
+      "url": "https://www.investing.com/news/stock-market-news/skip-insurance-whiplash-how-this-surgical-leader-climbed-16-5049680",
+      "ts": 1795596848000
+    },
+    {
       "time": "3:54 AM",
       "title": "WSJ Markets — Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
       "url": "https://www.wsj.com/finance/stocks/newly-listed-airtel-mobile-to-replace-ig-group-in-ftse-100-index-review-ad6b860c?mod=rss_markets_main",
       "ts": 1795596840000
     },
     {
+      "time": "3:53 AM",
+      "title": "Bloomberg — China’s Surprise Soyoil Export Boom Cools as India Turns to Palm",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-s-surprise-soyoil-export-boom-cools-as-india-turns-to-palm",
+      "ts": 1795596831000
+    },
+    {
       "time": "3:51 AM",
       "title": "WSJ Markets — Oil Down as Supply Prospects Outweigh Gulf Risks",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
       "ts": 1795596660000
-    },
-    {
-      "time": "3:48 AM",
-      "title": "WSJ Markets — Euro Could Stay Weak Against Dollar For Now",
-      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "ts": 1795596480000
-    },
-    {
-      "time": "3:42 AM",
-      "title": "Investing.com — Norse Atlantic shares plunge 62% amid critical cash crisis",
-      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-shares-plunge-62-amid-critical-cash-crisis-93CH-5049981",
-      "ts": 1795596173000
-    },
-    {
-      "time": "3:40 AM",
-      "title": "Investing.com — Why is Prosus stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-prosus-stock-sliding-today-93CH-5049978",
-      "ts": 1795596037000
-    },
-    {
-      "time": "3:39 AM",
-      "title": "WSJ Markets — Gold Falls Close to $3,500 a Troy Ounce as Market Awaits Inflation Data",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
-      "ts": 1795595940000
-    },
-    {
-      "time": "3:38 AM",
-      "title": "Investing.com — ams OSRAM jumps 24% on Samsung Display microLED deal, €210 mln investment",
-      "url": "https://www.investing.com/news/stock-market-news/ams-osram-jumps-24-on-samsung-display-microled-deal-210-mln-investment-5049976",
-      "ts": 1795595915000
-    },
-    {
-      "time": "3:37 AM",
-      "title": "Investing.com — AkzoNobel offers remedy to UK watchdog over Axalta merger",
-      "url": "https://www.investing.com/news/stock-market-news/akzonobel-offers-remedy-to-uk-watchdog-over-axalta-merger-93CH-5049975",
-      "ts": 1795595835000
-    },
-    {
-      "time": "3:37 AM",
-      "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795595826000
-    },
-    {
-      "time": "3:36 AM",
-      "title": "Investing.com — Walmart-owned Flipkart’s Kalyan Krishnamurthy steps down as CEO",
-      "url": "https://www.investing.com/news/stock-market-news/walmartowned-flipkarts-kalyan-krishnamurthy-steps-down-as-ceo-5049946",
-      "ts": 1795595796000
-    },
-    {
-      "time": "3:36 AM",
-      "title": "Investing.com — Australia passes law forcing internet platforms to take down harmful content",
-      "url": "https://www.investing.com/news/stock-market-news/australia-passes-law-forcing-internet-platforms-to-take-down-harmful-content-5049860",
-      "ts": 1795595782000
     }
   ]
 }
