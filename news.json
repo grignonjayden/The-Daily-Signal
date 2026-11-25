@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:45 PM ET",
+  "generated_at": "Nov 25, 2026, 4:48 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795643133345,
+  "updated_ts": 1795643333454,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -24,6 +24,16 @@
       "ts": 1795616990000
     },
     {
+      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
+      "snippet": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
+      "image": "https://images.wsj.net/im-85047619",
+      "time": "Nov 25, 4:31 PM",
+      "coverage": 4,
+      "ts": 1795642260000
+    },
+    {
       "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
@@ -34,26 +44,6 @@
       "ts": 1795640408000
     },
     {
-      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
-      "snippet": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
-      "image": "https://images.wsj.net/im-85047619",
-      "time": "Nov 25, 4:31 PM",
-      "coverage": 3,
-      "ts": 1795642260000
-    },
-    {
-      "title": "Wall Street rebounds strongly after brutal rout, Dow ends higher & Nasdaq recovers",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "time": "Nov 25, 4:12 PM",
-      "coverage": 4,
-      "ts": 1795641123000
-    },
-    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -62,16 +52,6 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
-    },
-    {
-      "title": "Nvidia ends lower for second straight session as AI trade selloff gathers pace",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-fall-5-premarket-after-huang-return-rally-wanes-5050114",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM4Q094_L.jpg",
-      "time": "Nov 25, 4:05 PM",
-      "coverage": 2,
-      "ts": 1795640734000
     },
     {
       "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
@@ -105,6 +85,26 @@
       "ts": 1795642320000
     },
     {
+      "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.33%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-033-5051523",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM180JT_1200_L.jpg",
+      "time": "Nov 25, 4:30 PM",
+      "coverage": 3,
+      "ts": 1795642257000
+    },
+    {
+      "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.64%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-064-5051509",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEL530PP_L.jpg",
+      "time": "Nov 25, 4:30 PM",
+      "coverage": 3,
+      "ts": 1795642203000
+    },
+    {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
@@ -126,15 +126,15 @@
       "ts": 1795640597000
     },
     {
-      "title": "Targa Is Said in Talks to Buy Kinetik in Major Pipeline Tie-Up",
+      "title": "US Treasury Yields Hit Two-Month Low as Tech Stocks Extend Slide",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up",
-      "snippet": "Targa Resources Corp. is in talks to acquire Kinetik Holdings Inc., a publicly-listed pipeline company partly owned by Blackstone Inc., according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
+      "snippet": "Treasuries soared on Wednesday as a selloff in global equities over the sustainability of the AI trade prompted investors to rush into the safety of US government debt.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 25, 4:00 PM",
-      "coverage": 2,
-      "ts": 1795640457000
+      "time": "Nov 25, 1:49 AM",
+      "coverage": 3,
+      "ts": 1795589374000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -143,7 +143,7 @@
       "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
       "time": "Nov 23, 12:49 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795456173000
     }
   ],
@@ -239,10 +239,22 @@
   ],
   "ticker": [
     {
+      "time": "4:44 PM",
+      "title": "Investing.com — Vertex shares drop 7.5% as FDA extends review for kidney drug povetacicept",
+      "url": "https://www.investing.com/news/stock-market-news/vertex-shares-drop-75-as-fda-extends-review-for-kidney-drug-povetacicept-5051552",
+      "ts": 1795643087000
+    },
+    {
       "time": "4:38 PM",
       "title": "Bloomberg — Anthropic Rebounds From 10% Drop as Markets Stage Dramatic Recovery | Closing Bell",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/anthropic-rebounds-from-selloff-closing-bell-video",
       "ts": 1795642719000
+    },
+    {
+      "time": "4:36 PM",
+      "title": "Investing.com — Trump’s newest order curtailing birthright citizenship is blocked by second judge",
+      "url": "https://www.investing.com/news/stock-market-news/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge-5051543",
+      "ts": 1795642580000
     },
     {
       "time": "4:36 PM",
@@ -251,10 +263,28 @@
       "ts": 1795642560000
     },
     {
+      "time": "4:30 PM",
+      "title": "Investing.com — Macy’s Thanksgiving Day Parade in New York City postponed due to storm projections",
+      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
+      "ts": 1795642239000
+    },
+    {
+      "time": "4:30 PM",
+      "title": "Investing.com — Mexico stocks higher at close of trade; S&P/BMV IPC up 3.06%",
+      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-306-5051513",
+      "ts": 1795642230000
+    },
+    {
       "time": "4:29 PM",
       "title": "MarketWatch — How to spot ‘bogus boutiques’ and other Black Friday shopping scams",
       "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
       "ts": 1795642140000
+    },
+    {
+      "time": "4:28 PM",
+      "title": "Investing.com — JPMorgan sees $450B in AI bond issuance in 2027",
+      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-sees-450b-in-ai-bond-issuance-in-2027-5051506",
+      "ts": 1795642104000
     },
     {
       "time": "4:28 PM",
@@ -275,40 +305,10 @@
       "ts": 1795641996000
     },
     {
-      "time": "4:23 PM",
-      "title": "Bloomberg — Market Volatility Highly Unlikely To Continue: Kindler",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/market-volatility-highly-unlikely-to-continue-kindler-video",
-      "ts": 1795641793000
-    },
-    {
-      "time": "4:23 PM",
-      "title": "WSJ Markets — Stocks Finish Lower After Wild Session",
-      "url": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main",
-      "ts": 1795641780000
-    },
-    {
-      "time": "4:21 PM",
-      "title": "Investing.com — Palo Alto Networks sued over alleged accounting fraud claims",
-      "url": "https://www.investing.com/news/stock-market-news/palo-alto-networks-sued-over-alleged-accounting-fraud-claims-5051500",
-      "ts": 1795641704000
-    },
-    {
-      "time": "4:20 PM",
-      "title": "Investing.com — Russia stocks higher at close of trade; MOEX Russia Index up 0.92%",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-092-5051485",
-      "ts": 1795641603000
-    },
-    {
-      "time": "4:19 PM",
-      "title": "Investing.com — Neuralink secures FDA approval for first U.S. pivotal brain-chip trial",
-      "url": "https://www.investing.com/news/stock-market-news/neuralink-secures-fda-approval-for-first-us-pivotal-brainchip-trial-5051484",
-      "ts": 1795641563000
-    },
-    {
-      "time": "4:18 PM",
-      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to storm projections, US media reports",
-      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
-      "ts": 1795641525000
+      "time": "4:25 PM",
+      "title": "Investing.com — Colombia stocks higher at close of trade; COLCAP up 0.28%",
+      "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-028-5051503",
+      "ts": 1795641906000
     }
   ]
 }
