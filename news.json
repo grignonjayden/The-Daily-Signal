@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:34 PM ET",
+  "generated_at": "Nov 24, 2026, 9:37 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795574052286,
+  "updated_ts": 1795574254200,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "9:33 PM",
+      "time": "9:36 PM",
       "title": "CNBC — Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
       "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
-      "ts": 1795573991000
+      "ts": 1795574203000
     },
     {
       "time": "9:30 PM",
