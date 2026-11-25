@@ -1,17 +1,27 @@
 {
-  "generated_at": "Nov 25, 2026, 5:26 PM ET",
+  "generated_at": "Nov 25, 2026, 5:29 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795645576062,
+  "updated_ts": 1795645778070,
   "articles": [
     {
-      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
-      "snippet": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
-      "image": "https://images.wsj.net/im-85047619",
-      "time": "Nov 25, 5:21 PM",
-      "coverage": 4,
-      "ts": 1795645260000
+      "title": "Moody’s says Nvidia’s Huang reinstatement eases uncertainty, ratings unchanged",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/moodys-says-nvidias-huang-reinstatement-eases-uncertainty-ratings-unchanged-5051652",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1YI_L.jpg",
+      "time": "Nov 25, 5:24 PM",
+      "coverage": 5,
+      "ts": 1795645486000
+    },
+    {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
+      "time": "Nov 25, 9:29 AM",
+      "coverage": 5,
+      "ts": 1795616990000
     },
     {
       "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
@@ -24,14 +34,14 @@
       "ts": 1795644660000
     },
     {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
-      "time": "Nov 25, 9:29 AM",
-      "coverage": 4,
-      "ts": 1795616990000
+      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
+      "snippet": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
+      "image": "https://images.wsj.net/im-85047619",
+      "time": "Nov 25, 5:21 PM",
+      "coverage": 3,
+      "ts": 1795645260000
     },
     {
       "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
@@ -55,6 +65,16 @@
       "ts": 1795640408000
     },
     {
+      "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
+      "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
+      "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
+      "time": "Nov 24, 3:16 PM",
+      "coverage": 5,
+      "ts": 1795551400000
+    },
+    {
       "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
@@ -75,34 +95,15 @@
       "ts": 1795613399000
     },
     {
-      "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.33%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-033-5051523",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM180JT_1200_L.jpg",
-      "time": "Nov 25, 4:30 PM",
+      "title": "Stocks Pare AI-Driven Losses as Dip Buyers Emerge",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-pare-ai-driven-losses-as-dip-buyers-emerge-video",
+      "snippet": "Wild swings lashed Wall Street again, with dip buyers fading a stock selloff that had briefly sent the Nasdaq 100 to the brink of a bear market. The tech-heavy gauge fell 1%, trimming most of plunge that was driven…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 5:21 PM",
       "coverage": 3,
-      "ts": 1795642257000
-    },
-    {
-      "title": "U.S. Justice Department cleared Huang of national-security risk after probing its customers, sources say",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-justice-department-did-not-open-probe-into-jensen-huang-nvidia/",
-      "snippet": "Huang’s reinstatement as company’s CEO has angered members of Congress, who still question whether he endangered U.S. national security",
-      "image": "https://www.theglobeandmail.com/resizer/v2/ODOXJTONSJCPTEVKYSIMHBVAB4.jpg?auth=4c8560cb3afbbe7388c9e007740a4afdd9a8d5de45e8dc2bd913ea80ff5532c6&smart=true&width=8123&height=5415",
-      "time": "Nov 25, 1:02 PM",
-      "coverage": 3,
-      "ts": 1795629759000
-    },
-    {
-      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
-      "coverage": 3,
-      "ts": 1795617488000
+      "ts": 1795645305000
     },
     {
       "title": "Macy’s Thanksgiving Day Parade in New York City postponed due to storm projections",
@@ -126,15 +127,14 @@
       "ts": 1795640597000
     },
     {
-      "title": "US Treasury Yields Hit Two-Month Low as Tech Stocks Extend Slide",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
-      "snippet": "Treasuries soared on Wednesday as a selloff in global equities over the sustainability of the AI trade prompted investors to rush into the safety of US government debt.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 1:49 AM",
-      "coverage": 3,
-      "ts": 1795589374000
+      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
+      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
+      "time": "Nov 25, 9:38 AM",
+      "coverage": 2,
+      "ts": 1795617488000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -143,7 +143,7 @@
       "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
       "time": "Nov 23, 12:49 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795456173000
     }
   ],
@@ -239,6 +239,18 @@
   ],
   "ticker": [
     {
+      "time": "5:26 PM",
+      "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "ts": 1795645616000
+    },
+    {
+      "time": "5:24 PM",
+      "title": "Investing.com — US airlines face higher costs from proposed Embraer duty",
+      "url": "https://www.investing.com/news/stock-market-news/us-airlines-face-higher-costs-from-proposed-embraer-duty-5051651",
+      "ts": 1795645469000
+    },
+    {
       "time": "5:19 PM",
       "title": "Globe and Mail — How are you making credit cards work for you? Share your personal finance tips",
       "url": "https://www.theglobeandmail.com/business/article-credit-card-reader-tips/",
@@ -249,6 +261,12 @@
       "title": "MarketWatch — Oracle, CoreWeave and other tech stocks bounce back after selloff",
       "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
       "ts": 1795644960000
+    },
+    {
+      "time": "5:15 PM",
+      "title": "Investing.com — Enterprise password manager 1Password reports breach of developer systems",
+      "url": "https://www.investing.com/news/stock-market-news/enterprise-password-manager-1password-reports-breach-of-developer-systems-5051628",
+      "ts": 1795644922000
     },
     {
       "time": "5:10 PM",
@@ -291,24 +309,6 @@
       "title": "WSJ Markets — Financial Services Roundup: Market Talk",
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f29f7572?mod=rss_markets_main",
       "ts": 1795643820000
-    },
-    {
-      "time": "4:56 PM",
-      "title": "CNBC — Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-      "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-      "ts": 1795643803000
-    },
-    {
-      "time": "4:55 PM",
-      "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
-      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-      "ts": 1795643751000
-    },
-    {
-      "time": "4:55 PM",
-      "title": "Investing.com — Why is Vertex Pharmaceuticals stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-sliding-today-93CH-5051579",
-      "ts": 1795643739000
     }
   ]
 }
