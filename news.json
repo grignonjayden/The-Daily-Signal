@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 7:01 PM ET",
+  "generated_at": "Nov 24, 2026, 7:05 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795564907847,
+  "updated_ts": 1795565109155,
   "articles": [
     {
       "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
@@ -105,17 +105,6 @@
       "ts": 1795513527000
     },
     {
-      "title": "Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/dell-raises-ai-server-outlook-closing-bell-video",
-      "snippet": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 4:21 PM",
-      "coverage": 3,
-      "ts": 1795555285000
-    },
-    {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
@@ -126,14 +115,15 @@
       "ts": 1795442808000
     },
     {
-      "title": "Dell lifts annual forecasts after record quarter on surging AI server demand",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN1WQ_L.jpg",
-      "time": "Nov 24, 6:18 PM",
+      "title": "Latest Oil Market News and Analysis for Nov. 25",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
+      "snippet": "Oil slipped as traders weighed signs of rising supply against escalating attacks on vessels around the Strait of Hormuz.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 6:06 PM",
       "coverage": 2,
-      "ts": 1795562301000
+      "ts": 1795561589000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -144,6 +134,15 @@
       "time": "Nov 24, 4:53 PM",
       "coverage": 2,
       "ts": 1795557180000
+    },
+    {
+      "title": "Reliance Worldwide hits 20-month high as AustralianSuper backs Brookfield bid (Nov. 24)",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/reliance-worldwide-hits-20month-high-as-australiansuper-backs-brookfield-bid-nov-24-5049371",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAM1PH_L.jpg",
+      "time": "Nov 24, 6:30 PM",
+      "ts": 1795563033000
     }
   ],
   "outlets": [
@@ -243,6 +242,12 @@
       "ts": 1795564282000
     },
     {
+      "time": "6:50 PM",
+      "title": "Bloomberg — RBA’s Jacobs Says Financial Conditions ‘Restrictive’ After Hikes",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/rba-s-jacobs-says-financial-conditions-restrictive-after-hikes",
+      "ts": 1795564200000
+    },
+    {
       "time": "6:46 PM",
       "title": "Globe and Mail — Amazon violated Ontario’s anti-discrimination laws by not hiring Iranian engineer, tribunal rules",
       "url": "https://www.theglobeandmail.com/business/article-amazon-violated-ontarios-anti-discrimination-laws-by-not-hiring/",
@@ -273,10 +278,10 @@
       "ts": 1795563240000
     },
     {
-      "time": "6:30 PM",
-      "title": "Investing.com — Reliance Worldwide hits 20-month high as AustralianSuper backs Brookfield bid (Nov. 24)",
-      "url": "https://www.investing.com/news/stock-market-news/reliance-worldwide-hits-20month-high-as-australiansuper-backs-brookfield-bid-nov-24-5049371",
-      "ts": 1795563033000
+      "time": "6:18 PM",
+      "title": "Investing.com — Dell lifts annual forecasts after record quarter on surging AI server demand",
+      "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024",
+      "ts": 1795562301000
     },
     {
       "time": "6:14 PM",
@@ -295,12 +300,6 @@
       "title": "MarketWatch — Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
       "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
       "ts": 1795561860000
-    },
-    {
-      "time": "6:06 PM",
-      "title": "Bloomberg — Latest Oil Market News and Analysis for Nov. 25",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
-      "ts": 1795561589000
     },
     {
       "time": "6:05 PM",
