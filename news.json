@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:57 PM ET",
+  "generated_at": "Nov 24, 2026, 9:00 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795571832259,
+  "updated_ts": 1795572033735,
   "articles": [
     {
       "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
@@ -237,16 +237,16 @@
   ],
   "ticker": [
     {
-      "time": "8:48 PM",
+      "time": "8:57 PM",
       "title": "CNBC — SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
       "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-      "ts": 1795571327000
+      "ts": 1795571849000
     },
     {
-      "time": "8:39 PM",
-      "title": "WSJ Markets — Still Too Early to Bet Against the U.S. Dollar",
+      "time": "8:54 PM",
+      "title": "WSJ Markets — Asian Currencies Mixed Ahead of U.S. Econ Data",
       "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "ts": 1795570740000
+      "ts": 1795571640000
     },
     {
       "time": "8:36 PM",
