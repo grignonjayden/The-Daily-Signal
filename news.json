@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:07 PM ET",
+  "generated_at": "Nov 25, 2026, 3:11 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795637257471,
+  "updated_ts": 1795637466358,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -238,10 +238,22 @@
   ],
   "ticker": [
     {
-      "time": "3:01 PM",
+      "time": "3:09 PM",
       "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795636888000
+      "ts": 1795637392000
+    },
+    {
+      "time": "3:06 PM",
+      "title": "Bloomberg — GTCR Is Said to Weigh $50B Global Payments Buyout",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/gtcr-is-said-to-weigh-50b-global-payments-buyout-video",
+      "ts": 1795637177000
+    },
+    {
+      "time": "3:00 PM",
+      "title": "Investing.com — In olive branch to banks, Italy plans to drop curbs on home renovation tax credits",
+      "url": "https://www.investing.com/news/stock-market-news/in-olive-branch-to-banks-italy-plans-to-drop-curbs-on-home-renovation-tax-credits-5051276",
+      "ts": 1795636843000
     },
     {
       "time": "2:54 PM",
@@ -296,18 +308,6 @@
       "title": "Bloomberg — La Caisse’s Infrastructure Arm Pauses Bond Sale as Market Sours",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/la-caisse-s-infrastructure-arm-pauses-bond-sale-as-market-sours",
       "ts": 1795635278000
-    },
-    {
-      "time": "2:34 PM",
-      "title": "WSJ Markets — Gold Futures Settle Off Day’s Lows as Yields, U.S. Dollar Slip",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
-      "ts": 1795635240000
-    },
-    {
-      "time": "2:33 PM",
-      "title": "WSJ Markets — Dan Loeb’s Hedge Fund Returns to Startup Investing Years After FTX Loss",
-      "url": "https://www.wsj.com/finance/investing/dan-loebs-hedge-fund-returns-to-startup-investing-years-after-ftx-loss-46f36108?mod=rss_markets_main",
-      "ts": 1795635180000
     }
   ]
 }
