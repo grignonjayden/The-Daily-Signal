@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:00 AM ET",
+  "generated_at": "Nov 25, 2026, 7:03 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795608020060,
+  "updated_ts": 1795608221493,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -236,6 +236,24 @@
   ],
   "ticker": [
     {
+      "time": "7:00 AM",
+      "title": "CNBC — Secondhand shopping is going mainstream this holiday season as consumers seek value",
+      "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
+      "ts": 1795608001000
+    },
+    {
+      "time": "7:00 AM",
+      "title": "Globe and Mail — Real Ventures returns with new fund – and support from giant Quebec investors",
+      "url": "https://www.theglobeandmail.com/business/technology/article-real-ventures-returns-with-new-fund-and-support-from-giant-quebec/",
+      "ts": 1795608000000
+    },
+    {
+      "time": "6:57 AM",
+      "title": "Globe and Mail — Immigrants in Canada more likely to be overqualified for their jobs, report says",
+      "url": "https://www.theglobeandmail.com/canada/article-immigrants-in-canada-more-likely-to-be-overqualified-for-their-jobs/",
+      "ts": 1795607870000
+    },
+    {
       "time": "6:51 AM",
       "title": "WSJ Markets — Expectations of Fed Tightening Drive Dollar Higher",
       "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
@@ -288,24 +306,6 @@
       "title": "Investing.com — Why is Volvo stock climbing today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-volvo-stock-climbing-today-93CH-5050382",
       "ts": 1795606191000
-    },
-    {
-      "time": "6:27 AM",
-      "title": "Investing.com — Why is Bayerische Motoren Werke stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-bayerische-motoren-werke-stock-surging-today-93CH-5050381",
-      "ts": 1795606030000
-    },
-    {
-      "time": "6:26 AM",
-      "title": "Investing.com — Why is Mercedes-Benz stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-mercedesbenz-stock-rallying-today-93CH-5050379",
-      "ts": 1795605969000
-    },
-    {
-      "time": "6:25 AM",
-      "title": "Investing.com — Why is Volkswagen stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-volkswagen-stock-surging-today-93CH-5050378",
-      "ts": 1795605914000
     }
   ]
 }
