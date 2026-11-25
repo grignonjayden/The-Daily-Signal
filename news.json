@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 5:05 PM ET",
+  "generated_at": "Nov 25, 2026, 5:09 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795644352168,
+  "updated_ts": 1795644557383,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -95,16 +95,6 @@
       "ts": 1795642257000
     },
     {
-      "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.64%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-064-5051509",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEL530PP_L.jpg",
-      "time": "Nov 25, 4:30 PM",
-      "coverage": 3,
-      "ts": 1795642203000
-    },
-    {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
@@ -113,6 +103,16 @@
       "time": "Nov 25, 9:38 AM",
       "coverage": 3,
       "ts": 1795617488000
+    },
+    {
+      "title": "Macy’s Thanksgiving Day Parade in New York City postponed due to storm projections",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1VS_L.jpg",
+      "time": "Nov 25, 5:00 PM",
+      "coverage": 2,
+      "ts": 1795644046000
     },
     {
       "title": "US Tariff Proposal Raises Stakes for India to Clinch Trade Deal",
@@ -275,40 +275,40 @@
       "ts": 1795643751000
     },
     {
+      "time": "4:55 PM",
+      "title": "Investing.com — Why is Vertex Pharmaceuticals stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-sliding-today-93CH-5051579",
+      "ts": 1795643739000
+    },
+    {
+      "time": "4:55 PM",
+      "title": "Investing.com — Why is Vera Therapeutics stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-vera-therapeutics-stock-surging-today-93CH-5051578",
+      "ts": 1795643717000
+    },
+    {
+      "time": "4:53 PM",
+      "title": "Investing.com — Why is Palo Alto Networks stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-sliding-today-93CH-5051576",
+      "ts": 1795643625000
+    },
+    {
+      "time": "4:52 PM",
+      "title": "Investing.com — Why is Targa Resources stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-targa-resources-stock-sliding-today-93CH-5051574",
+      "ts": 1795643521000
+    },
+    {
+      "time": "4:51 PM",
+      "title": "Investing.com — Why is Kinetik Holdings stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-kinetik-holdings-stock-surging-today-93CH-5051573",
+      "ts": 1795643498000
+    },
+    {
       "time": "4:50 PM",
       "title": "MarketWatch — Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
       "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
       "ts": 1795643400000
-    },
-    {
-      "time": "4:48 PM",
-      "title": "WSJ Markets — Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
-      "url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
-      "ts": 1795643280000
-    },
-    {
-      "time": "4:44 PM",
-      "title": "Investing.com — Vertex shares drop 7.5% as FDA extends review for kidney drug povetacicept",
-      "url": "https://www.investing.com/news/stock-market-news/vertex-shares-drop-75-as-fda-extends-review-for-kidney-drug-povetacicept-5051552",
-      "ts": 1795643087000
-    },
-    {
-      "time": "4:38 PM",
-      "title": "Bloomberg — Anthropic Rebounds From 10% Drop as Markets Stage Dramatic Recovery | Closing Bell",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/anthropic-rebounds-from-selloff-closing-bell-video",
-      "ts": 1795642719000
-    },
-    {
-      "time": "4:36 PM",
-      "title": "Investing.com — Trump’s newest order curtailing birthright citizenship is blocked by second judge",
-      "url": "https://www.investing.com/news/stock-market-news/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge-5051543",
-      "ts": 1795642580000
-    },
-    {
-      "time": "4:36 PM",
-      "title": "MarketWatch — HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
-      "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-      "ts": 1795642560000
     }
   ]
 }
