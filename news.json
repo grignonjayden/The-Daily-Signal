@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:49 AM ET",
+  "generated_at": "Nov 25, 2026, 9:52 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795618158138,
+  "updated_ts": 1795618359457,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -248,6 +248,12 @@
       "ts": 1795618099000
     },
     {
+      "time": "9:47 AM",
+      "title": "MarketWatch — Third-quarter GDP already looked great. Now it looks even better.",
+      "url": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+      "ts": 1795618020000
+    },
+    {
       "time": "9:46 AM",
       "title": "Bloomberg — Deere Sees Headwinds Ahead for Farmers in 2027",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/deere-sees-headwinds-ahead-for-farmers-in-2027-video",
@@ -300,12 +306,6 @@
       "title": "CNBC — Stocks making the biggest moves Wednesday: Nvidia, Urban Outfitters, Dell, Ambarella & more",
       "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
       "ts": 1795617035000
-    },
-    {
-      "time": "9:30 AM",
-      "title": "MarketWatch — Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
-      "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
-      "ts": 1795617000000
     }
   ]
 }
