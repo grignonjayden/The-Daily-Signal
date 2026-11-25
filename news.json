@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:50 AM ET",
+  "generated_at": "Nov 25, 2026, 12:53 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795585837035,
+  "updated_ts": 1795586039460,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -84,17 +84,6 @@
       "ts": 1795583914000
     },
     {
-      "title": "Indian Stocks Extend World-Beating Run as AI Selloff Resumes",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
-      "snippet": "Indian stocks surged, extending their world-beating November rally as renewed selling in global artificial intelligence names bolstered a rotation toward markets with limited exposure to the theme.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 12:04 AM",
-      "coverage": 2,
-      "ts": 1795583060000
-    },
-    {
       "title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/metals-mixed-after-major-selloff-as-traders-await-us-inflation",
@@ -104,6 +93,17 @@
       "time": "Nov 24, 10:57 PM",
       "coverage": 2,
       "ts": 1795579032000
+    },
+    {
+      "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
+      "snippet": "Asian stock market enthusiasm over the resurrection of Jensen Huang’s career evaporated Wednesday as investors refocused on worries around the global AI trade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 9:45 PM",
+      "coverage": 2,
+      "ts": 1795574727000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -296,16 +296,16 @@
       "ts": 1795583084000
     },
     {
+      "time": "12:04 AM",
+      "title": "Bloomberg — Global Rotation on AI Fears Lifts Indian Stocks to Top Spot",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
+      "ts": 1795583060000
+    },
+    {
       "time": "12:03 AM",
       "title": "Bloomberg — Malaysia Government Likely to Serve Full Term, Anwar Aide Says",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
       "ts": 1795583028000
-    },
-    {
-      "time": "Nov 24",
-      "title": "Bloomberg — Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
-      "ts": 1795581330000
     }
   ]
 }
