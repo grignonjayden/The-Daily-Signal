@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:14 PM ET",
+  "generated_at": "Nov 25, 2026, 3:17 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795637668060,
+  "updated_ts": 1795637868451,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -238,10 +238,22 @@
   ],
   "ticker": [
     {
+      "time": "3:16 PM",
+      "title": "CNBC — Gold falls to more than one-year low after data shows U.S. inflation rose further",
+      "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
+      "ts": 1795637814000
+    },
+    {
       "time": "3:09 PM",
       "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795637392000
+    },
+    {
+      "time": "3:08 PM",
+      "title": "Bloomberg — Egypt Road Accident Kills at Least 30 in Greater Cairo",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/egypt-road-accident-kills-at-least-30-in-greater-cairo",
+      "ts": 1795637301000
     },
     {
       "time": "3:07 PM",
@@ -296,18 +308,6 @@
       "title": "MarketWatch — The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
       "url": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
       "ts": 1795635540000
-    },
-    {
-      "time": "2:36 PM",
-      "title": "Investing.com — EU postpones discussion to approve Tesla’s self-driving tech",
-      "url": "https://www.investing.com/news/stock-market-news/eu-postpones-discussion-to-approve-teslas-selfdriving-tech-5050292",
-      "ts": 1795635380000
-    },
-    {
-      "time": "2:35 PM",
-      "title": "Bloomberg — Oil Flows in Hormuz Strait 'Forever Altered,' Says Tom Kloza",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/oil-flows-in-hormuz-strait-forever-altered-says-kloza-video",
-      "ts": 1795635311000
     }
   ]
 }
