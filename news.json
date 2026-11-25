@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:21 AM ET",
+  "generated_at": "Nov 25, 2026, 1:24 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795587687667,
+  "updated_ts": 1795587889190,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -94,14 +94,14 @@
       "ts": 1795456173000
     },
     {
-      "title": "Malaysia Airlines parent orders 10 Boeing 787s to replace older Airbus jets",
+      "title": "Malaysia Airlines parent to order 10 Boeing 787s to replace older Airbus jets",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604",
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO07H_L.jpg",
-      "time": "Nov 25, 12:18 AM",
+      "time": "Nov 25, 1:12 AM",
       "coverage": 2,
-      "ts": 1795583914000
+      "ts": 1795587153000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -237,16 +237,52 @@
   ],
   "ticker": [
     {
+      "time": "1:21 AM",
+      "title": "Investing.com — ams OSRAM and Samsung Display strike microLED deal with €210 mln investment",
+      "url": "https://www.investing.com/news/stock-market-news/ams-osram-and-samsung-display-strike-microled-deal-with-210-mln-investment-93CH-5049794",
+      "ts": 1795587674000
+    },
+    {
       "time": "1:19 AM",
-      "title": "Bloomberg — Saudi-Houthi Fighting Intensifies (Video)",
+      "title": "Bloomberg — Saudi-Houthi Fighting Intensifies",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/saudi-houthi-fighting-intensifies-video",
       "ts": 1795587562000
+    },
+    {
+      "time": "1:18 AM",
+      "title": "Investing.com — Malaysia regulator seeks $146 million damages from Google over ’harmful’ content",
+      "url": "https://www.investing.com/news/stock-market-news/malaysia-regulator-files-lawsuits-against-google-seeking-146-million-over-harmful-content-5049766",
+      "ts": 1795587532000
+    },
+    {
+      "time": "1:18 AM",
+      "title": "Investing.com — Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-to-launch-amazon-autos-in-uk-in-early-2027-in-first-expansion-beyond-us-5049784",
+      "ts": 1795587518000
+    },
+    {
+      "time": "1:18 AM",
+      "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
+      "ts": 1795587504000
     },
     {
       "time": "1:16 AM",
       "title": "Bloomberg — SailGP Launches UAE Team, Aims to Grow to 20 Teams",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/sailgp-launches-uae-team-aims-to-grow-to-20-teams-video",
       "ts": 1795587406000
+    },
+    {
+      "time": "1:15 AM",
+      "title": "Investing.com — Amazon Autos to launch in the UK in early 2027 with Hyundai",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-autos-to-launch-in-the-uk-in-early-2027-with-hyundai-93CH-5049791",
+      "ts": 1795587346000
+    },
+    {
+      "time": "1:11 AM",
+      "title": "Investing.com — Bilibili HK shares jump over 7% as Q3 beat snap 10-session losing streak",
+      "url": "https://www.investing.com/news/stock-market-news/bilibili-hk-shares-jump-over-7-as-q3-beat-snap-10session-losing-streak-5049787",
+      "ts": 1795587119000
     },
     {
       "time": "1:10 AM",
@@ -261,52 +297,16 @@
       "ts": 1795586984000
     },
     {
+      "time": "1:05 AM",
+      "title": "Investing.com — Taiwan stocks lower at close of trade; Taiwan Weighted down 4.94%",
+      "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-494-5049783",
+      "ts": 1795586703000
+    },
+    {
       "time": "1:02 AM",
       "title": "Bloomberg — Maybank Reviews Exposure as US Chip Curbs Hit",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/maybank-reviews-exposure-as-us-chip-curbs-hit-video",
       "ts": 1795586576000
-    },
-    {
-      "time": "12:58 AM",
-      "title": "Investing.com — Malaysia’s MCMC sues Google for RM300mil over YouTube content",
-      "url": "https://www.investing.com/news/stock-market-news/malaysias-mcmc-sues-google-for-rm300mil-over-youtube-content-93CH-5049771",
-      "ts": 1795586293000
-    },
-    {
-      "time": "12:54 AM",
-      "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795586085000
-    },
-    {
-      "time": "12:52 AM",
-      "title": "WSJ Markets — Asian Stocks Lower on AI Doubts, Tariff Jitters",
-      "url": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389?mod=rss_markets_main",
-      "ts": 1795585920000
-    },
-    {
-      "time": "12:48 AM",
-      "title": "Investing.com — Malaysia regulator files lawsuits against Google seeking $146 million over ’harmful’ content",
-      "url": "https://www.investing.com/news/stock-market-news/malaysia-regulator-files-lawsuits-against-google-seeking-146-million-over-harmful-content-5049766",
-      "ts": 1795585701000
-    },
-    {
-      "time": "12:45 AM",
-      "title": "Bloomberg — Soy Oil Hits Nine-Month Low as Strong Meal Demand Boosts Crush",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/soy-oil-hits-nine-month-low-as-strong-meal-demand-boosts-crush",
-      "ts": 1795585521000
-    },
-    {
-      "time": "12:37 AM",
-      "title": "Bloomberg — Kochugovindan: Tech Volatility Is Here to Stay",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
-      "ts": 1795585031000
-    },
-    {
-      "time": "12:30 AM",
-      "title": "Investing.com — Australia stocks lower at close of trade; S&P/ASX 200 down 0.39%",
-      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-039-5049741",
-      "ts": 1795584603000
     }
   ]
 }
