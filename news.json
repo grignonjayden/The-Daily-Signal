@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:14 AM ET",
+  "generated_at": "Nov 25, 2026, 4:17 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795598059222,
+  "updated_ts": 1795598259142,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -125,15 +125,15 @@
       "ts": 1795442808000
     },
     {
-      "title": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
+      "title": "Malaysia's AI Ambitions Tested as US Chip Curbs Threaten Data Center Boom",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-      "snippet": "US stock futures signaled further declines as a global tech selloff continued to worry investors.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/insight-with-haslinda-amin-11-25-2026-video",
+      "snippet": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 25, 2:51 AM",
+      "time": "Nov 25, 3:29 AM",
       "coverage": 2,
-      "ts": 1795593103000
+      "ts": 1795595363000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "4:15 AM",
+      "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795598159000
+    },
+    {
       "time": "4:00 AM",
       "title": "Globe and Mail — Steel distributors assert they’re being stiffed on tariff rebates",
       "url": "https://www.theglobeandmail.com/business/article-steel-tariff-rebates-titus-algoma-cascadia/",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — China’s Surprise Soyoil Export Boom Cools as India Turns to Palm",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-s-surprise-soyoil-export-boom-cools-as-india-turns-to-palm",
       "ts": 1795596831000
-    },
-    {
-      "time": "3:51 AM",
-      "title": "WSJ Markets — Oil Down as Supply Prospects Outweigh Gulf Risks",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
-      "ts": 1795596660000
     }
   ]
 }
