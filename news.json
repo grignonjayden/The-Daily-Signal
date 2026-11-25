@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:40 AM ET",
+  "generated_at": "Nov 25, 2026, 7:44 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795610456926,
+  "updated_ts": 1795610657593,
   "articles": [
     {
       "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
@@ -9,9 +9,9 @@
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "snippet": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
       "image": "https://image.cnbcfm.com/api/v1/image/108556540-17951897842026-11-20t154510z_724308925_rc2proaof0e8_rtrmadp_0_usa-stocks.jpeg?v=1795189801&w=1920&h=1080",
-      "time": "Nov 25, 7:40 AM",
+      "time": "Nov 25, 7:42 AM",
       "coverage": 5,
-      "ts": 1795610401000
+      "ts": 1795610566000
     },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "7:40 AM",
+      "title": "CNBC — Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
+      "url": "https://www.cnbc.com/2026/11/25/kilmar-brego-garca-a-salvadoran-national-mistakenly-deported-from-the-us-arrives-in-spain-.html",
+      "ts": 1795610403000
+    },
+    {
       "time": "7:31 AM",
       "title": "CNBC — Stocks making the biggest moves premarket: Nvidia, Urban Outfitters, Dell, Ambarella & more",
       "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Why is Invesco QQQ Trust ETF sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-invesco-qqq-trust-etf-sliding-today-93CH-5050510",
       "ts": 1795608939000
-    },
-    {
-      "time": "7:14 AM",
-      "title": "Investing.com — Why is SPDR Gold Shares ETF sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-spdr-gold-shares-etf-sliding-today-93CH-5050507",
-      "ts": 1795608880000
     }
   ]
 }
