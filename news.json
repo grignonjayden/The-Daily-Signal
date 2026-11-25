@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:35 AM ET",
+  "generated_at": "Nov 25, 2026, 9:39 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795617338578,
+  "updated_ts": 1795617551154,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -105,17 +105,6 @@
       "ts": 1795616479000
     },
     {
-      "title": "Russia’s Elevated Oil Exports Add to Global Supply Surplus",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/russia-s-elevated-oil-exports-add-to-global-supply-surplus",
-      "snippet": "Exports this year top all annual averages since the 2022 full-scale invasion of Ukraine",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 7:02 AM",
-      "coverage": 3,
-      "ts": 1795608160000
-    },
-    {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
@@ -124,6 +113,17 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 5,
       "ts": 1795456173000
+    },
+    {
+      "title": "US Stock Futures Plunge as Renewed AI Worries Fuels Tech Losses",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+      "snippet": "US equity futures fell for a second day, extending losses on a wave of heavy selling as traders dumped technology shares, with worries around AI dominating sentiment on Wall Street.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 2:51 AM",
+      "coverage": 2,
+      "ts": 1795593103000
     },
     {
       "title": "Why is CoreWeave stock sliding today?",
@@ -236,10 +236,10 @@
   ],
   "ticker": [
     {
-      "time": "9:34 AM",
+      "time": "9:35 AM",
       "title": "CNBC — Stocks tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795617292000
+      "ts": 1795617332000
     },
     {
       "time": "9:32 AM",
