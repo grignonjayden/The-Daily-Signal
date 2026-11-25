@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:15 PM ET",
+  "generated_at": "Nov 25, 2026, 4:18 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795641306596,
+  "updated_ts": 1795641519997,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -238,10 +238,16 @@
   ],
   "ticker": [
     {
-      "time": "4:13 PM",
+      "time": "4:17 PM",
       "title": "CNBC — Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795641236000
+      "ts": 1795641445000
+    },
+    {
+      "time": "4:14 PM",
+      "title": "CNBC — Macy's postpones Thanksgiving parade due to severe weather",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "ts": 1795641296000
     },
     {
       "time": "4:03 PM",
@@ -302,12 +308,6 @@
       "title": "Bloomberg — Zelenskyy Eyes New Congress If Trump Can’t Push Putin to Peace",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/zelenskyy-eyes-congress-if-no-peace-by-end-of-year-video",
       "ts": 1795639484000
-    },
-    {
-      "time": "3:37 PM",
-      "title": "Investing.com — AI spending leads the biggest market risks heading into 2027",
-      "url": "https://www.investing.com/news/stock-market-news/ai-spending-leads-the-biggest-market-risks-heading-into-2027-93CH-5051429",
-      "ts": 1795639062000
     }
   ]
 }
