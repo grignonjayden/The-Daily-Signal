@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:36 PM ET",
+  "generated_at": "Nov 25, 2026, 12:39 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795628163900,
+  "updated_ts": 1795628370953,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "12:37 PM",
+      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9535388e?mod=rss_markets_main",
+      "ts": 1795628220000
+    },
+    {
+      "time": "12:36 PM",
+      "title": "CNBC — Kalshi traders say state data center moratoriums are more likely than not",
+      "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
+      "ts": 1795628214000
+    },
+    {
       "time": "12:32 PM",
       "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=rss_markets_main",
@@ -295,18 +307,6 @@
       "title": "Bloomberg — Michael Burry Is More Long Than Short After Dumping Nasdaq Puts",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/michael-burry-is-more-long-than-short-after-dumping-nasdaq-puts",
       "ts": 1795627089000
-    },
-    {
-      "time": "12:11 PM",
-      "title": "Bloomberg — US Army Detonates Explosives Cache in Middletown, Iowa",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/us-army-detonates-explosives-cache-in-middletown-iowa-video",
-      "ts": 1795626706000
-    },
-    {
-      "time": "12:08 PM",
-      "title": "Investing.com — U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.43%",
-      "url": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-043-5051283",
-      "ts": 1795626531000
     }
   ]
 }
