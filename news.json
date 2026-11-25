@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 7:49 PM ET",
+  "generated_at": "Nov 24, 2026, 7:52 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795567770754,
+  "updated_ts": 1795567970639,
   "articles": [
     {
       "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
@@ -107,7 +107,7 @@
       "title": "Asian Stocks Fall as AI Trade Doubts Resurface: Markets Wrap",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-      "snippet": "Asian stocks retreated, tracking losses on Wall Street, after a renewed selloff in US technology stocks revived doubts about the durability of the artificial intelligence trade.",
+      "snippet": "Asian stocks retreated after a selloff in US technology shares revived doubts about the durability of the artificial intelligence trade, extending losses from Wall Street into the region. Treasuries held gains as…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 24, 5:09 PM",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "7:48 PM",
+      "title": "Globe and Mail — Lululemon founder’s remarks about women spark outrage at leadership event in Calgary",
+      "url": "https://www.theglobeandmail.com/business/article-lululemon-founder-chip-wilson-remarks-about-women/",
+      "ts": 1795567715000
+    },
+    {
       "time": "7:42 PM",
       "title": "Investing.com — Citi weighs return to Venezuela five years after exit, Bloomberg News reports",
       "url": "https://www.investing.com/news/stock-market-news/citi-weighs-return-to-venezuela-five-years-after-exit-bloomberg-news-reports-5049442",
@@ -247,6 +253,12 @@
       "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795567272000
+    },
+    {
+      "time": "7:32 PM",
+      "title": "Bloomberg — Australian Inflation Accelerates, Even After RBA Rate Hikes",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
+      "ts": 1795566721000
     },
     {
       "time": "7:30 PM",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
       "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
       "ts": 1795564828000
-    },
-    {
-      "time": "7:00 PM",
-      "title": "Bloomberg — HDBank Turns to Global Investors With Bonds, Loan to Fund Growth in Vietnam",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/hdbank-turns-to-global-investors-with-bonds-loan-to-fund-growth-in-vietnam",
-      "ts": 1795564800000
-    },
-    {
-      "time": "6:51 PM",
-      "title": "Bloomberg — Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
-      "ts": 1795564282000
     }
   ]
 }
