@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:54 PM ET",
+  "generated_at": "Nov 25, 2026, 2:57 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795636454652,
+  "updated_ts": 1795636653833,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -54,6 +54,16 @@
       "ts": 1795633244000
     },
     {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "image": "https://images.wsj.net/im-52991838",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 6,
+      "ts": 1795557180000
+    },
+    {
       "title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades",
@@ -73,16 +83,6 @@
       "time": "Nov 25, 2:10 PM",
       "coverage": 4,
       "ts": 1795633858000
-    },
-    {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 5,
-      "ts": 1795557180000
     },
     {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
@@ -105,6 +105,17 @@
       "ts": 1795624858000
     },
     {
+      "title": "Nvidia U-Turn Is Bad News For Anthropic, Says Parmy Olson",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/nvidia-u-turn-is-bad-news-for-anthropic-parmy-olson-video",
+      "snippet": "Bloomberg Opinion columnist Parmy Olson said that the tumult surrounding Nvidia CEO Jensen Huang's resignation and subsequent reinstatement isn't good news for Anthropic given how the companies' ethos and leaders…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 2:48 PM",
+      "coverage": 2,
+      "ts": 1795636138000
+    },
+    {
       "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
@@ -123,17 +134,6 @@
       "time": "Nov 25, 9:38 AM",
       "coverage": 3,
       "ts": 1795617488000
-    },
-    {
-      "title": "Lower Multiples Will Bring PE Back: Kindler",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/lower-multiples-will-bring-pe-back-kindler-video",
-      "snippet": "Robert Kindler, global chair of the M&A group at Paul, Weiss, Rifkind, Wharton & Garrison, joins Dani Burger on \"Bloomberg Deals.\" They discussed the record pace for M&A and his outlook for 2027. (Source: Bloomberg)",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 2:21 PM",
-      "coverage": 2,
-      "ts": 1795634510000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -238,16 +238,22 @@
   ],
   "ticker": [
     {
+      "time": "2:54 PM",
+      "title": "CNBC — EU postpones discussion to approve Tesla's self-driving tech",
+      "url": "https://www.cnbc.com/2026/11/25/eu-postpones-discussion-to-approve-teslas-self-driving-tech.html",
+      "ts": 1795636482000
+    },
+    {
+      "time": "2:54 PM",
+      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795636473000
+    },
+    {
       "time": "2:52 PM",
       "title": "CNBC — SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
       "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
       "ts": 1795636367000
-    },
-    {
-      "time": "2:52 PM",
-      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795636345000
     },
     {
       "time": "2:43 PM",
@@ -302,12 +308,6 @@
       "title": "Investing.com — SpaceX to contribute one Class A share to every Trump Account",
       "url": "https://www.investing.com/news/stock-market-news/spacex-to-contribute-one-class-a-share-to-every-trump-account-5051378",
       "ts": 1795635160000
-    },
-    {
-      "time": "2:30 PM",
-      "title": "Bloomberg — Still Mispricing in Private Markets: Weinstein",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/still-mispricing-in-private-markets-weinstein-video",
-      "ts": 1795635001000
     }
   ]
 }
