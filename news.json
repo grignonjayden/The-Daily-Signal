@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 6:02 AM ET",
+  "generated_at": "Nov 25, 2026, 6:05 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795604551089,
+  "updated_ts": 1795604759939,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -115,16 +115,6 @@
       "ts": 1795442808000
     },
     {
-      "title": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/retailers-face-rising-ai-cyberattack-threat-ahead-of-black-friday-many-uninsured-5050150",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0RX_L.jpg",
-      "time": "Nov 25, 5:25 AM",
-      "coverage": 2,
-      "ts": 1795602301000
-    },
-    {
       "title": "Dangote Hires Veteran Oil Trader Jonathan Zarembok From Equinor",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-hires-veteran-oil-trader-jonathan-zarembok-from-equinor",
@@ -144,6 +134,15 @@
       "time": "Nov 24, 4:46 PM",
       "coverage": 3,
       "ts": 1795556760000
+    },
+    {
+      "title": "Norsk Hydro reaffirms 2030 EBITDA target of up to 49B NOK",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/norsk-hydro-reaffirms-2030-ebitda-target-of-up-to-49b-nok-93CH-5050302",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+      "time": "Nov 25, 5:59 AM",
+      "ts": 1795604397000
     }
   ],
   "outlets": [
@@ -237,16 +236,46 @@
   ],
   "ticker": [
     {
+      "time": "6:03 AM",
+      "title": "CNBC — Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
+      "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
+      "ts": 1795604605000
+    },
+    {
       "time": "6:00 AM",
       "title": "WSJ Markets — Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
       "url": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=rss_markets_main",
       "ts": 1795604400000
     },
     {
+      "time": "6:00 AM",
+      "title": "Globe and Mail — New northern B.C. berth opens, but 11-year-old exclusivity deal stops it from progressing",
+      "url": "https://www.theglobeandmail.com/business/economy/article-port-prince-rupert-berth-opens-exclusivity-deal-stops-progress/",
+      "ts": 1795604400000
+    },
+    {
+      "time": "5:48 AM",
+      "title": "Investing.com — EU postpones discussion to approve Tesla’s self-driving tech",
+      "url": "https://www.investing.com/news/stock-market-news/eu-postpones-discussion-to-approve-teslas-selfdriving-tech-5050292",
+      "ts": 1795603698000
+    },
+    {
       "time": "5:47 AM",
       "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795603637000
+    },
+    {
+      "time": "5:47 AM",
+      "title": "Investing.com — European carmakers rise as EU caps hybrid car imports from Dec. 1",
+      "url": "https://www.investing.com/news/stock-market-news/european-carmakers-rise-as-eu-caps-hybrid-car-imports-from-dec-1-5050287",
+      "ts": 1795603622000
+    },
+    {
+      "time": "5:42 AM",
+      "title": "Investing.com — Why is Sandoz stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-sandoz-stock-rallying-today-93CH-5050259",
+      "ts": 1795603368000
     },
     {
       "time": "5:38 AM",
@@ -277,36 +306,6 @@
       "title": "Investing.com — India stocks higher at close of trade; Nifty 50 up 1.85%",
       "url": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-185-5050207",
       "ts": 1795602606000
-    },
-    {
-      "time": "5:30 AM",
-      "title": "WSJ Markets — Where to Find Bargains After the AI Power Boom Reality Check",
-      "url": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
-      "ts": 1795602600000
-    },
-    {
-      "time": "5:29 AM",
-      "title": "Bloomberg — ING Sees ‘Full Unwind’ in Emerging-Market Currencies Underway",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/ing-sees-full-unwind-in-emerging-market-currencies-underway",
-      "ts": 1795602585000
-    },
-    {
-      "time": "5:27 AM",
-      "title": "Investing.com — Shein Q3 revenue falls 5.9% as Europe price hikes weigh on demand",
-      "url": "https://www.investing.com/news/stock-market-news/shein-q3-revenue-falls-59-as-europe-price-hikes-weigh-on-demand-93CH-5050196",
-      "ts": 1795602432000
-    },
-    {
-      "time": "5:25 AM",
-      "title": "Investing.com — Walmart-owned Flipkart CEO Kalyan Krishnamurthy to step down",
-      "url": "https://www.investing.com/news/stock-market-news/walmartowned-flipkarts-kalyan-krishnamurthy-steps-down-as-ceo-5049946",
-      "ts": 1795602316000
-    },
-    {
-      "time": "5:19 AM",
-      "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
-      "ts": 1795601946000
     }
   ]
 }
