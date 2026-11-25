@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:30 AM ET",
+  "generated_at": "Nov 25, 2026, 7:34 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795609848027,
+  "updated_ts": 1795610048391,
   "articles": [
     {
       "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "7:30 AM",
+      "title": "MarketWatch — Here’s how to find value in cybersecurity stocks after a strong year",
+      "url": "https://www.marketwatch.com/story/heres-how-to-find-value-in-cybersecurity-stocks-after-a-strong-year-7fbe1f80?mod=mw_rss_topstories",
+      "ts": 1795609800000
+    },
+    {
       "time": "7:29 AM",
       "title": "MarketWatch — This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
       "url": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
       "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
       "ts": 1795608780000
-    },
-    {
-      "time": "7:10 AM",
-      "title": "Investing.com — Why is GoodRx stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-goodrx-stock-sliding-today-93CH-5050498",
-      "ts": 1795608629000
     }
   ]
 }
