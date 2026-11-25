@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:37 AM ET",
+  "generated_at": "Nov 25, 2026, 3:40 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795595821718,
+  "updated_ts": 1795596024526,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -237,16 +237,40 @@
   ],
   "ticker": [
     {
+      "time": "3:39 AM",
+      "title": "WSJ Markets — Gold Falls Close to $3,500 a Troy Ounce as Market Awaits Inflation Data",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
+      "ts": 1795595940000
+    },
+    {
+      "time": "3:37 AM",
+      "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795595826000
+    },
+    {
+      "time": "3:35 AM",
+      "title": "WSJ Markets — European Stock Indexes Mostly Higher as Industrials, Luxuries Gain",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
+      "ts": 1795595700000
+    },
+    {
+      "time": "3:26 AM",
+      "title": "Bloomberg — Murdoch-Backed Allen Career Is Said to Pick Banks for India IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/murdoch-backed-allen-career-is-said-to-pick-banks-for-india-ipo",
+      "ts": 1795595183000
+    },
+    {
+      "time": "3:25 AM",
+      "title": "Bloomberg — CATL Tumbles 12% on Fears Over Weak Earnings, Forced Selling",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/catl-tumbles-12-on-fears-over-weak-earnings-forced-selling",
+      "ts": 1795595156000
+    },
+    {
       "time": "3:18 AM",
       "title": "Investing.com — Walmart-owned Flipkart’s Kalyan Krishnamurthy steps down as CEO",
       "url": "https://www.investing.com/news/stock-market-news/walmartowned-flipkarts-kalyan-krishnamurthy-steps-down-as-ceo-5049946",
       "ts": 1795594700000
-    },
-    {
-      "time": "3:15 AM",
-      "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795594558000
     },
     {
       "time": "2:57 AM",
@@ -283,30 +307,6 @@
       "title": "Bloomberg — Botswana to Take 5% Free Stake in Mines Dug on State Concessions",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/botswana-to-take-5-free-stake-in-mines-dug-on-state-concessions",
       "ts": 1795592531000
-    },
-    {
-      "time": "2:42 AM",
-      "title": "WSJ Markets — Dollar Rises Ahead of U.S. PCE Data",
-      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "ts": 1795592520000
-    },
-    {
-      "time": "2:41 AM",
-      "title": "Investing.com — We told you first: This small-cap health pick soared 41%+ yesterday on Q3 earnings",
-      "url": "https://www.investing.com/news/stock-market-news/we-told-you-first-this-smallcap-health-pick-soared-41-yesterday-on-q3-earnings-5049919",
-      "ts": 1795592497000
-    },
-    {
-      "time": "2:40 AM",
-      "title": "Bloomberg — Malaysia's Pension Fund Favors Infrastructure Assets",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/malaysia-s-pension-fund-favors-infrastructure-assets-video",
-      "ts": 1795592439000
-    },
-    {
-      "time": "2:36 AM",
-      "title": "Investing.com — UK watchdog says Colman’s sale could address Unilever-McCormick deal concerns",
-      "url": "https://www.investing.com/news/stock-market-news/uk-watchdog-sayscolmans-sale-could-address-unilevermccormick-deal-concerns-5049890",
-      "ts": 1795592197000
     }
   ]
 }
