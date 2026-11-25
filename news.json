@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:20 PM ET",
+  "generated_at": "Nov 25, 2026, 2:23 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795634432515,
+  "updated_ts": 1795634633547,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "2:20 PM",
+      "title": "MarketWatch — New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+      "url": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
+      "ts": 1795634400000
+    },
+    {
       "time": "2:17 PM",
       "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — In olive branch to banks, Italy plans to drop curbs on home renovation tax credits",
       "url": "https://www.investing.com/news/stock-market-news/in-olive-branch-to-banks-italy-plans-to-drop-curbs-on-home-renovation-tax-credits-5051276",
       "ts": 1795631809000
-    },
-    {
-      "time": "1:36 PM",
-      "title": "CNBC — Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
-      "url": "https://www.cnbc.com/2026/11/25/anthropic-stock-ipo-analyst-outlook.html",
-      "ts": 1795631799000
     }
   ]
 }
