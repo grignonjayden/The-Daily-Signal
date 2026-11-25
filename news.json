@@ -1,8 +1,28 @@
 {
-  "generated_at": "Nov 25, 2026, 1:03 PM ET",
+  "generated_at": "Nov 25, 2026, 1:06 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795629794730,
+  "updated_ts": 1795629993947,
   "articles": [
+    {
+      "title": "U.S. Justice Department did not open probe into Jensen Huang before Nvidia rehired him, sources say",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-justice-department-did-not-open-probe-into-jensen-huang-nvidia/",
+      "snippet": "Huang’s reinstatement has angered members of Congress, who are set to hear him testify next week",
+      "image": "https://www.theglobeandmail.com/resizer/v2/4RRUIN2V2BBBPLYXMKCP5OQF4E.JPG?auth=12351d131ed8b3820fef207c684625782eebf75c673645da756f88bd3eb3bdcc&smart=true&width=7408&height=4941",
+      "time": "Nov 25, 1:02 PM",
+      "coverage": 5,
+      "ts": 1795629759000
+    },
+    {
+      "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "image": "https://images.mktw.net/im-58425830",
+      "time": "Nov 25, 1:00 PM",
+      "coverage": 5,
+      "ts": 1795629600000
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -54,6 +74,17 @@
       "ts": 1795620060000
     },
     {
+      "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Deal",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
+      "snippet": "Banks are offering CVC Capital Partners Plc up to €11 billion ($12 billion) in debt financing for a takeover of Verisure Plc, as the buyout firm weighs a bid to return the home security group to private ownership…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 10:07 AM",
+      "coverage": 4,
+      "ts": 1795619245000
+    },
+    {
       "title": "Stocks slide as AI sell-off deepens, Fed's preferred inflation gauge rises",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
@@ -62,16 +93,6 @@
       "time": "Nov 25, 9:38 AM",
       "coverage": 4,
       "ts": 1795617488000
-    },
-    {
-      "title": "U.S. inflation rises further in October, bolstering odds of successive Fed rate hikes",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-inflation-rises-further-in-october-bolstering-odds-of-successive/",
-      "snippet": "Personal Consumption Expenditures Price Index rose 0.3% last month, after a 0.5% gain in September",
-      "image": "https://www.theglobeandmail.com/resizer/v2/VUDARLZ5NJDYLEHKY4E65V5KSU.jpg?auth=3054035d7e65acc729ab52db5ac4d5ef2f12a9de943bd2d4a46e20f61778b5b1&smart=true&width=7820&height=5213",
-      "time": "Nov 25, 8:55 AM",
-      "coverage": 4,
-      "ts": 1795614954000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -84,35 +105,14 @@
       "ts": 1795557180000
     },
     {
-      "title": "Wall Street cuts losses after brutal rout, but mood glum heading into Thanksgiving",
+      "title": "Wall Street cuts losses after brutal rout, Dow erases slide of over 2%",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
       "snippet": "",
       "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "time": "Nov 25, 12:33 PM",
+      "time": "Nov 25, 1:01 PM",
       "coverage": 3,
-      "ts": 1795627996000
-    },
-    {
-      "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-      "snippet": "The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month.",
-      "image": "https://images.mktw.net/im-57804808",
-      "time": "Nov 25, 12:31 PM",
-      "coverage": 3,
-      "ts": 1795627860000
-    },
-    {
-      "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Deal",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
-      "snippet": "Banks are offering CVC Capital Partners Plc up to €11 billion ($12 billion) in debt financing for a takeover of Verisure Plc, as the buyout firm weighs a bid to return the home security group to private ownership…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 10:07 AM",
-      "coverage": 3,
-      "ts": 1795619245000
+      "ts": 1795629692000
     },
     {
       "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Woes Mount",
@@ -125,6 +125,16 @@
       "ts": 1795625042000
     },
     {
+      "title": "CoreWeave banks prepare $4.5 billion Meta-tied loan sale next week, Bloomberg says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/coreweave-banks-prepare-45-billion-metatied-loan-sale-next-week-bloomberg-says-5051311",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
+      "time": "Nov 25, 1:00 PM",
+      "coverage": 2,
+      "ts": 1795629618000
+    },
+    {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
@@ -133,16 +143,6 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 6,
       "ts": 1795456173000
-    },
-    {
-      "title": "SpaceX wins landmark FCC backing for 1 million-satellite data center constellation",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/spacex-wins-landmark-fcc-backing-for-1-millionsatellite-data-center-constellation-5051292",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM55034_L.jpg",
-      "time": "Nov 25, 12:29 PM",
-      "coverage": 2,
-      "ts": 1795627782000
     }
   ],
   "outlets": [
@@ -155,6 +155,16 @@
     "Globe and Mail"
   ],
   "official": [
+    {
+      "title": "Canada moves forward with final safeguard measure on canned vegetables imports to protect Canadian producers",
+      "source": "Finance Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-moves-forward-with-final-safeguard-measure-on-canned-vegetables-imports-to-protect-canadian-producers.html",
+      "snippet": "Canada moves forward with final safeguard measure on canned vegetables imports to protect Canadian producers",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 11:02 AM",
+      "ts": 1795622569000
+    },
     {
       "title": "Minister Champagne to hold media callback following his visit to the Gulf region",
       "source": "Finance Canada",
@@ -223,24 +233,44 @@
       "fallback_image": true,
       "time": "Nov 20, 1:03 PM",
       "ts": 1795197804000
-    },
-    {
-      "title": "Minister Champagne advances trade diversification and investment partnerships in the Gulf region",
-      "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-advances-trade-diversification-and-investment-partnerships-in-the-gulf-region.html",
-      "snippet": "Canada’s government is focused on diversifying trade, catalyzing new investment, and building major projects that will create good jobs for Canadians for generations to come. In a more dangerous and divided world,…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 20, 10:42 AM",
-      "ts": 1795189365000
     }
   ],
   "ticker": [
+    {
+      "time": "1:02 PM",
+      "title": "Bloomberg — Ontario Teachers’ CEO Says ‘Very Long’ AI Buildout Imperils Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/ontario-teachers-ceo-says-very-long-ai-buildout-imperils-bets",
+      "ts": 1795629771000
+    },
     {
       "time": "12:57 PM",
       "title": "CNBC — Stocks making the biggest moves midday: HP Inc, Ambarella, Nvidia, Sandisk & more",
       "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
       "ts": 1795629465000
+    },
+    {
+      "time": "12:57 PM",
+      "title": "Investing.com — Galp suspends Bacalhau field output for up to 8 weeks",
+      "url": "https://www.investing.com/news/stock-market-news/galp-suspends-bacalhau-field-output-for-up-to-8-weeks-93CH-5051308",
+      "ts": 1795629460000
+    },
+    {
+      "time": "12:54 PM",
+      "title": "Investing.com — Deere forecasts 2027 profit below estimates as farm equipment recovery remains muted",
+      "url": "https://www.investing.com/news/stock-market-news/deere-forecasts-fiscal-2027-net-income-below-estimates-5050370",
+      "ts": 1795629297000
+    },
+    {
+      "time": "12:54 PM",
+      "title": "Investing.com — US authorizes SpaceX to deploy 1 million satellites for data centers in space",
+      "url": "https://www.investing.com/news/stock-market-news/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space-5051261",
+      "ts": 1795629280000
+    },
+    {
+      "time": "12:46 PM",
+      "title": "Investing.com — Cantor Fitzgerald names ’Black Friday’ biotech bargains: top 5 picks",
+      "url": "https://www.investing.com/news/stock-market-news/cantor-fitzgerald-names-black-friday-biotech-bargains-top-5-picks-5051301",
+      "ts": 1795628801000
     },
     {
       "time": "12:44 PM",
@@ -277,36 +307,6 @@
       "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=rss_markets_main",
       "ts": 1795627920000
-    },
-    {
-      "time": "12:30 PM",
-      "title": "Investing.com — Europe stocks drop as autos, pharma gain, chipmakers drag",
-      "url": "https://www.investing.com/news/stock-market-news/europe-stocks-climb-as-autos-luxury-rally-eyes-on-us-pce-fed-hike-bets-5049961",
-      "ts": 1795627855000
-    },
-    {
-      "time": "12:29 PM",
-      "title": "WSJ Markets — Tech, Media & Telecom Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-39807782?mod=rss_markets_main",
-      "ts": 1795627740000
-    },
-    {
-      "time": "12:28 PM",
-      "title": "WSJ Markets — U.S. Natural Gas Inventories Decrease in Line With Average",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "ts": 1795627680000
-    },
-    {
-      "time": "12:25 PM",
-      "title": "Bloomberg — CoreWeave’s Banks to Sell $4.5 Billion Meta-Tied Loan Next Week",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-s-banks-to-sell-4-5-billion-meta-tied-loan-next-week",
-      "ts": 1795627523000
-    },
-    {
-      "time": "12:24 PM",
-      "title": "MarketWatch — HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
-      "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-      "ts": 1795627440000
     }
   ]
 }
