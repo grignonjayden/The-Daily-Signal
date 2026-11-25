@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 5:32 AM ET",
+  "generated_at": "Nov 25, 2026, 5:35 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795602726137,
+  "updated_ts": 1795602929042,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "5:30 AM",
+      "title": "WSJ Markets — Where to Find Bargains After the AI Power Boom Reality Check",
+      "url": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
+      "ts": 1795602600000
+    },
+    {
       "time": "5:19 AM",
       "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
       "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
@@ -300,12 +306,6 @@
       "title": "Bloomberg — Aareal Bank Nears Commercial Real Estate SRT With 12% Premium",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/aareal-bank-nears-commercial-real-estate-srt-with-12-premium",
       "ts": 1795601072000
-    },
-    {
-      "time": "5:04 AM",
-      "title": "Investing.com — Workday shares sink 10% premarket as softer outlook overshadows Q3 beat",
-      "url": "https://www.investing.com/news/stock-market-news/workday-shares-fall-28-in-choppy-trading-after-thirdquarter-earnings-beat-5049010",
-      "ts": 1795601044000
     }
   ]
 }
