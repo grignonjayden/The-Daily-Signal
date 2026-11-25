@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:03 AM ET",
+  "generated_at": "Nov 25, 2026, 11:07 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795622636402,
+  "updated_ts": 1795622836947,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -64,6 +64,16 @@
       "ts": 1795614954000
     },
     {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "image": "https://images.wsj.net/im-52991838",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 4,
+      "ts": 1795557180000
+    },
+    {
       "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value",
@@ -96,24 +106,15 @@
       "ts": 1795617488000
     },
     {
-      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
+      "title": "U.S. Natural Gas Steady as December Contract Set to Expire",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
-      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
-      "image": "https://images.wsj.net/im-87333679",
-      "time": "Nov 23, 5:15 PM",
-      "coverage": 6,
-      "ts": 1795472100000
-    },
-    {
-      "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
-      "snippet": "Plus: Malaysia finds no record of U.S.-sanctioned firm, Jensen Huang’s comeback collides with lawmakers demanding answers.",
-      "image": "https://images.wsj.net/im-38122472",
-      "time": "Nov 25, 7:13 AM",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "snippet": "U.S. natural gas futures were steady in early trading with the Nymex December contract expiring at the close.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 9:01 AM",
       "coverage": 3,
-      "ts": 1795608780000
+      "ts": 1795615260000
     },
     {
       "title": "Why is Lam Research stock tumbling today?",
@@ -243,6 +244,12 @@
     },
     {
       "time": "11:00 AM",
+      "title": "CNBC — Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
+      "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
+      "ts": 1795622445000
+    },
+    {
+      "time": "11:00 AM",
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795622400000
@@ -300,12 +307,6 @@
       "title": "Investing.com — American Eagle options signal 13% move around Dec. 2 earnings",
       "url": "https://www.investing.com/news/stock-market-news/american-eagle-options-signal-13-move-around-dec-2-earnings-93CH-5051160",
       "ts": 1795621328000
-    },
-    {
-      "time": "10:41 AM",
-      "title": "Investing.com — Netskope options signal 18% move ahead of earnings",
-      "url": "https://www.investing.com/news/stock-market-news/netskope-options-signal-18-move-ahead-of-earnings-93CH-5051159",
-      "ts": 1795621270000
     }
   ]
 }
