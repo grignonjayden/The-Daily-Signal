@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:03 PM ET",
+  "generated_at": "Nov 25, 2026, 2:07 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795633425472,
+  "updated_ts": 1795633626593,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -9,9 +9,9 @@
       "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
       "snippet": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558277-1795524065086-gettyimages-2306584355-vcg111684383910.jpeg?v=1795524128&w=1920&h=1080",
-      "time": "Nov 25, 1:33 PM",
+      "time": "Nov 25, 2:04 PM",
       "coverage": 6,
-      "ts": 1795631619000
+      "ts": 1795633460000
     },
     {
       "title": "U.S. Justice Department did not open probe into Jensen Huang before Nvidia rehired him, sources say",
@@ -54,6 +54,16 @@
       "ts": 1795616990000
     },
     {
+      "title": "S&P Global places Nvidia rating on ’CreditWatch Negative’ on rising management and governance risks",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/sp-global-places-nvidia-rating-on-creditwatch-negative-on-rising-management-and-governance-risks-5051352",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1QC_L.jpg",
+      "time": "Nov 25, 2:00 PM",
+      "coverage": 4,
+      "ts": 1795633244000
+    },
+    {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
@@ -72,16 +82,6 @@
       "time": "Nov 25, 1:36 PM",
       "coverage": 4,
       "ts": 1795631783000
-    },
-    {
-      "title": "TSX claws back losses as investors reassess global tech selloff and tariff risks",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-deepening-tech-selloff-us-tariff-reports-5050748",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
-      "time": "Nov 25, 1:26 PM",
-      "coverage": 4,
-      "ts": 1795631168000
     },
     {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
@@ -237,10 +237,22 @@
   ],
   "ticker": [
     {
-      "time": "1:58 PM",
+      "time": "2:05 PM",
       "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795633131000
+      "ts": 1795633555000
+    },
+    {
+      "time": "1:56 PM",
+      "title": "Investing.com — S&P puts NVIDIA on CreditWatch over governance concerns",
+      "url": "https://www.investing.com/news/stock-market-news/sp-puts-nvidia-on-creditwatch-over-governance-concerns-5051348",
+      "ts": 1795632985000
+    },
+    {
+      "time": "1:54 PM",
+      "title": "Investing.com — Australian regulator finds more suspected audit misconduct at Big Four firms",
+      "url": "https://www.investing.com/news/stock-market-news/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms-5049824",
+      "ts": 1795632867000
     },
     {
       "time": "1:52 PM",
@@ -292,21 +304,9 @@
     },
     {
       "time": "1:26 PM",
-      "title": "WSJ Markets — Health Care Roundup: Market Talk",
-      "url": "https://www.wsj.com/articles/health-care-roundup-market-talk-a0c4634c?mod=rss_markets_main",
-      "ts": 1795631160000
-    },
-    {
-      "time": "1:24 PM",
-      "title": "WSJ Markets — Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
-      "url": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=rss_markets_main",
-      "ts": 1795631040000
-    },
-    {
-      "time": "1:23 PM",
-      "title": "CNBC — Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-      "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
-      "ts": 1795630992000
+      "title": "Investing.com — TSX claws back losses as investors reassess global tech selloff and tariff risks",
+      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-deepening-tech-selloff-us-tariff-reports-5050748",
+      "ts": 1795631168000
     }
   ]
 }
