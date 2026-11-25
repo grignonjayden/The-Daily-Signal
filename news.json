@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:18 AM ET",
+  "generated_at": "Nov 25, 2026, 9:22 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795616331791,
+  "updated_ts": 1795616535025,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -156,6 +156,16 @@
   ],
   "official": [
     {
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+      "snippet": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 2:00 PM",
+      "ts": 1795546800000
+    },
+    {
       "title": "Farm income, 2025 (revised data)",
       "source": "Statistics Canada",
       "url": "https://www.statcan.gc.ca/daily-quotidien/261124/dq261124a-eng.htm",
@@ -172,6 +182,16 @@
       "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261124/cg261124b001-eng.png",
       "time": "Nov 24, 8:30 AM",
       "ts": 1795527000000
+    },
+    {
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "snippet": "Federal Reserve announces College Fed Challenge winners",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 20, 4:15 PM",
+      "ts": 1795209300000
     },
     {
       "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
@@ -216,6 +236,18 @@
   ],
   "ticker": [
     {
+      "time": "9:19 AM",
+      "title": "CNBC — Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
+      "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
+      "ts": 1795616347000
+    },
+    {
+      "time": "9:18 AM",
+      "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "ts": 1795616325000
+    },
+    {
       "time": "9:17 AM",
       "title": "CNBC — Secondhand shopping is going mainstream this holiday season as consumers seek value",
       "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
@@ -238,12 +270,6 @@
       "title": "MarketWatch — Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
       "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
       "ts": 1795615980000
-    },
-    {
-      "time": "9:11 AM",
-      "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "ts": 1795615868000
     },
     {
       "time": "9:10 AM",
@@ -280,12 +306,6 @@
       "title": "Bloomberg — Stocks Meltdown Spills Into Unlikely Market, Sinking Carry Trade",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade",
       "ts": 1795615271000
-    },
-    {
-      "time": "9:01 AM",
-      "title": "WSJ Markets — U.S. Natural Gas Steady as December Contract Set to Expire",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "ts": 1795615260000
     }
   ]
 }
