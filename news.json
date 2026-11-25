@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:40 PM ET",
+  "generated_at": "Nov 24, 2026, 8:43 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795570808584,
+  "updated_ts": 1795571011478,
   "articles": [
     {
       "title": "Nvidia’s Huang said he violated code of conduct, source says",
@@ -237,16 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "8:41 PM",
+      "title": "CNBC — SoftBank drops over 14% as Wall Street AI sell-off ripples across Asian tech names",
+      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "ts": 1795570876000
+    },
+    {
+      "time": "8:39 PM",
+      "title": "WSJ Markets — Still Too Early to Bet Against the U.S. Dollar",
+      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "ts": 1795570740000
+    },
+    {
       "time": "8:32 PM",
       "title": "WSJ Markets — Gold’s Comeback May Have to Wait",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
       "ts": 1795570320000
-    },
-    {
-      "time": "8:28 PM",
-      "title": "CNBC — SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
-      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-      "ts": 1795570110000
     },
     {
       "time": "8:12 PM",
@@ -301,12 +307,6 @@
       "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "ts": 1795566600000
-    },
-    {
-      "time": "7:21 PM",
-      "title": "WSJ Markets — Nikkei Falls 2.8%, Dragged by Chip-Related Stocks",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
-      "ts": 1795566060000
     }
   ]
 }
