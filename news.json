@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:24 PM ET",
+  "generated_at": "Nov 24, 2026, 10:28 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795577094389,
+  "updated_ts": 1795577295943,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "10:12 PM",
+      "title": "Investing.com — Malaysia Airlines’ parent to buy 10 Boeing 787 Dreamliners, CEO says",
+      "url": "https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604",
+      "ts": 1795576347000
+    },
+    {
       "time": "10:10 PM",
       "title": "Bloomberg — Starbucks Is Said to Engage Banks for Sale of Japan Business",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
@@ -300,12 +306,6 @@
       "time": "9:00 PM",
       "title": "WSJ Markets — Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
       "url": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3?mod=rss_markets_main",
-      "ts": 1795572000000
-    },
-    {
-      "time": "9:00 PM",
-      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "ts": 1795572000000
     }
   ]
