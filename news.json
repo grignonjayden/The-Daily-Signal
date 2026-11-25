@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:04 AM ET",
+  "generated_at": "Nov 25, 2026, 8:07 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795611873965,
+  "updated_ts": 1795612076332,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "8:06 AM",
+      "title": "CNBC — Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795611963000
+    },
+    {
+      "time": "8:05 AM",
+      "title": "CNBC — Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
+      "ts": 1795611938000
+    },
+    {
+      "time": "8:04 AM",
+      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-eb63fc1e?mod=rss_markets_main",
+      "ts": 1795611840000
+    },
+    {
       "time": "8:01 AM",
       "title": "CNBC — Even the price of toys is on the rise. How Americans are scaling back holiday plans",
       "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
@@ -255,22 +273,10 @@
       "ts": 1795611360000
     },
     {
-      "time": "7:50 AM",
-      "title": "CNBC — Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795611047000
-    },
-    {
       "time": "7:45 AM",
       "title": "Bloomberg — Bullrich confía en que la reforma electoral de Milei será aprobada",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/bullrich-confia-en-que-la-reforma-electoral-de-milei-sera-aprobada",
       "ts": 1795610752000
-    },
-    {
-      "time": "7:44 AM",
-      "title": "CNBC — Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-      "ts": 1795610685000
     },
     {
       "time": "7:44 AM",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Target vs Walmart holiday outlook: defensive strength against recovery potential",
       "url": "https://www.investing.com/news/stock-market-news/target-vs-walmart-holiday-outlook-defensive-strength-against-recovery-potential-93CH-5050561",
       "ts": 1795610177000
-    },
-    {
-      "time": "7:35 AM",
-      "title": "Investing.com — Nasdaq 100’s ±7% daily range and what it means for positioning",
-      "url": "https://www.investing.com/news/stock-market-news/nasdaq-100s-7-daily-range-and-what-it-means-for-positioning-93CH-5050559",
-      "ts": 1795610144000
     }
   ]
 }
