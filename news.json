@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:05 PM ET",
+  "generated_at": "Nov 25, 2026, 12:08 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795626313938,
+  "updated_ts": 1795626517786,
   "articles": [
     {
       "title": "US finds no evidence China directed executive to spy on Nvidia CEO, WSJ reports",
@@ -237,16 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "12:07 PM",
+      "title": "CNBC — Dow slides 300 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795626478000
+    },
+    {
+      "time": "12:07 PM",
+      "title": "CNBC — This missile maker's stock has fallen on expected U.S. military spending cuts, but its backlog reduces the risk",
+      "url": "https://www.cnbc.com/2026/11/25/rtx-stock-valuation-defense-budget.html",
+      "ts": 1795626432000
+    },
+    {
       "time": "12:01 PM",
       "title": "Investing.com — US authorizes SpaceX to deploy 1 million satellites for data centers in space",
       "url": "https://www.investing.com/news/stock-market-news/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space-5051261",
       "ts": 1795626104000
-    },
-    {
-      "time": "12:00 PM",
-      "title": "CNBC — This missile maker's stock has fallen on expected U.S. military spending cuts, but its backlog reduces the risk",
-      "url": "https://www.cnbc.com/2026/11/25/rtx-stock-valuation-defense-budget.html",
-      "ts": 1795626038000
     },
     {
       "time": "12:00 PM",
@@ -295,12 +301,6 @@
       "title": "MarketWatch — ‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
       "url": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
       "ts": 1795625340000
-    },
-    {
-      "time": "11:48 AM",
-      "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795625329000
     },
     {
       "time": "11:45 AM",
