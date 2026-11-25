@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:37 PM ET",
+  "generated_at": "Nov 25, 2026, 2:40 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795635443950,
+  "updated_ts": 1795635646316,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -245,6 +245,12 @@
       "ts": 1795635375000
     },
     {
+      "time": "2:35 PM",
+      "title": "Bloomberg — Oil Flows in Hormuz Strait 'Forever Altered,' Says Tom Kloza",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/oil-flows-in-hormuz-strait-forever-altered-says-kloza-video",
+      "ts": 1795635311000
+    },
+    {
       "time": "2:34 PM",
       "title": "WSJ Markets — Gold Futures Settle Off Day’s Lows as Yields, U.S. Dollar Slip",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
@@ -303,12 +309,6 @@
       "title": "CNBC — Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
       "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
       "ts": 1795633913000
-    },
-    {
-      "time": "2:06 PM",
-      "title": "Investing.com — Micron, Nvidia among market cap stock movers on Wednesday",
-      "url": "https://www.investing.com/news/stock-market-news/micron-nvidia-among-market-cap-stock-movers-on-wednesday-93CH-5051354",
-      "ts": 1795633584000
     }
   ]
 }
