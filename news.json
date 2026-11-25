@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:58 AM ET",
+  "generated_at": "Nov 25, 2026, 5:01 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795600691996,
+  "updated_ts": 1795600894854,
   "articles": [
     {
       "title": "Why Jensen Huang’s Return to Nvidia Matters for China",
@@ -237,6 +237,12 @@
   "ticker": [
     {
       "time": "4:56 AM",
+      "title": "WSJ Markets — Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
+      "ts": 1795600606000
+    },
+    {
+      "time": "4:56 AM",
       "title": "CNBC — Budget carrier Norse Atlantic falls 74% after warning its finances are ‘critical’ amid soaring fuel costs",
       "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
       "ts": 1795600565000
@@ -300,12 +306,6 @@
       "title": "Investing.com — Why is Ambarella stock crashing today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-ambarella-stock-crashing-today-93CH-5050085",
       "ts": 1795598594000
-    },
-    {
-      "time": "4:19 AM",
-      "title": "Investing.com — Why is CleanSpark stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-cleanspark-stock-sliding-today-93CH-5050083",
-      "ts": 1795598387000
     }
   ]
 }
