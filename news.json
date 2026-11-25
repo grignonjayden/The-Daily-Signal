@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 11:22 PM ET",
+  "generated_at": "Nov 24, 2026, 11:25 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795580546959,
+  "updated_ts": 1795580752199,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -12,16 +12,6 @@
       "time": "Nov 24, 8:59 PM",
       "coverage": 5,
       "ts": 1795571987000
-    },
-    {
-      "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/huang-returns-as-nvidia-ceo-after-trump-intervention-in-abrupt-board-reversal-5049490",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAM18V_L.jpg",
-      "time": "Nov 24, 8:30 PM",
-      "coverage": 5,
-      "ts": 1795570228000
     },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -54,16 +44,6 @@
       "ts": 1795551400000
     },
     {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 4,
-      "ts": 1795557180000
-    },
-    {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
@@ -72,6 +52,26 @@
       "time": "Nov 24, 6:25 AM",
       "coverage": 5,
       "ts": 1795519556000
+    },
+    {
+      "title": "Le Monde details suspected Nvidia chip diversion network through Southeast Asia",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/le-monde-details-suspected-nvidia-chip-diversion-network-through-southeast-asia-5049654",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEL4R12O_L.jpg",
+      "time": "Nov 24, 10:52 PM",
+      "coverage": 3,
+      "ts": 1795578759000
+    },
+    {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "image": "https://images.wsj.net/im-52991838",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 3,
+      "ts": 1795557180000
     },
     {
       "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "11:15 PM",
+      "title": "Bloomberg — Dangote Refinery Set to Become Africa’s Biggest Listed Company",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-refinery-set-to-become-africa-s-biggest-listed-company",
+      "ts": 1795580100000
+    },
+    {
+      "time": "11:13 PM",
+      "title": "Investing.com — BlackRock-led consortium mulls lowering Stack Infrastructure Asia offer- Bloomberg",
+      "url": "https://www.investing.com/news/stock-market-news/blackrockled-consortium-mulls-lowering-stack-infrastructure-asia-offer-bloomberg-5049671",
+      "ts": 1795579991000
+    },
+    {
+      "time": "11:12 PM",
+      "title": "Investing.com — Malaysia Airlines’ parent to buy 10 Boeing 787 Dreamliners, CEO says",
+      "url": "https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604",
+      "ts": 1795579960000
+    },
+    {
       "time": "11:06 PM",
       "title": "CNBC — ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
       "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
@@ -253,12 +271,6 @@
       "title": "CNBC — China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
       "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html",
       "ts": 1795579112000
-    },
-    {
-      "time": "10:52 PM",
-      "title": "Investing.com — Le Monde details suspected Nvidia chip diversion network through Southeast Asia",
-      "url": "https://www.investing.com/news/stock-market-news/le-monde-details-suspected-nvidia-chip-diversion-network-through-southeast-asia-5049654",
-      "ts": 1795578759000
     },
     {
       "time": "10:52 PM",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment",
       "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630",
       "ts": 1795577725000
-    },
-    {
-      "time": "10:30 PM",
-      "title": "Investing.com — Malaysia Airlines’ parent to buy 10 Boeing 787 Dreamliners, CEO says",
-      "url": "https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604",
-      "ts": 1795577421000
-    },
-    {
-      "time": "10:27 PM",
-      "title": "WSJ Markets — Singapore Dollar Weakens as Focus Turns to U.S. Econ Data",
-      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "ts": 1795577220000
     }
   ]
 }
