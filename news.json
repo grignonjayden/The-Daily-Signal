@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:47 PM ET",
+  "generated_at": "Nov 25, 2026, 2:50 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795636049217,
+  "updated_ts": 1795636250841,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -10,7 +10,7 @@
       "snippet": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558277-1795524065086-gettyimages-2306584355-vcg111684383910.jpeg?v=1795524128&w=1920&h=1080",
       "time": "Nov 25, 2:19 PM",
-      "coverage": 6,
+      "coverage": 7,
       "ts": 1795634345000
     },
     {
@@ -54,6 +54,17 @@
       "ts": 1795633244000
     },
     {
+      "title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades",
+      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 2:49 PM",
+      "coverage": 3,
+      "ts": 1795636158000
+    },
+    {
       "title": "Wall Street rebounds strongly after brutal rout, Dow turns green & Nasdaq recovers",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
@@ -94,15 +105,14 @@
       "ts": 1795624858000
     },
     {
-      "title": "U.S. Natural Gas Inventories Decrease in Line With Average",
+      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "snippet": "Natural gas futures were mixed as U.S. storage saw its first withdrawal of the season last week as colder weather lifted heating demand.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 12:28 PM",
-      "coverage": 3,
-      "ts": 1795627680000
+      "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
+      "snippet": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
+      "image": "https://images.wsj.net/im-75358264",
+      "time": "Nov 23, 5:25 PM",
+      "coverage": 7,
+      "ts": 1795472700000
     },
     {
       "title": "Dow turns positive, S&P 500 and Nasdaq led lower by AI stocks",
@@ -124,17 +134,6 @@
       "time": "Nov 25, 2:21 PM",
       "coverage": 2,
       "ts": 1795634510000
-    },
-    {
-      "title": "Army Blows Up Hazardous Material With Worst Fears Unrealized",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/army-blows-up-hazardous-material-in-iowa-video",
-      "snippet": "The Army blew up five tons of hazardous materials stored at a facility in Iowa, with early indications suggesting planners had averted the worst-case scenario of a massive cloud of toxic lead wafting over surrounding…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 1:51 PM",
-      "coverage": 2,
-      "ts": 1795632664000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
