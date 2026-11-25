@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:17 PM ET",
+  "generated_at": "Nov 25, 2026, 3:21 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795637868451,
+  "updated_ts": 1795638067754,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -238,10 +238,10 @@
   ],
   "ticker": [
     {
-      "time": "3:16 PM",
+      "time": "3:17 PM",
       "title": "CNBC — Gold falls to more than one-year low after data shows U.S. inflation rose further",
       "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
-      "ts": 1795637814000
+      "ts": 1795637859000
     },
     {
       "time": "3:09 PM",
