@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:53 PM ET",
+  "generated_at": "Nov 25, 2026, 12:56 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795629182362,
+  "updated_ts": 1795629391942,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "12:55 PM",
+      "title": "CNBC — Stocks making the biggest moves midday: HP Inc, Ambarella, Nvidia, Sandisk & more",
+      "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795629348000
+    },
+    {
       "time": "12:44 PM",
       "title": "WSJ Markets — Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "MarketWatch — HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
       "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
       "ts": 1795627440000
-    },
-    {
-      "time": "12:23 PM",
-      "title": "Bloomberg — One Thing In Markets To Be Thankful For",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/one-thing-in-markets-to-be-thankful-for",
-      "ts": 1795627380000
     }
   ]
 }
