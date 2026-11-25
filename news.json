@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:53 AM ET",
+  "generated_at": "Nov 25, 2026, 12:57 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795586039460,
+  "updated_ts": 1795586242073,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -236,16 +236,16 @@
   ],
   "ticker": [
     {
+      "time": "12:54 AM",
+      "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795586085000
+    },
+    {
       "time": "12:37 AM",
       "title": "Bloomberg — Kochugovindan: Tech Volatility Is Here to Stay",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
       "ts": 1795585031000
-    },
-    {
-      "time": "12:20 AM",
-      "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795584022000
     },
     {
       "time": "12:08 AM",
