@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:57 PM ET",
+  "generated_at": "Nov 25, 2026, 3:00 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795636653833,
+  "updated_ts": 1795636855143,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -157,6 +157,26 @@
   ],
   "official": [
     {
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+      "snippet": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 3:00 PM",
+      "ts": 1795636800000
+    },
+    {
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+      "snippet": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 3:00 PM",
+      "ts": 1795636800000
+    },
+    {
       "title": "Canada moves forward with final safeguard measure on canned vegetables imports to protect Canadian producers",
       "source": "Finance Canada",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-moves-forward-with-final-safeguard-measure-on-canned-vegetables-imports-to-protect-canadian-producers.html",
@@ -204,26 +224,6 @@
       "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261125/cg261125b001-eng.png",
       "time": "Nov 25, 8:30 AM",
       "ts": 1795613400000
-    },
-    {
-      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
-      "snippet": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 2:00 PM",
-      "ts": 1795546800000
-    },
-    {
-      "title": "Federal Reserve announces College Fed Challenge winners",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-      "snippet": "Federal Reserve announces College Fed Challenge winners",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 20, 4:15 PM",
-      "ts": 1795209300000
     },
     {
       "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
@@ -293,6 +293,12 @@
     },
     {
       "time": "2:34 PM",
+      "title": "Bloomberg — La Caisse’s Infrastructure Arm Pauses Bond Sale as Market Sours",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/la-caisse-s-infrastructure-arm-pauses-bond-sale-as-market-sours",
+      "ts": 1795635278000
+    },
+    {
+      "time": "2:34 PM",
       "title": "WSJ Markets — Gold Futures Settle Off Day’s Lows as Yields, U.S. Dollar Slip",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
       "ts": 1795635240000
@@ -302,12 +308,6 @@
       "title": "WSJ Markets — Dan Loeb’s Hedge Fund Returns to Startup Investing Years After FTX Loss",
       "url": "https://www.wsj.com/finance/investing/dan-loebs-hedge-fund-returns-to-startup-investing-years-after-ftx-loss-46f36108?mod=rss_markets_main",
       "ts": 1795635180000
-    },
-    {
-      "time": "2:32 PM",
-      "title": "Investing.com — SpaceX to contribute one Class A share to every Trump Account",
-      "url": "https://www.investing.com/news/stock-market-news/spacex-to-contribute-one-class-a-share-to-every-trump-account-5051378",
-      "ts": 1795635160000
     }
   ]
 }
