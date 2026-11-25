@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:11 PM ET",
+  "generated_at": "Nov 25, 2026, 4:15 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795641105241,
+  "updated_ts": 1795641306596,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "4:13 PM",
+      "title": "CNBC — Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795641236000
+    },
+    {
       "time": "4:03 PM",
       "title": "Bloomberg — The Debate Over Where Anthropic’s New Millionaires Should Donate Their Money",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/where-will-anthropic-s-new-millionaires-donate-video",
@@ -248,12 +254,6 @@
       "title": "CNBC — 10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
       "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
       "ts": 1795640525000
-    },
-    {
-      "time": "4:01 PM",
-      "title": "CNBC — Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795640512000
     },
     {
       "time": "4:01 PM",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 25, 2026, 3:41 PM ET",
+  "generated_at": "Nov 25, 2026, 4:15 PM ET",
   "date_key": "2026-11-25",
   "sections": [
     {
@@ -118,14 +118,14 @@
         },
         {
           "name": "Canadian dollar",
-          "value": "$0.6995 US",
+          "value": "$0.7033 US",
           "delta": {
-            "value": "0.36¢ US",
+            "value": "0.38¢ US",
             "label": "vs day before",
             "dir": "up"
           },
-          "note": "What 1 Canadian dollar buys in U.S. dollars. US$1 = C$1.4296.",
-          "as_of": "Bank of Canada · Nov 24, 2026",
+          "note": "What 1 Canadian dollar buys in U.S. dollars. US$1 = C$1.4219.",
+          "as_of": "Bank of Canada · Nov 25, 2026",
           "url": "https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/"
         },
         {
