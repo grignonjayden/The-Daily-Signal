@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:37 AM ET",
+  "generated_at": "Nov 25, 2026, 4:41 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795599472948,
+  "updated_ts": 1795599684498,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -95,6 +95,17 @@
       "ts": 1795456173000
     },
     {
+      "title": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+      "snippet": "US stock futures signaled further declines as a global tech selloff continued to worry investors.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 2:51 AM",
+      "coverage": 3,
+      "ts": 1795593103000
+    },
+    {
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
@@ -123,17 +134,6 @@
       "time": "Nov 25, 4:15 AM",
       "coverage": 2,
       "ts": 1795598104000
-    },
-    {
-      "title": "Malaysia's AI Ambitions Tested as US Chip Curbs Threaten Data Center Boom",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/insight-with-haslinda-amin-11-25-2026-video",
-      "snippet": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 3:29 AM",
-      "coverage": 2,
-      "ts": 1795595363000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "4:36 AM",
+      "title": "WSJ Markets — Nasdaq Futures Slide as AI Growth Fears Return to Center Stage",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
+      "ts": 1795599360000
+    },
+    {
       "time": "4:24 AM",
       "title": "Investing.com — Why is Norse Atlantic stock crashing today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-norse-atlantic-stock-crashing-today-93CH-5050087",
@@ -301,12 +307,6 @@
       "title": "Globe and Mail — Steel distributors assert they’re being stiffed on tariff rebates",
       "url": "https://www.theglobeandmail.com/business/article-steel-tariff-rebates-titus-algoma-cascadia/",
       "ts": 1795597200000
-    },
-    {
-      "time": "3:54 AM",
-      "title": "WSJ Markets — Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
-      "url": "https://www.wsj.com/finance/stocks/newly-listed-airtel-mobile-to-replace-ig-group-in-ftse-100-index-review-ad6b860c?mod=rss_markets_main",
-      "ts": 1795596840000
     }
   ]
 }
