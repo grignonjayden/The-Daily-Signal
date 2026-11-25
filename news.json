@@ -1,28 +1,8 @@
 {
-  "generated_at": "Nov 25, 2026, 12:23 AM ET",
+  "generated_at": "Nov 25, 2026, 12:26 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795584212522,
+  "updated_ts": 1795584412466,
   "articles": [
-    {
-      "title": "Nvidia’s Huang said he violated code of conduct, source says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
-      "time": "Nov 24, 11:42 PM",
-      "coverage": 5,
-      "ts": 1795581756000
-    },
-    {
-      "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN20H_L.jpg",
-      "time": "Nov 24, 11:42 PM",
-      "coverage": 5,
-      "ts": 1795581741000
-    },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
       "source": "CNBC",
@@ -30,7 +10,7 @@
       "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
       "time": "Nov 24, 8:13 PM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795569236000
     },
     {
@@ -40,7 +20,7 @@
       "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
       "time": "Nov 24, 6:13 PM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795562029000
     },
     {
@@ -50,7 +30,7 @@
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795551400000
     },
     {
@@ -94,24 +74,25 @@
       "ts": 1795556760000
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 5,
-      "ts": 1795456173000
+      "title": "Malaysia Airlines parent orders 10 Boeing 787s to replace older Airbus jets",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO07H_L.jpg",
+      "time": "Nov 25, 12:18 AM",
+      "coverage": 2,
+      "ts": 1795583914000
     },
     {
-      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
-      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
-      "time": "Nov 23, 9:06 AM",
-      "coverage": 5,
-      "ts": 1795442808000
+      "title": "Indian Stocks Extend World-Beating Run as AI Selloff Resumes",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
+      "snippet": "Indian stocks surged, extending their world-beating November rally as renewed selling in global artificial intelligence names bolstered a rotation toward markets with limited exposure to the theme.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 12:04 AM",
+      "coverage": 2,
+      "ts": 1795583060000
     },
     {
       "title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
@@ -125,15 +106,14 @@
       "ts": 1795579032000
     },
     {
-      "title": "Huang Boost Fades Quickly as AI Fears Sink TSMC, SK Hynix Shares",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/jensen-huang-boost-fades-fast-as-taiwan-stocks-tumble-8",
-      "snippet": "Asian stock market enthusiasm over the resurrection of Jensen Huang’s career evaporated Wednesday as investors refocused on worries around the global AI trade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 9:45 PM",
-      "coverage": 2,
-      "ts": 1795574727000
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 4,
+      "ts": 1795456173000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -144,6 +124,25 @@
       "time": "Nov 24, 4:53 PM",
       "coverage": 2,
       "ts": 1795557180000
+    },
+    {
+      "title": "Why is Harvey Norman stock sliding today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-harvey-norman-stock-sliding-today-93CH-5049731",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "time": "Nov 25, 12:08 AM",
+      "ts": 1795583297000
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
+      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
+      "time": "Nov 23, 9:06 AM",
+      "coverage": 4,
+      "ts": 1795442808000
     }
   ],
   "outlets": [
@@ -243,6 +242,48 @@
       "ts": 1795584022000
     },
     {
+      "time": "12:06 AM",
+      "title": "Investing.com — Why is Taiwan Weighted stock plunging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-weighted-stock-plunging-today-93CH-5049730",
+      "ts": 1795583208000
+    },
+    {
+      "time": "12:06 AM",
+      "title": "Investing.com — AI credit default swap spreads widen on unease over cash flow",
+      "url": "https://www.investing.com/news/stock-market-news/ai-credit-default-swap-spreads-widen-on-unease-over-cash-flow-5049729",
+      "ts": 1795583196000
+    },
+    {
+      "time": "12:06 AM",
+      "title": "Investing.com — Why is Bilibili stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-bilibili-stock-surging-today-93CH-5049728",
+      "ts": 1795583195000
+    },
+    {
+      "time": "12:06 AM",
+      "title": "Investing.com — Why is Advantest stock plunging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-advantest-stock-plunging-today-93CH-5049726",
+      "ts": 1795583173000
+    },
+    {
+      "time": "12:05 AM",
+      "title": "Investing.com — Why is KOSPI stock plunging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-kospi-stock-plunging-today-93CH-5049725",
+      "ts": 1795583147000
+    },
+    {
+      "time": "12:05 AM",
+      "title": "Investing.com — Why is Baidu stock edging higher today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-baidu-stock-edging-higher-today-93CH-5049724",
+      "ts": 1795583106000
+    },
+    {
+      "time": "12:04 AM",
+      "title": "Investing.com — Why is Xiaomi stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-rallying-today-93CH-5049723",
+      "ts": 1795583084000
+    },
+    {
       "time": "12:03 AM",
       "title": "Bloomberg — Malaysia’s Government Will Likely Serve Full Term: Anwar Adviser",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
@@ -256,57 +297,15 @@
     },
     {
       "time": "Nov 24",
-      "title": "Investing.com — Why is Samsung Electronics stock plunging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5049707",
-      "ts": 1795582071000
-    },
-    {
-      "time": "Nov 24",
-      "title": "Investing.com — Foxconn India unit faces vendor payment disputes worth millions, Bloomberg reports",
-      "url": "https://www.investing.com/news/stock-market-news/foxconn-india-unit-faces-vendor-payment-disputes-worth-millions-bloomberg-reports-93CH-5049706",
-      "ts": 1795582053000
-    },
-    {
-      "time": "Nov 24",
       "title": "Bloomberg — Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
       "ts": 1795581330000
     },
     {
       "time": "Nov 24",
-      "title": "Investing.com — +68%, +52%, +34%: the US mid-cap winners are in our AI-picked list this year",
-      "url": "https://www.investing.com/news/stock-market-news/68-52-34-the-us-midcap-winners-are-in-our-aipicked-list-this-year-5049682",
-      "ts": 1795580931000
-    },
-    {
-      "time": "Nov 24",
-      "title": "Investing.com — Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs",
-      "url": "https://www.investing.com/news/stock-market-news/xiaomi-shares-jump-over-8-as-premium-phone-sales-cushion-rising-chip-costs-5049681",
-      "ts": 1795580869000
-    },
-    {
-      "time": "Nov 24",
       "title": "Globe and Mail — Martha Ford, former Detroit Lions owner with link to auto giants, dies at 101",
       "url": "https://www.theglobeandmail.com/sports/football/article-martha-ford-former-lions-owner-with-link-to-auto-giants-dies-at-101/",
       "ts": 1795580844000
-    },
-    {
-      "time": "Nov 24",
-      "title": "Bloomberg — Xi Probes Shanghai Boss, Widening Political Shakeup",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
-      "ts": 1795580711000
-    },
-    {
-      "time": "Nov 24",
-      "title": "Bloomberg — Dangote Refinery Set to Become Africa’s Biggest Listed Company",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-refinery-set-to-become-africa-s-biggest-listed-company",
-      "ts": 1795580100000
-    },
-    {
-      "time": "Nov 24",
-      "title": "Investing.com — BlackRock-led consortium mulls lowering Stack Infrastructure Asia offer- Bloomberg",
-      "url": "https://www.investing.com/news/stock-market-news/blackrockled-consortium-mulls-lowering-stack-infrastructure-asia-offer-bloomberg-5049671",
-      "ts": 1795579991000
     }
   ]
 }
