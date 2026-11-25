@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:45 AM ET",
+  "generated_at": "Nov 25, 2026, 8:48 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795614303857,
+  "updated_ts": 1795614509930,
   "articles": [
     {
       "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
@@ -24,6 +24,16 @@
       "ts": 1795613855000
     },
     {
+      "title": "Nasdaq 100 futures slide 3% on AI trade rout, U.S. tariffs, and hot core inflation",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "time": "Nov 25, 8:36 AM",
+      "coverage": 5,
+      "ts": 1795613787000
+    },
+    {
       "title": "U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
@@ -42,16 +52,6 @@
       "time": "Nov 25, 8:29 AM",
       "coverage": 5,
       "ts": 1795613399000
-    },
-    {
-      "title": "Nasdaq 100 futures crater 3% on AI trade rout, U.S. tariffs; eyes on PCE data",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "time": "Nov 25, 8:21 AM",
-      "coverage": 5,
-      "ts": 1795612881000
     },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -237,16 +237,16 @@
   ],
   "ticker": [
     {
-      "time": "8:44 AM",
-      "title": "CNBC — Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795614268000
+      "time": "8:47 AM",
+      "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "ts": 1795614448000
     },
     {
       "time": "8:44 AM",
-      "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "ts": 1795614253000
+      "title": "CNBC — Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795614293000
     },
     {
       "time": "8:41 AM",
@@ -259,6 +259,18 @@
       "title": "MarketWatch — Third-quarter GDP already looked great. Now it looks even better.",
       "url": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
       "ts": 1795614060000
+    },
+    {
+      "time": "8:37 AM",
+      "title": "Investing.com — S&P Global may sell parts of Capital IQ unit to Cognizant - report",
+      "url": "https://www.investing.com/news/stock-market-news/sp-global-may-sell-parts-of-capital-iq-unit-to-cognizant--report-5050797",
+      "ts": 1795613864000
+    },
+    {
+      "time": "8:36 AM",
+      "title": "Investing.com — EU postpones discussion to approve Tesla’s self-driving tech",
+      "url": "https://www.investing.com/news/stock-market-news/eu-postpones-discussion-to-approve-teslas-selfdriving-tech-5050292",
+      "ts": 1795613815000
     },
     {
       "time": "8:34 AM",
@@ -295,18 +307,6 @@
       "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
       "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9535388e?mod=rss_markets_main",
       "ts": 1795613040000
-    },
-    {
-      "time": "8:23 AM",
-      "title": "MarketWatch — The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
-      "ts": 1795612980000
-    },
-    {
-      "time": "8:20 AM",
-      "title": "CNBC — Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-      "ts": 1795612834000
     }
   ]
 }
