@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:56 AM ET",
+  "generated_at": "Nov 25, 2026, 9:59 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795618567158,
+  "updated_ts": 1795618769460,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -98,7 +98,7 @@
       "title": "Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities tumbled Wednesday after key PCE inflation data as Nvidia, Anthropic and Big Tech stocks slid alongside fresh Trump administration tariff threats.",
+      "snippet": "U.S. equities tumbled Wednesday after key PCE inflation data as Nvidia, Anthropic and Big Tech stocks slid alongside fresh Trump administration tariff proposals.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
       "time": "Nov 25, 9:38 AM",
       "coverage": 3,
@@ -242,6 +242,12 @@
       "ts": 1795618510000
     },
     {
+      "time": "9:50 AM",
+      "title": "Bloomberg — Nasdaq 100 Set for Bear Market as AI Trade Unravels at the Seams",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
+      "ts": 1795618256000
+    },
+    {
       "time": "9:48 AM",
       "title": "CNBC — U.S. stockpile of unstable and dangerous lead azide scheduled for detonation in Iowa",
       "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
@@ -300,12 +306,6 @@
       "title": "MarketWatch — GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
       "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
       "ts": 1795617120000
-    },
-    {
-      "time": "9:31 AM",
-      "title": "WSJ Markets — Crude Futures Pick Up in Choppy Trading",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
-      "ts": 1795617060000
     }
   ]
 }
