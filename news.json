@@ -1,8 +1,28 @@
 {
-  "generated_at": "Nov 25, 2026, 8:31 AM ET",
+  "generated_at": "Nov 25, 2026, 8:35 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795613501539,
+  "updated_ts": 1795613702249,
   "articles": [
+    {
+      "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-real-price-of-jensen-huangs-return-to-nvidia-higher-regulatory-costs-for-the-company-and-the-entire-ai-industry-982002d4?mod=mw_rss_topstories",
+      "snippet": "After an initial rally, Nvidia shares fell as investors now must consider the legal and regulatory risks around having a scandal-ridden CEO back at the helm.",
+      "image": "https://images.mktw.net/im-96418474",
+      "time": "Nov 25, 8:30 AM",
+      "coverage": 5,
+      "ts": 1795613400000
+    },
+    {
+      "title": "U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+      "snippet": "A plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year.",
+      "image": "https://images.mktw.net/im-17174473",
+      "time": "Nov 25, 8:30 AM",
+      "coverage": 6,
+      "ts": 1795613400000
+    },
     {
       "title": "Nasdaq 100 futures crater 3% on AI trade rout, U.S. tariffs; eyes on PCE data",
       "source": "Investing.com",
@@ -12,16 +32,6 @@
       "time": "Nov 25, 8:21 AM",
       "coverage": 6,
       "ts": 1795612881000
-    },
-    {
-      "title": "U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
-      "snippet": "Plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year",
-      "image": "https://images.mktw.net/im-17174473",
-      "time": "Nov 25, 8:21 AM",
-      "coverage": 6,
-      "ts": 1795612860000
     },
     {
       "title": "Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
@@ -34,14 +44,24 @@
       "ts": 1795613157000
     },
     {
-      "title": "What the options market says to do with Nvidia’s stock — and the rest of the stock market",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-the-options-market-says-to-do-with-nvidias-stock-and-the-rest-of-the-stock-market-de9584ae?mod=mw_rss_topstories",
-      "snippet": "The put-call ratio is sending a strong message about Nvidia’s stock, and history suggests a post-Thanksgiving “bull spread” strategy for the Russell 2000 ETF.",
-      "image": "https://images.mktw.net/im-97940848",
-      "time": "Nov 25, 8:16 AM",
-      "coverage": 3,
-      "ts": 1795612560000
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
+      "time": "Nov 24, 8:13 PM",
+      "coverage": 5,
+      "ts": 1795569236000
+    },
+    {
+      "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
+      "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
+      "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
+      "time": "Nov 24, 3:16 PM",
+      "coverage": 5,
+      "ts": 1795551400000
     },
     {
       "title": "Nasdaq Futures Tumble as AI Selloff Returns",
@@ -62,16 +82,6 @@
       "time": "Nov 25, 8:24 AM",
       "coverage": 4,
       "ts": 1795613049000
-    },
-    {
-      "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-      "snippet": "Nvidia’s decision to reinstate CEO Jensen Huang after pressure from Trump is intensifying bipartisan scrutiny of tech companies' ties to the administration.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108476949-1793221677813-gettyimages-2302436271-kbd11644_3qp4ciac.jpeg?v=1793754912&w=1920&h=1080",
-      "time": "Nov 25, 8:20 AM",
-      "coverage": 4,
-      "ts": 1795612834000
     },
     {
       "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
@@ -95,24 +105,14 @@
       "ts": 1795608160000
     },
     {
-      "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
+      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
-      "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
-      "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
-      "time": "Nov 24, 3:16 PM",
-      "coverage": 4,
-      "ts": 1795551400000
-    },
-    {
-      "title": "Huawei guilty of conspiracy to steal trade secrets, U.S. jury finds",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/article-huawei-conspiracy-trade-secrets/",
-      "snippet": "Chinese tech giant cleared of more serious charge of engaging in a criminal racketeering conspiracy",
-      "image": "https://www.theglobeandmail.com/resizer/v2/SOX6SZVMWZFHPFWUZ2DJ7HGEF4.JPG?auth=ae82e92ac0f83931354a5fda825bb38b79db58fe5dc1557b4120561f0ea8be29&smart=true&width=4500&height=3000",
-      "time": "Nov 24, 4:39 PM",
+      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
+      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
+      "time": "Nov 24, 6:25 AM",
       "coverage": 5,
-      "ts": 1795556367000
+      "ts": 1795519556000
     },
     {
       "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
@@ -142,7 +142,7 @@
       "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
       "time": "Nov 23, 9:06 AM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795442808000
     }
   ],
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "8:31 AM",
+      "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "ts": 1795613505000
+    },
+    {
       "time": "8:24 AM",
       "title": "Bloomberg — Europe’s Gas Traders Are in for a Volatile Winter",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/europe-s-gas-traders-are-in-for-a-volatile-winter",
@@ -255,16 +261,16 @@
       "ts": 1795612980000
     },
     {
+      "time": "8:20 AM",
+      "title": "CNBC — Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
+      "ts": 1795612834000
+    },
+    {
       "time": "8:19 AM",
       "title": "CNBC — Stocks making the biggest moves premarket: Nvidia, Urban Outfitters, Dell, Ambarella & more",
       "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
       "ts": 1795612798000
-    },
-    {
-      "time": "8:17 AM",
-      "title": "CNBC — Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "ts": 1795612651000
     },
     {
       "time": "8:17 AM",
@@ -277,6 +283,12 @@
       "title": "Investing.com — The AI paradox: How global growth’s biggest engine became its greatest risk",
       "url": "https://www.investing.com/news/stock-market-news/the-ai-paradox-how-global-growths-biggest-engine-became-its-greatest-risk-5050712",
       "ts": 1795612576000
+    },
+    {
+      "time": "8:16 AM",
+      "title": "MarketWatch — What the options market says to do with Nvidia’s stock — and the rest of the stock market",
+      "url": "https://www.marketwatch.com/story/what-the-options-market-says-to-do-with-nvidias-stock-and-the-rest-of-the-stock-market-de9584ae?mod=mw_rss_topstories",
+      "ts": 1795612560000
     },
     {
       "time": "8:15 AM",
@@ -295,18 +307,6 @@
       "title": "CNBC — U.S. proposes new tariffs on 14 trading partners, including China and the EU",
       "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
       "ts": 1795612269000
-    },
-    {
-      "time": "8:09 AM",
-      "title": "MarketWatch — 12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-      "ts": 1795612140000
-    },
-    {
-      "time": "8:09 AM",
-      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=rss_markets_main",
-      "ts": 1795612140000
     }
   ]
 }
