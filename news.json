@@ -1,17 +1,27 @@
 {
-  "generated_at": "Nov 24, 2026, 7:25 PM ET",
+  "generated_at": "Nov 24, 2026, 7:28 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795566325891,
+  "updated_ts": 1795566526232,
   "articles": [
     {
-      "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-5047621",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN20H_L.jpg",
-      "time": "Nov 24, 7:00 PM",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0VS_L.jpg",
+      "time": "Nov 24, 7:18 PM",
       "coverage": 5,
-      "ts": 1795564828000
+      "ts": 1795565911000
+    },
+    {
+      "title": "Nvidia’s Huang said he violated code of conduct, source says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
+      "time": "Nov 24, 7:18 PM",
+      "coverage": 5,
+      "ts": 1795565898000
     },
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -22,6 +32,16 @@
       "time": "Nov 24, 6:13 PM",
       "coverage": 5,
       "ts": 1795562029000
+    },
+    {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "image": "https://images.wsj.net/im-52991838",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 5,
+      "ts": 1795557180000
     },
     {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
@@ -42,16 +62,6 @@
       "time": "Nov 24, 12:51 PM",
       "coverage": 5,
       "ts": 1795542705000
-    },
-    {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 4,
-      "ts": 1795557180000
     },
     {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
@@ -94,6 +104,17 @@
       "ts": 1795456173000
     },
     {
+      "title": "Asian Stocks Fall as AI Trade Doubts Resurface: Markets Wrap",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+      "snippet": "Asian stocks retreated, tracking losses on Wall Street, after a renewed selloff in US technology stocks revived doubts about the durability of the artificial intelligence trade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 5:09 PM",
+      "coverage": 3,
+      "ts": 1795558158000
+    },
+    {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
@@ -115,17 +136,6 @@
       "ts": 1795561589000
     },
     {
-      "title": "US Steel Buyers Turn Abroad as Data Center Boom Strains Supply",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-steel-buyers-turn-abroad-as-data-center-boom-strains-supply",
-      "snippet": "Cheaper Asian imports are gaining traction with US steel buyers despite Washington’s tariffs, as a data center construction boom squeezes domestic supplies and drives up prices.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 5:12 PM",
-      "coverage": 2,
-      "ts": 1795558377000
-    },
-    {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
@@ -134,15 +144,6 @@
       "time": "Nov 24, 4:53 PM",
       "coverage": 2,
       "ts": 1795557180000
-    },
-    {
-      "title": "Reliance Worldwide hits 20-month high as AustralianSuper backs Brookfield bid (Nov. 24)",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/reliance-worldwide-hits-20month-high-as-australiansuper-backs-brookfield-bid-nov-24-5049371",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAM1PH_L.jpg",
-      "time": "Nov 24, 6:30 PM",
-      "ts": 1795563033000
     }
   ],
   "outlets": [
@@ -236,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "7:24 PM",
+      "title": "WSJ Markets — Gold Edges Lower With U.S. Inflation Data in Focus",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
+      "ts": 1795566240000
+    },
+    {
       "time": "7:21 PM",
       "title": "WSJ Markets — Nikkei Falls 2.8%, Dragged by Chip-Related Stocks",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
@@ -254,10 +261,22 @@
       "ts": 1795565565000
     },
     {
+      "time": "7:12 PM",
+      "title": "Investing.com — Japan’s Nikkei to rise next year but fall short of record as investors reassess AI trade: Reuters poll",
+      "url": "https://www.investing.com/news/stock-market-news/japans-nikkei-to-rise-next-year-but-fall-short-of-record-as-investors-reassess-ai-trade-reuters-poll-5049409",
+      "ts": 1795565557000
+    },
+    {
       "time": "7:05 PM",
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795565100000
+    },
+    {
+      "time": "7:00 PM",
+      "title": "Investing.com — Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
+      "ts": 1795564828000
     },
     {
       "time": "7:00 PM",
@@ -288,24 +307,6 @@
       "title": "WSJ Markets — The WSJ Dollar Index Falls 0.27% to 98.75",
       "url": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
       "ts": 1795563840000
-    },
-    {
-      "time": "6:43 PM",
-      "title": "Globe and Mail — Radar issue delays flights at Chicago O’Hare airport, U.S. FAA says",
-      "url": "https://www.theglobeandmail.com/world/article-faa-ground-chicago-ohare/",
-      "ts": 1795563810000
-    },
-    {
-      "time": "6:41 PM",
-      "title": "Bloomberg — US Readies Tariff Hike on China, EU Goods",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video-mwvca1k8",
-      "ts": 1795563719000
-    },
-    {
-      "time": "6:34 PM",
-      "title": "MarketWatch — Dell’s stock rises as the AI boom helps sales more than double",
-      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-      "ts": 1795563240000
     }
   ]
 }
