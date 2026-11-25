@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:43 PM ET",
+  "generated_at": "Nov 25, 2026, 1:46 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795632214373,
+  "updated_ts": 1795632417027,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -109,9 +109,9 @@
       "url": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a?mod=rss_markets_main",
       "snippet": "The sale was initially sparked after the Trump administration slapped sanctions on Lukoil assets to pressure Moscow in negotiations over the war in Ukraine.",
       "image": "https://images.wsj.net/im-31563309",
-      "time": "Nov 25, 1:26 PM",
+      "time": "Nov 25, 1:41 PM",
       "coverage": 3,
-      "ts": 1795631160000
+      "ts": 1795632060000
     },
     {
       "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Woes Mount",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:45 PM",
+      "title": "WSJ Markets — Comex Gold Settles 0.71% Lower at $3534.70",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
+      "ts": 1795632300000
+    },
+    {
       "time": "1:36 PM",
       "title": "CNBC — Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
       "url": "https://www.cnbc.com/2026/11/25/anthropic-stock-ipo-analyst-outlook.html",
@@ -301,12 +307,6 @@
       "title": "CNBC — 10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
       "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
       "ts": 1795630088000
-    },
-    {
-      "time": "1:06 PM",
-      "title": "Investing.com — December redemption data to test private credit fund sentiment",
-      "url": "https://www.investing.com/news/stock-market-news/december-redemption-data-to-test-private-credit-fund-sentiment-93CH-5051316",
-      "ts": 1795629973000
     }
   ]
 }
