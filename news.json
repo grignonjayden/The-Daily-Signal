@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 6:23 PM ET",
+  "generated_at": "Nov 25, 2026, 6:27 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795649025909,
+  "updated_ts": 1795649233660,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -238,10 +238,22 @@
   ],
   "ticker": [
     {
+      "time": "6:18 PM",
+      "title": "Bloomberg — How Saks Is Reclaiming Luxury as Exemplar Luxury Group",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/how-saks-is-reclaiming-luxury-as-exemplar-luxury-group-video",
+      "ts": 1795648681000
+    },
+    {
       "time": "6:07 PM",
       "title": "Bloomberg — Dan Loeb’s Third Point Hedge Fund Resumes Private Investments",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/dan-loeb-s-third-point-hedge-fund-resumes-private-investments",
       "ts": 1795648029000
+    },
+    {
+      "time": "6:06 PM",
+      "title": "Investing.com — International Paper names insider Nicholls CEO of DS Smith spinoff",
+      "url": "https://www.investing.com/news/stock-market-news/international-paper-names-insider-nicholls-ceo-of-ds-smith-spinoff-5051706",
+      "ts": 1795647983000
     },
     {
       "time": "6:00 PM",
@@ -296,18 +308,6 @@
       "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
       "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
       "ts": 1795645616000
-    },
-    {
-      "time": "5:19 PM",
-      "title": "Globe and Mail — How are you making credit cards work for you? Share your personal finance tips",
-      "url": "https://www.theglobeandmail.com/business/article-credit-card-reader-tips/",
-      "ts": 1795645190000
-    },
-    {
-      "time": "5:16 PM",
-      "title": "MarketWatch — Oracle, CoreWeave and other tech stocks bounce back after selloff",
-      "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-      "ts": 1795644960000
     }
   ]
 }
