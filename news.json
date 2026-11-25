@@ -1,8 +1,28 @@
 {
-  "generated_at": "Nov 25, 2026, 5:29 PM ET",
+  "generated_at": "Nov 25, 2026, 5:32 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795645778070,
+  "updated_ts": 1795645978398,
   "articles": [
+    {
+      "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "image": "https://images.mktw.net/im-58425830",
+      "time": "Nov 25, 5:31 PM",
+      "coverage": 6,
+      "ts": 1795645860000
+    },
+    {
+      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
+      "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
+      "image": "https://images.wsj.net/im-58488429",
+      "time": "Nov 25, 5:27 PM",
+      "coverage": 6,
+      "ts": 1795645620000
+    },
     {
       "title": "Moody’s says Nvidia’s Huang reinstatement eases uncertainty, ratings unchanged",
       "source": "Investing.com",
@@ -10,7 +30,7 @@
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1YI_L.jpg",
       "time": "Nov 25, 5:24 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795645486000
     },
     {
@@ -20,7 +40,7 @@
       "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
       "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
       "time": "Nov 25, 9:29 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795616990000
     },
     {
@@ -34,34 +54,13 @@
       "ts": 1795644660000
     },
     {
-      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
-      "snippet": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
-      "image": "https://images.wsj.net/im-85047619",
-      "time": "Nov 25, 5:21 PM",
-      "coverage": 3,
-      "ts": 1795645260000
-    },
-    {
-      "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "snippet": "Natural gas futures ended the session lower after the EIA’s weekly storage report showed a 24 Bcf draw.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 4:32 PM",
-      "coverage": 4,
-      "ts": 1795642320000
-    },
-    {
       "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
       "snippet": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558516-17955383482025-12-03t204438z_1611070846_rc269iamutg0_rtrmadp_0_nvidia-huang-congress.jpeg?v=1795635517&w=1920&h=1080",
       "time": "Nov 25, 4:00 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795640408000
     },
     {
@@ -71,18 +70,18 @@
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795551400000
     },
     {
-      "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
-      "snippet": "This tape has not been kind to Nvidia.",
-      "image": "https://images.mktw.net/im-09631159",
-      "time": "Nov 25, 2:43 PM",
-      "coverage": 2,
-      "ts": 1795635780000
+      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
+      "snippet": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
+      "image": "https://images.wsj.net/im-85047619",
+      "time": "Nov 25, 5:21 PM",
+      "coverage": 3,
+      "ts": 1795645260000
     },
     {
       "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
@@ -127,6 +126,16 @@
       "ts": 1795640597000
     },
     {
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
+    },
+    {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
@@ -135,16 +144,6 @@
       "time": "Nov 25, 9:38 AM",
       "coverage": 2,
       "ts": 1795617488000
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 5,
-      "ts": 1795456173000
     }
   ],
   "outlets": [
