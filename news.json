@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 7:56 PM ET",
+  "generated_at": "Nov 24, 2026, 7:59 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795568170267,
+  "updated_ts": 1795568371221,
   "articles": [
+    {
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
+      "time": "Nov 24, 7:57 PM",
+      "coverage": 5,
+      "ts": 1795568265000
+    },
     {
       "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
       "source": "Investing.com",
@@ -42,16 +52,6 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
-    },
-    {
-      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-      "snippet": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
-      "time": "Nov 24, 12:51 PM",
-      "coverage": 5,
-      "ts": 1795542705000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
