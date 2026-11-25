@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:35 PM ET",
+  "generated_at": "Nov 25, 2026, 4:38 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795642526304,
+  "updated_ts": 1795642728589,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "4:36 PM",
+      "title": "MarketWatch — HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+      "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+      "ts": 1795642560000
+    },
+    {
       "time": "4:29 PM",
       "title": "MarketWatch — How to spot ‘bogus boutiques’ and other Black Friday shopping scams",
       "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
@@ -303,12 +309,6 @@
       "title": "CNBC — Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795641445000
-    },
-    {
-      "time": "4:15 PM",
-      "title": "Investing.com — Kinetik Holdings shares surge on Targa takeover talks",
-      "url": "https://www.investing.com/news/stock-market-news/kinetik-holdings-shares-surge-on-targa-takeover-talks-5051477",
-      "ts": 1795641347000
     }
   ]
 }
