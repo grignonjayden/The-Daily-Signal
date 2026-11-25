@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:59 AM ET",
+  "generated_at": "Nov 25, 2026, 3:03 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795593581550,
+  "updated_ts": 1795593784204,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "2:57 AM",
+      "title": "Bloomberg — China Dismisses US Tariff Prospect as ‘Political Maneuvering’",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-dismisses-us-tariff-prospect-as-political-maneuvering",
+      "ts": 1795593441000
+    },
+    {
       "time": "2:51 AM",
       "title": "Bloomberg — UK Heating Bills Surge 26%, Adding to Inflation Pressure",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/uk-heating-bills-surge-26-adding-to-inflation-pressure",
@@ -268,6 +274,12 @@
     },
     {
       "time": "2:42 AM",
+      "title": "Bloomberg — Botswana to Take 5% Free Stake in Mines Dug on State Concessions",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/botswana-to-take-5-free-stake-in-mines-dug-on-state-concessions",
+      "ts": 1795592531000
+    },
+    {
+      "time": "2:42 AM",
       "title": "WSJ Markets — Dollar Rises Ahead of U.S. PCE Data",
       "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
       "ts": 1795592520000
@@ -295,18 +307,6 @@
       "title": "Bloomberg — AUD/USD: Aussie Set for Biggest Monthly Drop in Four Years as Stocks Fall",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/aud-usd-aussie-set-for-biggest-monthly-drop-in-four-years-as-stocks-fall",
       "ts": 1795591710000
-    },
-    {
-      "time": "2:24 AM",
-      "title": "Bloomberg — A 2018 Playbook Would Not Bode Well for Markets: Taking Stock",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/a-2018-playbook-would-not-bode-well-for-markets-taking-stock",
-      "ts": 1795591479000
-    },
-    {
-      "time": "2:20 AM",
-      "title": "Investing.com — Hannover Re targets at least €2.9 bln net income in 2027, sets 18% ROE goal for 2027-29",
-      "url": "https://www.investing.com/news/stock-market-news/hannover-re-targets-at-least-29-bln-net-income-in-2027-sets-18-roe-goal-for-202729-93CH-5049863",
-      "ts": 1795591253000
     }
   ]
 }
