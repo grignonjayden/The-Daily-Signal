@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:10 PM ET",
+  "generated_at": "Nov 24, 2026, 9:13 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795572638242,
+  "updated_ts": 1795572838062,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "9:09 PM",
+      "title": "CNBC — Trump open to pardoning Jensen Huang if needed: NY Post",
+      "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+      "ts": 1795572585000
+    },
+    {
       "time": "9:00 PM",
       "title": "Investing.com — As chips slide, AI-picked IT stocks remain up 27%-88% – meet the leader",
       "url": "https://www.investing.com/news/stock-market-news/as-chips-slide-aipicked-it-stocks-remain-up-2788--meet-the-leader-5049536",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
       "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
       "ts": 1795569147000
-    },
-    {
-      "time": "8:11 PM",
-      "title": "MarketWatch — Dell’s stock rises as the AI boom helps sales more than double",
-      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-      "ts": 1795569060000
     }
   ]
 }
