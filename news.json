@@ -1,8 +1,28 @@
 {
-  "generated_at": "Nov 25, 2026, 9:28 AM ET",
+  "generated_at": "Nov 25, 2026, 9:32 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795616936417,
+  "updated_ts": 1795617137287,
   "articles": [
+    {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
+      "time": "Nov 25, 9:29 AM",
+      "coverage": 5,
+      "ts": 1795616990000
+    },
+    {
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
+      "time": "Nov 25, 9:29 AM",
+      "coverage": 5,
+      "ts": 1795616940000
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -24,46 +44,6 @@
       "ts": 1795613400000
     },
     {
-      "title": "Nasdaq 100 futures slide 3% on AI trade rout, U.S. tariffs, and hot core inflation",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "time": "Nov 25, 8:57 AM",
-      "coverage": 5,
-      "ts": 1795615068000
-    },
-    {
-      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-      "snippet": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory, or burdensome to U.S. commerce.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108354862-1787782636413-gettyimages-2291629463-1568136-port-of-long-beach-ajs-07.jpeg?v=1787782727&w=1920&h=1080",
-      "time": "Nov 25, 8:37 AM",
-      "coverage": 5,
-      "ts": 1795613855000
-    },
-    {
-      "title": "U.S. plans to hike tariffs on China, EU and other partners over subsidized production",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
-      "snippet": "Levies still at the proposal stage, with no strict timelines on implementation, official says",
-      "image": "https://www.theglobeandmail.com/resizer/v2/Q4VIBLF5KFCNTDSUQ2MJ57M5SM.jpg?auth=1caa2d9f94ad675798cb6410a7ff289c414503eb7e070caf81845c5946c4faec&smart=true&width=1668&height=1112",
-      "time": "Nov 25, 8:29 AM",
-      "coverage": 5,
-      "ts": 1795613399000
-    },
-    {
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
-      "time": "Nov 24, 8:13 PM",
-      "coverage": 5,
-      "ts": 1795569236000
-    },
-    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -72,6 +52,16 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
+    },
+    {
+      "title": "U.S. plans to hike tariffs on China, EU and other partners over subsidized production",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
+      "snippet": "Levies still at the proposal stage, with no strict timelines on implementation, official says",
+      "image": "https://www.theglobeandmail.com/resizer/v2/Q4VIBLF5KFCNTDSUQ2MJ57M5SM.jpg?auth=1caa2d9f94ad675798cb6410a7ff289c414503eb7e070caf81845c5946c4faec&smart=true&width=1668&height=1112",
+      "time": "Nov 25, 8:29 AM",
+      "coverage": 4,
+      "ts": 1795613399000
     },
     {
       "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
@@ -116,6 +106,16 @@
       "ts": 1795609258000
     },
     {
+      "title": "Ambarella downgraded by BofA, Morgan Stanley as memory squeeze hits demand",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/ambarella-downgraded-by-bofa-morgan-stanley-as-memory-squeeze-hits-demand-5050947",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM18123_1200_L.jpg",
+      "time": "Nov 25, 9:21 AM",
+      "coverage": 3,
+      "ts": 1795616479000
+    },
+    {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
@@ -126,6 +126,15 @@
       "ts": 1795456173000
     },
     {
+      "title": "Why is CoreWeave stock sliding today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5050957",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "time": "Nov 25, 9:26 AM",
+      "ts": 1795616809000
+    },
+    {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
@@ -134,15 +143,6 @@
       "time": "Nov 23, 9:06 AM",
       "coverage": 5,
       "ts": 1795442808000
-    },
-    {
-      "title": "Why is Li Auto stock surging today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-li-auto-stock-surging-today-93CH-5050884",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "time": "Nov 25, 9:03 AM",
-      "ts": 1795615382000
     }
   ],
   "outlets": [
@@ -236,10 +236,58 @@
   ],
   "ticker": [
     {
+      "time": "9:31 AM",
+      "title": "CNBC — Stocks tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795617065000
+    },
+    {
+      "time": "9:30 AM",
+      "title": "CNBC — Stocks making the biggest moves Wednesday: Nvidia, Urban Outfitters, Dell, Ambarella & more",
+      "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795617035000
+    },
+    {
+      "time": "9:27 AM",
+      "title": "CNBC — This robotics stock lost half its value. Here's why Citi says it's a buy",
+      "url": "https://www.cnbc.com/2026/11/25/a-robotics-stock-lost-half-its-value-heres-why-citi-says-its-a-buy-.html",
+      "ts": 1795616823000
+    },
+    {
+      "time": "9:26 AM",
+      "title": "CNBC — Army plans to detonate U.S. stockpile of lead azide in Iowa",
+      "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
+      "ts": 1795616816000
+    },
+    {
+      "time": "9:26 AM",
+      "title": "Investing.com — Why is Nebius stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-5050956",
+      "ts": 1795616785000
+    },
+    {
+      "time": "9:26 AM",
+      "title": "Investing.com — Why is Braemar Hotels & Resorts stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-braemar-hotels--resorts-stock-surging-today-93CH-5050955",
+      "ts": 1795616769000
+    },
+    {
+      "time": "9:24 AM",
+      "title": "Investing.com — Deere forecasts 2027 profit below estimates as farm equipment recovery remains muted",
+      "url": "https://www.investing.com/news/stock-market-news/deere-forecasts-fiscal-2027-net-income-below-estimates-5050370",
+      "ts": 1795616662000
+    },
+    {
       "time": "9:24 AM",
       "title": "CNBC — Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
       "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
       "ts": 1795616644000
+    },
+    {
+      "time": "9:23 AM",
+      "title": "CNBC — CNBC Insurance Pro: Should I get pay-per-mile car insurance in New York?",
+      "url": "https://www.cnbc.com/select/how-to-save-on-car-insurance-in-new-york/",
+      "ts": 1795616621000
     },
     {
       "time": "9:18 AM",
@@ -258,54 +306,6 @@
       "title": "CNBC — Our top 10 things to watch in the stock market Wednesday",
       "url": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
       "ts": 1795616130000
-    },
-    {
-      "time": "9:14 AM",
-      "title": "MarketWatch — U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
-      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
-      "ts": 1795616040000
-    },
-    {
-      "time": "9:13 AM",
-      "title": "MarketWatch — Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-      "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-      "ts": 1795615980000
-    },
-    {
-      "time": "9:10 AM",
-      "title": "Bloomberg — NYC Private School to Buy Farm Previously Owned by Bankrupt Peer",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/nyc-private-school-to-buy-farm-previously-owned-by-bankrupt-peer",
-      "ts": 1795615835000
-    },
-    {
-      "time": "9:04 AM",
-      "title": "CNBC — Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
-      "url": "https://www.cnbc.com/2026/11/25/kilmar-brego-garca-a-salvadoran-national-mistakenly-deported-from-the-us-arrives-in-spain-.html",
-      "ts": 1795615481000
-    },
-    {
-      "time": "9:03 AM",
-      "title": "WSJ Markets — Dollar Stays Higher After Slew of U.S. Data",
-      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "ts": 1795615380000
-    },
-    {
-      "time": "9:02 AM",
-      "title": "Investing.com — Tuesday insider moves: Palantir, Sonida, Slide Insurance top the list",
-      "url": "https://www.investing.com/news/stock-market-news/tuesday-insider-moves-palantir-sonida-slide-insurance-top-the-list-93CH-5050882",
-      "ts": 1795615370000
-    },
-    {
-      "time": "9:02 AM",
-      "title": "Investing.com — Coco Pool II Corp. completes IPO, lists on TSX Venture Exchange",
-      "url": "https://www.investing.com/news/stock-market-news/coco-pool-ii-corp-completes-ipo-lists-on-tsx-venture-exchange-432SI-5050855",
-      "ts": 1795615328000
-    },
-    {
-      "time": "9:01 AM",
-      "title": "Bloomberg — Stocks Meltdown Spills Into Unlikely Market, Sinking Carry Trade",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade",
-      "ts": 1795615271000
     }
   ]
 }
