@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 5:32 PM ET",
+  "generated_at": "Nov 25, 2026, 5:36 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795645978398,
+  "updated_ts": 1795646177885,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "5:31 PM",
+      "title": "Bloomberg — Next 20 Days Is ‘Mission Critical’ for Retailers: Yih",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/next-20-days-is-mission-critical-for-retailers-yih-video",
+      "ts": 1795645917000
+    },
+    {
       "time": "5:26 PM",
       "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
       "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
@@ -302,12 +308,6 @@
       "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
       "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9535388e?mod=rss_markets_main",
       "ts": 1795644000000
-    },
-    {
-      "time": "4:57 PM",
-      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f29f7572?mod=rss_markets_main",
-      "ts": 1795643820000
     }
   ]
 }
