@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 5:28 AM ET",
+  "generated_at": "Nov 25, 2026, 5:32 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795602520539,
+  "updated_ts": 1795602726137,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -273,6 +273,12 @@
     },
     {
       "time": "5:12 AM",
+      "title": "Bloomberg — Dangote Hires Veteran Oil Trader Jonathan Zarembok From Equinor",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-hires-veteran-oil-trader-jonathan-zarembok-from-equinor",
+      "ts": 1795601555000
+    },
+    {
+      "time": "5:12 AM",
       "title": "MarketWatch — This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
       "url": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
       "ts": 1795601520000
@@ -300,12 +306,6 @@
       "title": "Investing.com — Workday shares sink 10% premarket as softer outlook overshadows Q3 beat",
       "url": "https://www.investing.com/news/stock-market-news/workday-shares-fall-28-in-choppy-trading-after-thirdquarter-earnings-beat-5049010",
       "ts": 1795601044000
-    },
-    {
-      "time": "5:01 AM",
-      "title": "MarketWatch — NBA star Kevin Durant lists Arizona mansion for $13.9 million, a year after trade to Houston",
-      "url": "https://www.marketwatch.com/story/nba-star-kevin-durant-lists-arizona-mansion-for-13-9-million-a-year-after-trade-to-houston-1b0ae57e?mod=mw_rss_topstories",
-      "ts": 1795600860000
     }
   ]
 }
