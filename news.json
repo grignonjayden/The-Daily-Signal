@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:52 PM ET",
+  "generated_at": "Nov 25, 2026, 4:55 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795643541834,
+  "updated_ts": 1795643746263,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -24,6 +24,16 @@
       "ts": 1795616990000
     },
     {
+      "title": "Nvidia’s stock has given back more than half of Monday’s rally as dip buyers cash in",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+      "snippet": "Based on where retail investors bought Nvidia’s stock on the dip last week, their gains are nearly all gone, according to Vanda Research.",
+      "image": "https://images.mktw.net/im-31262008",
+      "time": "Nov 25, 4:50 PM",
+      "coverage": 4,
+      "ts": 1795643400000
+    },
+    {
       "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
@@ -44,6 +54,17 @@
       "ts": 1795640408000
     },
     {
+      "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "snippet": "Natural gas futures ended the session lower after the EIA’s weekly storage report showed a 24 Bcf draw.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 4:32 PM",
+      "coverage": 4,
+      "ts": 1795642320000
+    },
+    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -54,16 +75,6 @@
       "ts": 1795551400000
     },
     {
-      "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
-      "snippet": "This tape has not been kind to Nvidia.",
-      "image": "https://images.mktw.net/im-09631159",
-      "time": "Nov 25, 2:43 PM",
-      "coverage": 2,
-      "ts": 1795635780000
-    },
-    {
       "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
@@ -72,16 +83,6 @@
       "time": "Nov 25, 8:29 AM",
       "coverage": 4,
       "ts": 1795613399000
-    },
-    {
-      "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
-      "snippet": "The Nasdaq composite plunged as much as 4.5% Wednesday before paring losses.",
-      "image": "https://images.wsj.net/im-02216921",
-      "time": "Nov 25, 4:48 PM",
-      "coverage": 3,
-      "ts": 1795643280000
     },
     {
       "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.33%",
@@ -238,6 +239,18 @@
   ],
   "ticker": [
     {
+      "time": "4:50 PM",
+      "title": "MarketWatch — Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
+      "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+      "ts": 1795643400000
+    },
+    {
+      "time": "4:48 PM",
+      "title": "WSJ Markets — Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+      "url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
+      "ts": 1795643280000
+    },
+    {
       "time": "4:44 PM",
       "title": "Investing.com — Vertex shares drop 7.5% as FDA extends review for kidney drug povetacicept",
       "url": "https://www.investing.com/news/stock-market-news/vertex-shares-drop-75-as-fda-extends-review-for-kidney-drug-povetacicept-5051552",
@@ -260,12 +273,6 @@
       "title": "MarketWatch — HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
       "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
       "ts": 1795642560000
-    },
-    {
-      "time": "4:32 PM",
-      "title": "WSJ Markets — U.S. Natural Gas Futures End Lower As December Contract Expires",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "ts": 1795642320000
     },
     {
       "time": "4:30 PM",
@@ -302,12 +309,6 @@
       "title": "CNBC — Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
       "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
       "ts": 1795642007000
-    },
-    {
-      "time": "4:26 PM",
-      "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
-      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-      "ts": 1795641996000
     }
   ]
 }
