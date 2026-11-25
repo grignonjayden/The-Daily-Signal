@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:21 AM ET",
+  "generated_at": "Nov 25, 2026, 11:24 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795623676902,
+  "updated_ts": 1795623882930,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -10,7 +10,7 @@
       "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
       "image": "https://images.mktw.net/im-58425830",
       "time": "Nov 25, 10:03 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795618980000
     },
     {
@@ -20,7 +20,7 @@
       "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
       "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
       "time": "Nov 25, 9:29 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795616990000
     },
     {
@@ -34,14 +34,14 @@
       "ts": 1795616940000
     },
     {
-      "title": "Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-      "snippet": "Based on where retail investors bought Nvidia’s stock on the dip last week, their gains are nearly all gone, according to Vanda Research.",
-      "image": "https://images.mktw.net/im-31262008",
-      "time": "Nov 25, 10:43 AM",
-      "coverage": 3,
-      "ts": 1795621380000
+      "title": "US finds no evidence Chinese intelligence directed Jensen Huang affair, WSJ says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-finds-no-evidence-chinese-intelligence-directed-jensen-huang-affair-wsj-says-5051185",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEMA9126_1200_L.jpg",
+      "time": "Nov 25, 11:01 AM",
+      "coverage": 6,
+      "ts": 1795622475000
     },
     {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
@@ -50,8 +50,18 @@
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795551400000
+    },
+    {
+      "title": "Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+      "snippet": "Based on where retail investors bought Nvidia’s stock on the dip last week, their gains are nearly all gone, according to Vanda Research.",
+      "image": "https://images.mktw.net/im-31262008",
+      "time": "Nov 25, 10:43 AM",
+      "coverage": 3,
+      "ts": 1795621380000
     },
     {
       "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Deal",
@@ -85,6 +95,16 @@
       "ts": 1795519556000
     },
     {
+      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits-5051214",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1HM_L.jpg",
+      "time": "Nov 25, 11:18 AM",
+      "coverage": 3,
+      "ts": 1795623520000
+    },
+    {
       "title": "U.S. Natural Gas Steady as December Contract Set to Expire",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
@@ -96,23 +116,14 @@
       "ts": 1795615260000
     },
     {
-      "title": "Why is Applied Materials stock sliding today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-sliding-today-93CH-5051147",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEJ2C0GJ_L.jpg",
-      "time": "Nov 25, 10:33 AM",
-      "ts": 1795620821000
-    },
-    {
-      "title": "CoreWeave bonds plunge as 2031 yield surges to 17.91%; Shares drop 10%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/coreweave-bonds-plunge-as-2031-yield-surges-to-1791-shares-drop-10-5051151",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
-      "time": "Nov 25, 10:37 AM",
-      "coverage": 2,
-      "ts": 1795621069000
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
     },
     {
       "title": "JPMorgan Backs Drone Engine Maker’s $10 Million Muni Bond Sale",
@@ -134,16 +145,6 @@
       "time": "Nov 25, 9:38 AM",
       "coverage": 2,
       "ts": 1795617488000
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 5,
-      "ts": 1795456173000
     }
   ],
   "outlets": [
@@ -238,6 +239,18 @@
   ],
   "ticker": [
     {
+      "time": "11:21 AM",
+      "title": "MarketWatch — What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing",
+      "url": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
+      "ts": 1795623660000
+    },
+    {
+      "time": "11:20 AM",
+      "title": "CNBC — 10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+      "ts": 1795623657000
+    },
+    {
       "time": "11:19 AM",
       "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -268,6 +281,24 @@
       "ts": 1795623215000
     },
     {
+      "time": "11:09 AM",
+      "title": "Investing.com — Wall Street back in correction territory amid deepening rout, Nasdaq plunges 4%",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "ts": 1795622968000
+    },
+    {
+      "time": "11:08 AM",
+      "title": "Investing.com — Fitch upgrades Cinemark to ‘BB’ on box office recovery and lower leverage",
+      "url": "https://www.investing.com/news/stock-market-news/fitch-upgrades-cinemark-to-bb-on-box-office-recovery-and-lower-leverage-5051203",
+      "ts": 1795622906000
+    },
+    {
+      "time": "11:05 AM",
+      "title": "Investing.com — Wedbush starts Robinhood, Coinbase at Outperform in fintech coverage launch",
+      "url": "https://www.investing.com/news/stock-market-news/wedbush-starts-robinhood-coinbase-at-outperform-in-fintech-coverage-launch-5051199",
+      "ts": 1795622757000
+    },
+    {
       "time": "11:05 AM",
       "title": "CNBC — Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
       "url": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
@@ -278,36 +309,6 @@
       "title": "CNBC — U.S. proposes new tariffs on 14 trading partners, including China and the EU",
       "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
       "ts": 1795622572000
-    },
-    {
-      "time": "11:00 AM",
-      "title": "CNBC — Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
-      "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
-      "ts": 1795622445000
-    },
-    {
-      "time": "11:00 AM",
-      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "ts": 1795622400000
-    },
-    {
-      "time": "10:57 AM",
-      "title": "CNBC — These low-volatility stocks are shining in November as markets shudder",
-      "url": "https://www.cnbc.com/2026/11/25/low-volatility-stocks-november-2026.html",
-      "ts": 1795622275000
-    },
-    {
-      "time": "10:55 AM",
-      "title": "CNBC — Saudi national charged in OpenAI bugging to be released on $1 million bond",
-      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-      "ts": 1795622140000
-    },
-    {
-      "time": "10:49 AM",
-      "title": "Bloomberg — Hassett Sees a “Goldilocks” Economy",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/hassett-sees-a-goldilocks-economy-video",
-      "ts": 1795621787000
     }
   ]
 }
