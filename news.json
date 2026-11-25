@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:41 AM ET",
+  "generated_at": "Nov 25, 2026, 11:44 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795624894494,
+  "updated_ts": 1795625095986,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -10,7 +10,7 @@
       "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
       "image": "https://images.mktw.net/im-58425830",
       "time": "Nov 25, 10:03 AM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795618980000
     },
     {
@@ -20,7 +20,7 @@
       "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
       "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
       "time": "Nov 25, 9:29 AM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795616990000
     },
     {
@@ -34,14 +34,14 @@
       "ts": 1795616940000
     },
     {
-      "title": "US finds no evidence Chinese intelligence directed Jensen Huang affair, WSJ says",
+      "title": "US finds no evidence China directed executive to spy on Nvidia CEO, WSJ reports",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-finds-no-evidence-chinese-intelligence-directed-jensen-huang-affair-wsj-says-5051185",
+      "url": "https://www.investing.com/news/stock-market-news/us-finds-no-evidence-china-directed-executive-to-spy-on-nvidia-ceo-wsj-reports-5051236",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEMA9126_1200_L.jpg",
-      "time": "Nov 25, 11:01 AM",
-      "coverage": 6,
-      "ts": 1795622475000
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1IR_L.jpg",
+      "time": "Nov 25, 11:42 AM",
+      "coverage": 4,
+      "ts": 1795624958000
     },
     {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
@@ -100,9 +100,9 @@
       "url": "https://www.investing.com/news/stock-market-news/anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits-5051214",
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1HM_L.jpg",
-      "time": "Nov 25, 11:18 AM",
+      "time": "Nov 25, 11:30 AM",
       "coverage": 3,
-      "ts": 1795623520000
+      "ts": 1795624256000
     },
     {
       "title": "U.S. Natural Gas Steady as December Contract Set to Expire",
@@ -126,17 +126,6 @@
       "ts": 1795456173000
     },
     {
-      "title": "JPMorgan Backs Drone Engine Maker’s $10 Million Muni Bond Sale",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-backs-drone-engine-maker-s-10-million-muni-bond-sale",
-      "snippet": "A drone engine manufacturer is making its debut in the US municipal bond market with a familiar name standing behind the debt: JPMorgan Chase & Co.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 10:20 AM",
-      "coverage": 2,
-      "ts": 1795620002000
-    },
-    {
       "title": "Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
@@ -145,6 +134,17 @@
       "time": "Nov 25, 9:38 AM",
       "coverage": 2,
       "ts": 1795617488000
+    },
+    {
+      "title": "Latest Oil Market News and Analysis for Nov. 25",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
+      "snippet": "Oil edged higher in thin trading as escalating attacks in the Middle East clouded the recovery in crude shipments from the region in recent months.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 6:06 PM",
+      "coverage": 3,
+      "ts": 1795561589000
     }
   ],
   "outlets": [
@@ -197,6 +197,26 @@
       "ts": 1795613400000
     },
     {
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+      "snippet": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 2:00 PM",
+      "ts": 1795546800000
+    },
+    {
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "snippet": "Federal Reserve announces College Fed Challenge winners",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 20, 4:15 PM",
+      "ts": 1795209300000
+    },
+    {
       "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
@@ -219,6 +239,60 @@
   ],
   "ticker": [
     {
+      "time": "11:42 AM",
+      "title": "CNBC — Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
+      "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
+      "ts": 1795624951000
+    },
+    {
+      "time": "11:40 AM",
+      "title": "Globe and Mail — Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
+      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
+      "ts": 1795624858000
+    },
+    {
+      "time": "11:36 AM",
+      "title": "Investing.com — Bayer expands oncology pipeline with up to $3.25 billion Hansoh drug agreement",
+      "url": "https://www.investing.com/news/stock-market-news/bayer-expands-oncology-pipeline-with-up-to-325-billion-hansoh-drug-agreement-5051135",
+      "ts": 1795624608000
+    },
+    {
+      "time": "11:36 AM",
+      "title": "Investing.com — Fitch upgrades Cinemark to ‘BB’ on box office recovery and lower leverage",
+      "url": "https://www.investing.com/news/stock-market-news/fitch-upgrades-cinemark-to-bb-on-box-office-recovery-and-lower-leverage-5051203",
+      "ts": 1795624595000
+    },
+    {
+      "time": "11:36 AM",
+      "title": "Investing.com — Michael Burry sells remaining Nasdaq 100 puts, says portfolio is long",
+      "url": "https://www.investing.com/news/stock-market-news/michael-burry-sells-remaining-nasdaq-100-puts-says-portfolio-is-long-5051231",
+      "ts": 1795624587000
+    },
+    {
+      "time": "11:36 AM",
+      "title": "Investing.com — Givaudan, Firmenich, and IFF hit with €471.9 million EU antitrust fine",
+      "url": "https://www.investing.com/news/stock-market-news/givaudan-firmenich-and-iff-hit-with-4719-million-eu-antitrust-fine-5051224",
+      "ts": 1795624581000
+    },
+    {
+      "time": "11:35 AM",
+      "title": "Investing.com — Poland stocks lower at close of trade; WIG30 down 1.48%",
+      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-148-5051232",
+      "ts": 1795624503000
+    },
+    {
+      "time": "11:32 AM",
+      "title": "CNBC — There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
+      "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html",
+      "ts": 1795624375000
+    },
+    {
+      "time": "11:30 AM",
+      "title": "Investing.com — Denmark stocks lower at close of trade; OMX Copenhagen 20 down 0.81%",
+      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-081-5051219",
+      "ts": 1795624204000
+    },
+    {
       "time": "11:30 AM",
       "title": "WSJ Markets — Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
       "url": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91?mod=rss_markets_main",
@@ -235,60 +309,6 @@
       "title": "WSJ Markets — U.S. Crude Oil Stockpiles Rise for Third Straight Week",
       "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-90dfcab0?mod=rss_markets_main",
       "ts": 1795624140000
-    },
-    {
-      "time": "11:21 AM",
-      "title": "MarketWatch — What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing",
-      "url": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
-      "ts": 1795623660000
-    },
-    {
-      "time": "11:20 AM",
-      "title": "CNBC — 10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-      "ts": 1795623657000
-    },
-    {
-      "time": "11:19 AM",
-      "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795623588000
-    },
-    {
-      "time": "11:19 AM",
-      "title": "Bloomberg — Core PCE Momentum Remained Elevated in October",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/core-pce-momentum-remained-elevated-in-october-video",
-      "ts": 1795623574000
-    },
-    {
-      "time": "11:17 AM",
-      "title": "CNBC — Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "ts": 1795623433000
-    },
-    {
-      "time": "11:15 AM",
-      "title": "Bloomberg — The RealReal CEO Sees Resale’s Structural Shift",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-realreal-ceo-sees-resale-s-structural-shift-video",
-      "ts": 1795623346000
-    },
-    {
-      "time": "11:15 AM",
-      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "ts": 1795623300000
-    },
-    {
-      "time": "11:13 AM",
-      "title": "Bloomberg — Europe Diesel Demand on Course to Fall Below Covid Levels",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/europe-diesel-demand-on-course-to-fall-below-covid-levels",
-      "ts": 1795623215000
-    },
-    {
-      "time": "11:09 AM",
-      "title": "Investing.com — Wall Street back in correction territory amid deepening rout, Nasdaq plunges 4%",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-      "ts": 1795622968000
     }
   ]
 }
