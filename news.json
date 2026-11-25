@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 5:08 AM ET",
+  "generated_at": "Nov 25, 2026, 5:11 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795601299829,
+  "updated_ts": 1795601499804,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -243,6 +243,12 @@
       "ts": 1795601100000
     },
     {
+      "time": "5:04 AM",
+      "title": "Bloomberg — Aareal Bank Nears Commercial Real Estate SRT With 12% Premium",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/aareal-bank-nears-commercial-real-estate-srt-with-12-premium",
+      "ts": 1795601072000
+    },
+    {
       "time": "5:01 AM",
       "title": "MarketWatch — NBA star Kevin Durant lists Arizona mansion for $13.9 million, a year after trade to Houston",
       "url": "https://www.marketwatch.com/story/nba-star-kevin-durant-lists-arizona-mansion-for-13-9-million-a-year-after-trade-to-houston-1b0ae57e?mod=mw_rss_topstories",
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
       "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
       "ts": 1795599780000
-    },
-    {
-      "time": "4:42 AM",
-      "title": "CNBC — Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
-      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-      "ts": 1795599735000
     }
   ]
 }
