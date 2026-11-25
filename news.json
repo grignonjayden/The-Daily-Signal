@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:50 PM ET",
+  "generated_at": "Nov 25, 2026, 2:54 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795636250841,
+  "updated_ts": 1795636454652,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -238,6 +238,18 @@
   ],
   "ticker": [
     {
+      "time": "2:52 PM",
+      "title": "CNBC — SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "ts": 1795636367000
+    },
+    {
+      "time": "2:52 PM",
+      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795636345000
+    },
+    {
       "time": "2:43 PM",
       "title": "MarketWatch — Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
       "url": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
@@ -260,12 +272,6 @@
       "title": "Investing.com — EU postpones discussion to approve Tesla’s self-driving tech",
       "url": "https://www.investing.com/news/stock-market-news/eu-postpones-discussion-to-approve-teslas-selfdriving-tech-5050292",
       "ts": 1795635380000
-    },
-    {
-      "time": "2:36 PM",
-      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795635375000
     },
     {
       "time": "2:35 PM",
@@ -302,12 +308,6 @@
       "title": "Bloomberg — Still Mispricing in Private Markets: Weinstein",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/still-mispricing-in-private-markets-weinstein-video",
       "ts": 1795635001000
-    },
-    {
-      "time": "2:30 PM",
-      "title": "WSJ Markets — Stocks Pare Losses as Anthropic Shares Swing Higher",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
-      "ts": 1795635000000
     }
   ]
 }
