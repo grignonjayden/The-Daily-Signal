@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:44 AM ET",
+  "generated_at": "Nov 25, 2026, 11:48 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795625095986,
+  "updated_ts": 1795625295342,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -105,15 +105,14 @@
       "ts": 1795624256000
     },
     {
-      "title": "U.S. Natural Gas Steady as December Contract Set to Expire",
+      "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "snippet": "U.S. natural gas futures were steady in early trading with the Nymex December contract expiring at the close.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 9:01 AM",
+      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
+      "snippet": "Treasury yields extended their fall after a flurry of U.S. economic data bolstered expectations for the Federal Reserve to raise rates in December.",
+      "image": "https://images.wsj.net/im-88976063",
+      "time": "Nov 25, 10:21 AM",
       "coverage": 3,
-      "ts": 1795615260000
+      "ts": 1795620060000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -239,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "11:45 AM",
+      "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "ts": 1795625100000
+    },
+    {
       "time": "11:42 AM",
       "title": "CNBC — Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
       "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
@@ -249,6 +254,12 @@
       "title": "Globe and Mail — Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
       "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
       "ts": 1795624858000
+    },
+    {
+      "time": "11:38 AM",
+      "title": "Bloomberg — Russian Refinery Runs Plunge to Lowest in Decades, Rystad Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/russian-refinery-runs-plunge-to-lowest-in-decades-rystad-says",
+      "ts": 1795624696000
     },
     {
       "time": "11:36 AM",
@@ -297,18 +308,6 @@
       "title": "WSJ Markets — Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
       "url": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91?mod=rss_markets_main",
       "ts": 1795624200000
-    },
-    {
-      "time": "11:30 AM",
-      "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "ts": 1795624200000
-    },
-    {
-      "time": "11:29 AM",
-      "title": "WSJ Markets — U.S. Crude Oil Stockpiles Rise for Third Straight Week",
-      "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-90dfcab0?mod=rss_markets_main",
-      "ts": 1795624140000
     }
   ]
 }
