@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:42 AM ET",
+  "generated_at": "Nov 25, 2026, 9:45 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795617754427,
+  "updated_ts": 1795617955722,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -236,10 +236,16 @@
   ],
   "ticker": [
     {
-      "time": "9:41 AM",
+      "time": "9:42 AM",
       "title": "CNBC — Stocks tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795617695000
+      "ts": 1795617768000
+    },
+    {
+      "time": "9:40 AM",
+      "title": "MarketWatch — Dell sees sales more than double — but its stock falls anyway",
+      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "ts": 1795617600000
     },
     {
       "time": "9:39 AM",
@@ -300,12 +306,6 @@
       "title": "Investing.com — Deere forecasts 2027 profit below estimates as farm equipment recovery remains muted",
       "url": "https://www.investing.com/news/stock-market-news/deere-forecasts-fiscal-2027-net-income-below-estimates-5050370",
       "ts": 1795616662000
-    },
-    {
-      "time": "9:24 AM",
-      "title": "CNBC — Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
-      "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
-      "ts": 1795616644000
     }
   ]
 }
