@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:29 AM ET",
+  "generated_at": "Nov 25, 2026, 10:33 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795620591252,
+  "updated_ts": 1795620793511,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -176,6 +176,25 @@
       "ts": 1795615824000
     },
     {
+      "title": "Economic and Social Reports, November 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261125/dq261125a-eng.htm",
+      "snippet": "There are five new articles in today's release of Economic and Social Reports.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/TunneysPasture2022.jpg/330px-TunneysPasture2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 8:30 AM",
+      "ts": 1795613400000
+    },
+    {
+      "title": "Food services and drinking places, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261125/dq261125b-eng.htm",
+      "snippet": "Total sales in the food services and drinking places subsector increased 0.2% in September to $8.9 billion, the ninth consecutive monthly increase.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261125/cg261125b001-eng.png",
+      "time": "Nov 25, 8:30 AM",
+      "ts": 1795613400000
+    },
+    {
       "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
@@ -184,24 +203,6 @@
       "fallback_image": true,
       "time": "Nov 24, 2:00 PM",
       "ts": 1795546800000
-    },
-    {
-      "title": "Farm income, 2025 (revised data)",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261124/dq261124a-eng.htm",
-      "snippet": "Realized net income for Canadian farmers rose $211.4 million (+2.5%) to $8.6 billion in 2025, following a decline in 2024 (-33.3%). Excluding cannabis, realized net income increased by 11.7% to $9.9 billion.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261124/cg261124a001-eng.png",
-      "time": "Nov 24, 8:30 AM",
-      "ts": 1795527000000
-    },
-    {
-      "title": "Farm cash receipts, January to September 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261124/dq261124b-eng.htm",
-      "snippet": "Farm cash receipts in Canada totalled $79.7 billion in the first three quarters of 2026, up $5.7 billion (+7.7%) from the same period in 2025. Receipts for crops (+$4.4 billion) and livestock (+$2.2 billion)…",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261124/cg261124b001-eng.png",
-      "time": "Nov 24, 8:30 AM",
-      "ts": 1795527000000
     },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -236,10 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "10:32 AM",
+      "title": "CNBC — Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
+      "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
+      "ts": 1795620720000
+    },
+    {
       "time": "10:27 AM",
       "title": "CNBC — Best low-interest personal loans of December 2026",
       "url": "https://www.cnbc.com/select/best-low-interest-personal-loans/",
       "ts": 1795620476000
+    },
+    {
+      "time": "10:27 AM",
+      "title": "Bloomberg — DoubleLine’s Cohen Turns AI Debt Lover From Hater After Selloff",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/doubleline-s-cohen-turns-ai-debt-lover-from-hater-after-selloff",
+      "ts": 1795620471000
     },
     {
       "time": "10:27 AM",
@@ -294,18 +307,6 @@
       "title": "CNBC — Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
       "url": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html",
       "ts": 1795618801000
-    },
-    {
-      "time": "10:00 AM",
-      "title": "WSJ Markets — BOE’s Bailey Sees Lower Peak For Inflation If Energy Prices Stay Where They Are",
-      "url": "https://www.wsj.com/pro/central-banking/boes-bailey-sees-lower-peak-for-inflation-if-energy-prices-stay-where-they-are-8678fd4f?mod=rss_markets_main",
-      "ts": 1795618800000
-    },
-    {
-      "time": "9:59 AM",
-      "title": "Globe and Mail — Joly says she held ‘productive’ meeting with Stellantis as talks continue over future of Brampton plant",
-      "url": "https://www.theglobeandmail.com/business/article-melanie-joly-meeting-with-stellantis-brampton-plant/",
-      "ts": 1795618787000
     }
   ]
 }
