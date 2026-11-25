@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:32 AM ET",
+  "generated_at": "Nov 25, 2026, 2:35 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795591957472,
+  "updated_ts": 1795592159045,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -261,6 +261,12 @@
       "ts": 1795591134000
     },
     {
+      "time": "2:13 AM",
+      "title": "Bloomberg — Neuberg Diagnostics Is Said to Pick Banks for $200 Million IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/neuberg-diagnostics-is-said-to-pick-banks-for-200-million-ipo",
+      "ts": 1795590794000
+    },
+    {
       "time": "2:12 AM",
       "title": "Investing.com — Indra raises 2030 revenue target to over €12 bln, margin goal to 12.5%",
       "url": "https://www.investing.com/news/stock-market-news/indra-raises-2030-revenue-target-to-over-12-bln-margin-goal-to-125-5049850",
@@ -301,12 +307,6 @@
       "title": "Investing.com — BLACK FRIDAY IS LIVE: The lowest price of the year is in with 60% off InvestingPro",
       "url": "https://www.investing.com/news/stock-market-news/black-friday-is-live-the-lowest-price-of-the-year-is-in-with-60-off-investingpro-5048983",
       "ts": 1795589527000
-    },
-    {
-      "time": "1:51 AM",
-      "title": "Bloomberg — Danantara Reports $634 Billion in Assets in First Audited Report",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/danantara-reports-634-billion-in-assets-in-first-audited-report",
-      "ts": 1795589496000
     }
   ]
 }
