@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:40 AM ET",
+  "generated_at": "Nov 25, 2026, 3:43 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795596024526,
+  "updated_ts": 1795596226200,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -273,12 +273,6 @@
       "ts": 1795594700000
     },
     {
-      "time": "2:57 AM",
-      "title": "Bloomberg — China Dismisses US Tariff Prospect as ‘Political Maneuvering’",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-dismisses-us-tariff-prospect-as-political-maneuvering",
-      "ts": 1795593441000
-    },
-    {
       "time": "2:54 AM",
       "title": "Investing.com — Australian regulator finds more suspected audit misconduct at Big Four firms",
       "url": "https://www.investing.com/news/stock-market-news/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms-5049824",
@@ -307,6 +301,12 @@
       "title": "Bloomberg — Botswana to Take 5% Free Stake in Mines Dug on State Concessions",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/botswana-to-take-5-free-stake-in-mines-dug-on-state-concessions",
       "ts": 1795592531000
+    },
+    {
+      "time": "2:42 AM",
+      "title": "WSJ Markets — Dollar Rises Ahead of U.S. PCE Data",
+      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "ts": 1795592520000
     }
   ]
 }
