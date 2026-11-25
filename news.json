@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:27 AM ET",
+  "generated_at": "Nov 25, 2026, 4:31 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795598867387,
+  "updated_ts": 1795599069390,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -268,6 +268,12 @@
     },
     {
       "time": "4:18 AM",
+      "title": "CNBC — Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
+      "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
+      "ts": 1795598317000
+    },
+    {
+      "time": "4:18 AM",
       "title": "Investing.com — Why is Dell Technologies stock sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-sliding-today-93CH-5050077",
       "ts": 1795598311000
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
       "url": "https://www.wsj.com/finance/stocks/newly-listed-airtel-mobile-to-replace-ig-group-in-ftse-100-index-review-ad6b860c?mod=rss_markets_main",
       "ts": 1795596840000
-    },
-    {
-      "time": "3:53 AM",
-      "title": "Bloomberg — China’s Surprise Soyoil Export Boom Cools as India Turns to Palm",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/china-s-surprise-soyoil-export-boom-cools-as-india-turns-to-palm",
-      "ts": 1795596831000
     }
   ]
 }
