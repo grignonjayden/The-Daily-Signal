@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 6:47 PM ET",
+  "generated_at": "Nov 25, 2026, 6:50 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795650446981,
+  "updated_ts": 1795650649998,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -54,6 +54,17 @@
       "ts": 1795616990000
     },
     {
+      "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "snippet": "Natural gas futures ended the session lower after the EIA’s weekly storage report showed a 24 Bcf draw.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 4:32 PM",
+      "coverage": 5,
+      "ts": 1795642320000
+    },
+    {
       "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
@@ -82,17 +93,6 @@
       "time": "Nov 25, 6:00 PM",
       "coverage": 4,
       "ts": 1795647624000
-    },
-    {
-      "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "snippet": "Natural gas futures ended the session lower after the EIA’s weekly storage report showed a 24 Bcf draw.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 4:32 PM",
-      "coverage": 4,
-      "ts": 1795642320000
     },
     {
       "title": "Latest Oil Market News and Analysis for Nov. 26",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "6:43 PM",
+      "title": "Investing.com — U.S. stock futures steady after whipsaw session on Wall St",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-whipsaw-session-on-wall-st-5051753",
+      "ts": 1795650223000
+    },
+    {
       "time": "6:30 PM",
       "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
       "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
@@ -303,12 +309,6 @@
       "title": "Investing.com — Cathay General Bancorp stock rises on $200M buyback expansion",
       "url": "https://www.investing.com/news/stock-market-news/cathay-general-bancorp-stock-rises-on-200m-buyback-expansion-5051664",
       "ts": 1795645921000
-    },
-    {
-      "time": "5:31 PM",
-      "title": "Bloomberg — Next 20 Days Is ‘Mission Critical’ for Retailers: Yih",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/next-20-days-is-mission-critical-for-retailers-yih-video",
-      "ts": 1795645917000
     }
   ]
 }
