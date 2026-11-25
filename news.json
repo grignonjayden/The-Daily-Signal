@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 6:13 PM ET",
+  "generated_at": "Nov 25, 2026, 6:17 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795648416664,
+  "updated_ts": 1795648626550,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -94,6 +94,17 @@
       "ts": 1795647624000
     },
     {
+      "title": "Latest Oil Market News and Analysis for Nov. 26",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
+      "snippet": "Oil held a two-day gain as continued hostilities in the Middle East threatened to disrupt the recovery in the region’s crude exports.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 6:03 PM",
+      "coverage": 3,
+      "ts": 1795647795000
+    },
+    {
       "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
@@ -113,17 +124,6 @@
       "time": "Nov 25, 5:21 PM",
       "coverage": 3,
       "ts": 1795645305000
-    },
-    {
-      "title": "Compass Delays $380 Million ABS After Data Center Outage",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/compass-delays-380-million-abs-after-data-center-outage",
-      "snippet": "Compass Datacenters has put off a $380 million sale of asset-backed securities after one of its data centers faced an operational disruption and investors dropped out of the offering.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 5:27 PM",
-      "coverage": 2,
-      "ts": 1795645629000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -280,6 +280,12 @@
       "ts": 1795645917000
     },
     {
+      "time": "5:27 PM",
+      "title": "Bloomberg — Compass Delays $380 Million ABS After Data Center Outage",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/compass-delays-380-million-abs-after-data-center-outage",
+      "ts": 1795645629000
+    },
+    {
       "time": "5:26 PM",
       "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
       "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
@@ -302,12 +308,6 @@
       "title": "Investing.com — Enterprise password manager 1Password reports breach of developer systems",
       "url": "https://www.investing.com/news/stock-market-news/enterprise-password-manager-1password-reports-breach-of-developer-systems-5051628",
       "ts": 1795644922000
-    },
-    {
-      "time": "5:11 PM",
-      "title": "MarketWatch — Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-      "ts": 1795644660000
     }
   ]
 }
