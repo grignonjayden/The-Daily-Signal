@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:53 PM ET",
+  "generated_at": "Nov 24, 2026, 8:57 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795571629825,
+  "updated_ts": 1795571832259,
   "articles": [
     {
       "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
@@ -261,6 +261,12 @@
       "ts": 1795570320000
     },
     {
+      "time": "8:30 PM",
+      "title": "Bloomberg — India Pension Funds Pivot to Bonds as Equity Exposure Nears Cap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/india-pension-funds-pivot-to-bonds-as-equity-exposure-nears-cap",
+      "ts": 1795570200000
+    },
+    {
       "time": "8:12 PM",
       "title": "Investing.com — Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
       "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Australia’s Hot Inflation Vindicates RBA’s Hawkish Policy Stance",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
       "ts": 1795566721000
-    },
-    {
-      "time": "7:30 PM",
-      "title": "Investing.com — China Southern orders 50 jets in Boeing’s biggest China deal in nearly a decade",
-      "url": "https://www.investing.com/news/stock-market-news/china-southern-airlines-unit-to-buy-50-boeing-7378-aircraft-5047529",
-      "ts": 1795566625000
     }
   ]
 }
