@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:41 PM ET",
+  "generated_at": "Nov 24, 2026, 10:45 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795578112097,
+  "updated_ts": 1795578315812,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -125,15 +125,15 @@
       "ts": 1795442808000
     },
     {
-      "title": "Latest Oil Market News and Analysis for Nov. 25",
+      "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
-      "snippet": "Oil slipped as traders weighed signs of rising supply against escalating attacks on vessels around the Strait of Hormuz.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
+      "snippet": "Starbucks Corp. has tapped advisers to prepare for a potential sale of its Japan business for several billion dollars, according to people familiar with the matter.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 24, 6:06 PM",
+      "time": "Nov 24, 10:10 PM",
       "coverage": 2,
-      "ts": 1795561589000
+      "ts": 1795576223000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -237,22 +237,34 @@
   ],
   "ticker": [
     {
+      "time": "10:37 PM",
+      "title": "Investing.com — Starbucks weighs sale of Japan business worth several billion dollars - Bloomberg",
+      "url": "https://www.investing.com/news/stock-market-news/starbucks-weighs-sale-of-japan-business-worth-several-billion-dollars--bloomberg-5049634",
+      "ts": 1795577838000
+    },
+    {
+      "time": "10:36 PM",
+      "title": "Investing.com — Starbucks to engage banks for sale of Japan business, Bloomberg News reports",
+      "url": "https://www.investing.com/news/stock-market-news/starbucks-to-engage-banks-for-sale-of-japan-business-bloomberg-news-reports-5049633",
+      "ts": 1795577779000
+    },
+    {
+      "time": "10:35 PM",
+      "title": "Investing.com — Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630",
+      "ts": 1795577725000
+    },
+    {
+      "time": "10:30 PM",
+      "title": "Investing.com — Malaysia Airlines’ parent to buy 10 Boeing 787 Dreamliners, CEO says",
+      "url": "https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604",
+      "ts": 1795577421000
+    },
+    {
       "time": "10:27 PM",
       "title": "WSJ Markets — Singapore Dollar Weakens as Focus Turns to U.S. Econ Data",
       "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
       "ts": 1795577220000
-    },
-    {
-      "time": "10:12 PM",
-      "title": "Investing.com — Malaysia Airlines’ parent to buy 10 Boeing 787 Dreamliners, CEO says",
-      "url": "https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604",
-      "ts": 1795576347000
-    },
-    {
-      "time": "10:10 PM",
-      "title": "Bloomberg — Starbucks Is Said to Engage Banks for Sale of Japan Business",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
-      "ts": 1795576223000
     },
     {
       "time": "9:53 PM",
@@ -295,18 +307,6 @@
       "title": "CNBC — Trump open to pardoning Jensen Huang if needed: NY Post",
       "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
       "ts": 1795572585000
-    },
-    {
-      "time": "9:00 PM",
-      "title": "Investing.com — As chips slide, AI-picked IT stocks remain up 27%-88% – meet the leader",
-      "url": "https://www.investing.com/news/stock-market-news/as-chips-slide-aipicked-it-stocks-remain-up-2788--meet-the-leader-5049536",
-      "ts": 1795572038000
-    },
-    {
-      "time": "9:00 PM",
-      "title": "WSJ Markets — Oil Futures Decline as Traders Weigh Competing Supply Risks",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
-      "ts": 1795572000000
     }
   ]
 }
