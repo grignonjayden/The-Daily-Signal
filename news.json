@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:24 AM ET",
+  "generated_at": "Nov 25, 2026, 11:28 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795623882930,
+  "updated_ts": 1795624085255,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -257,6 +257,12 @@
       "ts": 1795623588000
     },
     {
+      "time": "11:19 AM",
+      "title": "Bloomberg — Core PCE Momentum Remained Elevated in October",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/core-pce-momentum-remained-elevated-in-october-video",
+      "ts": 1795623574000
+    },
+    {
       "time": "11:17 AM",
       "title": "CNBC — Even the price of toys is on the rise. How Americans are scaling back holiday plans",
       "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
@@ -303,12 +309,6 @@
       "title": "CNBC — Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
       "url": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
       "ts": 1795622725000
-    },
-    {
-      "time": "11:02 AM",
-      "title": "CNBC — U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-      "ts": 1795622572000
     }
   ]
 }
