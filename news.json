@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 6:22 AM ET",
+  "generated_at": "Nov 25, 2026, 6:26 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795605774508,
+  "updated_ts": 1795605974247,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "6:21 AM",
+      "title": "Globe and Mail — Business Brief: Behind the arrears rate",
+      "url": "https://www.theglobeandmail.com/business/article-business-brief-behind-the-arrears-rate/",
+      "ts": 1795605716000
+    },
+    {
       "time": "6:10 AM",
       "title": "CNBC — Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
       "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
@@ -300,12 +306,6 @@
       "title": "WSJ Markets — Sterling Expected to Rise Against Euro in 2027",
       "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
       "ts": 1795603080000
-    },
-    {
-      "time": "5:32 AM",
-      "title": "Investing.com — Why is Swatch stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-swatch-stock-surging-today-93CH-5050215",
-      "ts": 1795602736000
     }
   ]
 }
