@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:59 PM ET",
+  "generated_at": "Nov 25, 2026, 5:02 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795643947112,
+  "updated_ts": 1795644149113,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -239,6 +239,18 @@
   ],
   "ticker": [
     {
+      "time": "4:57 PM",
+      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f29f7572?mod=rss_markets_main",
+      "ts": 1795643820000
+    },
+    {
+      "time": "4:56 PM",
+      "title": "CNBC — Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+      "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+      "ts": 1795643803000
+    },
+    {
       "time": "4:55 PM",
       "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
       "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
@@ -297,18 +309,6 @@
       "title": "MarketWatch — How to spot ‘bogus boutiques’ and other Black Friday shopping scams",
       "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
       "ts": 1795642140000
-    },
-    {
-      "time": "4:28 PM",
-      "title": "Investing.com — JPMorgan sees $450B in AI bond issuance in 2027",
-      "url": "https://www.investing.com/news/stock-market-news/jpmorgan-sees-450b-in-ai-bond-issuance-in-2027-5051506",
-      "ts": 1795642104000
-    },
-    {
-      "time": "4:28 PM",
-      "title": "WSJ Markets — U.S. Dollar Slips After Muted Reaction to U.S. Data",
-      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "ts": 1795642080000
     }
   ]
 }
