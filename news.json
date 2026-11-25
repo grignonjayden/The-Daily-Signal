@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 11:29 PM ET",
+  "generated_at": "Nov 24, 2026, 11:32 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795580953828,
+  "updated_ts": 1795581156361,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "11:27 PM",
+      "title": "Globe and Mail — Martha Ford, former Detroit Lions owner with link to auto giants, dies at 101",
+      "url": "https://www.theglobeandmail.com/sports/football/article-martha-ford-former-lions-owner-with-link-to-auto-giants-dies-at-101/",
+      "ts": 1795580844000
+    },
+    {
       "time": "11:25 PM",
       "title": "Bloomberg — Xi Probes Shanghai Boss, Widening Political Shakeup",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/xi-probes-shanghai-boss-widening-political-shakeup-video",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Starbucks weighs sale of Japan business worth several billion dollars - Bloomberg",
       "url": "https://www.investing.com/news/stock-market-news/starbucks-weighs-sale-of-japan-business-worth-several-billion-dollars--bloomberg-5049634",
       "ts": 1795577838000
-    },
-    {
-      "time": "10:36 PM",
-      "title": "Investing.com — Starbucks to engage banks for sale of Japan business, Bloomberg News reports",
-      "url": "https://www.investing.com/news/stock-market-news/starbucks-to-engage-banks-for-sale-of-japan-business-bloomberg-news-reports-5049633",
-      "ts": 1795577779000
     }
   ]
 }
