@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:57 AM ET",
+  "generated_at": "Nov 25, 2026, 1:00 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795586242073,
+  "updated_ts": 1795586444656,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -242,6 +242,12 @@
       "ts": 1795586085000
     },
     {
+      "time": "12:52 AM",
+      "title": "WSJ Markets — Asian Stocks Lower on AI Doubts, Tariff Jitters",
+      "url": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389?mod=rss_markets_main",
+      "ts": 1795585920000
+    },
+    {
       "time": "12:37 AM",
       "title": "Bloomberg — Kochugovindan: Tech Volatility Is Here to Stay",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
@@ -300,12 +306,6 @@
       "title": "Bloomberg — Global Rotation on AI Fears Lifts Indian Stocks to Top Spot",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
       "ts": 1795583060000
-    },
-    {
-      "time": "12:03 AM",
-      "title": "Bloomberg — Malaysia Government Likely to Serve Full Term, Anwar Aide Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
-      "ts": 1795583028000
     }
   ]
 }
