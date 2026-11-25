@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:18 AM ET",
+  "generated_at": "Nov 25, 2026, 8:21 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795612688063,
+  "updated_ts": 1795612889539,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -34,6 +34,16 @@
       "ts": 1795562029000
     },
     {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "image": "https://images.wsj.net/im-52991838",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 5,
+      "ts": 1795557180000
+    },
+    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -42,6 +52,16 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
+    },
+    {
+      "title": "What the options market says to do with Nvidia’s stock — and the rest of the stock market",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-the-options-market-says-to-do-with-nvidias-stock-and-the-rest-of-the-stock-market-de9584ae?mod=mw_rss_topstories",
+      "snippet": "The put-call ratio is sending a strong message about Nvidia’s stock, and history suggests a post-Thanksgiving “bull spread” strategy for the Russell 2000 ETF.",
+      "image": "https://images.mktw.net/im-97940848",
+      "time": "Nov 25, 8:16 AM",
+      "coverage": 3,
+      "ts": 1795612560000
     },
     {
       "title": "Russia’s Elevated Oil Exports Add to Global Supply Surplus",
@@ -53,16 +73,6 @@
       "time": "Nov 25, 7:02 AM",
       "coverage": 4,
       "ts": 1795608160000
-    },
-    {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 4,
-      "ts": 1795557180000
     },
     {
       "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
@@ -104,16 +114,6 @@
       "time": "Nov 23, 5:15 PM",
       "coverage": 6,
       "ts": 1795472100000
-    },
-    {
-      "title": "Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
-      "snippet": "October’s spending report will show how much Americans are actually buying. Plus, why Dell checks whether its AI customers have enough electricity, and why shoppers snapped up an $800 Advent calendar.",
-      "image": "https://images.mktw.net/im-51990443",
-      "time": "Nov 25, 7:20 AM",
-      "coverage": 3,
-      "ts": 1795609200000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "8:20 AM",
+      "title": "CNBC — Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
+      "ts": 1795612834000
+    },
+    {
+      "time": "8:19 AM",
+      "title": "CNBC — Stocks making the biggest moves premarket: Nvidia, Urban Outfitters, Dell, Ambarella & more",
+      "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795612798000
+    },
+    {
+      "time": "8:19 AM",
+      "title": "CNBC — Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795612763000
+    },
+    {
       "time": "8:17 AM",
       "title": "CNBC — Even the price of toys is on the rise. How Americans are scaling back holiday plans",
       "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
@@ -247,6 +265,12 @@
       "title": "CNBC — The Fed is likely to raise rates in December. What it means for your holiday spending",
       "url": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html",
       "ts": 1795612501000
+    },
+    {
+      "time": "8:15 AM",
+      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f29f7572?mod=rss_markets_main",
+      "ts": 1795612500000
     },
     {
       "time": "8:11 AM",
@@ -273,40 +297,16 @@
       "ts": 1795612140000
     },
     {
+      "time": "8:08 AM",
+      "title": "Bloomberg — Tata Steel Weighs Changes to APL Apollo Deal After Backlash",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/tata-steel-weighs-changes-to-apl-apollo-deal-after-backlash",
+      "ts": 1795612137000
+    },
+    {
       "time": "8:07 AM",
       "title": "Globe and Mail — AI stocks slide on fears over infrastructure build out costs",
       "url": "https://www.theglobeandmail.com/business/article-ai-stocks-slide-on-fears-over-infrastructure-build-out-costs/",
       "ts": 1795612028000
-    },
-    {
-      "time": "8:06 AM",
-      "title": "CNBC — Stock futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795611963000
-    },
-    {
-      "time": "8:05 AM",
-      "title": "CNBC — Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-      "ts": 1795611938000
-    },
-    {
-      "time": "8:05 AM",
-      "title": "MarketWatch — Liquidity peaked. First bitcoin fell, then gold and now stocks. How long the downturn will last, according to this veteran strategist.",
-      "url": "https://www.marketwatch.com/story/liquidity-peaked-first-bitcoin-fell-then-gold-and-now-stocks-how-long-the-downturn-will-last-according-to-this-veteran-strategist-bb91d6c4?mod=mw_rss_topstories",
-      "ts": 1795611900000
-    },
-    {
-      "time": "8:04 AM",
-      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-eb63fc1e?mod=rss_markets_main",
-      "ts": 1795611840000
-    },
-    {
-      "time": "8:00 AM",
-      "title": "Globe and Mail — The face of Google in Canada really wants to talk about AI",
-      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-the-face-of-google-in-canada-really-wants-to-talk-about-ai/",
-      "ts": 1795611600000
     }
   ]
 }
