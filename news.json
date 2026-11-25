@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:13 PM ET",
+  "generated_at": "Nov 25, 2026, 2:17 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795634029081,
+  "updated_ts": 1795634230205,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -9,9 +9,9 @@
       "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
       "snippet": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558277-1795524065086-gettyimages-2306584355-vcg111684383910.jpeg?v=1795524128&w=1920&h=1080",
-      "time": "Nov 25, 2:04 PM",
+      "time": "Nov 25, 2:15 PM",
       "coverage": 6,
-      "ts": 1795633460000
+      "ts": 1795634156000
     },
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
