@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:35 AM ET",
+  "generated_at": "Nov 25, 2026, 8:38 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795613702249,
+  "updated_ts": 1795613901787,
   "articles": [
     {
       "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
@@ -44,14 +44,24 @@
       "ts": 1795613157000
     },
     {
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
-      "time": "Nov 24, 8:13 PM",
+      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+      "snippet": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory, or burdensome to U.S. commerce.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354862-1787782636413-gettyimages-2291629463-1568136-port-of-long-beach-ajs-07.jpeg?v=1787782727&w=1920&h=1080",
+      "time": "Nov 25, 8:37 AM",
       "coverage": 5,
-      "ts": 1795569236000
+      "ts": 1795613855000
+    },
+    {
+      "title": "U.S. plans to hike tariffs on China, EU and other partners over subsidized production",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
+      "snippet": "Levies still at the proposal stage, with no strict timelines on implementation, official says",
+      "image": "https://www.theglobeandmail.com/resizer/v2/Q4VIBLF5KFCNTDSUQ2MJ57M5SM.jpg?auth=1caa2d9f94ad675798cb6410a7ff289c414503eb7e070caf81845c5946c4faec&smart=true&width=1668&height=1112",
+      "time": "Nov 25, 8:29 AM",
+      "coverage": 5,
+      "ts": 1795613399000
     },
     {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
@@ -72,16 +82,6 @@
       "time": "Nov 25, 8:28 AM",
       "coverage": 4,
       "ts": 1795613280000
-    },
-    {
-      "title": "TSX futures slip amid deepening tech selloff, U.S. tariff reports",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-deepening-tech-selloff-us-tariff-reports-5050748",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
-      "time": "Nov 25, 8:24 AM",
-      "coverage": 4,
-      "ts": 1795613049000
     },
     {
       "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
@@ -105,14 +105,14 @@
       "ts": 1795608160000
     },
     {
-      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
-      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
-      "time": "Nov 24, 6:25 AM",
-      "coverage": 5,
-      "ts": 1795519556000
+      "title": "Nvidia, chipmakers slide premarket; Dell falls despite upbeat outlook",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-chipmakers-slide-premarket-dell-falls-despite-upbeat-outlook-5050581",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEMAC1IQ_L.jpg",
+      "time": "Nov 25, 7:46 AM",
+      "coverage": 2,
+      "ts": 1795610790000
     },
     {
       "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
@@ -237,16 +237,28 @@
   ],
   "ticker": [
     {
-      "time": "8:31 AM",
+      "time": "8:34 AM",
       "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
       "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "ts": 1795613505000
+      "ts": 1795613694000
+    },
+    {
+      "time": "8:34 AM",
+      "title": "MarketWatch — Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+      "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+      "ts": 1795613640000
     },
     {
       "time": "8:24 AM",
       "title": "Bloomberg — Europe’s Gas Traders Are in for a Volatile Winter",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/europe-s-gas-traders-are-in-for-a-volatile-winter",
       "ts": 1795613056000
+    },
+    {
+      "time": "8:24 AM",
+      "title": "Investing.com — TSX futures slip amid deepening tech selloff, U.S. tariff reports",
+      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-deepening-tech-selloff-us-tariff-reports-5050748",
+      "ts": 1795613049000
     },
     {
       "time": "8:24 AM",
@@ -295,18 +307,6 @@
       "title": "CNBC — The Fed is likely to raise rates in December. What it means for your holiday spending",
       "url": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html",
       "ts": 1795612501000
-    },
-    {
-      "time": "8:15 AM",
-      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f29f7572?mod=rss_markets_main",
-      "ts": 1795612500000
-    },
-    {
-      "time": "8:11 AM",
-      "title": "CNBC — U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-      "ts": 1795612269000
     }
   ]
 }
