@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:44 PM ET",
+  "generated_at": "Nov 25, 2026, 2:47 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795635847882,
+  "updated_ts": 1795636049217,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -239,10 +239,28 @@
   ],
   "ticker": [
     {
+      "time": "2:43 PM",
+      "title": "MarketWatch — Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
+      "url": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
+      "ts": 1795635780000
+    },
+    {
+      "time": "2:39 PM",
+      "title": "Investing.com — VP Vance defends Huang’s reinstatement, cites no probe",
+      "url": "https://www.investing.com/news/stock-market-news/vp-vance-defends-huangs-reinstatement-cites-no-probe-5051380",
+      "ts": 1795635543000
+    },
+    {
       "time": "2:39 PM",
       "title": "MarketWatch — The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
       "url": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
       "ts": 1795635540000
+    },
+    {
+      "time": "2:36 PM",
+      "title": "Investing.com — EU postpones discussion to approve Tesla’s self-driving tech",
+      "url": "https://www.investing.com/news/stock-market-news/eu-postpones-discussion-to-approve-teslas-selfdriving-tech-5050292",
+      "ts": 1795635380000
     },
     {
       "time": "2:36 PM",
@@ -257,6 +275,12 @@
       "ts": 1795635311000
     },
     {
+      "time": "2:35 PM",
+      "title": "Bloomberg — M&A in the Industrials Sector Looks Set for a Robust 2027",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/m-a-in-the-industrials-sector-looks-set-for-a-robust-2027",
+      "ts": 1795635306000
+    },
+    {
       "time": "2:34 PM",
       "title": "WSJ Markets — Gold Futures Settle Off Day’s Lows as Yields, U.S. Dollar Slip",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
@@ -269,6 +293,12 @@
       "ts": 1795635180000
     },
     {
+      "time": "2:32 PM",
+      "title": "Investing.com — SpaceX to contribute one Class A share to every Trump Account",
+      "url": "https://www.investing.com/news/stock-market-news/spacex-to-contribute-one-class-a-share-to-every-trump-account-5051378",
+      "ts": 1795635160000
+    },
+    {
       "time": "2:30 PM",
       "title": "Bloomberg — Still Mispricing in Private Markets: Weinstein",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/still-mispricing-in-private-markets-weinstein-video",
@@ -279,36 +309,6 @@
       "title": "WSJ Markets — Stocks Pare Losses as Anthropic Shares Swing Higher",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
       "ts": 1795635000000
-    },
-    {
-      "time": "2:25 PM",
-      "title": "Bloomberg — Deal Fundamentals Remain Strong: Turk",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/deal-fundamentals-remain-strong-turk-video",
-      "ts": 1795634751000
-    },
-    {
-      "time": "2:25 PM",
-      "title": "CNBC — SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-      "ts": 1795634710000
-    },
-    {
-      "time": "2:20 PM",
-      "title": "MarketWatch — New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
-      "url": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
-      "ts": 1795634400000
-    },
-    {
-      "time": "2:16 PM",
-      "title": "MarketWatch — Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
-      "url": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories",
-      "ts": 1795634160000
-    },
-    {
-      "time": "2:12 PM",
-      "title": "CNBC — Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-      "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
-      "ts": 1795633965000
     }
   ]
 }
