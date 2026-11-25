@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:48 AM ET",
+  "generated_at": "Nov 25, 2026, 4:51 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795600085989,
+  "updated_ts": 1795600286788,
   "articles": [
     {
       "title": "Why Jensen Huang’s Return to Nvidia Matters for China",
@@ -241,6 +241,12 @@
       "ts": 1795599933000
     },
     {
+      "time": "4:45 AM",
+      "title": "WSJ Markets — Sterling Could Struggle as BOE Governor Presents Before Lawmakers",
+      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "ts": 1795599900000
+    },
+    {
       "time": "4:43 AM",
       "title": "WSJ Markets — Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
       "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
@@ -299,12 +305,6 @@
       "title": "CNBC — Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
       "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
       "ts": 1795598317000
-    },
-    {
-      "time": "4:18 AM",
-      "title": "Investing.com — Why is Dell Technologies stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-sliding-today-93CH-5050077",
-      "ts": 1795598311000
     }
   ]
 }
