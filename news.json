@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:02 AM ET",
+  "generated_at": "Nov 25, 2026, 10:06 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795618968812,
+  "updated_ts": 1795619170324,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -34,16 +34,6 @@
       "ts": 1795615260000
     },
     {
-      "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-real-price-of-jensen-huangs-return-to-nvidia-higher-regulatory-costs-for-the-company-and-the-entire-ai-industry-982002d4?mod=mw_rss_topstories",
-      "snippet": "After an initial rally, Nvidia shares fell as investors now must consider the legal and regulatory risks around having a scandal-ridden CEO back at the helm.",
-      "image": "https://images.mktw.net/im-96418474",
-      "time": "Nov 25, 8:30 AM",
-      "coverage": 5,
-      "ts": 1795613400000
-    },
-    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -52,6 +42,16 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
+    },
+    {
+      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
+      "snippet": "GameStop’s base of fervent retail investors is still intact, but Needham analysts say more institutional investors should take note of the company’s transformation.",
+      "image": "https://images.mktw.net/im-796776",
+      "time": "Nov 25, 9:32 AM",
+      "coverage": 4,
+      "ts": 1795617120000
     },
     {
       "title": "U.S. inflation rises further in October, bolstering odds of successive Fed rate hikes",
@@ -74,16 +74,6 @@
       "ts": 1795608780000
     },
     {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 4,
-      "ts": 1795557180000
-    },
-    {
       "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value",
@@ -103,6 +93,16 @@
       "time": "Nov 25, 9:38 AM",
       "coverage": 3,
       "ts": 1795617488000
+    },
+    {
+      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
+      "snippet": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
+      "image": "https://images.wsj.net/im-87333679",
+      "time": "Nov 23, 5:15 PM",
+      "coverage": 6,
+      "ts": 1795472100000
     },
     {
       "title": "Ambarella downgraded by BofA, Morgan Stanley as memory squeeze hits demand",
@@ -235,6 +235,30 @@
   ],
   "ticker": [
     {
+      "time": "10:04 AM",
+      "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795619064000
+    },
+    {
+      "time": "10:01 AM",
+      "title": "MarketWatch — Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+      "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+      "ts": 1795618860000
+    },
+    {
+      "time": "10:00 AM",
+      "title": "CNBC — Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
+      "url": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html",
+      "ts": 1795618801000
+    },
+    {
+      "time": "10:00 AM",
+      "title": "WSJ Markets — BOE’s Bailey Sees Lower Peak For Inflation If Energy Prices Stay Where They Are",
+      "url": "https://www.wsj.com/pro/central-banking/boes-bailey-sees-lower-peak-for-inflation-if-energy-prices-stay-where-they-are-8678fd4f?mod=rss_markets_main",
+      "ts": 1795618800000
+    },
+    {
       "time": "9:59 AM",
       "title": "Globe and Mail — Joly says she held ‘productive’ meeting with Stellantis as talks continue over future of Brampton plant",
       "url": "https://www.theglobeandmail.com/business/article-melanie-joly-meeting-with-stellantis-brampton-plant/",
@@ -251,12 +275,6 @@
       "title": "CNBC — U.S. stockpile of unstable and dangerous lead azide scheduled for detonation in Iowa",
       "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
       "ts": 1795618108000
-    },
-    {
-      "time": "9:48 AM",
-      "title": "CNBC — Dow craters 1,000 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795618099000
     },
     {
       "time": "9:47 AM",
@@ -287,24 +305,6 @@
       "title": "Globe and Mail — U.S. third-quarter GDP growth revised sharply higher",
       "url": "https://www.theglobeandmail.com/business/article-us-gdp-growth-third-quarter-2026/",
       "ts": 1795617616000
-    },
-    {
-      "time": "9:40 AM",
-      "title": "MarketWatch — Dell sees sales more than double — but its stock falls anyway",
-      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-      "ts": 1795617600000
-    },
-    {
-      "time": "9:39 AM",
-      "title": "CNBC — Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
-      "url": "https://www.cnbc.com/2026/11/25/kilmar-brego-garca-a-salvadoran-national-mistakenly-deported-from-the-us-arrives-in-spain-.html",
-      "ts": 1795617598000
-    },
-    {
-      "time": "9:32 AM",
-      "title": "MarketWatch — GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
-      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
-      "ts": 1795617120000
     }
   ]
 }
