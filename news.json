@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 9:01 AM ET",
+  "generated_at": "Nov 25, 2026, 9:05 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795615315669,
+  "updated_ts": 1795615523528,
   "articles": [
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "“I was paralyzed during the market downturn.”",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 25, 9:01 AM",
+      "coverage": 5,
+      "ts": 1795615260000
+    },
     {
       "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
       "source": "MarketWatch",
@@ -32,16 +42,6 @@
       "time": "Nov 25, 8:36 AM",
       "coverage": 5,
       "ts": 1795613787000
-    },
-    {
-      "title": "U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
-      "snippet": "A plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year.",
-      "image": "https://images.mktw.net/im-17174473",
-      "time": "Nov 25, 8:30 AM",
-      "coverage": 5,
-      "ts": 1795613400000
     },
     {
       "title": "U.S. plans to hike tariffs on China, EU and other partners over subsidized production",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "9:04 AM",
+      "title": "CNBC — Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
+      "url": "https://www.cnbc.com/2026/11/25/kilmar-brego-garca-a-salvadoran-national-mistakenly-deported-from-the-us-arrives-in-spain-.html",
+      "ts": 1795615481000
+    },
+    {
+      "time": "9:04 AM",
+      "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "ts": 1795615448000
+    },
+    {
+      "time": "9:01 AM",
+      "title": "WSJ Markets — U.S. Natural Gas Steady as December Contract Set to Expire",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "ts": 1795615260000
+    },
+    {
       "time": "8:58 AM",
       "title": "CNBC — Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -267,22 +285,10 @@
       "ts": 1795614929000
     },
     {
-      "time": "8:51 AM",
-      "title": "CNBC — Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
-      "url": "https://www.cnbc.com/2026/11/25/kilmar-brego-garca-a-salvadoran-national-mistakenly-deported-from-the-us-arrives-in-spain-.html",
-      "ts": 1795614663000
-    },
-    {
       "time": "8:50 AM",
       "title": "MarketWatch — Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?",
       "url": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
       "ts": 1795614600000
-    },
-    {
-      "time": "8:47 AM",
-      "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "ts": 1795614448000
     },
     {
       "time": "8:41 AM",
@@ -301,12 +307,6 @@
       "title": "Investing.com — S&P Global may sell parts of Capital IQ unit to Cognizant - report",
       "url": "https://www.investing.com/news/stock-market-news/sp-global-may-sell-parts-of-capital-iq-unit-to-cognizant--report-5050797",
       "ts": 1795613864000
-    },
-    {
-      "time": "8:36 AM",
-      "title": "Investing.com — EU postpones discussion to approve Tesla’s self-driving tech",
-      "url": "https://www.investing.com/news/stock-market-news/eu-postpones-discussion-to-approve-teslas-selfdriving-tech-5050292",
-      "ts": 1795613815000
     }
   ]
 }
