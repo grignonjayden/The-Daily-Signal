@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:23 AM ET",
+  "generated_at": "Nov 25, 2026, 3:26 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795595003309,
+  "updated_ts": 1795595204044,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -22,6 +22,16 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 4,
       "ts": 1795551400000
+    },
+    {
+      "title": "FTSE 100 today: Stocks rise as consumer shares lead, U.S. PCE awaited",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-consumer-shares-lead-us-pce-awaited-5049957",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEB3J0AS_M.jpg",
+      "time": "Nov 25, 3:16 AM",
+      "coverage": 4,
+      "ts": 1795594569000
     },
     {
       "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
@@ -54,14 +64,14 @@
       "ts": 1795519556000
     },
     {
-      "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
+      "title": "U.S. Treasury Yields Fall Ahead of PCE Inflation Data",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
-      "snippet": "The Claude model developer fell below its offering price on Tuesday, extending its slide to three straight sessions.",
-      "image": "https://images.wsj.net/im-29301151",
-      "time": "Nov 24, 5:07 PM",
-      "coverage": 4,
-      "ts": 1795558020000
+      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
+      "snippet": "Treasury yields fell as investors awaited October personal consumption expenditures inflation data and the second estimate of third-quarter gross domestic product.",
+      "image": "https://images.wsj.net/im-88976063",
+      "time": "Nov 25, 2:44 AM",
+      "coverage": 3,
+      "ts": 1795592640000
     },
     {
       "title": "Restructuring Firm Interpath in Deal to Buy US Company, CEO Says",
@@ -85,6 +95,16 @@
       "ts": 1795556760000
     },
     {
+      "title": "Check out our livestream for an extra 10% off on top of our Black Friday discount",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/check-out-our-livestream-for-an-extra-10-off-on-top-of-our-black-friday-discount-5049948",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEL7C0M3_L.jpg",
+      "time": "Nov 25, 3:13 AM",
+      "coverage": 2,
+      "ts": 1795594392000
+    },
+    {
       "title": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
@@ -94,26 +114,6 @@
       "time": "Nov 25, 2:51 AM",
       "coverage": 2,
       "ts": 1795593103000
-    },
-    {
-      "title": "EasyJet posts annual profit miss on fuel costs ahead of Apollo takeover",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/easyjet-posts-annual-profit-miss-on-fuel-costs-ahead-of-apollo-takeover-5049859",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0GM_L.jpg",
-      "time": "Nov 25, 2:18 AM",
-      "coverage": 2,
-      "ts": 1795591121000
-    },
-    {
-      "title": "China eyes mergers, tougher rules to help struggling airlines, SCMP says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/china-eyes-mergers-tougher-rules-tohelp-struggling-airlines-scmp-says-5049814",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0EN_L.jpg",
-      "time": "Nov 25, 2:06 AM",
-      "coverage": 2,
-      "ts": 1795590377000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "3:18 AM",
+      "title": "Investing.com — Walmart-owned Flipkart’s Kalyan Krishnamurthy steps down as CEO",
+      "url": "https://www.investing.com/news/stock-market-news/walmartowned-flipkarts-kalyan-krishnamurthy-steps-down-as-ceo-5049946",
+      "ts": 1795594700000
+    },
+    {
       "time": "3:15 AM",
       "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -271,12 +277,6 @@
       "title": "CNBC — Treasury yields fall as investors await key inflation signal",
       "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
       "ts": 1795592664000
-    },
-    {
-      "time": "2:44 AM",
-      "title": "WSJ Markets — U.S. Treasury Yields Fall Ahead of PCE Inflation Data",
-      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
-      "ts": 1795592640000
     },
     {
       "time": "2:42 AM",
