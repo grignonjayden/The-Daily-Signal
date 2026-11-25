@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:23 PM ET",
+  "generated_at": "Nov 25, 2026, 1:26 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795630999998,
+  "updated_ts": 1795631201495,
   "articles": [
     {
       "title": "U.S. Justice Department did not open probe into Jensen Huang before Nvidia rehired him, sources say",
@@ -64,16 +64,6 @@
       "ts": 1795551400000
     },
     {
-      "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
-      "snippet": "Treasury yields extended their fall after a flurry of U.S. economic data bolstered expectations for the Federal Reserve to raise rates in December.",
-      "image": "https://images.wsj.net/im-88976063",
-      "time": "Nov 25, 10:21 AM",
-      "coverage": 4,
-      "ts": 1795620060000
-    },
-    {
       "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Deal",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
@@ -116,6 +106,16 @@
       "ts": 1795557180000
     },
     {
+      "title": "Exclusive-Boehly signs US-backed share swap deal to buy Lukoil global assets",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveboehly-signs-usbacked-share-swap-deal-to-buy-lukoil-global-assets-5051129",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1CJ_L.jpg",
+      "time": "Nov 25, 1:06 PM",
+      "coverage": 3,
+      "ts": 1795630007000
+    },
+    {
       "title": "Wall Street cuts losses after brutal rout, Dow erases slide of over 2%",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
@@ -126,14 +126,15 @@
       "ts": 1795629692000
     },
     {
-      "title": "FTSE 100 today: Stocks fall as U.S. tech stocks dent sentiment",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-consumer-shares-lead-us-pce-awaited-5049957",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEB3J0AS_M.jpg",
-      "time": "Nov 25, 12:17 PM",
+      "title": "U.S. Natural Gas Inventories Decrease in Line With Average",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "snippet": "Natural gas futures were mixed as U.S. storage saw its first withdrawal of the season last week as colder weather lifted heating demand.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 12:28 PM",
       "coverage": 3,
-      "ts": 1795627045000
+      "ts": 1795627680000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -238,6 +239,18 @@
   ],
   "ticker": [
     {
+      "time": "1:24 PM",
+      "title": "WSJ Markets — Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
+      "url": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=rss_markets_main",
+      "ts": 1795631040000
+    },
+    {
+      "time": "1:15 PM",
+      "title": "Investing.com — William Blair starts Gilead at Outperform, citing durable HIV dominance",
+      "url": "https://www.investing.com/news/stock-market-news/william-blair-starts-gilead-at-outperform-citing-durable-hiv-dominance-5051322",
+      "ts": 1795630531000
+    },
+    {
       "time": "1:13 PM",
       "title": "Globe and Mail — Volatility-weary investors fret as new U.S. tariffs add to tech pain",
       "url": "https://www.theglobeandmail.com/investing/article-volatility-weary-investors-fret-as-new-us-tariffs-add-to-tech-pain/",
@@ -254,6 +267,12 @@
       "title": "CNBC — 10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
       "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
       "ts": 1795630088000
+    },
+    {
+      "time": "1:06 PM",
+      "title": "Investing.com — December redemption data to test private credit fund sentiment",
+      "url": "https://www.investing.com/news/stock-market-news/december-redemption-data-to-test-private-credit-fund-sentiment-93CH-5051316",
+      "ts": 1795629973000
     },
     {
       "time": "1:02 PM",
@@ -290,24 +309,6 @@
       "title": "Investing.com — US authorizes SpaceX to deploy 1 million satellites for data centers in space",
       "url": "https://www.investing.com/news/stock-market-news/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space-5051261",
       "ts": 1795629280000
-    },
-    {
-      "time": "12:46 PM",
-      "title": "Investing.com — Cantor Fitzgerald names ’Black Friday’ biotech bargains: top 5 picks",
-      "url": "https://www.investing.com/news/stock-market-news/cantor-fitzgerald-names-black-friday-biotech-bargains-top-5-picks-5051301",
-      "ts": 1795628801000
-    },
-    {
-      "time": "12:44 PM",
-      "title": "WSJ Markets — Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
-      "ts": 1795628640000
-    },
-    {
-      "time": "12:41 PM",
-      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f29f7572?mod=rss_markets_main",
-      "ts": 1795628460000
     }
   ]
 }
