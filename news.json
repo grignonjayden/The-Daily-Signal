@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:17 AM ET",
+  "generated_at": "Nov 25, 2026, 7:20 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795609031481,
+  "updated_ts": 1795609233960,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -95,17 +95,6 @@
       "ts": 1795606020000
     },
     {
-      "title": "US Tech Stocks Set to Extend Declines on Lingering AI Worries",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-      "snippet": "US technology stocks were set to decline for a second day as investors worried about the payoff from hefty investments in the artificial intelligence buildout.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 2:51 AM",
-      "coverage": 3,
-      "ts": 1795593103000
-    },
-    {
       "title": "How one Wall St. strategist predicted the S&P 500’s wild 2-week swing",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/how-one-wall-st-strategist-predicted-the-sp-500s-wild-2week-swing-5050391",
@@ -114,6 +103,17 @@
       "time": "Nov 25, 6:33 AM",
       "coverage": 2,
       "ts": 1795606410000
+    },
+    {
+      "title": "Tech Selloff Rolls On as AI Worries Persist",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-opening-trade-11-25-2026-video",
+      "snippet": "A global selloff in technology stocks is showing no sign of letting up as questions about the outlook for artificial intelligence pile up, with investors turning to bonds for safety. While technology stocks…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 6:20 AM",
+      "coverage": 2,
+      "ts": 1795605646000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
