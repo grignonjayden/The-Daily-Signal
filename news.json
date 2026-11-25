@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:30 PM ET",
+  "generated_at": "Nov 25, 2026, 1:33 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795631409815,
+  "updated_ts": 1795631610782,
   "articles": [
     {
       "title": "U.S. Justice Department did not open probe into Jensen Huang before Nvidia rehired him, sources say",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "1:31 PM",
+      "title": "CNBC — Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
+      "url": "https://www.cnbc.com/2026/11/25/anthropic-stock-ipo-analyst-outlook.html",
+      "ts": 1795631519000
+    },
+    {
       "time": "1:26 PM",
       "title": "WSJ Markets — Health Care Roundup: Market Talk",
       "url": "https://www.wsj.com/articles/health-care-roundup-market-talk-a0c4634c?mod=rss_markets_main",
@@ -248,6 +254,18 @@
       "title": "WSJ Markets — Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
       "url": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=rss_markets_main",
       "ts": 1795631040000
+    },
+    {
+      "time": "1:23 PM",
+      "title": "CNBC — Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+      "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+      "ts": 1795630992000
+    },
+    {
+      "time": "1:22 PM",
+      "title": "CNBC — SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "ts": 1795630979000
     },
     {
       "time": "1:15 PM",
@@ -290,24 +308,6 @@
       "title": "CNBC — Nvidia’s Billion-Dollar Board Bet: Who’s Protected as Lawsuits Mount?",
       "url": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html",
       "ts": 1795629765000
-    },
-    {
-      "time": "1:00 PM",
-      "title": "Investing.com — CoreWeave banks prepare $4.5 billion Meta-tied loan sale next week, Bloomberg says",
-      "url": "https://www.investing.com/news/stock-market-news/coreweave-banks-prepare-45-billion-metatied-loan-sale-next-week-bloomberg-says-5051311",
-      "ts": 1795629618000
-    },
-    {
-      "time": "12:57 PM",
-      "title": "Investing.com — Galp suspends Bacalhau field output for up to 8 weeks",
-      "url": "https://www.investing.com/news/stock-market-news/galp-suspends-bacalhau-field-output-for-up-to-8-weeks-93CH-5051308",
-      "ts": 1795629460000
-    },
-    {
-      "time": "12:54 PM",
-      "title": "Investing.com — Deere forecasts 2027 profit below estimates as farm equipment recovery remains muted",
-      "url": "https://www.investing.com/news/stock-market-news/deere-forecasts-fiscal-2027-net-income-below-estimates-5050370",
-      "ts": 1795629297000
     }
   ]
 }
