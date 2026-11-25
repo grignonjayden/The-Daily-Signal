@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 5:15 AM ET",
+  "generated_at": "Nov 25, 2026, 5:18 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795601710547,
+  "updated_ts": 1795601912483,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -126,16 +126,6 @@
       "ts": 1795593103000
     },
     {
-      "title": "Anthropic’s stock just broke below its IPO price for the first time",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "snippet": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
-      "image": "https://images.mktw.net/im-34075557",
-      "time": "Nov 24, 4:46 PM",
-      "coverage": 4,
-      "ts": 1795556760000
-    },
-    {
       "title": "Why is Norse Atlantic stock crashing today?",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/why-is-norse-atlantic-stock-crashing-today-93CH-5050087",
@@ -144,6 +134,16 @@
       "time": "Nov 25, 4:24 AM",
       "coverage": 2,
       "ts": 1795598664000
+    },
+    {
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "snippet": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+      "image": "https://images.mktw.net/im-34075557",
+      "time": "Nov 24, 4:46 PM",
+      "coverage": 3,
+      "ts": 1795556760000
     }
   ],
   "outlets": [
@@ -237,10 +237,28 @@
   ],
   "ticker": [
     {
+      "time": "5:18 AM",
+      "title": "CNBC — Budget carrier Norse Atlantic falls 81% after warning its finances are ‘critical’ amid soaring fuel costs",
+      "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
+      "ts": 1795601883000
+    },
+    {
+      "time": "5:17 AM",
+      "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795601866000
+    },
+    {
       "time": "5:12 AM",
       "title": "MarketWatch — This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
       "url": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
       "ts": 1795601520000
+    },
+    {
+      "time": "5:06 AM",
+      "title": "Bloomberg — Deutsche Bank Is Among Biggest S&P 500 Bulls With 9,000 Target",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/deutsche-bank-is-among-biggest-s-p-500-bulls-with-9-000-target",
+      "ts": 1795601213000
     },
     {
       "time": "5:05 AM",
@@ -285,28 +303,10 @@
       "ts": 1795600606000
     },
     {
-      "time": "4:56 AM",
-      "title": "CNBC — Budget carrier Norse Atlantic falls 74% after warning its finances are ‘critical’ amid soaring fuel costs",
-      "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
-      "ts": 1795600565000
-    },
-    {
       "time": "4:47 AM",
       "title": "Investing.com — CMA reviews McCormick’s Colman’s sale offer in Unilever deal",
       "url": "https://www.investing.com/news/stock-market-news/cma-reviews-mccormicks-colmans-sale-offer-in-unilever-deal-93CH-5050110",
       "ts": 1795600023000
-    },
-    {
-      "time": "4:45 AM",
-      "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795599933000
-    },
-    {
-      "time": "4:45 AM",
-      "title": "WSJ Markets — Sterling Could Struggle as BOE Governor Presents Before Lawmakers",
-      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "ts": 1795599900000
     }
   ]
 }
