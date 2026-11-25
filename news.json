@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 5:21 AM ET",
+  "generated_at": "Nov 25, 2026, 5:25 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795602116166,
+  "updated_ts": 1795602316835,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -126,14 +126,13 @@
       "ts": 1795593103000
     },
     {
-      "title": "Why is Norse Atlantic stock crashing today?",
+      "title": "Why is NVIDIA stock sliding today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-norse-atlantic-stock-crashing-today-93CH-5050087",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-sliding-today-93CH-5050131",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-      "time": "Nov 25, 4:24 AM",
-      "coverage": 2,
-      "ts": 1795598664000
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEK1L0CN_L.jpg",
+      "time": "Nov 25, 5:08 AM",
+      "ts": 1795601285000
     },
     {
       "title": "Anthropic’s stock just broke below its IPO price for the first time",
@@ -237,6 +236,24 @@
   ],
   "ticker": [
     {
+      "time": "5:19 AM",
+      "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
+      "ts": 1795601946000
+    },
+    {
+      "time": "5:19 AM",
+      "title": "Investing.com — U.S. chip stocks extend losses premarket as AI spending concerns resurface",
+      "url": "https://www.investing.com/news/stock-market-news/us-chip-stocks-extend-losses-premarket-as-ai-spending-concerns-resurface-5050161",
+      "ts": 1795601943000
+    },
+    {
+      "time": "5:18 AM",
+      "title": "Investing.com — Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured",
+      "url": "https://www.investing.com/news/stock-market-news/retailers-face-rising-ai-cyberattack-threat-ahead-of-black-friday-many-uninsured-5050150",
+      "ts": 1795601916000
+    },
+    {
       "time": "5:18 AM",
       "title": "CNBC — Budget carrier Norse Atlantic falls 81% after warning its finances are ‘critical’ amid soaring fuel costs",
       "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
@@ -247,6 +264,12 @@
       "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795601866000
+    },
+    {
+      "time": "5:14 AM",
+      "title": "Investing.com — Var Energi shares fall after over $1 bln equity raise to fund ConocoPhillips deal",
+      "url": "https://www.investing.com/news/stock-market-news/var-energi-shares-fall-after-over-1-bln-equity-raise-to-fund-conocophillips-deal-5050141",
+      "ts": 1795601687000
     },
     {
       "time": "5:12 AM",
@@ -273,40 +296,16 @@
       "ts": 1795601072000
     },
     {
+      "time": "5:04 AM",
+      "title": "Investing.com — Workday shares sink 10% premarket as softer outlook overshadows Q3 beat",
+      "url": "https://www.investing.com/news/stock-market-news/workday-shares-fall-28-in-choppy-trading-after-thirdquarter-earnings-beat-5049010",
+      "ts": 1795601044000
+    },
+    {
       "time": "5:01 AM",
       "title": "MarketWatch — NBA star Kevin Durant lists Arizona mansion for $13.9 million, a year after trade to Houston",
       "url": "https://www.marketwatch.com/story/nba-star-kevin-durant-lists-arizona-mansion-for-13-9-million-a-year-after-trade-to-houston-1b0ae57e?mod=mw_rss_topstories",
       "ts": 1795600860000
-    },
-    {
-      "time": "5:00 AM",
-      "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
-      "ts": 1795600859000
-    },
-    {
-      "time": "5:00 AM",
-      "title": "Investing.com — Malaysia regulator seeks $146 million damages from Google over ’harmful’ content",
-      "url": "https://www.investing.com/news/stock-market-news/malaysia-regulator-files-lawsuits-against-google-seeking-146-million-over-harmful-content-5049766",
-      "ts": 1795600846000
-    },
-    {
-      "time": "5:00 AM",
-      "title": "Globe and Mail — Couche-Tard sees finish line for $8.6-billion takeover of Polish retailer Zabka Group",
-      "url": "https://www.theglobeandmail.com/business/article-couche-tard-sees-finish-line-for-us86-billion-takeover-of-polish/",
-      "ts": 1795600800000
-    },
-    {
-      "time": "4:56 AM",
-      "title": "WSJ Markets — Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
-      "ts": 1795600606000
-    },
-    {
-      "time": "4:47 AM",
-      "title": "Investing.com — CMA reviews McCormick’s Colman’s sale offer in Unilever deal",
-      "url": "https://www.investing.com/news/stock-market-news/cma-reviews-mccormicks-colmans-sale-offer-in-unilever-deal-93CH-5050110",
-      "ts": 1795600023000
     }
   ]
 }
