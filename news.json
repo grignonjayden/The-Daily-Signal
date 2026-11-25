@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:45 PM ET",
+  "generated_at": "Nov 24, 2026, 10:48 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795578315812,
+  "updated_ts": 1795578517222,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -125,15 +125,15 @@
       "ts": 1795442808000
     },
     {
-      "title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
+      "title": "Japan 40-Year Bond Sale Sees Weaker Demand Than 12-Month Average",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
-      "snippet": "Starbucks Corp. has tapped advisers to prepare for a potential sale of its Japan business for several billion dollars, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/japan-40-year-bond-sale-sees-weaker-demand-than-12-month-average-mwvkr2jb",
+      "snippet": "Japan’s 40-year government bond auction on Wednesday drew weaker demand than its 12-month average as fiscal uncertainty weighed on investor appetite.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 24, 10:10 PM",
+      "time": "Nov 24, 10:39 PM",
       "coverage": 2,
-      "ts": 1795576223000
+      "ts": 1795577950000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -267,6 +267,12 @@
       "ts": 1795577220000
     },
     {
+      "time": "10:10 PM",
+      "title": "Bloomberg — Starbucks Is Said to Engage Banks for Sale of Japan Business",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
+      "ts": 1795576223000
+    },
+    {
       "time": "9:53 PM",
       "title": "WSJ Markets — Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
       "url": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Rakuten Credit Risk Surges After Yen Bond Offering Scrapped",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/rakuten-credit-risk-surges-after-yen-bond-offering-scrapped",
       "ts": 1795573380000
-    },
-    {
-      "time": "9:09 PM",
-      "title": "CNBC — Trump open to pardoning Jensen Huang if needed: NY Post",
-      "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
-      "ts": 1795572585000
     }
   ]
 }
