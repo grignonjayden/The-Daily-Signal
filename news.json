@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:55 PM ET",
+  "generated_at": "Nov 25, 2026, 4:59 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795643746263,
+  "updated_ts": 1795643947112,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "4:55 PM",
+      "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "ts": 1795643751000
+    },
+    {
       "time": "4:50 PM",
       "title": "MarketWatch — Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
       "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
@@ -303,12 +309,6 @@
       "title": "WSJ Markets — U.S. Dollar Slips After Muted Reaction to U.S. Data",
       "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
       "ts": 1795642080000
-    },
-    {
-      "time": "4:26 PM",
-      "title": "CNBC — Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-      "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
-      "ts": 1795642007000
     }
   ]
 }
