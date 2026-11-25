@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 6:03 PM ET",
+  "generated_at": "Nov 25, 2026, 6:06 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795647813250,
+  "updated_ts": 1795648014280,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -84,6 +84,16 @@
       "ts": 1795645260000
     },
     {
+      "title": "Exclusive-Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveboehly-signs-usbacked-share-swap-deal-to-buy-lukoil-global-assets-5051129",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1CJ_L.jpg",
+      "time": "Nov 25, 6:00 PM",
+      "coverage": 4,
+      "ts": 1795647624000
+    },
+    {
       "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
@@ -114,16 +124,6 @@
       "time": "Nov 25, 5:27 PM",
       "coverage": 2,
       "ts": 1795645629000
-    },
-    {
-      "title": "Macy’s Thanksgiving Day Parade in New York City postponed due to storm projections",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1VS_L.jpg",
-      "time": "Nov 25, 5:00 PM",
-      "coverage": 2,
-      "ts": 1795644046000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -244,6 +244,12 @@
       "ts": 1795647600000
     },
     {
+      "time": "5:58 PM",
+      "title": "Bloomberg — Venus Williams on WeWard Deal and Her Investing Mindset",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/venus-williams-on-weward-deal-and-her-investing-mindset-video",
+      "ts": 1795647529000
+    },
+    {
       "time": "5:37 PM",
       "title": "Investing.com — US airlines face higher costs from proposed Embraer duty",
       "url": "https://www.investing.com/news/stock-market-news/us-airlines-face-higher-costs-from-proposed-embraer-duty-5051651",
@@ -302,12 +308,6 @@
       "title": "Bloomberg — Asian Stocks Set for Gains After Late US Rebound: Markets Wrap",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
       "ts": 1795644642000
-    },
-    {
-      "time": "5:09 PM",
-      "title": "WSJ Markets — Crude Posts Back-to-Back Gains on Middle East Tension",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
-      "ts": 1795644540000
     }
   ]
 }
