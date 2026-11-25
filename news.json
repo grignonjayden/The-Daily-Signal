@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:37 AM ET",
+  "generated_at": "Nov 25, 2026, 7:40 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795610251782,
+  "updated_ts": 1795610456926,
   "articles": [
     {
       "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
@@ -9,9 +9,9 @@
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "snippet": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
       "image": "https://image.cnbcfm.com/api/v1/image/108556540-17951897842026-11-20t154510z_724308925_rc2proaof0e8_rtrmadp_0_usa-stocks.jpeg?v=1795189801&w=1920&h=1080",
-      "time": "Nov 25, 7:36 AM",
+      "time": "Nov 25, 7:40 AM",
       "coverage": 5,
-      "ts": 1795610204000
+      "ts": 1795610401000
     },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -95,6 +95,17 @@
       "ts": 1795519556000
     },
     {
+      "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value",
+      "snippet": "The euphoria surrounding Nvidia Corp. shares following the return of Chief Executive Officer Jensen Huang on Monday is wearing off as investors come to grips with the questions still hanging over the world’s biggest…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 7:20 AM",
+      "coverage": 2,
+      "ts": 1795609258000
+    },
+    {
       "title": "Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
@@ -103,17 +114,6 @@
       "time": "Nov 25, 7:20 AM",
       "coverage": 3,
       "ts": 1795609200000
-    },
-    {
-      "title": "Nasdaq Futures Sink 3% as Tech Selloff Rolls On: Markets Wrap",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-      "snippet": "A global selloff in technology stocks is showing no sign of letting up as questions about the outlook for the artificial intelligence trade pile up, with investors turning to bonds for safety.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 5:09 PM",
-      "coverage": 4,
-      "ts": 1795558158000
     },
     {
       "title": "AI stocks slide on fears over infrastructure buildout costs",
