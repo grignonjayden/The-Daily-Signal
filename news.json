@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:34 AM ET",
+  "generated_at": "Nov 25, 2026, 7:37 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795610048391,
+  "updated_ts": 1795610251782,
   "articles": [
     {
       "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates",
@@ -9,9 +9,9 @@
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "snippet": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
       "image": "https://image.cnbcfm.com/api/v1/image/108556540-17951897842026-11-20t154510z_724308925_rc2proaof0e8_rtrmadp_0_usa-stocks.jpeg?v=1795189801&w=1920&h=1080",
-      "time": "Nov 25, 7:28 AM",
+      "time": "Nov 25, 7:36 AM",
       "coverage": 5,
-      "ts": 1795609704000
+      "ts": 1795610204000
     },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "7:31 AM",
+      "title": "CNBC — Stocks making the biggest moves premarket: Nvidia, Urban Outfitters, Dell, Ambarella & more",
+      "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795609912000
+    },
+    {
       "time": "7:30 AM",
       "title": "MarketWatch — Here’s how to find value in cybersecurity stocks after a strong year",
       "url": "https://www.marketwatch.com/story/heres-how-to-find-value-in-cybersecurity-stocks-after-a-strong-year-7fbe1f80?mod=mw_rss_topstories",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Why is SPDR Gold Shares ETF sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-spdr-gold-shares-etf-sliding-today-93CH-5050507",
       "ts": 1795608880000
-    },
-    {
-      "time": "7:13 AM",
-      "title": "WSJ Markets — The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
-      "ts": 1795608780000
     }
   ]
 }
