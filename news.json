@@ -1,8 +1,19 @@
 {
-  "generated_at": "Nov 25, 2026, 3:57 AM ET",
+  "generated_at": "Nov 25, 2026, 4:00 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795597034285,
+  "updated_ts": 1795597236929,
   "articles": [
+    {
+      "title": "Why Jensen Huang’s Return to Nvidia Matters for China (Video)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/why-jensen-huang-s-return-to-nvidia-matters-for-china-video",
+      "snippet": "",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 3:59 AM",
+      "coverage": 5,
+      "ts": 1795597148000
+    },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
       "source": "CNBC",
@@ -10,7 +21,7 @@
       "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
       "time": "Nov 24, 8:13 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795569236000
     },
     {
@@ -20,7 +31,7 @@
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795551400000
     },
     {
@@ -30,8 +41,18 @@
       "snippet": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
       "image": "https://image.cnbcfm.com/api/v1/image/108341233-1785261028780-gettyimages-2288035170-1r1_5403_4x3hzuey.jpeg?v=1795450779&w=1920&h=1080",
       "time": "Nov 24, 12:51 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795542705000
+    },
+    {
+      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
+      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
+      "time": "Nov 24, 6:25 AM",
+      "coverage": 5,
+      "ts": 1795519556000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -42,16 +63,6 @@
       "time": "Nov 24, 4:53 PM",
       "coverage": 3,
       "ts": 1795557180000
-    },
-    {
-      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
-      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
-      "time": "Nov 24, 6:25 AM",
-      "coverage": 4,
-      "ts": 1795519556000
     },
     {
       "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
@@ -85,6 +96,16 @@
       "ts": 1795556760000
     },
     {
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 5,
+      "ts": 1795456173000
+    },
+    {
       "title": "Check out our livestream for an extra 10% off on top of our Black Friday discount",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/check-out-our-livestream-for-an-extra-10-off-on-top-of-our-black-friday-discount-5049948",
@@ -105,25 +126,14 @@
       "ts": 1795595955000
     },
     {
-      "title": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
-      "snippet": "US stock futures signaled further declines as a global tech selloff continued to worry investors.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 2:51 AM",
-      "coverage": 2,
-      "ts": 1795593103000
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 4,
-      "ts": 1795456173000
+      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
+      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
+      "time": "Nov 23, 9:06 AM",
+      "coverage": 5,
+      "ts": 1795442808000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -134,16 +144,6 @@
       "time": "Nov 24, 4:53 PM",
       "coverage": 2,
       "ts": 1795557180000
-    },
-    {
-      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
-      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
-      "time": "Nov 23, 9:06 AM",
-      "coverage": 4,
-      "ts": 1795442808000
     }
   ],
   "outlets": [
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "3:54 AM",
+      "title": "WSJ Markets — Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
+      "url": "https://www.wsj.com/finance/stocks/newly-listed-airtel-mobile-to-replace-ig-group-in-ftse-100-index-review-ad6b860c?mod=rss_markets_main",
+      "ts": 1795596840000
+    },
+    {
       "time": "3:51 AM",
       "title": "WSJ Markets — Oil Down as Supply Prospects Outweigh Gulf Risks",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — European Stock Indexes Mostly Higher as Industrials, Luxuries Gain",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
       "ts": 1795595700000
-    },
-    {
-      "time": "3:31 AM",
-      "title": "Investing.com — UK watchdog says Colman’s sale could address Unilever-McCormick deal concerns",
-      "url": "https://www.investing.com/news/stock-market-news/uk-watchdog-sayscolmans-sale-could-address-unilevermccormick-deal-concerns-5049890",
-      "ts": 1795595461000
     }
   ]
 }
