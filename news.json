@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:25 PM ET",
+  "generated_at": "Nov 25, 2026, 4:28 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795641921637,
+  "updated_ts": 1795642122199,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -44,14 +44,14 @@
       "ts": 1795640408000
     },
     {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 5,
-      "ts": 1795557180000
+      "title": "Wall Street rebounds strongly after brutal rout, Dow ends higher & Nasdaq recovers",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "time": "Nov 25, 4:12 PM",
+      "coverage": 4,
+      "ts": 1795641123000
     },
     {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
@@ -62,6 +62,16 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
+    },
+    {
+      "title": "Nvidia ends lower for second straight session as AI trade selloff gathers pace",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-fall-5-premarket-after-huang-return-rally-wanes-5050114",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM4Q094_L.jpg",
+      "time": "Nov 25, 4:05 PM",
+      "coverage": 2,
+      "ts": 1795640734000
     },
     {
       "title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
@@ -75,15 +85,14 @@
       "ts": 1795636158000
     },
     {
-      "title": "Nvidia U-Turn Is Bad News For Anthropic, Says Parmy Olson",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/nvidia-u-turn-is-bad-news-for-anthropic-parmy-olson-video",
-      "snippet": "Bloomberg Opinion columnist Parmy Olson said that the tumult surrounding Nvidia CEO Jensen Huang's resignation and subsequent reinstatement isn't good news for Anthropic given how the companies' ethos and leaders…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 2:48 PM",
-      "coverage": 2,
-      "ts": 1795636138000
+      "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
+      "snippet": "Plus: Malaysia finds no record of U.S.-sanctioned firm, Jensen Huang’s comeback collides with lawmakers demanding answers.",
+      "image": "https://images.wsj.net/im-38122472",
+      "time": "Nov 25, 7:13 AM",
+      "coverage": 4,
+      "ts": 1795608780000
     },
     {
       "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
@@ -94,26 +103,6 @@
       "time": "Nov 25, 4:02 PM",
       "coverage": 3,
       "ts": 1795640520000
-    },
-    {
-      "title": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/retailers-face-rising-ai-cyberattack-threat-ahead-of-black-friday-many-uninsured-5050150",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0RX_L.jpg",
-      "time": "Nov 25, 3:49 PM",
-      "coverage": 3,
-      "ts": 1795639752000
-    },
-    {
-      "title": "Wall Street rebounds strongly after brutal rout, Dow turns green & Nasdaq recovers",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "time": "Nov 25, 3:33 PM",
-      "coverage": 3,
-      "ts": 1795638833000
     },
     {
       "title": "U.S. Justice Department cleared Huang of national-security risk after probing its customers, sources say",
@@ -134,6 +123,17 @@
       "time": "Nov 25, 9:38 AM",
       "coverage": 3,
       "ts": 1795617488000
+    },
+    {
+      "title": "US Tariff Proposal Raises Stakes for India to Clinch Trade Deal",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
+      "snippet": "US tariff rates announced Wednesday put pressure on India to agree to a trade deal or face a higher levy, leaving exporters and investors with little clarity on the trade outlook.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 4:03 PM",
+      "coverage": 2,
+      "ts": 1795640597000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -238,10 +238,16 @@
   ],
   "ticker": [
     {
-      "time": "4:24 PM",
+      "time": "4:26 PM",
+      "title": "CNBC — Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+      "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
+      "ts": 1795642007000
+    },
+    {
+      "time": "4:26 PM",
       "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
       "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-      "ts": 1795641871000
+      "ts": 1795641996000
     },
     {
       "time": "4:23 PM",
@@ -250,16 +256,46 @@
       "ts": 1795641780000
     },
     {
+      "time": "4:21 PM",
+      "title": "Investing.com — Palo Alto Networks sued over alleged accounting fraud claims",
+      "url": "https://www.investing.com/news/stock-market-news/palo-alto-networks-sued-over-alleged-accounting-fraud-claims-5051500",
+      "ts": 1795641704000
+    },
+    {
+      "time": "4:20 PM",
+      "title": "Investing.com — Russia stocks higher at close of trade; MOEX Russia Index up 0.92%",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-092-5051485",
+      "ts": 1795641603000
+    },
+    {
+      "time": "4:19 PM",
+      "title": "Investing.com — Neuralink secures FDA approval for first U.S. pivotal brain-chip trial",
+      "url": "https://www.investing.com/news/stock-market-news/neuralink-secures-fda-approval-for-first-us-pivotal-brainchip-trial-5051484",
+      "ts": 1795641563000
+    },
+    {
+      "time": "4:18 PM",
+      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to storm projections, US media reports",
+      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
+      "ts": 1795641525000
+    },
+    {
       "time": "4:17 PM",
       "title": "CNBC — Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795641445000
     },
     {
-      "time": "4:03 PM",
-      "title": "Bloomberg — US Tariff Proposal Raises Stakes for India to Clinch Trade Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
-      "ts": 1795640597000
+      "time": "4:15 PM",
+      "title": "Investing.com — Kinetik Holdings shares surge on Targa takeover talks",
+      "url": "https://www.investing.com/news/stock-market-news/kinetik-holdings-shares-surge-on-targa-takeover-talks-5051477",
+      "ts": 1795641347000
+    },
+    {
+      "time": "4:05 PM",
+      "title": "Investing.com — Third Point reopens private investment side pocket to hedge fund clients - WSJ",
+      "url": "https://www.investing.com/news/stock-market-news/third-point-reopens-private-investment-side-pocket-to-hedge-fund-clients--wsj-5051447",
+      "ts": 1795640755000
     },
     {
       "time": "4:03 PM",
@@ -272,42 +308,6 @@
       "title": "CNBC — 10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
       "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
       "ts": 1795640525000
-    },
-    {
-      "time": "4:01 PM",
-      "title": "Investing.com — Barrick’s CEO meets Mali’s PM for first time since resolution",
-      "url": "https://www.investing.com/news/stock-market-news/barricks-ceo-meets-malis-pm-for-first-time-since-resolution-5051442",
-      "ts": 1795640466000
-    },
-    {
-      "time": "4:00 PM",
-      "title": "Bloomberg — Targa Is Said in Talks to Buy Kinetik in Major Pipeline Tie-Up",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up",
-      "ts": 1795640457000
-    },
-    {
-      "time": "3:59 PM",
-      "title": "Investing.com — Virbac to buy Axiota Animal Health for $315 million",
-      "url": "https://www.investing.com/news/stock-market-news/virbac-to-buy-axiota-animal-health-for-315-million-93CH-5051435",
-      "ts": 1795640364000
-    },
-    {
-      "time": "3:55 PM",
-      "title": "Bloomberg — Mega Rail Deal Gets Unusual WH Meeting",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/mega-rail-deal-gets-unusual-wh-meeting-video",
-      "ts": 1795640144000
-    },
-    {
-      "time": "3:48 PM",
-      "title": "Investing.com — US authorizes SpaceX to deploy 1 million satellites for data centers in space",
-      "url": "https://www.investing.com/news/stock-market-news/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space-5051261",
-      "ts": 1795639724000
-    },
-    {
-      "time": "3:48 PM",
-      "title": "Investing.com — Australia passes law forcing internet platforms to take down harmful content",
-      "url": "https://www.investing.com/news/stock-market-news/australia-passes-law-forcing-internet-platforms-to-take-down-harmful-content-5049860",
-      "ts": 1795639709000
     }
   ]
 }
