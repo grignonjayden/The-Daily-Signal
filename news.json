@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:40 PM ET",
+  "generated_at": "Nov 25, 2026, 2:44 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795635646316,
+  "updated_ts": 1795635847882,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "2:39 PM",
+      "title": "MarketWatch — The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+      "url": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
+      "ts": 1795635540000
+    },
+    {
       "time": "2:36 PM",
       "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -303,12 +309,6 @@
       "title": "CNBC — Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
       "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
       "ts": 1795633965000
-    },
-    {
-      "time": "2:11 PM",
-      "title": "CNBC — Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-      "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
-      "ts": 1795633913000
     }
   ]
 }
