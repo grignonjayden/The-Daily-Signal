@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 1:00 AM ET",
+  "generated_at": "Nov 25, 2026, 1:04 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795586444656,
+  "updated_ts": 1795586647239,
   "articles": [
+    {
+      "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN20H_L.jpg",
+      "time": "Nov 25, 1:00 AM",
+      "coverage": 5,
+      "ts": 1795586425000
+    },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
       "source": "CNBC",
@@ -10,7 +20,7 @@
       "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
       "time": "Nov 24, 8:13 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795569236000
     },
     {
@@ -20,7 +30,7 @@
       "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
       "time": "Nov 24, 6:13 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795562029000
     },
     {
@@ -30,7 +40,7 @@
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795551400000
     },
     {
@@ -74,6 +84,16 @@
       "ts": 1795556760000
     },
     {
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 5,
+      "ts": 1795456173000
+    },
+    {
       "title": "Malaysia Airlines parent orders 10 Boeing 787s to replace older Airbus jets",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604",
@@ -82,6 +102,16 @@
       "time": "Nov 25, 12:18 AM",
       "coverage": 2,
       "ts": 1795583914000
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
+      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
+      "time": "Nov 23, 9:06 AM",
+      "coverage": 5,
+      "ts": 1795442808000
     },
     {
       "title": "Metals Mixed After Major Selloff as Traders Await US Inflation",
@@ -106,16 +136,6 @@
       "ts": 1795574727000
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 4,
-      "ts": 1795456173000
-    },
-    {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
@@ -124,25 +144,6 @@
       "time": "Nov 24, 4:53 PM",
       "coverage": 2,
       "ts": 1795557180000
-    },
-    {
-      "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.39%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-039-5049741",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEE5A00C_M.jpg",
-      "time": "Nov 25, 12:30 AM",
-      "ts": 1795584603000
-    },
-    {
-      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
-      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
-      "time": "Nov 23, 9:06 AM",
-      "coverage": 4,
-      "ts": 1795442808000
     }
   ],
   "outlets": [
@@ -236,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "12:58 AM",
+      "title": "Investing.com — Malaysia’s MCMC sues Google for RM300mil over YouTube content",
+      "url": "https://www.investing.com/news/stock-market-news/malaysias-mcmc-sues-google-for-rm300mil-over-youtube-content-93CH-5049771",
+      "ts": 1795586293000
+    },
+    {
       "time": "12:54 AM",
       "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -248,10 +255,22 @@
       "ts": 1795585920000
     },
     {
+      "time": "12:48 AM",
+      "title": "Investing.com — Malaysia regulator files lawsuits against Google seeking $146 million over ’harmful’ content",
+      "url": "https://www.investing.com/news/stock-market-news/malaysia-regulator-files-lawsuits-against-google-seeking-146-million-over-harmful-content-5049766",
+      "ts": 1795585701000
+    },
+    {
       "time": "12:37 AM",
       "title": "Bloomberg — Kochugovindan: Tech Volatility Is Here to Stay",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
       "ts": 1795585031000
+    },
+    {
+      "time": "12:30 AM",
+      "title": "Investing.com — Australia stocks lower at close of trade; S&P/ASX 200 down 0.39%",
+      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-039-5049741",
+      "ts": 1795584603000
     },
     {
       "time": "12:08 AM",
@@ -282,24 +301,6 @@
       "title": "Investing.com — Why is Advantest stock plunging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-advantest-stock-plunging-today-93CH-5049726",
       "ts": 1795583173000
-    },
-    {
-      "time": "12:05 AM",
-      "title": "Investing.com — Why is KOSPI stock plunging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-kospi-stock-plunging-today-93CH-5049725",
-      "ts": 1795583147000
-    },
-    {
-      "time": "12:05 AM",
-      "title": "Investing.com — Why is Baidu stock edging higher today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-baidu-stock-edging-higher-today-93CH-5049724",
-      "ts": 1795583106000
-    },
-    {
-      "time": "12:04 AM",
-      "title": "Investing.com — Why is Xiaomi stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-rallying-today-93CH-5049723",
-      "ts": 1795583084000
     },
     {
       "time": "12:04 AM",
