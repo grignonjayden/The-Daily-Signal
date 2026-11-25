@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:41 AM ET",
+  "generated_at": "Nov 25, 2026, 1:45 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795588905518,
+  "updated_ts": 1795589108506,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -9,9 +9,9 @@
       "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN20H_L.jpg",
-      "time": "Nov 25, 1:00 AM",
+      "time": "Nov 25, 1:25 AM",
       "coverage": 5,
-      "ts": 1795586425000
+      "ts": 1795587915000
     },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -94,14 +94,14 @@
       "ts": 1795456173000
     },
     {
-      "title": "Malaysia Airlines parent to order 10 Boeing 787s to replace older Airbus jets",
+      "title": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO07H_L.jpg",
-      "time": "Nov 25, 1:12 AM",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "time": "Nov 25, 1:39 AM",
       "coverage": 2,
-      "ts": 1795587153000
+      "ts": 1795588785000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -237,10 +237,46 @@
   ],
   "ticker": [
     {
+      "time": "1:42 AM",
+      "title": "Investing.com — Cognizant in talks to take over parts of S&P Global’s Capital IQ operations, sources say",
+      "url": "https://www.investing.com/news/stock-market-news/cognizant-in-talks-to-take-over-parts-of-sp-globals-capital-iq-operations-sources-say-5049812",
+      "ts": 1795588951000
+    },
+    {
       "time": "1:33 AM",
       "title": "Bloomberg — Dangote Refinery Set to Start Trading in Lagos on Dec. 1",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-set-to-start-trading-in-lagos-on-dec-1-video",
       "ts": 1795588381000
+    },
+    {
+      "time": "1:29 AM",
+      "title": "Investing.com — Hydro cuts 2026 capex outlook by NOK 1 bln, targets NOK 3 bln in savings",
+      "url": "https://www.investing.com/news/stock-market-news/hydro-cuts-2026-capex-outlook-by-nok-1-bln-targets-nok-3-bln-in-savings-93CH-5049799",
+      "ts": 1795588189000
+    },
+    {
+      "time": "1:24 AM",
+      "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
+      "ts": 1795587886000
+    },
+    {
+      "time": "1:24 AM",
+      "title": "Investing.com — Aroundtown raises lower end of 2026 FFO I guidance after 9M results",
+      "url": "https://www.investing.com/news/stock-market-news/aroundtown-raises-lower-end-of-2026-ffo-i-guidance-after-9m-results-93CH-5049797",
+      "ts": 1795587880000
+    },
+    {
+      "time": "1:24 AM",
+      "title": "Investing.com — Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-to-launch-amazon-autos-in-uk-in-early-2027-in-first-expansion-beyond-us-5049784",
+      "ts": 1795587866000
+    },
+    {
+      "time": "1:23 AM",
+      "title": "Investing.com — Houthis threaten Saudi ports amid Yemen conflict escalation",
+      "url": "https://www.investing.com/news/stock-market-news/houthis-threaten-saudi-ports-amid-yemen-conflict-escalation-93CH-5049796",
+      "ts": 1795587788000
     },
     {
       "time": "1:21 AM",
@@ -261,52 +297,16 @@
       "ts": 1795587532000
     },
     {
-      "time": "1:18 AM",
-      "title": "Investing.com — Amazon to launch Amazon Autos in UK in early 2027 in first expansion beyond US",
-      "url": "https://www.investing.com/news/stock-market-news/amazon-to-launch-amazon-autos-in-uk-in-early-2027-in-first-expansion-beyond-us-5049784",
-      "ts": 1795587518000
-    },
-    {
-      "time": "1:18 AM",
-      "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
-      "ts": 1795587504000
-    },
-    {
       "time": "1:16 AM",
       "title": "Bloomberg — SailGP Launches UAE Team, Aims to Grow to 20 Teams",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/sailgp-launches-uae-team-aims-to-grow-to-20-teams-video",
       "ts": 1795587406000
     },
     {
-      "time": "1:15 AM",
-      "title": "Investing.com — Amazon Autos to launch in the UK in early 2027 with Hyundai",
-      "url": "https://www.investing.com/news/stock-market-news/amazon-autos-to-launch-in-the-uk-in-early-2027-with-hyundai-93CH-5049791",
-      "ts": 1795587346000
-    },
-    {
-      "time": "1:11 AM",
-      "title": "Investing.com — Bilibili HK shares jump over 7% as Q3 beat snap 10-session losing streak",
-      "url": "https://www.investing.com/news/stock-market-news/bilibili-hk-shares-jump-over-7-as-q3-beat-snap-10session-losing-streak-5049787",
-      "ts": 1795587119000
-    },
-    {
       "time": "1:10 AM",
       "title": "WSJ Markets — Bitcoin Options Signal Caution Despite Signs of Bargain Hunting",
       "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
       "ts": 1795587000000
-    },
-    {
-      "time": "1:09 AM",
-      "title": "CNBC — Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
-      "url": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
-      "ts": 1795586984000
-    },
-    {
-      "time": "1:05 AM",
-      "title": "Investing.com — Taiwan stocks lower at close of trade; Taiwan Weighted down 4.94%",
-      "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-494-5049783",
-      "ts": 1795586703000
     }
   ]
 }
