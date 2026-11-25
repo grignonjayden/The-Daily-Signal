@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:46 AM ET",
+  "generated_at": "Nov 25, 2026, 10:50 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795621608613,
+  "updated_ts": 1795621815309,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -34,6 +34,16 @@
       "ts": 1795616940000
     },
     {
+      "title": "Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+      "snippet": "Based on where retail investors bought Nvidia’s stock on the dip last week, their gains are nearly all gone, according to Vanda Research.",
+      "image": "https://images.mktw.net/im-31262008",
+      "time": "Nov 25, 10:43 AM",
+      "coverage": 3,
+      "ts": 1795621380000
+    },
+    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -42,16 +52,6 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
-    },
-    {
-      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
-      "snippet": "GameStop’s base of fervent retail investors is still intact, but Needham analysts say more institutional investors should take note of the company’s transformation.",
-      "image": "https://images.mktw.net/im-796776",
-      "time": "Nov 25, 9:32 AM",
-      "coverage": 4,
-      "ts": 1795617120000
     },
     {
       "title": "U.S. inflation rises further in October, bolstering odds of successive Fed rate hikes",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "10:46 AM",
+      "title": "CNBC — JPMorgan says the S&P 500 will rise to 8,200 next year because of the AI supercycle",
+      "url": "https://www.cnbc.com/2026/11/25/jpmorgan-sp-500-8200-2027-ai.html",
+      "ts": 1795621560000
+    },
+    {
       "time": "10:45 AM",
       "title": "CNBC — Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
       "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
@@ -300,12 +306,6 @@
       "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795620919000
-    },
-    {
-      "time": "10:33 AM",
-      "title": "Investing.com — Why is Applied Materials stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-sliding-today-93CH-5051147",
-      "ts": 1795620821000
     }
   ]
 }
