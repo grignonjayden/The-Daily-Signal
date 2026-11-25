@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:01 PM ET",
+  "generated_at": "Nov 25, 2026, 12:05 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795626112322,
+  "updated_ts": 1795626313938,
   "articles": [
     {
       "title": "US finds no evidence China directed executive to spy on Nvidia CEO, WSJ reports",
@@ -95,16 +95,6 @@
       "ts": 1795557180000
     },
     {
-      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits-5051214",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1HM_L.jpg",
-      "time": "Nov 25, 11:30 AM",
-      "coverage": 3,
-      "ts": 1795624256000
-    },
-    {
       "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
@@ -125,6 +115,16 @@
       "ts": 1795625042000
     },
     {
+      "title": "China eyes mergers, tougher rules to help struggling airlines, SCMP says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/china-eyes-mergers-tougher-rules-tohelp-struggling-airlines-scmp-says-5049814",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0EN_L.jpg",
+      "time": "Nov 25, 12:00 PM",
+      "coverage": 2,
+      "ts": 1795626038000
+    },
+    {
       "title": "Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
@@ -135,14 +135,14 @@
       "ts": 1795617488000
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
+      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
+      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
+      "time": "Nov 23, 9:06 AM",
       "coverage": 5,
-      "ts": 1795456173000
+      "ts": 1795442808000
     }
   ],
   "outlets": [
@@ -237,10 +237,46 @@
   ],
   "ticker": [
     {
+      "time": "12:01 PM",
+      "title": "Investing.com — US authorizes SpaceX to deploy 1 million satellites for data centers in space",
+      "url": "https://www.investing.com/news/stock-market-news/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space-5051261",
+      "ts": 1795626104000
+    },
+    {
+      "time": "12:00 PM",
+      "title": "CNBC — This missile maker's stock has fallen on expected U.S. military spending cuts, but its backlog reduces the risk",
+      "url": "https://www.cnbc.com/2026/11/25/rtx-stock-valuation-defense-budget.html",
+      "ts": 1795626038000
+    },
+    {
+      "time": "12:00 PM",
+      "title": "Investing.com — Sweden stocks lower at close of trade; OMX Stockholm 30 down 0.81%",
+      "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-081-5051257",
+      "ts": 1795626029000
+    },
+    {
+      "time": "11:55 AM",
+      "title": "Bloomberg — El Salvador Finally Reaps Economic Gains From Gang Crackdown",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/el-salvador-finally-reaps-economic-gains-from-gang-crackdown",
+      "ts": 1795625727000
+    },
+    {
       "time": "11:55 AM",
       "title": "Bloomberg — Peru Races to Resolve Informal Mining Fight by Year-End Deadline",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/peru-races-to-resolve-informal-mining-fight-by-year-end-deadline",
       "ts": 1795625718000
+    },
+    {
+      "time": "11:54 AM",
+      "title": "Investing.com — S&P revises NewMarket outlook to stable on specialty materials growth",
+      "url": "https://www.investing.com/news/stock-market-news/sp-revises-newmarket-outlook-to-stable-on-specialty-materials-growth-5051251",
+      "ts": 1795625642000
+    },
+    {
+      "time": "11:53 AM",
+      "title": "Investing.com — TD Cowen Says this Pharma Stock is a Best Idea for 2027",
+      "url": "https://www.investing.com/news/stock-market-news/td-cowen-says-this-pharma-stock-is-a-best-idea-for-2027-5051250",
+      "ts": 1795625608000
     },
     {
       "time": "11:53 AM",
@@ -271,42 +307,6 @@
       "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "ts": 1795625100000
-    },
-    {
-      "time": "11:45 AM",
-      "title": "Bloomberg — Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-post-ipo-struggles-contrast-with-spacex-s-early-days",
-      "ts": 1795625100000
-    },
-    {
-      "time": "11:42 AM",
-      "title": "CNBC — Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
-      "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
-      "ts": 1795624951000
-    },
-    {
-      "time": "11:40 AM",
-      "title": "Globe and Mail — Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
-      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
-      "ts": 1795624858000
-    },
-    {
-      "time": "11:38 AM",
-      "title": "Bloomberg — Russian Refinery Runs Plunge to Lowest in Decades, Rystad Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/russian-refinery-runs-plunge-to-lowest-in-decades-rystad-says",
-      "ts": 1795624696000
-    },
-    {
-      "time": "11:36 AM",
-      "title": "Investing.com — Bayer expands oncology pipeline with up to $3.25 billion Hansoh drug agreement",
-      "url": "https://www.investing.com/news/stock-market-news/bayer-expands-oncology-pipeline-with-up-to-325-billion-hansoh-drug-agreement-5051135",
-      "ts": 1795624608000
-    },
-    {
-      "time": "11:36 AM",
-      "title": "Investing.com — Fitch upgrades Cinemark to ‘BB’ on box office recovery and lower leverage",
-      "url": "https://www.investing.com/news/stock-market-news/fitch-upgrades-cinemark-to-bb-on-box-office-recovery-and-lower-leverage-5051203",
-      "ts": 1795624595000
     }
   ]
 }
