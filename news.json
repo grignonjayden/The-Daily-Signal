@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:43 AM ET",
+  "generated_at": "Nov 25, 2026, 10:46 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795621399799,
+  "updated_ts": 1795621608613,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -34,16 +34,6 @@
       "ts": 1795616940000
     },
     {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 25, 9:01 AM",
-      "coverage": 5,
-      "ts": 1795615260000
-    },
-    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -52,6 +42,16 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
+    },
+    {
+      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
+      "snippet": "GameStop’s base of fervent retail investors is still intact, but Needham analysts say more institutional investors should take note of the company’s transformation.",
+      "image": "https://images.mktw.net/im-796776",
+      "time": "Nov 25, 9:32 AM",
+      "coverage": 4,
+      "ts": 1795617120000
     },
     {
       "title": "U.S. inflation rises further in October, bolstering odds of successive Fed rate hikes",
@@ -116,16 +116,6 @@
       "ts": 1795472100000
     },
     {
-      "title": "Ambarella downgraded by BofA, Morgan Stanley as memory squeeze hits demand",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/ambarella-downgraded-by-bofa-morgan-stanley-as-memory-squeeze-hits-demand-5050947",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM18123_1200_L.jpg",
-      "time": "Nov 25, 9:21 AM",
-      "coverage": 2,
-      "ts": 1795616479000
-    },
-    {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
@@ -136,13 +126,22 @@
       "ts": 1795456173000
     },
     {
-      "title": "Why is CoreWeave stock sliding today?",
+      "title": "Macy’s options signal 7.3% move ahead of Dec. 2 earnings",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5050957",
+      "url": "https://www.investing.com/news/stock-market-news/macys-options-signal-73-move-ahead-of-dec-2-earnings-93CH-5051163",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "time": "Nov 25, 9:26 AM",
-      "ts": 1795616809000
+      "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "time": "Nov 25, 10:43 AM",
+      "ts": 1795621388000
+    },
+    {
+      "title": "US grocers serve up Thanksgiving deals even as turkey prices climb",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-grocers-serve-up-thanksgiving-deals-even-as-turkey-prices-climb-5050352",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0UV_L.jpg",
+      "time": "Nov 25, 10:42 AM",
+      "ts": 1795621365000
     }
   ],
   "outlets": [
@@ -237,10 +236,64 @@
   ],
   "ticker": [
     {
+      "time": "10:45 AM",
+      "title": "CNBC — Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
+      "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
+      "ts": 1795621512000
+    },
+    {
+      "time": "10:42 AM",
+      "title": "Investing.com — Why is Vertiv stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-vertiv-stock-sliding-today-93CH-5051161",
+      "ts": 1795621348000
+    },
+    {
+      "time": "10:42 AM",
+      "title": "Investing.com — American Eagle options signal 13% move around Dec. 2 earnings",
+      "url": "https://www.investing.com/news/stock-market-news/american-eagle-options-signal-13-move-around-dec-2-earnings-93CH-5051160",
+      "ts": 1795621328000
+    },
+    {
+      "time": "10:41 AM",
+      "title": "Investing.com — Netskope options signal 18% move ahead of earnings",
+      "url": "https://www.investing.com/news/stock-market-news/netskope-options-signal-18-move-ahead-of-earnings-93CH-5051159",
+      "ts": 1795621270000
+    },
+    {
+      "time": "10:41 AM",
+      "title": "MarketWatch — Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+      "url": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+      "ts": 1795621260000
+    },
+    {
       "time": "10:40 AM",
       "title": "CNBC — Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
       "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
       "ts": 1795621222000
+    },
+    {
+      "time": "10:39 AM",
+      "title": "Investing.com — Why is Taiwan Semiconductor Manufacturing stock plunging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-plunging-today-93CH-5051157",
+      "ts": 1795621196000
+    },
+    {
+      "time": "10:38 AM",
+      "title": "Investing.com — Why is CrowdStrike stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-crowdstrike-stock-sliding-today-93CH-5051154",
+      "ts": 1795621088000
+    },
+    {
+      "time": "10:37 AM",
+      "title": "Investing.com — CoreWeave bonds plunge as 2031 yield surges to 17.91%; Shares drop 10%",
+      "url": "https://www.investing.com/news/stock-market-news/coreweave-bonds-plunge-as-2031-yield-surges-to-1791-shares-drop-10-5051151",
+      "ts": 1795621069000
+    },
+    {
+      "time": "10:36 AM",
+      "title": "Investing.com — Why is Lam Research stock tumbling today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-lam-research-stock-tumbling-today-93CH-5051152",
+      "ts": 1795620973000
     },
     {
       "time": "10:35 AM",
@@ -249,64 +302,10 @@
       "ts": 1795620919000
     },
     {
-      "time": "10:32 AM",
-      "title": "CNBC — Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
-      "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
-      "ts": 1795620720000
-    },
-    {
-      "time": "10:27 AM",
-      "title": "CNBC — Best low-interest personal loans of December 2026",
-      "url": "https://www.cnbc.com/select/best-low-interest-personal-loans/",
-      "ts": 1795620476000
-    },
-    {
-      "time": "10:27 AM",
-      "title": "Bloomberg — DoubleLine’s Cohen Turns AI Debt Lover From Hater After Selloff",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/doubleline-s-cohen-turns-ai-debt-lover-from-hater-after-selloff",
-      "ts": 1795620471000
-    },
-    {
-      "time": "10:21 AM",
-      "title": "WSJ Markets — Treasury Yields Extend Fall After U.S. Data Flurry",
-      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
-      "ts": 1795620060000
-    },
-    {
-      "time": "10:20 AM",
-      "title": "Bloomberg — Air India Chief Seeks to Cut $650 Million in Costs This Year",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/air-india-chief-seeks-to-cut-650-million-in-costs-this-year",
-      "ts": 1795620013000
-    },
-    {
-      "time": "10:09 AM",
-      "title": "WSJ Markets — Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
-      "ts": 1795619340000
-    },
-    {
-      "time": "10:08 AM",
-      "title": "MarketWatch — Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
-      "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-      "ts": 1795619280000
-    },
-    {
-      "time": "10:01 AM",
-      "title": "Bloomberg — Homebuilder Stock Woes to Persist After Longest Slump Since 2008",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/homebuilder-stock-woes-to-persist-after-longest-slump-since-2008",
-      "ts": 1795618899000
-    },
-    {
-      "time": "10:01 AM",
-      "title": "MarketWatch — Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
-      "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
-      "ts": 1795618860000
-    },
-    {
-      "time": "10:00 AM",
-      "title": "CNBC — Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
-      "url": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html",
-      "ts": 1795618801000
+      "time": "10:33 AM",
+      "title": "Investing.com — Why is Applied Materials stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-sliding-today-93CH-5051147",
+      "ts": 1795620821000
     }
   ]
 }
