@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:37 AM ET",
+  "generated_at": "Nov 25, 2026, 12:40 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795585020254,
+  "updated_ts": 1795585222939,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "12:37 AM",
+      "title": "Bloomberg — Kochugovindan: Tech Volatility Is Here to Stay (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
+      "ts": 1795585031000
+    },
+    {
       "time": "12:20 AM",
       "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -285,7 +291,7 @@
     },
     {
       "time": "12:03 AM",
-      "title": "Bloomberg — Malaysia’s Government Will Likely Serve Full Term: Anwar Adviser",
+      "title": "Bloomberg — Malaysia Government Likely to Serve Full Term, Anwar Aide Says",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-s-government-will-likely-serve-full-term-anwar-adviser",
       "ts": 1795583028000
     },
@@ -300,12 +306,6 @@
       "title": "Bloomberg — Maybank Reviews Portfolio as Chip Curbs Hit Data Centers",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
       "ts": 1795581330000
-    },
-    {
-      "time": "Nov 24",
-      "title": "Globe and Mail — Martha Ford, former Detroit Lions owner with link to auto giants, dies at 101",
-      "url": "https://www.theglobeandmail.com/sports/football/article-martha-ford-former-lions-owner-with-link-to-auto-giants-dies-at-101/",
-      "ts": 1795580844000
     }
   ]
 }
