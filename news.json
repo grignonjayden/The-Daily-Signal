@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 11:05 PM ET",
+  "generated_at": "Nov 24, 2026, 11:08 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795579528698,
+  "updated_ts": 1795579739471,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "11:06 PM",
+      "title": "CNBC — ‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+      "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+      "ts": 1795579561000
+    },
+    {
       "time": "11:01 PM",
       "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — Singapore Dollar Weakens as Focus Turns to U.S. Econ Data",
       "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
       "ts": 1795577220000
-    },
-    {
-      "time": "10:10 PM",
-      "title": "Bloomberg — Starbucks Is Said to Engage Banks for Sale of Japan Business",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/starbucks-is-said-to-engage-banks-for-sale-of-japan-business",
-      "ts": 1795576223000
     }
   ]
 }
