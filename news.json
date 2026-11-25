@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:20 AM ET",
+  "generated_at": "Nov 25, 2026, 7:24 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795609233960,
+  "updated_ts": 1795609445850,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -19,9 +19,9 @@
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "snippet": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
       "image": "https://image.cnbcfm.com/api/v1/image/108556540-17951897842026-11-20t154510z_724308925_rc2proaof0e8_rtrmadp_0_usa-stocks.jpeg?v=1795189801&w=1920&h=1080",
-      "time": "Nov 25, 6:45 AM",
+      "time": "Nov 25, 7:22 AM",
       "coverage": 4,
-      "ts": 1795607137000
+      "ts": 1795609322000
     },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -75,6 +75,16 @@
       "ts": 1795519556000
     },
     {
+      "title": "Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
+      "snippet": "October’s spending report will show how much Americans are actually buying. Plus, why Dell checks whether its AI customers have enough electricity, and why shoppers snapped up an $800 Advent calendar.",
+      "image": "https://images.mktw.net/im-51990443",
+      "time": "Nov 25, 7:20 AM",
+      "coverage": 3,
+      "ts": 1795609200000
+    },
+    {
       "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
@@ -83,16 +93,6 @@
       "time": "Nov 25, 7:13 AM",
       "coverage": 3,
       "ts": 1795608780000
-    },
-    {
-      "title": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason, says JPMorgan",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
-      "snippet": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it is time to look more at adoption.",
-      "image": "https://images.mktw.net/im-32699184",
-      "time": "Nov 25, 6:27 AM",
-      "coverage": 3,
-      "ts": 1795606020000
     },
     {
       "title": "How one Wall St. strategist predicted the S&P 500’s wild 2-week swing",
