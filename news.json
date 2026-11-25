@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 8:43 PM ET",
+  "generated_at": "Nov 24, 2026, 8:46 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795571011478,
+  "updated_ts": 1795571213155,
   "articles": [
+    {
+      "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/huang-returns-as-nvidia-ceo-after-trump-intervention-in-abrupt-board-reversal-5049490",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAM18V_L.jpg",
+      "time": "Nov 24, 8:30 PM",
+      "coverage": 5,
+      "ts": 1795570228000
+    },
     {
       "title": "Nvidia’s Huang said he violated code of conduct, source says",
       "source": "Investing.com",
@@ -22,16 +32,6 @@
       "time": "Nov 24, 8:13 PM",
       "coverage": 5,
       "ts": 1795569236000
-    },
-    {
-      "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-5047621",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0VS_L.jpg",
-      "time": "Nov 24, 7:18 PM",
-      "coverage": 5,
-      "ts": 1795565911000
     },
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -70,7 +70,7 @@
       "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
       "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
       "time": "Nov 24, 6:25 AM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795519556000
     },
     {
@@ -249,6 +249,12 @@
       "ts": 1795570740000
     },
     {
+      "time": "8:36 PM",
+      "title": "Investing.com — Australian court approves a2 Milk’s class action settlement",
+      "url": "https://www.investing.com/news/stock-market-news/australian-court-approves-a2-milks-class-action-settlement-5049503",
+      "ts": 1795570583000
+    },
+    {
       "time": "8:32 PM",
       "title": "WSJ Markets — Gold’s Comeback May Have to Wait",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "Investing.com — China Southern orders 50 jets in Boeing’s biggest China deal in nearly a decade",
       "url": "https://www.investing.com/news/stock-market-news/china-southern-airlines-unit-to-buy-50-boeing-7378-aircraft-5047529",
       "ts": 1795566625000
-    },
-    {
-      "time": "7:30 PM",
-      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "ts": 1795566600000
     }
   ]
 }
