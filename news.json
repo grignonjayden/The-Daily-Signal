@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:39 AM ET",
+  "generated_at": "Nov 25, 2026, 9:42 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795617551154,
+  "updated_ts": 1795617754427,
   "articles": [
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -236,10 +236,16 @@
   ],
   "ticker": [
     {
-      "time": "9:35 AM",
+      "time": "9:41 AM",
       "title": "CNBC — Stocks tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795617332000
+      "ts": 1795617695000
+    },
+    {
+      "time": "9:39 AM",
+      "title": "CNBC — Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
+      "url": "https://www.cnbc.com/2026/11/25/kilmar-brego-garca-a-salvadoran-national-mistakenly-deported-from-the-us-arrives-in-spain-.html",
+      "ts": 1795617598000
     },
     {
       "time": "9:32 AM",
@@ -300,12 +306,6 @@
       "title": "CNBC — Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
       "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
       "ts": 1795616644000
-    },
-    {
-      "time": "9:23 AM",
-      "title": "CNBC — CNBC Insurance Pro: Should I get pay-per-mile car insurance in New York?",
-      "url": "https://www.cnbc.com/select/how-to-save-on-car-insurance-in-new-york/",
-      "ts": 1795616621000
     }
   ]
 }
