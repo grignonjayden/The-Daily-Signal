@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 10:52 PM ET",
+  "generated_at": "Nov 24, 2026, 10:55 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795578722248,
+  "updated_ts": 1795578923776,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "10:52 PM",
+      "title": "CNBC — SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "ts": 1795578723000
+    },
+    {
       "time": "10:37 PM",
       "title": "Investing.com — Starbucks weighs sale of Japan business worth several billion dollars - Bloomberg",
       "url": "https://www.investing.com/news/stock-market-news/starbucks-weighs-sale-of-japan-business-worth-several-billion-dollars--bloomberg-5049634",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — India’s Anti-AI Stock Trade Confronts Rich Valuations, Global Tariff Risks",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/india-s-anti-ai-stock-trade-confronts-rich-valuations-global-tariff-risks",
       "ts": 1795573828000
-    },
-    {
-      "time": "9:23 PM",
-      "title": "Bloomberg — Rakuten Credit Risk Surges After Yen Bond Offering Scrapped",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/rakuten-credit-risk-surges-after-yen-bond-offering-scrapped",
-      "ts": 1795573380000
     }
   ]
 }
