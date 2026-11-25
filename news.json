@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:29 AM ET",
+  "generated_at": "Nov 25, 2026, 2:32 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795591756346,
+  "updated_ts": 1795591957472,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -243,6 +243,12 @@
       "ts": 1795591648000
     },
     {
+      "time": "2:24 AM",
+      "title": "Bloomberg — A 2018 Playbook Would Not Bode Well for Markets: Taking Stock",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/a-2018-playbook-would-not-bode-well-for-markets-taking-stock",
+      "ts": 1795591479000
+    },
+    {
       "time": "2:20 AM",
       "title": "Investing.com — Hannover Re targets at least €2.9 bln net income in 2027, sets 18% ROE goal for 2027-29",
       "url": "https://www.investing.com/news/stock-market-news/hannover-re-targets-at-least-29-bln-net-income-in-2027-sets-18-roe-goal-for-202729-93CH-5049863",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Danantara Reports $634 Billion in Assets in First Audited Report",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/danantara-reports-634-billion-in-assets-in-first-audited-report",
       "ts": 1795589496000
-    },
-    {
-      "time": "1:49 AM",
-      "title": "Bloomberg — Treasuries Rise Across Curve as AI Concerns Dent Risk Sentiment",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/treasuries-rise-across-curve-as-ai-concerns-dent-risk-sentiment",
-      "ts": 1795589374000
     }
   ]
 }
