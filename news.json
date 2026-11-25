@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:41 AM ET",
+  "generated_at": "Nov 25, 2026, 8:45 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795614103101,
+  "updated_ts": 1795614303857,
   "articles": [
     {
       "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
@@ -14,36 +14,6 @@
       "ts": 1795613400000
     },
     {
-      "title": "U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
-      "snippet": "A plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year.",
-      "image": "https://images.mktw.net/im-17174473",
-      "time": "Nov 25, 8:30 AM",
-      "coverage": 6,
-      "ts": 1795613400000
-    },
-    {
-      "title": "Nasdaq 100 futures crater 3% on AI trade rout, U.S. tariffs; eyes on PCE data",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "time": "Nov 25, 8:21 AM",
-      "coverage": 6,
-      "ts": 1795612881000
-    },
-    {
-      "title": "Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "snippet": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108557486-1795449758810-gettyimages-2306507012-anotherday41812403_hs4scjlw.jpeg?v=1795449858&w=1920&h=1080",
-      "time": "Nov 25, 8:39 AM",
-      "coverage": 4,
-      "ts": 1795613981000
-    },
-    {
       "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
@@ -52,6 +22,16 @@
       "time": "Nov 25, 8:37 AM",
       "coverage": 5,
       "ts": 1795613855000
+    },
+    {
+      "title": "U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+      "snippet": "A plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year.",
+      "image": "https://images.mktw.net/im-17174473",
+      "time": "Nov 25, 8:30 AM",
+      "coverage": 5,
+      "ts": 1795613400000
     },
     {
       "title": "U.S. plans to hike tariffs on China, EU and other partners over subsidized production",
@@ -64,6 +44,26 @@
       "ts": 1795613399000
     },
     {
+      "title": "Nasdaq 100 futures crater 3% on AI trade rout, U.S. tariffs; eyes on PCE data",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "time": "Nov 25, 8:21 AM",
+      "coverage": 5,
+      "ts": 1795612881000
+    },
+    {
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
+      "time": "Nov 24, 8:13 PM",
+      "coverage": 5,
+      "ts": 1795569236000
+    },
+    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -72,16 +72,6 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
-    },
-    {
-      "title": "Nasdaq Futures Tumble as AI Selloff Returns",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
-      "snippet": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded.",
-      "image": "https://images.wsj.net/im-48917090",
-      "time": "Nov 25, 8:28 AM",
-      "coverage": 4,
-      "ts": 1795613280000
     },
     {
       "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
@@ -103,6 +93,16 @@
       "time": "Nov 25, 7:02 AM",
       "coverage": 4,
       "ts": 1795608160000
+    },
+    {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "image": "https://images.wsj.net/im-52991838",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 4,
+      "ts": 1795557180000
     },
     {
       "title": "Nvidia, chipmakers slide premarket; Dell falls despite upbeat outlook",
@@ -237,16 +237,46 @@
   ],
   "ticker": [
     {
-      "time": "8:39 AM",
+      "time": "8:44 AM",
+      "title": "CNBC — Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795614268000
+    },
+    {
+      "time": "8:44 AM",
       "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
       "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "ts": 1795613991000
+      "ts": 1795614253000
+    },
+    {
+      "time": "8:41 AM",
+      "title": "WSJ Markets — Euro Expected to Depreciate Further Against Dollar",
+      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "ts": 1795614060000
+    },
+    {
+      "time": "8:41 AM",
+      "title": "MarketWatch — Third-quarter GDP already looked great. Now it looks even better.",
+      "url": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+      "ts": 1795614060000
     },
     {
       "time": "8:34 AM",
       "title": "MarketWatch — Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
       "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
       "ts": 1795613640000
+    },
+    {
+      "time": "8:28 AM",
+      "title": "Bloomberg — Tech Selloff Pesists Ahead of PCE; US Prepares Tariff Hikes",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/bloomberg-brief-11-25-2026-video",
+      "ts": 1795613293000
+    },
+    {
+      "time": "8:28 AM",
+      "title": "WSJ Markets — Nasdaq Futures Tumble as AI Selloff Returns",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
+      "ts": 1795613280000
     },
     {
       "time": "8:24 AM",
@@ -277,36 +307,6 @@
       "title": "CNBC — Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
       "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
       "ts": 1795612834000
-    },
-    {
-      "time": "8:19 AM",
-      "title": "CNBC — Stocks making the biggest moves premarket: Nvidia, Urban Outfitters, Dell, Ambarella & more",
-      "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795612798000
-    },
-    {
-      "time": "8:17 AM",
-      "title": "Bloomberg — Goldman Strategist Says It’s Too Early to Buy the AI Selloff",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/goldman-strategist-says-it-s-too-early-to-buy-the-ai-selloff",
-      "ts": 1795612633000
-    },
-    {
-      "time": "8:16 AM",
-      "title": "Investing.com — The AI paradox: How global growth’s biggest engine became its greatest risk",
-      "url": "https://www.investing.com/news/stock-market-news/the-ai-paradox-how-global-growths-biggest-engine-became-its-greatest-risk-5050712",
-      "ts": 1795612576000
-    },
-    {
-      "time": "8:16 AM",
-      "title": "MarketWatch — What the options market says to do with Nvidia’s stock — and the rest of the stock market",
-      "url": "https://www.marketwatch.com/story/what-the-options-market-says-to-do-with-nvidias-stock-and-the-rest-of-the-stock-market-de9584ae?mod=mw_rss_topstories",
-      "ts": 1795612560000
-    },
-    {
-      "time": "8:15 AM",
-      "title": "CNBC — The Fed is likely to raise rates in December. What it means for your holiday spending",
-      "url": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html",
-      "ts": 1795612501000
     }
   ]
 }
