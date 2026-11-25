@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 7:38 PM ET",
+  "generated_at": "Nov 24, 2026, 7:42 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795567136586,
+  "updated_ts": 1795567352874,
   "articles": [
     {
       "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "7:41 PM",
+      "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795567272000
+    },
+    {
       "time": "7:30 PM",
       "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
@@ -253,12 +259,6 @@
       "title": "WSJ Markets — Nikkei Falls 2.8%, Dragged by Chip-Related Stocks",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
       "ts": 1795566060000
-    },
-    {
-      "time": "7:20 PM",
-      "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795566042000
     },
     {
       "time": "7:12 PM",
