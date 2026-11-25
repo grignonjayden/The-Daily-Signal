@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 6:32 AM ET",
+  "generated_at": "Nov 25, 2026, 6:36 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795606379529,
+  "updated_ts": 1795606580241,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "6:31 AM",
+      "title": "WSJ Markets — The AI Grinch Won’t Steal Christmas, but Watch Next Year",
+      "url": "https://www.wsj.com/finance/stocks/the-ai-grinch-wont-steal-christmas-but-watch-next-year-b5b2dd7a?mod=rss_markets_main",
+      "ts": 1795606260000
+    },
+    {
       "time": "6:25 AM",
       "title": "WSJ Markets — Nvidia’s Role as an Underwriter of the AI Boom",
       "url": "https://www.wsj.com/finance/investing/nvidias-role-as-an-underwriter-of-the-ai-boom-95375800?mod=rss_markets_main",
@@ -299,12 +305,6 @@
       "time": "6:00 AM",
       "title": "WSJ Markets — Jamie Dimon Loved Britain—Until It Raised Taxes on JPMorgan",
       "url": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?mod=rss_markets_main",
-      "ts": 1795604400000
-    },
-    {
-      "time": "6:00 AM",
-      "title": "Globe and Mail — New northern B.C. berth opens, but 11-year-old exclusivity deal stops it from progressing",
-      "url": "https://www.theglobeandmail.com/business/economy/article-port-prince-rupert-berth-opens-exclusivity-deal-stops-progress/",
       "ts": 1795604400000
     }
   ]
