@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:53 AM ET",
+  "generated_at": "Nov 25, 2026, 10:56 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795622016251,
+  "updated_ts": 1795622217533,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -116,6 +116,15 @@
       "ts": 1795472100000
     },
     {
+      "title": "Why is Applied Materials stock sliding today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-sliding-today-93CH-5051147",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEJ2C0GJ_L.jpg",
+      "time": "Nov 25, 10:33 AM",
+      "ts": 1795620821000
+    },
+    {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
@@ -133,15 +142,6 @@
       "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
       "time": "Nov 25, 10:43 AM",
       "ts": 1795621388000
-    },
-    {
-      "title": "US grocers serve up Thanksgiving deals even as turkey prices climb",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-grocers-serve-up-thanksgiving-deals-even-as-turkey-prices-climb-5050352",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0UV_L.jpg",
-      "time": "Nov 25, 10:42 AM",
-      "ts": 1795621365000
     }
   ],
   "outlets": [
@@ -236,6 +236,24 @@
   ],
   "ticker": [
     {
+      "time": "10:55 AM",
+      "title": "CNBC — Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+      "ts": 1795622140000
+    },
+    {
+      "time": "10:49 AM",
+      "title": "Bloomberg — Hassett Sees a “Goldilocks” Economy",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/hassett-sees-a-goldilocks-economy-video",
+      "ts": 1795621787000
+    },
+    {
+      "time": "10:48 AM",
+      "title": "Bloomberg — Dubai Bank Merger to Create $159 Billion Islamic Lending Giant",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/dubai-bank-merger-to-create-159-billion-islamic-lending-giant",
+      "ts": 1795621688000
+    },
+    {
       "time": "10:46 AM",
       "title": "CNBC — JPMorgan says the S&P 500 will rise to 8,200 next year because of the AI supercycle",
       "url": "https://www.cnbc.com/2026/11/25/jpmorgan-sp-500-8200-2027-ai.html",
@@ -246,6 +264,12 @@
       "title": "CNBC — Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
       "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
       "ts": 1795621512000
+    },
+    {
+      "time": "10:42 AM",
+      "title": "Investing.com — US grocers serve up Thanksgiving deals even as turkey prices climb",
+      "url": "https://www.investing.com/news/stock-market-news/us-grocers-serve-up-thanksgiving-deals-even-as-turkey-prices-climb-5050352",
+      "ts": 1795621365000
     },
     {
       "time": "10:42 AM",
@@ -282,30 +306,6 @@
       "title": "Investing.com — Why is Taiwan Semiconductor Manufacturing stock plunging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-plunging-today-93CH-5051157",
       "ts": 1795621196000
-    },
-    {
-      "time": "10:38 AM",
-      "title": "Investing.com — Why is CrowdStrike stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-crowdstrike-stock-sliding-today-93CH-5051154",
-      "ts": 1795621088000
-    },
-    {
-      "time": "10:37 AM",
-      "title": "Investing.com — CoreWeave bonds plunge as 2031 yield surges to 17.91%; Shares drop 10%",
-      "url": "https://www.investing.com/news/stock-market-news/coreweave-bonds-plunge-as-2031-yield-surges-to-1791-shares-drop-10-5051151",
-      "ts": 1795621069000
-    },
-    {
-      "time": "10:36 AM",
-      "title": "Investing.com — Why is Lam Research stock tumbling today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-lam-research-stock-tumbling-today-93CH-5051152",
-      "ts": 1795620973000
-    },
-    {
-      "time": "10:35 AM",
-      "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795620919000
     }
   ]
 }
