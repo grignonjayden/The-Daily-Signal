@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 25, 2026, 2:58 PM ET",
+  "generated_at": "Nov 25, 2026, 3:07 PM ET",
   "date_key": "2026-11-25",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -100,6 +100,18 @@
       "group": "sector"
     },
     {
+      "title": "Loonie jumps as Macklem stays hawkish",
+      "url": "https://www.cp24.com/news/money/2026/11/25/tandem-rate-hikes-from-the-boc-and-fed-bodes-well-for-the-loonie-fx-expert-says/",
+      "image": "https://www.cp24.com/resizer/v2/GMBAIYBQBFNUDWANG54RHHA4IM.jpg?auth=dc05562ded46d9b3535737d72f6e5d26db9a53685e4f7d0840ba95483dbbebd7&smart=true&width=1400&height=997",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 25",
+      "date": "2026-11-25T22:47:09.000Z",
+      "group": "policy"
+    },
+    {
       "title": "Falling global oil prices could mean inflation ends below forecast, Bank of Canada says",
       "url": "https://www.cp24.com/news/money/2026/11/24/macklem-says-inflation-forecast-is-lower-but-oil-price-pressures-are-lingering/",
       "image": "https://www.cp24.com/resizer/v2/XDEEBJ75UTIWNS6MRCQZZP4T7U.jpg?auth=1d68eef2a5da4d8ad29d4b3800198955194b68e13dc7e40666d4a166259b6277&smart=true&width=1400&height=917",
@@ -158,18 +170,6 @@
       "time": "Nov 25",
       "date": "2026-11-25T13:30:36.000Z",
       "group": "policy"
-    },
-    {
-      "title": "Bank of Canada expects 2nd round of oil-linked inflation in 2027, Macklem says",
-      "url": "https://www.cbc.ca/news/business/bank-canada-governor-tiff-macklem-speech-9.7433693?cmp=rss",
-      "image": "https://i.cbc.ca/ais/065d45b8-8024-4489-92c9-f21ada518486,1795552096676/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B",
-      "source": "CBC News",
-      "badge": "CBC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 24",
-      "date": "2026-11-24T18:22:26.000Z",
-      "group": "policy"
     }
   ],
   "sources": [
@@ -208,11 +208,6 @@
   ],
   "feed_status": [
     {
-      "source": "Bank of Canada",
-      "fetched": 20,
-      "kept": 3
-    },
-    {
       "source": "CBC News",
       "fetched": 40,
       "kept": 2
@@ -223,14 +218,14 @@
       "kept": 4
     },
     {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 4
+    },
+    {
       "source": "CDEV",
       "fetched": 20,
       "kept": 0
-    },
-    {
-      "source": "ISED",
-      "fetched": 20,
-      "kept": 4
     },
     {
       "source": "Canada Media Fund",
@@ -238,14 +233,19 @@
       "kept": 1
     },
     {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
+      "source": "Bank of Canada",
+      "fetched": 20,
+      "kept": 3
+    },
+    {
+      "source": "ISED",
+      "fetched": 20,
       "kept": 4
     },
     {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 3
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
+      "kept": 4
     }
   ]
 }
