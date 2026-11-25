@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:36 PM ET",
+  "generated_at": "Nov 25, 2026, 1:40 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795631811697,
+  "updated_ts": 1795632012943,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -64,6 +64,16 @@
       "ts": 1795630007000
     },
     {
+      "title": "Wall Street cuts losses after brutal rout, Dow erases slide of over 2%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+      "time": "Nov 25, 1:01 PM",
+      "coverage": 4,
+      "ts": 1795629692000
+    },
+    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -82,17 +92,6 @@
       "time": "Nov 25, 9:38 AM",
       "coverage": 4,
       "ts": 1795617488000
-    },
-    {
-      "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Woes Mount",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
-      "snippet": "CoreWeave Inc. and Nvidia Corp. credit-risk measures hit fresh all-time highs Wednesday while gauges of perceived worry again reached levels last seen in March, as Wall Street grew increasingly concerned about the…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 11:44 AM",
-      "coverage": 2,
-      "ts": 1795625042000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -115,14 +114,14 @@
       "ts": 1795631160000
     },
     {
-      "title": "Wall Street cuts losses after brutal rout, Dow erases slide of over 2%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-      "time": "Nov 25, 1:01 PM",
-      "coverage": 3,
-      "ts": 1795629692000
+      "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Woes Mount",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
+      "snippet": "CoreWeave Inc. and Nvidia Corp. credit-risk measures hit fresh all-time highs Wednesday while gauges of perceived worry again reached levels last seen in March, as Wall Street grew increasingly concerned about the…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 11:44 AM",
+      "ts": 1795625042000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -238,10 +237,16 @@
   ],
   "ticker": [
     {
-      "time": "1:31 PM",
+      "time": "1:36 PM",
       "title": "CNBC — Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
       "url": "https://www.cnbc.com/2026/11/25/anthropic-stock-ipo-analyst-outlook.html",
-      "ts": 1795631519000
+      "ts": 1795631799000
+    },
+    {
+      "time": "1:36 PM",
+      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795631778000
     },
     {
       "time": "1:26 PM",
@@ -302,12 +307,6 @@
       "title": "Bloomberg — Ontario Teachers’ CEO Says ‘Very Long’ AI Buildout Imperils Bets",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/ontario-teachers-ceo-says-very-long-ai-buildout-imperils-bets",
       "ts": 1795629771000
-    },
-    {
-      "time": "1:02 PM",
-      "title": "CNBC — Nvidia’s Billion-Dollar Board Bet: Who’s Protected as Lawsuits Mount?",
-      "url": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html",
-      "ts": 1795629765000
     }
   ]
 }
