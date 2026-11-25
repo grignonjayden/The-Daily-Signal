@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:13 PM ET",
+  "generated_at": "Nov 25, 2026, 1:16 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795630396775,
+  "updated_ts": 1795630597968,
   "articles": [
     {
       "title": "U.S. Justice Department did not open probe into Jensen Huang before Nvidia rehired him, sources say",
@@ -85,7 +85,7 @@
       "ts": 1795619245000
     },
     {
-      "title": "Stocks slide as AI sell-off deepens, Fed's preferred inflation gauge rises",
+      "title": "Tech sell-off deepens as Nasdaq, S&P 500 slide",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
       "snippet": "U.S. equities tumbled Wednesday after key PCE inflation data as Nvidia, Anthropic and Big Tech stocks slid alongside fresh Trump administration tariff proposals.",
@@ -93,6 +93,17 @@
       "time": "Nov 25, 9:38 AM",
       "coverage": 4,
       "ts": 1795617488000
+    },
+    {
+      "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Woes Mount",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
+      "snippet": "CoreWeave Inc. and Nvidia Corp. credit-risk measures hit fresh all-time highs Wednesday while gauges of perceived worry again reached levels last seen in March, as Wall Street grew increasingly concerned about the…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 11:44 AM",
+      "coverage": 2,
+      "ts": 1795625042000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -115,24 +126,14 @@
       "ts": 1795629692000
     },
     {
-      "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Woes Mount",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
-      "snippet": "CoreWeave Inc. and Nvidia Corp. credit-risk measures hit fresh all-time highs Wednesday while gauges of perceived worry again reached levels last seen in March, as Wall Street grew increasingly concerned about the…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 11:44 AM",
-      "ts": 1795625042000
-    },
-    {
-      "title": "CoreWeave banks prepare $4.5 billion Meta-tied loan sale next week, Bloomberg says",
+      "title": "FTSE 100 today: Stocks fall as U.S. tech stocks dent sentiment",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/coreweave-banks-prepare-45-billion-metatied-loan-sale-next-week-bloomberg-says-5051311",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-consumer-shares-lead-us-pce-awaited-5049957",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEL660HL_L.jpg",
-      "time": "Nov 25, 1:00 PM",
-      "coverage": 2,
-      "ts": 1795629618000
+      "image": "https://content-media.investing.com/news/LYNXMPEB3J0AS_M.jpg",
+      "time": "Nov 25, 12:17 PM",
+      "coverage": 3,
+      "ts": 1795627045000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -237,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "1:13 PM",
+      "title": "Globe and Mail — Volatility-weary investors fret as new U.S. tariffs add to tech pain",
+      "url": "https://www.theglobeandmail.com/investing/article-volatility-weary-investors-fret-as-new-us-tariffs-add-to-tech-pain/",
+      "ts": 1795630417000
+    },
+    {
       "time": "1:08 PM",
       "title": "CNBC — Stocks making the biggest moves Wednesday: HP Inc, Ambarella, Nvidia, Sandisk & more",
       "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
@@ -253,6 +260,18 @@
       "title": "Bloomberg — Ontario Teachers’ CEO Says ‘Very Long’ AI Buildout Imperils Bets",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/ontario-teachers-ceo-says-very-long-ai-buildout-imperils-bets",
       "ts": 1795629771000
+    },
+    {
+      "time": "1:02 PM",
+      "title": "CNBC — Nvidia’s Billion-Dollar Board Bet: Who’s Protected as Lawsuits Mount?",
+      "url": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html",
+      "ts": 1795629765000
+    },
+    {
+      "time": "1:00 PM",
+      "title": "Investing.com — CoreWeave banks prepare $4.5 billion Meta-tied loan sale next week, Bloomberg says",
+      "url": "https://www.investing.com/news/stock-market-news/coreweave-banks-prepare-45-billion-metatied-loan-sale-next-week-bloomberg-says-5051311",
+      "ts": 1795629618000
     },
     {
       "time": "12:57 PM",
@@ -289,24 +308,6 @@
       "title": "WSJ Markets — Financial Services Roundup: Market Talk",
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f29f7572?mod=rss_markets_main",
       "ts": 1795628460000
-    },
-    {
-      "time": "12:39 PM",
-      "title": "MarketWatch — Why this stock-market selloff is probably going to get worse before it gets better",
-      "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-      "ts": 1795628340000
-    },
-    {
-      "time": "12:37 PM",
-      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9535388e?mod=rss_markets_main",
-      "ts": 1795628220000
-    },
-    {
-      "time": "12:36 PM",
-      "title": "CNBC — Kalshi traders say state data center moratoriums are more likely than not",
-      "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
-      "ts": 1795628214000
     }
   ]
 }
