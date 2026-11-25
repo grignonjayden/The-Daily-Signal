@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 25, 2026, 8:28 AM ET",
+  "generated_at": "Nov 25, 2026, 9:01 AM ET",
   "date_key": "2026-11-25",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -13,18 +13,6 @@
       "sector": "AI & tech",
       "time": "Nov 24",
       "date": "2026-11-24T23:37:17.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "James Moore: Some urgent questions for Mark Carney before a tariff deal with the U.S.",
-      "url": "https://www.cp24.com/news/canada/2026/11/24/james-moore-some-urgent-questions-for-mark-carney-before-a-tariff-deal-with-the-us/",
-      "image": "https://www.cp24.com/resizer/v2/AI5Q33VQS5EDVJBSFAEXX2YEWQ.JPG?auth=eefa7f43a7dbf2d050a6f84039a37afd64cf3a57b53ec5a0dabf44cb840ab948&smart=true&width=4716&height=3144",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Trade",
-      "time": "Nov 24",
-      "date": "2026-11-24T20:29:07.000Z",
       "group": "sector"
     },
     {
@@ -100,6 +88,18 @@
       "group": "policy"
     },
     {
+      "title": "Canada’s 2026 Budget Is Not Restraining Spending",
+      "url": "https://cdhowe.org/publication/canadas-2026-budget-is-not-restraining-spending/",
+      "image": "https://cdhowe.org/wp-content/uploads/2026/11/Nov25_Memo_table_2026-150x150.jpg",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Fiscal",
+      "time": "Nov 25",
+      "date": "2026-11-25T13:30:36.000Z",
+      "group": "policy"
+    },
+    {
       "title": "Bank of Canada keeps 2% inflation target but adjusts what to track",
       "url": "https://www.cp24.com/news/money/2026/11/24/macklem-admits-bank-of-canada-offered-mixed-messaging-on-core-inflation-in-past/",
       "image": "https://www.cp24.com/resizer/v2/LMOMYW434FLI45QC7W3N5BKSAU.jpg?auth=c10305f20554a96ca02fc0268f3874a2b3c755966de4a087394e4452eb926795&smart=true&width=1400&height=911",
@@ -146,18 +146,6 @@
       "time": "Nov 24",
       "date": "2026-11-24T13:30:29.000Z",
       "group": "policy"
-    },
-    {
-      "title": "Speech by Tiff Macklem, Governor of the Bank of Canada",
-      "url": "https://www.bankofcanada.ca/2026/11/speech-tiff-macklem-governor-bank-canada-2026-11-24/",
-      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
-      "source": "Bank of Canada",
-      "badge": "BoC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 24",
-      "date": "2026-11-24T12:40:55.000Z",
-      "group": "policy"
     }
   ],
   "sources": [
@@ -201,14 +189,19 @@
       "kept": 3
     },
     {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
+    },
+    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 3
     },
     {
       "source": "CDEV",
@@ -228,11 +221,6 @@
     {
       "source": "C.D. Howe Institute",
       "fetched": 24,
-      "kept": 4
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
       "kept": 4
     }
   ]
