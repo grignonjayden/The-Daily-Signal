@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:28 PM ET",
+  "generated_at": "Nov 25, 2026, 4:32 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795642122199,
+  "updated_ts": 1795642322946,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -74,17 +74,6 @@
       "ts": 1795640734000
     },
     {
-      "title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades",
-      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 2:49 PM",
-      "coverage": 2,
-      "ts": 1795636158000
-    },
-    {
       "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
@@ -134,6 +123,17 @@
       "time": "Nov 25, 4:03 PM",
       "coverage": 2,
       "ts": 1795640597000
+    },
+    {
+      "title": "Targa Is Said in Talks to Buy Kinetik in Major Pipeline Tie-Up",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up",
+      "snippet": "Targa Resources Corp. is in talks to acquire Kinetik Holdings Inc., a publicly-listed pipeline company partly owned by Blackstone Inc., according to people familiar with the matter.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 4:00 PM",
+      "coverage": 2,
+      "ts": 1795640457000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "4:28 PM",
+      "title": "WSJ Markets — U.S. Dollar Slips After Muted Reaction to U.S. Data",
+      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "ts": 1795642080000
+    },
+    {
       "time": "4:26 PM",
       "title": "CNBC — Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
       "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
@@ -248,6 +254,12 @@
       "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
       "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
       "ts": 1795641996000
+    },
+    {
+      "time": "4:23 PM",
+      "title": "Bloomberg — Market Volatility Highly Unlikely To Continue: Kindler",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/market-volatility-highly-unlikely-to-continue-kindler-video",
+      "ts": 1795641793000
     },
     {
       "time": "4:23 PM",
@@ -296,18 +308,6 @@
       "title": "Investing.com — Third Point reopens private investment side pocket to hedge fund clients - WSJ",
       "url": "https://www.investing.com/news/stock-market-news/third-point-reopens-private-investment-side-pocket-to-hedge-fund-clients--wsj-5051447",
       "ts": 1795640755000
-    },
-    {
-      "time": "4:03 PM",
-      "title": "Bloomberg — The Debate Over Where Anthropic’s New Millionaires Should Donate Their Money",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/where-will-anthropic-s-new-millionaires-donate-video",
-      "ts": 1795640591000
-    },
-    {
-      "time": "4:02 PM",
-      "title": "CNBC — 10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-      "ts": 1795640525000
     }
   ]
 }
