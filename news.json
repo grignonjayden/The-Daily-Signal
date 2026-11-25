@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:07 AM ET",
+  "generated_at": "Nov 25, 2026, 1:10 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795586853740,
+  "updated_ts": 1795587054815,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:02 AM",
+      "title": "Bloomberg — Maybank Reviews Exposure as US Chip Curbs Hit",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/maybank-reviews-exposure-as-us-chip-curbs-hit-video",
+      "ts": 1795586576000
+    },
+    {
       "time": "12:58 AM",
       "title": "Investing.com — Malaysia’s MCMC sues Google for RM300mil over YouTube content",
       "url": "https://www.investing.com/news/stock-market-news/malaysias-mcmc-sues-google-for-rm300mil-over-youtube-content-93CH-5049771",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Why is Bilibili stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-bilibili-stock-surging-today-93CH-5049728",
       "ts": 1795583195000
-    },
-    {
-      "time": "12:06 AM",
-      "title": "Investing.com — Why is Advantest stock plunging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-advantest-stock-plunging-today-93CH-5049726",
-      "ts": 1795583173000
     }
   ]
 }
