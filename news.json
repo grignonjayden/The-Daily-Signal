@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:17 AM ET",
+  "generated_at": "Nov 25, 2026, 11:21 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795623441659,
+  "updated_ts": 1795623676902,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -54,14 +54,15 @@
       "ts": 1795551400000
     },
     {
-      "title": "U.S. inflation rises further in October, bolstering odds of successive Fed rate hikes",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-inflation-rises-further-in-october-bolstering-odds-of-successive/",
-      "snippet": "Personal Consumption Expenditures Price Index rose 0.3% last month, after a 0.5% gain in September",
-      "image": "https://www.theglobeandmail.com/resizer/v2/VUDARLZ5NJDYLEHKY4E65V5KSU.jpg?auth=3054035d7e65acc729ab52db5ac4d5ef2f12a9de943bd2d4a46e20f61778b5b1&smart=true&width=7820&height=5213",
-      "time": "Nov 25, 8:55 AM",
+      "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Deal",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
+      "snippet": "Banks are offering CVC Capital Partners Plc up to €11 billion ($12 billion) in debt financing for a takeover of Verisure Plc, as the buyout firm weighs a bid to return the home security group to private ownership…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 10:07 AM",
       "coverage": 4,
-      "ts": 1795614954000
+      "ts": 1795619245000
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -74,36 +75,14 @@
       "ts": 1795557180000
     },
     {
-      "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value",
-      "snippet": "The euphoria surrounding Nvidia Corp. shares following the return of Chief Executive Officer Jensen Huang on Monday is wearing off as investors come to grips with the questions still hanging over the world’s biggest…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 7:20 AM",
-      "coverage": 2,
-      "ts": 1795609258000
-    },
-    {
-      "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Takeover",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
-      "snippet": "Banks are offering CVC Capital Partners Plc up to €11 billion ($12 billion) in debt financing for a takeover of Verisure Plc, as the buyout firm weighs a bid to return the home security group to private ownership…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 10:07 AM",
-      "coverage": 3,
-      "ts": 1795619245000
-    },
-    {
-      "title": "Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities tumbled Wednesday after key PCE inflation data as Nvidia, Anthropic and Big Tech stocks slid alongside fresh Trump administration tariff proposals.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
-      "coverage": 3,
-      "ts": 1795617488000
+      "title": "The Trump effect? Breaking down Jensen Huang's comeback at Nvidia",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/video-the-trump-effect-breaking-down-jensen-huangs-comeback-at-nvidia/",
+      "snippet": "Nvidia reinstated Jensen Huang just 11 days after his resignation, capping a dramatic turnaround that followed pressure from President Donald Trump and assurances from the U.S. government that Huang posed no national…",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-24-2026%2Ft_e4b07219da7245ca9697271a68099c1d_name_2026_11_24T075428Z_1_LOP077724112026RP1_RTRMADP_BASEIMAGE_960X540_NVIDIA_CEO.JPG?auth=22fc16f0ad74929d59d19758a3a95ba3100bb2b75da07ba228b8e21894dbc2a4&smart=true&width=1920&height=1080",
+      "time": "Nov 24, 6:25 AM",
+      "coverage": 5,
+      "ts": 1795519556000
     },
     {
       "title": "U.S. Natural Gas Steady as December Contract Set to Expire",
@@ -117,15 +96,6 @@
       "ts": 1795615260000
     },
     {
-      "title": "Why is Lam Research stock tumbling today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-lam-research-stock-tumbling-today-93CH-5051152",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-      "time": "Nov 25, 10:36 AM",
-      "ts": 1795620973000
-    },
-    {
       "title": "Why is Applied Materials stock sliding today?",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-sliding-today-93CH-5051147",
@@ -133,6 +103,37 @@
       "image": "https://content-media.investing.com/news/moved_LYNXMPEJ2C0GJ_L.jpg",
       "time": "Nov 25, 10:33 AM",
       "ts": 1795620821000
+    },
+    {
+      "title": "CoreWeave bonds plunge as 2031 yield surges to 17.91%; Shares drop 10%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/coreweave-bonds-plunge-as-2031-yield-surges-to-1791-shares-drop-10-5051151",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM8O0Y3_L.jpg",
+      "time": "Nov 25, 10:37 AM",
+      "coverage": 2,
+      "ts": 1795621069000
+    },
+    {
+      "title": "JPMorgan Backs Drone Engine Maker’s $10 Million Muni Bond Sale",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-backs-drone-engine-maker-s-10-million-muni-bond-sale",
+      "snippet": "A drone engine manufacturer is making its debut in the US municipal bond market with a familiar name standing behind the debt: JPMorgan Chase & Co.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 10:20 AM",
+      "coverage": 2,
+      "ts": 1795620002000
+    },
+    {
+      "title": "Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
+      "snippet": "U.S. equities tumbled Wednesday after key PCE inflation data as Nvidia, Anthropic and Big Tech stocks slid alongside fresh Trump administration tariff proposals.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
+      "time": "Nov 25, 9:38 AM",
+      "coverage": 2,
+      "ts": 1795617488000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -237,16 +238,34 @@
   ],
   "ticker": [
     {
-      "time": "11:16 AM",
-      "title": "CNBC — Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "ts": 1795623400000
-    },
-    {
-      "time": "11:09 AM",
+      "time": "11:19 AM",
       "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795622972000
+      "ts": 1795623588000
+    },
+    {
+      "time": "11:17 AM",
+      "title": "CNBC — Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+      "ts": 1795623433000
+    },
+    {
+      "time": "11:15 AM",
+      "title": "Bloomberg — The RealReal CEO Sees Resale’s Structural Shift",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-realreal-ceo-sees-resale-s-structural-shift-video",
+      "ts": 1795623346000
+    },
+    {
+      "time": "11:15 AM",
+      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "ts": 1795623300000
+    },
+    {
+      "time": "11:13 AM",
+      "title": "Bloomberg — Europe Diesel Demand on Course to Fall Below Covid Levels",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/europe-diesel-demand-on-course-to-fall-below-covid-levels",
+      "ts": 1795623215000
     },
     {
       "time": "11:05 AM",
@@ -289,24 +308,6 @@
       "title": "Bloomberg — Hassett Sees a “Goldilocks” Economy",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/hassett-sees-a-goldilocks-economy-video",
       "ts": 1795621787000
-    },
-    {
-      "time": "10:48 AM",
-      "title": "Bloomberg — Dubai Bank Merger to Create $159 Billion Islamic Lending Giant",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/dubai-bank-merger-to-create-159-billion-islamic-lending-giant",
-      "ts": 1795621688000
-    },
-    {
-      "time": "10:46 AM",
-      "title": "CNBC — JPMorgan says the S&P 500 will rise to 8,200 next year because of the AI supercycle",
-      "url": "https://www.cnbc.com/2026/11/25/jpmorgan-sp-500-8200-2027-ai.html",
-      "ts": 1795621560000
-    },
-    {
-      "time": "10:45 AM",
-      "title": "CNBC — Army blows up bomb chemicals in Iowa despite fears a toxic plume could endanger residents",
-      "url": "https://www.cnbc.com/2026/11/25/army-plans-to-detonate-us-stockpile-of-lead-azide-in-iowa.html",
-      "ts": 1795621512000
     }
   ]
 }
