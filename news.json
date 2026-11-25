@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:09 AM ET",
+  "generated_at": "Nov 25, 2026, 10:13 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795619371178,
+  "updated_ts": 1795619580481,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -54,14 +54,14 @@
       "ts": 1795551400000
     },
     {
-      "title": "U.S. plans to hike tariffs on China, EU and other partners over subsidized production",
+      "title": "U.S. inflation rises further in October, bolstering odds of successive Fed rate hikes",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
-      "snippet": "Levies still at the proposal stage, with no strict timelines on implementation, official says",
-      "image": "https://www.theglobeandmail.com/resizer/v2/Q4VIBLF5KFCNTDSUQ2MJ57M5SM.jpg?auth=1caa2d9f94ad675798cb6410a7ff289c414503eb7e070caf81845c5946c4faec&smart=true&width=1668&height=1112",
-      "time": "Nov 25, 8:29 AM",
+      "url": "https://www.theglobeandmail.com/business/article-us-inflation-rises-further-in-october-bolstering-odds-of-successive/",
+      "snippet": "Personal Consumption Expenditures Price Index rose 0.3% last month, after a 0.5% gain in September",
+      "image": "https://www.theglobeandmail.com/resizer/v2/VUDARLZ5NJDYLEHKY4E65V5KSU.jpg?auth=3054035d7e65acc729ab52db5ac4d5ef2f12a9de943bd2d4a46e20f61778b5b1&smart=true&width=7820&height=5213",
+      "time": "Nov 25, 8:55 AM",
       "coverage": 4,
-      "ts": 1795613399000
+      "ts": 1795614954000
     },
     {
       "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
@@ -235,6 +235,18 @@
   ],
   "ticker": [
     {
+      "time": "10:09 AM",
+      "title": "WSJ Markets — Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
+      "ts": 1795619340000
+    },
+    {
+      "time": "10:08 AM",
+      "title": "MarketWatch — Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+      "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+      "ts": 1795619280000
+    },
+    {
       "time": "10:04 AM",
       "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 3% as Nvidia leads resumption of AI sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -293,18 +305,6 @@
       "title": "Bloomberg — Deere Sees Headwinds Ahead for Farmers in 2027",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/deere-sees-headwinds-ahead-for-farmers-in-2027-video",
       "ts": 1795617973000
-    },
-    {
-      "time": "9:45 AM",
-      "title": "Bloomberg — Bullrich dice que reelección de Milei está en riesgo si la economía no mejora",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/bullrich-dice-que-reeleccion-de-milei-esta-en-riesgo-si-la-economia-no-mejora",
-      "ts": 1795617951000
-    },
-    {
-      "time": "9:42 AM",
-      "title": "CNBC — Best low-interest personal loans of December 2026",
-      "url": "https://www.cnbc.com/select/best-low-interest-personal-loans/",
-      "ts": 1795617774000
     }
   ]
 }
