@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:30 PM ET",
+  "generated_at": "Nov 25, 2026, 2:33 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795635034763,
+  "updated_ts": 1795635235268,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -239,6 +239,18 @@
   ],
   "ticker": [
     {
+      "time": "2:30 PM",
+      "title": "WSJ Markets — Stocks Pare Losses as Anthropic Shares Swing Higher",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
+      "ts": 1795635000000
+    },
+    {
+      "time": "2:25 PM",
+      "title": "Bloomberg — Deal Fundamentals Remain Strong: Turk",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/deal-fundamentals-remain-strong-turk-video",
+      "ts": 1795634751000
+    },
+    {
       "time": "2:25 PM",
       "title": "CNBC — SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
       "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
@@ -297,18 +309,6 @@
       "title": "Investing.com — Australian regulator finds more suspected audit misconduct at Big Four firms",
       "url": "https://www.investing.com/news/stock-market-news/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms-5049824",
       "ts": 1795632867000
-    },
-    {
-      "time": "1:52 PM",
-      "title": "CNBC — There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
-      "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html",
-      "ts": 1795632779000
-    },
-    {
-      "time": "1:52 PM",
-      "title": "MarketWatch — Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
-      "url": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
-      "ts": 1795632720000
     }
   ]
 }

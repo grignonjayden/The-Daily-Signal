@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 25, 2026, 2:00 PM ET",
+  "generated_at": "Nov 25, 2026, 2:33 PM ET",
   "date_key": "2026-11-25",
   "sections": [
     {
@@ -181,7 +181,7 @@
             "dir": "flat"
           },
           "note": "Big banks’ advertised rate. Most borrowers get a lower, discounted rate.",
-          "as_of": "Bank of Canada (weekly) · Nov 18, 2026",
+          "as_of": "Bank of Canada (weekly) · Nov 25, 2026",
           "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/posted-interest-rates-offered-by-chartered-banks/"
         },
         {
@@ -193,7 +193,7 @@
             "dir": "flat"
           },
           "note": "Typical rate banks pay on a 1-year guaranteed investment certificate.",
-          "as_of": "Bank of Canada (weekly) · Nov 18, 2026",
+          "as_of": "Bank of Canada (weekly) · Nov 25, 2026",
           "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/posted-interest-rates-offered-by-chartered-banks/"
         }
       ]

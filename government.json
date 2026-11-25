@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 25, 2026, 2:00 PM ET",
+  "generated_at": "Nov 25, 2026, 2:33 PM ET",
   "date_key": "2026-11-25",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -112,6 +112,30 @@
       "group": "policy"
     },
     {
+      "title": "Three New Asset Classes Added as General Collateral Baskets Further Developing Canada’s Repo Market",
+      "url": "https://www.bankofcanada.ca/2026/11/three-new-asset-classes-added-as-general-collateral-baskets-further-developing-canadas-repo-market/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 25",
+      "date": "2026-11-25T14:00:26.000Z",
+      "group": "policy"
+    },
+    {
+      "title": "CIMPA publishes two best practices documents to promote the well-functioning of the Canadian securities and financing markets",
+      "url": "https://www.bankofcanada.ca/2026/11/cimpa-publishes-two-best-practices-documents-to-promote-the-well-functioning-of-the-canadian-securities-and-financing-markets/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 25",
+      "date": "2026-11-25T14:00:06.000Z",
+      "group": "policy"
+    },
+    {
       "title": "Canada’s 2026 Budget Is Not Restraining Spending",
       "url": "https://cdhowe.org/publication/canadas-2026-budget-is-not-restraining-spending/",
       "image": "https://cdhowe.org/wp-content/uploads/2026/11/Nov25_Memo_table_2026-150x150.jpg",
@@ -133,30 +157,6 @@
       "sector": "Fiscal",
       "time": "Nov 24",
       "date": "2026-11-24T22:18:27.000Z",
-      "group": "policy"
-    },
-    {
-      "title": "Bank of Canada expects 2nd round of oil-linked inflation in 2027, Macklem says",
-      "url": "https://www.cbc.ca/news/business/bank-canada-governor-tiff-macklem-speech-9.7433693?cmp=rss",
-      "image": "https://i.cbc.ca/ais/065d45b8-8024-4489-92c9-f21ada518486,1795552096676/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B",
-      "source": "CBC News",
-      "badge": "CBC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 24",
-      "date": "2026-11-24T18:22:26.000Z",
-      "group": "policy"
-    },
-    {
-      "title": "Bank of Canada Media Interview – The Logic",
-      "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-media-interview-the-logic/",
-      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
-      "source": "Bank of Canada",
-      "badge": "BoC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 24",
-      "date": "2026-11-24T15:00:24.000Z",
       "group": "policy"
     }
   ],
@@ -201,14 +201,19 @@
       "kept": 3
     },
     {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
+    },
+    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 3
     },
     {
       "source": "CDEV",
@@ -224,11 +229,6 @@
       "source": "ISED",
       "fetched": 20,
       "kept": 4
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 3
     },
     {
       "source": "C.D. Howe Institute",
