@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:31 AM ET",
+  "generated_at": "Nov 25, 2026, 11:34 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795624285920,
+  "updated_ts": 1795624487343,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -239,6 +239,24 @@
   ],
   "ticker": [
     {
+      "time": "11:30 AM",
+      "title": "WSJ Markets — Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
+      "url": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91?mod=rss_markets_main",
+      "ts": 1795624200000
+    },
+    {
+      "time": "11:30 AM",
+      "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "ts": 1795624200000
+    },
+    {
+      "time": "11:29 AM",
+      "title": "WSJ Markets — U.S. Crude Oil Stockpiles Rise for Third Straight Week",
+      "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-third-straight-week-90dfcab0?mod=rss_markets_main",
+      "ts": 1795624140000
+    },
+    {
       "time": "11:21 AM",
       "title": "MarketWatch — What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing",
       "url": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
@@ -291,24 +309,6 @@
       "title": "Investing.com — Wall Street back in correction territory amid deepening rout, Nasdaq plunges 4%",
       "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
       "ts": 1795622968000
-    },
-    {
-      "time": "11:08 AM",
-      "title": "Investing.com — Fitch upgrades Cinemark to ‘BB’ on box office recovery and lower leverage",
-      "url": "https://www.investing.com/news/stock-market-news/fitch-upgrades-cinemark-to-bb-on-box-office-recovery-and-lower-leverage-5051203",
-      "ts": 1795622906000
-    },
-    {
-      "time": "11:05 AM",
-      "title": "Investing.com — Wedbush starts Robinhood, Coinbase at Outperform in fintech coverage launch",
-      "url": "https://www.investing.com/news/stock-market-news/wedbush-starts-robinhood-coinbase-at-outperform-in-fintech-coverage-launch-5051199",
-      "ts": 1795622757000
-    },
-    {
-      "time": "11:05 AM",
-      "title": "CNBC — Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
-      "url": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
-      "ts": 1795622725000
     }
   ]
 }
