@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 6:50 PM ET",
+  "generated_at": "Nov 25, 2026, 6:54 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795650649998,
+  "updated_ts": 1795650852077,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -137,14 +137,14 @@
       "ts": 1795456173000
     },
     {
-      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
-      "coverage": 2,
-      "ts": 1795617488000
+      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
+      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
+      "time": "Nov 23, 9:06 AM",
+      "coverage": 6,
+      "ts": 1795442808000
     }
   ],
   "outlets": [
@@ -239,6 +239,18 @@
   ],
   "ticker": [
     {
+      "time": "6:50 PM",
+      "title": "CNBC — Gold falls to more than one-year low after data shows U.S. inflation rose further",
+      "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
+      "ts": 1795650653000
+    },
+    {
+      "time": "6:48 PM",
+      "title": "CNBC — Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "ts": 1795650531000
+    },
+    {
       "time": "6:43 PM",
       "title": "Investing.com — U.S. stock futures steady after whipsaw session on Wall St",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-whipsaw-session-on-wall-st-5051753",
@@ -297,18 +309,6 @@
       "title": "Investing.com — US airlines face higher costs from proposed Embraer duty",
       "url": "https://www.investing.com/news/stock-market-news/us-airlines-face-higher-costs-from-proposed-embraer-duty-5051651",
       "ts": 1795646259000
-    },
-    {
-      "time": "5:34 PM",
-      "title": "Globe and Mail — LCBO to deploy paid duty cops in over 40 stores to bolster anti-theft efforts",
-      "url": "https://www.theglobeandmail.com/canada/toronto/article-lcbo-cops-police-theft-security/",
-      "ts": 1795646090000
-    },
-    {
-      "time": "5:32 PM",
-      "title": "Investing.com — Cathay General Bancorp stock rises on $200M buyback expansion",
-      "url": "https://www.investing.com/news/stock-market-news/cathay-general-bancorp-stock-rises-on-200m-buyback-expansion-5051664",
-      "ts": 1795645921000
     }
   ]
 }
