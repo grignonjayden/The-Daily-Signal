@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:13 AM ET",
+  "generated_at": "Nov 25, 2026, 3:16 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795594392864,
+  "updated_ts": 1795594599079,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "3:09 AM",
+      "time": "3:15 AM",
       "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795594162000
+      "ts": 1795594558000
     },
     {
       "time": "2:57 AM",
