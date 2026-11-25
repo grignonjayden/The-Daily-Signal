@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:27 PM ET",
+  "generated_at": "Nov 25, 2026, 3:31 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795638470822,
+  "updated_ts": 1795638672354,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "3:27 PM",
+      "title": "Bloomberg — Blue Owl, Blackstone Make Rare Pension Deal",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/blue-owl-blackstone-make-rare-pension-deal-video",
+      "ts": 1795638437000
+    },
+    {
       "time": "3:23 PM",
       "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -302,12 +308,6 @@
       "title": "Bloomberg — BNP Paribas Hit by Higher Capital Surcharge Under New GSIB List",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/bnp-paribas-hit-by-higher-capital-surcharge-under-new-gsib-list",
       "ts": 1795637015000
-    },
-    {
-      "time": "3:00 PM",
-      "title": "Investing.com — In olive branch to banks, Italy plans to drop curbs on home renovation tax credits",
-      "url": "https://www.investing.com/news/stock-market-news/in-olive-branch-to-banks-italy-plans-to-drop-curbs-on-home-renovation-tax-credits-5051276",
-      "ts": 1795636843000
     }
   ]
 }
