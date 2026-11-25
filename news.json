@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:55 AM ET",
+  "generated_at": "Nov 25, 2026, 11:58 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795625708325,
+  "updated_ts": 1795625910900,
   "articles": [
     {
       "title": "US finds no evidence China directed executive to spy on Nvidia CEO, WSJ reports",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "11:55 AM",
+      "title": "Bloomberg — Peru Races to Resolve Informal Mining Fight by Year-End Deadline",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/peru-races-to-resolve-informal-mining-fight-by-year-end-deadline",
+      "ts": 1795625718000
+    },
+    {
+      "time": "11:53 AM",
+      "title": "MarketWatch — The latest stock-market drop could lower your tax bill over your lifetime",
+      "url": "https://www.marketwatch.com/story/the-latest-stock-market-drop-could-lower-your-tax-bill-over-your-lifetime-99420b97?mod=mw_rss_topstories",
+      "ts": 1795625580000
+    },
+    {
       "time": "11:49 AM",
       "title": "MarketWatch — ‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
       "url": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Givaudan, Firmenich, and IFF hit with €471.9 million EU antitrust fine",
       "url": "https://www.investing.com/news/stock-market-news/givaudan-firmenich-and-iff-hit-with-4719-million-eu-antitrust-fine-5051224",
       "ts": 1795624581000
-    },
-    {
-      "time": "11:35 AM",
-      "title": "Investing.com — Poland stocks lower at close of trade; WIG30 down 1.48%",
-      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-148-5051232",
-      "ts": 1795624503000
-    },
-    {
-      "time": "11:32 AM",
-      "title": "CNBC — There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
-      "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html",
-      "ts": 1795624375000
     }
   ]
 }
