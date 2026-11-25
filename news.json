@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 25, 2026, 2:22 AM ET",
+  "generated_at": "Nov 25, 2026, 2:25 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795591343944,
+  "updated_ts": 1795591554782,
   "articles": [
-    {
-      "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/huangs-return-to-nvidia-brings-openweight-ai-debate-to-forefront-in-washington-5049260",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN20H_L.jpg",
-      "time": "Nov 25, 1:25 AM",
-      "coverage": 5,
-      "ts": 1795587915000
-    },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
       "source": "CNBC",
@@ -20,7 +10,7 @@
       "snippet": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558122-1795511350905-gettyimages-2294461110-vcg111665309671.jpeg?v=1795511418&w=1920&h=1080",
       "time": "Nov 24, 8:13 PM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795569236000
     },
     {
@@ -30,7 +20,7 @@
       "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558276-1795524066667-gettyimages-2306584351-vcg111684383908.jpeg?v=1795524128&w=1920&h=1080",
       "time": "Nov 24, 6:13 PM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795562029000
     },
     {
@@ -40,7 +30,7 @@
       "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
       "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
       "time": "Nov 24, 3:16 PM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795551400000
     },
     {
@@ -84,14 +74,25 @@
       "ts": 1795556760000
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 5,
-      "ts": 1795456173000
+      "title": "China eyes mergers, tougher rules to help struggling airlines, SCMP says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/china-eyes-mergers-tougher-rules-tohelp-struggling-airlines-scmp-says-5049814",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0EN_L.jpg",
+      "time": "Nov 25, 2:06 AM",
+      "coverage": 2,
+      "ts": 1795590377000
+    },
+    {
+      "title": "Houthi Drone Hits Riyadh Financial District, Injuring 11 Amid Near-Daily Saudi Attacks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/horizons-middle-east-africa-25-112026-video",
+      "snippet": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 1:57 AM",
+      "coverage": 2,
+      "ts": 1795589872000
     },
     {
       "title": "BLACK FRIDAY IS LIVE: The lowest price of the year is in with 60% off InvestingPro",
@@ -104,24 +105,14 @@
       "ts": 1795589527000
     },
     {
-      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
-      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
-      "time": "Nov 23, 9:06 AM",
-      "coverage": 5,
-      "ts": 1795442808000
-    },
-    {
-      "title": "Horizons Middle East & Africa 25/112026 (Video)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/horizons-middle-east-africa-25-112026-video",
-      "snippet": "",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 1:57 AM",
-      "ts": 1795589872000
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 4,
+      "ts": 1795456173000
     },
     {
       "title": "Dangote Refinery Said to List in Lagos on December 1",
@@ -142,6 +133,16 @@
       "time": "Nov 24, 4:53 PM",
       "coverage": 2,
       "ts": 1795557180000
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/nvidia-reinstates-jensen-huang-ceo",
+      "snippet": "Nvidia on Monday reinstated co-founder Jensen Huang as CEO. An independent probe into a reported foreign intelligence effort continues.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang.jpg",
+      "time": "Nov 23, 9:06 AM",
+      "coverage": 4,
+      "ts": 1795442808000
     }
   ],
   "outlets": [
@@ -235,6 +236,42 @@
   ],
   "ticker": [
     {
+      "time": "2:20 AM",
+      "title": "Investing.com — Hannover Re targets at least €2.9 bln net income in 2027, sets 18% ROE goal for 2027-29",
+      "url": "https://www.investing.com/news/stock-market-news/hannover-re-targets-at-least-29-bln-net-income-in-2027-sets-18-roe-goal-for-202729-93CH-5049863",
+      "ts": 1795591253000
+    },
+    {
+      "time": "2:18 AM",
+      "title": "Investing.com — Australia passes law forcing internet platforms to take down harmful content",
+      "url": "https://www.investing.com/news/stock-market-news/australia-passes-law-forcing-internet-platforms-to-take-down-harmful-content-5049860",
+      "ts": 1795591134000
+    },
+    {
+      "time": "2:18 AM",
+      "title": "Investing.com — EasyJet posts annual profit miss on fuel costs ahead of Apollo takeover",
+      "url": "https://www.investing.com/news/stock-market-news/easyjet-posts-annual-profit-miss-on-fuel-costs-ahead-of-apollo-takeover-5049859",
+      "ts": 1795591121000
+    },
+    {
+      "time": "2:12 AM",
+      "title": "Investing.com — Indra raises 2030 revenue target to over €12 bln, margin goal to 12.5%",
+      "url": "https://www.investing.com/news/stock-market-news/indra-raises-2030-revenue-target-to-over-12-bln-margin-goal-to-125-5049850",
+      "ts": 1795590756000
+    },
+    {
+      "time": "2:05 AM",
+      "title": "Investing.com — Japan stocks lower at close of trade; Nikkei 225 down 2.62%",
+      "url": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-262-5049846",
+      "ts": 1795590303000
+    },
+    {
+      "time": "2:03 AM",
+      "title": "Investing.com — Why is WebBeds stock plunging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-webbeds-stock-plunging-today-93CH-5049842",
+      "ts": 1795590202000
+    },
+    {
       "time": "1:53 AM",
       "title": "Investing.com — Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs",
       "url": "https://www.investing.com/news/stock-market-news/xiaomi-shares-jump-over-8-as-premium-phone-sales-cushion-rising-chip-costs-5049681",
@@ -269,42 +306,6 @@
       "title": "Bloomberg — GPIF Agenda May Signal Portfolio Review Progress, JPMorgan Says",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/gpif-agenda-may-signal-portfolio-review-progress-jpmorgan-says-mwvrj40v",
       "ts": 1795589336000
-    },
-    {
-      "time": "1:48 AM",
-      "title": "Investing.com — Australian regulator finds more suspected audit misconduct at Big Four firms",
-      "url": "https://www.investing.com/news/stock-market-news/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms-5049824",
-      "ts": 1795589301000
-    },
-    {
-      "time": "1:47 AM",
-      "title": "Investing.com — Asian stocks slide as Taiwan, South Korea extend AI-led losses",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630",
-      "ts": 1795589266000
-    },
-    {
-      "time": "1:47 AM",
-      "title": "Bloomberg — FTSE 100 Live: UK Stocks to Rebound, Pound Slips Further Below $1.31",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-11-25/ftse-100-live-updates-ai-stocks-pound-gilts-bonds-energy-bills-what-s-moving-uk-markets-right-now-markets-today",
-      "ts": 1795589236000
-    },
-    {
-      "time": "1:43 AM",
-      "title": "Investing.com — China eyes mergers, tougher rules to help struggling airlines, SCMP says",
-      "url": "https://www.investing.com/news/stock-market-news/china-eyes-mergers-tougher-rules-tohelp-struggling-airlines-scmp-says-5049814",
-      "ts": 1795589005000
-    },
-    {
-      "time": "1:42 AM",
-      "title": "Investing.com — Cognizant in talks to take over parts of S&P Global’s Capital IQ operations, sources say",
-      "url": "https://www.investing.com/news/stock-market-news/cognizant-in-talks-to-take-over-parts-of-sp-globals-capital-iq-operations-sources-say-5049812",
-      "ts": 1795588951000
-    },
-    {
-      "time": "1:39 AM",
-      "title": "Investing.com — Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
-      "ts": 1795588785000
     }
   ]
 }
