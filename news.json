@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 6:50 AM ET",
+  "generated_at": "Nov 25, 2026, 6:53 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795607411593,
+  "updated_ts": 1795607618371,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -248,6 +248,12 @@
       "ts": 1795607137000
     },
     {
+      "time": "6:42 AM",
+      "title": "Bloomberg — How Do Europe's Companies Regain Their Edge?",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/how-do-europe-s-companies-regain-their-edge-video",
+      "ts": 1795606921000
+    },
+    {
       "time": "6:33 AM",
       "title": "Investing.com — Why is Stellantis stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-surging-today-93CH-5050392",
@@ -299,12 +305,6 @@
       "time": "6:25 AM",
       "title": "WSJ Markets — Nvidia’s Role as an Underwriter of the AI Boom",
       "url": "https://www.wsj.com/finance/investing/nvidias-role-as-an-underwriter-of-the-ai-boom-95375800?mod=rss_markets_main",
-      "ts": 1795605900000
-    },
-    {
-      "time": "6:25 AM",
-      "title": "WSJ Markets — Sterling Could Rise if BOE Officials Signal December Rate Hike",
-      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
       "ts": 1795605900000
     }
   ]
