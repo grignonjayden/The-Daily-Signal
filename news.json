@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:46 PM ET",
+  "generated_at": "Nov 24, 2026, 8:50 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795571213155,
+  "updated_ts": 1795571416923,
   "articles": [
     {
       "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
@@ -74,6 +74,17 @@
       "ts": 1795519556000
     },
     {
+      "title": "Asian Stocks Fall as AI Trade Falters, Gold Drops: Markets Wrap",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+      "snippet": "Asian stocks retreated after a selloff in US technology shares revived doubts about the durability of the artificial intelligence trade, extending losses from Wall Street into the region. Gold fell.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 24, 5:09 PM",
+      "coverage": 4,
+      "ts": 1795558158000
+    },
+    {
       "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
@@ -102,17 +113,6 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 5,
       "ts": 1795456173000
-    },
-    {
-      "title": "Asian Stocks Fall as AI Trade Doubts Resurface: Markets Wrap",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
-      "snippet": "Asian stocks retreated after a selloff in US technology shares revived doubts about the durability of the artificial intelligence trade, extending losses from Wall Street into the region. Treasuries held gains as…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 5:09 PM",
-      "coverage": 3,
-      "ts": 1795558158000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "8:41 PM",
-      "title": "CNBC — SoftBank drops over 14% as Wall Street AI sell-off ripples across Asian tech names",
+      "time": "8:48 PM",
+      "title": "CNBC — SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
       "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-      "ts": 1795570876000
+      "ts": 1795571327000
     },
     {
       "time": "8:39 PM",
@@ -298,7 +298,7 @@
     },
     {
       "time": "7:32 PM",
-      "title": "Bloomberg — Australian Inflation Accelerates, Even After RBA Rate Hikes",
+      "title": "Bloomberg — Australia’s Hot Inflation Vindicates RBA’s Hawkish Policy Stance",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
       "ts": 1795566721000
     },
