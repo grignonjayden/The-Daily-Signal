@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:04 AM ET",
+  "generated_at": "Nov 25, 2026, 1:07 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795586647239,
+  "updated_ts": 1795586853740,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -261,6 +261,12 @@
       "ts": 1795585701000
     },
     {
+      "time": "12:45 AM",
+      "title": "Bloomberg — Soy Oil Hits Nine-Month Low as Strong Meal Demand Boosts Crush",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/soy-oil-hits-nine-month-low-as-strong-meal-demand-boosts-crush",
+      "ts": 1795585521000
+    },
+    {
       "time": "12:37 AM",
       "title": "Bloomberg — Kochugovindan: Tech Volatility Is Here to Stay",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/kochugovindan-tech-volatility-is-here-to-stay-video",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Why is Advantest stock plunging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-advantest-stock-plunging-today-93CH-5049726",
       "ts": 1795583173000
-    },
-    {
-      "time": "12:04 AM",
-      "title": "Bloomberg — Global Rotation on AI Fears Lifts Indian Stocks to Top Spot",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/indian-stocks-extend-world-beating-run-as-ai-selloff-resumes",
-      "ts": 1795583060000
     }
   ]
 }
