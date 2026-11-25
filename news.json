@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:44 PM ET",
+  "generated_at": "Nov 24, 2026, 9:47 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795574659187,
+  "updated_ts": 1795574860747,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "9:43 PM",
+      "title": "CNBC — U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+      "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+      "ts": 1795574613000
+    },
+    {
       "time": "9:36 PM",
       "title": "CNBC — Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
       "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Australian court approves a2 Milk’s class action settlement",
       "url": "https://www.investing.com/news/stock-market-news/australian-court-approves-a2-milks-class-action-settlement-5049503",
       "ts": 1795570583000
-    },
-    {
-      "time": "8:32 PM",
-      "title": "WSJ Markets — Gold’s Comeback May Have to Wait",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
-      "ts": 1795570320000
     }
   ]
 }
