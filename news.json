@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 12:29 PM ET",
+  "generated_at": "Nov 25, 2026, 12:32 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795627762062,
+  "updated_ts": 1795627962010,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "12:29 PM",
+      "title": "WSJ Markets — Tech, Media & Telecom Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-39807782?mod=rss_markets_main",
+      "ts": 1795627740000
+    },
+    {
+      "time": "12:28 PM",
+      "title": "WSJ Markets — U.S. Natural Gas Inventories Decrease in Line With Average",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "ts": 1795627680000
+    },
+    {
+      "time": "12:25 PM",
+      "title": "Bloomberg — CoreWeave’s Banks to Sell $4.5 Billion Meta-Tied Loan Next Week",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-s-banks-to-sell-4-5-billion-meta-tied-loan-next-week",
+      "ts": 1795627523000
+    },
+    {
       "time": "12:24 PM",
       "title": "MarketWatch — HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
       "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
@@ -289,24 +307,6 @@
       "title": "CNBC — Prediction markets push OpenAI IPO expectations later into 2027",
       "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
       "ts": 1795626483000
-    },
-    {
-      "time": "12:08 PM",
-      "title": "Investing.com — Portugal stocks lower at close of trade; PSI down 0.85%",
-      "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-085-5051280",
-      "ts": 1795626481000
-    },
-    {
-      "time": "12:07 PM",
-      "title": "Investing.com — Netherlands stocks lower at close of trade; AEX down 1.30%",
-      "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-130-5051279",
-      "ts": 1795626453000
-    },
-    {
-      "time": "12:07 PM",
-      "title": "CNBC — This missile maker's stock has fallen on expected U.S. military spending cuts, but its backlog reduces the risk",
-      "url": "https://www.cnbc.com/2026/11/25/rtx-stock-valuation-defense-budget.html",
-      "ts": 1795626432000
     }
   ]
 }
