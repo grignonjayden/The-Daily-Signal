@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:48 AM ET",
+  "generated_at": "Nov 25, 2026, 8:51 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795614509930,
+  "updated_ts": 1795614710814,
   "articles": [
     {
       "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "8:51 AM",
+      "title": "CNBC — Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
+      "url": "https://www.cnbc.com/2026/11/25/kilmar-brego-garca-a-salvadoran-national-mistakenly-deported-from-the-us-arrives-in-spain-.html",
+      "ts": 1795614663000
+    },
+    {
       "time": "8:47 AM",
       "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
       "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — TSX futures slip amid deepening tech selloff, U.S. tariff reports",
       "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-deepening-tech-selloff-us-tariff-reports-5050748",
       "ts": 1795613049000
-    },
-    {
-      "time": "8:24 AM",
-      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9535388e?mod=rss_markets_main",
-      "ts": 1795613040000
     }
   ]
 }
