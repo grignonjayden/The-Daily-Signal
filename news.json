@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 25, 2026, 3:48 PM ET",
+  "generated_at": "Nov 25, 2026, 3:51 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795639687235,
+  "updated_ts": 1795639891446,
   "articles": [
-    {
-      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-      "snippet": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558277-1795524065086-gettyimages-2306584355-vcg111684383910.jpeg?v=1795524128&w=1920&h=1080",
-      "time": "Nov 25, 2:19 PM",
-      "coverage": 6,
-      "ts": 1795634345000
-    },
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
@@ -44,15 +34,14 @@
       "ts": 1795616990000
     },
     {
-      "title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades",
-      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 2:49 PM",
-      "coverage": 3,
-      "ts": 1795636158000
+      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "snippet": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558516-17955383482025-12-03t204438z_1611070846_rc269iamutg0_rtrmadp_0_nvidia-huang-congress.jpeg?v=1795635517&w=1920&h=1080",
+      "time": "Nov 25, 3:28 PM",
+      "coverage": 5,
+      "ts": 1795638522000
     },
     {
       "title": "Wall Street rebounds strongly after brutal rout, Dow turns green & Nasdaq recovers",
@@ -103,6 +92,17 @@
       "time": "Nov 25, 11:40 AM",
       "coverage": 4,
       "ts": 1795624858000
+    },
+    {
+      "title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades",
+      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 2:49 PM",
+      "coverage": 2,
+      "ts": 1795636158000
     },
     {
       "title": "Nvidia U-Turn Is Bad News For Anthropic, Says Parmy Olson",
@@ -269,12 +269,6 @@
       "ts": 1795638604000
     },
     {
-      "time": "3:28 PM",
-      "title": "CNBC — Vance says he was assured Jensen Huang was not under DOJ investigation",
-      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
-      "ts": 1795638522000
-    },
-    {
       "time": "3:27 PM",
       "title": "Bloomberg — Blue Owl, Blackstone Make Rare Pension Deal",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/blue-owl-blackstone-make-rare-pension-deal-video",
@@ -309,6 +303,12 @@
       "title": "Bloomberg — Sanofi’s $41B Insmed Deal Shows Cost of a Patent Cliff",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/sanofi-s-41b-insmed-deal-shows-cost-of-a-patent-cliff-video",
       "ts": 1795637982000
+    },
+    {
+      "time": "3:17 PM",
+      "title": "CNBC — Gold falls to more than one-year low after data shows U.S. inflation rose further",
+      "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
+      "ts": 1795637859000
     }
   ]
 }
