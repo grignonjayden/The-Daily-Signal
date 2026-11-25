@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:24 PM ET",
+  "generated_at": "Nov 25, 2026, 3:27 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795638268068,
+  "updated_ts": 1795638470822,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -10,7 +10,7 @@
       "snippet": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558277-1795524065086-gettyimages-2306584355-vcg111684383910.jpeg?v=1795524128&w=1920&h=1080",
       "time": "Nov 25, 2:19 PM",
-      "coverage": 7,
+      "coverage": 6,
       "ts": 1795634345000
     },
     {
@@ -44,26 +44,6 @@
       "ts": 1795616990000
     },
     {
-      "title": "S&P Global places Nvidia rating on ’CreditWatch Negative’ on rising management and governance risks",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/sp-global-places-nvidia-rating-on-creditwatch-negative-on-rising-management-and-governance-risks-5051352",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1QC_L.jpg",
-      "time": "Nov 25, 2:00 PM",
-      "coverage": 4,
-      "ts": 1795633244000
-    },
-    {
-      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-      "image": "https://images.wsj.net/im-52991838",
-      "time": "Nov 24, 4:53 PM",
-      "coverage": 6,
-      "ts": 1795557180000
-    },
-    {
       "title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades",
@@ -83,6 +63,16 @@
       "time": "Nov 25, 2:10 PM",
       "coverage": 4,
       "ts": 1795633858000
+    },
+    {
+      "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+      "snippet": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+      "image": "https://images.wsj.net/im-52991838",
+      "time": "Nov 24, 4:53 PM",
+      "coverage": 5,
+      "ts": 1795557180000
     },
     {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
@@ -114,6 +104,16 @@
       "time": "Nov 25, 2:48 PM",
       "coverage": 2,
       "ts": 1795636138000
+    },
+    {
+      "title": "EU postpones discussion to approve Tesla’s self-driving tech",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/eu-postpones-discussion-to-approve-teslas-selfdriving-tech-5050292",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0TU_L.jpg",
+      "time": "Nov 25, 2:36 PM",
+      "coverage": 2,
+      "ts": 1795635380000
     },
     {
       "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
@@ -256,22 +256,46 @@
       "ts": 1795637859000
     },
     {
+      "time": "3:15 PM",
+      "title": "Investing.com — Dell earnings analysis: questions answered and next catalysts",
+      "url": "https://www.investing.com/news/stock-market-news/dell-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051407",
+      "ts": 1795637736000
+    },
+    {
+      "time": "3:15 PM",
+      "title": "Investing.com — Ambarella earnings analysis: questions answered and next catalysts",
+      "url": "https://www.investing.com/news/stock-market-news/ambarella-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051406",
+      "ts": 1795637717000
+    },
+    {
+      "time": "3:14 PM",
+      "title": "Investing.com — Deere earnings analysis: questions answered and next catalysts",
+      "url": "https://www.investing.com/news/stock-market-news/deere-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051402",
+      "ts": 1795637682000
+    },
+    {
+      "time": "3:14 PM",
+      "title": "Investing.com — Li Auto earnings analysis: questions answered and next catalysts",
+      "url": "https://www.investing.com/news/stock-market-news/li-auto-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051401",
+      "ts": 1795637672000
+    },
+    {
       "time": "3:08 PM",
       "title": "Bloomberg — Egypt Road Accident Kills at Least 30 in Greater Cairo",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/egypt-road-accident-kills-at-least-30-in-greater-cairo",
       "ts": 1795637301000
     },
     {
-      "time": "3:07 PM",
-      "title": "CNBC — SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
-      "ts": 1795637277000
-    },
-    {
       "time": "3:06 PM",
       "title": "Bloomberg — GTCR Is Said to Weigh $50B Global Payments Buyout",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/gtcr-is-said-to-weigh-50b-global-payments-buyout-video",
       "ts": 1795637177000
+    },
+    {
+      "time": "3:06 PM",
+      "title": "Investing.com — ElevenLabs targets $33B valuation in early 2027 funding talks, Bloomberg reports",
+      "url": "https://www.investing.com/news/stock-market-news/elevenlabs-targets-33b-valuation-in-early-2027-funding-talks-bloomberg-reports-5051400",
+      "ts": 1795637169000
     },
     {
       "time": "3:03 PM",
@@ -284,30 +308,6 @@
       "title": "Investing.com — In olive branch to banks, Italy plans to drop curbs on home renovation tax credits",
       "url": "https://www.investing.com/news/stock-market-news/in-olive-branch-to-banks-italy-plans-to-drop-curbs-on-home-renovation-tax-credits-5051276",
       "ts": 1795636843000
-    },
-    {
-      "time": "2:54 PM",
-      "title": "CNBC — EU postpones discussion to approve Tesla's self-driving tech",
-      "url": "https://www.cnbc.com/2026/11/25/eu-postpones-discussion-to-approve-teslas-self-driving-tech.html",
-      "ts": 1795636482000
-    },
-    {
-      "time": "2:52 PM",
-      "title": "CNBC — SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-      "ts": 1795636367000
-    },
-    {
-      "time": "2:43 PM",
-      "title": "MarketWatch — Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
-      "url": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
-      "ts": 1795635780000
-    },
-    {
-      "time": "2:39 PM",
-      "title": "Investing.com — VP Vance defends Huang’s reinstatement, cites no probe",
-      "url": "https://www.investing.com/news/stock-market-news/vp-vance-defends-huangs-reinstatement-cites-no-probe-5051380",
-      "ts": 1795635543000
     }
   ]
 }
