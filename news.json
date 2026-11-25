@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:30 PM ET",
+  "generated_at": "Nov 24, 2026, 9:34 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795573849885,
+  "updated_ts": 1795574052286,
   "articles": [
     {
       "title": "Trump says he could pardon Jensen Huang, floats U.S. govt stake in Nvidia - NYP",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "9:33 PM",
+      "title": "CNBC — Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+      "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
+      "ts": 1795573991000
+    },
+    {
+      "time": "9:30 PM",
+      "title": "Bloomberg — India’s Anti-AI Stock Trade Confronts Rich Valuations, Global Tariff Risks",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/india-s-anti-ai-stock-trade-confronts-rich-valuations-global-tariff-risks",
+      "ts": 1795573828000
+    },
+    {
       "time": "9:23 PM",
       "title": "Bloomberg — Rakuten Credit Risk Surges After Yen Bond Offering Scrapped",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/rakuten-credit-risk-surges-after-yen-bond-offering-scrapped",
@@ -295,18 +307,6 @@
       "title": "WSJ Markets — Gold’s Comeback May Have to Wait",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
       "ts": 1795570320000
-    },
-    {
-      "time": "8:30 PM",
-      "title": "Bloomberg — India Pension Funds Pivot to Bonds as Equity Exposure Nears Cap",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/india-pension-funds-pivot-to-bonds-as-equity-exposure-nears-cap",
-      "ts": 1795570200000
-    },
-    {
-      "time": "8:24 PM",
-      "title": "Investing.com — Nvidia’s Huang said he violated code of conduct, source says",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-      "ts": 1795569879000
     }
   ]
 }
