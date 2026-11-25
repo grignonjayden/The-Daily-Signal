@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 9:00 PM ET",
+  "generated_at": "Nov 24, 2026, 9:03 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795572033735,
+  "updated_ts": 1795572234369,
   "articles": [
     {
       "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
@@ -128,7 +128,7 @@
       "title": "Latest Oil Market News and Analysis for Nov. 25",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/latest-oil-market-news-and-analysis-for-nov-25",
-      "snippet": "Oil steadied as traders weighed signs of rising supply against escalating attacks on vessels around the Strait of Hormuz.",
+      "snippet": "Oil slipped as traders weighed signs of rising supply against escalating attacks on vessels around the Strait of Hormuz.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 24, 6:06 PM",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "9:00 PM",
+      "title": "WSJ Markets — Oil Futures Decline as Traders Weigh Competing Supply Risks",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
+      "ts": 1795572000000
+    },
+    {
+      "time": "9:00 PM",
+      "title": "WSJ Markets — Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
+      "url": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3?mod=rss_markets_main",
+      "ts": 1795572000000
+    },
+    {
+      "time": "9:00 PM",
+      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "ts": 1795572000000
+    },
+    {
       "time": "8:57 PM",
       "title": "CNBC — SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
       "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
@@ -289,24 +307,6 @@
       "title": "Globe and Mail — Lululemon founder’s remarks about women spark outrage at leadership event in Calgary",
       "url": "https://www.theglobeandmail.com/business/article-lululemon-founder-chip-wilson-remarks-about-women/",
       "ts": 1795567715000
-    },
-    {
-      "time": "7:42 PM",
-      "title": "Investing.com — Citi weighs return to Venezuela five years after exit, Bloomberg News reports",
-      "url": "https://www.investing.com/news/stock-market-news/citi-weighs-return-to-venezuela-five-years-after-exit-bloomberg-news-reports-5049442",
-      "ts": 1795567342000
-    },
-    {
-      "time": "7:41 PM",
-      "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795567272000
-    },
-    {
-      "time": "7:32 PM",
-      "title": "Bloomberg — Australia’s Hot Inflation Vindicates RBA’s Hawkish Policy Stance",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes",
-      "ts": 1795566721000
     }
   ]
 }
