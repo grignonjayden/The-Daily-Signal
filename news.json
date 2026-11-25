@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:03 AM ET",
+  "generated_at": "Nov 25, 2026, 3:06 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795593784204,
+  "updated_ts": 1795593987316,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -243,6 +243,12 @@
       "ts": 1795593441000
     },
     {
+      "time": "2:54 AM",
+      "title": "Investing.com — Australian regulator finds more suspected audit misconduct at Big Four firms",
+      "url": "https://www.investing.com/news/stock-market-news/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms-5049824",
+      "ts": 1795593262000
+    },
+    {
       "time": "2:51 AM",
       "title": "Bloomberg — UK Heating Bills Surge 26%, Adding to Inflation Pressure",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/uk-heating-bills-surge-26-adding-to-inflation-pressure",
@@ -285,6 +291,12 @@
       "ts": 1795592520000
     },
     {
+      "time": "2:41 AM",
+      "title": "Investing.com — We told you first: This small-cap health pick soared 41%+ yesterday on Q3 earnings",
+      "url": "https://www.investing.com/news/stock-market-news/we-told-you-first-this-smallcap-health-pick-soared-41-yesterday-on-q3-earnings-5049919",
+      "ts": 1795592497000
+    },
+    {
       "time": "2:40 AM",
       "title": "Bloomberg — Malaysia's Pension Fund Favors Infrastructure Assets",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/malaysia-s-pension-fund-favors-infrastructure-assets-video",
@@ -295,18 +307,6 @@
       "title": "Investing.com — UK watchdog says Colman’s sale could address Unilever-McCormick deal concerns",
       "url": "https://www.investing.com/news/stock-market-news/uk-watchdog-sayscolmans-sale-could-address-unilevermccormick-deal-concerns-5049890",
       "ts": 1795592197000
-    },
-    {
-      "time": "2:30 AM",
-      "title": "Investing.com — Australia passes law forcing internet platforms to take down harmful content",
-      "url": "https://www.investing.com/news/stock-market-news/australia-passes-law-forcing-internet-platforms-to-take-down-harmful-content-5049860",
-      "ts": 1795591856000
-    },
-    {
-      "time": "2:28 AM",
-      "title": "Bloomberg — AUD/USD: Aussie Set for Biggest Monthly Drop in Four Years as Stocks Fall",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/aud-usd-aussie-set-for-biggest-monthly-drop-in-four-years-as-stocks-fall",
-      "ts": 1795591710000
     }
   ]
 }
