@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:12 AM ET",
+  "generated_at": "Nov 25, 2026, 9:15 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795615930747,
+  "updated_ts": 1795616132088,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "9:13 AM",
+      "title": "MarketWatch — Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "ts": 1795615980000
+    },
+    {
       "time": "9:11 AM",
       "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
       "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
@@ -278,6 +284,12 @@
       "ts": 1795615260000
     },
     {
+      "time": "9:01 AM",
+      "title": "Bloomberg — BC Partners Buys GSE Sport Agency With Golfer DeChambeau on List",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/bc-partners-buys-gse-sport-agency-with-golfer-dechambeau-on-list",
+      "ts": 1795615260000
+    },
+    {
       "time": "9:00 AM",
       "title": "Globe and Mail — From vibe to value: There’s no use adopting AI if there isn’t a measurable benefit",
       "url": "https://www.theglobeandmail.com/business/careers/leadership/article-from-vibe-to-value-theres-no-use-adopting-ai-if-there-isnt-a/",
@@ -294,18 +306,6 @@
       "title": "CNBC — Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795615118000
-    },
-    {
-      "time": "8:57 AM",
-      "title": "CNBC — Stocks making the biggest moves Wednesday: Nvidia, Urban Outfitters, Dell, Ambarella & more",
-      "url": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795615023000
-    },
-    {
-      "time": "8:56 AM",
-      "title": "Bloomberg — Why Is Thanksgiving So Expensive This Year?",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/why-is-thanksgiving-so-expensive-this-year",
-      "ts": 1795615003000
     }
   ]
 }
