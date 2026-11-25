@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 2:33 PM ET",
+  "generated_at": "Nov 25, 2026, 2:37 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795635235268,
+  "updated_ts": 1795635443950,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -239,6 +239,30 @@
   ],
   "ticker": [
     {
+      "time": "2:36 PM",
+      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795635375000
+    },
+    {
+      "time": "2:34 PM",
+      "title": "WSJ Markets — Gold Futures Settle Off Day’s Lows as Yields, U.S. Dollar Slip",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
+      "ts": 1795635240000
+    },
+    {
+      "time": "2:33 PM",
+      "title": "WSJ Markets — Dan Loeb’s Hedge Fund Returns to Startup Investing Years After FTX Loss",
+      "url": "https://www.wsj.com/finance/investing/dan-loebs-hedge-fund-returns-to-startup-investing-years-after-ftx-loss-46f36108?mod=rss_markets_main",
+      "ts": 1795635180000
+    },
+    {
+      "time": "2:30 PM",
+      "title": "Bloomberg — Still Mispricing in Private Markets: Weinstein",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/still-mispricing-in-private-markets-weinstein-video",
+      "ts": 1795635001000
+    },
+    {
       "time": "2:30 PM",
       "title": "WSJ Markets — Stocks Pare Losses as Anthropic Shares Swing Higher",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
@@ -263,12 +287,6 @@
       "ts": 1795634400000
     },
     {
-      "time": "2:17 PM",
-      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795634273000
-    },
-    {
       "time": "2:16 PM",
       "title": "MarketWatch — Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
       "url": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories",
@@ -291,24 +309,6 @@
       "title": "Investing.com — Micron, Nvidia among market cap stock movers on Wednesday",
       "url": "https://www.investing.com/news/stock-market-news/micron-nvidia-among-market-cap-stock-movers-on-wednesday-93CH-5051354",
       "ts": 1795633584000
-    },
-    {
-      "time": "2:06 PM",
-      "title": "Investing.com — TD Cowen Names Top Waste & Environment Pick",
-      "url": "https://www.investing.com/news/stock-market-news/td-cowen-names-top-waste--environment-pick-5051353",
-      "ts": 1795633583000
-    },
-    {
-      "time": "1:56 PM",
-      "title": "Investing.com — S&P puts NVIDIA on CreditWatch over governance concerns",
-      "url": "https://www.investing.com/news/stock-market-news/sp-puts-nvidia-on-creditwatch-over-governance-concerns-5051348",
-      "ts": 1795632985000
-    },
-    {
-      "time": "1:54 PM",
-      "title": "Investing.com — Australian regulator finds more suspected audit misconduct at Big Four firms",
-      "url": "https://www.investing.com/news/stock-market-news/australian-regulator-finds-more-suspected-audit-misconduct-at-big-four-firms-5049824",
-      "ts": 1795632867000
     }
   ]
 }
