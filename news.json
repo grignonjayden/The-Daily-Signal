@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:05 PM ET",
+  "generated_at": "Nov 25, 2026, 4:08 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795640702213,
+  "updated_ts": 1795640903926,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -64,16 +64,6 @@
       "ts": 1795551400000
     },
     {
-      "title": "Urban Outfitters earnings analysis: questions answered and next catalysts",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/urban-outfitters-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051418",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "time": "Nov 25, 3:20 PM",
-      "coverage": 2,
-      "ts": 1795638056000
-    },
-    {
       "title": "Stocks Continue Fall as Nvidia Reinstatement Rally Fades",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-continue-fall-as-nvidia-reinstatement-rally-fades",
@@ -104,6 +94,16 @@
       "time": "Nov 25, 4:02 PM",
       "coverage": 3,
       "ts": 1795640520000
+    },
+    {
+      "title": "Retailers face rising AI cyberattack threat ahead of Black Friday, many uninsured",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/retailers-face-rising-ai-cyberattack-threat-ahead-of-black-friday-many-uninsured-5050150",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0RX_L.jpg",
+      "time": "Nov 25, 3:49 PM",
+      "coverage": 3,
+      "ts": 1795639752000
     },
     {
       "title": "Wall Street rebounds strongly after brutal rout, Dow turns green & Nasdaq recovers",
@@ -256,16 +256,40 @@
       "ts": 1795640512000
     },
     {
+      "time": "4:01 PM",
+      "title": "Investing.com — Barrick’s CEO meets Mali’s PM for first time since resolution",
+      "url": "https://www.investing.com/news/stock-market-news/barricks-ceo-meets-malis-pm-for-first-time-since-resolution-5051442",
+      "ts": 1795640466000
+    },
+    {
       "time": "4:00 PM",
       "title": "Bloomberg — Targa Is Said in Talks to Buy Kinetik in Major Pipeline Tie-Up",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up",
       "ts": 1795640457000
     },
     {
+      "time": "3:59 PM",
+      "title": "Investing.com — Virbac to buy Axiota Animal Health for $315 million",
+      "url": "https://www.investing.com/news/stock-market-news/virbac-to-buy-axiota-animal-health-for-315-million-93CH-5051435",
+      "ts": 1795640364000
+    },
+    {
       "time": "3:55 PM",
       "title": "Bloomberg — Mega Rail Deal Gets Unusual WH Meeting",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/mega-rail-deal-gets-unusual-wh-meeting-video",
       "ts": 1795640144000
+    },
+    {
+      "time": "3:48 PM",
+      "title": "Investing.com — US authorizes SpaceX to deploy 1 million satellites for data centers in space",
+      "url": "https://www.investing.com/news/stock-market-news/us-authorizes-spacex-to-deploy-1-million-satellites-for-data-centers-in-space-5051261",
+      "ts": 1795639724000
+    },
+    {
+      "time": "3:48 PM",
+      "title": "Investing.com — Australia passes law forcing internet platforms to take down harmful content",
+      "url": "https://www.investing.com/news/stock-market-news/australia-passes-law-forcing-internet-platforms-to-take-down-harmful-content-5049860",
+      "ts": 1795639709000
     },
     {
       "time": "3:44 PM",
@@ -284,30 +308,6 @@
       "title": "Investing.com — AI spending leads the biggest market risks heading into 2027",
       "url": "https://www.investing.com/news/stock-market-news/ai-spending-leads-the-biggest-market-risks-heading-into-2027-93CH-5051429",
       "ts": 1795639062000
-    },
-    {
-      "time": "3:33 PM",
-      "title": "Investing.com — Wall Street rebounds amid fragile sentiment as Nasdaq recovers from steep morning drop",
-      "url": "https://www.investing.com/news/stock-market-news/wall-street-rebounds-amid-fragile-sentiment-as-nasdaq-recovers-from-steep-morning-drop-93CH-5051426",
-      "ts": 1795638828000
-    },
-    {
-      "time": "3:32 PM",
-      "title": "Bloomberg — Netflix Buys Seinfeld Studio Lot After Goldman Forecloses",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/netflix-buys-la-studio-lot-after-goldman-forecloses-video",
-      "ts": 1795638775000
-    },
-    {
-      "time": "3:30 PM",
-      "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 1.66%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-166-5051422",
-      "ts": 1795638604000
-    },
-    {
-      "time": "3:27 PM",
-      "title": "Bloomberg — Blue Owl, Blackstone Make Rare Pension Deal",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/blue-owl-blackstone-make-rare-pension-deal-video",
-      "ts": 1795638437000
     }
   ]
 }
