@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:21 PM ET",
+  "generated_at": "Nov 25, 2026, 3:24 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795638067754,
+  "updated_ts": 1795638268068,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -238,16 +238,22 @@
   ],
   "ticker": [
     {
+      "time": "3:23 PM",
+      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795638195000
+    },
+    {
+      "time": "3:19 PM",
+      "title": "Bloomberg — Sanofi’s $41B Insmed Deal Shows Cost of a Patent Cliff",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/sanofi-s-41b-insmed-deal-shows-cost-of-a-patent-cliff-video",
+      "ts": 1795637982000
+    },
+    {
       "time": "3:17 PM",
       "title": "CNBC — Gold falls to more than one-year low after data shows U.S. inflation rose further",
       "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
       "ts": 1795637859000
-    },
-    {
-      "time": "3:09 PM",
-      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795637392000
     },
     {
       "time": "3:08 PM",
@@ -302,12 +308,6 @@
       "title": "Investing.com — VP Vance defends Huang’s reinstatement, cites no probe",
       "url": "https://www.investing.com/news/stock-market-news/vp-vance-defends-huangs-reinstatement-cites-no-probe-5051380",
       "ts": 1795635543000
-    },
-    {
-      "time": "2:39 PM",
-      "title": "MarketWatch — The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
-      "url": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
-      "ts": 1795635540000
     }
   ]
 }
