@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:10 AM ET",
+  "generated_at": "Nov 25, 2026, 1:14 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795587054815,
+  "updated_ts": 1795587272907,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:10 AM",
+      "title": "WSJ Markets — Bitcoin Options Signal Caution Despite Signs of Bargain Hunting",
+      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "ts": 1795587000000
+    },
+    {
       "time": "1:02 AM",
       "title": "Bloomberg — Maybank Reviews Exposure as US Chip Curbs Hit",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/maybank-reviews-exposure-as-us-chip-curbs-hit-video",
@@ -301,12 +307,6 @@
       "title": "Investing.com — AI credit default swap spreads widen on unease over cash flow",
       "url": "https://www.investing.com/news/stock-market-news/ai-credit-default-swap-spreads-widen-on-unease-over-cash-flow-5049729",
       "ts": 1795583196000
-    },
-    {
-      "time": "12:06 AM",
-      "title": "Investing.com — Why is Bilibili stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-bilibili-stock-surging-today-93CH-5049728",
-      "ts": 1795583195000
     }
   ]
 }
