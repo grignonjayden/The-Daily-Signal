@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 1:33 PM ET",
+  "generated_at": "Nov 25, 2026, 1:36 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795631610782,
+  "updated_ts": 1795631811697,
   "articles": [
+    {
+      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+      "snippet": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558277-1795524065086-gettyimages-2306584355-vcg111684383910.jpeg?v=1795524128&w=1920&h=1080",
+      "time": "Nov 25, 1:33 PM",
+      "coverage": 5,
+      "ts": 1795631619000
+    },
     {
       "title": "U.S. Justice Department did not open probe into Jensen Huang before Nvidia rehired him, sources say",
       "source": "Globe and Mail",
@@ -34,16 +44,6 @@
       "ts": 1795626900000
     },
     {
-      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-      "snippet": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558277-1795524065086-gettyimages-2306584355-vcg111684383910.jpeg?v=1795524128&w=1920&h=1080",
-      "time": "Nov 25, 12:10 PM",
-      "coverage": 5,
-      "ts": 1795626617000
-    },
-    {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
@@ -72,17 +72,6 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 5,
       "ts": 1795551400000
-    },
-    {
-      "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Deal",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
-      "snippet": "Banks are offering CVC Capital Partners Plc up to €11 billion ($12 billion) in debt financing for a takeover of Verisure Plc, as the buyout firm weighs a bid to return the home security group to private ownership…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 10:07 AM",
-      "coverage": 4,
-      "ts": 1795619245000
     },
     {
       "title": "Tech sell-off deepens as Nasdaq, S&P 500 slide",
@@ -144,6 +133,17 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 6,
       "ts": 1795456173000
+    },
+    {
+      "title": "CoreWeave’s Banks to Sell $4.5 Billion Meta-Tied Loan Next Week",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-s-banks-to-sell-4-5-billion-meta-tied-loan-next-week",
+      "snippet": "CoreWeave Inc.’s bankers at Morgan Stanley and Mitsubishi UFJ Financial Group Inc. are preparing a $4.5 billion loan sale for as soon as next week, with the financing secured by graphics processing units for Meta…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 12:25 PM",
+      "coverage": 2,
+      "ts": 1795627523000
     }
   ],
   "outlets": [
