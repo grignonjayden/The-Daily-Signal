@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:42 PM ET",
+  "generated_at": "Nov 25, 2026, 4:45 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795642930533,
+  "updated_ts": 1795643133345,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "4:38 PM",
+      "title": "Bloomberg — Anthropic Rebounds From 10% Drop as Markets Stage Dramatic Recovery | Closing Bell",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/anthropic-rebounds-from-selloff-closing-bell-video",
+      "ts": 1795642719000
+    },
+    {
       "time": "4:36 PM",
       "title": "MarketWatch — HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
       "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
@@ -303,12 +309,6 @@
       "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to storm projections, US media reports",
       "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
       "ts": 1795641525000
-    },
-    {
-      "time": "4:17 PM",
-      "title": "CNBC — Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795641445000
     }
   ]
 }
