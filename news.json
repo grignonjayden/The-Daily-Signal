@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 24, 2026, 8:26 PM ET",
+  "generated_at": "Nov 24, 2026, 8:29 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795569996853,
+  "updated_ts": 1795570198458,
   "articles": [
+    {
+      "title": "Nvidia’s Huang said he violated code of conduct, source says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
+      "time": "Nov 24, 8:24 PM",
+      "coverage": 5,
+      "ts": 1795569879000
+    },
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
       "source": "CNBC",
@@ -22,16 +32,6 @@
       "time": "Nov 24, 7:18 PM",
       "coverage": 5,
       "ts": 1795565911000
-    },
-    {
-      "title": "Nvidia’s Huang said he violated code of conduct, source says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAN0ZM_L.jpg",
-      "time": "Nov 24, 7:18 PM",
-      "coverage": 5,
-      "ts": 1795565898000
     },
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
@@ -237,16 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "8:28 PM",
+      "title": "CNBC — SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
+      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "ts": 1795570110000
+    },
+    {
+      "time": "8:12 PM",
+      "title": "Investing.com — Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
+      "ts": 1795569147000
+    },
+    {
       "time": "8:11 PM",
       "title": "MarketWatch — Dell’s stock rises as the AI boom helps sales more than double",
       "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
       "ts": 1795569060000
-    },
-    {
-      "time": "8:04 PM",
-      "title": "CNBC — SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
-      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-      "ts": 1795568682000
     },
     {
       "time": "7:54 PM",
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — Nikkei Falls 2.8%, Dragged by Chip-Related Stocks",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
       "ts": 1795566060000
-    },
-    {
-      "time": "7:12 PM",
-      "title": "CNBC — Wednesday's big stock stories: What’s likely to move the market in the next trading session",
-      "url": "https://www.cnbc.com/2026/11/24/wednesday-big-stock-stories-whats-likely-to-move-the-market.html",
-      "ts": 1795565565000
     }
   ]
 }
