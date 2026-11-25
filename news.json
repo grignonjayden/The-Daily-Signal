@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 5:45 AM ET",
+  "generated_at": "Nov 25, 2026, 5:49 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795603531569,
+  "updated_ts": 1795603740486,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "5:47 AM",
+      "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795603637000
+    },
+    {
       "time": "5:38 AM",
       "title": "WSJ Markets — Sterling Expected to Rise Against Euro in 2027",
       "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "CNBC — Budget carrier Norse Atlantic falls 81% after warning its finances are ‘critical’ amid soaring fuel costs",
       "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
       "ts": 1795601883000
-    },
-    {
-      "time": "5:17 AM",
-      "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795601866000
     }
   ]
 }
