@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 7:22 PM ET",
+  "generated_at": "Nov 24, 2026, 7:25 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795566124354,
+  "updated_ts": 1795566325891,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -236,10 +236,22 @@
   ],
   "ticker": [
     {
+      "time": "7:21 PM",
+      "title": "WSJ Markets — Nikkei Falls 2.8%, Dragged by Chip-Related Stocks",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
+      "ts": 1795566060000
+    },
+    {
       "time": "7:20 PM",
       "title": "CNBC — Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795566042000
+    },
+    {
+      "time": "7:12 PM",
+      "title": "CNBC — Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "url": "https://www.cnbc.com/2026/11/24/wednesday-big-stock-stories-whats-likely-to-move-the-market.html",
+      "ts": 1795565565000
     },
     {
       "time": "7:05 PM",
@@ -294,18 +306,6 @@
       "title": "MarketWatch — Dell’s stock rises as the AI boom helps sales more than double",
       "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
       "ts": 1795563240000
-    },
-    {
-      "time": "6:18 PM",
-      "title": "Investing.com — Dell lifts annual forecasts after record quarter on surging AI server demand",
-      "url": "https://www.investing.com/news/stock-market-news/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand-5049024",
-      "ts": 1795562301000
-    },
-    {
-      "time": "6:14 PM",
-      "title": "CNBC — Stocks making the biggest moves Tuesday: Ambarella, Dell, Autodesk, Urban Outfitters & more",
-      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795562043000
     }
   ]
 }
