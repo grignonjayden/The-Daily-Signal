@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 6:26 AM ET",
+  "generated_at": "Nov 25, 2026, 6:29 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795605974247,
+  "updated_ts": 1795606177882,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -115,34 +115,34 @@
       "ts": 1795442808000
     },
     {
-      "title": "Dangote Hires Veteran Oil Trader Jonathan Zarembok From Equinor",
+      "title": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason why, says JPMorgan",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+      "snippet": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it’s time to look more at adoption.",
+      "image": "https://images.mktw.net/im-32699184",
+      "time": "Nov 25, 6:27 AM",
+      "coverage": 2,
+      "ts": 1795606020000
+    },
+    {
+      "title": "China Hits Back at New Trump Tariff Prospects",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/dangote-hires-veteran-oil-trader-jonathan-zarembok-from-equinor",
-      "snippet": "Veteran oil trader Jonathan Zarembok is joining Dangote Group, which has a huge refinery in Nigeria and is expanding elsewhere in Africa, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/the-pulse-11-25-2026-video",
+      "snippet": "China called the prospect of new US tariffs on its exports “political maneuvering” and said the two nations should work together to maintain their trade truce. Jensen Huang struck a somber tone a day after his…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 25, 5:12 AM",
+      "time": "Nov 25, 5:51 AM",
       "coverage": 2,
-      "ts": 1795601555000
+      "ts": 1795603861000
     },
     {
-      "title": "Anthropic’s stock just broke below its IPO price for the first time",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "snippet": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
-      "image": "https://images.mktw.net/im-34075557",
-      "time": "Nov 24, 4:46 PM",
-      "coverage": 3,
-      "ts": 1795556760000
-    },
-    {
-      "title": "Norsk Hydro reaffirms 2030 EBITDA target of up to 49B NOK",
+      "title": "Deere forecasts fiscal 2027 net income below estimates",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/norsk-hydro-reaffirms-2030-ebitda-target-of-up-to-49b-nok-93CH-5050302",
+      "url": "https://www.investing.com/news/stock-market-news/deere-forecasts-fiscal-2027-net-income-below-estimates-5050370",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "time": "Nov 25, 5:59 AM",
-      "ts": 1795604397000
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0W1_L.jpg",
+      "time": "Nov 25, 6:18 AM",
+      "ts": 1795605521000
     }
   ],
   "outlets": [
@@ -236,16 +236,46 @@
   ],
   "ticker": [
     {
+      "time": "6:25 AM",
+      "title": "WSJ Markets — Nvidia’s Role as an Underwriter of the AI Boom",
+      "url": "https://www.wsj.com/finance/investing/nvidias-role-as-an-underwriter-of-the-ai-boom-95375800?mod=rss_markets_main",
+      "ts": 1795605900000
+    },
+    {
+      "time": "6:25 AM",
+      "title": "WSJ Markets — Sterling Could Rise if BOE Officials Signal December Rate Hike",
+      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "ts": 1795605900000
+    },
+    {
       "time": "6:21 AM",
       "title": "Globe and Mail — Business Brief: Behind the arrears rate",
       "url": "https://www.theglobeandmail.com/business/article-business-brief-behind-the-arrears-rate/",
       "ts": 1795605716000
     },
     {
+      "time": "6:12 AM",
+      "title": "Investing.com — US grocers serve up Thanksgiving deals even as turkey prices climb",
+      "url": "https://www.investing.com/news/stock-market-news/us-grocers-serve-up-thanksgiving-deals-even-as-turkey-prices-climb-5050352",
+      "ts": 1795605156000
+    },
+    {
+      "time": "6:12 AM",
+      "title": "Investing.com — J.P. Morgan sees trucks, luxury cars and tyres leading Europe’s autos in 2027",
+      "url": "https://www.investing.com/news/stock-market-news/jp-morgan-sees-trucks-luxury-cars-and-tyres-leading-europes-autos-in-2027-5050351",
+      "ts": 1795605147000
+    },
+    {
       "time": "6:10 AM",
       "title": "CNBC — Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
       "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
       "ts": 1795605028000
+    },
+    {
+      "time": "6:06 AM",
+      "title": "Investing.com — ’I’m going to drive’: FAA outage and high fares reshape Thanksgiving travel plans",
+      "url": "https://www.investing.com/news/stock-market-news/im-going-to-drive-faa-outage-and-high-fares-reshape-thanksgiving-travel-plans-5050325",
+      "ts": 1795604782000
     },
     {
       "time": "6:03 AM",
@@ -276,36 +306,6 @@
       "title": "Globe and Mail — New northern B.C. berth opens, but 11-year-old exclusivity deal stops it from progressing",
       "url": "https://www.theglobeandmail.com/business/economy/article-port-prince-rupert-berth-opens-exclusivity-deal-stops-progress/",
       "ts": 1795604400000
-    },
-    {
-      "time": "5:48 AM",
-      "title": "Investing.com — EU postpones discussion to approve Tesla’s self-driving tech",
-      "url": "https://www.investing.com/news/stock-market-news/eu-postpones-discussion-to-approve-teslas-selfdriving-tech-5050292",
-      "ts": 1795603698000
-    },
-    {
-      "time": "5:47 AM",
-      "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795603637000
-    },
-    {
-      "time": "5:47 AM",
-      "title": "Investing.com — European carmakers rise as EU caps hybrid car imports from Dec. 1",
-      "url": "https://www.investing.com/news/stock-market-news/european-carmakers-rise-as-eu-caps-hybrid-car-imports-from-dec-1-5050287",
-      "ts": 1795603622000
-    },
-    {
-      "time": "5:42 AM",
-      "title": "Investing.com — Why is Sandoz stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-sandoz-stock-rallying-today-93CH-5050259",
-      "ts": 1795603368000
-    },
-    {
-      "time": "5:38 AM",
-      "title": "WSJ Markets — Sterling Expected to Rise Against Euro in 2027",
-      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "ts": 1795603080000
     }
   ]
 }
