@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:31 AM ET",
+  "generated_at": "Nov 25, 2026, 1:34 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795588292711,
+  "updated_ts": 1795588499236,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:33 AM",
+      "title": "Bloomberg — Dangote Refinery Set to Start Trading in Lagos on Dec. 1 (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-set-to-start-trading-in-lagos-on-dec-1-video",
+      "ts": 1795588381000
+    },
+    {
       "time": "1:21 AM",
       "title": "Investing.com — ams OSRAM and Samsung Display strike microLED deal with €210 mln investment",
       "url": "https://www.investing.com/news/stock-market-news/ams-osram-and-samsung-display-strike-microled-deal-with-210-mln-investment-93CH-5049794",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Taiwan stocks lower at close of trade; Taiwan Weighted down 4.94%",
       "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-494-5049783",
       "ts": 1795586703000
-    },
-    {
-      "time": "1:02 AM",
-      "title": "Bloomberg — Maybank Reviews Exposure as US Chip Curbs Hit",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/maybank-reviews-exposure-as-us-chip-curbs-hit-video",
-      "ts": 1795586576000
     }
   ]
 }
