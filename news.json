@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:54 AM ET",
+  "generated_at": "Nov 25, 2026, 4:58 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795600487454,
+  "updated_ts": 1795600691996,
   "articles": [
     {
       "title": "Why Jensen Huang’s Return to Nvidia Matters for China",
@@ -86,14 +86,14 @@
       "ts": 1795593103000
     },
     {
-      "title": "Anthropic’s stock just broke below its IPO price for the first time",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "snippet": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
-      "image": "https://images.mktw.net/im-34075557",
-      "time": "Nov 24, 4:46 PM",
-      "coverage": 4,
-      "ts": 1795556760000
+      "title": "Why is Norse Atlantic stock crashing today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-norse-atlantic-stock-crashing-today-93CH-5050087",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "time": "Nov 25, 4:24 AM",
+      "coverage": 2,
+      "ts": 1795598664000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -104,6 +104,16 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 5,
       "ts": 1795456173000
+    },
+    {
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "snippet": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+      "image": "https://images.mktw.net/im-34075557",
+      "time": "Nov 24, 4:46 PM",
+      "coverage": 3,
+      "ts": 1795556760000
     },
     {
       "title": "Nvidia reinstates Jensen Huang as CEO effective immediately following US government input",
@@ -123,15 +133,6 @@
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0HF_L.jpg",
       "time": "Nov 25, 4:36 AM",
       "ts": 1795599384000
-    },
-    {
-      "title": "Stellantis cuts Sochaux night shift amid weak demand",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/stellantis-cuts-sochaux-night-shift-amid-weak-demand-93CH-5050101",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "time": "Nov 25, 4:35 AM",
-      "ts": 1795599342000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -235,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "4:56 AM",
+      "title": "CNBC — Budget carrier Norse Atlantic falls 74% after warning its finances are ‘critical’ amid soaring fuel costs",
+      "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
+      "ts": 1795600565000
+    },
+    {
       "time": "4:45 AM",
       "title": "CNBC — Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
@@ -259,6 +266,12 @@
       "ts": 1795599735000
     },
     {
+      "time": "4:35 AM",
+      "title": "Investing.com — Stellantis cuts Sochaux night shift amid weak demand",
+      "url": "https://www.investing.com/news/stock-market-news/stellantis-cuts-sochaux-night-shift-amid-weak-demand-93CH-5050101",
+      "ts": 1795599342000
+    },
+    {
       "time": "4:32 AM",
       "title": "Investing.com — Why is Workday stock tumbling today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-workday-stock-tumbling-today-93CH-5050099",
@@ -277,12 +290,6 @@
       "ts": 1795599053000
     },
     {
-      "time": "4:24 AM",
-      "title": "Investing.com — Why is Norse Atlantic stock crashing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-norse-atlantic-stock-crashing-today-93CH-5050087",
-      "ts": 1795598664000
-    },
-    {
       "time": "4:23 AM",
       "title": "Investing.com — Why is Nutanix stock tumbling today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-nutanix-stock-tumbling-today-93CH-5050086",
@@ -299,12 +306,6 @@
       "title": "Investing.com — Why is CleanSpark stock sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-cleanspark-stock-sliding-today-93CH-5050083",
       "ts": 1795598387000
-    },
-    {
-      "time": "4:18 AM",
-      "title": "CNBC — Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
-      "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
-      "ts": 1795598317000
     }
   ]
 }
