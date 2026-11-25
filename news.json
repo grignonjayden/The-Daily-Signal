@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:22 PM ET",
+  "generated_at": "Nov 25, 2026, 4:25 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795641720162,
+  "updated_ts": 1795641921637,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -126,10 +126,10 @@
       "ts": 1795629759000
     },
     {
-      "title": "Dow turns positive, S&P 500 and Nasdaq led lower by AI stocks",
+      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities tumbled Wednesday after key PCE inflation data as Nvidia, Anthropic and Big Tech stocks slid alongside fresh Trump administration tariff proposals.",
+      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
       "time": "Nov 25, 9:38 AM",
       "coverage": 3,
@@ -156,6 +156,26 @@
     "Globe and Mail"
   ],
   "official": [
+    {
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+      "snippet": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 3:00 PM",
+      "ts": 1795636800000
+    },
+    {
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+      "snippet": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 3:00 PM",
+      "ts": 1795636800000
+    },
     {
       "title": "Canada moves forward with final safeguard measure on canned vegetables imports to protect Canadian producers",
       "source": "Finance Canada",
@@ -218,16 +238,28 @@
   ],
   "ticker": [
     {
+      "time": "4:24 PM",
+      "title": "CNBC — Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "ts": 1795641871000
+    },
+    {
+      "time": "4:23 PM",
+      "title": "WSJ Markets — Stocks Finish Lower After Wild Session",
+      "url": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main",
+      "ts": 1795641780000
+    },
+    {
       "time": "4:17 PM",
       "title": "CNBC — Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
       "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
       "ts": 1795641445000
     },
     {
-      "time": "4:14 PM",
-      "title": "CNBC — Macy's postpones Thanksgiving parade due to severe weather",
-      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-      "ts": 1795641296000
+      "time": "4:03 PM",
+      "title": "Bloomberg — US Tariff Proposal Raises Stakes for India to Clinch Trade Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
+      "ts": 1795640597000
     },
     {
       "time": "4:03 PM",
@@ -276,18 +308,6 @@
       "title": "Investing.com — Australia passes law forcing internet platforms to take down harmful content",
       "url": "https://www.investing.com/news/stock-market-news/australia-passes-law-forcing-internet-platforms-to-take-down-harmful-content-5049860",
       "ts": 1795639709000
-    },
-    {
-      "time": "3:44 PM",
-      "title": "Investing.com — Citadel to return $3.5B to clients amid strong 2026 gains",
-      "url": "https://www.investing.com/news/stock-market-news/citadel-to-return-35b-to-clients-amid-strong-2026-gains-5051431",
-      "ts": 1795639494000
-    },
-    {
-      "time": "3:44 PM",
-      "title": "Bloomberg — Zelenskyy Eyes New Congress If Trump Can’t Push Putin to Peace",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/zelenskyy-eyes-congress-if-no-peace-by-end-of-year-video",
-      "ts": 1795639484000
     }
   ]
 }
