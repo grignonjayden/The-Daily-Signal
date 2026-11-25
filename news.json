@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:58 AM ET",
+  "generated_at": "Nov 25, 2026, 12:01 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795625910900,
+  "updated_ts": 1795626112322,
   "articles": [
     {
       "title": "US finds no evidence China directed executive to spy on Nvidia CEO, WSJ reports",
@@ -54,6 +54,16 @@
       "ts": 1795551400000
     },
     {
+      "title": "How soon Trump’s new tariffs could hit the economy — and your wallet",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+      "snippet": "The White House’s plan for new levies comes after the Supreme Court tossed out broader Trump tariffs earlier this year.",
+      "image": "https://images.mktw.net/im-17174473",
+      "time": "Nov 25, 11:59 AM",
+      "coverage": 4,
+      "ts": 1795625940000
+    },
+    {
       "title": "Banks Pitch CVC €11 Billion Debt for Possible Verisure Deal",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/banks-pitch-cvc-11-billion-debt-for-possible-verisure-takeover",
@@ -65,6 +75,16 @@
       "ts": 1795619245000
     },
     {
+      "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
+      "snippet": "Washington plans new measures despite voters rejecting Trump’s economic agenda during the midterms",
+      "image": "https://www.theglobeandmail.com/resizer/v2/IUFRPLWK3NDZZEVEJGTYXDQPOU.JPG?auth=2f2f2b3beb5b5eef0877b43c4f697e499ebe57ab206c81ab426baceeef815324&smart=true&width=3529&height=2353",
+      "time": "Nov 25, 8:29 AM",
+      "coverage": 4,
+      "ts": 1795613399000
+    },
+    {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
@@ -73,16 +93,6 @@
       "time": "Nov 24, 4:53 PM",
       "coverage": 4,
       "ts": 1795557180000
-    },
-    {
-      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
-      "snippet": "Markets increasingly question whether even the biggest AI names can generate enough profit to justify their price tags",
-      "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
-      "time": "Nov 25, 11:40 AM",
-      "coverage": 3,
-      "ts": 1795624858000
     },
     {
       "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
@@ -113,16 +123,6 @@
       "fallback_image": true,
       "time": "Nov 25, 11:44 AM",
       "ts": 1795625042000
-    },
-    {
-      "title": "Oracle’s stock sinks toward a 3-year low as the AI trade continues to unravel",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-      "snippet": "Sandisk, Nebius and Micron shares were all down more than 10%, as the tech-heavy Nasdaq 100 has seen nearly all of Monday’s gains evaporate.",
-      "image": "https://images.mktw.net/im-37217183",
-      "time": "Nov 25, 11:52 AM",
-      "coverage": 2,
-      "ts": 1795625520000
     },
     {
       "title": "Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises",
@@ -249,6 +249,12 @@
       "ts": 1795625580000
     },
     {
+      "time": "11:52 AM",
+      "title": "MarketWatch — Oracle’s stock sinks toward a 3-year low as the AI trade continues to unravel",
+      "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+      "ts": 1795625520000
+    },
+    {
       "time": "11:49 AM",
       "title": "MarketWatch — ‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
       "url": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
@@ -279,6 +285,12 @@
       "ts": 1795624951000
     },
     {
+      "time": "11:40 AM",
+      "title": "Globe and Mail — Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
+      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
+      "ts": 1795624858000
+    },
+    {
       "time": "11:38 AM",
       "title": "Bloomberg — Russian Refinery Runs Plunge to Lowest in Decades, Rystad Says",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/russian-refinery-runs-plunge-to-lowest-in-decades-rystad-says",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Fitch upgrades Cinemark to ‘BB’ on box office recovery and lower leverage",
       "url": "https://www.investing.com/news/stock-market-news/fitch-upgrades-cinemark-to-bb-on-box-office-recovery-and-lower-leverage-5051203",
       "ts": 1795624595000
-    },
-    {
-      "time": "11:36 AM",
-      "title": "Investing.com — Michael Burry sells remaining Nasdaq 100 puts, says portfolio is long",
-      "url": "https://www.investing.com/news/stock-market-news/michael-burry-sells-remaining-nasdaq-100-puts-says-portfolio-is-long-5051231",
-      "ts": 1795624587000
-    },
-    {
-      "time": "11:36 AM",
-      "title": "Investing.com — Givaudan, Firmenich, and IFF hit with €471.9 million EU antitrust fine",
-      "url": "https://www.investing.com/news/stock-market-news/givaudan-firmenich-and-iff-hit-with-4719-million-eu-antitrust-fine-5051224",
-      "ts": 1795624581000
     }
   ]
 }
