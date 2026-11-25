@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:50 AM ET",
+  "generated_at": "Nov 25, 2026, 3:53 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795596631127,
+  "updated_ts": 1795596831704,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -95,14 +95,14 @@
       "ts": 1795596015000
     },
     {
-      "title": "European shares rise on consumer boost; markets await US tariffs, inflation",
+      "title": "Bureau Veritas hits record high after report Advent weighs takeover bid",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-rise-on-consumer-boost-markets-await-us-tariffs-inflation-5049970",
+      "url": "https://www.investing.com/news/stock-market-news/bureau-veritas-hits-record-high-after-report-advent-weighs-takeover-bid-5049977",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0LC_L.jpg",
-      "time": "Nov 25, 3:30 AM",
+      "image": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
+      "time": "Nov 25, 3:39 AM",
       "coverage": 2,
-      "ts": 1795595446000
+      "ts": 1795595955000
     },
     {
       "title": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "3:51 AM",
+      "title": "WSJ Markets — Oil Down as Supply Prospects Outweigh Gulf Risks",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
+      "ts": 1795596660000
+    },
+    {
+      "time": "3:48 AM",
+      "title": "WSJ Markets — Euro Could Stay Weak Against Dollar For Now",
+      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "ts": 1795596480000
+    },
+    {
       "time": "3:42 AM",
       "title": "Investing.com — Norse Atlantic shares plunge 62% amid critical cash crisis",
       "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-shares-plunge-62-amid-critical-cash-crisis-93CH-5049981",
@@ -247,12 +259,6 @@
       "title": "Investing.com — Why is Prosus stock sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-prosus-stock-sliding-today-93CH-5049978",
       "ts": 1795596037000
-    },
-    {
-      "time": "3:39 AM",
-      "title": "Investing.com — Bureau Veritas hits record high after report Advent weighs takeover bid",
-      "url": "https://www.investing.com/news/stock-market-news/bureau-veritas-hits-record-high-after-report-advent-weighs-takeover-bid-5049977",
-      "ts": 1795595955000
     },
     {
       "time": "3:39 AM",
@@ -301,12 +307,6 @@
       "title": "Investing.com — UK watchdog says Colman’s sale could address Unilever-McCormick deal concerns",
       "url": "https://www.investing.com/news/stock-market-news/uk-watchdog-sayscolmans-sale-could-address-unilevermccormick-deal-concerns-5049890",
       "ts": 1795595461000
-    },
-    {
-      "time": "3:30 AM",
-      "title": "Bloomberg — Asia Finds a Surprise Currency Haven in AI-Defying Rupee",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/asia-finds-a-surprise-currency-haven-in-ai-defying-rupee",
-      "ts": 1795595441000
     }
   ]
 }
