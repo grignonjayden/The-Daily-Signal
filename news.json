@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:51 AM ET",
+  "generated_at": "Nov 25, 2026, 8:55 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795614710814,
+  "updated_ts": 1795614912924,
   "articles": [
     {
       "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
@@ -74,6 +74,16 @@
       "ts": 1795551400000
     },
     {
+      "title": "TSX futures slip amid deepening tech selloff, U.S. tariff reports",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-deepening-tech-selloff-us-tariff-reports-5050748",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEK9R0C2_L.jpg",
+      "time": "Nov 25, 8:24 AM",
+      "coverage": 4,
+      "ts": 1795613049000
+    },
+    {
       "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
@@ -103,16 +113,6 @@
       "time": "Nov 24, 4:53 PM",
       "coverage": 4,
       "ts": 1795557180000
-    },
-    {
-      "title": "Nvidia, chipmakers slide premarket; Dell falls despite upbeat outlook",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-chipmakers-slide-premarket-dell-falls-despite-upbeat-outlook-5050581",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEMAC1IQ_L.jpg",
-      "time": "Nov 25, 7:46 AM",
-      "coverage": 2,
-      "ts": 1795610790000
     },
     {
       "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
@@ -237,22 +237,28 @@
   ],
   "ticker": [
     {
+      "time": "8:54 AM",
+      "title": "CNBC — Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795614860000
+    },
+    {
       "time": "8:51 AM",
       "title": "CNBC — Kilmar Ábrego García, a Salvadoran national mistakenly deported from the U.S., arrives in Spain",
       "url": "https://www.cnbc.com/2026/11/25/kilmar-brego-garca-a-salvadoran-national-mistakenly-deported-from-the-us-arrives-in-spain-.html",
       "ts": 1795614663000
     },
     {
+      "time": "8:50 AM",
+      "title": "MarketWatch — Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?",
+      "url": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
+      "ts": 1795614600000
+    },
+    {
       "time": "8:47 AM",
       "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
       "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
       "ts": 1795614448000
-    },
-    {
-      "time": "8:44 AM",
-      "title": "CNBC — Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795614293000
     },
     {
       "time": "8:41 AM",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Europe’s Gas Traders Are in for a Volatile Winter",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/europe-s-gas-traders-are-in-for-a-volatile-winter",
       "ts": 1795613056000
-    },
-    {
-      "time": "8:24 AM",
-      "title": "Investing.com — TSX futures slip amid deepening tech selloff, U.S. tariff reports",
-      "url": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-deepening-tech-selloff-us-tariff-reports-5050748",
-      "ts": 1795613049000
     }
   ]
 }
