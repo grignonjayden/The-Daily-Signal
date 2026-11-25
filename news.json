@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 5:02 PM ET",
+  "generated_at": "Nov 25, 2026, 5:05 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795644149113,
+  "updated_ts": 1795644352168,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -239,6 +239,24 @@
   ],
   "ticker": [
     {
+      "time": "5:03 PM",
+      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=rss_markets_main",
+      "ts": 1795644180000
+    },
+    {
+      "time": "5:01 PM",
+      "title": "WSJ Markets — Tech, Media & Telecom Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-39807782?mod=rss_markets_main",
+      "ts": 1795644060000
+    },
+    {
+      "time": "5:00 PM",
+      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-9535388e?mod=rss_markets_main",
+      "ts": 1795644000000
+    },
+    {
       "time": "4:57 PM",
       "title": "WSJ Markets — Financial Services Roundup: Market Talk",
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f29f7572?mod=rss_markets_main",
@@ -291,24 +309,6 @@
       "title": "MarketWatch — HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
       "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
       "ts": 1795642560000
-    },
-    {
-      "time": "4:30 PM",
-      "title": "Investing.com — Macy’s Thanksgiving Day Parade in New York City postponed due to storm projections",
-      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
-      "ts": 1795642239000
-    },
-    {
-      "time": "4:30 PM",
-      "title": "Investing.com — Mexico stocks higher at close of trade; S&P/BMV IPC up 3.06%",
-      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-306-5051513",
-      "ts": 1795642230000
-    },
-    {
-      "time": "4:29 PM",
-      "title": "MarketWatch — How to spot ‘bogus boutiques’ and other Black Friday shopping scams",
-      "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
-      "ts": 1795642140000
     }
   ]
 }
