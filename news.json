@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:11 PM ET",
+  "generated_at": "Nov 25, 2026, 3:14 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795637466358,
+  "updated_ts": 1795637668060,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -244,10 +244,22 @@
       "ts": 1795637392000
     },
     {
+      "time": "3:07 PM",
+      "title": "CNBC — SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+      "ts": 1795637277000
+    },
+    {
       "time": "3:06 PM",
       "title": "Bloomberg — GTCR Is Said to Weigh $50B Global Payments Buyout",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/gtcr-is-said-to-weigh-50b-global-payments-buyout-video",
       "ts": 1795637177000
+    },
+    {
+      "time": "3:03 PM",
+      "title": "Bloomberg — BNP Paribas Hit by Higher Capital Surcharge Under New GSIB List",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/bnp-paribas-hit-by-higher-capital-surcharge-under-new-gsib-list",
+      "ts": 1795637015000
     },
     {
       "time": "3:00 PM",
@@ -296,18 +308,6 @@
       "title": "Bloomberg — Oil Flows in Hormuz Strait 'Forever Altered,' Says Tom Kloza",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/oil-flows-in-hormuz-strait-forever-altered-says-kloza-video",
       "ts": 1795635311000
-    },
-    {
-      "time": "2:35 PM",
-      "title": "Bloomberg — M&A in the Industrials Sector Looks Set for a Robust 2027",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/m-a-in-the-industrials-sector-looks-set-for-a-robust-2027",
-      "ts": 1795635306000
-    },
-    {
-      "time": "2:34 PM",
-      "title": "Bloomberg — La Caisse’s Infrastructure Arm Pauses Bond Sale as Market Sours",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/la-caisse-s-infrastructure-arm-pauses-bond-sale-as-market-sours",
-      "ts": 1795635278000
     }
   ]
 }
