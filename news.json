@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 3:37 PM ET",
+  "generated_at": "Nov 25, 2026, 3:41 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795639075729,
+  "updated_ts": 1795639277254,
   "articles": [
     {
       "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
@@ -238,16 +238,16 @@
   ],
   "ticker": [
     {
+      "time": "3:40 PM",
+      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795639206000
+    },
+    {
       "time": "3:32 PM",
       "title": "Bloomberg — Netflix Buys Seinfeld Studio Lot After Goldman Forecloses",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/netflix-buys-la-studio-lot-after-goldman-forecloses-video",
       "ts": 1795638775000
-    },
-    {
-      "time": "3:30 PM",
-      "title": "CNBC — Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795638646000
     },
     {
       "time": "3:27 PM",
