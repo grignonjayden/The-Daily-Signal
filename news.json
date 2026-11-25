@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 5:09 PM ET",
+  "generated_at": "Nov 25, 2026, 5:12 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795644557383,
+  "updated_ts": 1795644760954,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "5:09 PM",
+      "title": "WSJ Markets — Crude Posts Back-to-Back Gains on Middle East Tension",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
+      "ts": 1795644540000
+    },
+    {
       "time": "5:03 PM",
       "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-7cb12596?mod=rss_markets_main",
@@ -303,12 +309,6 @@
       "title": "Investing.com — Why is Kinetik Holdings stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-kinetik-holdings-stock-surging-today-93CH-5051573",
       "ts": 1795643498000
-    },
-    {
-      "time": "4:50 PM",
-      "title": "MarketWatch — Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
-      "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
-      "ts": 1795643400000
     }
   ]
 }
