@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:07 AM ET",
+  "generated_at": "Nov 25, 2026, 11:10 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795622836947,
+  "updated_ts": 1795623039174,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "11:09 AM",
+      "title": "CNBC — Dow tumbles 700 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates",
+      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "ts": 1795622972000
+    },
+    {
+      "time": "11:05 AM",
+      "title": "CNBC — Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
+      "url": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
+      "ts": 1795622725000
+    },
+    {
       "time": "11:02 AM",
       "title": "CNBC — U.S. proposes new tariffs on 14 trading partners, including China and the EU",
       "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
@@ -253,6 +265,12 @@
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795622400000
+    },
+    {
+      "time": "10:57 AM",
+      "title": "CNBC — These low-volatility stocks are shining in November as markets shudder",
+      "url": "https://www.cnbc.com/2026/11/25/low-volatility-stocks-november-2026.html",
+      "ts": 1795622275000
     },
     {
       "time": "10:55 AM",
@@ -289,24 +307,6 @@
       "title": "Investing.com — Macy’s options signal 7.3% move ahead of Dec. 2 earnings",
       "url": "https://www.investing.com/news/stock-market-news/macys-options-signal-73-move-ahead-of-dec-2-earnings-93CH-5051163",
       "ts": 1795621388000
-    },
-    {
-      "time": "10:42 AM",
-      "title": "Investing.com — US grocers serve up Thanksgiving deals even as turkey prices climb",
-      "url": "https://www.investing.com/news/stock-market-news/us-grocers-serve-up-thanksgiving-deals-even-as-turkey-prices-climb-5050352",
-      "ts": 1795621365000
-    },
-    {
-      "time": "10:42 AM",
-      "title": "Investing.com — Why is Vertiv stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-vertiv-stock-sliding-today-93CH-5051161",
-      "ts": 1795621348000
-    },
-    {
-      "time": "10:42 AM",
-      "title": "Investing.com — American Eagle options signal 13% move around Dec. 2 earnings",
-      "url": "https://www.investing.com/news/stock-market-news/american-eagle-options-signal-13-move-around-dec-2-earnings-93CH-5051160",
-      "ts": 1795621328000
     }
   ]
 }
