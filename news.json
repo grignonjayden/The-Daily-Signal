@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:15 AM ET",
+  "generated_at": "Nov 25, 2026, 9:18 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795616132088,
+  "updated_ts": 1795616331791,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -156,16 +156,6 @@
   ],
   "official": [
     {
-      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
-      "snippet": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 2:00 PM",
-      "ts": 1795546800000
-    },
-    {
       "title": "Farm income, 2025 (revised data)",
       "source": "Statistics Canada",
       "url": "https://www.statcan.gc.ca/daily-quotidien/261124/dq261124a-eng.htm",
@@ -182,16 +172,6 @@
       "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261124/cg261124b001-eng.png",
       "time": "Nov 24, 8:30 AM",
       "ts": 1795527000000
-    },
-    {
-      "title": "Federal Reserve announces College Fed Challenge winners",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-      "snippet": "Federal Reserve announces College Fed Challenge winners",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 20, 4:15 PM",
-      "ts": 1795209300000
     },
     {
       "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
@@ -236,6 +216,24 @@
   ],
   "ticker": [
     {
+      "time": "9:17 AM",
+      "title": "CNBC — Secondhand shopping is going mainstream this holiday season as consumers seek value",
+      "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
+      "ts": 1795616221000
+    },
+    {
+      "time": "9:15 AM",
+      "title": "CNBC — Our top 10 things to watch in the stock market Wednesday",
+      "url": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "ts": 1795616130000
+    },
+    {
+      "time": "9:14 AM",
+      "title": "MarketWatch — U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
+      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+      "ts": 1795616040000
+    },
+    {
       "time": "9:13 AM",
       "title": "MarketWatch — Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
       "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
@@ -246,6 +244,12 @@
       "title": "CNBC — Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
       "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
       "ts": 1795615868000
+    },
+    {
+      "time": "9:10 AM",
+      "title": "Bloomberg — NYC Private School to Buy Farm Previously Owned by Bankrupt Peer",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/nyc-private-school-to-buy-farm-previously-owned-by-bankrupt-peer",
+      "ts": 1795615835000
     },
     {
       "time": "9:04 AM",
@@ -282,30 +286,6 @@
       "title": "WSJ Markets — U.S. Natural Gas Steady as December Contract Set to Expire",
       "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
       "ts": 1795615260000
-    },
-    {
-      "time": "9:01 AM",
-      "title": "Bloomberg — BC Partners Buys GSE Sport Agency With Golfer DeChambeau on List",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/bc-partners-buys-gse-sport-agency-with-golfer-dechambeau-on-list",
-      "ts": 1795615260000
-    },
-    {
-      "time": "9:00 AM",
-      "title": "Globe and Mail — From vibe to value: There’s no use adopting AI if there isn’t a measurable benefit",
-      "url": "https://www.theglobeandmail.com/business/careers/leadership/article-from-vibe-to-value-theres-no-use-adopting-ai-if-there-isnt-a/",
-      "ts": 1795615200000
-    },
-    {
-      "time": "8:59 AM",
-      "title": "Investing.com — TAT Technologies stock falls on $136M private placement",
-      "url": "https://www.investing.com/news/stock-market-news/tat-technologies-stock-falls-on-136m-private-placement-5050868",
-      "ts": 1795615152000
-    },
-    {
-      "time": "8:58 AM",
-      "title": "CNBC — Stock futures tumble as Nvidia leads AI sell-off, data shows inflation picking up: Live updates",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795615118000
     }
   ]
 }
