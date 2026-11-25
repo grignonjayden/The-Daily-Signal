@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 1:48 AM ET",
+  "generated_at": "Nov 25, 2026, 1:52 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795589312242,
+  "updated_ts": 1795589522585,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -255,6 +255,12 @@
       "ts": 1795588189000
     },
     {
+      "time": "1:29 AM",
+      "title": "CNBC — AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+      "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
+      "ts": 1795588186000
+    },
+    {
       "time": "1:24 AM",
       "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
       "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — SailGP Launches UAE Team, Aims to Grow to 20 Teams",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/sailgp-launches-uae-team-aims-to-grow-to-20-teams-video",
       "ts": 1795587406000
-    },
-    {
-      "time": "1:10 AM",
-      "title": "WSJ Markets — Bitcoin Options Signal Caution Despite Signs of Bargain Hunting",
-      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
-      "ts": 1795587000000
     }
   ]
 }
