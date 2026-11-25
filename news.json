@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:00 AM ET",
+  "generated_at": "Nov 25, 2026, 11:03 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795622418116,
+  "updated_ts": 1795622636402,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -64,16 +64,6 @@
       "ts": 1795614954000
     },
     {
-      "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
-      "snippet": "Plus: Malaysia finds no record of U.S.-sanctioned firm, Jensen Huang’s comeback collides with lawmakers demanding answers.",
-      "image": "https://images.wsj.net/im-38122472",
-      "time": "Nov 25, 7:13 AM",
-      "coverage": 4,
-      "ts": 1795608780000
-    },
-    {
       "title": "Nvidia Still Faces Issues That Cost $2 Trillion in Market Value",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value",
@@ -114,6 +104,16 @@
       "time": "Nov 23, 5:15 PM",
       "coverage": 6,
       "ts": 1795472100000
+    },
+    {
+      "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
+      "snippet": "Plus: Malaysia finds no record of U.S.-sanctioned firm, Jensen Huang’s comeback collides with lawmakers demanding answers.",
+      "image": "https://images.wsj.net/im-38122472",
+      "time": "Nov 25, 7:13 AM",
+      "coverage": 3,
+      "ts": 1795608780000
     },
     {
       "title": "Why is Lam Research stock tumbling today?",
@@ -236,6 +236,18 @@
   ],
   "ticker": [
     {
+      "time": "11:02 AM",
+      "title": "CNBC — U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+      "ts": 1795622572000
+    },
+    {
+      "time": "11:00 AM",
+      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "ts": 1795622400000
+    },
+    {
       "time": "10:55 AM",
       "title": "CNBC — Saudi national charged in OpenAI bugging to be released on $1 million bond",
       "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
@@ -294,18 +306,6 @@
       "title": "Investing.com — Netskope options signal 18% move ahead of earnings",
       "url": "https://www.investing.com/news/stock-market-news/netskope-options-signal-18-move-ahead-of-earnings-93CH-5051159",
       "ts": 1795621270000
-    },
-    {
-      "time": "10:41 AM",
-      "title": "MarketWatch — Visiting Las Vegas is getting too expensive — but don’t blame airfares",
-      "url": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
-      "ts": 1795621260000
-    },
-    {
-      "time": "10:40 AM",
-      "title": "CNBC — Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
-      "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
-      "ts": 1795621222000
     }
   ]
 }
