@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:56 AM ET",
+  "generated_at": "Nov 25, 2026, 11:00 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795622217533,
+  "updated_ts": 1795622418116,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -116,6 +116,15 @@
       "ts": 1795472100000
     },
     {
+      "title": "Why is Lam Research stock tumbling today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-lam-research-stock-tumbling-today-93CH-5051152",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+      "time": "Nov 25, 10:36 AM",
+      "ts": 1795620973000
+    },
+    {
       "title": "Why is Applied Materials stock sliding today?",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-sliding-today-93CH-5051147",
@@ -133,15 +142,6 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 5,
       "ts": 1795456173000
-    },
-    {
-      "title": "Macy’s options signal 7.3% move ahead of Dec. 2 earnings",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/macys-options-signal-73-move-ahead-of-dec-2-earnings-93CH-5051163",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-      "time": "Nov 25, 10:43 AM",
-      "ts": 1795621388000
     }
   ],
   "outlets": [
@@ -266,6 +266,12 @@
       "ts": 1795621512000
     },
     {
+      "time": "10:43 AM",
+      "title": "Investing.com — Macy’s options signal 7.3% move ahead of Dec. 2 earnings",
+      "url": "https://www.investing.com/news/stock-market-news/macys-options-signal-73-move-ahead-of-dec-2-earnings-93CH-5051163",
+      "ts": 1795621388000
+    },
+    {
       "time": "10:42 AM",
       "title": "Investing.com — US grocers serve up Thanksgiving deals even as turkey prices climb",
       "url": "https://www.investing.com/news/stock-market-news/us-grocers-serve-up-thanksgiving-deals-even-as-turkey-prices-climb-5050352",
@@ -300,12 +306,6 @@
       "title": "CNBC — Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
       "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
       "ts": 1795621222000
-    },
-    {
-      "time": "10:39 AM",
-      "title": "Investing.com — Why is Taiwan Semiconductor Manufacturing stock plunging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-plunging-today-93CH-5051157",
-      "ts": 1795621196000
     }
   ]
 }
