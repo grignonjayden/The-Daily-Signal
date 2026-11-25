@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:34 AM ET",
+  "generated_at": "Nov 25, 2026, 11:38 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795624487343,
+  "updated_ts": 1795624692922,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -195,26 +195,6 @@
       "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261125/cg261125b001-eng.png",
       "time": "Nov 25, 8:30 AM",
       "ts": 1795613400000
-    },
-    {
-      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
-      "snippet": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 2:00 PM",
-      "ts": 1795546800000
-    },
-    {
-      "title": "Federal Reserve announces College Fed Challenge winners",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-      "snippet": "Federal Reserve announces College Fed Challenge winners",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 20, 4:15 PM",
-      "ts": 1795209300000
     },
     {
       "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
