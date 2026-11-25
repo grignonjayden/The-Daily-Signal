@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 7:28 PM ET",
+  "generated_at": "Nov 24, 2026, 7:32 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795566526232,
+  "updated_ts": 1795566727642,
   "articles": [
     {
       "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "7:30 PM",
+      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "ts": 1795566600000
+    },
+    {
       "time": "7:24 PM",
       "title": "WSJ Markets — Gold Edges Lower With U.S. Inflation Data in Focus",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "Globe and Mail — Amazon violated Ontario’s anti-discrimination laws by not hiring Iranian engineer, tribunal rules",
       "url": "https://www.theglobeandmail.com/business/article-amazon-violated-ontarios-anti-discrimination-laws-by-not-hiring/",
       "ts": 1795563966000
-    },
-    {
-      "time": "6:44 PM",
-      "title": "WSJ Markets — The WSJ Dollar Index Falls 0.27% to 98.75",
-      "url": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
-      "ts": 1795563840000
     }
   ]
 }
