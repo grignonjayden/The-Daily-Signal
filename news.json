@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 24, 2026, 8:02 PM ET",
+  "generated_at": "Nov 24, 2026, 8:06 PM ET",
   "date_key": "2026-11-24",
-  "updated_ts": 1795568577847,
+  "updated_ts": 1795568777329,
   "articles": [
     {
       "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -157,16 +157,6 @@
   ],
   "official": [
     {
-      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
-      "snippet": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 24, 2:00 PM",
-      "ts": 1795546800000
-    },
-    {
       "title": "Farm income, 2025 (revised data)",
       "source": "Statistics Canada",
       "url": "https://www.statcan.gc.ca/daily-quotidien/261124/dq261124a-eng.htm",
@@ -183,16 +173,6 @@
       "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261124/cg261124b001-eng.png",
       "time": "Nov 24, 8:30 AM",
       "ts": 1795527000000
-    },
-    {
-      "title": "Federal Reserve announces College Fed Challenge winners",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-      "snippet": "Federal Reserve announces College Fed Challenge winners",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 20, 4:15 PM",
-      "ts": 1795209300000
     },
     {
       "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
@@ -237,10 +217,16 @@
   ],
   "ticker": [
     {
-      "time": "7:55 PM",
+      "time": "8:04 PM",
       "title": "CNBC — SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
       "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-      "ts": 1795568135000
+      "ts": 1795568682000
+    },
+    {
+      "time": "7:54 PM",
+      "title": "Investing.com — From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
+      "url": "https://www.investing.com/news/stock-market-news/from-horsepower-to-firepower-japan-draws-auto-suppliers-into-major-arms-buildup-5046991",
+      "ts": 1795568063000
     },
     {
       "time": "7:48 PM",
@@ -301,12 +287,6 @@
       "title": "Investing.com — Japan’s Nikkei to rise next year but fall short of record as investors reassess AI trade: Reuters poll",
       "url": "https://www.investing.com/news/stock-market-news/japans-nikkei-to-rise-next-year-but-fall-short-of-record-as-investors-reassess-ai-trade-reuters-poll-5049409",
       "ts": 1795565557000
-    },
-    {
-      "time": "7:05 PM",
-      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "ts": 1795565100000
     }
   ]
 }
