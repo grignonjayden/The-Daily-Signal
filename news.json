@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 4:41 AM ET",
+  "generated_at": "Nov 25, 2026, 4:44 AM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795599684498,
+  "updated_ts": 1795599886331,
   "articles": [
     {
       "title": "Huang’s return to Nvidia brings open-weight AI debate to forefront in Washington",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "4:42 AM",
+      "title": "CNBC — Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
+      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+      "ts": 1795599735000
+    },
+    {
       "time": "4:36 AM",
       "title": "WSJ Markets — Nasdaq Futures Slide as AI Growth Fears Return to Center Stage",
       "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Why is Ambarella stock crashing today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-ambarella-stock-crashing-today-93CH-5050050",
       "ts": 1795597868000
-    },
-    {
-      "time": "4:00 AM",
-      "title": "Globe and Mail — Steel distributors assert they’re being stiffed on tariff rebates",
-      "url": "https://www.theglobeandmail.com/business/article-steel-tariff-rebates-titus-algoma-cascadia/",
-      "ts": 1795597200000
     }
   ]
 }
