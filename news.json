@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 10:28 AM ET",
+  "generated_at": "Nov 26, 2026, 10:32 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795706935002,
+  "updated_ts": 1795707138948,
   "articles": [
     {
       "title": "US Marlboro maker Altria explores Imperial Brands takeover in Big Tobacco mega deal",
@@ -166,6 +166,24 @@
       "ts": 1795700230000
     },
     {
+      "title": "Payroll employment, earnings and hours, and job vacancies, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261126/dq261126a-eng.htm",
+      "snippet": "The number of employees receiving pay and benefits from their employer—measured as \"payroll employment\" in the Survey of Employment, Payrolls and Hours—was little changed in September (+9,700; +0.1%), following a…",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261126/cg261126a001-eng.png",
+      "time": "Nov 26, 8:30 AM",
+      "ts": 1795699800000
+    },
+    {
+      "title": "Government spending by function, 2025",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261126/dq261126b-eng.htm",
+      "snippet": "Growth in spending by the consolidated Canadian general government—that is, all levels of government including the federal, provincial, territorial, local and other government entities combined—slowed to 2.2% in…",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261126/cg261126b001-eng.png",
+      "time": "Nov 26, 8:30 AM",
+      "ts": 1795699800000
+    },
+    {
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
@@ -206,25 +224,6 @@
       "ts": 1795615824000
     },
     {
-      "title": "Economic and Social Reports, November 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261125/dq261125a-eng.htm",
-      "snippet": "There are five new articles in today's release of Economic and Social Reports.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/TunneysPasture2022.jpg/330px-TunneysPasture2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 8:30 AM",
-      "ts": 1795613400000
-    },
-    {
-      "title": "Food services and drinking places, September 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261125/dq261125b-eng.htm",
-      "snippet": "Total sales in the food services and drinking places subsector increased 0.2% in September to $8.9 billion, the ninth consecutive monthly increase.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261125/cg261125b001-eng.png",
-      "time": "Nov 25, 8:30 AM",
-      "ts": 1795613400000
-    },
-    {
       "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
@@ -241,6 +240,12 @@
       "title": "CNBC — Spain’s Pablo Hernández de Cos set to lead European Central Bank",
       "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
       "ts": 1795706906000
+    },
+    {
+      "time": "10:25 AM",
+      "title": "Bloomberg — What JLL Sees This Holiday Season",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/what-jll-sees-this-holiday-season-video",
+      "ts": 1795706716000
     },
     {
       "time": "10:20 AM",
@@ -273,6 +278,12 @@
       "ts": 1795705672000
     },
     {
+      "time": "10:03 AM",
+      "title": "Bloomberg — Latvia Backs Air Baltic Guarantee as it Searches for Investor",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/latvia-backs-air-baltic-guarantee-as-it-searches-for-investor",
+      "ts": 1795705433000
+    },
+    {
       "time": "9:59 AM",
       "title": "Bloomberg — (USD:ZAR) Rand Hurtles Toward Worst November Against Dollar in 25 Years",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/-usd-zar-rand-hurtles-toward-worst-november-against-dollar-in-25-years",
@@ -295,18 +306,6 @@
       "title": "Investing.com — Brazil’s Embraer CEO says US aircraft tariff will hurt airlines",
       "url": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
       "ts": 1795702711000
-    },
-    {
-      "time": "9:15 AM",
-      "title": "Investing.com — Dow Investors Chased Tech Swings—While Amgen Quietly Surged 77%",
-      "url": "https://www.investing.com/news/stock-market-news/dow-investors-chased-tech-swingswhile-amgen-quietly-surged-77-5051987",
-      "ts": 1795702540000
-    },
-    {
-      "time": "9:15 AM",
-      "title": "Investing.com — Forget Binary Biotech Bets: This Antiviral Giant Surged 38%",
-      "url": "https://www.investing.com/news/stock-market-news/forget-binary-biotech-bets-this-antiviral-giant-surged-38-5051985",
-      "ts": 1795702530000
     }
   ]
 }
