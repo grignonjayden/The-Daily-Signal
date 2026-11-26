@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:17 AM ET",
+  "generated_at": "Nov 26, 2026, 6:20 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795691848349,
+  "updated_ts": 1795692052073,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "6:16 AM",
+      "title": "Globe and Mail — Business Brief: Dashing through the lows",
+      "url": "https://www.theglobeandmail.com/business/article-business-brief-dashing-through-the-lows/",
+      "ts": 1795691787000
+    },
+    {
       "time": "6:12 AM",
       "title": "Bloomberg — UniCredit Clears Final Hurdle to Take Over Commerzbank",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video-mwxge90q",
@@ -303,12 +309,6 @@
       "title": "Investing.com — India stocks higher at close of trade; Nifty 50 up 0.25%",
       "url": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-025-5052374",
       "ts": 1795689005000
-    },
-    {
-      "time": "5:24 AM",
-      "title": "Investing.com — UK miners rise as copper rebounds from 11-month low",
-      "url": "https://www.investing.com/news/stock-market-news/uk-miners-rise-as-copper-rebounds-from-11month-low-5052372",
-      "ts": 1795688649000
     }
   ]
 }
