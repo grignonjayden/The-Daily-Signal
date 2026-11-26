@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 5:08 PM ET",
+  "generated_at": "Nov 26, 2026, 5:11 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795730907515,
+  "updated_ts": 1795731108212,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -249,6 +249,12 @@
       "ts": 1795730400000
     },
     {
+      "time": "4:59 PM",
+      "title": "Bloomberg — Asian Stock Futures Signal Gains, Oil Climbs Again: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+      "ts": 1795730397000
+    },
+    {
       "time": "4:45 PM",
       "title": "MarketWatch — I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
       "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
@@ -301,12 +307,6 @@
       "title": "Investing.com — US malls make a holiday comeback as shoppers seek more than deals",
       "url": "https://www.investing.com/news/stock-market-news/us-malls-make-a-holiday-comeback-as-shoppers-seek-more-than-deals-5052721",
       "ts": 1795727177000
-    },
-    {
-      "time": "3:30 PM",
-      "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 4.30%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-430-5052714",
-      "ts": 1795725004000
     }
   ]
 }
