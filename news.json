@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:48 AM ET",
+  "generated_at": "Nov 26, 2026, 12:51 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795672095678,
+  "updated_ts": 1795672295899,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -238,6 +238,18 @@
   ],
   "ticker": [
     {
+      "time": "12:50 AM",
+      "title": "CNBC — North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+      "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
+      "ts": 1795672234000
+    },
+    {
+      "time": "12:45 AM",
+      "title": "Bloomberg — Xpeng President on Carmaker's Robot Push",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/xpeng-president-on-carmaker-s-robot-push-video",
+      "ts": 1795671955000
+    },
+    {
       "time": "12:41 AM",
       "title": "Investing.com — Why did Fisher & Paykel Healthcare shares hit a record high today?",
       "url": "https://www.investing.com/news/stock-market-news/why-did-fisher--paykel-healthcare-shares-hit-a-record-high-today-93CH-5052038",
@@ -286,12 +298,6 @@
       "ts": 1795670302000
     },
     {
-      "time": "12:16 AM",
-      "title": "CNBC — North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
-      "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
-      "ts": 1795670198000
-    },
-    {
       "time": "12:15 AM",
       "title": "Bloomberg — DHL's Venter: Supply Chain Resilience Is Key to Growth",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/dhl-s-venter-supply-chain-resilience-is-key-to-growth-video",
@@ -302,12 +308,6 @@
       "title": "Investing.com — Bitcoin technical outlook: bear trend with oversold signals near $61,000",
       "url": "https://www.investing.com/news/stock-market-news/bitcoin-technical-outlook-bear-trend-with-oversold-signals-near-61000-93CH-5052026",
       "ts": 1795670132000
-    },
-    {
-      "time": "12:06 AM",
-      "title": "Investing.com — Stocks rally in Asia, US tariffs not as dire as feared",
-      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
-      "ts": 1795669597000
     }
   ]
 }
