@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:15 AM ET",
+  "generated_at": "Nov 26, 2026, 2:18 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795677321480,
+  "updated_ts": 1795677522176,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "2:16 AM",
+      "title": "MarketWatch — Is the stock market open for Thanksgiving? The answer might surprise you.",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+      "ts": 1795677360000
+    },
+    {
+      "time": "2:05 AM",
+      "title": "Bloomberg — UK Faces Third Day of Strained Electricity Supplies on Cold Snap",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/uk-faces-third-day-of-strained-electricity-supplies-on-cold-snap",
+      "ts": 1795676706000
+    },
+    {
       "time": "2:00 AM",
       "title": "Investing.com — Japan stocks higher at close of trade; Nikkei 225 up 0.84%",
       "url": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-084-5052126",
@@ -295,18 +307,6 @@
       "title": "CNBC — SpaceX, Musk pledge to donate a share each to active Trump Accounts",
       "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
       "ts": 1795675174000
-    },
-    {
-      "time": "1:32 AM",
-      "title": "Bloomberg — Vietnam Weighs Delaying Nuclear Power Plants Beyond 2035 Target",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/vietnam-weighs-delaying-nuclear-power-plants-beyond-2035-target",
-      "ts": 1795674734000
-    },
-    {
-      "time": "1:27 AM",
-      "title": "Bloomberg — Guinea Lawmakers Approve Law to Establish Sovereign Wealth Fund",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/guinea-lawmakers-approve-law-to-establish-sovereign-wealth-fund",
-      "ts": 1795674467000
     }
   ]
 }
