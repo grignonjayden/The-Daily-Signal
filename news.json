@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:17 PM ET",
+  "generated_at": "Nov 26, 2026, 3:20 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795724244139,
+  "updated_ts": 1795724442588,
   "articles": [
     {
       "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "3:18 PM",
+      "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "ts": 1795724291000
+    },
+    {
       "time": "3:04 PM",
       "title": "Globe and Mail — Toronto cybersecurity firm 1Password says hacker stole customer names, e-mail addresses",
       "url": "https://www.theglobeandmail.com/business/technology/article-toronto-cybersecurity-firm-1password-says-hacker-stole-customer-names/",
@@ -283,12 +289,6 @@
       "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
       "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
       "ts": 1795719600000
-    },
-    {
-      "time": "1:44 PM",
-      "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "ts": 1795718655000
     },
     {
       "time": "1:33 PM",
