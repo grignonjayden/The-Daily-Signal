@@ -1,17 +1,17 @@
 {
-  "generated_at": "Nov 26, 2026, 10:25 AM ET",
+  "generated_at": "Nov 26, 2026, 10:28 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795706706845,
+  "updated_ts": 1795706935002,
   "articles": [
     {
-      "title": "Marlboro maker Altria explores takeover of UK’s Imperial Brands",
+      "title": "US Marlboro maker Altria explores Imperial Brands takeover in Big Tobacco mega deal",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
-      "time": "Nov 26, 9:54 AM",
+      "time": "Nov 26, 10:24 AM",
       "coverage": 5,
-      "ts": 1795704891000
+      "ts": 1795706662000
     },
     {
       "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
@@ -95,16 +95,6 @@
       "ts": 1795704259000
     },
     {
-      "title": "European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
-      "time": "Nov 26, 9:03 AM",
-      "coverage": 4,
-      "ts": 1795701808000
-    },
-    {
       "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
@@ -113,6 +103,16 @@
       "time": "Nov 26, 9:00 AM",
       "coverage": 4,
       "ts": 1795701600000
+    },
+    {
+      "title": "Investors Overpaid for Retail Safety, Missing Kroger’s 14% Rally",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/investors-overpaid-for-retail-safety-missing-krogers-14-rally-5051989",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEE203OH_M.jpg",
+      "time": "Nov 26, 9:15 AM",
+      "coverage": 3,
+      "ts": 1795702551000
     },
     {
       "title": "Spain's De Cos Set to Succeed Lagarde as ECB President",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "10:28 AM",
+      "title": "CNBC — Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "ts": 1795706906000
+    },
+    {
       "time": "10:20 AM",
       "title": "Bloomberg — BCG on What’s Keeping CEOs Up at Night",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/bcg-on-what-s-keeping-ceos-up-at-night-video",
@@ -255,16 +261,16 @@
       "ts": 1795705920000
     },
     {
+      "time": "10:10 AM",
+      "title": "Investing.com — Morocco stocks higher at close of trade; Moroccan All Shares up 0.90%",
+      "url": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-090-5052572",
+      "ts": 1795705803000
+    },
+    {
       "time": "10:07 AM",
       "title": "Bloomberg — Mexican Peso Sees Worst Losing Streak Since 2021 on Carry Unwind",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/mexican-peso-sees-worst-losing-streak-since-2021-on-carry-unwind",
       "ts": 1795705672000
-    },
-    {
-      "time": "9:59 AM",
-      "title": "CNBC — Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "ts": 1795705187000
     },
     {
       "time": "9:59 AM",
@@ -289,12 +295,6 @@
       "title": "Investing.com — Brazil’s Embraer CEO says US aircraft tariff will hurt airlines",
       "url": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
       "ts": 1795702711000
-    },
-    {
-      "time": "9:15 AM",
-      "title": "Investing.com — Investors Overpaid for Retail Safety, Missing Kroger’s 14% Rally",
-      "url": "https://www.investing.com/news/stock-market-news/investors-overpaid-for-retail-safety-missing-krogers-14-rally-5051989",
-      "ts": 1795702551000
     },
     {
       "time": "9:15 AM",
