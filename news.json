@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:18 AM ET",
+  "generated_at": "Nov 26, 2026, 7:21 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795695502561,
+  "updated_ts": 1795695705149,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -20,8 +20,19 @@
       "snippet": "",
       "image": "https://content-media.investing.com/news/moved_LYNXMPEGAQ11L_L.jpg",
       "time": "Nov 26, 5:10 AM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795687817000
+    },
+    {
+      "title": "Inflation-Wary Shoppers Prepare for Black Friday (Video)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/inflation-wary-shoppers-prepare-for-black-friday-video",
+      "snippet": "",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 7:18 AM",
+      "coverage": 5,
+      "ts": 1795695493000
     },
     {
       "title": "China, other U.S. trading partners oppose Trump’s new tariffs plans",
@@ -104,17 +115,6 @@
       "time": "Nov 26, 3:35 AM",
       "coverage": 4,
       "ts": 1795682100000
-    },
-    {
-      "title": "AlexForbes Sees More Growth After Assets Hit $45 Billion",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/alexforbes-sees-more-growth-after-assets-hit-45-billion",
-      "snippet": "South Africa’s biggest commercial retirement-fund administrator boosted assets under management 13% in the first half and expects to maintain that pace for the rest of the year.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 6:28 AM",
-      "coverage": 3,
-      "ts": 1795692524000
     },
     {
       "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
