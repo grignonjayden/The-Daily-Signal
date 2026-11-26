@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:06 PM ET",
+  "generated_at": "Nov 26, 2026, 12:09 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795712784921,
+  "updated_ts": 1795712991060,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -53,6 +53,16 @@
       "time": "Nov 25, 10:19 PM",
       "coverage": 6,
       "ts": 1795663184000
+    },
+    {
+      "title": "FTSE 100 today: Stocks post best day in over six months; Imperial Brands leads",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEF1B0JS_M.jpg",
+      "time": "Nov 26, 11:50 AM",
+      "coverage": 4,
+      "ts": 1795711828000
     },
     {
       "title": "US Marlboro maker Altria explores Imperial Brands takeover in Big Tobacco mega deal",
@@ -114,16 +124,6 @@
       "time": "Nov 25, 5:27 PM",
       "coverage": 5,
       "ts": 1795645620000
-    },
-    {
-      "title": "Poland stocks higher at close of trade; WIG30 up 1.63%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-163-5052625",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/Warsaw_stock_exchange_M_1440049039.jpg",
-      "time": "Nov 26, 11:35 AM",
-      "coverage": 2,
-      "ts": 1795710903000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -237,22 +237,34 @@
   ],
   "ticker": [
     {
+      "time": "12:00 PM",
+      "title": "Investing.com — Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.98%",
+      "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-198-5052636",
+      "ts": 1795712429000
+    },
+    {
+      "time": "12:00 PM",
+      "title": "Investing.com — Finland stocks higher at close of trade; OMX Helsinki 25 up 2.18%",
+      "url": "https://www.investing.com/news/stock-market-news/finland-stocks-higher-at-close-of-trade-omx-helsinki-25-up-218-5052633",
+      "ts": 1795712404000
+    },
+    {
       "time": "11:49 AM",
       "title": "Bloomberg — Stellantis to Pause More Europe Plants as Chinese Rivals Advance",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/stellantis-to-pause-more-europe-plants-as-chinese-rivals-advance",
       "ts": 1795711756000
     },
     {
+      "time": "11:48 AM",
+      "title": "Investing.com — Brazil’s Embraer criticizes new US tariffs, warns of air travel inflation",
+      "url": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
+      "ts": 1795711701000
+    },
+    {
       "time": "11:42 AM",
       "title": "Investing.com — UniCredit pushes for Commerzbank management shake-up with CEO Orcel as chair",
       "url": "https://www.investing.com/news/stock-market-news/unicredit-pushes-for-commerzbank-management-shakeup-with-ceo-orcel-as-chair-5052474",
       "ts": 1795711372000
-    },
-    {
-      "time": "11:42 AM",
-      "title": "Investing.com — Brazil’s Embraer criticizes new US tariffs, warns of air travel inflation",
-      "url": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
-      "ts": 1795711343000
     },
     {
       "time": "11:39 AM",
@@ -265,6 +277,12 @@
       "title": "Investing.com — Netherlands will ask Washington not to enforce MATCH Act, minister says",
       "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
       "ts": 1795710993000
+    },
+    {
+      "time": "11:35 AM",
+      "title": "Investing.com — Poland stocks higher at close of trade; WIG30 up 1.63%",
+      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-163-5052625",
+      "ts": 1795710903000
     },
     {
       "time": "11:30 AM",
@@ -289,24 +307,6 @@
       "title": "CNBC — Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
       "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
       "ts": 1795709567000
-    },
-    {
-      "time": "11:00 AM",
-      "title": "Investing.com — EU may vote on authorising Tesla assisted-driving system at Dec 15 meeting",
-      "url": "https://www.investing.com/news/stock-market-news/eu-may-vote-on-authorising-tesla-assisteddriving-system-at-dec-15-meeting-5052607",
-      "ts": 1795708846000
-    },
-    {
-      "time": "11:00 AM",
-      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "ts": 1795708800000
-    },
-    {
-      "time": "10:57 AM",
-      "title": "Globe and Mail — Tech leaders urge Canada to build data centres here or risk renting abroad",
-      "url": "https://www.theglobeandmail.com/business/technology/article-tech-leaders-urge-canada-to-build-data-centres-here-or-risk-renting/",
-      "ts": 1795708658000
     }
   ]
 }
