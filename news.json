@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:35 AM ET",
+  "generated_at": "Nov 26, 2026, 3:39 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795682141867,
+  "updated_ts": 1795682344542,
   "articles": [
     {
       "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
@@ -44,6 +44,27 @@
       "ts": 1795655700000
     },
     {
+      "title": "European Indexes Open Sharply Higher After U.S. Recovery",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main",
+      "snippet": "European stock indexes opened with strong gains after a late equity rally in the U.S. session.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 3:35 AM",
+      "coverage": 4,
+      "ts": 1795682100000
+    },
+    {
+      "title": "European shares as benign U.S. tariffs and Thanksgiving lull offer relief",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
+      "time": "Nov 26, 3:05 AM",
+      "coverage": 4,
+      "ts": 1795680334000
+    },
+    {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
@@ -62,16 +83,6 @@
       "time": "Nov 25, 8:29 AM",
       "coverage": 6,
       "ts": 1795613399000
-    },
-    {
-      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
-      "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
-      "image": "https://images.wsj.net/im-58488429",
-      "time": "Nov 25, 5:27 PM",
-      "coverage": 5,
-      "ts": 1795645620000
     },
     {
       "title": "US Proposes New Tariffs, Asian Stocks Rise As AI Trade Rebounds",
@@ -93,16 +104,6 @@
       "time": "Nov 26, 3:20 AM",
       "coverage": 3,
       "ts": 1795681209000
-    },
-    {
-      "title": "European shares as benign U.S. tariffs and Thanksgiving lull offer relief",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
-      "time": "Nov 26, 3:05 AM",
-      "coverage": 3,
-      "ts": 1795680334000
     },
     {
       "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
