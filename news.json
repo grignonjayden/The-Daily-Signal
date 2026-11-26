@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 11:56 AM ET",
+  "generated_at": "Nov 26, 2026, 11:59 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795712186389,
+  "updated_ts": 1795712384877,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -55,16 +55,6 @@
       "ts": 1795663184000
     },
     {
-      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "snippet": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108556424-1795181552746-gettyimages-2294015150-aditya-notitle260910_npipj.jpeg?v=1795181613&w=1920&h=1080",
-      "time": "Nov 26, 10:28 AM",
-      "coverage": 3,
-      "ts": 1795706906000
-    },
-    {
       "title": "US Marlboro maker Altria explores Imperial Brands takeover in Big Tobacco mega deal",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
@@ -73,6 +63,16 @@
       "time": "Nov 26, 11:25 AM",
       "coverage": 4,
       "ts": 1795710337000
+    },
+    {
+      "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
+      "snippet": "U.S. tobacco group Altria said on Thursday it was considering a possible all-cash offer for ​Imperial Brands.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107232976-1682707584484-gettyimages-1486127437-0j5a7430_clcrzwlh.jpeg?v=1698330737&w=1920&h=1080",
+      "time": "Nov 26, 9:47 AM",
+      "coverage": 4,
+      "ts": 1795704457000
     },
     {
       "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "11:49 AM",
+      "title": "Bloomberg — Stellantis to Pause More Europe Plants as Chinese Rivals Advance",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/stellantis-to-pause-more-europe-plants-as-chinese-rivals-advance",
+      "ts": 1795711756000
+    },
+    {
       "time": "11:42 AM",
       "title": "Investing.com — UniCredit pushes for Commerzbank management shake-up with CEO Orcel as chair",
       "url": "https://www.investing.com/news/stock-market-news/unicredit-pushes-for-commerzbank-management-shakeup-with-ceo-orcel-as-chair-5052474",
@@ -301,12 +307,6 @@
       "title": "Globe and Mail — Tech leaders urge Canada to build data centres here or risk renting abroad",
       "url": "https://www.theglobeandmail.com/business/technology/article-tech-leaders-urge-canada-to-build-data-centres-here-or-risk-renting/",
       "ts": 1795708658000
-    },
-    {
-      "time": "10:55 AM",
-      "title": "Investing.com — Norway stocks higher at close of trade; Oslo OBX up 1.50%",
-      "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-150-5052605",
-      "ts": 1795708528000
     }
   ]
 }
