@@ -1,17 +1,17 @@
 {
-  "generated_at": "Nov 26, 2026, 6:08 PM ET",
+  "generated_at": "Nov 26, 2026, 6:12 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795734528721,
+  "updated_ts": 1795734728220,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "snippet": "Investors wrapped up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
+      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
       "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
-      "time": "Nov 26, 6:03 PM",
+      "time": "Nov 26, 6:10 PM",
       "coverage": 6,
-      "ts": 1795734220000
+      "ts": 1795734627000
     },
     {
       "title": "U.S. stock futures rise on Thanksgiving a day after wild swings on Wall Street",
@@ -244,6 +244,12 @@
     },
     {
       "time": "6:00 PM",
+      "title": "Bloomberg — Euro Set for Biggest Drop in Two Decades Against Yuan This Year",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/euro-set-for-biggest-drop-in-two-decades-against-yuan-this-year",
+      "ts": 1795734000000
+    },
+    {
+      "time": "6:00 PM",
       "title": "Bloomberg — Bankers Pay Up for Hong Kong Apartments as Rents Hit New Highs",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/bankers-pay-up-for-hong-kong-apartments-as-rents-hit-new-highs",
       "ts": 1795734000000
@@ -301,12 +307,6 @@
       "title": "Investing.com — Colombia stocks higher at close of trade; COLCAP up 0.97%",
       "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-097-5052723",
       "ts": 1795728306000
-    },
-    {
-      "time": "4:20 PM",
-      "title": "Investing.com — Russia stocks lower at close of trade; MOEX Russia Index down 0.80%",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-080-5052722",
-      "ts": 1795728003000
     }
   ]
 }
