@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:59 AM ET",
+  "generated_at": "Nov 26, 2026, 4:02 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795683566482,
+  "updated_ts": 1795683768471,
   "articles": [
     {
       "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
@@ -157,6 +157,26 @@
   ],
   "official": [
     {
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+      "snippet": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 3:00 PM",
+      "ts": 1795636800000
+    },
+    {
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "source": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+      "snippet": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 3:00 PM",
+      "ts": 1795636800000
+    },
+    {
       "title": "Canada moves forward with final safeguard measure on canned vegetables imports to protect Canadian producers",
       "source": "Finance Canada",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/canada-moves-forward-with-final-safeguard-measure-on-canned-vegetables-imports-to-protect-canadian-producers.html",
@@ -218,6 +238,36 @@
   ],
   "ticker": [
     {
+      "time": "4:01 AM",
+      "title": "CNBC — The Nobel-winning science turning ‘water harvesting’ into a commercial race",
+      "url": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
+      "ts": 1795683686000
+    },
+    {
+      "time": "4:00 AM",
+      "title": "CNBC — Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
+      "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+      "ts": 1795683635000
+    },
+    {
+      "time": "4:00 AM",
+      "title": "Bloomberg — Marc Levinson on How UPS Created Modern Logistics",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics",
+      "ts": 1795683622000
+    },
+    {
+      "time": "4:00 AM",
+      "title": "Bloomberg — Odd Lots: Levinson on How UPS Created Modern Logistics (Podcast)",
+      "url": "https://www.bloomberg.com/news/audio/2026-11-26/odd-lots-levinson-on-how-ups-created-modern-logistics-podcast",
+      "ts": 1795683600000
+    },
+    {
+      "time": "4:00 AM",
+      "title": "Globe and Mail — Who’ll pay for overruns on the Darlington small modular reactor? – and other unanswered questions",
+      "url": "https://www.theglobeandmail.com/business/article-wholl-pay-for-overruns-on-the-darlington-small-modular-reactor-and/",
+      "ts": 1795683600000
+    },
+    {
       "time": "3:55 AM",
       "title": "WSJ Markets — Oil Mixed Amid Middle East Attacks, U.S. Inventory Build",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-c730426d?mod=rss_markets_main",
@@ -258,36 +308,6 @@
       "title": "WSJ Markets — Gilt Yields Rise as Inflation Concerns Linger",
       "url": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
       "ts": 1795681920000
-    },
-    {
-      "time": "3:31 AM",
-      "title": "Investing.com — Why is Babcock International stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-babcock-international-stock-rallying-today-93CH-5052219",
-      "ts": 1795681901000
-    },
-    {
-      "time": "3:30 AM",
-      "title": "Investing.com — Why is Halfords stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-halfords-stock-surging-today-93CH-5052216",
-      "ts": 1795681855000
-    },
-    {
-      "time": "3:30 AM",
-      "title": "Investing.com — Indonesia stocks higher at close of trade; IDX Composite Index up 0.69%",
-      "url": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-069-5052210",
-      "ts": 1795681803000
-    },
-    {
-      "time": "3:29 AM",
-      "title": "Bloomberg — Asian Stock Markets Are Cheap Enough Now: Market Analysis",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/asian-stock-markets-are-cheap-enough-now-3-minutes-mliv-video",
-      "ts": 1795681791000
-    },
-    {
-      "time": "3:29 AM",
-      "title": "Investing.com — Why is UniCredit stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-unicredit-stock-rallying-today-93CH-5052209",
-      "ts": 1795681789000
     }
   ]
 }
