@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 4:41 PM ET",
+  "generated_at": "Nov 26, 2026, 4:44 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795729294169,
+  "updated_ts": 1795729494812,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "4:35 PM",
+      "title": "Globe and Mail — Premier Ford, Unifor leader call on Ottawa to scrap greenhouse gas rules for Canadian automakers",
+      "url": "https://www.theglobeandmail.com/business/article-working-premier-ford-unifor-leader-call-on-ottawa-to-scrap-greenhouse/",
+      "ts": 1795728906000
+    },
+    {
       "time": "4:30 PM",
       "title": "MarketWatch — I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence",
       "ts": 1795721506000
-    },
-    {
-      "time": "2:00 PM",
-      "title": "Investing.com — Retail inventories and goods trade balance among economic data due Friday",
-      "url": "https://www.investing.com/news/stock-market-news/retail-inventories-and-goods-trade-balance-among-economic-data-due-friday-93CH-5052685",
-      "ts": 1795719641000
     }
   ]
 }
