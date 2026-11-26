@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 10:03 PM ET",
+  "generated_at": "Nov 25, 2026, 10:06 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795662204702,
+  "updated_ts": 1795662406283,
   "articles": [
+    {
+      "title": "Trump admin weighed using Cold War law to reinstate Nvidia CEO Huang, WaPo reports",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/trump-admin-weighed-using-cold-war-law-to-reinstate-nvidia-ceo-huang-wapo-reports-5051938",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEMA9126_1200_L.jpg",
+      "time": "Nov 25, 9:52 PM",
+      "coverage": 6,
+      "ts": 1795661567000
+    },
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
       "source": "CNBC",
@@ -10,7 +20,7 @@
       "snippet": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
       "image": "https://image.cnbcfm.com/api/v1/image/108559710-1795655986080-gettyimages-2290083650-golba-dailylif260808_npNHs.jpeg?v=1795656043&w=1920&h=1080",
       "time": "Nov 25, 9:15 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795659351000
     },
     {
@@ -20,8 +30,28 @@
       "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
       "image": "https://images.mktw.net/im-58425830",
       "time": "Nov 25, 8:15 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795655700000
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 25, 5:45 PM",
+      "coverage": 6,
+      "ts": 1795646700000
+    },
+    {
+      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
+      "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
+      "image": "https://images.wsj.net/im-58488429",
+      "time": "Nov 25, 5:27 PM",
+      "coverage": 6,
+      "ts": 1795645620000
     },
     {
       "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
@@ -32,26 +62,6 @@
       "time": "Nov 25, 6:50 PM",
       "coverage": 5,
       "ts": 1795650653000
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 25, 5:45 PM",
-      "coverage": 5,
-      "ts": 1795646700000
-    },
-    {
-      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
-      "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
-      "image": "https://images.wsj.net/im-58488429",
-      "time": "Nov 25, 5:27 PM",
-      "coverage": 5,
-      "ts": 1795645620000
     },
     {
       "title": "Asia shares bounce, AI and tariffs lurk in background",
@@ -85,16 +95,6 @@
       "ts": 1795613399000
     },
     {
-      "title": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEK1L06T_L.jpg",
-      "time": "Nov 25, 9:41 PM",
-      "coverage": 3,
-      "ts": 1795660906000
-    },
-    {
       "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
@@ -126,6 +126,16 @@
       "ts": 1795645260000
     },
     {
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
+    },
+    {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
@@ -133,16 +143,6 @@
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
       "time": "Nov 25, 9:38 AM",
       "ts": 1795617488000
-    },
-    {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 5,
-      "ts": 1795456173000
     }
   ],
   "outlets": [
@@ -243,6 +243,24 @@
       "ts": 1795661852000
     },
     {
+      "time": "9:48 PM",
+      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
+      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
+      "ts": 1795661301000
+    },
+    {
+      "time": "9:45 PM",
+      "title": "Investing.com — U.S. judge blocks FCC from revoking Disney’s ABC TV licenses",
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-blocks-fcc-from-revoking-disneys-abc-tv-licenses-5051928",
+      "ts": 1795661106000
+    },
+    {
+      "time": "9:41 PM",
+      "title": "Investing.com — Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925",
+      "ts": 1795660906000
+    },
+    {
       "time": "9:36 PM",
       "title": "Investing.com — Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says",
       "url": "https://www.investing.com/news/stock-market-news/air-cargo-demand-from-ai-data-centres-shows-no-sign-of-slowing-sats-ceo-says-5051923",
@@ -289,24 +307,6 @@
       "title": "WSJ Markets — The Other Nvidia Romance With an Executive at a Company Linked to China",
       "url": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
       "ts": 1795658400000
-    },
-    {
-      "time": "8:54 PM",
-      "title": "Investing.com — Malaysia regulator seeks $146 million damages from Google over ’harmful’ content",
-      "url": "https://www.investing.com/news/stock-market-news/malaysia-regulator-files-lawsuits-against-google-seeking-146-million-over-harmful-content-5049766",
-      "ts": 1795658078000
-    },
-    {
-      "time": "8:52 PM",
-      "title": "CNBC — Norse Atlantic flights suspended after warning finances 'critical'",
-      "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
-      "ts": 1795657940000
-    },
-    {
-      "time": "8:51 PM",
-      "title": "WSJ Markets — Indian Rupee’s Backdrop Turns More Supportive",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
-      "ts": 1795657860000
     }
   ]
 }
