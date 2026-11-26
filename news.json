@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:57 AM ET",
+  "generated_at": "Nov 26, 2026, 10:01 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795705053210,
+  "updated_ts": 1795705285323,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -34,6 +34,16 @@
       "ts": 1795695745000
     },
     {
+      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "snippet": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556424-1795181552746-gettyimages-2294015150-aditya-notitle260910_npipj.jpeg?v=1795181613&w=1920&h=1080",
+      "time": "Nov 26, 9:59 AM",
+      "coverage": 3,
+      "ts": 1795705187000
+    },
+    {
       "title": "Spain’s Pablo Hernandez de Cos set to be nominated as new European Central Bank head",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/",
@@ -42,16 +52,6 @@
       "time": "Nov 26, 9:44 AM",
       "coverage": 3,
       "ts": 1795704259000
-    },
-    {
-      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "snippet": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108556424-1795181552746-gettyimages-2294015150-aditya-notitle260910_npipj.jpeg?v=1795181613&w=1920&h=1080",
-      "time": "Nov 26, 9:20 AM",
-      "coverage": 3,
-      "ts": 1795702844000
     },
     {
       "title": "European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "9:59 AM",
+      "title": "WSJ Markets — Japanese Yen Lifted by Safe-Haven Demand",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "ts": 1795705140000
+    },
+    {
       "time": "9:47 AM",
       "title": "CNBC — Marlboro maker Altria explores takeover of UK's Imperial Brands",
       "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — ¿Qué causó las fallas tecnológicas en EE.UU.?",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/-que-causo-las-fallas-tecnologicas-en-ee-uu-video",
       "ts": 1795702311000
-    },
-    {
-      "time": "9:11 AM",
-      "title": "Globe and Mail — Premier Ford, Unifor leader call on Ottawa to scrap greenhouse gas rules for Canadian automakers",
-      "url": "https://www.theglobeandmail.com/business/article-ford-unifor-greenhouse-gas-rules-automakers-stellantis-plant/",
-      "ts": 1795702268000
     }
   ]
 }
