@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:30 AM ET",
+  "generated_at": "Nov 26, 2026, 6:34 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795692653999,
+  "updated_ts": 1795692854951,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -245,6 +245,12 @@
       "ts": 1795692412000
     },
     {
+      "time": "6:22 AM",
+      "title": "Bloomberg — Malaysia Says May Intervene If AirAsia’s Financial Woes Worsen",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/malaysia-says-may-intervene-if-airasia-s-financial-woes-worsen",
+      "ts": 1795692172000
+    },
+    {
       "time": "6:16 AM",
       "title": "Globe and Mail — Business Brief: Dashing through the lows",
       "url": "https://www.theglobeandmail.com/business/article-business-brief-dashing-through-the-lows/",
@@ -303,12 +309,6 @@
       "title": "CNBC — Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
       "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
       "ts": 1795689945000
-    },
-    {
-      "time": "5:35 AM",
-      "title": "Investing.com — Why is ams OSRAM stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-ams-osram-stock-surging-today-93CH-5052382",
-      "ts": 1795689355000
     }
   ]
 }

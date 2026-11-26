@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 26, 2026, 6:00 AM ET",
+  "generated_at": "Nov 26, 2026, 6:34 AM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -13,6 +13,18 @@
       "sector": "Trade",
       "time": "Nov 26",
       "date": "2026-11-26T14:00:00.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Banking on Canada: The Promise and Risks of the New Defence Bank",
+      "url": "https://cdhowe.org/publication/banking-on-canada-the-promise-and-risks-of-the-new-defence-bank/",
+      "image": "https://cdhowe.org/E-Brief_390_html-web-resources/image/1.png",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Defence",
+      "time": "Nov 26",
+      "date": "2026-11-26T11:00:39.000Z",
       "group": "sector"
     },
     {
@@ -37,18 +49,6 @@
       "sector": "Infrastructure",
       "time": "Nov 25",
       "date": "2026-11-26T00:45:09.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Goods Move at the Speed of the Slowest Link",
-      "url": "https://cdhowe.org/publication/goods-move-at-the-speed-of-the-slowest-link/",
-      "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-2239780043.jpg",
-      "source": "C.D. Howe Institute",
-      "badge": "CDH",
-      "analysis": true,
-      "sector": "Trade",
-      "time": "Nov 25",
-      "date": "2026-11-25T18:35:15.000Z",
       "group": "sector"
     },
     {
@@ -225,14 +225,19 @@
       "kept": 3
     },
     {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
+    },
+    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 4
     },
     {
       "source": "CDEV",
@@ -240,19 +245,14 @@
       "kept": 0
     },
     {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 3
-    },
-    {
       "source": "Canada Media Fund",
       "fetched": 24,
       "kept": 1
     },
     {
-      "source": "ISED",
-      "fetched": 20,
-      "kept": 4
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 3
     },
     {
       "source": "C.D. Howe Institute",
