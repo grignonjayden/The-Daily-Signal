@@ -1,19 +1,8 @@
 {
-  "generated_at": "Nov 26, 2026, 4:46 AM ET",
+  "generated_at": "Nov 26, 2026, 4:49 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795686378923,
+  "updated_ts": 1795686579094,
   "articles": [
-    {
-      "title": "US Proposes New Tariffs, Asian Stocks Rise As AI Trade Rebounds",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-asia-trade-11-26-2026-video",
-      "snippet": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 1:40 AM",
-      "coverage": 5,
-      "ts": 1795675213000
-    },
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
       "source": "CNBC",
@@ -65,24 +54,14 @@
       "ts": 1795640408000
     },
     {
-      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
-      "snippet": "Asian markets rose Thursday as investors brushed aside new U.S. tariff proposals and Wall Street recouped most of its sharp losses ahead of the Thanksgiving holiday.",
-      "image": "https://images.wsj.net/im-98798504",
-      "time": "Nov 26, 12:22 AM",
-      "coverage": 4,
-      "ts": 1795670520000
-    },
-    {
-      "title": "Asian stocks advance as tech rebound, easing trade concerns lift sentiment",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-taiwan-south-korea-rebound-nvidia-risks-linger-5052021",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEB1H0YB_M.jpg",
-      "time": "Nov 26, 3:53 AM",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
+      "snippet": "Sentiment was helped by an upward revision to third-quarter GDP and clarification that new U.S. tariffs on China and dozens of other nations will replace rather than add to previous ones.",
+      "image": "https://images.wsj.net/im-34152034",
+      "time": "Nov 26, 4:47 AM",
       "coverage": 3,
-      "ts": 1795683209000
+      "ts": 1795686420000
     },
     {
       "title": "Trump’s Tariffs Blunt Appeal of Moving Production Out of China",
@@ -114,6 +93,26 @@
       "time": "Nov 25, 11:29 PM",
       "coverage": 3,
       "ts": 1795667395000
+    },
+    {
+      "title": "Odd Lots: Levinson on How UPS Created Modern Logistics (Podcast)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/audio/2026-11-26/odd-lots-levinson-on-how-ups-created-modern-logistics-podcast",
+      "snippet": "UPS was founded nearly a century ago in the basement of a Seattle saloon by James E. Casey and his business partner Claude Ryan. They initially called the company American Messenger Company, and the first iteration…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 4:00 AM",
+      "ts": 1795683600000
+    },
+    {
+      "title": "Norse Atlantic shares rebound 23% after flight halt, bankruptcy warning",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-shares-fall-18-as-flight-halt-raises-bankruptcy-risk-5052227",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "time": "Nov 26, 4:36 AM",
+      "coverage": 2,
+      "ts": 1795685813000
     },
     {
       "title": "Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
@@ -237,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "4:39 AM",
+      "title": "Investing.com — SBO shares rise on strong Q3 orders in precision technology",
+      "url": "https://www.investing.com/news/stock-market-news/sbo-shares-rise-on-strong-q3-orders-in-precision-technology-93CH-5052310",
+      "ts": 1795685992000
+    },
+    {
       "time": "4:12 AM",
       "title": "Investing.com — Why is Safestore stock climbing today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-safestore-stock-climbing-today-93CH-5052300",
@@ -259,6 +264,12 @@
       "title": "Investing.com — Why is Tullow Oil stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-tullow-oil-stock-rallying-today-93CH-5052298",
       "ts": 1795684192000
+    },
+    {
+      "time": "4:09 AM",
+      "title": "Bloomberg — Can Trump Gain Any Leverage Over China With the 40% Tariff Threat?",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/insight-with-haslinda-amin-11-26-2026-video",
+      "ts": 1795684156000
     },
     {
       "time": "4:07 AM",
@@ -295,18 +306,6 @@
       "title": "Bloomberg — Marc Levinson on How UPS Created Modern Logistics",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics",
       "ts": 1795683622000
-    },
-    {
-      "time": "4:00 AM",
-      "title": "Bloomberg — Turkey’s Defense Chief to Meet Hegseth to Discuss Russian S-400s",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-s-defense-chief-to-meet-hegseth-to-discuss-russian-s-400s",
-      "ts": 1795683601000
-    },
-    {
-      "time": "4:00 AM",
-      "title": "Bloomberg — Odd Lots: Levinson on How UPS Created Modern Logistics (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-11-26/odd-lots-levinson-on-how-ups-created-modern-logistics-podcast",
-      "ts": 1795683600000
     }
   ]
 }
