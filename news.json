@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:15 AM ET",
+  "generated_at": "Nov 26, 2026, 1:18 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795673701720,
+  "updated_ts": 1795673900956,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -243,6 +243,12 @@
       "ts": 1795672804000
     },
     {
+      "time": "1:00 AM",
+      "title": "Bloomberg — Stocks and Bonds to Watch as Spain’s Voters Head to the Polls",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/stocks-and-bonds-to-watch-as-spain-s-voters-head-to-the-polls",
+      "ts": 1795672800000
+    },
+    {
       "time": "12:52 AM",
       "title": "Bloomberg — BOK Hikes Key Rate to 3.25%",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Why is Kioxia stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-surging-today-93CH-5052031",
       "ts": 1795670788000
-    },
-    {
-      "time": "12:25 AM",
-      "title": "Investing.com — Micron faces Taiwan uncertainty as labor dispute threatens expansion, report warns",
-      "url": "https://www.investing.com/news/stock-market-news/micron-faces-taiwan-uncertainty-as-labor-dispute-threatens-expansion-report-warns-5052030",
-      "ts": 1795670743000
     }
   ]
 }
