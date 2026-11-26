@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:38 AM ET",
+  "generated_at": "Nov 26, 2026, 12:41 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795671493471,
+  "updated_ts": 1795671693565,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -244,6 +244,12 @@
       "ts": 1795671361000
     },
     {
+      "time": "12:28 AM",
+      "title": "Bloomberg — Indonesia Must Grow Faster as Its Population Ages, OECD Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/indonesia-must-grow-faster-as-its-population-ages-oecd-says",
+      "ts": 1795670886000
+    },
+    {
       "time": "12:18 AM",
       "title": "Investing.com — Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
       "url": "https://www.investing.com/news/stock-market-news/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-5052028",
@@ -302,12 +308,6 @@
       "title": "Investing.com — +48%, +36%, +32%: the AI healthcare picks beating their sector in 2026",
       "url": "https://www.investing.com/news/stock-market-news/48-36-32-the-ai-healthcare-picks-beating-their-sector-in-2026-5052005",
       "ts": 1795666638000
-    },
-    {
-      "time": "Nov 25",
-      "title": "CNBC — How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
-      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
-      "ts": 1795666338000
     }
   ]
 }
