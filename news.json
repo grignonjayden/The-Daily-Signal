@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 26, 2026, 3:05 AM ET",
+  "generated_at": "Nov 26, 2026, 3:08 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795680336021,
+  "updated_ts": 1795680536218,
   "articles": [
-    {
-      "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
-      "time": "Nov 26, 3:00 AM",
-      "coverage": 4,
-      "ts": 1795680027000
-    },
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
       "source": "CNBC",
@@ -22,6 +12,16 @@
       "time": "Nov 25, 10:13 PM",
       "coverage": 5,
       "ts": 1795662823000
+    },
+    {
+      "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
+      "time": "Nov 26, 3:00 AM",
+      "coverage": 3,
+      "ts": 1795680027000
     },
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -75,17 +75,6 @@
       "ts": 1795670520000
     },
     {
-      "title": "Horizons Middle East & Africa 11/26/2026 (Video)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/horizons-middle-east-africa-11-26-2026-video",
-      "snippet": "",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 2:41 AM",
-      "coverage": 2,
-      "ts": 1795678916000
-    },
-    {
       "title": "Hill & Smith sees 2026 profit above forecasts as U.S. demand lifts sales",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/hill--smith-sees-2026-profit-above-forecasts-as-us-demand-lifts-sales-93CH-5052140",
@@ -106,6 +95,17 @@
       "ts": 1795613399000
     },
     {
+      "title": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/us-tariffs-raise-stakes-for-india-to-clinch-trade-deal-video",
+      "snippet": "The US plans to impose a 17% tariff on Indian goods, lower than regional peers like Vietnam, Malaysia and Bangladesh. The rate would be hiked to 25% if the country fails to secure a deal, according to a statement…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 1:28 AM",
+      "coverage": 3,
+      "ts": 1795674538000
+    },
+    {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
@@ -116,14 +116,14 @@
       "ts": 1795667395000
     },
     {
-      "title": "Japan stocks higher at close of trade; Nikkei 225 up 0.84%",
+      "title": "Norse Atlantic suspends flights amid bankruptcy risk",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-084-5052126",
+      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-suspends-flights-amid-bankruptcy-risk-93CH-5052182",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEA670B3_M.jpg",
-      "time": "Nov 26, 2:00 AM",
+      "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "time": "Nov 26, 2:54 AM",
       "coverage": 2,
-      "ts": 1795676406000
+      "ts": 1795679653000
     },
     {
       "title": "Volatility-weary investors fret as new U.S. tariffs add to tech pain",
@@ -243,6 +243,24 @@
       "ts": 1795679940000
     },
     {
+      "time": "2:58 AM",
+      "title": "CNBC — U.S. tariff-hike threats put pressure on partners to sign trade deals",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "ts": 1795679899000
+    },
+    {
+      "time": "2:48 AM",
+      "title": "Investing.com — Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
+      "url": "https://www.investing.com/news/stock-market-news/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-5052028",
+      "ts": 1795679317000
+    },
+    {
+      "time": "2:45 AM",
+      "title": "Investing.com — Vienna Insurance Group nine-month profit tops €1 billion",
+      "url": "https://www.investing.com/news/stock-market-news/vienna-insurance-group-ninemonth-profit-tops-1-billion-93CH-5052167",
+      "ts": 1795679119000
+    },
+    {
       "time": "2:45 AM",
       "title": "CNBC — Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
       "url": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
@@ -253,6 +271,12 @@
       "title": "Investing.com — CMC Markets first-half profit more than doubles as B2B growth drives margins",
       "url": "https://www.investing.com/news/stock-market-news/cmc-markets-firsthalf-profit-more-than-doubles-as-b2b-growth-drives-margins-5052162",
       "ts": 1795679087000
+    },
+    {
+      "time": "2:41 AM",
+      "title": "Bloomberg — Houthis Target Jeddah and Jazan Ports as Attacks on Saudi Arabia Intensify",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/horizons-middle-east-africa-11-26-2026-video",
+      "ts": 1795678916000
     },
     {
       "time": "2:37 AM",
@@ -283,30 +307,6 @@
       "title": "Investing.com — Safestore expects full-year earnings in line as new stores offset weaker trading",
       "url": "https://www.investing.com/news/stock-market-news/safestore-expects-fullyear-earnings-in-line-as-new-stores-offset-weaker-trading-5052155",
       "ts": 1795678099000
-    },
-    {
-      "time": "2:24 AM",
-      "title": "Bloomberg — Diesel-Carrying Ship Sinks Off Spanish Island of Ibiza, One Dead",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/diesel-carrying-ship-sinks-off-spanish-island-of-ibiza-one-dead",
-      "ts": 1795677868000
-    },
-    {
-      "time": "2:24 AM",
-      "title": "Investing.com — Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
-      "url": "https://www.investing.com/news/stock-market-news/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-5052154",
-      "ts": 1795677866000
-    },
-    {
-      "time": "2:23 AM",
-      "title": "CNBC — Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
-      "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
-      "ts": 1795677822000
-    },
-    {
-      "time": "2:22 AM",
-      "title": "Investing.com — UBS names its top European luxury stock picks for 2027",
-      "url": "https://www.investing.com/news/stock-market-news/ubs-names-its-top-european-luxury-stock-picks-for-2027-5052152",
-      "ts": 1795677760000
     }
   ]
 }
