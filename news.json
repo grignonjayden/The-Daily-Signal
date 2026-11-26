@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 10:52 AM ET",
+  "generated_at": "Nov 26, 2026, 10:55 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795708345279,
+  "updated_ts": 1795708544789,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -242,6 +242,12 @@
       "ts": 1795707945000
     },
     {
+      "time": "10:34 AM",
+      "title": "CNBC — Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say",
+      "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+      "ts": 1795707248000
+    },
+    {
       "time": "10:30 AM",
       "title": "Investing.com — Turkey stocks higher at close of trade; BIST 100 up 0.82%",
       "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-082-5052587",
@@ -300,12 +306,6 @@
       "title": "Bloomberg — (USD:ZAR) Rand Hurtles Toward Worst November Against Dollar in 25 Years",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/-usd-zar-rand-hurtles-toward-worst-november-against-dollar-in-25-years",
       "ts": 1795705167000
-    },
-    {
-      "time": "9:47 AM",
-      "title": "CNBC — Marlboro maker Altria explores takeover of UK's Imperial Brands",
-      "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
-      "ts": 1795704457000
     }
   ]
 }
