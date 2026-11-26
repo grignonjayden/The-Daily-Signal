@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:44 PM ET",
+  "generated_at": "Nov 25, 2026, 7:48 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795653896451,
+  "updated_ts": 1795654097994,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -238,10 +238,34 @@
   ],
   "ticker": [
     {
+      "time": "7:42 PM",
+      "title": "Globe and Mail — Conservatives push for ethics review of Ottawa’s $1.6-billion Cohere investment",
+      "url": "https://www.theglobeandmail.com/politics/article-conservatives-push-ethics-review-ottawa-16-billion-cohere-investment/",
+      "ts": 1795653746000
+    },
+    {
+      "time": "7:42 PM",
+      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
+      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
+      "ts": 1795653739000
+    },
+    {
+      "time": "7:36 PM",
+      "title": "Investing.com — Judge bars US FCC from taking steps to threaten ABC’s broadcast license",
+      "url": "https://www.investing.com/news/stock-market-news/judge-bars-us-fcc-from-taking-steps-to-threaten-abcs-broadcast-license-5051818",
+      "ts": 1795653381000
+    },
+    {
       "time": "7:33 PM",
       "title": "MarketWatch — Why this stock-market selloff is probably going to get worse before it gets better",
       "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
       "ts": 1795653180000
+    },
+    {
+      "time": "7:30 PM",
+      "title": "Investing.com — Black Friday? No thanks, some brands say",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-no-thanks-some-brands-say-5051789",
+      "ts": 1795653019000
     },
     {
       "time": "7:24 PM",
@@ -260,12 +284,6 @@
       "title": "CNBC — Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
       "url": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
       "ts": 1795651936000
-    },
-    {
-      "time": "7:06 PM",
-      "title": "Investing.com — Black Friday? No thanks, some brands say",
-      "url": "https://www.investing.com/news/stock-market-news/black-friday-no-thanks-some-brands-say-5051789",
-      "ts": 1795651595000
     },
     {
       "time": "7:05 PM",
@@ -290,24 +308,6 @@
       "title": "Bloomberg — China 2027 Growth to Top 4.5%, Ex-Official Says",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/china-2027-growth-to-top-4-5-ex-official-says-video",
       "ts": 1795650881000
-    },
-    {
-      "time": "6:50 PM",
-      "title": "CNBC — Gold falls to more than one-year low after data shows U.S. inflation rose further",
-      "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
-      "ts": 1795650653000
-    },
-    {
-      "time": "6:44 PM",
-      "title": "Bloomberg — Would-Be RadioShack Revivers Settle SEC Fraud Suit Allegations",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/would-be-radioshack-revivers-settle-sec-fraud-suit-allegations",
-      "ts": 1795650275000
-    },
-    {
-      "time": "6:43 PM",
-      "title": "Investing.com — U.S. stock futures steady after whipsaw session on Wall St",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-whipsaw-session-on-wall-st-5051753",
-      "ts": 1795650223000
     }
   ]
 }
