@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:18 PM ET",
+  "generated_at": "Nov 25, 2026, 8:22 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795655926697,
+  "updated_ts": 1795656128494,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -44,17 +44,6 @@
       "ts": 1795645486000
     },
     {
-      "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "snippet": "Natural gas futures ended the session lower after the EIA’s weekly storage report showed a 24 Bcf draw.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 4:32 PM",
-      "coverage": 5,
-      "ts": 1795642320000
-    },
-    {
       "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
@@ -94,6 +83,17 @@
       "time": "Nov 25, 6:00 PM",
       "coverage": 4,
       "ts": 1795647624000
+    },
+    {
+      "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "snippet": "Natural gas futures ended the session lower after the EIA’s weekly storage report showed a 24 Bcf draw.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 4:32 PM",
+      "coverage": 4,
+      "ts": 1795642320000
     },
     {
       "title": "Bank of Canada governor says inflation forecast is lower",
@@ -262,10 +262,22 @@
       "ts": 1795655040000
     },
     {
+      "time": "8:01 PM",
+      "title": "Bloomberg — Australia Capex Surges by Most Since Mining Boom on Data Centers",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-capex-surges-by-most-since-mining-boom-on-data-centers",
+      "ts": 1795654917000
+    },
+    {
       "time": "8:00 PM",
       "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
       "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
       "ts": 1795654823000
+    },
+    {
+      "time": "8:00 PM",
+      "title": "Bloomberg — Modi’s Criticism of India Inc. Puts Weak Investment in Focus",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/modi-s-criticism-of-india-inc-puts-weak-investment-in-focus",
+      "ts": 1795654800000
     },
     {
       "time": "7:58 PM",
@@ -296,18 +308,6 @@
       "title": "MarketWatch — Why this stock-market selloff is probably going to get worse before it gets better",
       "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
       "ts": 1795653180000
-    },
-    {
-      "time": "7:30 PM",
-      "title": "Investing.com — Black Friday? No thanks, some brands say",
-      "url": "https://www.investing.com/news/stock-market-news/black-friday-no-thanks-some-brands-say-5051789",
-      "ts": 1795653019000
-    },
-    {
-      "time": "7:24 PM",
-      "title": "WSJ Markets — Gold Edges Lower Amid Rate Hike Bets",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
-      "ts": 1795652640000
     }
   ]
 }
