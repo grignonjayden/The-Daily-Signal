@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 11:12 AM ET",
+  "generated_at": "Nov 26, 2026, 11:16 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795709576434,
+  "updated_ts": 1795709777605,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -236,10 +236,10 @@
   ],
   "ticker": [
     {
-      "time": "11:05 AM",
+      "time": "11:12 AM",
       "title": "CNBC — Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
       "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-      "ts": 1795709147000
+      "ts": 1795709567000
     },
     {
       "time": "11:00 AM",
