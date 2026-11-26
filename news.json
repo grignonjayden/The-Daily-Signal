@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:45 PM ET",
+  "generated_at": "Nov 26, 2026, 6:49 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795736744656,
+  "updated_ts": 1795736952616,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -10,7 +10,7 @@
       "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
       "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
       "time": "Nov 26, 6:10 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795734627000
     },
     {
@@ -24,16 +24,6 @@
       "ts": 1795728600000
     },
     {
-      "title": "U.S. stock futures rise on Thanksgiving a day after wild swings on Wall Street",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-whipsaw-session-on-wall-st-5051753",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
-      "time": "Nov 26, 3:37 PM",
-      "coverage": 5,
-      "ts": 1795725443000
-    },
-    {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
@@ -44,6 +34,16 @@
       "ts": 1795707000000
     },
     {
+      "title": "Musk says he will donate another SpaceX share to American kids annually",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/musk-says-he-will-donate-another-spacex-share-to-american-kids-annually-5052757",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEL3E0ZA_L.jpg",
+      "time": "Nov 26, 6:31 PM",
+      "coverage": 4,
+      "ts": 1795735907000
+    },
+    {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
@@ -52,6 +52,16 @@
       "time": "Nov 26, 8:01 AM",
       "coverage": 4,
       "ts": 1795698060000
+    },
+    {
+      "title": "Musk pledges two SpaceX shares for every U.S. child in $18-billion AI charm offensive",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/article-musk-pledges-two-spacex-shares-for-every-us-child-in-18-billion-ai/",
+      "snippet": "Share giveaway announced hours after company won approval to deploy a million satellites for data centres in space",
+      "image": "https://www.theglobeandmail.com/resizer/v2/GWCJRYALWNCG7AKYRMLVYZEVF4.jpg?auth=bda122dc55db1338facde98e5bba9bad1bd9ef63a243c10d880ad2f637bca9f1&smart=true&width=8640&height=5760",
+      "time": "Nov 26, 7:37 AM",
+      "coverage": 4,
+      "ts": 1795696629000
     },
     {
       "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.72%",
@@ -95,16 +105,6 @@
       "ts": 1795716873000
     },
     {
-      "title": "Spain’s Pablo Hernández de Cos to take over from Lagarde as European Central Bank chief",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/",
-      "snippet": "France’s Laurence Boone and Germany’s Markus Brunnermeier set to fill remaining vacancies on the board as the central bank grapples with inflation",
-      "image": "https://www.theglobeandmail.com/resizer/v2/DGRZZ4JRAVEETLK7GFUJVTZQYM.JPG?auth=f6be22b94cdcd26171b8dd8955bf3ea689fa7b9a80d7a3f0a96bb9d1b49de06e&smart=true&width=4044&height=2724",
-      "time": "Nov 26, 9:44 AM",
-      "coverage": 2,
-      "ts": 1795704259000
-    },
-    {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
@@ -132,7 +132,7 @@
       "snippet": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/elon-musk-spacex-trump-accounts-donation.jpg",
       "time": "Nov 25, 11:29 PM",
-      "coverage": 3,
+      "coverage": 4,
       "ts": 1795667395000
     },
     {
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "6:42 PM",
+      "title": "Investing.com — Bradesco chairman Trabuco agrees to become Brazil’s finance minister",
+      "url": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
+      "ts": 1795736539000
+    },
+    {
       "time": "6:05 PM",
       "title": "Bloomberg — Latest Oil Market News and Analysis for Nov. 27",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
@@ -265,12 +271,6 @@
       "title": "Bloomberg — AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/ai-rout-makes-kioxia-japan-s-cheapest-blue-chip-backing-bulls",
       "ts": 1795732213000
-    },
-    {
-      "time": "5:00 PM",
-      "title": "Investing.com — Bradesco’s Trabuco accepts invitation to be Brazil’s finance minister, source says",
-      "url": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
-      "ts": 1795730438000
     },
     {
       "time": "5:00 PM",
