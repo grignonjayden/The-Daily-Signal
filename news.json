@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:27 AM ET",
+  "generated_at": "Nov 26, 2026, 6:30 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795692454400,
+  "updated_ts": 1795692653999,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -22,6 +22,16 @@
       "time": "Nov 26, 5:10 AM",
       "coverage": 4,
       "ts": 1795687817000
+    },
+    {
+      "title": "China, other U.S. trading partners oppose Trump’s new tariffs plans",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
+      "snippet": "New import duties targeting 14 economies aim to replace earlier tariffs struck down by the U.S. Supreme Court",
+      "image": "https://www.theglobeandmail.com/resizer/v2/VCWLJQIPJRB7PJF3AW5B4BVS7I.jpg?auth=325e44498ea288acaed102b5295cf1b035f0d829ab386b0aa97a096e9ee43d5c&smart=true&width=4000&height=2522",
+      "time": "Nov 26, 6:24 AM",
+      "coverage": 5,
+      "ts": 1795692285000
     },
     {
       "title": "Wall Street Flips From AI Euphoria to Gloom",
@@ -106,25 +116,15 @@
       "ts": 1795613399000
     },
     {
-      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
-      "snippet": "Markets increasingly question whether even the biggest AI names can generate enough profit to justify their price tags",
-      "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
-      "time": "Nov 25, 11:40 AM",
-      "coverage": 5,
-      "ts": 1795624858000
-    },
-    {
-      "title": "Trump’s Tariffs Blunt Appeal of Moving Production Out of China",
+      "title": "Can Trump Gain Any Leverage Over China With the 40% Tariff Threat?",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
-      "snippet": "President Donald Trump’s latest tariff push risks undercutting one of the signature shifts in global manufacturing since the US-China trade war began: the movement of supply chains out of China.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/insight-with-haslinda-amin-11-26-2026-video",
+      "snippet": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 26, 3:05 AM",
+      "time": "Nov 26, 4:09 AM",
       "coverage": 3,
-      "ts": 1795680324000
+      "ts": 1795684156000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
