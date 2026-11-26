@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:23 PM ET",
+  "generated_at": "Nov 26, 2026, 12:26 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795713791530,
+  "updated_ts": 1795713993165,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "12:21 PM",
+      "title": "Globe and Mail — Costs to host Canada’s Investment Summit surpassed $8.1-million",
+      "url": "https://www.theglobeandmail.com/canada/article-canada-investment-summit-costs-topped-81-million/",
+      "ts": 1795713699000
+    },
+    {
       "time": "12:00 PM",
       "title": "Investing.com — Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.98%",
       "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-198-5052636",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Congo Gold Trader Plans Two Refineries with 68-Ton Capacity",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-gold-trader-plans-two-refineries-with-68-ton-capacity",
       "ts": 1795709754000
-    },
-    {
-      "time": "11:12 AM",
-      "title": "CNBC — Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-      "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-      "ts": 1795709567000
     }
   ]
 }
