@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 11:06 AM ET",
+  "generated_at": "Nov 26, 2026, 11:09 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795709176660,
+  "updated_ts": 1795709376948,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -34,16 +34,6 @@
       "ts": 1795698060000
     },
     {
-      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
-      "time": "Nov 26, 7:22 AM",
-      "coverage": 5,
-      "ts": 1795695745000
-    },
-    {
       "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
@@ -72,6 +62,16 @@
       "time": "Nov 26, 10:24 AM",
       "coverage": 4,
       "ts": 1795706662000
+    },
+    {
+      "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
+      "snippet": "U.S. tobacco group Altria said on Thursday it was considering a possible all-cash offer for ​Imperial Brands.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107232976-1682707584484-gettyimages-1486127437-0j5a7430_clcrzwlh.jpeg?v=1698330737&w=1920&h=1080",
+      "time": "Nov 26, 9:47 AM",
+      "coverage": 4,
+      "ts": 1795704457000
     },
     {
       "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
@@ -105,16 +105,6 @@
       "ts": 1795645620000
     },
     {
-      "title": "Investors Overpaid for Retail Safety, Missing Kroger’s 14% Rally",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/investors-overpaid-for-retail-safety-missing-krogers-14-rally-5051989",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEE203OH_M.jpg",
-      "time": "Nov 26, 9:15 AM",
-      "coverage": 3,
-      "ts": 1795702551000
-    },
-    {
       "title": "Spain's De Cos Set to Succeed Lagarde as ECB President",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n",
@@ -124,6 +114,16 @@
       "time": "Nov 26, 9:05 AM",
       "coverage": 3,
       "ts": 1795701943000
+    },
+    {
+      "title": "Norway stocks higher at close of trade; Oslo OBX up 1.50%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-150-5052605",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM5O0Z8_L.jpg",
+      "time": "Nov 26, 10:55 AM",
+      "coverage": 2,
+      "ts": 1795708528000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -236,6 +236,18 @@
   ],
   "ticker": [
     {
+      "time": "11:05 AM",
+      "title": "CNBC — Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+      "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+      "ts": 1795709147000
+    },
+    {
+      "time": "11:00 AM",
+      "title": "Investing.com — EU may vote on authorising Tesla assisted-driving system at Dec 15 meeting",
+      "url": "https://www.investing.com/news/stock-market-news/eu-may-vote-on-authorising-tesla-assisteddriving-system-at-dec-15-meeting-5052607",
+      "ts": 1795708846000
+    },
+    {
       "time": "11:00 AM",
       "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
@@ -246,6 +258,30 @@
       "title": "Globe and Mail — Tech leaders urge Canada to build data centres here or risk renting abroad",
       "url": "https://www.theglobeandmail.com/business/technology/article-tech-leaders-urge-canada-to-build-data-centres-here-or-risk-renting/",
       "ts": 1795708658000
+    },
+    {
+      "time": "10:55 AM",
+      "title": "Investing.com — Israel stocks higher at close of trade; TA 35 up 2.34%",
+      "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-234-5052604",
+      "ts": 1795708504000
+    },
+    {
+      "time": "10:55 AM",
+      "title": "Investing.com — Stocks rally, Europe sizes up next ECB chief",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
+      "ts": 1795708501000
+    },
+    {
+      "time": "10:54 AM",
+      "title": "Investing.com — Netherlands will ask Washington not to enforce MATCH Act, minister says",
+      "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
+      "ts": 1795708472000
+    },
+    {
+      "time": "10:50 AM",
+      "title": "Investing.com — Greece stocks higher at close of trade; Athens General Composite up 1.02%",
+      "url": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-102-5052602",
+      "ts": 1795708203000
     },
     {
       "time": "10:45 AM",
@@ -270,42 +306,6 @@
       "title": "Investing.com — Dutch groups ask court to halt Meta smart glasses sales over privacy concerns",
       "url": "https://www.investing.com/news/stock-market-news/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales-over-privacy-concerns-5052455",
       "ts": 1795706677000
-    },
-    {
-      "time": "10:20 AM",
-      "title": "Bloomberg — BCG on What’s Keeping CEOs Up at Night",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/bcg-on-what-s-keeping-ceos-up-at-night-video",
-      "ts": 1795706401000
-    },
-    {
-      "time": "10:13 AM",
-      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "ts": 1795705980000
-    },
-    {
-      "time": "10:12 AM",
-      "title": "WSJ Markets — Euro Stays Slightly Higher After Europe Picks New ECB Chief",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
-      "ts": 1795705920000
-    },
-    {
-      "time": "10:10 AM",
-      "title": "Investing.com — Morocco stocks higher at close of trade; Moroccan All Shares up 0.90%",
-      "url": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-090-5052572",
-      "ts": 1795705803000
-    },
-    {
-      "time": "10:07 AM",
-      "title": "Bloomberg — Mexican Peso Sees Worst Losing Streak Since 2021 on Carry Unwind",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/mexican-peso-sees-worst-losing-streak-since-2021-on-carry-unwind",
-      "ts": 1795705672000
-    },
-    {
-      "time": "10:03 AM",
-      "title": "Bloomberg — Latvia Backs Air Baltic Guarantee as it Searches for Investor",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/latvia-backs-air-baltic-guarantee-as-it-searches-for-investor",
-      "ts": 1795705433000
     }
   ]
 }
