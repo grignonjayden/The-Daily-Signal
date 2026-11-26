@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:31 AM ET",
+  "generated_at": "Nov 26, 2026, 7:35 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795696312851,
+  "updated_ts": 1795696512434,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -156,26 +156,6 @@
     "Globe and Mail"
   ],
   "official": [
-    {
-      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
-      "snippet": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 3:00 PM",
-      "ts": 1795636800000
-    },
-    {
-      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
-      "snippet": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 3:00 PM",
-      "ts": 1795636800000
-    },
     {
       "title": "Canada moves forward with final safeguard measure on canned vegetables imports to protect Canadian producers",
       "source": "Finance Canada",
