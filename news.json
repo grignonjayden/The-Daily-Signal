@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:28 AM ET",
+  "generated_at": "Nov 26, 2026, 2:32 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795678126465,
+  "updated_ts": 1795678325807,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -44,6 +44,17 @@
       "ts": 1795645620000
     },
     {
+      "title": "US Proposes New Tariffs, Asian Stocks Rise As AI Trade Rebounds",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-asia-trade-11-26-2026-video",
+      "snippet": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 1:40 AM",
+      "coverage": 4,
+      "ts": 1795675213000
+    },
+    {
       "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
@@ -84,6 +95,16 @@
       "ts": 1795675362000
     },
     {
+      "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
+      "snippet": "Washington plans new measures despite voters rejecting Trump’s economic agenda during the midterms",
+      "image": "https://www.theglobeandmail.com/resizer/v2/IUFRPLWK3NDZZEVEJGTYXDQPOU.JPG?auth=2f2f2b3beb5b5eef0877b43c4f697e499ebe57ab206c81ab426baceeef815324&smart=true&width=3529&height=2353",
+      "time": "Nov 25, 8:29 AM",
+      "coverage": 5,
+      "ts": 1795613399000
+    },
+    {
       "title": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/us-tariffs-raise-stakes-for-india-to-clinch-trade-deal-video",
@@ -103,27 +124,6 @@
       "time": "Nov 25, 11:29 PM",
       "coverage": 3,
       "ts": 1795667395000
-    },
-    {
-      "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
-      "snippet": "Washington plans new measures despite voters rejecting Trump’s economic agenda during the midterms",
-      "image": "https://www.theglobeandmail.com/resizer/v2/IUFRPLWK3NDZZEVEJGTYXDQPOU.JPG?auth=2f2f2b3beb5b5eef0877b43c4f697e499ebe57ab206c81ab426baceeef815324&smart=true&width=3529&height=2353",
-      "time": "Nov 25, 8:29 AM",
-      "coverage": 4,
-      "ts": 1795613399000
-    },
-    {
-      "title": "Oil Rises as Houthis Attack Two Saudi Ports on Red Sea",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/oil-rises-as-houthis-attack-two-saudi-ports-on-red-sea-video",
-      "snippet": "Oil extended gains as Iran-backed Houthi rebels continued to target Saudi Arabia, including a refinery at Ras Tanura and the Red Sea ports of Jeddah and Jazan. Meanwhile, the United Arab Emirates said it plans to…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 1:31 AM",
-      "coverage": 2,
-      "ts": 1795674676000
     },
     {
       "title": "Volatility-weary investors fret as new U.S. tariffs add to tech pain",
