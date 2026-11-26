@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:00 PM ET",
+  "generated_at": "Nov 25, 2026, 10:03 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795662003434,
+  "updated_ts": 1795662204702,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -54,16 +54,6 @@
       "ts": 1795645620000
     },
     {
-      "title": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEK1L06T_L.jpg",
-      "time": "Nov 25, 9:41 PM",
-      "coverage": 4,
-      "ts": 1795660906000
-    },
-    {
       "title": "Asia shares bounce, AI and tariffs lurk in background",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
@@ -95,14 +85,14 @@
       "ts": 1795613399000
     },
     {
-      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
-      "snippet": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
-      "image": "https://images.wsj.net/im-85047619",
-      "time": "Nov 25, 5:21 PM",
-      "coverage": 4,
-      "ts": 1795645260000
+      "title": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEK1L06T_L.jpg",
+      "time": "Nov 25, 9:41 PM",
+      "coverage": 3,
+      "ts": 1795660906000
     },
     {
       "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
@@ -124,6 +114,16 @@
       "time": "Nov 25, 8:55 AM",
       "coverage": 3,
       "ts": 1795614929000
+    },
+    {
+      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
+      "snippet": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
+      "image": "https://images.wsj.net/im-85047619",
+      "time": "Nov 25, 5:21 PM",
+      "coverage": 3,
+      "ts": 1795645260000
     },
     {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "9:57 PM",
+      "title": "CNBC — S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "ts": 1795661852000
+    },
+    {
       "time": "9:36 PM",
       "title": "Investing.com — Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says",
       "url": "https://www.investing.com/news/stock-market-news/air-cargo-demand-from-ai-data-centres-shows-no-sign-of-slowing-sats-ceo-says-5051923",
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — Indian Rupee’s Backdrop Turns More Supportive",
       "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
       "ts": 1795657860000
-    },
-    {
-      "time": "8:50 PM",
-      "title": "CNBC — South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
-      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
-      "ts": 1795657821000
     }
   ]
 }
