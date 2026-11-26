@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:18 AM ET",
+  "generated_at": "Nov 26, 2026, 12:21 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795670286715,
+  "updated_ts": 1795670486727,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -94,6 +94,17 @@
       "ts": 1795662540000
     },
     {
+      "title": "Canada Pitches Infrastructure Plan to UAE Investors",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/canada-pitches-infrastructure-plan-to-uae-investors-video",
+      "snippet": "Canada is entering a shifting global order from a position of strength, Finance Minister François-Philippe Champagne told Bloomberg TV in Dubai. He’s urging Middle Eastern investors to deploy long-term capital into…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 12:16 AM",
+      "coverage": 2,
+      "ts": 1795670178000
+    },
+    {
       "title": "Adani Firms Plan Public Bond Sale to Raise at Least $220 Million",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million",
@@ -103,17 +114,6 @@
       "time": "Nov 25, 10:42 PM",
       "coverage": 2,
       "ts": 1795664545000
-    },
-    {
-      "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
-      "snippet": "A hawkish member of the Bank of Japan’s policy board called for early action to keep raising the BOJ’s benchmark rate, supporting market expectations for a rate hike next month.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 9:28 PM",
-      "coverage": 3,
-      "ts": 1795660110000
     },
     {
       "title": "Bank of Canada governor says inflation forecast is lower",
@@ -244,6 +244,12 @@
       "ts": 1795670198000
     },
     {
+      "time": "12:15 AM",
+      "title": "Bloomberg — DHL's Venter: Supply Chain Resilience Is Key to Growth",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/dhl-s-venter-supply-chain-resilience-is-key-to-growth-video",
+      "ts": 1795670133000
+    },
+    {
       "time": "Nov 25",
       "title": "CNBC — South Korea's Kospi leads gains as tech rebound lifts Asia markets",
       "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
@@ -302,12 +308,6 @@
       "title": "CNBC — South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
       "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
       "ts": 1795663973000
-    },
-    {
-      "time": "Nov 25",
-      "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
-      "ts": 1795663465000
     }
   ]
 }
