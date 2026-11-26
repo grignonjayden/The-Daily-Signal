@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:56 PM ET",
+  "generated_at": "Nov 26, 2026, 1:00 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795715803231,
+  "updated_ts": 1795716006094,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "12:57 PM",
+      "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "ts": 1795715852000
+    },
+    {
       "time": "12:52 PM",
       "title": "CNBC — Semiconductor chips are the new oil. Here's why",
       "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Netherlands stocks higher at close of trade; AEX up 1.86%",
       "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-186-5052641",
       "ts": 1795712849000
-    },
-    {
-      "time": "12:07 PM",
-      "title": "Investing.com — Italy stocks higher at close of trade; Investing.com Italy 40 up 2.47%",
-      "url": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-247-5052640",
-      "ts": 1795712825000
     }
   ]
 }
