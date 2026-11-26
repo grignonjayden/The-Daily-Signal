@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 11:02 AM ET",
+  "generated_at": "Nov 26, 2026, 11:06 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795708976139,
+  "updated_ts": 1795709176660,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -242,6 +242,12 @@
       "ts": 1795708800000
     },
     {
+      "time": "10:57 AM",
+      "title": "Globe and Mail — Tech leaders urge Canada to build data centres here or risk renting abroad",
+      "url": "https://www.theglobeandmail.com/business/technology/article-tech-leaders-urge-canada-to-build-data-centres-here-or-risk-renting/",
+      "ts": 1795708658000
+    },
+    {
       "time": "10:45 AM",
       "title": "Globe and Mail — Ottawa begins rolling out $700-million in AI compute funding under new sector-based approach",
       "url": "https://www.theglobeandmail.com/business/technology/article-ottawa-rolling-out-700-million-in-ai-compute-funding-evan-solomon/",
@@ -300,12 +306,6 @@
       "title": "Bloomberg — Latvia Backs Air Baltic Guarantee as it Searches for Investor",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/latvia-backs-air-baltic-guarantee-as-it-searches-for-investor",
       "ts": 1795705433000
-    },
-    {
-      "time": "9:59 AM",
-      "title": "Bloomberg — (USD:ZAR) Rand Hurtles Toward Worst November Against Dollar in 25 Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/-usd-zar-rand-hurtles-toward-worst-november-against-dollar-in-25-years",
-      "ts": 1795705167000
     }
   ]
 }
