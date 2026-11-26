@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:22 AM ET",
+  "generated_at": "Nov 26, 2026, 2:25 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795677721386,
+  "updated_ts": 1795677921868,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "2:23 AM",
+      "title": "CNBC — Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+      "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
+      "ts": 1795677822000
+    },
+    {
       "time": "2:16 AM",
       "title": "MarketWatch — Is the stock market open for Thanksgiving? The answer might surprise you.",
       "url": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
@@ -271,12 +277,6 @@
       "title": "Investing.com — Smart Eye CFO Benjaminsson to leave in December, interim named",
       "url": "https://www.investing.com/news/stock-market-news/smart-eye-cfo-benjaminsson-to-leave-in-december-interim-named-93CH-5052122",
       "ts": 1795675876000
-    },
-    {
-      "time": "1:48 AM",
-      "title": "CNBC — Wealthy Europeans are looking beyond the stock market amid the AI sell-off",
-      "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
-      "ts": 1795675692000
     },
     {
       "time": "1:46 AM",
