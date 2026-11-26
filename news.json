@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:05 PM ET",
+  "generated_at": "Nov 25, 2026, 8:08 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795655112837,
+  "updated_ts": 1795655320754,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -238,22 +238,34 @@
   ],
   "ticker": [
     {
+      "time": "8:04 PM",
+      "title": "WSJ Markets — Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+      "url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
+      "ts": 1795655040000
+    },
+    {
+      "time": "8:00 PM",
+      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
+      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
+      "ts": 1795654823000
+    },
+    {
       "time": "7:58 PM",
       "title": "CNBC — South Korea raises rates to highest in two years, as inflation remains above target",
       "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
       "ts": 1795654718000
     },
     {
+      "time": "7:57 PM",
+      "title": "Investing.com — Flight Centre probes data breach in booking system, shares fall",
+      "url": "https://www.investing.com/news/stock-market-news/flight-centre-probes-data-breach-in-booking-system-shares-fall-5051833",
+      "ts": 1795654653000
+    },
+    {
       "time": "7:42 PM",
       "title": "Globe and Mail — Conservatives push for ethics review of Ottawa’s $1.6-billion Cohere investment",
       "url": "https://www.theglobeandmail.com/politics/article-conservatives-push-ethics-review-ottawa-16-billion-cohere-investment/",
       "ts": 1795653746000
-    },
-    {
-      "time": "7:42 PM",
-      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
-      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
-      "ts": 1795653739000
     },
     {
       "time": "7:36 PM",
@@ -296,18 +308,6 @@
       "title": "Bloomberg — Emerging Asia’s Best Bond Rally Seen Extending in Philippines",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/emerging-asia-s-best-bond-rally-seen-extending-in-philippines",
       "ts": 1795651545000
-    },
-    {
-      "time": "7:03 PM",
-      "title": "Globe and Mail — Enbridge in talks to sell $1.5-billion pipeline stake to coalition of Indigenous communities",
-      "url": "https://www.theglobeandmail.com/business/article-enbridge-talks-15-billion-pipeline-coalition-indigenous-communities/",
-      "ts": 1795651410000
-    },
-    {
-      "time": "7:03 PM",
-      "title": "WSJ Markets — Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
-      "url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
-      "ts": 1795651380000
     }
   ]
 }
