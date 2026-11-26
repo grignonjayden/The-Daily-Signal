@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 4:11 PM ET",
+  "generated_at": "Nov 26, 2026, 4:14 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795727480985,
+  "updated_ts": 1795727681628,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -237,16 +237,16 @@
   ],
   "ticker": [
     {
+      "time": "4:13 PM",
+      "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "ts": 1795727597000
+    },
+    {
       "time": "3:30 PM",
       "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 4.30%",
       "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-430-5052714",
       "ts": 1795725004000
-    },
-    {
-      "time": "3:25 PM",
-      "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "ts": 1795724728000
     },
     {
       "time": "3:04 PM",
