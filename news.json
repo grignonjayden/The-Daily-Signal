@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:32 AM ET",
+  "generated_at": "Nov 26, 2026, 3:35 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795681939910,
+  "updated_ts": 1795682141867,
   "articles": [
     {
       "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "3:32 AM",
+      "title": "WSJ Markets — Gilt Yields Rise as Inflation Concerns Linger",
+      "url": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
+      "ts": 1795681920000
+    },
+    {
+      "time": "3:29 AM",
+      "title": "Bloomberg — Asian Stock Markets Are Cheap Enough Now: Market Analysis",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/asian-stock-markets-are-cheap-enough-now-3-minutes-mliv-video",
+      "ts": 1795681791000
+    },
+    {
       "time": "3:25 AM",
       "title": "CNBC — Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
       "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
@@ -267,12 +279,6 @@
       "ts": 1795680408000
     },
     {
-      "time": "2:59 AM",
-      "title": "WSJ Markets — Eurozone Bond Yields Rise in Quiet Thanksgiving Trade",
-      "url": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
-      "ts": 1795679940000
-    },
-    {
       "time": "2:54 AM",
       "title": "Investing.com — Norse Atlantic suspends flights amid bankruptcy risk",
       "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-suspends-flights-amid-bankruptcy-risk-93CH-5052182",
@@ -301,12 +307,6 @@
       "title": "Investing.com — CMC Markets first-half profit more than doubles as B2B growth drives margins",
       "url": "https://www.investing.com/news/stock-market-news/cmc-markets-firsthalf-profit-more-than-doubles-as-b2b-growth-drives-margins-5052162",
       "ts": 1795679087000
-    },
-    {
-      "time": "2:41 AM",
-      "title": "Bloomberg — Houthis Target Jeddah and Jazan Ports as Attacks on Saudi Arabia Intensify",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/horizons-middle-east-africa-11-26-2026-video",
-      "ts": 1795678916000
     }
   ]
 }
