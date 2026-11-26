@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 10:14 AM ET",
+  "generated_at": "Nov 26, 2026, 10:18 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795706087321,
+  "updated_ts": 1795706292137,
   "articles": [
     {
       "title": "Marlboro maker Altria explores takeover of UK’s Imperial Brands",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "10:13 AM",
+      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "ts": 1795705980000
+    },
+    {
+      "time": "10:12 AM",
+      "title": "WSJ Markets — Euro Stays Slightly Higher After Europe Picks New ECB Chief",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "ts": 1795705920000
+    },
+    {
+      "time": "10:07 AM",
+      "title": "Bloomberg — Mexican Peso Sees Worst Losing Streak Since 2021 on Carry Unwind",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/mexican-peso-sees-worst-losing-streak-since-2021-on-carry-unwind",
+      "ts": 1795705672000
+    },
+    {
       "time": "9:59 AM",
       "title": "CNBC — Spain’s Pablo Hernández de Cos set to lead European Central Bank",
       "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
@@ -247,12 +265,6 @@
       "title": "Bloomberg — (USD:ZAR) Rand Hurtles Toward Worst November Against Dollar in 25 Years",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/-usd-zar-rand-hurtles-toward-worst-november-against-dollar-in-25-years",
       "ts": 1795705167000
-    },
-    {
-      "time": "9:59 AM",
-      "title": "WSJ Markets — Japanese Yen Lifted by Safe-Haven Demand",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
-      "ts": 1795705140000
     },
     {
       "time": "9:37 AM",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Nike Slumped to $34, Yet This Apparel Pick Surged 23% Since October",
       "url": "https://www.investing.com/news/stock-market-news/nike-slumped-to-34-yet-this-apparel-pick-surged-23-since-october-5051982",
       "ts": 1795702519000
-    },
-    {
-      "time": "9:15 AM",
-      "title": "Investing.com — Health Insurers Are Bleeding—While AbbVie Quietly Climbed 20%",
-      "url": "https://www.investing.com/news/stock-market-news/health-insurers-are-bleedingwhile-abbvie-quietly-climbed-20-5051973",
-      "ts": 1795702510000
-    },
-    {
-      "time": "9:14 AM",
-      "title": "Bloomberg — Oil Refining Profits Crash With Global Fuel Supply Rebounding",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/oil-refining-profits-crash-with-global-fuel-supply-rebounding",
-      "ts": 1795702483000
     }
   ]
 }
