@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:09 PM ET",
+  "generated_at": "Nov 25, 2026, 9:12 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795658967125,
+  "updated_ts": 1795659170981,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "9:01 PM",
+      "title": "Bloomberg — Copper Rebounds From Lowest This Year as Volatility Hits Metals",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
+      "ts": 1795658470000
+    },
+    {
       "time": "9:00 PM",
       "title": "WSJ Markets — The Other Nvidia Romance With an Executive at a Company Linked to China",
       "url": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
@@ -302,12 +308,6 @@
       "title": "Bloomberg — Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says",
       "ts": 1795655501000
-    },
-    {
-      "time": "8:10 PM",
-      "title": "CNBC — Hedge funds are no longer just for the rich. They’re coming for everyday investors",
-      "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
-      "ts": 1795655458000
     }
   ]
 }
