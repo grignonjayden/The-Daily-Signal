@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:39 AM ET",
+  "generated_at": "Nov 26, 2026, 8:42 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795700351940,
+  "updated_ts": 1795700552051,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -156,6 +156,16 @@
   ],
   "official": [
     {
+      "title": "Minister Champagne advances financial, trade and investment partnerships with Qatar and the United Arab Emirates",
+      "source": "Finance Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-advances-financial-trade-and-investment-partnerships-with-qatar-and-the-united-arab-emirates.html",
+      "snippet": "The government of Canada is moving strategically to attract new investment, create new opportunities for Canadian businesses, and diversify our economic partnerships. By building our strength at home and expanding…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 8:37 AM",
+      "ts": 1795700230000
+    },
+    {
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
@@ -184,16 +194,6 @@
       "fallback_image": true,
       "time": "Nov 25, 11:02 AM",
       "ts": 1795622569000
-    },
-    {
-      "title": "Minister Champagne to hold media callback following his visit to the Gulf region",
-      "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-to-hold-media-callback-following-his-visit-to-the-gulf-region.html",
-      "snippet": "The Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will hold a media callback. The Minister will highlight his visit to the Gulf region to advance trade diversification and…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 9:55 AM",
-      "ts": 1795618508000
     },
     {
       "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
@@ -291,6 +291,12 @@
       "ts": 1795698083000
     },
     {
+      "time": "8:01 AM",
+      "title": "Bloomberg — Global Stocks Climb as AI Trade Rebounds",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-opening-trade-11-26-2026-video",
+      "ts": 1795698080000
+    },
+    {
       "time": "8:00 AM",
       "title": "Bloomberg — Kim Shannon of Sionna Tops Market With Bet on Cheap Value Picks",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/kim-shannon-of-sionna-tops-market-with-bet-on-cheap-value-picks",
@@ -300,12 +306,6 @@
       "time": "8:00 AM",
       "title": "Globe and Mail — Many unhappy returns: How retailers are finding new markets in resales",
       "url": "https://www.theglobeandmail.com/business/rob-magazine/article-many-unhappy-returns-how-retailers-are-finding-new-markets-in-resales/",
-      "ts": 1795698000000
-    },
-    {
-      "time": "8:00 AM",
-      "title": "Globe and Mail — Closing time: Only one province is bucking the retail-closure trend",
-      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-closing-time-only-one-province-is-bucking-the-retail-closure-trend/",
       "ts": 1795698000000
     }
   ]
