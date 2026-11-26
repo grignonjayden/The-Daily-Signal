@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:07 PM ET",
+  "generated_at": "Nov 26, 2026, 2:10 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795720025604,
+  "updated_ts": 1795720226297,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -238,6 +238,18 @@
   "ticker": [
     {
       "time": "2:00 PM",
+      "title": "Investing.com — Retail inventories and goods trade balance among economic data due Friday",
+      "url": "https://www.investing.com/news/stock-market-news/retail-inventories-and-goods-trade-balance-among-economic-data-due-friday-93CH-5052685",
+      "ts": 1795719641000
+    },
+    {
+      "time": "2:00 PM",
+      "title": "Investing.com — Bekaert and more set to report earnings Friday",
+      "url": "https://www.investing.com/news/stock-market-news/bekaert-and-more-set-to-report-earnings-friday-93CH-5052684",
+      "ts": 1795719633000
+    },
+    {
+      "time": "2:00 PM",
       "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
       "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
       "ts": 1795719600000
@@ -295,18 +307,6 @@
       "title": "Bloomberg — Kazakhstan Encouraged Local Banks to Finance Deal for Gold Miner",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/kazakhstan-encouraged-local-banks-to-finance-deal-for-gold-miner",
       "ts": 1795714540000
-    },
-    {
-      "time": "12:31 PM",
-      "title": "Globe and Mail — What to know about the proposed Telus takeover and possible telecom consolidation",
-      "url": "https://www.theglobeandmail.com/business/article-what-to-know-about-the-proposed-telus-takeover-and-possible-telecom/",
-      "ts": 1795714319000
-    },
-    {
-      "time": "12:23 PM",
-      "title": "WSJ Markets — Gold Rises But Big Moves Seen as Unlikely for Now",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
-      "ts": 1795713780000
     }
   ]
 }
