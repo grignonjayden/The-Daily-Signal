@@ -1,8 +1,28 @@
 {
-  "generated_at": "Nov 26, 2026, 3:25 AM ET",
+  "generated_at": "Nov 26, 2026, 3:28 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795681540831,
+  "updated_ts": 1795681739895,
   "articles": [
+    {
+      "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
+      "time": "Nov 26, 3:00 AM",
+      "coverage": 4,
+      "ts": 1795680027000
+    },
+    {
+      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
+      "snippet": "Asian markets rose Thursday as investors brushed aside new U.S. tariff proposals and Wall Street recouped most of its sharp losses ahead of the Thanksgiving holiday.",
+      "image": "https://images.wsj.net/im-98798504",
+      "time": "Nov 26, 12:22 AM",
+      "coverage": 5,
+      "ts": 1795670520000
+    },
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
       "source": "CNBC",
@@ -12,16 +32,6 @@
       "time": "Nov 25, 10:13 PM",
       "coverage": 5,
       "ts": 1795662823000
-    },
-    {
-      "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
-      "time": "Nov 26, 3:00 AM",
-      "coverage": 3,
-      "ts": 1795680027000
     },
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -42,6 +52,16 @@
       "time": "Nov 25, 5:45 PM",
       "coverage": 5,
       "ts": 1795646700000
+    },
+    {
+      "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
+      "snippet": "Washington plans new measures despite voters rejecting Trump’s economic agenda during the midterms",
+      "image": "https://www.theglobeandmail.com/resizer/v2/IUFRPLWK3NDZZEVEJGTYXDQPOU.JPG?auth=2f2f2b3beb5b5eef0877b43c4f697e499ebe57ab206c81ab426baceeef815324&smart=true&width=3529&height=2353",
+      "time": "Nov 25, 8:29 AM",
+      "coverage": 6,
+      "ts": 1795613399000
     },
     {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
@@ -65,24 +85,24 @@
       "ts": 1795675213000
     },
     {
-      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
-      "snippet": "Asian markets rose Thursday as investors brushed aside new U.S. tariff proposals and Wall Street recouped most of its sharp losses ahead of the Thanksgiving holiday.",
-      "image": "https://images.wsj.net/im-98798504",
-      "time": "Nov 26, 12:22 AM",
-      "coverage": 4,
-      "ts": 1795670520000
+      "title": "FTSE 100 today: Stocks rise as tech rebound offsets tariff worries",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEF1B0JS_M.jpg",
+      "time": "Nov 26, 3:20 AM",
+      "coverage": 3,
+      "ts": 1795681209000
     },
     {
-      "title": "Hill & Smith sees 2026 profit above forecasts as U.S. demand lifts sales",
+      "title": "European shares as benign U.S. tariffs and Thanksgiving lull offer relief",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/hill--smith-sees-2026-profit-above-forecasts-as-us-demand-lifts-sales-93CH-5052140",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "time": "Nov 26, 2:11 AM",
-      "coverage": 2,
-      "ts": 1795677100000
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
+      "time": "Nov 26, 3:05 AM",
+      "coverage": 3,
+      "ts": 1795680334000
     },
     {
       "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
@@ -96,16 +116,6 @@
       "ts": 1795680324000
     },
     {
-      "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
-      "snippet": "Washington plans new measures despite voters rejecting Trump’s economic agenda during the midterms",
-      "image": "https://www.theglobeandmail.com/resizer/v2/IUFRPLWK3NDZZEVEJGTYXDQPOU.JPG?auth=2f2f2b3beb5b5eef0877b43c4f697e499ebe57ab206c81ab426baceeef815324&smart=true&width=3529&height=2353",
-      "time": "Nov 25, 8:29 AM",
-      "coverage": 5,
-      "ts": 1795613399000
-    },
-    {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
@@ -116,23 +126,13 @@
       "ts": 1795667395000
     },
     {
-      "title": "Norse Atlantic suspends flights amid bankruptcy risk",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-suspends-flights-amid-bankruptcy-risk-93CH-5052182",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-      "time": "Nov 26, 2:54 AM",
-      "coverage": 2,
-      "ts": 1795679653000
-    },
-    {
       "title": "Volatility-weary investors fret as new U.S. tariffs add to tech pain",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/article-volatility-weary-investors-fret-as-new-us-tariffs-add-to-tech-pain/",
       "snippet": "VIX equity volatility index jumps more than 60% in November as investor fears mount",
       "image": "https://www.theglobeandmail.com/resizer/v2/ZEC5LXWVDVHSTAPTMCFPD3DRUI.jpg?auth=2ac84aeb141201fa1980cce9b78814800c4711a3f55aa7b2fbadcdf2c8f63aab&smart=true&width=6000&height=4000",
       "time": "Nov 25, 1:13 PM",
-      "coverage": 3,
+      "coverage": 4,
       "ts": 1795630417000
     },
     {
@@ -237,16 +237,28 @@
   ],
   "ticker": [
     {
-      "time": "3:16 AM",
-      "title": "CNBC — Norse Atlantic suspends all flights, warns it may file for bankruptcy",
+      "time": "3:25 AM",
+      "title": "CNBC — Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
       "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
-      "ts": 1795680979000
+      "ts": 1795681547000
+    },
+    {
+      "time": "3:18 AM",
+      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
+      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
+      "ts": 1795681106000
     },
     {
       "time": "3:09 AM",
       "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
       "ts": 1795680579000
+    },
+    {
+      "time": "3:08 AM",
+      "title": "Investing.com — Berenberg upgrades Bayer to buy as litigation risks ease, pharma outlook improves",
+      "url": "https://www.investing.com/news/stock-market-news/berenberg-upgrades-bayer-to-buy-as-litigation-risks-ease-pharma-outlook-improves-5052194",
+      "ts": 1795680523000
     },
     {
       "time": "3:06 AM",
@@ -259,6 +271,12 @@
       "title": "WSJ Markets — Eurozone Bond Yields Rise in Quiet Thanksgiving Trade",
       "url": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
       "ts": 1795679940000
+    },
+    {
+      "time": "2:54 AM",
+      "title": "Investing.com — Norse Atlantic suspends flights amid bankruptcy risk",
+      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-suspends-flights-amid-bankruptcy-risk-93CH-5052182",
+      "ts": 1795679653000
     },
     {
       "time": "2:48 AM",
@@ -289,24 +307,6 @@
       "title": "Bloomberg — Houthis Target Jeddah and Jazan Ports as Attacks on Saudi Arabia Intensify",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/horizons-middle-east-africa-11-26-2026-video",
       "ts": 1795678916000
-    },
-    {
-      "time": "2:37 AM",
-      "title": "Bloomberg — FTSE 100 Eyes Rebound as Shift to UK Gilts Pauses",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/ftse-100-eyes-rebound-as-shift-to-uk-gilts-pauses",
-      "ts": 1795678670000
-    },
-    {
-      "time": "2:35 AM",
-      "title": "WSJ Markets — Dollar Remains Lifted by Fed Rate-Rise Bets",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
-      "ts": 1795678500000
-    },
-    {
-      "time": "2:33 AM",
-      "title": "Investing.com — UniCredit clears final hurdles for Commerzbank takeover",
-      "url": "https://www.investing.com/news/stock-market-news/unicredit-clears-final-hurdles-for-commerzbank-takeover-5052161",
-      "ts": 1795678412000
     }
   ]
 }
