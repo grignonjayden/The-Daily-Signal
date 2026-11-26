@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 26, 2026, 3:07 PM ET",
+  "generated_at": "Nov 26, 2026, 3:10 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795723641550,
+  "updated_ts": 1795723841051,
   "articles": [
+    {
+      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+      "snippet": "The ‘Bank of AI’ faces a host of troubles ahead.",
+      "image": "https://images.mktw.net/im-40841215",
+      "time": "Nov 26, 9:00 AM",
+      "coverage": 6,
+      "ts": 1795701600000
+    },
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
       "source": "MarketWatch",
@@ -12,16 +22,6 @@
       "time": "Nov 26, 8:41 AM",
       "coverage": 6,
       "ts": 1795700460000
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 26, 11:30 AM",
-      "coverage": 5,
-      "ts": 1795710600000
     },
     {
       "title": "Wall Street se vuelve más cauteloso con el carry trade",
@@ -65,6 +65,17 @@
       "ts": 1795663184000
     },
     {
+      "title": "Ford CEO on Le Mans, New Electric Pickup and Trade Talks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/ford-ceo-on-le-mans-new-electric-pickup-and-trade-talks-video",
+      "snippet": "Bloomberg’s Matt Miller sits down with Ford CEO Jim Farley to talk racing, Ford’s planned $30,000 electric pickup, Chinese EV competition and USMCA trade talks, zeroing in on how to protect US auto manufacturing…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 3:00 PM",
+      "coverage": 4,
+      "ts": 1795723215000
+    },
+    {
       "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
@@ -93,17 +104,6 @@
       "time": "Nov 26, 9:00 AM",
       "coverage": 4,
       "ts": 1795701602000
-    },
-    {
-      "title": "Altria, Japan Tobacco Explore Takeover of Imperial Brands",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
-      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential takeover of British cigarette maker Imperial Brands Plc, accelerating consolidation in the declining cigarette market in what would be one of the…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 8:08 AM",
-      "coverage": 4,
-      "ts": 1795698533000
     },
     {
       "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
@@ -237,10 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "3:04 PM",
+      "title": "Globe and Mail — Toronto cybersecurity firm 1Password says hacker stole customer names, e-mail addresses",
+      "url": "https://www.theglobeandmail.com/business/technology/article-toronto-cybersecurity-firm-1password-says-hacker-stole-customer-names/",
+      "ts": 1795723479000
+    },
+    {
       "time": "2:55 PM",
       "title": "WSJ Markets — Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
       "url": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
       "ts": 1795722900000
+    },
+    {
+      "time": "2:54 PM",
+      "title": "Investing.com — TSX climbs nearly 1% on boost from battery metal stocks, labor market data",
+      "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
+      "ts": 1795722878000
     },
     {
       "time": "2:33 PM",
@@ -295,18 +307,6 @@
       "title": "CNBC — Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
       "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
       "ts": 1795717663000
-    },
-    {
-      "time": "1:14 PM",
-      "title": "Globe and Mail — Ukrainian investment office urges Canadian companies to invest in energy sector after Russian attacks",
-      "url": "https://www.theglobeandmail.com/business/article-ukrainian-investment-office-urges-canadian-companies-to-invest-in/",
-      "ts": 1795716873000
-    },
-    {
-      "time": "1:00 PM",
-      "title": "Bloomberg — New Zealand Poised to Learn Who Can Form Its Next Government",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/new-zealand-poised-to-learn-who-can-form-its-next-government",
-      "ts": 1795716000000
     }
   ]
 }
