@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:51 AM ET",
+  "generated_at": "Nov 26, 2026, 6:54 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795693873265,
+  "updated_ts": 1795694079157,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -106,16 +106,6 @@
       "ts": 1795682100000
     },
     {
-      "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
-      "snippet": "Washington plans new measures despite voters rejecting Trump’s economic agenda during the midterms",
-      "image": "https://www.theglobeandmail.com/resizer/v2/IUFRPLWK3NDZZEVEJGTYXDQPOU.JPG?auth=2f2f2b3beb5b5eef0877b43c4f697e499ebe57ab206c81ab426baceeef815324&smart=true&width=3529&height=2353",
-      "time": "Nov 25, 8:29 AM",
-      "coverage": 6,
-      "ts": 1795613399000
-    },
-    {
       "title": "AlexForbes Sees More Growth After Assets Hit $45 Billion",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/alexforbes-sees-more-growth-after-assets-hit-45-billion",
@@ -125,6 +115,16 @@
       "time": "Nov 26, 6:28 AM",
       "coverage": 3,
       "ts": 1795692524000
+    },
+    {
+      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
+      "snippet": "Markets increasingly question whether even the biggest AI names can generate enough profit to justify their price tags",
+      "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
+      "time": "Nov 25, 11:40 AM",
+      "coverage": 5,
+      "ts": 1795624858000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -239,10 +239,22 @@
   ],
   "ticker": [
     {
+      "time": "6:49 AM",
+      "title": "WSJ Markets — Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-7d2d237c?mod=rss_markets_main",
+      "ts": 1795693740000
+    },
+    {
       "time": "6:44 AM",
       "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
       "ts": 1795693459000
+    },
+    {
+      "time": "6:41 AM",
+      "title": "Bloomberg — Turkey Plans Lower Taxes on Lira Deposits to Support Currency",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-plans-lower-taxes-on-lira-deposits-to-support-currency",
+      "ts": 1795693293000
     },
     {
       "time": "6:36 AM",
@@ -297,18 +309,6 @@
       "title": "Bloomberg — Couche-Tard Sees Zabka Model Expanding Beyond Poland, Romania",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/couche-tard-sees-zabka-model-expanding-beyond-poland-romania",
       "ts": 1795690800000
-    },
-    {
-      "time": "6:00 AM",
-      "title": "Globe and Mail — Locked in: How many Canadians who bought at peak housing prices can’t afford to move?",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-locked-in-how-many-canadians-who-bought-at-peak-housing-prices-cant/",
-      "ts": 1795690800000
-    },
-    {
-      "time": "5:55 AM",
-      "title": "WSJ Markets — Lilly, Novo Supplier Bachem Hit by Share Drop After Growth Plans Disappoint",
-      "url": "https://www.wsj.com/business/earnings/lilly-novo-supplier-bachem-hit-by-share-drop-after-growth-plans-disappoint-d3bcf6fa?mod=rss_markets_main",
-      "ts": 1795690500000
     }
   ]
 }
