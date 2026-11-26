@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 4:34 PM ET",
+  "generated_at": "Nov 26, 2026, 4:38 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795728895831,
+  "updated_ts": 1795729095560,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -273,12 +273,6 @@
       "ts": 1795727177000
     },
     {
-      "time": "4:05 PM",
-      "title": "Bloomberg — Lula Set to Announce Bradesco’s Trabuco as Finance Minister",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/lula-set-to-announce-bradesco-s-trabuco-as-finance-minister",
-      "ts": 1795727153000
-    },
-    {
       "time": "3:30 PM",
       "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 4.30%",
       "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-430-5052714",
@@ -307,6 +301,12 @@
       "title": "Bloomberg — Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence",
       "ts": 1795721506000
+    },
+    {
+      "time": "2:00 PM",
+      "title": "Investing.com — Retail inventories and goods trade balance among economic data due Friday",
+      "url": "https://www.investing.com/news/stock-market-news/retail-inventories-and-goods-trade-balance-among-economic-data-due-friday-93CH-5052685",
+      "ts": 1795719641000
     }
   ]
 }
