@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:05 AM ET",
+  "generated_at": "Nov 26, 2026, 8:08 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795698332468,
+  "updated_ts": 1795698533045,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -45,16 +45,6 @@
       "ts": 1795695745000
     },
     {
-      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
-      "snippet": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559274-1795616819098-gettyimages-2306584360-vcg111684383907.jpeg?v=1795616838&w=1920&h=1080",
-      "time": "Nov 25, 10:19 PM",
-      "coverage": 5,
-      "ts": 1795663184000
-    },
-    {
       "title": "Inflation-Wary Shoppers Prepare for Black Friday",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/inflation-wary-shoppers-prepare-for-black-friday-video",
@@ -64,6 +54,16 @@
       "time": "Nov 26, 7:18 AM",
       "coverage": 4,
       "ts": 1795695493000
+    },
+    {
+      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+      "snippet": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559710-1795655986080-gettyimages-2290083650-golba-dailylif260808_npNHs.jpeg?v=1795656043&w=1920&h=1080",
+      "time": "Nov 25, 10:13 PM",
+      "coverage": 5,
+      "ts": 1795662823000
     },
     {
       "title": "China, other U.S. trading partners oppose Trump’s new tariffs plans",
@@ -96,6 +96,16 @@
       "ts": 1795645620000
     },
     {
+      "title": "Stocks climb as traders shrug off latest US tariff salvo",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP03E_L.jpg",
+      "time": "Nov 26, 8:00 AM",
+      "coverage": 3,
+      "ts": 1795698046000
+    },
+    {
       "title": "Musk pledges two SpaceX shares for every U.S. child in $18-billion AI charm offensive",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/article-musk-pledges-two-spacex-shares-for-every-us-child-in-18-billion-ai/",
@@ -114,16 +124,6 @@
       "time": "Nov 26, 7:36 AM",
       "coverage": 3,
       "ts": 1795696585000
-    },
-    {
-      "title": "Stocks climb as traders shrug off latest US tariff salvo",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP03E_L.jpg",
-      "time": "Nov 26, 7:19 AM",
-      "coverage": 3,
-      "ts": 1795695591000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -238,15 +238,27 @@
   ],
   "ticker": [
     {
-      "time": "8:00 AM",
-      "title": "Globe and Mail — Closing time: Only one province is bucking the retail-closure trend",
-      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-closing-time-only-one-province-is-bucking-the-retail-closure-trend/",
-      "ts": 1795698000000
+      "time": "8:06 AM",
+      "title": "MarketWatch — ‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+      "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+      "ts": 1795698360000
+    },
+    {
+      "time": "8:01 AM",
+      "title": "Investing.com — Brazil’s Lula sounds out Bradesco chairman as finance minister, sources say",
+      "url": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
+      "ts": 1795698083000
     },
     {
       "time": "8:00 AM",
       "title": "Globe and Mail — Many unhappy returns: How retailers are finding new markets in resales",
       "url": "https://www.theglobeandmail.com/business/rob-magazine/article-many-unhappy-returns-how-retailers-are-finding-new-markets-in-resales/",
+      "ts": 1795698000000
+    },
+    {
+      "time": "8:00 AM",
+      "title": "Globe and Mail — Closing time: Only one province is bucking the retail-closure trend",
+      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-closing-time-only-one-province-is-bucking-the-retail-closure-trend/",
       "ts": 1795698000000
     },
     {
@@ -256,10 +268,28 @@
       "ts": 1795697690000
     },
     {
+      "time": "7:54 AM",
+      "title": "Investing.com — Factbox-Airlines strained by Iran-war fuel price shock",
+      "url": "https://www.investing.com/news/stock-market-news/factboxairlines-strained-by-iranwar-fuel-price-shock-5052494",
+      "ts": 1795697680000
+    },
+    {
       "time": "7:46 AM",
       "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
       "ts": 1795697215000
+    },
+    {
+      "time": "7:46 AM",
+      "title": "Investing.com — FTSE 100 today: Stocks rise as miners, tech rebound; Babcock leads",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
+      "ts": 1795697169000
+    },
+    {
+      "time": "7:45 AM",
+      "title": "Investing.com — Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.10%",
+      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-010-5052488",
+      "ts": 1795697104000
     },
     {
       "time": "7:37 AM",
@@ -278,36 +308,6 @@
       "title": "Investing.com — Exclusive-StanChart’s crypto unit Zodia Custody hit by security breach, some client data exposed",
       "url": "https://www.investing.com/news/stock-market-news/exclusivestancharts-crypto-unit-zodia-custody-hit-by-security-breach-some-client-data-exposed-5052481",
       "ts": 1795696256000
-    },
-    {
-      "time": "7:28 AM",
-      "title": "Bloomberg — Congo Pitches $15 Billion Infrastructure Deals as Mining Booms",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-pitches-15-billion-infrastructure-deals-as-mining-booms",
-      "ts": 1795696132000
-    },
-    {
-      "time": "7:27 AM",
-      "title": "Bloomberg — BBVA Weighs SRT to Hedge About $500 Million of Data Center Loans",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/bbva-weighs-srt-to-hedge-about-500-million-of-data-center-loans",
-      "ts": 1795696020000
-    },
-    {
-      "time": "7:24 AM",
-      "title": "Investing.com — Airline Norse Atlantic flags bankruptcy risk as flights suspended",
-      "url": "https://www.investing.com/news/stock-market-news/airline-norse-atlantic-flags-bankruptcy-risk-as-flights-suspended-5052475",
-      "ts": 1795695868000
-    },
-    {
-      "time": "7:24 AM",
-      "title": "Bloomberg — Congo Closes on Top Copper Supplier Chile as Exports Soar Again",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-closes-on-top-copper-supplier-chile-as-exports-soar-again",
-      "ts": 1795695847000
-    },
-    {
-      "time": "7:19 AM",
-      "title": "Investing.com — UniCredit pushes for Commerzbank management shake-up with CEO Orcel as chair",
-      "url": "https://www.investing.com/news/stock-market-news/unicredit-pushes-for-commerzbank-management-shakeup-with-ceo-orcel-as-chair-5052474",
-      "ts": 1795695573000
     }
   ]
 }
