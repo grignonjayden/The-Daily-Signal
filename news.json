@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 4:24 PM ET",
+  "generated_at": "Nov 26, 2026, 4:28 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795728287014,
+  "updated_ts": 1795728487609,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -55,16 +55,6 @@
       "ts": 1795698060000
     },
     {
-      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
-      "time": "Nov 26, 7:22 AM",
-      "coverage": 5,
-      "ts": 1795695745000
-    },
-    {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
@@ -106,6 +96,16 @@
       "ts": 1795643280000
     },
     {
+      "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
+      "snippet": "U.S. tobacco group Altria said on Thursday it was considering a possible all-cash offer for ​Imperial Brands.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107232976-1682707584484-gettyimages-1486127437-0j5a7430_clcrzwlh.jpeg?v=1698330737&w=1920&h=1080",
+      "time": "Nov 26, 9:47 AM",
+      "coverage": 4,
+      "ts": 1795704457000
+    },
+    {
       "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
@@ -116,14 +116,14 @@
       "ts": 1795701602000
     },
     {
-      "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
+      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
-      "snippet": "New import duties targeting 14 economies aim to replace earlier tariffs struck down by U.S. Supreme Court",
-      "image": "https://www.theglobeandmail.com/resizer/v2/VCWLJQIPJRB7PJF3AW5B4BVS7I.jpg?auth=325e44498ea288acaed102b5295cf1b035f0d829ab386b0aa97a096e9ee43d5c&smart=true&width=4000&height=2522",
-      "time": "Nov 26, 6:24 AM",
-      "coverage": 4,
-      "ts": 1795692285000
+      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
+      "snippet": "Markets increasingly question whether even the biggest AI names can generate enough profit to justify their price tags",
+      "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
+      "time": "Nov 25, 11:40 AM",
+      "coverage": 6,
+      "ts": 1795624858000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -237,10 +237,34 @@
   ],
   "ticker": [
     {
+      "time": "4:25 PM",
+      "title": "Investing.com — Colombia stocks higher at close of trade; COLCAP up 0.97%",
+      "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-097-5052723",
+      "ts": 1795728306000
+    },
+    {
+      "time": "4:20 PM",
+      "title": "Investing.com — Russia stocks lower at close of trade; MOEX Russia Index down 0.80%",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-080-5052722",
+      "ts": 1795728003000
+    },
+    {
       "time": "4:13 PM",
       "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
       "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
       "ts": 1795727597000
+    },
+    {
+      "time": "4:10 PM",
+      "title": "Investing.com — TSX ends higher after whipsaw session, helped by battery metal stocks & labor data",
+      "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
+      "ts": 1795727457000
+    },
+    {
+      "time": "4:06 PM",
+      "title": "Investing.com — US malls make a holiday comeback as shoppers seek more than deals",
+      "url": "https://www.investing.com/news/stock-market-news/us-malls-make-a-holiday-comeback-as-shoppers-seek-more-than-deals-5052721",
+      "ts": 1795727177000
     },
     {
       "time": "3:30 PM",
@@ -259,12 +283,6 @@
       "title": "WSJ Markets — Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
       "url": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
       "ts": 1795722900000
-    },
-    {
-      "time": "2:54 PM",
-      "title": "Investing.com — TSX climbs nearly 1% on boost from battery metal stocks, labor market data",
-      "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
-      "ts": 1795722878000
     },
     {
       "time": "2:33 PM",
@@ -289,24 +307,6 @@
       "title": "Investing.com — Bekaert and more set to report earnings Friday",
       "url": "https://www.investing.com/news/stock-market-news/bekaert-and-more-set-to-report-earnings-friday-93CH-5052684",
       "ts": 1795719633000
-    },
-    {
-      "time": "2:00 PM",
-      "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "ts": 1795719600000
-    },
-    {
-      "time": "1:33 PM",
-      "title": "Globe and Mail — Four Black Friday scams to watch for this shopping season",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
-      "ts": 1795718011000
-    },
-    {
-      "time": "1:30 PM",
-      "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "ts": 1795717800000
     }
   ]
 }
