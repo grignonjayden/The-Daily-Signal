@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:49 PM ET",
+  "generated_at": "Nov 25, 2026, 8:52 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795657754999,
+  "updated_ts": 1795657956258,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "8:50 PM",
+      "title": "CNBC — South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+      "ts": 1795657821000
+    },
+    {
       "time": "8:40 PM",
       "title": "Investing.com — Why is Flight Centre Travel stock falling today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-flight-centre-travel-stock-falling-today-93CH-5051875",
@@ -260,12 +266,6 @@
       "title": "WSJ Markets — Oil Rises Amid Ongoing Middle East Tensions",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-c730426d?mod=rss_markets_main",
       "ts": 1795656420000
-    },
-    {
-      "time": "8:23 PM",
-      "title": "CNBC — South Korea raises rates to highest in two years, as inflation remains above target",
-      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
-      "ts": 1795656206000
     },
     {
       "time": "8:11 PM",
