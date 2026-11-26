@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:35 AM ET",
+  "generated_at": "Nov 26, 2026, 1:38 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795674902584,
+  "updated_ts": 1795675110866,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -244,6 +244,18 @@
       "ts": 1795674676000
     },
     {
+      "time": "1:19 AM",
+      "title": "Bloomberg — Tim Hortons China Is Said to Weigh Options Including Stake Sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/tim-hortons-china-is-said-to-weigh-options-including-stake-sale",
+      "ts": 1795673948000
+    },
+    {
+      "time": "1:12 AM",
+      "title": "Bloomberg — Turkey’s Traders See Slower Rate Cut Pace as Reserves Shrink",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-s-traders-see-slower-rate-cut-pace-as-reserves-shrink",
+      "ts": 1795673563000
+    },
+    {
       "time": "1:00 AM",
       "title": "Investing.com — Taiwan stocks higher at close of trade; Taiwan Weighted up 2.79%",
       "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-279-5052076",
@@ -296,18 +308,6 @@
       "title": "Investing.com — Why is NRW Holdings stock rising today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-nrw-holdings-stock-rising-today-93CH-5052037",
       "ts": 1795671632000
-    },
-    {
-      "time": "12:36 AM",
-      "title": "CNBC — Beware higher correlation but nab high U.S. credit yields, fund managers say",
-      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-      "ts": 1795671361000
-    },
-    {
-      "time": "12:30 AM",
-      "title": "Investing.com — Australia stocks higher at close of trade; S&P/ASX 200 up 0.82%",
-      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-082-5052032",
-      "ts": 1795671004000
     }
   ]
 }
