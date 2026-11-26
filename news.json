@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:58 PM ET",
+  "generated_at": "Nov 25, 2026, 8:01 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795654705852,
+  "updated_ts": 1795654909772,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -238,10 +238,10 @@
   ],
   "ticker": [
     {
-      "time": "7:54 PM",
+      "time": "7:58 PM",
       "title": "CNBC — South Korea raises rates to highest in two years, as inflation remains above target",
       "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
-      "ts": 1795654486000
+      "ts": 1795654718000
     },
     {
       "time": "7:42 PM",
