@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:48 AM ET",
+  "generated_at": "Nov 26, 2026, 2:52 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795679330704,
+  "updated_ts": 1795679530731,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "2:44 AM",
-      "title": "Investing.com — CMC Markets first-half profit more than doubles as B2B growth drives margins",
-      "url": "https://www.investing.com/news/stock-market-news/cmc-markets-firsthalf-profit-more-than-doubles-as-b2b-growth-drives-margins-5052162",
-      "ts": 1795679087000
+      "time": "2:45 AM",
+      "title": "CNBC — Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
+      "url": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
+      "ts": 1795679105000
     },
     {
       "time": "2:37 AM",
@@ -304,9 +304,9 @@
     },
     {
       "time": "2:16 AM",
-      "title": "MarketWatch — Is the stock market open for Thanksgiving? The answer might surprise you.",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
-      "ts": 1795677360000
+      "title": "Bloomberg — China Tech Stocks Rebound From Record Slump",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-china-show-11-26-2026-video",
+      "ts": 1795677366000
     }
   ]
 }
