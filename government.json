@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 26, 2026, 8:15 AM ET",
+  "generated_at": "Nov 26, 2026, 8:49 AM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -13,6 +13,18 @@
       "sector": "Trade",
       "time": "Nov 26",
       "date": "2026-11-26T14:00:00.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Minister Champagne advances financial, trade and investment partnerships with Qatar and the United Arab Emirates",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-advances-financial-trade-and-investment-partnerships-with-qatar-and-the-united-arab-emirates.html",
+      "image": "",
+      "source": "Finance Canada",
+      "badge": "FIN",
+      "analysis": false,
+      "sector": "Trade",
+      "time": "Nov 26",
+      "date": "2026-11-26T13:37:10.000Z",
       "group": "sector"
     },
     {
@@ -97,18 +109,6 @@
       "sector": "Autos",
       "time": "Nov 20",
       "date": "2026-11-20T16:36:44.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Minister Champagne advances trade diversification and investment partnerships in the Gulf region",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-advances-trade-diversification-and-investment-partnerships-in-the-gulf-region.html",
-      "image": "",
-      "source": "Finance Canada",
-      "badge": "FIN",
-      "analysis": false,
-      "sector": "Trade",
-      "time": "Nov 20",
-      "date": "2026-11-20T15:42:45.000Z",
       "group": "sector"
     },
     {
@@ -220,11 +220,6 @@
   ],
   "feed_status": [
     {
-      "source": "Bank of Canada",
-      "fetched": 20,
-      "kept": 3
-    },
-    {
       "source": "CBC News",
       "fetched": 40,
       "kept": 2
@@ -240,19 +235,24 @@
       "kept": 3
     },
     {
-      "source": "Canada Media Fund",
-      "fetched": 24,
-      "kept": 1
-    },
-    {
       "source": "CDEV",
       "fetched": 20,
       "kept": 0
     },
     {
+      "source": "Canada Media Fund",
+      "fetched": 24,
+      "kept": 1
+    },
+    {
       "source": "ISED",
       "fetched": 20,
       "kept": 4
+    },
+    {
+      "source": "Bank of Canada",
+      "fetched": 20,
+      "kept": 3
     },
     {
       "source": "C.D. Howe Institute",

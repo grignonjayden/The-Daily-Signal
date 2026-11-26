@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:45 AM ET",
+  "generated_at": "Nov 26, 2026, 8:49 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795700751079,
+  "updated_ts": 1795700951406,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -116,6 +116,15 @@
       "ts": 1795694211000
     },
     {
+      "title": "Brazil’s Grupo Fictor, former bidder for Banco Master, investigated in fraud probe, source says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/brazils-grupo-fictor-former-bidder-for-banco-master-investigated-in-fraud-probe-source-says-5052520",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "time": "Nov 26, 8:36 AM",
+      "ts": 1795700164000
+    },
+    {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
@@ -124,16 +133,6 @@
       "time": "Nov 25, 11:29 PM",
       "coverage": 3,
       "ts": 1795667395000
-    },
-    {
-      "title": "Altria weighs possible offer for UK’s Imperial Brands",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/altria-weighs-possible-offer-for-uks-imperial-brands-5052505",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP15B_L.jpg",
-      "time": "Nov 26, 8:24 AM",
-      "coverage": 2,
-      "ts": 1795699464000
     },
     {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
@@ -250,6 +249,12 @@
     },
     {
       "time": "8:24 AM",
+      "title": "Investing.com — Altria weighs possible offer for UK’s Imperial Brands",
+      "url": "https://www.investing.com/news/stock-market-news/altria-weighs-possible-offer-for-uks-imperial-brands-5052505",
+      "ts": 1795699464000
+    },
+    {
+      "time": "8:24 AM",
       "title": "MarketWatch — Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
       "url": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
       "ts": 1795699440000
@@ -301,12 +306,6 @@
       "title": "Bloomberg — Global Stocks Climb as AI Trade Rebounds",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-opening-trade-11-26-2026-video",
       "ts": 1795698080000
-    },
-    {
-      "time": "8:00 AM",
-      "title": "Bloomberg — Kim Shannon of Sionna Tops Market With Bet on Cheap Value Picks",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kim-shannon-of-sionna-tops-market-with-bet-on-cheap-value-picks",
-      "ts": 1795698021000
     }
   ]
 }
