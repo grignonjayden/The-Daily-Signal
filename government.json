@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 26, 2026, 9:57 AM ET",
+  "generated_at": "Nov 26, 2026, 10:25 AM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -112,6 +112,18 @@
       "group": "sector"
     },
     {
+      "title": "Bank of Canada announces 2026-27 scholarship recipients",
+      "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-announces-2026-27-scholarship-recipients/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 26",
+      "date": "2026-11-26T10:00:15.000Z",
+      "group": "policy"
+    },
+    {
       "title": "Six Degrees of Optimism in the 2026 Federal Budget",
       "url": "https://cdhowe.org/publication/six-degrees-of-optimism-in-the-2026-federal-budget/",
       "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-1488351398.jpg",
@@ -170,18 +182,6 @@
       "time": "Nov 24",
       "date": "2026-11-24T18:22:26.000Z",
       "group": "policy"
-    },
-    {
-      "title": "Bank of Canada Media Interview – The Logic",
-      "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-media-interview-the-logic/",
-      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
-      "source": "Bank of Canada",
-      "badge": "BoC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 24",
-      "date": "2026-11-24T15:00:24.000Z",
-      "group": "policy"
     }
   ],
   "sources": [
@@ -220,24 +220,14 @@
   ],
   "feed_status": [
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
     },
     {
-      "source": "Bank of Canada",
-      "fetched": 20,
-      "kept": 3
-    },
-    {
-      "source": "ISED",
-      "fetched": 20,
-      "kept": 4
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
     },
     {
       "source": "CDEV",
@@ -250,9 +240,19 @@
       "kept": 0
     },
     {
+      "source": "Bank of Canada",
+      "fetched": 20,
+      "kept": 3
+    },
+    {
       "source": "CP24",
       "fetched": 200,
       "kept": 2
+    },
+    {
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 4
     },
     {
       "source": "C.D. Howe Institute",

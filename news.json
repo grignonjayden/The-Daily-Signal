@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 10:21 AM ET",
+  "generated_at": "Nov 26, 2026, 10:25 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795706493220,
+  "updated_ts": 1795706706845,
   "articles": [
     {
       "title": "Marlboro maker Altria explores takeover of UK’s Imperial Brands",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "10:20 AM",
+      "title": "Bloomberg — BCG on What’s Keeping CEOs Up at Night",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/bcg-on-what-s-keeping-ceos-up-at-night-video",
+      "ts": 1795706401000
+    },
+    {
       "time": "10:13 AM",
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Forget Binary Biotech Bets: This Antiviral Giant Surged 38%",
       "url": "https://www.investing.com/news/stock-market-news/forget-binary-biotech-bets-this-antiviral-giant-surged-38-5051985",
       "ts": 1795702530000
-    },
-    {
-      "time": "9:15 AM",
-      "title": "Investing.com — Nike Slumped to $34, Yet This Apparel Pick Surged 23% Since October",
-      "url": "https://www.investing.com/news/stock-market-news/nike-slumped-to-34-yet-this-apparel-pick-surged-23-since-october-5051982",
-      "ts": 1795702519000
     }
   ]
 }

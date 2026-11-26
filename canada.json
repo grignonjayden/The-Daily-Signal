@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 26, 2026, 9:57 AM ET",
+  "generated_at": "Nov 26, 2026, 10:25 AM ET",
   "date_key": "2026-11-26",
   "sections": [
     {
@@ -214,8 +214,7 @@
           },
           "note": "How much prices overall rose over the past 12 months. The Bank of Canada aims for 2%.",
           "as_of": "Statistics Canada · October 2026",
-          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401",
-          "stale": true
+          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401"
         },
         {
           "name": "Food prices",
@@ -227,8 +226,7 @@
           },
           "note": "How much food prices rose over the past 12 months.",
           "as_of": "Statistics Canada · October 2026",
-          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401",
-          "stale": true
+          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401"
         },
         {
           "name": "Unemployment rate",
@@ -240,8 +238,7 @@
           },
           "note": "Share of people looking for work who can’t find a job.",
           "as_of": "Statistics Canada · October 2026",
-          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701",
-          "stale": true
+          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701"
         }
       ]
     }
