@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:59 PM ET",
+  "generated_at": "Nov 25, 2026, 9:02 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795658362290,
+  "updated_ts": 1795658563214,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "9:00 PM",
+      "title": "WSJ Markets — The Other Nvidia Romance With an Executive at a Company Linked to China",
+      "url": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
+      "ts": 1795658400000
+    },
+    {
       "time": "8:52 PM",
       "title": "CNBC — Norse Atlantic flights suspended after warning finances 'critical'",
       "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
@@ -302,12 +308,6 @@
       "title": "WSJ Markets — Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
       "url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
       "ts": 1795655040000
-    },
-    {
-      "time": "8:01 PM",
-      "title": "Bloomberg — Australia Capex Surges by Most Since Mining Boom on Data Centers",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-capex-surges-by-most-since-mining-boom-on-data-centers",
-      "ts": 1795654917000
     }
   ]
 }
