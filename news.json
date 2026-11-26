@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:12 AM ET",
+  "generated_at": "Nov 26, 2026, 3:15 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795680734355,
+  "updated_ts": 1795680933598,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -85,6 +85,17 @@
       "ts": 1795677100000
     },
     {
+      "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
+      "snippet": "President Donald Trump’s latest tariff push risks undercutting one of the signature shifts in global manufacturing since the US-China trade war began: the movement of supply chains out of China.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 3:05 AM",
+      "coverage": 3,
+      "ts": 1795680324000
+    },
+    {
       "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
@@ -93,17 +104,6 @@
       "time": "Nov 25, 8:29 AM",
       "coverage": 5,
       "ts": 1795613399000
-    },
-    {
-      "title": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/us-tariffs-raise-stakes-for-india-to-clinch-trade-deal-video",
-      "snippet": "The US plans to impose a 17% tariff on Indian goods, lower than regional peers like Vietnam, Malaysia and Bangladesh. The rate would be hiked to 25% if the country fails to secure a deal, according to a statement…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 1:28 AM",
-      "coverage": 3,
-      "ts": 1795674538000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "3:12 AM",
+      "title": "CNBC — Norse Atlantic suspends all flights, warns it may file for bankruptcy",
+      "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+      "ts": 1795680770000
+    },
+    {
       "time": "3:09 AM",
       "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
@@ -301,12 +307,6 @@
       "title": "CNBC — Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
       "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
       "ts": 1795678211000
-    },
-    {
-      "time": "2:28 AM",
-      "title": "Investing.com — Safestore expects full-year earnings in line as new stores offset weaker trading",
-      "url": "https://www.investing.com/news/stock-market-news/safestore-expects-fullyear-earnings-in-line-as-new-stores-offset-weaker-trading-5052155",
-      "ts": 1795678099000
     }
   ]
 }
