@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:23 AM ET",
+  "generated_at": "Nov 26, 2026, 9:27 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795702993372,
+  "updated_ts": 1795703229046,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -10,7 +10,7 @@
       "snippet": "A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out",
       "image": "https://images.mktw.net/im-44727230",
       "time": "Nov 26, 8:41 AM",
-      "coverage": 7,
+      "coverage": 6,
       "ts": 1795700460000
     },
     {
@@ -34,16 +34,6 @@
       "ts": 1795695745000
     },
     {
-      "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
-      "snippet": "New import duties targeting 14 economies aim to replace earlier tariffs struck down by U.S. Supreme Court",
-      "image": "https://www.theglobeandmail.com/resizer/v2/VCWLJQIPJRB7PJF3AW5B4BVS7I.jpg?auth=325e44498ea288acaed102b5295cf1b035f0d829ab386b0aa97a096e9ee43d5c&smart=true&width=4000&height=2522",
-      "time": "Nov 26, 6:24 AM",
-      "coverage": 5,
-      "ts": 1795692285000
-    },
-    {
       "title": "European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
@@ -52,16 +42,6 @@
       "time": "Nov 26, 9:03 AM",
       "coverage": 4,
       "ts": 1795701808000
-    },
-    {
-      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
-      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
-      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
-      "time": "Nov 26, 9:00 AM",
-      "coverage": 4,
-      "ts": 1795701602000
     },
     {
       "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
@@ -74,37 +54,6 @@
       "ts": 1795701600000
     },
     {
-      "title": "Altria Considers $157 Billion Tobacco Tie-Up With Imperial Brands",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=rss_markets_main",
-      "snippet": "The U.S. company said it was considering a takeover offer to buy its smaller London-listed peer.",
-      "image": "https://images.wsj.net/im-875303",
-      "time": "Nov 26, 8:27 AM",
-      "coverage": 4,
-      "ts": 1795699620000
-    },
-    {
-      "title": "Altria weighs possible offer for UK’s Imperial Brands",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/altria-weighs-possible-offer-for-uks-imperial-brands-5052505",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP15B_L.jpg",
-      "time": "Nov 26, 8:24 AM",
-      "coverage": 4,
-      "ts": 1795699464000
-    },
-    {
-      "title": "Altria, Japan Tobacco Explore Breakup of Imperial Brands",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
-      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential breakup of British cigarette maker Imperial Brands Plc, in what would be one of the largest takeovers of a UK company in a decade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 8:08 AM",
-      "coverage": 4,
-      "ts": 1795698533000
-    },
-    {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
@@ -115,6 +64,58 @@
       "ts": 1795663184000
     },
     {
+      "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
+      "snippet": "New import duties targeting 14 economies aim to replace earlier tariffs struck down by U.S. Supreme Court",
+      "image": "https://www.theglobeandmail.com/resizer/v2/VCWLJQIPJRB7PJF3AW5B4BVS7I.jpg?auth=325e44498ea288acaed102b5295cf1b035f0d829ab386b0aa97a096e9ee43d5c&smart=true&width=4000&height=2522",
+      "time": "Nov 26, 6:24 AM",
+      "coverage": 4,
+      "ts": 1795692285000
+    },
+    {
+      "title": "European Indexes Open Sharply Higher After U.S. Recovery",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main",
+      "snippet": "European stock indexes opened with strong gains after a late equity rally in the U.S. session.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 3:35 AM",
+      "coverage": 4,
+      "ts": 1795682100000
+    },
+    {
+      "title": "Investors Overpaid for Retail Safety, Missing Kroger’s 14% Rally",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/investors-overpaid-for-retail-safety-missing-krogers-14-rally-5051989",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEE203OH_M.jpg",
+      "time": "Nov 26, 9:15 AM",
+      "coverage": 3,
+      "ts": 1795702551000
+    },
+    {
+      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
+      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
+      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
+      "time": "Nov 26, 9:00 AM",
+      "coverage": 3,
+      "ts": 1795701602000
+    },
+    {
+      "title": "Altria, Japan Tobacco Explore Breakup of Imperial Brands",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential breakup of British cigarette maker Imperial Brands Plc, in what would be one of the largest takeovers of a UK company in a decade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 8:08 AM",
+      "coverage": 3,
+      "ts": 1795698533000
+    },
+    {
       "title": "Inflation-Wary Shoppers Prepare for Black Friday",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/inflation-wary-shoppers-prepare-for-black-friday-video",
@@ -122,7 +123,7 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 26, 7:18 AM",
-      "coverage": 4,
+      "coverage": 3,
       "ts": 1795695493000
     },
     {
@@ -237,6 +238,54 @@
   ],
   "ticker": [
     {
+      "time": "9:20 AM",
+      "title": "CNBC — Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "ts": 1795702844000
+    },
+    {
+      "time": "9:18 AM",
+      "title": "Investing.com — Brazil’s Embraer CEO says US aircraft tariff will hurt airlines",
+      "url": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
+      "ts": 1795702711000
+    },
+    {
+      "time": "9:15 AM",
+      "title": "Investing.com — Dow Investors Chased Tech Swings—While Amgen Quietly Surged 77%",
+      "url": "https://www.investing.com/news/stock-market-news/dow-investors-chased-tech-swingswhile-amgen-quietly-surged-77-5051987",
+      "ts": 1795702540000
+    },
+    {
+      "time": "9:15 AM",
+      "title": "Investing.com — Forget Binary Biotech Bets: This Antiviral Giant Surged 38%",
+      "url": "https://www.investing.com/news/stock-market-news/forget-binary-biotech-bets-this-antiviral-giant-surged-38-5051985",
+      "ts": 1795702530000
+    },
+    {
+      "time": "9:15 AM",
+      "title": "Investing.com — Nike Slumped to $34, Yet This Apparel Pick Surged 23% Since October",
+      "url": "https://www.investing.com/news/stock-market-news/nike-slumped-to-34-yet-this-apparel-pick-surged-23-since-october-5051982",
+      "ts": 1795702519000
+    },
+    {
+      "time": "9:15 AM",
+      "title": "Investing.com — Health Insurers Are Bleeding—While AbbVie Quietly Climbed 20%",
+      "url": "https://www.investing.com/news/stock-market-news/health-insurers-are-bleedingwhile-abbvie-quietly-climbed-20-5051973",
+      "ts": 1795702510000
+    },
+    {
+      "time": "9:14 AM",
+      "title": "Investing.com — Canadian stocks on track to open higher, extending rebound after whipsaw session",
+      "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
+      "ts": 1795702472000
+    },
+    {
+      "time": "9:12 AM",
+      "title": "Investing.com — Stellantis says keeping production in Italy a ’daily challenge’ amid rising costs",
+      "url": "https://www.investing.com/news/stock-market-news/stellantis-says-keeping-production-in-italy-a-daily-challenge-amid-rising-costs-5052537",
+      "ts": 1795702342000
+    },
+    {
       "time": "9:11 AM",
       "title": "Bloomberg — ¿Qué causó las fallas tecnológicas en EE.UU.?",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/-que-causo-las-fallas-tecnologicas-en-ee-uu-video",
@@ -259,54 +308,6 @@
       "title": "Investing.com — Wednesday’s top insider buys and sells: Galaxy Digital, Gold.com and more",
       "url": "https://www.investing.com/news/stock-market-news/wednesdays-top-insider-buys-and-sells-galaxy-digital-goldcom-and-more-93CH-5052536",
       "ts": 1795701740000
-    },
-    {
-      "time": "9:00 AM",
-      "title": "Investing.com — Airline Norse Atlantic flags bankruptcy risk as flights suspended",
-      "url": "https://www.investing.com/news/stock-market-news/airline-norse-atlantic-flags-bankruptcy-risk-as-flights-suspended-5052475",
-      "ts": 1795701629000
-    },
-    {
-      "time": "9:00 AM",
-      "title": "Globe and Mail — Recalibrate your brain to savour the good moments of each day",
-      "url": "https://www.theglobeandmail.com/business/careers/talent/article-recalibrate-your-brain-to-savour-the-good-moments-of-each-day/",
-      "ts": 1795701600000
-    },
-    {
-      "time": "8:54 AM",
-      "title": "Bloomberg — Energy Trader BGN Targets Agriculture in Latest Expansion Push",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/energy-trader-bgn-targets-agriculture-in-latest-expansion-push",
-      "ts": 1795701261000
-    },
-    {
-      "time": "8:51 AM",
-      "title": "Bloomberg — UK Is Latest Big European Economy to Report Diesel Demand Slump",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/uk-is-latest-big-european-economy-to-report-diesel-demand-slump",
-      "ts": 1795701108000
-    },
-    {
-      "time": "8:36 AM",
-      "title": "Investing.com — Brazil’s Grupo Fictor, former bidder for Banco Master, investigated in fraud probe, source says",
-      "url": "https://www.investing.com/news/stock-market-news/brazils-grupo-fictor-former-bidder-for-banco-master-investigated-in-fraud-probe-source-says-5052520",
-      "ts": 1795700164000
-    },
-    {
-      "time": "8:34 AM",
-      "title": "CNBC — What is ‘texture-maxxing’? The food trend putting crunch on the menu",
-      "url": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
-      "ts": 1795700091000
-    },
-    {
-      "time": "8:29 AM",
-      "title": "Bloomberg — Nigeria Boosts Retail Supply of Dollars to Curb Naira Volatility",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/nigeria-boosts-retail-supply-of-dollars-to-curb-naira-volatility",
-      "ts": 1795699795000
-    },
-    {
-      "time": "8:24 AM",
-      "title": "MarketWatch — Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
-      "url": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
-      "ts": 1795699440000
     }
   ]
 }
