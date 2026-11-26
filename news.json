@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 4:18 PM ET",
+  "generated_at": "Nov 26, 2026, 4:21 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795727885341,
+  "updated_ts": 1795728085967,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -157,6 +157,16 @@
   ],
   "official": [
     {
+      "title": "Government supports Indigenous economic participation in major energy infrastructure",
+      "source": "Finance Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-supports-indigenous-economic-participation-in-major-energy-infrastructure.html",
+      "snippet": "Today, on behalf of the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, and the Honourable Rebecca Alty,…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 4:19 PM",
+      "ts": 1795727954000
+    },
+    {
       "title": "Minister Champagne introduces legislation to implement Budget 2026: Masters of our destiny",
       "source": "Finance Canada",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-introduces-legislation-to-implement-budget-2026-masters-of-our-destiny.html",
@@ -165,16 +175,6 @@
       "fallback_image": true,
       "time": "Nov 26, 11:29 AM",
       "ts": 1795710595000
-    },
-    {
-      "title": "Minister Champagne advances financial, trade and investment partnerships with Qatar and the United Arab Emirates",
-      "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-advances-financial-trade-and-investment-partnerships-with-qatar-and-the-united-arab-emirates.html",
-      "snippet": "The government of Canada is moving strategically to attract new investment, create new opportunities for Canadian businesses, and diversify our economic partnerships. By building our strength at home and expanding…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 8:37 AM",
-      "ts": 1795700230000
     },
     {
       "title": "Payroll employment, earnings and hours, and job vacancies, September 2026",
