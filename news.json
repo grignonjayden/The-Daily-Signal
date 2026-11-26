@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:09 AM ET",
+  "generated_at": "Nov 26, 2026, 9:13 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795702191084,
+  "updated_ts": 1795702392077,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -74,10 +74,10 @@
       "ts": 1795701600000
     },
     {
-      "title": "Altria Considers $157 Billion Tie-Up With Imperial Brands",
+      "title": "Altria Considers $157 Billion Tobacco Tie-Up With Imperial Brands",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=rss_markets_main",
-      "snippet": "The U.S. company said it was considering a takeover offer to buy its smaller London-listed peer Imperial Brands.",
+      "snippet": "The U.S. company said it was considering a takeover offer to buy its smaller London-listed peer.",
       "image": "https://images.wsj.net/im-875303",
       "time": "Nov 26, 8:27 AM",
       "coverage": 4,
@@ -261,6 +261,12 @@
       "ts": 1795701600000
     },
     {
+      "time": "8:54 AM",
+      "title": "Bloomberg — Energy Trader BGN Targets Agriculture in Latest Expansion Push",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/energy-trader-bgn-targets-agriculture-in-latest-expansion-push",
+      "ts": 1795701261000
+    },
+    {
       "time": "8:51 AM",
       "title": "Bloomberg — UK Is Latest Big European Economy to Report Diesel Demand Slump",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/uk-is-latest-big-european-economy-to-report-diesel-demand-slump",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — ECB Officials Saw More Tightening With Inflation Outlook Worse",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/ecb-officials-saw-more-tightening-with-inflation-outlook-worse",
       "ts": 1795698576000
-    },
-    {
-      "time": "8:08 AM",
-      "title": "Investing.com — Why is Imperial Brands stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-imperial-brands-stock-surging-today-93CH-5052503",
-      "ts": 1795698511000
     }
   ]
 }
