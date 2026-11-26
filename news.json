@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:26 PM ET",
+  "generated_at": "Nov 26, 2026, 1:30 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795717613131,
+  "updated_ts": 1795717813514,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:27 PM",
+      "title": "CNBC — Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+      "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+      "ts": 1795717663000
+    },
+    {
       "time": "1:14 PM",
       "title": "Globe and Mail — Ukrainian investment office urges Canadian companies to invest in energy sector after Russian attacks",
       "url": "https://www.theglobeandmail.com/business/article-ukrainian-investment-office-urges-canadian-companies-to-invest-in/",
@@ -265,12 +271,6 @@
       "title": "Bloomberg — KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
       "ts": 1795715250000
-    },
-    {
-      "time": "12:39 PM",
-      "title": "CNBC — Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-      "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-      "ts": 1795714763000
     },
     {
       "time": "12:35 PM",
