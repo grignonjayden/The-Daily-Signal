@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:14 PM ET",
+  "generated_at": "Nov 25, 2026, 11:17 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795666442924,
+  "updated_ts": 1795666643015,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -86,6 +86,16 @@
       "ts": 1795664545000
     },
     {
+      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
+      "snippet": "Asian stock markets staged a major comeback after a selloff, as investors shrugged off new U.S. tariff proposals and Wall Street recouped most of the sharp losses ahead of the Thanksgiving holiday.",
+      "image": "https://images.wsj.net/im-98798504",
+      "time": "Nov 25, 10:09 PM",
+      "coverage": 3,
+      "ts": 1795662540000
+    },
+    {
       "title": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925",
@@ -114,16 +124,6 @@
       "time": "Nov 24, 3:16 PM",
       "coverage": 6,
       "ts": 1795551400000
-    },
-    {
-      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
-      "snippet": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
-      "image": "https://images.wsj.net/im-85047619",
-      "time": "Nov 25, 5:21 PM",
-      "coverage": 3,
-      "ts": 1795645260000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "11:12 PM",
+      "title": "CNBC — How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+      "ts": 1795666338000
+    },
+    {
       "time": "11:00 PM",
       "title": "CNBC — Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
       "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
@@ -277,12 +283,6 @@
       "title": "CNBC — K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
       "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
       "ts": 1795662587000
-    },
-    {
-      "time": "10:09 PM",
-      "title": "WSJ Markets — Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
-      "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
-      "ts": 1795662540000
     },
     {
       "time": "9:48 PM",
