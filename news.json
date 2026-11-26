@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:44 AM ET",
+  "generated_at": "Nov 26, 2026, 6:47 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795693469085,
+  "updated_ts": 1795693671607,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -239,10 +239,28 @@
   ],
   "ticker": [
     {
-      "time": "6:26 AM",
+      "time": "6:44 AM",
       "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-      "ts": 1795692412000
+      "ts": 1795693459000
+    },
+    {
+      "time": "6:36 AM",
+      "title": "Investing.com — Dutch minister says US chip curbs bill would hurt Europe",
+      "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
+      "ts": 1795692981000
+    },
+    {
+      "time": "6:31 AM",
+      "title": "Investing.com — Barclays downgrades European forklift makers as Chinese imports jump 51% in Q3",
+      "url": "https://www.investing.com/news/stock-market-news/barclays-downgrades-european-forklift-makers-as-chinese-imports-jump-51-in-q3-5052419",
+      "ts": 1795692703000
+    },
+    {
+      "time": "6:24 AM",
+      "title": "Investing.com — US chip curbs will slow Asia data-center investment, Fitch says",
+      "url": "https://www.investing.com/news/stock-market-news/us-chip-curbs-will-slow-asia-datacenter-investment-fitch-says-5052417",
+      "ts": 1795692274000
     },
     {
       "time": "6:22 AM",
@@ -291,24 +309,6 @@
       "title": "WSJ Markets — Lilly, Novo Supplier Bachem Hit by Share Drop After Growth Plans Disappoint",
       "url": "https://www.wsj.com/business/earnings/lilly-novo-supplier-bachem-hit-by-share-drop-after-growth-plans-disappoint-d3bcf6fa?mod=rss_markets_main",
       "ts": 1795690500000
-    },
-    {
-      "time": "5:49 AM",
-      "title": "Bloomberg — Coris’ Ivory Coast Bank Unit Plans IPO in Push for Top Five",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/coris-ivory-coast-bank-unit-plans-ipo-in-push-for-top-five",
-      "ts": 1795690159000
-    },
-    {
-      "time": "5:49 AM",
-      "title": "Bloomberg — Romanian Far-Right Leader Simion Charged With Inciting Violence",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/romanian-far-right-leader-simion-charged-with-inciting-violence",
-      "ts": 1795690158000
-    },
-    {
-      "time": "5:45 AM",
-      "title": "CNBC — Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-      "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-      "ts": 1795689945000
     }
   ]
 }
