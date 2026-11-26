@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:33 PM ET",
+  "generated_at": "Nov 25, 2026, 9:36 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795660390116,
+  "updated_ts": 1795660591197,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "9:35 PM",
+      "title": "CNBC — SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "ts": 1795660539000
+    },
+    {
+      "time": "9:32 PM",
+      "title": "Bloomberg — Rupee Hits 8-Month High as India November Stock Inflows Reach $14.7 Billion",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/rupee-hits-8-month-high-as-india-november-stock-inflows-reach-14-7-billion",
+      "ts": 1795660342000
+    },
+    {
       "time": "9:05 PM",
       "title": "Investing.com — Black Friday: unlock the AI picks up as much as 93% since entry",
       "url": "https://www.investing.com/news/stock-market-news/black-friday-unlock-the-ai-picks-up-as-much-as-93-since-entry-5051893",
@@ -295,18 +307,6 @@
       "title": "Bloomberg — Rupee Has Room to Rally Before RBI Steps In, Strategists Say",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/rupee-rally-has-91-in-sight-as-rbi-seen-holding-back-dollar-buys",
       "ts": 1795656600000
-    },
-    {
-      "time": "8:27 PM",
-      "title": "WSJ Markets — Oil Rises Amid Ongoing Middle East Tensions",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-c730426d?mod=rss_markets_main",
-      "ts": 1795656420000
-    },
-    {
-      "time": "8:11 PM",
-      "title": "Bloomberg — Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says",
-      "ts": 1795655501000
     }
   ]
 }
