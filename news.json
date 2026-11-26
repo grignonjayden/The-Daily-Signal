@@ -1,17 +1,17 @@
 {
-  "generated_at": "Nov 26, 2026, 6:02 PM ET",
+  "generated_at": "Nov 26, 2026, 6:05 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795734129456,
+  "updated_ts": 1795734329157,
   "articles": [
     {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 26, 4:30 PM",
-      "coverage": 5,
-      "ts": 1795728600000
+      "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "snippet": "Investors wrapped up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
+      "time": "Nov 26, 6:03 PM",
+      "coverage": 6,
+      "ts": 1795734220000
     },
     {
       "title": "U.S. stock futures rise on Thanksgiving a day after wild swings on Wall Street",
@@ -20,7 +20,7 @@
       "snippet": "",
       "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
       "time": "Nov 26, 3:37 PM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795725443000
     },
     {
@@ -31,8 +31,18 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 26, 11:29 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795710566000
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 26, 4:30 PM",
+      "coverage": 5,
+      "ts": 1795728600000
     },
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -55,6 +65,16 @@
       "ts": 1795663184000
     },
     {
+      "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
+      "snippet": "The Nasdaq composite plunged as much as 4.5% Wednesday before paring losses.",
+      "image": "https://images.wsj.net/im-02216921",
+      "time": "Nov 25, 4:48 PM",
+      "coverage": 6,
+      "ts": 1795643280000
+    },
+    {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
@@ -75,16 +95,6 @@
       "ts": 1795728604000
     },
     {
-      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
-      "time": "Nov 26, 7:22 AM",
-      "coverage": 4,
-      "ts": 1795695745000
-    },
-    {
       "title": "Ford CEO on Le Mans, New Electric Pickup and Trade Talks",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/ford-ceo-on-le-mans-new-electric-pickup-and-trade-talks-video",
@@ -96,6 +106,16 @@
       "ts": 1795723215000
     },
     {
+      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
+      "snippet": "Markets increasingly question whether even the biggest AI names can generate enough profit to justify their price tags",
+      "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
+      "time": "Nov 25, 11:40 AM",
+      "coverage": 6,
+      "ts": 1795624858000
+    },
+    {
       "title": "Ukrainian investment office urges Canadian companies to invest in energy sector after Russian attacks",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-ukrainian-investment-office-urges-canadian-companies-to-invest-in/",
@@ -104,26 +124,6 @@
       "time": "Nov 26, 1:14 PM",
       "coverage": 3,
       "ts": 1795716873000
-    },
-    {
-      "title": "Spain’s Pablo Hernández de Cos to take over from Lagarde as European Central Bank chief",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/",
-      "snippet": "France’s Laurence Boone and Germany’s Markus Brunnermeier set to fill remaining vacancies on the board as the central bank grapples with inflation",
-      "image": "https://www.theglobeandmail.com/resizer/v2/DGRZZ4JRAVEETLK7GFUJVTZQYM.JPG?auth=f6be22b94cdcd26171b8dd8955bf3ea689fa7b9a80d7a3f0a96bb9d1b49de06e&smart=true&width=4044&height=2724",
-      "time": "Nov 26, 9:44 AM",
-      "coverage": 2,
-      "ts": 1795704259000
-    },
-    {
-      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
-      "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
-      "image": "https://images.wsj.net/im-58488429",
-      "time": "Nov 25, 5:27 PM",
-      "coverage": 5,
-      "ts": 1795645620000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "6:00 PM",
+      "title": "Bloomberg — Bankers Pay Up for Hong Kong Apartments as Rents Hit New Highs",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/bankers-pay-up-for-hong-kong-apartments-as-rents-hit-new-highs",
+      "ts": 1795734000000
+    },
+    {
       "time": "5:30 PM",
       "title": "Bloomberg — AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/ai-rout-makes-kioxia-japan-s-cheapest-blue-chip-backing-bulls",
@@ -301,12 +307,6 @@
       "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
       "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
       "ts": 1795727597000
-    },
-    {
-      "time": "4:10 PM",
-      "title": "Investing.com — TSX ends higher after whipsaw session, helped by battery metal stocks & labor data",
-      "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
-      "ts": 1795727457000
     }
   ]
 }
