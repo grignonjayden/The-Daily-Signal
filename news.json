@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:08 AM ET",
+  "generated_at": "Nov 26, 2026, 1:11 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795673301008,
+  "updated_ts": 1795673501374,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -255,6 +255,12 @@
       "ts": 1795672234000
     },
     {
+      "time": "12:48 AM",
+      "title": "Bloomberg — Rupee Options Signal Bullish Shift for First Time Since February",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/rupee-options-signal-bullish-shift-for-first-time-since-february",
+      "ts": 1795672089000
+    },
+    {
       "time": "12:45 AM",
       "title": "Bloomberg — Xpeng President on Carmaker's Robot Push",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/xpeng-president-on-carmaker-s-robot-push-video",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Micron faces Taiwan uncertainty as labor dispute threatens expansion, report warns",
       "url": "https://www.investing.com/news/stock-market-news/micron-faces-taiwan-uncertainty-as-labor-dispute-threatens-expansion-report-warns-5052030",
       "ts": 1795670743000
-    },
-    {
-      "time": "12:18 AM",
-      "title": "Investing.com — Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
-      "url": "https://www.investing.com/news/stock-market-news/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-5052028",
-      "ts": 1795670302000
     }
   ]
 }
