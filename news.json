@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:24 AM ET",
+  "generated_at": "Nov 26, 2026, 12:28 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795670686871,
+  "updated_ts": 1795670887127,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -64,6 +64,16 @@
       "ts": 1795640408000
     },
     {
+      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
+      "snippet": "Asian markets rose Thursday as investors brushed aside new U.S. tariff proposals and Wall Street recouped most of its sharp losses ahead of the Thanksgiving holiday.",
+      "image": "https://images.wsj.net/im-98798504",
+      "time": "Nov 26, 12:22 AM",
+      "coverage": 4,
+      "ts": 1795670520000
+    },
+    {
       "title": "Musk says every U.S. child will receive two SpaceX shares",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/musk-says-every-us-child-will-receive-two-spacex-shares-5052023",
@@ -82,16 +92,6 @@
       "time": "Nov 25, 11:29 PM",
       "coverage": 4,
       "ts": 1795667395000
-    },
-    {
-      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
-      "snippet": "Asian stock markets staged a major comeback after a selloff, as investors shrugged off new U.S. tariff proposals and Wall Street recouped most of the sharp losses ahead of the Thanksgiving holiday.",
-      "image": "https://images.wsj.net/im-98798504",
-      "time": "Nov 25, 10:09 PM",
-      "coverage": 4,
-      "ts": 1795662540000
     },
     {
       "title": "Canada Pitches Infrastructure Plan to UAE Investors",
