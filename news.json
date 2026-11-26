@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:12 PM ET",
+  "generated_at": "Nov 25, 2026, 8:15 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795655523733,
+  "updated_ts": 1795655723857,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -40,18 +40,8 @@
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1YI_L.jpg",
       "time": "Nov 25, 5:24 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795645486000
-    },
-    {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "snippet": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108315151-1780405409882-gettyimages-2279396665-042a7087_me4bgxvb.jpeg?v=1795450952&w=1920&h=1080",
-      "time": "Nov 25, 9:29 AM",
-      "coverage": 6,
-      "ts": 1795616990000
     },
     {
       "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
@@ -73,6 +63,16 @@
       "time": "Nov 25, 4:00 PM",
       "coverage": 5,
       "ts": 1795640408000
+    },
+    {
+      "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
+      "snippet": "The U.S. International Development Finance Corporation and Catena Investments, based in the United Arab Emirates, are also parties to the deal, the sources said.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107029888-1647265894397-gettyimages-1239189173-US_GAS_PRICES.jpeg?v=1795621185&w=1920&h=1080",
+      "time": "Nov 25, 11:00 AM",
+      "coverage": 5,
+      "ts": 1795622445000
     },
     {
       "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "8:10 PM",
+      "title": "CNBC — Hedge funds are no longer just for the rich. They’re coming for everyday investors",
+      "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+      "ts": 1795655458000
+    },
+    {
       "time": "8:04 PM",
       "title": "CNBC — Norse Atlantic flights suspended after warning finances 'critical'",
       "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
@@ -302,12 +308,6 @@
       "title": "WSJ Markets — Nikkei Rises 1.3%, Led by Chip, Metals Stocks",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main",
       "ts": 1795652340000
-    },
-    {
-      "time": "7:12 PM",
-      "title": "CNBC — Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
-      "url": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
-      "ts": 1795651936000
     }
   ]
 }
