@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:37 PM ET",
+  "generated_at": "Nov 25, 2026, 11:41 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795667867551,
+  "updated_ts": 1795668070598,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "11:30 PM",
+      "title": "Bloomberg — Australia Firms See Inflation Holding Over 4% for Next 12 Months",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-firms-see-inflation-holding-over-4-for-next-12-months",
+      "ts": 1795667400000
+    },
+    {
       "time": "11:20 PM",
       "title": "CNBC — Hedge funds are no longer just for the rich. They’re wooing everyday investors",
       "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
@@ -302,12 +308,6 @@
       "title": "CNBC — K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
       "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
       "ts": 1795662587000
-    },
-    {
-      "time": "9:48 PM",
-      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
-      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
-      "ts": 1795661301000
     }
   ]
 }
