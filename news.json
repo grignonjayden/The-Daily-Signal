@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:25 AM ET",
+  "generated_at": "Nov 26, 2026, 2:28 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795677921868,
+  "updated_ts": 1795678126465,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -64,6 +64,16 @@
       "ts": 1795670520000
     },
     {
+      "title": "Hill & Smith sees 2026 profit above forecasts as U.S. demand lifts sales",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/hill--smith-sees-2026-profit-above-forecasts-as-us-demand-lifts-sales-93CH-5052140",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "time": "Nov 26, 2:11 AM",
+      "coverage": 2,
+      "ts": 1795677100000
+    },
+    {
       "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112",
@@ -72,16 +82,6 @@
       "time": "Nov 26, 1:42 AM",
       "coverage": 2,
       "ts": 1795675362000
-    },
-    {
-      "title": "Nvidia stops shipping AI servers to 4 Southeast Asian countries- FT",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-stops-shipping-ai-servers-to-4-southeast-asian-countries-ft-5052075",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEK1L06T_L.jpg",
-      "time": "Nov 26, 12:59 AM",
-      "coverage": 2,
-      "ts": 1795672756000
     },
     {
       "title": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
@@ -237,10 +237,28 @@
   ],
   "ticker": [
     {
+      "time": "2:24 AM",
+      "title": "Investing.com — Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-5052154",
+      "ts": 1795677866000
+    },
+    {
       "time": "2:23 AM",
       "title": "CNBC — Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
       "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
       "ts": 1795677822000
+    },
+    {
+      "time": "2:22 AM",
+      "title": "Investing.com — UBS names its top European luxury stock picks for 2027",
+      "url": "https://www.investing.com/news/stock-market-news/ubs-names-its-top-european-luxury-stock-picks-for-2027-5052152",
+      "ts": 1795677760000
+    },
+    {
+      "time": "2:20 AM",
+      "title": "Investing.com — Mitchells & Butlers flags £95 million cost hit as sales slow in fiscal 2026",
+      "url": "https://www.investing.com/news/stock-market-news/mitchells--butlers-flags-95-million-cost-hit-as-sales-slow-in-fiscal-2026-93CH-5052149",
+      "ts": 1795677628000
     },
     {
       "time": "2:16 AM",
@@ -289,24 +307,6 @@
       "title": "Bloomberg — Why the AI Panic May Be Premature",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/why-the-ai-panic-may-be-premature-video",
       "ts": 1795675586000
-    },
-    {
-      "time": "1:45 AM",
-      "title": "Bloomberg — FTSE 100 to Rebound Following Another Tumultuous Session - Live Updates",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-11-26/ftse-100-live-updates-pound-bonds-dollar-ai-stocks-gold-prices-tube-strike-boe-report-what-s-moving-uk-markets-right-now-markets-today",
-      "ts": 1795675544000
-    },
-    {
-      "time": "1:43 AM",
-      "title": "Investing.com — MiniMax linked to unauthorized access of confidential AI user data - report",
-      "url": "https://www.investing.com/news/stock-market-news/minimax-linked-to-unauthorized-access-of-confidential-ai-user-data--report-93CH-5052113",
-      "ts": 1795675407000
-    },
-    {
-      "time": "1:39 AM",
-      "title": "CNBC — SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
-      "ts": 1795675174000
     }
   ]
 }
