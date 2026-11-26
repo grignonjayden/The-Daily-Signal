@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:03 AM ET",
+  "generated_at": "Nov 26, 2026, 9:06 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795701786126,
+  "updated_ts": 1795701986603,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -24,6 +24,16 @@
       "ts": 1795698060000
     },
     {
+      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
+      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
+      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
+      "time": "Nov 26, 9:00 AM",
+      "coverage": 4,
+      "ts": 1795701602000
+    },
+    {
       "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
@@ -32,6 +42,47 @@
       "time": "Nov 26, 9:00 AM",
       "coverage": 4,
       "ts": 1795701600000
+    },
+    {
+      "title": "Altria Considers $157 Billion Tie-Up With Imperial Brands",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=rss_markets_main",
+      "snippet": "The U.S. company said it was considering a takeover offer to buy its smaller London-listed peer Imperial Brands.",
+      "image": "https://images.wsj.net/im-875303",
+      "time": "Nov 26, 8:27 AM",
+      "coverage": 4,
+      "ts": 1795699620000
+    },
+    {
+      "title": "Altria weighs possible offer for UK’s Imperial Brands",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/altria-weighs-possible-offer-for-uks-imperial-brands-5052505",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP15B_L.jpg",
+      "time": "Nov 26, 8:24 AM",
+      "coverage": 4,
+      "ts": 1795699464000
+    },
+    {
+      "title": "Altria, Japan Tobacco Explore Breakup of Imperial Brands",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential breakup of British cigarette maker Imperial Brands Plc, in what would be one of the largest takeovers of a UK company in a decade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 8:08 AM",
+      "coverage": 4,
+      "ts": 1795698533000
+    },
+    {
+      "title": "Why is Imperial Brands stock surging today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-imperial-brands-stock-surging-today-93CH-5052503",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "time": "Nov 26, 8:08 AM",
+      "coverage": 4,
+      "ts": 1795698511000
     },
     {
       "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
@@ -54,17 +105,6 @@
       "ts": 1795663184000
     },
     {
-      "title": "Inflation-Wary Shoppers Prepare for Black Friday",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/inflation-wary-shoppers-prepare-for-black-friday-video",
-      "snippet": "Retailers had plenty of reasons to be worried about this year’s holiday season, but the latest round of earnings, from Dick’s Sporting Goods Inc. to Kohl’s Corp. and Dollar Tree Inc., show that shoppers are still…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 7:18 AM",
-      "coverage": 4,
-      "ts": 1795695493000
-    },
-    {
       "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
@@ -75,55 +115,15 @@
       "ts": 1795692285000
     },
     {
-      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
-      "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
-      "image": "https://images.wsj.net/im-58488429",
-      "time": "Nov 25, 5:27 PM",
-      "coverage": 5,
-      "ts": 1795645620000
-    },
-    {
-      "title": "Altria weighs possible offer for UK’s Imperial Brands",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/altria-weighs-possible-offer-for-uks-imperial-brands-5052505",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP15B_L.jpg",
-      "time": "Nov 26, 8:24 AM",
-      "coverage": 3,
-      "ts": 1795699464000
-    },
-    {
-      "title": "Altria, Japan Tobacco Explore Breakup of Imperial Brands",
+      "title": "Inflation-Wary Shoppers Prepare for Black Friday",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
-      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential breakup of British cigarette maker Imperial Brands Plc, in what would be one of the largest takeovers of a UK company in a decade.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/inflation-wary-shoppers-prepare-for-black-friday-video",
+      "snippet": "Retailers had plenty of reasons to be worried about this year’s holiday season, but the latest round of earnings, from Dick’s Sporting Goods Inc. to Kohl’s Corp. and Dollar Tree Inc., show that shoppers are still…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 26, 8:08 AM",
+      "time": "Nov 26, 7:18 AM",
       "coverage": 3,
-      "ts": 1795698533000
-    },
-    {
-      "title": "Why is Imperial Brands stock surging today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-imperial-brands-stock-surging-today-93CH-5052503",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "time": "Nov 26, 8:08 AM",
-      "coverage": 3,
-      "ts": 1795698511000
-    },
-    {
-      "title": "Musk pledges two SpaceX shares for every U.S. child in $18-billion AI charm offensive",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/article-musk-pledges-two-spacex-shares-for-every-us-child-in-18-billion-ai/",
-      "snippet": "Share giveaway announced hours after company won approval to deploy 1 million satellites for data centres in space",
-      "image": "https://www.theglobeandmail.com/resizer/v2/GWCJRYALWNCG7AKYRMLVYZEVF4.jpg?auth=bda122dc55db1338facde98e5bba9bad1bd9ef63a243c10d880ad2f637bca9f1&smart=true&width=8640&height=5760",
-      "time": "Nov 26, 7:37 AM",
-      "coverage": 3,
-      "ts": 1795696629000
+      "ts": 1795695493000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "9:00 AM",
+      "title": "Globe and Mail — Recalibrate your brain to savour the good moments of each day",
+      "url": "https://www.theglobeandmail.com/business/careers/talent/article-recalibrate-your-brain-to-savour-the-good-moments-of-each-day/",
+      "ts": 1795701600000
+    },
+    {
       "time": "8:36 AM",
       "title": "Investing.com — Brazil’s Grupo Fictor, former bidder for Banco Master, investigated in fraud probe, source says",
       "url": "https://www.investing.com/news/stock-market-news/brazils-grupo-fictor-former-bidder-for-banco-master-investigated-in-fraud-probe-source-says-5052520",
@@ -255,16 +261,16 @@
       "ts": 1795699795000
     },
     {
-      "time": "8:27 AM",
-      "title": "WSJ Markets — Altria Considers $157 Billion Tie-Up With Imperial Brands",
-      "url": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=rss_markets_main",
-      "ts": 1795699620000
-    },
-    {
       "time": "8:24 AM",
       "title": "MarketWatch — Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
       "url": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
       "ts": 1795699440000
+    },
+    {
+      "time": "8:19 AM",
+      "title": "CNBC — Semiconductor chips are the new oil. Here's why",
+      "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "ts": 1795699165000
     },
     {
       "time": "8:09 AM",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Global Stocks Climb as AI Trade Rebounds",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-opening-trade-11-26-2026-video",
       "ts": 1795698080000
-    },
-    {
-      "time": "8:00 AM",
-      "title": "Investing.com — Stocks climb as traders shrug off latest US tariff salvo",
-      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
-      "ts": 1795698046000
     }
   ]
 }
