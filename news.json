@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:38 PM ET",
+  "generated_at": "Nov 25, 2026, 8:42 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795657139519,
+  "updated_ts": 1795657350878,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "8:39 PM",
+      "title": "WSJ Markets — Asian Currencies Consolidate, But Risk-Off Sentiment Might Weigh",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "ts": 1795657140000
+    },
+    {
       "time": "8:34 PM",
       "title": "CNBC — Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
       "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
@@ -302,12 +308,6 @@
       "title": "Bloomberg — Modi’s Criticism of India Inc. Puts Weak Investment in Focus",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/modi-s-criticism-of-india-inc-puts-weak-investment-in-focus",
       "ts": 1795654800000
-    },
-    {
-      "time": "7:57 PM",
-      "title": "Investing.com — Flight Centre probes data breach in booking system, shares fall",
-      "url": "https://www.investing.com/news/stock-market-news/flight-centre-probes-data-breach-in-booking-system-shares-fall-5051833",
-      "ts": 1795654653000
     }
   ]
 }
