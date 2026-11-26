@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:34 PM ET",
+  "generated_at": "Nov 25, 2026, 11:37 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795667666916,
+  "updated_ts": 1795667867551,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -64,6 +64,26 @@
       "ts": 1795650653000
     },
     {
+      "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
+      "snippet": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/elon-musk-spacex-trump-accounts-donation.jpg",
+      "time": "Nov 25, 11:29 PM",
+      "coverage": 4,
+      "ts": 1795667395000
+    },
+    {
+      "title": "Musk says every child in the US will get two SpaceX shares",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/musk-says-every-child-in-the-us-will-get-two-spacex-shares-5052006",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP08E_L.jpg",
+      "time": "Nov 25, 11:18 PM",
+      "coverage": 4,
+      "ts": 1795666704000
+    },
+    {
       "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
@@ -84,16 +104,6 @@
       "time": "Nov 25, 10:42 PM",
       "coverage": 2,
       "ts": 1795664545000
-    },
-    {
-      "title": "Musk says every child in the US will get two SpaceX shares",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/musk-says-every-child-in-the-us-will-get-two-spacex-shares-5052006",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP08E_L.jpg",
-      "time": "Nov 25, 11:18 PM",
-      "coverage": 3,
-      "ts": 1795666704000
     },
     {
       "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
@@ -134,15 +144,6 @@
       "time": "Nov 23, 12:49 PM",
       "coverage": 6,
       "ts": 1795456173000
-    },
-    {
-      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
-      "ts": 1795617488000
     }
   ],
   "outlets": [
@@ -261,6 +262,12 @@
       "ts": 1795665615000
     },
     {
+      "time": "11:00 PM",
+      "title": "Bloomberg — China-Backed Pakistan Exchange Prepares to Launch Stock Options",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/china-backed-pakistan-exchange-prepares-to-launch-stock-options",
+      "ts": 1795665615000
+    },
+    {
       "time": "10:36 PM",
       "title": "Bloomberg — Japan Life Insurers Complicate Yen Fight With Record Low Hedging",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-life-insurers-complicate-yen-fight-with-record-low-hedging",
@@ -301,12 +308,6 @@
       "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
       "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
       "ts": 1795661301000
-    },
-    {
-      "time": "9:45 PM",
-      "title": "Investing.com — U.S. judge blocks FCC from revoking Disney’s ABC TV licenses",
-      "url": "https://www.investing.com/news/stock-market-news/us-judge-blocks-fcc-from-revoking-disneys-abc-tv-licenses-5051928",
-      "ts": 1795661106000
     }
   ]
 }
