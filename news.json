@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:52 PM ET",
+  "generated_at": "Nov 26, 2026, 6:55 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795737152265,
+  "updated_ts": 1795737352768,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -9,9 +9,9 @@
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
       "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
       "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
-      "time": "Nov 26, 6:10 PM",
+      "time": "Nov 26, 6:54 PM",
       "coverage": 5,
-      "ts": 1795734627000
+      "ts": 1795737290000
     },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -243,6 +243,12 @@
       "ts": 1795736539000
     },
     {
+      "time": "6:41 PM",
+      "title": "Bloomberg — Japan Bank Shares Risk Further Unwind as Funding Cost Bites",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-bank-shares-risk-further-unwind-as-funding-cost-bites",
+      "ts": 1795736496000
+    },
+    {
       "time": "6:05 PM",
       "title": "Bloomberg — Latest Oil Market News and Analysis for Nov. 27",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
@@ -301,12 +307,6 @@
       "title": "Globe and Mail — Premier Ford, Unifor leader call on Ottawa to scrap greenhouse gas rules for Canadian automakers",
       "url": "https://www.theglobeandmail.com/business/article-working-premier-ford-unifor-leader-call-on-ottawa-to-scrap-greenhouse/",
       "ts": 1795728906000
-    },
-    {
-      "time": "4:30 PM",
-      "title": "Investing.com — Mexico stocks lower at close of trade; S&P/BMV IPC down 1.33%",
-      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-133-5052726",
-      "ts": 1795728632000
     }
   ]
 }
