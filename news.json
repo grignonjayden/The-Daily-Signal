@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:13 AM ET",
+  "generated_at": "Nov 26, 2026, 9:16 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795702392077,
+  "updated_ts": 1795702591702,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -237,8 +237,20 @@
   ],
   "ticker": [
     {
+      "time": "9:11 AM",
+      "title": "Bloomberg — ¿Qué causó las fallas tecnológicas en EE.UU.?",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/-que-causo-las-fallas-tecnologicas-en-ee-uu-video",
+      "ts": 1795702311000
+    },
+    {
+      "time": "9:11 AM",
+      "title": "Globe and Mail — Premier Ford, Unifor leader call on feds to scrap greenhouse gas rules for Canadian automakers",
+      "url": "https://www.theglobeandmail.com/business/article-ford-unifor-greenhouse-gas-rules-automakers-stellantis-plant/",
+      "ts": 1795702268000
+    },
+    {
       "time": "9:05 AM",
-      "title": "Bloomberg — Spain's De Cos Set to Succeed Lagarde as ECB President (Video)",
+      "title": "Bloomberg — Spain's De Cos Set to Succeed Lagarde as ECB President",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n",
       "ts": 1795701943000
     },
@@ -295,18 +307,6 @@
       "title": "MarketWatch — Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
       "url": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
       "ts": 1795699440000
-    },
-    {
-      "time": "8:19 AM",
-      "title": "CNBC — Semiconductor chips are the new oil. Here's why",
-      "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-      "ts": 1795699165000
-    },
-    {
-      "time": "8:09 AM",
-      "title": "Bloomberg — ECB Officials Saw More Tightening With Inflation Outlook Worse",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ecb-officials-saw-more-tightening-with-inflation-outlook-worse",
-      "ts": 1795698576000
     }
   ]
 }
