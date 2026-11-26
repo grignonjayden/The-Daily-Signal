@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 26, 2026, 12:39 PM ET",
+  "generated_at": "Nov 26, 2026, 1:13 PM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -13,18 +13,6 @@
       "sector": "AI & tech",
       "time": "Nov 26",
       "date": "2026-11-26T16:57:42.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Backgrounder: Expanded Fund opens new call for proposals, expands incentives for sovereign AI compute capacity, and announces funding for 45 Canadian companies",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/backgrounder-government-of-canada-announces-support-for-45-canadian-companies-through-the-ai-compute-access-fund.html",
-      "image": "",
-      "source": "ISED",
-      "badge": "ISED",
-      "analysis": false,
-      "sector": "AI & tech",
-      "time": "Nov 26",
-      "date": "2026-11-26T16:57:37.000Z",
       "group": "sector"
     },
     {
@@ -97,6 +85,18 @@
       "sector": "Media",
       "time": "Nov 25",
       "date": "2026-11-25T14:55:08.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Joint statement by the Minister of Industry of Canada and the Minister responsible for Canada Economic Development for Quebec Regions, and the Minister of Science, Technology and Innovation of South Africa on advancing bilateral cooperation in science, technology, and innovation",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/joint-statement-by-the-minister-of-industry-of-canada-and-the-minister-responsible-for-canada-economic-development-for-quebec-regions-and-the-minis.html",
+      "image": "",
+      "source": "ISED",
+      "badge": "ISED",
+      "analysis": false,
+      "sector": "AI & tech",
+      "time": "Nov 24",
+      "date": "2026-11-24T23:37:17.000Z",
       "group": "sector"
     },
     {
@@ -220,14 +220,14 @@
   ],
   "feed_status": [
     {
-      "source": "Bank of Canada",
-      "fetched": 20,
-      "kept": 3
-    },
-    {
       "source": "CBC News",
       "fetched": 40,
       "kept": 2
+    },
+    {
+      "source": "Bank of Canada",
+      "fetched": 20,
+      "kept": 3
     },
     {
       "source": "Finance Canada",
@@ -235,13 +235,18 @@
       "kept": 4
     },
     {
-      "source": "CDEV",
-      "fetched": 20,
-      "kept": 0
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 2
     },
     {
       "source": "Canada Media Fund",
       "fetched": 24,
+      "kept": 0
+    },
+    {
+      "source": "CDEV",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -253,11 +258,6 @@
       "source": "C.D. Howe Institute",
       "fetched": 24,
       "kept": 4
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 2
     }
   ]
 }

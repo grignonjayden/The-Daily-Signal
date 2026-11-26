@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:10 PM ET",
+  "generated_at": "Nov 26, 2026, 1:13 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795716605613,
+  "updated_ts": 1795716806294,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -219,8 +219,6 @@
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
       "snippet": "The Securities and Exchange Commission’s&nbsp;Investor Advisory Committee will hold a virtual public meeting on Dec. 3, at 9:30 a.m. ET to discuss the trading of tokenized securities, bankruptcy, and accounting…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
       "time": "Nov 25, 9:10 AM",
       "ts": 1795615824000
     },
@@ -229,13 +227,17 @@
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
       "snippet": "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Audit Trail (CAT). The Commission is proposing to rescind…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
       "time": "Nov 20, 1:03 PM",
       "ts": 1795197804000
     }
   ],
   "ticker": [
+    {
+      "time": "1:00 PM",
+      "title": "Bloomberg — New Zealand Poised to Learn Who Can Form Its Next Government",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/new-zealand-poised-to-learn-who-can-form-its-next-government",
+      "ts": 1795716000000
+    },
     {
       "time": "12:57 PM",
       "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
@@ -301,12 +303,6 @@
       "title": "Investing.com — U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 1.88%",
       "url": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-188-5052644",
       "ts": 1795712920000
-    },
-    {
-      "time": "12:08 PM",
-      "title": "Investing.com — Spain stocks higher at close of trade; IBEX 35 up 2.35%",
-      "url": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-235-5052643",
-      "ts": 1795712897000
     }
   ]
 }
