@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:25 PM ET",
+  "generated_at": "Nov 26, 2026, 6:29 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795735539472,
+  "updated_ts": 1795735740129,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -44,16 +44,6 @@
       "ts": 1795707000000
     },
     {
-      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
-      "snippet": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559274-1795616819098-gettyimages-2306584360-vcg111684383907.jpeg?v=1795616838&w=1920&h=1080",
-      "time": "Nov 25, 10:19 PM",
-      "coverage": 6,
-      "ts": 1795663184000
-    },
-    {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
@@ -72,6 +62,16 @@
       "time": "Nov 26, 4:30 PM",
       "coverage": 3,
       "ts": 1795728604000
+    },
+    {
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "snippet": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559274-1795616819098-gettyimages-2306584360-vcg111684383907.jpeg?v=1795616838&w=1920&h=1080",
+      "time": "Nov 25, 10:19 PM",
+      "coverage": 5,
+      "ts": 1795663184000
     },
     {
       "title": "Ford CEO on Le Mans, New Electric Pickup and Trade Talks",
@@ -105,17 +105,6 @@
       "ts": 1795704259000
     },
     {
-      "title": "Trans-Oil Warns of Going-Concern Risk Pending Debt Waiver",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/trans-oil-warns-of-going-concern-risk-pending-debt-waiver",
-      "snippet": "Trans-Oil Group has yet to secure a waiver after breaching financial covenants on a key export facility, adding to liquidity pressure at the agricultural commodities firm.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 11:39 AM",
-      "coverage": 3,
-      "ts": 1795711169000
-    },
-    {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
@@ -124,6 +113,17 @@
       "time": "Nov 25, 5:27 PM",
       "coverage": 5,
       "ts": 1795645620000
+    },
+    {
+      "title": "Lula Taps Bradesco Chairman as Finance Chief to Reassure Markets",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/lula-taps-bradesco-chairman-as-finance-chief-to-reassure-markets",
+      "snippet": "President Luiz Inácio Lula da Silva tapped Bradesco Chairman Luiz Carlos Trabuco Cappi as finance minister, turning to one of Brazil’s best-known bankers to restore investor confidence in the nation’s finances.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 6:18 PM",
+      "coverage": 2,
+      "ts": 1795735101000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
