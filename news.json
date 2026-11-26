@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:38 AM ET",
+  "generated_at": "Nov 26, 2026, 7:41 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795696713726,
+  "updated_ts": 1795696914852,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -238,6 +238,18 @@
   ],
   "ticker": [
     {
+      "time": "7:37 AM",
+      "title": "MarketWatch — Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
+      "url": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
+      "ts": 1795696620000
+    },
+    {
+      "time": "7:36 AM",
+      "title": "WSJ Markets — Euro’s Recovery Prospects Look Limited",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "ts": 1795696560000
+    },
+    {
       "time": "7:28 AM",
       "title": "Bloomberg — Congo Pitches $15 Billion Infrastructure Deals as Mining Booms",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-pitches-15-billion-infrastructure-deals-as-mining-booms",
@@ -296,18 +308,6 @@
       "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
       "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-fd3f4387?mod=rss_markets_main",
       "ts": 1795694400000
-    },
-    {
-      "time": "6:56 AM",
-      "title": "Bloomberg — Trump’s China Tariffs Threaten Fresh Trade Tensions",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-pulse-with-francine-lacqua-11-26-2026-video",
-      "ts": 1795694211000
-    },
-    {
-      "time": "6:54 AM",
-      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-635bd624?mod=rss_markets_main",
-      "ts": 1795694040000
     }
   ]
 }
