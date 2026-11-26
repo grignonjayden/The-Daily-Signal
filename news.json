@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 9:16 PM ET",
+  "generated_at": "Nov 25, 2026, 9:19 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795659382100,
+  "updated_ts": 1795659583810,
   "articles": [
+    {
+      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+      "snippet": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559710-1795655986080-gettyimages-2290083650-golba-dailylif260808_npNHs.jpeg?v=1795656043&w=1920&h=1080",
+      "time": "Nov 25, 9:15 PM",
+      "coverage": 5,
+      "ts": 1795659351000
+    },
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
@@ -54,16 +64,6 @@
       "ts": 1795656994000
     },
     {
-      "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
-      "snippet": "The U.S. International Development Finance Corporation and Catena Investments, based in the United Arab Emirates, are also parties to the deal, the sources said.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107029888-1647265894397-gettyimages-1239189173-US_GAS_PRICES.jpeg?v=1795621185&w=1920&h=1080",
-      "time": "Nov 25, 11:00 AM",
-      "coverage": 5,
-      "ts": 1795622445000
-    },
-    {
       "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
@@ -95,15 +95,14 @@
       "ts": 1795613399000
     },
     {
-      "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
+      "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
-      "snippet": "Natural gas futures ended the session lower after the EIA’s weekly storage report showed a 24 Bcf draw.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 4:32 PM",
-      "coverage": 4,
-      "ts": 1795642320000
+      "url": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
+      "snippet": "Nvidia’s sales chief dated a Super Micro executive for years. Now they have married and her former company has been linked to chip smuggling.",
+      "image": "https://images.wsj.net/im-02809795",
+      "time": "Nov 25, 9:00 PM",
+      "coverage": 3,
+      "ts": 1795658400000
     },
     {
       "title": "Bank of Canada governor says inflation forecast is lower",
@@ -116,15 +115,15 @@
       "ts": 1795614929000
     },
     {
-      "title": "Latest Oil Market News and Analysis for Nov. 26",
+      "title": "KK Mart Starts $112 Million IPO Delayed by Malaysia Socks Row",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
-      "snippet": "Oil held a two-day gain as continued hostilities in the Middle East threatened to disrupt the recovery in the region’s crude exports.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kk-mart-starts-112-million-ipo-delayed-by-malaysia-socks-row",
+      "snippet": "KK Mart Retail Bhd., the Malaysian convenience-store chain whose first attempt at an initial public offering was delayed by a religious controversy, is launching a 462 million ringgit ($112 million) share sale as it…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 25, 6:03 PM",
-      "coverage": 3,
-      "ts": 1795647795000
+      "time": "Nov 25, 9:03 PM",
+      "coverage": 2,
+      "ts": 1795658591000
     },
     {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
@@ -244,12 +243,6 @@
       "ts": 1795658470000
     },
     {
-      "time": "9:00 PM",
-      "title": "WSJ Markets — The Other Nvidia Romance With an Executive at a Company Linked to China",
-      "url": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
-      "ts": 1795658400000
-    },
-    {
       "time": "8:54 PM",
       "title": "Investing.com — Malaysia regulator seeks $146 million damages from Google over ’harmful’ content",
       "url": "https://www.investing.com/news/stock-market-news/malaysia-regulator-files-lawsuits-against-google-seeking-146-million-over-harmful-content-5049766",
@@ -308,6 +301,12 @@
       "title": "Bloomberg — Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says",
       "ts": 1795655501000
+    },
+    {
+      "time": "8:10 PM",
+      "title": "CNBC — Hedge funds are no longer just for the rich. They’re coming for everyday investors",
+      "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+      "ts": 1795655458000
     }
   ]
 }
