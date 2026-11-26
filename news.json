@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:14 AM ET",
+  "generated_at": "Nov 26, 2026, 12:18 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795670086573,
+  "updated_ts": 1795670286715,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "12:16 AM",
+      "title": "CNBC — North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+      "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
+      "ts": 1795670198000
+    },
+    {
       "time": "Nov 25",
       "title": "CNBC — South Korea's Kospi leads gains as tech rebound lifts Asia markets",
       "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
@@ -302,12 +308,6 @@
       "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
       "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
       "ts": 1795663465000
-    },
-    {
-      "time": "Nov 25",
-      "title": "CNBC — S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
-      "ts": 1795663184000
     }
   ]
 }
