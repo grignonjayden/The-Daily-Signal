@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:51 AM ET",
+  "generated_at": "Nov 26, 2026, 1:55 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795675912254,
+  "updated_ts": 1795676113795,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -244,6 +244,12 @@
       "ts": 1795675586000
     },
     {
+      "time": "1:45 AM",
+      "title": "Bloomberg — FTSE 100 to Rebound Following Another Tumultuous Session - Live Updates",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-11-26/ftse-100-live-updates-pound-bonds-dollar-ai-stocks-gold-prices-tube-strike-boe-report-what-s-moving-uk-markets-right-now-markets-today",
+      "ts": 1795675544000
+    },
+    {
       "time": "1:43 AM",
       "title": "Investing.com — MiniMax linked to unauthorized access of confidential AI user data - report",
       "url": "https://www.investing.com/news/stock-market-news/minimax-linked-to-unauthorized-access-of-confidential-ai-user-data--report-93CH-5052113",
@@ -302,12 +308,6 @@
       "title": "Investing.com — Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
       "url": "https://www.investing.com/news/stock-market-news/kioxia-jumps-14-after-nvidia-collaboration-as-chip-stocks-rebound-5052074",
       "ts": 1795672724000
-    },
-    {
-      "time": "12:52 AM",
-      "title": "Bloomberg — BOK Hikes Key Rate to 3.25%",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video",
-      "ts": 1795672331000
     }
   ]
 }
