@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:14 AM ET",
+  "generated_at": "Nov 26, 2026, 6:17 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795691648374,
+  "updated_ts": 1795691848349,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "6:12 AM",
+      "title": "Bloomberg — UniCredit Clears Final Hurdle to Take Over Commerzbank",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video-mwxge90q",
+      "ts": 1795691566000
+    },
+    {
       "time": "6:03 AM",
       "title": "Globe and Mail — Defence entrepreneurs dispel gold-rush mentality amid federal spending boom",
       "url": "https://www.theglobeandmail.com/business/economy/article-defence-entrepreneurs-dispel-gold-rush-mentality-amid-federal-spending/",
@@ -303,12 +309,6 @@
       "title": "Investing.com — UK miners rise as copper rebounds from 11-month low",
       "url": "https://www.investing.com/news/stock-market-news/uk-miners-rise-as-copper-rebounds-from-11month-low-5052372",
       "ts": 1795688649000
-    },
-    {
-      "time": "5:11 AM",
-      "title": "MarketWatch — The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
-      "url": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
-      "ts": 1795687860000
     }
   ]
 }
