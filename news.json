@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:05 AM ET",
+  "generated_at": "Nov 26, 2026, 1:08 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795673100661,
+  "updated_ts": 1795673301008,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -64,34 +64,14 @@
       "ts": 1795670520000
     },
     {
-      "title": "Musk says every U.S. child will receive two SpaceX shares",
+      "title": "Nvidia stops shipping AI servers to 4 Southeast Asian countries- FT",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/musk-says-every-us-child-will-receive-two-spacex-shares-5052023",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-stops-shipping-ai-servers-to-4-southeast-asian-countries-ft-5052075",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6M02C_L.jpg",
-      "time": "Nov 26, 12:06 AM",
-      "coverage": 4,
-      "ts": 1795669599000
-    },
-    {
-      "title": "Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-taiwan-south-korea-rebound-nvidia-risks-linger-5052021",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEB1H0YB_M.jpg",
-      "time": "Nov 26, 12:01 AM",
-      "coverage": 4,
-      "ts": 1795669297000
-    },
-    {
-      "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
-      "snippet": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/elon-musk-spacex-trump-accounts-donation.jpg",
-      "time": "Nov 25, 11:29 PM",
-      "coverage": 4,
-      "ts": 1795667395000
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEK1L06T_L.jpg",
+      "time": "Nov 26, 12:59 AM",
+      "coverage": 2,
+      "ts": 1795672756000
     },
     {
       "title": "Canada Pitches Infrastructure Plan to UAE Investors",
@@ -103,6 +83,16 @@
       "time": "Nov 26, 12:16 AM",
       "coverage": 2,
       "ts": 1795670178000
+    },
+    {
+      "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
+      "snippet": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/elon-musk-spacex-trump-accounts-donation.jpg",
+      "time": "Nov 25, 11:29 PM",
+      "coverage": 3,
+      "ts": 1795667395000
     },
     {
       "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
@@ -123,6 +113,16 @@
       "fallback_image": true,
       "time": "Nov 25, 10:42 PM",
       "ts": 1795664545000
+    },
+    {
+      "title": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/kioxia-jumps-14-after-nvidia-collaboration-as-chip-stocks-rebound-5052074",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEB4C07I_M.jpg",
+      "time": "Nov 26, 12:58 AM",
+      "coverage": 2,
+      "ts": 1795672724000
     },
     {
       "title": "Volatility-weary investors fret as new U.S. tariffs add to tech pain",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:00 AM",
+      "title": "Investing.com — Taiwan stocks higher at close of trade; Taiwan Weighted up 2.79%",
+      "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-279-5052076",
+      "ts": 1795672804000
+    },
+    {
       "time": "12:52 AM",
       "title": "Bloomberg — BOK Hikes Key Rate to 3.25%",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video",
@@ -253,6 +259,12 @@
       "title": "Bloomberg — Xpeng President on Carmaker's Robot Push",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/xpeng-president-on-carmaker-s-robot-push-video",
       "ts": 1795671955000
+    },
+    {
+      "time": "12:42 AM",
+      "title": "Investing.com — Why is Shein stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-shein-stock-sliding-today-93CH-5052040",
+      "ts": 1795671764000
     },
     {
       "time": "12:41 AM",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
       "url": "https://www.investing.com/news/stock-market-news/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-5052028",
       "ts": 1795670302000
-    },
-    {
-      "time": "12:15 AM",
-      "title": "Bloomberg — DHL's Venter: Supply Chain Resilience Is Key to Growth",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/dhl-s-venter-supply-chain-resilience-is-key-to-growth-video",
-      "ts": 1795670133000
-    },
-    {
-      "time": "12:15 AM",
-      "title": "Investing.com — Bitcoin technical outlook: bear trend with oversold signals near $61,000",
-      "url": "https://www.investing.com/news/stock-market-news/bitcoin-technical-outlook-bear-trend-with-oversold-signals-near-61000-93CH-5052026",
-      "ts": 1795670132000
     }
   ]
 }
