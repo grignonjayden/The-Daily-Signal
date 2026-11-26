@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:08 AM ET",
+  "generated_at": "Nov 26, 2026, 2:12 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795676914860,
+  "updated_ts": 1795677121331,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -84,17 +84,6 @@
       "ts": 1795672756000
     },
     {
-      "title": "Canada Pitches Infrastructure Plan to UAE Investors",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/canada-pitches-infrastructure-plan-to-uae-investors-video",
-      "snippet": "Canada is entering a shifting global order from a position of strength, Finance Minister François-Philippe Champagne told Bloomberg TV in Dubai. He’s urging Middle Eastern investors to deploy long-term capital into…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 12:16 AM",
-      "coverage": 2,
-      "ts": 1795670178000
-    },
-    {
       "title": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/us-tariffs-raise-stakes-for-india-to-clinch-trade-deal-video",
@@ -124,6 +113,17 @@
       "time": "Nov 25, 8:29 AM",
       "coverage": 4,
       "ts": 1795613399000
+    },
+    {
+      "title": "Oil Rises as Houthis Attack Two Saudi Ports on Red Sea",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/oil-rises-as-houthis-attack-two-saudi-ports-on-red-sea-video",
+      "snippet": "Oil extended gains as Iran-backed Houthi rebels continued to target Saudi Arabia, including a refinery at Ras Tanura and the Red Sea ports of Jeddah and Jazan. Meanwhile, the United Arab Emirates said it plans to…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 1:31 AM",
+      "coverage": 2,
+      "ts": 1795674676000
     },
     {
       "title": "Volatility-weary investors fret as new U.S. tariffs add to tech pain",
@@ -303,10 +303,10 @@
       "ts": 1795674734000
     },
     {
-      "time": "1:31 AM",
-      "title": "Bloomberg — Oil Rises as Houthis Attack Two Saudi Ports on Red Sea",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/oil-rises-as-houthis-attack-two-saudi-ports-on-red-sea-video",
-      "ts": 1795674676000
+      "time": "1:27 AM",
+      "title": "Bloomberg — Guinea Lawmakers Approve Law to Establish Sovereign Wealth Fund",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/guinea-lawmakers-approve-law-to-establish-sovereign-wealth-fund",
+      "ts": 1795674467000
     }
   ]
 }
