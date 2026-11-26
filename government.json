@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 26, 2026, 2:42 PM ET",
+  "generated_at": "Nov 26, 2026, 2:53 PM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -97,18 +97,6 @@
       "sector": "AI & tech",
       "time": "Nov 24",
       "date": "2026-11-24T23:37:17.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
-      "url": "https://www.cbc.ca/news/politics/pentagon-criticizes-canadian-military-readiness-9.7433335?cmp=rss",
-      "image": "https://i.cbc.ca/ais/981af887-be87-4eae-bea5-79e107f3f6cc,1795476335739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C47%2C3519%2C1979%29%3B",
-      "source": "CBC News",
-      "badge": "CBC",
-      "analysis": false,
-      "sector": "Defence",
-      "time": "Nov 23",
-      "date": "2026-11-23T23:32:21.000Z",
       "group": "sector"
     },
     {
@@ -225,19 +213,9 @@
       "kept": 3
     },
     {
-      "source": "CDEV",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
       "source": "CBC News",
       "fetched": 40,
-      "kept": 2
+      "kept": 1
     },
     {
       "source": "CP24",
@@ -245,7 +223,7 @@
       "kept": 2
     },
     {
-      "source": "ISED",
+      "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
     },
@@ -253,6 +231,16 @@
       "source": "Canada Media Fund",
       "fetched": 24,
       "kept": 0
+    },
+    {
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 4
     },
     {
       "source": "C.D. Howe Institute",
