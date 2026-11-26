@@ -1,8 +1,32 @@
 {
-  "generated_at": "Nov 26, 2026, 11:33 AM ET",
+  "generated_at": "Nov 26, 2026, 12:06 PM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Government of Canada boosts AI innovation from Canadian SMEs with $700 million expansion of the AI Compute Access Fund",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-boosts-the-ai-compute-access-fund-with-700-million-expansion.html",
+      "image": "",
+      "source": "ISED",
+      "badge": "ISED",
+      "analysis": false,
+      "sector": "AI & tech",
+      "time": "Nov 26",
+      "date": "2026-11-26T16:57:42.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Backgrounder: Expanded Fund opens new call for proposals, expands incentives for sovereign AI compute capacity, and announces funding for 45 Canadian companies",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/backgrounder-government-of-canada-announces-support-for-45-canadian-companies-through-the-ai-compute-access-fund.html",
+      "image": "",
+      "source": "ISED",
+      "badge": "ISED",
+      "analysis": false,
+      "sector": "AI & tech",
+      "time": "Nov 26",
+      "date": "2026-11-26T16:57:37.000Z",
+      "group": "sector"
+    },
     {
       "title": "Eric Ham: Trump’s hypocrisy on China exposes Washington’s latest bluff against Ottawa",
       "url": "https://www.cp24.com/news/canada/2026/11/26/eric-ham-trumps-hypocrisy-on-china-exposes-washingtons-latest-bluff-against-ottawa/",
@@ -76,18 +100,6 @@
       "group": "sector"
     },
     {
-      "title": "Joint statement by the Minister of Industry of Canada and the Minister responsible for Canada Economic Development for Quebec Regions, and the Minister of Science, Technology and Innovation of South Africa on advancing bilateral cooperation in science, technology, and innovation",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/joint-statement-by-the-minister-of-industry-of-canada-and-the-minister-responsible-for-canada-economic-development-for-quebec-regions-and-the-minis.html",
-      "image": "",
-      "source": "ISED",
-      "badge": "ISED",
-      "analysis": false,
-      "sector": "AI & tech",
-      "time": "Nov 24",
-      "date": "2026-11-24T23:37:17.000Z",
-      "group": "sector"
-    },
-    {
       "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
       "url": "https://www.cbc.ca/news/politics/pentagon-criticizes-canadian-military-readiness-9.7433335?cmp=rss",
       "image": "https://i.cbc.ca/ais/981af887-be87-4eae-bea5-79e107f3f6cc,1795476335739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C47%2C3519%2C1979%29%3B",
@@ -100,16 +112,16 @@
       "group": "sector"
     },
     {
-      "title": "Government of Canada announces major investment in Ford Motor Company of Canada that will strengthen auto manufacturing in Ontario and Canada",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-announces-major-investment-in-ford-motor-company-of-canada-that-will-strengthen-auto-manufacturing-in-ontario-and-canada.html",
+      "title": "Minister Champagne introduces legislation to implement Budget 2026: Masters of our destiny",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-introduces-legislation-to-implement-budget-2026-masters-of-our-destiny.html",
       "image": "",
-      "source": "ISED",
-      "badge": "ISED",
+      "source": "Finance Canada",
+      "badge": "FIN",
       "analysis": false,
-      "sector": "Autos",
-      "time": "Nov 20",
-      "date": "2026-11-20T16:36:44.000Z",
-      "group": "sector"
+      "sector": "Fiscal",
+      "time": "Nov 26",
+      "date": "2026-11-26T16:29:55.000Z",
+      "group": "policy"
     },
     {
       "title": "Bank of Canada announces 2026-27 scholarship recipients",
@@ -170,18 +182,6 @@
       "time": "Nov 25",
       "date": "2026-11-25T13:30:36.000Z",
       "group": "policy"
-    },
-    {
-      "title": "Bank of Canada expects 2nd round of oil-linked inflation in 2027, Macklem says",
-      "url": "https://www.cbc.ca/news/business/bank-canada-governor-tiff-macklem-speech-9.7433693?cmp=rss",
-      "image": "https://i.cbc.ca/ais/065d45b8-8024-4489-92c9-f21ada518486,1795552096676/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B",
-      "source": "CBC News",
-      "badge": "CBC",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 24",
-      "date": "2026-11-24T18:22:26.000Z",
-      "group": "policy"
     }
   ],
   "sources": [
@@ -226,7 +226,12 @@
     },
     {
       "source": "CBC News",
-      "fetched": 0,
+      "fetched": 40,
+      "kept": 2
+    },
+    {
+      "source": "CDEV",
+      "fetched": 20,
       "kept": 0
     },
     {
@@ -235,19 +240,14 @@
       "kept": 4
     },
     {
-      "source": "CDEV",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 2
-    },
-    {
       "source": "Canada Media Fund",
       "fetched": 24,
       "kept": 0
+    },
+    {
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
+      "kept": 4
     },
     {
       "source": "ISED",
@@ -255,9 +255,9 @@
       "kept": 4
     },
     {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
-      "kept": 4
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 2
     }
   ]
 }
