@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:00 AM ET",
+  "generated_at": "Nov 26, 2026, 6:04 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795690835517,
+  "updated_ts": 1795691044506,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "6:01 AM",
+      "title": "CNBC — The Nobel-winning science turning ‘water harvesting’ into a commercial race",
+      "url": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
+      "ts": 1795690873000
+    },
+    {
       "time": "5:55 AM",
       "title": "WSJ Markets — Lilly, Novo Supplier Bachem Hit by Share Drop After Growth Plans Disappoint",
       "url": "https://www.wsj.com/business/earnings/lilly-novo-supplier-bachem-hit-by-share-drop-after-growth-plans-disappoint-d3bcf6fa?mod=rss_markets_main",
@@ -248,12 +254,6 @@
       "title": "Bloomberg — Romanian Far-Right Leader Simion Charged With Inciting Violence",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/romanian-far-right-leader-simion-charged-with-inciting-violence",
       "ts": 1795690158000
-    },
-    {
-      "time": "5:46 AM",
-      "title": "CNBC — The Nobel-winning science turning ‘water harvesting’ into a commercial race",
-      "url": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
-      "ts": 1795689983000
     },
     {
       "time": "5:35 AM",
