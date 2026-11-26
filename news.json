@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 26, 2026, 5:37 AM ET",
+  "generated_at": "Nov 26, 2026, 5:40 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795689426656,
+  "updated_ts": 1795689628457,
   "articles": [
+    {
+      "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+      "snippet": "A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out",
+      "image": "https://images.mktw.net/im-44727230",
+      "time": "Nov 26, 5:37 AM",
+      "coverage": 6,
+      "ts": 1795689420000
+    },
     {
       "title": "FINAL HOUR: Your last chance to grab our exclusive Black Friday deal of the year",
       "source": "Investing.com",
@@ -10,7 +20,7 @@
       "snippet": "",
       "image": "https://content-media.investing.com/news/moved_LYNXMPEGAQ11L_L.jpg",
       "time": "Nov 26, 5:10 AM",
-      "coverage": 3,
+      "coverage": 4,
       "ts": 1795687817000
     },
     {
@@ -34,14 +44,34 @@
       "ts": 1795655700000
     },
     {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 25, 5:45 PM",
-      "coverage": 5,
-      "ts": 1795646700000
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
+      "time": "Nov 26, 4:51 AM",
+      "coverage": 4,
+      "ts": 1795686700000
+    },
+    {
+      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
+      "snippet": "Sentiment was helped by an upward revision to third-quarter GDP and clarification that new U.S. tariffs on China and dozens of other nations will replace rather than add to previous ones.",
+      "image": "https://images.wsj.net/im-34152034",
+      "time": "Nov 26, 4:47 AM",
+      "coverage": 4,
+      "ts": 1795686420000
+    },
+    {
+      "title": "BLACK FRIDAY SPECIAL: Only until today can you lock in the best sale of the year",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-special-only-until-today-can-you-lock-in-the-best-sale-of-the-year-5052313",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEGAQ11L_L.jpg",
+      "time": "Nov 26, 4:45 AM",
+      "coverage": 4,
+      "ts": 1795686329000
     },
     {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
@@ -52,36 +82,6 @@
       "time": "Nov 25, 5:27 PM",
       "coverage": 5,
       "ts": 1795645620000
-    },
-    {
-      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
-      "snippet": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558516-17955383482025-12-03t204438z_1611070846_rc269iamutg0_rtrmadp_0_nvidia-huang-congress.jpeg?v=1795635517&w=1920&h=1080",
-      "time": "Nov 25, 4:00 PM",
-      "coverage": 5,
-      "ts": 1795640408000
-    },
-    {
-      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
-      "snippet": "Asian markets rose Thursday as investors brushed aside new U.S. tariff proposals and Wall Street recouped most of its sharp losses ahead of the Thanksgiving holiday.",
-      "image": "https://images.wsj.net/im-98798504",
-      "time": "Nov 26, 12:22 AM",
-      "coverage": 4,
-      "ts": 1795670520000
-    },
-    {
-      "title": "Stocks climb as traders shrug off latest US tariff salvo",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP03E_L.jpg",
-      "time": "Nov 26, 4:54 AM",
-      "coverage": 3,
-      "ts": 1795686866000
     },
     {
       "title": "Trump’s Tariffs Blunt Appeal of Moving Production Out of China",
@@ -271,6 +271,12 @@
       "ts": 1795686938000
     },
     {
+      "time": "4:54 AM",
+      "title": "Investing.com — Stocks climb as traders shrug off latest US tariff salvo",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
+      "ts": 1795686866000
+    },
+    {
       "time": "4:52 AM",
       "title": "Bloomberg — German Bond Haven Trade Shifts as Investors Turn to Asset Swaps",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/german-bond-haven-trade-shifts-as-investors-turn-to-asset-swaps",
@@ -283,28 +289,22 @@
       "ts": 1795686739000
     },
     {
-      "time": "4:51 AM",
-      "title": "CNBC — Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "ts": 1795686700000
-    },
-    {
-      "time": "4:47 AM",
-      "title": "WSJ Markets — U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
-      "ts": 1795686420000
-    },
-    {
-      "time": "4:45 AM",
-      "title": "Investing.com — BLACK FRIDAY SPECIAL: Only until today can you lock in the best sale of the year",
-      "url": "https://www.investing.com/news/stock-market-news/black-friday-special-only-until-today-can-you-lock-in-the-best-sale-of-the-year-5052313",
-      "ts": 1795686329000
-    },
-    {
       "time": "4:39 AM",
       "title": "Investing.com — SBO shares rise on strong Q3 orders in precision technology",
       "url": "https://www.investing.com/news/stock-market-news/sbo-shares-rise-on-strong-q3-orders-in-precision-technology-93CH-5052310",
       "ts": 1795685992000
+    },
+    {
+      "time": "4:36 AM",
+      "title": "Investing.com — Norse Atlantic shares rebound 23% after flight halt, bankruptcy warning",
+      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-shares-fall-18-as-flight-halt-raises-bankruptcy-risk-5052227",
+      "ts": 1795685813000
+    },
+    {
+      "time": "4:12 AM",
+      "title": "Investing.com — Why is Safestore stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-safestore-stock-climbing-today-93CH-5052300",
+      "ts": 1795684370000
     }
   ]
 }
