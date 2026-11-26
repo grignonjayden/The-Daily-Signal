@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:20 PM ET",
+  "generated_at": "Nov 25, 2026, 10:23 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795663207505,
+  "updated_ts": 1795663416892,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,16 +237,16 @@
   ],
   "ticker": [
     {
+      "time": "10:19 PM",
+      "title": "CNBC — S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "ts": 1795663184000
+    },
+    {
       "time": "10:09 PM",
       "title": "CNBC — K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
       "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
       "ts": 1795662587000
-    },
-    {
-      "time": "9:57 PM",
-      "title": "CNBC — S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
-      "ts": 1795661852000
     },
     {
       "time": "9:48 PM",
