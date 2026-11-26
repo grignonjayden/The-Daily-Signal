@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:47 AM ET",
+  "generated_at": "Nov 26, 2026, 9:50 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795704450754,
+  "updated_ts": 1795704650908,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -64,6 +64,16 @@
       "ts": 1795701808000
     },
     {
+      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
+      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
+      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
+      "time": "Nov 26, 9:00 AM",
+      "coverage": 4,
+      "ts": 1795701602000
+    },
+    {
       "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
@@ -74,25 +84,25 @@
       "ts": 1795701600000
     },
     {
-      "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
-      "snippet": "New import duties targeting 14 economies aim to replace earlier tariffs struck down by U.S. Supreme Court",
-      "image": "https://www.theglobeandmail.com/resizer/v2/VCWLJQIPJRB7PJF3AW5B4BVS7I.jpg?auth=325e44498ea288acaed102b5295cf1b035f0d829ab386b0aa97a096e9ee43d5c&smart=true&width=4000&height=2522",
-      "time": "Nov 26, 6:24 AM",
+      "title": "Altria Considers $157 Billion Tobacco Tie-Up With Imperial Brands",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=rss_markets_main",
+      "snippet": "The U.S. company said it was considering a takeover offer to buy its smaller London-listed peer.",
+      "image": "https://images.wsj.net/im-875303",
+      "time": "Nov 26, 8:27 AM",
       "coverage": 4,
-      "ts": 1795692285000
+      "ts": 1795699620000
     },
     {
-      "title": "European Indexes Open Sharply Higher After U.S. Recovery",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main",
-      "snippet": "European stock indexes opened with strong gains after a late equity rally in the U.S. session.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Altria, Japan Tobacco Explore Breakup of Imperial Brands",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential breakup of British cigarette maker Imperial Brands Plc, in what would be one of the largest takeovers of a UK company in a decade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 26, 3:35 AM",
+      "time": "Nov 26, 8:08 AM",
       "coverage": 4,
-      "ts": 1795682100000
+      "ts": 1795698533000
     },
     {
       "title": "Investors Overpaid for Retail Safety, Missing Kroger’s 14% Rally",
@@ -114,17 +124,6 @@
       "time": "Nov 26, 9:05 AM",
       "coverage": 3,
       "ts": 1795701943000
-    },
-    {
-      "title": "Altria, Japan Tobacco Explore Breakup of Imperial Brands",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
-      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential breakup of British cigarette maker Imperial Brands Plc, in what would be one of the largest takeovers of a UK company in a decade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 8:08 AM",
-      "coverage": 3,
-      "ts": 1795698533000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -238,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "9:47 AM",
+      "title": "CNBC — Marlboro maker Altria explores takeover of UK's Imperial Brands",
+      "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
+      "ts": 1795704457000
+    },
+    {
       "time": "9:37 AM",
       "title": "Investing.com — TSX opens higher, extending rebound after whipsaw session",
       "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
@@ -302,12 +307,6 @@
       "title": "Investing.com — Wednesday’s top insider buys and sells: Galaxy Digital, Gold.com and more",
       "url": "https://www.investing.com/news/stock-market-news/wednesdays-top-insider-buys-and-sells-galaxy-digital-goldcom-and-more-93CH-5052536",
       "ts": 1795701740000
-    },
-    {
-      "time": "9:00 AM",
-      "title": "Globe and Mail — Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
-      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
-      "ts": 1795701602000
     }
   ]
 }
