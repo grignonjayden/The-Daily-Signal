@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:08 AM ET",
+  "generated_at": "Nov 26, 2026, 3:12 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795680536218,
+  "updated_ts": 1795680734355,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,16 +237,16 @@
   ],
   "ticker": [
     {
+      "time": "3:09 AM",
+      "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "ts": 1795680579000
+    },
+    {
       "time": "2:59 AM",
       "title": "WSJ Markets — Eurozone Bond Yields Rise in Quiet Thanksgiving Trade",
       "url": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
       "ts": 1795679940000
-    },
-    {
-      "time": "2:58 AM",
-      "title": "CNBC — U.S. tariff-hike threats put pressure on partners to sign trade deals",
-      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-      "ts": 1795679899000
     },
     {
       "time": "2:48 AM",
