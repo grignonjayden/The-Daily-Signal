@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:30 PM ET",
+  "generated_at": "Nov 25, 2026, 10:33 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795663820407,
+  "updated_ts": 1795664022063,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "10:32 PM",
+      "title": "CNBC — South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+      "ts": 1795663973000
+    },
+    {
       "time": "10:19 PM",
       "title": "CNBC — S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Black Friday: unlock the AI picks up as much as 93% since entry",
       "url": "https://www.investing.com/news/stock-market-news/black-friday-unlock-the-ai-picks-up-as-much-as-93-since-entry-5051893",
       "ts": 1795658706000
-    },
-    {
-      "time": "9:03 PM",
-      "title": "Bloomberg — KK Mart Starts $112 Million IPO Delayed by Malaysia Socks Row",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kk-mart-starts-112-million-ipo-delayed-by-malaysia-socks-row",
-      "ts": 1795658591000
     }
   ]
 }
