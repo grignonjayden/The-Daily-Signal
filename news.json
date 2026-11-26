@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:44 AM ET",
+  "generated_at": "Nov 26, 2026, 9:47 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795704247034,
+  "updated_ts": 1795704450754,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -34,6 +34,26 @@
       "ts": 1795695745000
     },
     {
+      "title": "Spain’s Pablo Hernandez de Cos set to be nominated as new European Central Bank head",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/",
+      "snippet": "He will replace outgoing leader Christine Lagarde after securing support from Netherlands",
+      "image": "https://www.theglobeandmail.com/resizer/v2/DGRZZ4JRAVEETLK7GFUJVTZQYM.JPG?auth=f6be22b94cdcd26171b8dd8955bf3ea689fa7b9a80d7a3f0a96bb9d1b49de06e&smart=true&width=4044&height=2724",
+      "time": "Nov 26, 9:44 AM",
+      "coverage": 3,
+      "ts": 1795704259000
+    },
+    {
+      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "snippet": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556424-1795181552746-gettyimages-2294015150-aditya-notitle260910_npipj.jpeg?v=1795181613&w=1920&h=1080",
+      "time": "Nov 26, 9:20 AM",
+      "coverage": 3,
+      "ts": 1795702844000
+    },
+    {
       "title": "European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
@@ -52,16 +72,6 @@
       "time": "Nov 26, 9:00 AM",
       "coverage": 4,
       "ts": 1795701600000
-    },
-    {
-      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
-      "snippet": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559274-1795616819098-gettyimages-2306584360-vcg111684383907.jpeg?v=1795616838&w=1920&h=1080",
-      "time": "Nov 25, 10:19 PM",
-      "coverage": 5,
-      "ts": 1795663184000
     },
     {
       "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
@@ -95,14 +105,15 @@
       "ts": 1795702551000
     },
     {
-      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
-      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
-      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
-      "time": "Nov 26, 9:00 AM",
+      "title": "Spain's De Cos Set to Succeed Lagarde as ECB President",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n",
+      "snippet": "Pablo Hernandez de Cos is set to become European Central Bank president, directing the region’s fight against inflation and possible bond turmoil. The 55-year-old Spaniard will take over from Christine Lagarde, who…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 9:05 AM",
       "coverage": 3,
-      "ts": 1795701602000
+      "ts": 1795701943000
     },
     {
       "title": "Altria, Japan Tobacco Explore Breakup of Imperial Brands",
@@ -114,17 +125,6 @@
       "time": "Nov 26, 8:08 AM",
       "coverage": 3,
       "ts": 1795698533000
-    },
-    {
-      "title": "Inflation-Wary Shoppers Prepare for Black Friday",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/inflation-wary-shoppers-prepare-for-black-friday-video",
-      "snippet": "Retailers had plenty of reasons to be worried about this year’s holiday season, but the latest round of earnings, from Dick’s Sporting Goods Inc. to Kohl’s Corp. and Dollar Tree Inc., show that shoppers are still…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 7:18 AM",
-      "coverage": 3,
-      "ts": 1795695493000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -238,16 +238,16 @@
   ],
   "ticker": [
     {
+      "time": "9:37 AM",
+      "title": "Investing.com — TSX opens higher, extending rebound after whipsaw session",
+      "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
+      "ts": 1795703863000
+    },
+    {
       "time": "9:35 AM",
       "title": "MarketWatch — This retired professor has reinvented himself — as a Taylor Swift scholar",
       "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
       "ts": 1795703700000
-    },
-    {
-      "time": "9:20 AM",
-      "title": "CNBC — Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "ts": 1795702844000
     },
     {
       "time": "9:18 AM",
@@ -280,12 +280,6 @@
       "ts": 1795702510000
     },
     {
-      "time": "9:14 AM",
-      "title": "Investing.com — Canadian stocks on track to open higher, extending rebound after whipsaw session",
-      "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
-      "ts": 1795702472000
-    },
-    {
       "time": "9:12 AM",
       "title": "Investing.com — Stellantis says keeping production in Italy a ’daily challenge’ amid rising costs",
       "url": "https://www.investing.com/news/stock-market-news/stellantis-says-keeping-production-in-italy-a-daily-challenge-amid-rising-costs-5052537",
@@ -304,10 +298,16 @@
       "ts": 1795702268000
     },
     {
-      "time": "9:05 AM",
-      "title": "Bloomberg — Spain's De Cos Set to Succeed Lagarde as ECB President",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n",
-      "ts": 1795701943000
+      "time": "9:02 AM",
+      "title": "Investing.com — Wednesday’s top insider buys and sells: Galaxy Digital, Gold.com and more",
+      "url": "https://www.investing.com/news/stock-market-news/wednesdays-top-insider-buys-and-sells-galaxy-digital-goldcom-and-more-93CH-5052536",
+      "ts": 1795701740000
+    },
+    {
+      "time": "9:00 AM",
+      "title": "Globe and Mail — Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
+      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
+      "ts": 1795701602000
     }
   ]
 }
