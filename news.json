@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 11:43 AM ET",
+  "generated_at": "Nov 26, 2026, 11:46 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795711386396,
+  "updated_ts": 1795711585020,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -55,16 +55,6 @@
       "ts": 1795706906000
     },
     {
-      "title": "Spain’s Pablo Hernandez de Cos set to be nominated as new European Central Bank head",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/",
-      "snippet": "He will replace outgoing leader Christine Lagarde after securing support from Netherlands",
-      "image": "https://www.theglobeandmail.com/resizer/v2/DGRZZ4JRAVEETLK7GFUJVTZQYM.JPG?auth=f6be22b94cdcd26171b8dd8955bf3ea689fa7b9a80d7a3f0a96bb9d1b49de06e&smart=true&width=4044&height=2724",
-      "time": "Nov 26, 9:44 AM",
-      "coverage": 3,
-      "ts": 1795704259000
-    },
-    {
       "title": "US Marlboro maker Altria explores Imperial Brands takeover in Big Tobacco mega deal",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
@@ -104,6 +94,16 @@
       "time": "Nov 26, 8:08 AM",
       "coverage": 4,
       "ts": 1795698533000
+    },
+    {
+      "title": "Pablo Hernandez de Cos to be nominated as new European Central Bank chief",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/",
+      "snippet": "Spanish central bank veteran will replace outgoing leader Christine Lagarde after securing support from Netherlands",
+      "image": "https://www.theglobeandmail.com/resizer/v2/DGRZZ4JRAVEETLK7GFUJVTZQYM.JPG?auth=f6be22b94cdcd26171b8dd8955bf3ea689fa7b9a80d7a3f0a96bb9d1b49de06e&smart=true&width=4044&height=2724",
+      "time": "Nov 26, 9:44 AM",
+      "coverage": 2,
+      "ts": 1795704259000
     },
     {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
