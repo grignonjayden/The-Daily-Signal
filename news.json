@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:48 AM ET",
+  "generated_at": "Nov 26, 2026, 1:51 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795675712072,
+  "updated_ts": 1795675912254,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "1:46 AM",
+      "title": "Bloomberg — Why the AI Panic May Be Premature",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/why-the-ai-panic-may-be-premature-video",
+      "ts": 1795675586000
+    },
+    {
       "time": "1:43 AM",
       "title": "Investing.com — MiniMax linked to unauthorized access of confidential AI user data - report",
       "url": "https://www.investing.com/news/stock-market-news/minimax-linked-to-unauthorized-access-of-confidential-ai-user-data--report-93CH-5052113",
@@ -250,6 +256,12 @@
       "ts": 1795675174000
     },
     {
+      "time": "1:32 AM",
+      "title": "Bloomberg — Vietnam Weighs Delaying Nuclear Power Plants Beyond 2035 Target",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/vietnam-weighs-delaying-nuclear-power-plants-beyond-2035-target",
+      "ts": 1795674734000
+    },
+    {
       "time": "1:31 AM",
       "title": "Bloomberg — Oil Rises as Houthis Attack Two Saudi Ports on Red Sea",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/oil-rises-as-houthis-attack-two-saudi-ports-on-red-sea-video",
@@ -260,6 +272,12 @@
       "title": "Bloomberg — Tim Hortons China Is Said to Weigh Options Including Stake Sale",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/tim-hortons-china-is-said-to-weigh-options-including-stake-sale",
       "ts": 1795673948000
+    },
+    {
+      "time": "1:15 AM",
+      "title": "Bloomberg — Chinese Carmakers Double Sales in Europe on Hybrid Demand",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/chinese-carmakers-double-sales-in-europe-on-hybrid-demand",
+      "ts": 1795673700000
     },
     {
       "time": "1:12 AM",
@@ -290,24 +308,6 @@
       "title": "Bloomberg — BOK Hikes Key Rate to 3.25%",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video",
       "ts": 1795672331000
-    },
-    {
-      "time": "12:50 AM",
-      "title": "CNBC — North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
-      "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
-      "ts": 1795672234000
-    },
-    {
-      "time": "12:48 AM",
-      "title": "Bloomberg — Rupee Options Signal Bullish Shift for First Time Since February",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/rupee-options-signal-bullish-shift-for-first-time-since-february",
-      "ts": 1795672089000
-    },
-    {
-      "time": "12:45 AM",
-      "title": "Bloomberg — Xpeng President on Carmaker's Robot Push",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/xpeng-president-on-carmaker-s-robot-push-video",
-      "ts": 1795671955000
     }
   ]
 }
