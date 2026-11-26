@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:35 AM ET",
+  "generated_at": "Nov 26, 2026, 8:39 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795700150760,
+  "updated_ts": 1795700351940,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "8:29 AM",
+      "title": "Bloomberg — Nigeria Boosts Retail Supply of Dollars to Curb Naira Volatility",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/nigeria-boosts-retail-supply-of-dollars-to-curb-naira-volatility",
+      "ts": 1795699795000
+    },
+    {
       "time": "8:24 AM",
       "title": "MarketWatch — Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
       "url": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
@@ -301,12 +307,6 @@
       "title": "Globe and Mail — Closing time: Only one province is bucking the retail-closure trend",
       "url": "https://www.theglobeandmail.com/business/rob-magazine/article-closing-time-only-one-province-is-bucking-the-retail-closure-trend/",
       "ts": 1795698000000
-    },
-    {
-      "time": "7:54 AM",
-      "title": "Bloomberg — Brazil Tightens Consumer Lending Rules as Household Debt Soars",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/brazil-tightens-consumer-lending-rules-as-household-debt-soars",
-      "ts": 1795697690000
     }
   ]
 }
