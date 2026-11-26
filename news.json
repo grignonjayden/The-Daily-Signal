@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:02 PM ET",
+  "generated_at": "Nov 25, 2026, 9:06 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795658563214,
+  "updated_ts": 1795658764169,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -244,6 +244,12 @@
       "ts": 1795658400000
     },
     {
+      "time": "8:54 PM",
+      "title": "Investing.com — Malaysia regulator seeks $146 million damages from Google over ’harmful’ content",
+      "url": "https://www.investing.com/news/stock-market-news/malaysia-regulator-files-lawsuits-against-google-seeking-146-million-over-harmful-content-5049766",
+      "ts": 1795658078000
+    },
+    {
       "time": "8:52 PM",
       "title": "CNBC — Norse Atlantic flights suspended after warning finances 'critical'",
       "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
@@ -274,6 +280,18 @@
       "ts": 1795656898000
     },
     {
+      "time": "8:31 PM",
+      "title": "Bloomberg — Shein’s Slow India Start Lays Bare Limits of Billionaire Ambani’s Retail Might",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/shein-s-slow-india-start-lays-bare-limits-of-billionaire-ambani-s-retail-might",
+      "ts": 1795656680000
+    },
+    {
+      "time": "8:30 PM",
+      "title": "Bloomberg — Rupee Has Room to Rally Before RBI Steps In, Strategists Say",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/rupee-rally-has-91-in-sight-as-rbi-seen-holding-back-dollar-buys",
+      "ts": 1795656600000
+    },
+    {
       "time": "8:27 PM",
       "title": "WSJ Markets — Oil Rises Amid Ongoing Middle East Tensions",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-c730426d?mod=rss_markets_main",
@@ -290,24 +308,6 @@
       "title": "CNBC — Hedge funds are no longer just for the rich. They’re coming for everyday investors",
       "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
       "ts": 1795655458000
-    },
-    {
-      "time": "8:07 PM",
-      "title": "Bloomberg — Lula Sounds Out Bradesco’s Luiz Trabuco to Join His Government",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/lula-sounds-out-bradesco-s-luiz-trabuco-to-join-his-government",
-      "ts": 1795655265000
-    },
-    {
-      "time": "8:06 PM",
-      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
-      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
-      "ts": 1795655176000
-    },
-    {
-      "time": "8:04 PM",
-      "title": "WSJ Markets — Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
-      "url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
-      "ts": 1795655040000
     }
   ]
 }
