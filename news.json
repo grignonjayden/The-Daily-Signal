@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:54 AM ET",
+  "generated_at": "Nov 26, 2026, 6:57 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795694079157,
+  "updated_ts": 1795694279825,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "6:54 AM",
+      "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-635bd624?mod=rss_markets_main",
+      "ts": 1795694040000
+    },
+    {
       "time": "6:49 AM",
       "title": "WSJ Markets — Financial Services Roundup: Market Talk",
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-7d2d237c?mod=rss_markets_main",
@@ -303,12 +309,6 @@
       "title": "CNBC — The Nobel-winning science turning ‘water harvesting’ into a commercial race",
       "url": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
       "ts": 1795690873000
-    },
-    {
-      "time": "6:00 AM",
-      "title": "Bloomberg — Couche-Tard Sees Zabka Model Expanding Beyond Poland, Romania",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/couche-tard-sees-zabka-model-expanding-beyond-poland-romania",
-      "ts": 1795690800000
     }
   ]
 }
