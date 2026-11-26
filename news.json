@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:52 AM ET",
+  "generated_at": "Nov 26, 2026, 2:55 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795679530731,
+  "updated_ts": 1795679729859,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -243,6 +243,12 @@
       "ts": 1795679105000
     },
     {
+      "time": "2:44 AM",
+      "title": "Investing.com — CMC Markets first-half profit more than doubles as B2B growth drives margins",
+      "url": "https://www.investing.com/news/stock-market-news/cmc-markets-firsthalf-profit-more-than-doubles-as-b2b-growth-drives-margins-5052162",
+      "ts": 1795679087000
+    },
+    {
       "time": "2:37 AM",
       "title": "Bloomberg — FTSE 100 Eyes Rebound as Shift to UK Gilts Pauses",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/ftse-100-eyes-rebound-as-shift-to-uk-gilts-pauses",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Mitchells & Butlers flags £95 million cost hit as sales slow in fiscal 2026",
       "url": "https://www.investing.com/news/stock-market-news/mitchells--butlers-flags-95-million-cost-hit-as-sales-slow-in-fiscal-2026-93CH-5052149",
       "ts": 1795677628000
-    },
-    {
-      "time": "2:16 AM",
-      "title": "Bloomberg — China Tech Stocks Rebound From Record Slump",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-china-show-11-26-2026-video",
-      "ts": 1795677366000
     }
   ]
 }
