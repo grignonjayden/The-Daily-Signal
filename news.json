@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:46 PM ET",
+  "generated_at": "Nov 25, 2026, 9:50 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795661192591,
+  "updated_ts": 1795661400231,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -105,6 +105,17 @@
       "ts": 1795645260000
     },
     {
+      "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
+      "snippet": "A hawkish member of the Bank of Japan’s policy board called for early action to keep raising the BOJ’s benchmark rate, supporting market expectations for a rate hike next month.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 9:28 PM",
+      "coverage": 3,
+      "ts": 1795660110000
+    },
+    {
       "title": "Bank of Canada governor says inflation forecast is lower",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/video-bank-of-canada-governor-says-inflation-forecast-is-lower/",
@@ -113,17 +124,6 @@
       "time": "Nov 25, 8:55 AM",
       "coverage": 3,
       "ts": 1795614929000
-    },
-    {
-      "title": "KK Mart Starts $112 Million IPO Delayed by Malaysia Socks Row",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kk-mart-starts-112-million-ipo-delayed-by-malaysia-socks-row",
-      "snippet": "KK Mart Retail Bhd., the Malaysian convenience-store chain whose first attempt at an initial public offering was delayed by a religious controversy, is launching a 462 million ringgit ($112 million) share sale as it…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 9:03 PM",
-      "coverage": 2,
-      "ts": 1795658591000
     },
     {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
@@ -267,6 +267,12 @@
       "ts": 1795658706000
     },
     {
+      "time": "9:03 PM",
+      "title": "Bloomberg — KK Mart Starts $112 Million IPO Delayed by Malaysia Socks Row",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kk-mart-starts-112-million-ipo-delayed-by-malaysia-socks-row",
+      "ts": 1795658591000
+    },
+    {
       "time": "9:01 PM",
       "title": "Bloomberg — Copper Rebounds From Lowest This Year as Volatility Hits Metals",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
@@ -301,12 +307,6 @@
       "title": "CNBC — South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
       "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
       "ts": 1795657821000
-    },
-    {
-      "time": "8:40 PM",
-      "title": "Investing.com — Why is Flight Centre Travel stock falling today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-flight-centre-travel-stock-falling-today-93CH-5051875",
-      "ts": 1795657214000
     }
   ]
 }
