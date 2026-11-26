@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 11:46 AM ET",
+  "generated_at": "Nov 26, 2026, 11:49 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795711585020,
+  "updated_ts": 1795711784326,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -60,9 +60,9 @@
       "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
       "snippet": "",
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
-      "time": "Nov 26, 10:24 AM",
+      "time": "Nov 26, 11:25 AM",
       "coverage": 4,
-      "ts": 1795706662000
+      "ts": 1795710337000
     },
     {
       "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
@@ -96,10 +96,10 @@
       "ts": 1795698533000
     },
     {
-      "title": "Pablo Hernandez de Cos to be nominated as new European Central Bank chief",
+      "title": "Spanish central banker to be named next European Central Bank chief",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/",
-      "snippet": "Spanish central bank veteran will replace outgoing leader Christine Lagarde after securing support from Netherlands",
+      "snippet": "Pablo Hernández de Cos will replace Christine Lagarde after securing support from the Netherlands",
       "image": "https://www.theglobeandmail.com/resizer/v2/DGRZZ4JRAVEETLK7GFUJVTZQYM.JPG?auth=f6be22b94cdcd26171b8dd8955bf3ea689fa7b9a80d7a3f0a96bb9d1b49de06e&smart=true&width=4044&height=2724",
       "time": "Nov 26, 9:44 AM",
       "coverage": 2,
@@ -116,14 +116,14 @@
       "ts": 1795645620000
     },
     {
-      "title": "Norway stocks higher at close of trade; Oslo OBX up 1.50%",
+      "title": "Poland stocks higher at close of trade; WIG30 up 1.63%",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-150-5052605",
+      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-163-5052625",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM5O0Z8_L.jpg",
-      "time": "Nov 26, 10:55 AM",
+      "image": "https://content-media.investing.com/news/Warsaw_stock_exchange_M_1440049039.jpg",
+      "time": "Nov 26, 11:35 AM",
       "coverage": 2,
-      "ts": 1795708528000
+      "ts": 1795710903000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -237,6 +237,36 @@
   ],
   "ticker": [
     {
+      "time": "11:42 AM",
+      "title": "Investing.com — UniCredit pushes for Commerzbank management shake-up with CEO Orcel as chair",
+      "url": "https://www.investing.com/news/stock-market-news/unicredit-pushes-for-commerzbank-management-shakeup-with-ceo-orcel-as-chair-5052474",
+      "ts": 1795711372000
+    },
+    {
+      "time": "11:42 AM",
+      "title": "Investing.com — Brazil’s Embraer criticizes new US tariffs, warns of air travel inflation",
+      "url": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
+      "ts": 1795711343000
+    },
+    {
+      "time": "11:36 AM",
+      "title": "Investing.com — Netherlands will ask Washington not to enforce MATCH Act, minister says",
+      "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
+      "ts": 1795710993000
+    },
+    {
+      "time": "11:30 AM",
+      "title": "Investing.com — Denmark stocks higher at close of trade; OMX Copenhagen 20 up 1.32%",
+      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-132-5052620",
+      "ts": 1795710604000
+    },
+    {
+      "time": "11:25 AM",
+      "title": "Investing.com — LATAM Brasil says initial E195-E2 route sales running above expectations",
+      "url": "https://www.investing.com/news/stock-market-news/latam-brasil-says-initial-e195e2-route-sales-running-above-expectations-5052619",
+      "ts": 1795710321000
+    },
+    {
       "time": "11:15 AM",
       "title": "Bloomberg — Congo Gold Trader Plans Two Refineries with 68-Ton Capacity",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-gold-trader-plans-two-refineries-with-68-ton-capacity",
@@ -268,45 +298,15 @@
     },
     {
       "time": "10:55 AM",
-      "title": "Investing.com — Israel stocks higher at close of trade; TA 35 up 2.34%",
-      "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-234-5052604",
-      "ts": 1795708504000
+      "title": "Investing.com — Norway stocks higher at close of trade; Oslo OBX up 1.50%",
+      "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-150-5052605",
+      "ts": 1795708528000
     },
     {
       "time": "10:55 AM",
-      "title": "Investing.com — Stocks rally, Europe sizes up next ECB chief",
-      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
-      "ts": 1795708501000
-    },
-    {
-      "time": "10:54 AM",
-      "title": "Investing.com — Netherlands will ask Washington not to enforce MATCH Act, minister says",
-      "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
-      "ts": 1795708472000
-    },
-    {
-      "time": "10:50 AM",
-      "title": "Investing.com — Greece stocks higher at close of trade; Athens General Composite up 1.02%",
-      "url": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-102-5052602",
-      "ts": 1795708203000
-    },
-    {
-      "time": "10:45 AM",
-      "title": "Globe and Mail — Ottawa begins rolling out $700-million in AI compute funding under new sector-based approach",
-      "url": "https://www.theglobeandmail.com/business/technology/article-ottawa-rolling-out-700-million-in-ai-compute-funding-evan-solomon/",
-      "ts": 1795707945000
-    },
-    {
-      "time": "10:30 AM",
-      "title": "Investing.com — Turkey stocks higher at close of trade; BIST 100 up 0.82%",
-      "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-082-5052587",
-      "ts": 1795707004000
-    },
-    {
-      "time": "10:30 AM",
-      "title": "MarketWatch — We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "ts": 1795707000000
+      "title": "Investing.com — Israel stocks higher at close of trade; TA 35 up 2.34%",
+      "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-234-5052604",
+      "ts": 1795708504000
     }
   ]
 }
