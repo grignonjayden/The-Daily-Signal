@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 11:49 AM ET",
+  "generated_at": "Nov 26, 2026, 11:53 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795711784326,
+  "updated_ts": 1795711985713,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -45,6 +45,16 @@
       "ts": 1795698060000
     },
     {
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "snippet": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559274-1795616819098-gettyimages-2306584360-vcg111684383907.jpeg?v=1795616838&w=1920&h=1080",
+      "time": "Nov 25, 10:19 PM",
+      "coverage": 6,
+      "ts": 1795663184000
+    },
+    {
       "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
@@ -63,16 +73,6 @@
       "time": "Nov 26, 11:25 AM",
       "coverage": 4,
       "ts": 1795710337000
-    },
-    {
-      "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
-      "snippet": "U.S. tobacco group Altria said on Thursday it was considering a possible all-cash offer for ​Imperial Brands.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107232976-1682707584484-gettyimages-1486127437-0j5a7430_clcrzwlh.jpeg?v=1698330737&w=1920&h=1080",
-      "time": "Nov 26, 9:47 AM",
-      "coverage": 4,
-      "ts": 1795704457000
     },
     {
       "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
@@ -249,6 +249,12 @@
       "ts": 1795711343000
     },
     {
+      "time": "11:39 AM",
+      "title": "Bloomberg — Trans-Oil Warns of Going-Concern Risk Pending Debt Waiver",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/trans-oil-warns-of-going-concern-risk-pending-debt-waiver",
+      "ts": 1795711169000
+    },
+    {
       "time": "11:36 AM",
       "title": "Investing.com — Netherlands will ask Washington not to enforce MATCH Act, minister says",
       "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Norway stocks higher at close of trade; Oslo OBX up 1.50%",
       "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-150-5052605",
       "ts": 1795708528000
-    },
-    {
-      "time": "10:55 AM",
-      "title": "Investing.com — Israel stocks higher at close of trade; TA 35 up 2.34%",
-      "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-234-5052604",
-      "ts": 1795708504000
     }
   ]
 }
