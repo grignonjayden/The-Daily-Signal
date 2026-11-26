@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:10 AM ET",
+  "generated_at": "Nov 26, 2026, 6:14 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795691444817,
+  "updated_ts": 1795691648374,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -252,6 +252,12 @@
     },
     {
       "time": "6:00 AM",
+      "title": "Bloomberg — Couche-Tard Sees Zabka Model Expanding Beyond Poland, Romania",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/couche-tard-sees-zabka-model-expanding-beyond-poland-romania",
+      "ts": 1795690800000
+    },
+    {
+      "time": "6:00 AM",
       "title": "Globe and Mail — Locked in: How many Canadians who bought at peak housing prices can’t afford to move?",
       "url": "https://www.theglobeandmail.com/investing/personal-finance/article-locked-in-how-many-canadians-who-bought-at-peak-housing-prices-cant/",
       "ts": 1795690800000
@@ -261,6 +267,12 @@
       "title": "WSJ Markets — Lilly, Novo Supplier Bachem Hit by Share Drop After Growth Plans Disappoint",
       "url": "https://www.wsj.com/business/earnings/lilly-novo-supplier-bachem-hit-by-share-drop-after-growth-plans-disappoint-d3bcf6fa?mod=rss_markets_main",
       "ts": 1795690500000
+    },
+    {
+      "time": "5:49 AM",
+      "title": "Bloomberg — Coris’ Ivory Coast Bank Unit Plans IPO in Push for Top Five",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/coris-ivory-coast-bank-unit-plans-ipo-in-push-for-top-five",
+      "ts": 1795690159000
     },
     {
       "time": "5:49 AM",
@@ -297,18 +309,6 @@
       "title": "MarketWatch — The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
       "url": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
       "ts": 1795687860000
-    },
-    {
-      "time": "5:08 AM",
-      "title": "WSJ Markets — U.S. Economy’s Strength Keeps Dollar Elevated",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
-      "ts": 1795687680000
-    },
-    {
-      "time": "5:04 AM",
-      "title": "Investing.com — Why is Text stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-text-stock-surging-today-93CH-5052362",
-      "ts": 1795687470000
     }
   ]
 }
