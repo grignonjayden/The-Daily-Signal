@@ -1,8 +1,32 @@
 {
-  "generated_at": "Nov 26, 2026, 5:26 AM ET",
+  "generated_at": "Nov 26, 2026, 6:00 AM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Eric Ham: Trump’s hypocrisy on China exposes Washington’s latest bluff against Ottawa",
+      "url": "https://www.cp24.com/news/canada/2026/11/26/eric-ham-trumps-hypocrisy-on-china-exposes-washingtons-latest-bluff-against-ottawa/",
+      "image": "https://www.cp24.com/resizer/v2/HI24AVOLTNEWXOLET2V5NIUUPU.jpg?auth=627f27404926c45bbc26b263dee90b768c32bd26728cd25f8aedc4917830cc3a&smart=true&width=3000&height=2000",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "Trade",
+      "time": "Nov 26",
+      "date": "2026-11-26T14:00:00.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Canada’s New Defence Bank Holds Promise, but Financial Safeguards Are Essential",
+      "url": "https://cdhowe.org/publication/canadas-new-defence-bank-holds-promise-but-financial-safeguards-are-essential/",
+      "image": "https://cdhowe.org/wp-content/uploads/2026/11/Single-Image-Template-84-2.png",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "Defence",
+      "time": "Nov 26",
+      "date": "2026-11-26T11:00:13.000Z",
+      "group": "sector"
+    },
     {
       "title": "PM Carney, Liberals defend ‘brutal’ pace of committee work on major projects bill",
       "url": "https://www.cp24.com/news/canada/2026/11/25/pm-carney-liberals-defend-brutal-pace-of-committee-work-on-major-projects-bill/",
@@ -13,18 +37,6 @@
       "sector": "Infrastructure",
       "time": "Nov 25",
       "date": "2026-11-26T00:45:09.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Concerns Canada’s EV policy opens door to Chinese ‘Trojan horse’",
-      "url": "https://www.cp24.com/news/canada/2026/11/25/concerns-canadas-ev-policy-opens-door-to-chinese-trojan-horse/",
-      "image": "https://www.cp24.com/resizer/v2/FJWMZHHAQJEEPCD3E6YQZAVWVU.JPG?auth=f1427510facb0ddeda2c6186c86ce6cadeb75afd59c567fe430e006101b30f8b&smart=true&width=5771&height=4000",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Autos",
-      "time": "Nov 25",
-      "date": "2026-11-25T21:48:11.000Z",
       "group": "sector"
     },
     {
@@ -112,18 +124,6 @@
       "group": "policy"
     },
     {
-      "title": "Falling global oil prices could mean inflation ends below forecast, Bank of Canada says",
-      "url": "https://www.cp24.com/news/money/2026/11/24/macklem-says-inflation-forecast-is-lower-but-oil-price-pressures-are-lingering/",
-      "image": "https://www.cp24.com/resizer/v2/XDEEBJ75UTIWNS6MRCQZZP4T7U.jpg?auth=1d68eef2a5da4d8ad29d4b3800198955194b68e13dc7e40666d4a166259b6277&smart=true&width=1400&height=917",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 25",
-      "date": "2026-11-25T15:47:32.000Z",
-      "group": "policy"
-    },
-    {
       "title": "Six Degrees of Optimism in the 2026 Federal Budget",
       "url": "https://cdhowe.org/publication/six-degrees-of-optimism-in-the-2026-federal-budget/",
       "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-1488351398.jpg",
@@ -170,6 +170,18 @@
       "time": "Nov 25",
       "date": "2026-11-25T13:30:36.000Z",
       "group": "policy"
+    },
+    {
+      "title": "Bank of Canada expects 2nd round of oil-linked inflation in 2027, Macklem says",
+      "url": "https://www.cbc.ca/news/business/bank-canada-governor-tiff-macklem-speech-9.7433693?cmp=rss",
+      "image": "https://i.cbc.ca/ais/065d45b8-8024-4489-92c9-f21ada518486,1795552096676/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B",
+      "source": "CBC News",
+      "badge": "CBC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 24",
+      "date": "2026-11-24T18:22:26.000Z",
+      "group": "policy"
     }
   ],
   "sources": [
@@ -213,14 +225,14 @@
       "kept": 3
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
+    },
+    {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
     },
     {
       "source": "CDEV",
@@ -228,9 +240,9 @@
       "kept": 0
     },
     {
-      "source": "ISED",
-      "fetched": 20,
-      "kept": 4
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 3
     },
     {
       "source": "Canada Media Fund",
@@ -238,13 +250,13 @@
       "kept": 1
     },
     {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
+      "source": "ISED",
+      "fetched": 20,
       "kept": 4
     },
     {
-      "source": "CP24",
-      "fetched": 200,
+      "source": "C.D. Howe Institute",
+      "fetched": 24,
       "kept": 4
     }
   ]

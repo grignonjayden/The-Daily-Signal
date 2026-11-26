@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 5:57 AM ET",
+  "generated_at": "Nov 26, 2026, 6:00 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795690634401,
+  "updated_ts": 1795690835517,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -10,7 +10,7 @@
       "snippet": "A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out",
       "image": "https://images.mktw.net/im-44727230",
       "time": "Nov 26, 5:37 AM",
-      "coverage": 6,
+      "coverage": 7,
       "ts": 1795689420000
     },
     {
@@ -22,6 +22,17 @@
       "time": "Nov 26, 5:10 AM",
       "coverage": 4,
       "ts": 1795687817000
+    },
+    {
+      "title": "Wall Street Flips From AI Euphoria to Gloom",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/wall-street-flips-from-ai-euphoria-to-gloom",
+      "snippet": "US stocks haven’t been this volatile in years.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 5:56 AM",
+      "coverage": 5,
+      "ts": 1795690612000
     },
     {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
@@ -84,6 +95,16 @@
       "ts": 1795645620000
     },
     {
+      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
+      "snippet": "Markets increasingly question whether even the biggest AI names can generate enough profit to justify their price tags",
+      "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
+      "time": "Nov 25, 11:40 AM",
+      "coverage": 5,
+      "ts": 1795624858000
+    },
+    {
       "title": "Trump’s Tariffs Blunt Appeal of Moving Production Out of China",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
@@ -105,25 +126,6 @@
       "ts": 1795613399000
     },
     {
-      "title": "Canada remains top destination for infrastructure investors, survey finds",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-canada-remains-top-destination-for-infrastructure-investors-survey/",
-      "snippet": "Canada edges U.S., Mexico and several EU countries in semi-annual survey, but investors still waiting for clear signs that major projects are on track to be built",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TOWJJRV535BPBAYLD4Y6FQFHIQ.JPG?auth=38c00c55aa696c4d4c3a5861e100b175fdfa1e0279d92c1759ac1964766704a1&smart=true&width=5500&height=3667",
-      "time": "Nov 26, 5:00 AM",
-      "ts": 1795687200000
-    },
-    {
-      "title": "Odd Lots: Levinson on How UPS Created Modern Logistics (Podcast)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/audio/2026-11-26/odd-lots-levinson-on-how-ups-created-modern-logistics-podcast",
-      "snippet": "UPS was founded nearly a century ago in the basement of a Seattle saloon by James E. Casey and his business partner Claude Ryan. They initially called the company American Messenger Company, and the first iteration…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 4:00 AM",
-      "ts": 1795683600000
-    },
-    {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
@@ -134,13 +136,14 @@
       "ts": 1795667395000
     },
     {
-      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
-      "ts": 1795617488000
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
     }
   ],
   "outlets": [
@@ -241,6 +244,12 @@
       "ts": 1795690500000
     },
     {
+      "time": "5:49 AM",
+      "title": "Bloomberg — Romanian Far-Right Leader Simion Charged With Inciting Violence",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/romanian-far-right-leader-simion-charged-with-inciting-violence",
+      "ts": 1795690158000
+    },
+    {
       "time": "5:46 AM",
       "title": "CNBC — The Nobel-winning science turning ‘water harvesting’ into a commercial race",
       "url": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
@@ -289,22 +298,16 @@
       "ts": 1795687364000
     },
     {
+      "time": "5:00 AM",
+      "title": "Globe and Mail — Canada remains top destination for infrastructure investors, survey finds",
+      "url": "https://www.theglobeandmail.com/business/article-canada-remains-top-destination-for-infrastructure-investors-survey/",
+      "ts": 1795687200000
+    },
+    {
       "time": "4:58 AM",
       "title": "Investing.com — Text Group stock jumps 17% on strong Q2 profit results",
       "url": "https://www.investing.com/news/stock-market-news/text-group-stock-jumps-17-on-strong-q2-profit-results-93CH-5052355",
       "ts": 1795687103000
-    },
-    {
-      "time": "4:55 AM",
-      "title": "Bloomberg — South Africa’s IDC in Talks for $257 Million Stake in Sugar Firm",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/south-africa-s-idc-in-talks-for-257-million-stake-in-sugar-firm",
-      "ts": 1795686938000
-    },
-    {
-      "time": "4:54 AM",
-      "title": "Investing.com — Stocks climb as traders shrug off latest US tariff salvo",
-      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
-      "ts": 1795686866000
     }
   ]
 }
