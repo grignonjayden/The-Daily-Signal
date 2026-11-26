@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:24 PM ET",
+  "generated_at": "Nov 25, 2026, 7:27 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795652678661,
+  "updated_ts": 1795652879385,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -75,6 +75,17 @@
       "ts": 1795640408000
     },
     {
+      "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
+      "snippet": "Gold edged lower, after rising on Wednesday, as inflation data reinforced bets the Federal Reserve will hike interest rates further.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 7:18 PM",
+      "coverage": 4,
+      "ts": 1795652289000
+    },
+    {
       "title": "Exclusive-Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/exclusiveboehly-signs-usbacked-share-swap-deal-to-buy-lukoil-global-assets-5051129",
@@ -83,6 +94,16 @@
       "time": "Nov 25, 6:00 PM",
       "coverage": 4,
       "ts": 1795647624000
+    },
+    {
+      "title": "Bank of Canada governor says inflation forecast is lower",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/video-bank-of-canada-governor-says-inflation-forecast-is-lower/",
+      "snippet": "Bank of Canada governor Tiff Macklem says falling global oil prices could mean inflation ends the year below the central bank’s last forecast.",
+      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-25-2026%2Ft_2f9e5e94f4104e8bab2d4b4a3cb6e927_name_661d4915816bc77303bfc6e979b89f4aae24e576f1689341ae47e71da74fe3b6.jpg?auth=e65685da11e464d3dfd80bf8e5ba55aac24113324554ac37ce86b3d8dd21f93d&smart=true&width=1920&height=1080",
+      "time": "Nov 25, 8:55 AM",
+      "coverage": 3,
+      "ts": 1795614929000
     },
     {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
@@ -104,27 +125,6 @@
       "time": "Nov 25, 6:03 PM",
       "coverage": 3,
       "ts": 1795647795000
-    },
-    {
-      "title": "Jupiter’s $3.6 Billion Fund Goes Defensive, Skirts Tech Selloff",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/asia-fund-beating-89-of-peers-trims-tech-adds-defensive-names",
-      "snippet": "An Asia-focused fund run by Jupiter Asset Management has beaten 89% of its peers this year, thanks to a pivot toward defensive stocks before the AI trade started unraveling in the summer, according to the fund’s…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 6:00 PM",
-      "coverage": 3,
-      "ts": 1795647600000
-    },
-    {
-      "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
-      "snippet": "Washington plans new measures despite voters rejecting Trump’s economic agenda during the midterms",
-      "image": "https://www.theglobeandmail.com/resizer/v2/IUFRPLWK3NDZZEVEJGTYXDQPOU.JPG?auth=2f2f2b3beb5b5eef0877b43c4f697e499ebe57ab206c81ab426baceeef815324&smart=true&width=3529&height=2353",
-      "time": "Nov 25, 8:29 AM",
-      "coverage": 4,
-      "ts": 1795613399000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "7:24 PM",
+      "title": "WSJ Markets — Gold Edges Lower Amid Rate Hike Bets",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
+      "ts": 1795652640000
+    },
+    {
       "time": "7:19 PM",
       "title": "WSJ Markets — Nikkei Rises 1.3%, Led by Chip, Metals Stocks",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main",
@@ -248,6 +254,12 @@
       "title": "CNBC — Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
       "url": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
       "ts": 1795651936000
+    },
+    {
+      "time": "7:06 PM",
+      "title": "Investing.com — Black Friday? No thanks, some brands say",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-no-thanks-some-brands-say-5051789",
+      "ts": 1795651595000
     },
     {
       "time": "7:05 PM",
@@ -296,18 +308,6 @@
       "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
       "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
       "ts": 1795649400000
-    },
-    {
-      "time": "6:30 PM",
-      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "ts": 1795649400000
-    },
-    {
-      "time": "6:18 PM",
-      "title": "Bloomberg — How Saks Is Reclaiming Luxury as Exemplar Luxury Group",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/how-saks-is-reclaiming-luxury-as-exemplar-luxury-group-video",
-      "ts": 1795648681000
     }
   ]
 }
