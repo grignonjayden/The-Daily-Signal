@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:45 AM ET",
+  "generated_at": "Nov 26, 2026, 3:49 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795682749276,
+  "updated_ts": 1795682951168,
   "articles": [
     {
       "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
@@ -244,16 +244,52 @@
       "ts": 1795682400000
     },
     {
+      "time": "3:37 AM",
+      "title": "Investing.com — Babcock signs record £8.7 billion UK submarine support agreement",
+      "url": "https://www.investing.com/news/stock-market-news/babcock-signs-record-87-billion-uk-submarine-support-agreement-5052230",
+      "ts": 1795682220000
+    },
+    {
+      "time": "3:36 AM",
+      "title": "Investing.com — Norse Atlantic shares fall 18% as flight halt raises bankruptcy risk",
+      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-shares-fall-18-as-flight-halt-raises-bankruptcy-risk-5052227",
+      "ts": 1795682173000
+    },
+    {
       "time": "3:32 AM",
       "title": "WSJ Markets — Gilt Yields Rise as Inflation Concerns Linger",
       "url": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
       "ts": 1795681920000
     },
     {
+      "time": "3:31 AM",
+      "title": "Investing.com — Why is Babcock International stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-babcock-international-stock-rallying-today-93CH-5052219",
+      "ts": 1795681901000
+    },
+    {
+      "time": "3:30 AM",
+      "title": "Investing.com — Why is Halfords stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-halfords-stock-surging-today-93CH-5052216",
+      "ts": 1795681855000
+    },
+    {
+      "time": "3:30 AM",
+      "title": "Investing.com — Indonesia stocks higher at close of trade; IDX Composite Index up 0.69%",
+      "url": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-069-5052210",
+      "ts": 1795681803000
+    },
+    {
       "time": "3:29 AM",
       "title": "Bloomberg — Asian Stock Markets Are Cheap Enough Now: Market Analysis",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/asian-stock-markets-are-cheap-enough-now-3-minutes-mliv-video",
       "ts": 1795681791000
+    },
+    {
+      "time": "3:29 AM",
+      "title": "Investing.com — Why is UniCredit stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-unicredit-stock-rallying-today-93CH-5052209",
+      "ts": 1795681789000
     },
     {
       "time": "3:25 AM",
@@ -272,42 +308,6 @@
       "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
       "ts": 1795680579000
-    },
-    {
-      "time": "3:08 AM",
-      "title": "Investing.com — Berenberg upgrades Bayer to buy as litigation risks ease, pharma outlook improves",
-      "url": "https://www.investing.com/news/stock-market-news/berenberg-upgrades-bayer-to-buy-as-litigation-risks-ease-pharma-outlook-improves-5052194",
-      "ts": 1795680523000
-    },
-    {
-      "time": "3:06 AM",
-      "title": "CNBC — The Nobel-winning science turning ‘water harvesting’ into a commercial race",
-      "url": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
-      "ts": 1795680408000
-    },
-    {
-      "time": "2:54 AM",
-      "title": "Investing.com — Norse Atlantic suspends flights amid bankruptcy risk",
-      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-suspends-flights-amid-bankruptcy-risk-93CH-5052182",
-      "ts": 1795679653000
-    },
-    {
-      "time": "2:48 AM",
-      "title": "Investing.com — Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
-      "url": "https://www.investing.com/news/stock-market-news/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-5052028",
-      "ts": 1795679317000
-    },
-    {
-      "time": "2:45 AM",
-      "title": "Investing.com — Vienna Insurance Group nine-month profit tops €1 billion",
-      "url": "https://www.investing.com/news/stock-market-news/vienna-insurance-group-ninemonth-profit-tops-1-billion-93CH-5052167",
-      "ts": 1795679119000
-    },
-    {
-      "time": "2:45 AM",
-      "title": "CNBC — Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
-      "url": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
-      "ts": 1795679105000
     }
   ]
 }
