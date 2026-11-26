@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:42 AM ET",
+  "generated_at": "Nov 26, 2026, 2:45 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795678924487,
+  "updated_ts": 1795679131338,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -75,6 +75,17 @@
       "ts": 1795670520000
     },
     {
+      "title": "Horizons Middle East & Africa 11/26/2026 (Video)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/horizons-middle-east-africa-11-26-2026-video",
+      "snippet": "",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 2:41 AM",
+      "coverage": 2,
+      "ts": 1795678916000
+    },
+    {
       "title": "Hill & Smith sees 2026 profit above forecasts as U.S. demand lifts sales",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/hill--smith-sees-2026-profit-above-forecasts-as-us-demand-lifts-sales-93CH-5052140",
@@ -103,17 +114,6 @@
       "time": "Nov 25, 8:29 AM",
       "coverage": 5,
       "ts": 1795613399000
-    },
-    {
-      "title": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/us-tariffs-raise-stakes-for-india-to-clinch-trade-deal-video",
-      "snippet": "The US plans to impose a 17% tariff on Indian goods, lower than regional peers like Vietnam, Malaysia and Bangladesh. The rate would be hiked to 25% if the country fails to secure a deal, according to a statement…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 1:28 AM",
-      "coverage": 3,
-      "ts": 1795674538000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
