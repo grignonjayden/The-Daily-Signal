@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:01 AM ET",
+  "generated_at": "Nov 26, 2026, 7:04 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795694482599,
+  "updated_ts": 1795694684163,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "7:00 AM",
+      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-fd3f4387?mod=rss_markets_main",
+      "ts": 1795694400000
+    },
+    {
       "time": "6:54 AM",
       "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-635bd624?mod=rss_markets_main",
@@ -303,12 +309,6 @@
       "title": "Globe and Mail — Defence entrepreneurs dispel gold-rush mentality amid federal spending boom",
       "url": "https://www.theglobeandmail.com/business/economy/article-defence-entrepreneurs-dispel-gold-rush-mentality-amid-federal-spending/",
       "ts": 1795691028000
-    },
-    {
-      "time": "6:01 AM",
-      "title": "CNBC — The Nobel-winning science turning ‘water harvesting’ into a commercial race",
-      "url": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
-      "ts": 1795690873000
     }
   ]
 }
