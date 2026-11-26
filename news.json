@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:55 AM ET",
+  "generated_at": "Nov 26, 2026, 1:58 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795676113795,
+  "updated_ts": 1795676313910,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "1:54 AM",
+      "title": "WSJ Markets — U.S. Treasurys Show ‘Remarkable Resilience’ to Upbeat Data",
+      "url": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
+      "ts": 1795676040000
+    },
+    {
       "time": "1:46 AM",
       "title": "Bloomberg — Why the AI Panic May Be Premature",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/why-the-ai-panic-may-be-premature-video",
@@ -274,6 +280,12 @@
       "ts": 1795674676000
     },
     {
+      "time": "1:27 AM",
+      "title": "Bloomberg — Guinea Lawmakers Approve Law to Establish Sovereign Wealth Fund",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/guinea-lawmakers-approve-law-to-establish-sovereign-wealth-fund",
+      "ts": 1795674467000
+    },
+    {
       "time": "1:19 AM",
       "title": "Bloomberg — Tim Hortons China Is Said to Weigh Options Including Stake Sale",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/tim-hortons-china-is-said-to-weigh-options-including-stake-sale",
@@ -296,18 +308,6 @@
       "title": "Investing.com — Taiwan stocks higher at close of trade; Taiwan Weighted up 2.79%",
       "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-279-5052076",
       "ts": 1795672804000
-    },
-    {
-      "time": "1:00 AM",
-      "title": "Bloomberg — Stocks and Bonds to Watch as Spain’s Voters Head to the Polls",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/stocks-and-bonds-to-watch-as-spain-s-voters-head-to-the-polls",
-      "ts": 1795672800000
-    },
-    {
-      "time": "12:58 AM",
-      "title": "Investing.com — Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
-      "url": "https://www.investing.com/news/stock-market-news/kioxia-jumps-14-after-nvidia-collaboration-as-chip-stocks-rebound-5052074",
-      "ts": 1795672724000
     }
   ]
 }
