@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:58 AM ET",
+  "generated_at": "Nov 26, 2026, 1:01 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795672694216,
+  "updated_ts": 1795672893283,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -105,27 +105,6 @@
       "ts": 1795670178000
     },
     {
-      "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
-      "snippet": "A hawkish member of the Bank of Japan’s policy board called for early action to keep raising the BOJ’s benchmark rate, supporting market expectations for a rate hike next month.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 9:28 PM",
-      "coverage": 3,
-      "ts": 1795660110000
-    },
-    {
-      "title": "Bank of Canada governor says inflation forecast is lower",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/video-bank-of-canada-governor-says-inflation-forecast-is-lower/",
-      "snippet": "Bank of Canada governor Tiff Macklem says falling global oil prices could mean inflation ends the year below the central bank’s last forecast.",
-      "image": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fd3d444jn19227z.cloudfront.net%2F11-25-2026%2Ft_2f9e5e94f4104e8bab2d4b4a3cb6e927_name_661d4915816bc77303bfc6e979b89f4aae24e576f1689341ae47e71da74fe3b6.jpg?auth=e65685da11e464d3dfd80bf8e5ba55aac24113324554ac37ce86b3d8dd21f93d&smart=true&width=1920&height=1080",
-      "time": "Nov 25, 8:55 AM",
-      "coverage": 3,
-      "ts": 1795614929000
-    },
-    {
       "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
@@ -134,6 +113,26 @@
       "time": "Nov 25, 8:29 AM",
       "coverage": 4,
       "ts": 1795613399000
+    },
+    {
+      "title": "Adani Firms Plan Public Bond Sale to Raise at Least $220 Million",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million",
+      "snippet": "Two companies controlled by Indian billionaire Gautam Adani are looking to sell public bonds to raise at least 20 billion rupees ($220 million), according to people familiar with the matter, which would boost the…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 25, 10:42 PM",
+      "ts": 1795664545000
+    },
+    {
+      "title": "Volatility-weary investors fret as new U.S. tariffs add to tech pain",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/article-volatility-weary-investors-fret-as-new-us-tariffs-add-to-tech-pain/",
+      "snippet": "VIX equity volatility index jumps more than 60% in November as investor fears mount",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ZEC5LXWVDVHSTAPTMCFPD3DRUI.jpg?auth=2ac84aeb141201fa1980cce9b78814800c4711a3f55aa7b2fbadcdf2c8f63aab&smart=true&width=6000&height=4000",
+      "time": "Nov 25, 1:13 PM",
+      "coverage": 3,
+      "ts": 1795630417000
     },
     {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
@@ -256,12 +255,6 @@
       "ts": 1795671955000
     },
     {
-      "time": "12:44 AM",
-      "title": "Bloomberg — Tata Trusts Back Lawsuit Against Tata Sons Chair’s Reappointment",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/tata-trusts-back-lawsuit-against-tata-sons-chair-s-reappointment",
-      "ts": 1795671870000
-    },
-    {
       "time": "12:41 AM",
       "title": "Investing.com — Why did Fisher & Paykel Healthcare shares hit a record high today?",
       "url": "https://www.investing.com/news/stock-market-news/why-did-fisher--paykel-healthcare-shares-hit-a-record-high-today-93CH-5052038",
@@ -286,12 +279,6 @@
       "ts": 1795671004000
     },
     {
-      "time": "12:28 AM",
-      "title": "Bloomberg — Indonesia Must Grow Faster as Its Population Ages, OECD Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/indonesia-must-grow-faster-as-its-population-ages-oecd-says",
-      "ts": 1795670886000
-    },
-    {
       "time": "12:26 AM",
       "title": "Investing.com — Why is Kioxia stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-surging-today-93CH-5052031",
@@ -308,6 +295,18 @@
       "title": "Investing.com — Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
       "url": "https://www.investing.com/news/stock-market-news/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-5052028",
       "ts": 1795670302000
+    },
+    {
+      "time": "12:15 AM",
+      "title": "Bloomberg — DHL's Venter: Supply Chain Resilience Is Key to Growth",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/dhl-s-venter-supply-chain-resilience-is-key-to-growth-video",
+      "ts": 1795670133000
+    },
+    {
+      "time": "12:15 AM",
+      "title": "Investing.com — Bitcoin technical outlook: bear trend with oversold signals near $61,000",
+      "url": "https://www.investing.com/news/stock-market-news/bitcoin-technical-outlook-bear-trend-with-oversold-signals-near-61000-93CH-5052026",
+      "ts": 1795670132000
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 26, 2026, 12:28 AM ET",
+  "generated_at": "Nov 26, 2026, 1:01 AM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -233,14 +233,14 @@
       "kept": 0
     },
     {
-      "source": "Canada Media Fund",
-      "fetched": 24,
-      "kept": 1
-    },
-    {
       "source": "ISED",
       "fetched": 20,
       "kept": 4
+    },
+    {
+      "source": "Canada Media Fund",
+      "fetched": 24,
+      "kept": 1
     },
     {
       "source": "C.D. Howe Institute",
