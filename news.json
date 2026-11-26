@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:37 PM ET",
+  "generated_at": "Nov 26, 2026, 2:40 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795721833157,
+  "updated_ts": 1795722036897,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "2:33 PM",
+      "title": "Globe and Mail — Trump’s foray into state-directed stock picking isn’t going well",
+      "url": "https://www.theglobeandmail.com/business/article-trumps-foray-into-state-directed-stock-picking-isnt-going-well/",
+      "ts": 1795721599000
+    },
+    {
+      "time": "2:31 PM",
+      "title": "Bloomberg — Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence",
+      "ts": 1795721506000
+    },
+    {
       "time": "2:00 PM",
       "title": "Investing.com — Retail inventories and goods trade balance among economic data due Friday",
       "url": "https://www.investing.com/news/stock-market-news/retail-inventories-and-goods-trade-balance-among-economic-data-due-friday-93CH-5052685",
@@ -295,18 +307,6 @@
       "title": "CNBC — Semiconductor chips are the new oil. Here's why",
       "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
       "ts": 1795715535000
-    },
-    {
-      "time": "12:47 PM",
-      "title": "Bloomberg — KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
-      "ts": 1795715250000
-    },
-    {
-      "time": "12:35 PM",
-      "title": "Bloomberg — Kazakhstan Encouraged Local Banks to Finance Deal for Gold Miner",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kazakhstan-encouraged-local-banks-to-finance-deal-for-gold-miner",
-      "ts": 1795714540000
     }
   ]
 }
