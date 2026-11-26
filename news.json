@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:40 PM ET",
+  "generated_at": "Nov 25, 2026, 10:43 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795664425475,
+  "updated_ts": 1795664626743,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "10:36 PM",
+      "title": "Bloomberg — Japan Life Insurers Complicate Yen Fight With Record Low Hedging",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-life-insurers-complicate-yen-fight-with-record-low-hedging",
+      "ts": 1795664205000
+    },
+    {
       "time": "10:32 PM",
       "title": "CNBC — South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
       "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
       "ts": 1795660110000
-    },
-    {
-      "time": "9:05 PM",
-      "title": "Investing.com — Black Friday: unlock the AI picks up as much as 93% since entry",
-      "url": "https://www.investing.com/news/stock-market-news/black-friday-unlock-the-ai-picks-up-as-much-as-93-since-entry-5051893",
-      "ts": 1795658706000
     }
   ]
 }
