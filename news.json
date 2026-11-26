@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:42 PM ET",
+  "generated_at": "Nov 25, 2026, 8:45 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795657350878,
+  "updated_ts": 1795657552747,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -10,7 +10,7 @@
       "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
       "image": "https://images.mktw.net/im-58425830",
       "time": "Nov 25, 8:15 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795655700000
     },
     {
@@ -20,7 +20,7 @@
       "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
       "image": "https://images.mktw.net/im-78896707",
       "time": "Nov 25, 5:45 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795646700000
     },
     {
@@ -30,18 +30,8 @@
       "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
       "image": "https://images.wsj.net/im-58488429",
       "time": "Nov 25, 5:27 PM",
-      "coverage": 6,
-      "ts": 1795645620000
-    },
-    {
-      "title": "Moody’s says Nvidia’s Huang reinstatement eases uncertainty, ratings unchanged",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/moodys-says-nvidias-huang-reinstatement-eases-uncertainty-ratings-unchanged-5051652",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1YI_L.jpg",
-      "time": "Nov 25, 5:24 PM",
       "coverage": 5,
-      "ts": 1795645486000
+      "ts": 1795645620000
     },
     {
       "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
@@ -52,6 +42,16 @@
       "time": "Nov 25, 4:00 PM",
       "coverage": 5,
       "ts": 1795640408000
+    },
+    {
+      "title": "Asia shares bounce, AI and tariffs lurk in background",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP03E_L.jpg",
+      "time": "Nov 25, 8:36 PM",
+      "coverage": 4,
+      "ts": 1795656994000
     },
     {
       "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
@@ -85,6 +85,16 @@
       "ts": 1795647624000
     },
     {
+      "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
+      "snippet": "Washington plans new measures despite voters rejecting Trump’s economic agenda during the midterms",
+      "image": "https://www.theglobeandmail.com/resizer/v2/IUFRPLWK3NDZZEVEJGTYXDQPOU.JPG?auth=2f2f2b3beb5b5eef0877b43c4f697e499ebe57ab206c81ab426baceeef815324&smart=true&width=3529&height=2353",
+      "time": "Nov 25, 8:29 AM",
+      "coverage": 5,
+      "ts": 1795613399000
+    },
+    {
       "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
@@ -106,16 +116,6 @@
       "ts": 1795614929000
     },
     {
-      "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
-      "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
-      "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
-      "time": "Nov 24, 3:16 PM",
-      "coverage": 6,
-      "ts": 1795551400000
-    },
-    {
       "title": "Latest Oil Market News and Analysis for Nov. 26",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/latest-oil-market-news-and-analysis-for-nov-26",
@@ -127,16 +127,6 @@
       "ts": 1795647795000
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 6,
-      "ts": 1795456173000
-    },
-    {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
@@ -144,6 +134,16 @@
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
       "time": "Nov 25, 9:38 AM",
       "ts": 1795617488000
+    },
+    {
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 5,
+      "ts": 1795456173000
     }
   ],
   "outlets": [
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "8:40 PM",
+      "title": "Investing.com — Why is Flight Centre Travel stock falling today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-flight-centre-travel-stock-falling-today-93CH-5051875",
+      "ts": 1795657214000
+    },
+    {
       "time": "8:39 PM",
       "title": "WSJ Markets — Asian Currencies Consolidate, But Risk-Off Sentiment Might Weigh",
       "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
@@ -302,12 +308,6 @@
       "title": "Bloomberg — Australia Capex Surges by Most Since Mining Boom on Data Centers",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-capex-surges-by-most-since-mining-boom-on-data-centers",
       "ts": 1795654917000
-    },
-    {
-      "time": "8:00 PM",
-      "title": "Bloomberg — Modi’s Criticism of India Inc. Puts Weak Investment in Focus",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/modi-s-criticism-of-india-inc-puts-weak-investment-in-focus",
-      "ts": 1795654800000
     }
   ]
 }
