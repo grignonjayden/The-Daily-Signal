@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 5:06 AM ET",
+  "generated_at": "Nov 26, 2026, 5:10 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795687608344,
+  "updated_ts": 1795687809285,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -235,6 +235,12 @@
   ],
   "ticker": [
     {
+      "time": "5:08 AM",
+      "title": "WSJ Markets — U.S. Economy’s Strength Keeps Dollar Elevated",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "ts": 1795687680000
+    },
+    {
       "time": "5:02 AM",
       "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
@@ -245,6 +251,18 @@
       "title": "Investing.com — Text Group stock jumps 17% on strong Q2 profit results",
       "url": "https://www.investing.com/news/stock-market-news/text-group-stock-jumps-17-on-strong-q2-profit-results-93CH-5052355",
       "ts": 1795687103000
+    },
+    {
+      "time": "4:55 AM",
+      "title": "Bloomberg — South Africa’s IDC in Talks for $257 Million Stake in Sugar Firm",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/south-africa-s-idc-in-talks-for-257-million-stake-in-sugar-firm",
+      "ts": 1795686938000
+    },
+    {
+      "time": "4:52 AM",
+      "title": "Bloomberg — German Bond Haven Trade Shifts as Investors Turn to Asset Swaps",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/german-bond-haven-trade-shifts-as-investors-turn-to-asset-swaps",
+      "ts": 1795686755000
     },
     {
       "time": "4:51 AM",
@@ -287,24 +305,6 @@
       "title": "Investing.com — Why is Bachem stock tumbling today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-bachem-stock-tumbling-today-93CH-5052299",
       "ts": 1795684306000
-    },
-    {
-      "time": "4:11 AM",
-      "title": "Investing.com — Babcock shares hit three-month high after record £8.7 billion UK defence deal",
-      "url": "https://www.investing.com/news/stock-market-news/babcock-signs-record-87-billion-uk-submarine-support-agreement-5052230",
-      "ts": 1795684292000
-    },
-    {
-      "time": "4:09 AM",
-      "title": "Investing.com — Why is Tullow Oil stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-tullow-oil-stock-rallying-today-93CH-5052298",
-      "ts": 1795684192000
-    },
-    {
-      "time": "4:09 AM",
-      "title": "Bloomberg — Can Trump Gain Any Leverage Over China With the 40% Tariff Threat?",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/insight-with-haslinda-amin-11-26-2026-video",
-      "ts": 1795684156000
     }
   ]
 }
