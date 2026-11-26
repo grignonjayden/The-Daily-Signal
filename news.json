@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:39 AM ET",
+  "generated_at": "Nov 26, 2026, 3:42 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795682344542,
+  "updated_ts": 1795682547360,
   "articles": [
     {
       "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "3:40 AM",
+      "title": "WSJ Markets — Gold Rises But U.S. Inflation Data Fuels Rate-Hike Expectations",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
+      "ts": 1795682400000
+    },
+    {
       "time": "3:32 AM",
       "title": "WSJ Markets — Gilt Yields Rise as Inflation Concerns Linger",
       "url": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
@@ -302,12 +308,6 @@
       "title": "CNBC — Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
       "url": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
       "ts": 1795679105000
-    },
-    {
-      "time": "2:44 AM",
-      "title": "Investing.com — CMC Markets first-half profit more than doubles as B2B growth drives margins",
-      "url": "https://www.investing.com/news/stock-market-news/cmc-markets-firsthalf-profit-more-than-doubles-as-b2b-growth-drives-margins-5052162",
-      "ts": 1795679087000
     }
   ]
 }
