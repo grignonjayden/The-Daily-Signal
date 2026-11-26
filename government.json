@@ -1,12 +1,12 @@
 {
-  "generated_at": "Nov 26, 2026, 7:41 AM ET",
+  "generated_at": "Nov 26, 2026, 8:15 AM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
     {
       "title": "Eric Ham: Trump’s hypocrisy on China exposes Washington’s latest bluff against Ottawa",
       "url": "https://www.cp24.com/news/canada/2026/11/26/eric-ham-trumps-hypocrisy-on-china-exposes-washingtons-latest-bluff-against-ottawa/",
-      "image": "https://www.cp24.com/resizer/v2/HI24AVOLTNEWXOLET2V5NIUUPU.jpg?auth=627f27404926c45bbc26b263dee90b768c32bd26728cd25f8aedc4917830cc3a&smart=true&width=3000&height=2000",
+      "image": "https://www.cp24.com/resizer/v2/7YHLW7QDSJFQTLYRVI7AX2PRMQ.jpg?auth=35bd868c8fec783f99c975910d6be4a777dfef9386e3192e833f6852a8528262&smart=true&width=2603&height=1464",
       "source": "CP24",
       "badge": "CP24",
       "analysis": false,
@@ -225,19 +225,14 @@
       "kept": 3
     },
     {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
       "source": "CBC News",
       "fetched": 40,
       "kept": 2
     },
     {
-      "source": "CDEV",
+      "source": "Finance Canada",
       "fetched": 20,
-      "kept": 0
+      "kept": 4
     },
     {
       "source": "CP24",
@@ -245,14 +240,19 @@
       "kept": 3
     },
     {
-      "source": "ISED",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
       "source": "Canada Media Fund",
       "fetched": 24,
       "kept": 1
+    },
+    {
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 4
     },
     {
       "source": "C.D. Howe Institute",
