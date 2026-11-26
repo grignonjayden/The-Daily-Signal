@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:45 AM ET",
+  "generated_at": "Nov 26, 2026, 1:48 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795675512926,
+  "updated_ts": 1795675712072,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -64,6 +64,16 @@
       "ts": 1795670520000
     },
     {
+      "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP0AK_L.jpg",
+      "time": "Nov 26, 1:42 AM",
+      "coverage": 2,
+      "ts": 1795675362000
+    },
+    {
       "title": "Nvidia stops shipping AI servers to 4 Southeast Asian countries- FT",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/nvidia-stops-shipping-ai-servers-to-4-southeast-asian-countries-ft-5052075",
@@ -114,16 +124,6 @@
       "time": "Nov 25, 8:29 AM",
       "coverage": 4,
       "ts": 1795613399000
-    },
-    {
-      "title": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/kioxia-jumps-14-after-nvidia-collaboration-as-chip-stocks-rebound-5052074",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEB4C07I_M.jpg",
-      "time": "Nov 26, 12:58 AM",
-      "coverage": 2,
-      "ts": 1795672724000
     },
     {
       "title": "Volatility-weary investors fret as new U.S. tariffs add to tech pain",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "1:43 AM",
+      "title": "Investing.com — MiniMax linked to unauthorized access of confidential AI user data - report",
+      "url": "https://www.investing.com/news/stock-market-news/minimax-linked-to-unauthorized-access-of-confidential-ai-user-data--report-93CH-5052113",
+      "ts": 1795675407000
+    },
+    {
       "time": "1:39 AM",
       "title": "CNBC — SpaceX, Musk pledge to donate a share each to active Trump Accounts",
       "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
@@ -274,6 +280,12 @@
       "ts": 1795672800000
     },
     {
+      "time": "12:58 AM",
+      "title": "Investing.com — Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
+      "url": "https://www.investing.com/news/stock-market-news/kioxia-jumps-14-after-nvidia-collaboration-as-chip-stocks-rebound-5052074",
+      "ts": 1795672724000
+    },
+    {
       "time": "12:52 AM",
       "title": "Bloomberg — BOK Hikes Key Rate to 3.25%",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video",
@@ -296,18 +308,6 @@
       "title": "Bloomberg — Xpeng President on Carmaker's Robot Push",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/xpeng-president-on-carmaker-s-robot-push-video",
       "ts": 1795671955000
-    },
-    {
-      "time": "12:42 AM",
-      "title": "Investing.com — Why is Shein stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-shein-stock-sliding-today-93CH-5052040",
-      "ts": 1795671764000
-    },
-    {
-      "time": "12:41 AM",
-      "title": "Investing.com — Why did Fisher & Paykel Healthcare shares hit a record high today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-did-fisher--paykel-healthcare-shares-hit-a-record-high-today-93CH-5052038",
-      "ts": 1795671710000
     }
   ]
 }
