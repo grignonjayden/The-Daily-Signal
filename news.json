@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:33 PM ET",
+  "generated_at": "Nov 26, 2026, 1:36 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795718016317,
+  "updated_ts": 1795718216856,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:33 PM",
+      "title": "Globe and Mail — Four sophisticated Black Friday scams to watch for this shopping season",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
+      "ts": 1795718011000
+    },
+    {
       "time": "1:32 PM",
       "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
       "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
@@ -301,12 +307,6 @@
       "title": "Globe and Mail — Costs to host Canada’s Investment Summit surpassed $8.1-million",
       "url": "https://www.theglobeandmail.com/canada/article-canada-investment-summit-costs-topped-81-million/",
       "ts": 1795713699000
-    },
-    {
-      "time": "12:18 PM",
-      "title": "Investing.com — European stocks end higher as benign U.S. tariffs, Thanksgiving lull offer relief",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
-      "ts": 1795713535000
     }
   ]
 }
