@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:00 PM ET",
+  "generated_at": "Nov 25, 2026, 11:03 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795665637275,
+  "updated_ts": 1795665838460,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "11:00 PM",
+      "title": "CNBC — Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
+      "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
+      "ts": 1795665615000
+    },
+    {
       "time": "10:42 PM",
       "title": "Bloomberg — Adani Firms Plan Public Bond Sale to Raise at Least $220 Million",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million",
@@ -301,12 +307,6 @@
       "title": "CNBC — SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
       "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
       "ts": 1795660539000
-    },
-    {
-      "time": "9:33 PM",
-      "title": "Investing.com — Asian tech stocks jump as bargain buyers boost battered AI trade",
-      "url": "https://www.investing.com/news/stock-market-news/asian-tech-stocks-jump-as-bargain-buyers-boost-battered-ai-trade-5051918",
-      "ts": 1795660396000
     }
   ]
 }
