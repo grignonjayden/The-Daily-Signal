@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:45 AM ET",
+  "generated_at": "Nov 26, 2026, 2:48 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795679131338,
+  "updated_ts": 1795679330704,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -96,16 +96,6 @@
       "ts": 1795677100000
     },
     {
-      "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5052112",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP0AK_L.jpg",
-      "time": "Nov 26, 1:42 AM",
-      "coverage": 2,
-      "ts": 1795675362000
-    },
-    {
       "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
@@ -124,6 +114,16 @@
       "time": "Nov 25, 11:29 PM",
       "coverage": 3,
       "ts": 1795667395000
+    },
+    {
+      "title": "Skanska wins $275 mln data center contract in Georgia, USA",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/skanska-wins-275-mln-data-center-contract-in-georgia-usa-93CH-5052117",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+      "time": "Nov 26, 1:46 AM",
+      "coverage": 2,
+      "ts": 1795675599000
     },
     {
       "title": "Volatility-weary investors fret as new U.S. tariffs add to tech pain",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "2:44 AM",
+      "title": "Investing.com — CMC Markets first-half profit more than doubles as B2B growth drives margins",
+      "url": "https://www.investing.com/news/stock-market-news/cmc-markets-firsthalf-profit-more-than-doubles-as-b2b-growth-drives-margins-5052162",
+      "ts": 1795679087000
+    },
+    {
       "time": "2:37 AM",
       "title": "Bloomberg — FTSE 100 Eyes Rebound as Shift to UK Gilts Pauses",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/ftse-100-eyes-rebound-as-shift-to-uk-gilts-pauses",
@@ -249,10 +255,22 @@
       "ts": 1795678500000
     },
     {
+      "time": "2:33 AM",
+      "title": "Investing.com — UniCredit clears final hurdles for Commerzbank takeover",
+      "url": "https://www.investing.com/news/stock-market-news/unicredit-clears-final-hurdles-for-commerzbank-takeover-5052161",
+      "ts": 1795678412000
+    },
+    {
       "time": "2:30 AM",
       "title": "CNBC — Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
       "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
       "ts": 1795678211000
+    },
+    {
+      "time": "2:28 AM",
+      "title": "Investing.com — Safestore expects full-year earnings in line as new stores offset weaker trading",
+      "url": "https://www.investing.com/news/stock-market-news/safestore-expects-fullyear-earnings-in-line-as-new-stores-offset-weaker-trading-5052155",
+      "ts": 1795678099000
     },
     {
       "time": "2:24 AM",
@@ -289,24 +307,6 @@
       "title": "MarketWatch — Is the stock market open for Thanksgiving? The answer might surprise you.",
       "url": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
       "ts": 1795677360000
-    },
-    {
-      "time": "2:05 AM",
-      "title": "Bloomberg — UK Faces Third Day of Strained Electricity Supplies on Cold Snap",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/uk-faces-third-day-of-strained-electricity-supplies-on-cold-snap",
-      "ts": 1795676706000
-    },
-    {
-      "time": "2:00 AM",
-      "title": "Investing.com — Japan stocks higher at close of trade; Nikkei 225 up 0.84%",
-      "url": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-084-5052126",
-      "ts": 1795676406000
-    },
-    {
-      "time": "2:00 AM",
-      "title": "WSJ Markets — Nordic Stocks Tipped to Open Higher",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main",
-      "ts": 1795676400000
     }
   ]
 }
