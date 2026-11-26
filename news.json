@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:07 PM ET",
+  "generated_at": "Nov 25, 2026, 7:11 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795651669995,
+  "updated_ts": 1795651871282,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -75,6 +75,16 @@
       "ts": 1795640408000
     },
     {
+      "title": "Exclusive-Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveboehly-signs-usbacked-share-swap-deal-to-buy-lukoil-global-assets-5051129",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1CJ_L.jpg",
+      "time": "Nov 25, 6:00 PM",
+      "coverage": 4,
+      "ts": 1795647624000
+    },
+    {
       "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
@@ -94,16 +104,6 @@
       "time": "Nov 25, 6:03 PM",
       "coverage": 3,
       "ts": 1795647795000
-    },
-    {
-      "title": "Exclusive-Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/exclusiveboehly-signs-usbacked-share-swap-deal-to-buy-lukoil-global-assets-5051129",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAO1CJ_L.jpg",
-      "time": "Nov 25, 6:00 PM",
-      "coverage": 3,
-      "ts": 1795647624000
     },
     {
       "title": "Jupiter’s $3.6 Billion Fund Goes Defensive, Skirts Tech Selloff",
@@ -245,6 +245,12 @@
       "ts": 1795651410000
     },
     {
+      "time": "7:03 PM",
+      "title": "WSJ Markets — Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+      "url": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
+      "ts": 1795651380000
+    },
+    {
       "time": "7:01 PM",
       "title": "CNBC — Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
       "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
@@ -303,12 +309,6 @@
       "title": "Investing.com — International Paper names insider Nicholls CEO of DS Smith spinoff",
       "url": "https://www.investing.com/news/stock-market-news/international-paper-names-insider-nicholls-ceo-of-ds-smith-spinoff-5051706",
       "ts": 1795647983000
-    },
-    {
-      "time": "6:00 PM",
-      "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "ts": 1795647600000
     }
   ]
 }
