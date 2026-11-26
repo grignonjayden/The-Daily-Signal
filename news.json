@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 4:26 AM ET",
+  "generated_at": "Nov 26, 2026, 4:29 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795685177522,
+  "updated_ts": 1795685377612,
   "articles": [
     {
       "title": "US Proposes New Tariffs, Asian Stocks Rise As AI Trade Rebounds",
@@ -126,14 +126,14 @@
       "ts": 1795684343000
     },
     {
-      "title": "Who’ll pay for overruns on the Darlington small modular reactor? – and other unanswered questions",
+      "title": "Volatility-weary investors fret as new U.S. tariffs add to tech pain",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-wholl-pay-for-overruns-on-the-darlington-small-modular-reactor-and/",
-      "snippet": "Nuclear projects are notorious for suffering cost overruns and taking longer than promised, often with consequences for consumers",
-      "image": "https://www.theglobeandmail.com/resizer/v2/EEGTDHHN7RH2BHB3CGD3EHLQHE.JPG?auth=128096982f08569354ad26317ce9d6d18cf83c1f8ca02457eb8c4d9962db3669&smart=true&width=6000&height=4000",
-      "time": "Nov 26, 4:00 AM",
-      "coverage": 2,
-      "ts": 1795683600000
+      "url": "https://www.theglobeandmail.com/investing/article-volatility-weary-investors-fret-as-new-us-tariffs-add-to-tech-pain/",
+      "snippet": "VIX equity volatility index jumps more than 60% in November as investor fears mount",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ZEC5LXWVDVHSTAPTMCFPD3DRUI.jpg?auth=2ac84aeb141201fa1980cce9b78814800c4711a3f55aa7b2fbadcdf2c8f63aab&smart=true&width=6000&height=4000",
+      "time": "Nov 25, 1:13 PM",
+      "coverage": 3,
+      "ts": 1795630417000
     },
     {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
