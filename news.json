@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:26 PM ET",
+  "generated_at": "Nov 26, 2026, 12:29 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795713993165,
+  "updated_ts": 1795714193983,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -45,6 +45,16 @@
       "ts": 1795698060000
     },
     {
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
+      "time": "Nov 26, 7:22 AM",
+      "coverage": 5,
+      "ts": 1795695745000
+    },
+    {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
@@ -55,55 +65,24 @@
       "ts": 1795663184000
     },
     {
-      "title": "FTSE 100 today: Stocks post best day in over six months; Imperial Brands leads",
+      "title": "European stocks end higher as benign U.S. tariffs, Thanksgiving lull offer relief",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEF1B0JS_M.jpg",
-      "time": "Nov 26, 11:50 AM",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
+      "time": "Nov 26, 12:18 PM",
       "coverage": 4,
-      "ts": 1795711828000
+      "ts": 1795713535000
     },
     {
-      "title": "US Marlboro maker Altria explores Imperial Brands takeover in Big Tobacco mega deal",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
-      "time": "Nov 26, 11:25 AM",
-      "coverage": 4,
-      "ts": 1795710337000
-    },
-    {
-      "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
-      "snippet": "U.S. tobacco group Altria said on Thursday it was considering a possible all-cash offer for ​Imperial Brands.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107232976-1682707584484-gettyimages-1486127437-0j5a7430_clcrzwlh.jpeg?v=1698330737&w=1920&h=1080",
-      "time": "Nov 26, 9:47 AM",
-      "coverage": 4,
-      "ts": 1795704457000
-    },
-    {
-      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
+      "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
-      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
-      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
-      "time": "Nov 26, 9:00 AM",
+      "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
+      "snippet": "New import duties targeting 14 economies aim to replace earlier tariffs struck down by U.S. Supreme Court",
+      "image": "https://www.theglobeandmail.com/resizer/v2/VCWLJQIPJRB7PJF3AW5B4BVS7I.jpg?auth=325e44498ea288acaed102b5295cf1b035f0d829ab386b0aa97a096e9ee43d5c&smart=true&width=4000&height=2522",
+      "time": "Nov 26, 6:24 AM",
       "coverage": 4,
-      "ts": 1795701602000
-    },
-    {
-      "title": "Altria, Japan Tobacco Explore Takeover of Imperial Brands",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
-      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential takeover of British cigarette maker Imperial Brands Plc, accelerating consolidation in the declining cigarette market in what would be one of the…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 8:08 AM",
-      "coverage": 4,
-      "ts": 1795698533000
+      "ts": 1795692285000
     },
     {
       "title": "Spanish former central banker to be named next European Central Bank chief",
@@ -114,6 +93,27 @@
       "time": "Nov 26, 9:44 AM",
       "coverage": 2,
       "ts": 1795704259000
+    },
+    {
+      "title": "Mexico urges Asian trade partners to crack down on tariff dodging",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/mexico-urges-asian-trade-partners-to-crack-down-on-tariff-dodging-5052646",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP1JV_L.jpg",
+      "time": "Nov 26, 12:12 PM",
+      "coverage": 3,
+      "ts": 1795713163000
+    },
+    {
+      "title": "Trans-Oil Warns of Going-Concern Risk Pending Debt Waiver",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/trans-oil-warns-of-going-concern-risk-pending-debt-waiver",
+      "snippet": "Trans-Oil Group has yet to secure a waiver after breaching financial covenants on a key export facility, adding to liquidity pressure at the agricultural commodities firm.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 11:39 AM",
+      "coverage": 3,
+      "ts": 1795711169000
     },
     {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
@@ -237,70 +237,70 @@
   ],
   "ticker": [
     {
+      "time": "12:23 PM",
+      "title": "WSJ Markets — Gold Rises But Big Moves Seen as Unlikely for Now",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
+      "ts": 1795713780000
+    },
+    {
       "time": "12:21 PM",
       "title": "Globe and Mail — Costs to host Canada’s Investment Summit surpassed $8.1-million",
       "url": "https://www.theglobeandmail.com/canada/article-canada-investment-summit-costs-topped-81-million/",
       "ts": 1795713699000
     },
     {
-      "time": "12:00 PM",
-      "title": "Investing.com — Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.98%",
-      "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-198-5052636",
-      "ts": 1795712429000
+      "time": "12:08 PM",
+      "title": "Investing.com — U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 1.88%",
+      "url": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-188-5052644",
+      "ts": 1795712920000
     },
     {
-      "time": "12:00 PM",
-      "title": "Investing.com — Finland stocks higher at close of trade; OMX Helsinki 25 up 2.18%",
-      "url": "https://www.investing.com/news/stock-market-news/finland-stocks-higher-at-close-of-trade-omx-helsinki-25-up-218-5052633",
-      "ts": 1795712404000
+      "time": "12:08 PM",
+      "title": "Investing.com — Spain stocks higher at close of trade; IBEX 35 up 2.35%",
+      "url": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-235-5052643",
+      "ts": 1795712897000
+    },
+    {
+      "time": "12:07 PM",
+      "title": "Investing.com — Portugal stocks higher at close of trade; PSI up 1.33%",
+      "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-133-5052642",
+      "ts": 1795712874000
+    },
+    {
+      "time": "12:07 PM",
+      "title": "Investing.com — Netherlands stocks higher at close of trade; AEX up 1.86%",
+      "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-186-5052641",
+      "ts": 1795712849000
+    },
+    {
+      "time": "12:07 PM",
+      "title": "Investing.com — Italy stocks higher at close of trade; Investing.com Italy 40 up 2.47%",
+      "url": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-247-5052640",
+      "ts": 1795712825000
+    },
+    {
+      "time": "12:06 PM",
+      "title": "Investing.com — Germany stocks higher at close of trade; DAX up 2.14%",
+      "url": "https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-214-5052639",
+      "ts": 1795712776000
+    },
+    {
+      "time": "12:05 PM",
+      "title": "Investing.com — France stocks higher at close of trade; CAC 40 up 1.61%",
+      "url": "https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-161-5052638",
+      "ts": 1795712732000
+    },
+    {
+      "time": "12:05 PM",
+      "title": "Investing.com — Belgium stocks higher at close of trade; BEL 20 up 1.57%",
+      "url": "https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-157-5052637",
+      "ts": 1795712704000
     },
     {
       "time": "11:49 AM",
       "title": "Bloomberg — Stellantis to Pause More Europe Plants as Chinese Rivals Advance",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/stellantis-to-pause-more-europe-plants-as-chinese-rivals-advance",
       "ts": 1795711756000
-    },
-    {
-      "time": "11:48 AM",
-      "title": "Investing.com — Brazil’s Embraer criticizes new US tariffs, warns of air travel inflation",
-      "url": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
-      "ts": 1795711701000
-    },
-    {
-      "time": "11:42 AM",
-      "title": "Investing.com — UniCredit pushes for Commerzbank management shake-up with CEO Orcel as chair",
-      "url": "https://www.investing.com/news/stock-market-news/unicredit-pushes-for-commerzbank-management-shakeup-with-ceo-orcel-as-chair-5052474",
-      "ts": 1795711372000
-    },
-    {
-      "time": "11:39 AM",
-      "title": "Bloomberg — Trans-Oil Warns of Going-Concern Risk Pending Debt Waiver",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/trans-oil-warns-of-going-concern-risk-pending-debt-waiver",
-      "ts": 1795711169000
-    },
-    {
-      "time": "11:36 AM",
-      "title": "Investing.com — Netherlands will ask Washington not to enforce MATCH Act, minister says",
-      "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
-      "ts": 1795710993000
-    },
-    {
-      "time": "11:35 AM",
-      "title": "Investing.com — Poland stocks higher at close of trade; WIG30 up 1.63%",
-      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-163-5052625",
-      "ts": 1795710903000
-    },
-    {
-      "time": "11:30 AM",
-      "title": "Investing.com — Denmark stocks higher at close of trade; OMX Copenhagen 20 up 1.32%",
-      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-132-5052620",
-      "ts": 1795710604000
-    },
-    {
-      "time": "11:25 AM",
-      "title": "Investing.com — LATAM Brasil says initial E195-E2 route sales running above expectations",
-      "url": "https://www.investing.com/news/stock-market-news/latam-brasil-says-initial-e195e2-route-sales-running-above-expectations-5052619",
-      "ts": 1795710321000
     },
     {
       "time": "11:15 AM",
