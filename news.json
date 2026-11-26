@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:50 PM ET",
+  "generated_at": "Nov 26, 2026, 12:53 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795715403729,
+  "updated_ts": 1795715603693,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -237,10 +237,28 @@
   ],
   "ticker": [
     {
+      "time": "12:52 PM",
+      "title": "CNBC — Semiconductor chips are the new oil. Here's why",
+      "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "ts": 1795715535000
+    },
+    {
+      "time": "12:47 PM",
+      "title": "Bloomberg — KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
+      "ts": 1795715250000
+    },
+    {
       "time": "12:39 PM",
       "title": "CNBC — Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
       "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
       "ts": 1795714763000
+    },
+    {
+      "time": "12:35 PM",
+      "title": "Bloomberg — Kazakhstan Encouraged Local Banks to Finance Deal for Gold Miner",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kazakhstan-encouraged-local-banks-to-finance-deal-for-gold-miner",
+      "ts": 1795714540000
     },
     {
       "time": "12:31 PM",
@@ -289,24 +307,6 @@
       "title": "Investing.com — Italy stocks higher at close of trade; Investing.com Italy 40 up 2.47%",
       "url": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-247-5052640",
       "ts": 1795712825000
-    },
-    {
-      "time": "12:06 PM",
-      "title": "Investing.com — Germany stocks higher at close of trade; DAX up 2.14%",
-      "url": "https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-214-5052639",
-      "ts": 1795712776000
-    },
-    {
-      "time": "12:05 PM",
-      "title": "Investing.com — France stocks higher at close of trade; CAC 40 up 1.61%",
-      "url": "https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-161-5052638",
-      "ts": 1795712732000
-    },
-    {
-      "time": "12:05 PM",
-      "title": "Investing.com — Belgium stocks higher at close of trade; BEL 20 up 1.57%",
-      "url": "https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-157-5052637",
-      "ts": 1795712704000
     }
   ]
 }
