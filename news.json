@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 5:43 AM ET",
+  "generated_at": "Nov 26, 2026, 5:47 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795689829535,
+  "updated_ts": 1795690034002,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -14,7 +14,7 @@
       "ts": 1795689420000
     },
     {
-      "title": "FINAL HOUR: Your last chance to grab our exclusive Black Friday deal of the year",
+      "title": "FINAL HOUR: Your last chance to get 60% off InvestingPro BEFORE BLACK FRIDAY ENDS",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/final-hour-your-last-chance-to-grab-our-best-black-friday-deal-of-the-year-5052364",
       "snippet": "",
@@ -22,6 +22,16 @@
       "time": "Nov 26, 5:10 AM",
       "coverage": 4,
       "ts": 1795687817000
+    },
+    {
+      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
+      "snippet": "Sentiment was helped by an upward revision to third-quarter GDP and clarification that new U.S. tariffs on China and dozens of other nations will replace rather than add to previous ones.",
+      "image": "https://images.wsj.net/im-34152034",
+      "time": "Nov 26, 4:47 AM",
+      "coverage": 5,
+      "ts": 1795686420000
     },
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -54,17 +64,7 @@
       "ts": 1795686700000
     },
     {
-      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
-      "snippet": "Sentiment was helped by an upward revision to third-quarter GDP and clarification that new U.S. tariffs on China and dozens of other nations will replace rather than add to previous ones.",
-      "image": "https://images.wsj.net/im-34152034",
-      "time": "Nov 26, 4:47 AM",
-      "coverage": 4,
-      "ts": 1795686420000
-    },
-    {
-      "title": "BLACK FRIDAY SPECIAL: Only until today can you lock in the best sale of the year",
+      "title": "BLACK FRIDAY SPECIAL: Grab 60% off InvestingPro BEFORE SALE ENDS TODAY",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/black-friday-special-only-until-today-can-you-lock-in-the-best-sale-of-the-year-5052313",
       "snippet": "",
@@ -235,6 +235,30 @@
   ],
   "ticker": [
     {
+      "time": "5:46 AM",
+      "title": "CNBC — The Nobel-winning science turning ‘water harvesting’ into a commercial race",
+      "url": "https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/",
+      "ts": 1795689983000
+    },
+    {
+      "time": "5:35 AM",
+      "title": "Investing.com — Why is ams OSRAM stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-ams-osram-stock-surging-today-93CH-5052382",
+      "ts": 1795689355000
+    },
+    {
+      "time": "5:30 AM",
+      "title": "Investing.com — India stocks higher at close of trade; Nifty 50 up 0.25%",
+      "url": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-025-5052374",
+      "ts": 1795689005000
+    },
+    {
+      "time": "5:24 AM",
+      "title": "Investing.com — UK miners rise as copper rebounds from 11-month low",
+      "url": "https://www.investing.com/news/stock-market-news/uk-miners-rise-as-copper-rebounds-from-11month-low-5052372",
+      "ts": 1795688649000
+    },
+    {
       "time": "5:11 AM",
       "title": "MarketWatch — The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
       "url": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
@@ -281,30 +305,6 @@
       "title": "Bloomberg — German Bond Haven Trade Shifts as Investors Turn to Asset Swaps",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/german-bond-haven-trade-shifts-as-investors-turn-to-asset-swaps",
       "ts": 1795686755000
-    },
-    {
-      "time": "4:52 AM",
-      "title": "Investing.com — Why is Norse Atlantic stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-norse-atlantic-stock-surging-today-93CH-5052320",
-      "ts": 1795686739000
-    },
-    {
-      "time": "4:39 AM",
-      "title": "Investing.com — SBO shares rise on strong Q3 orders in precision technology",
-      "url": "https://www.investing.com/news/stock-market-news/sbo-shares-rise-on-strong-q3-orders-in-precision-technology-93CH-5052310",
-      "ts": 1795685992000
-    },
-    {
-      "time": "4:36 AM",
-      "title": "Investing.com — Norse Atlantic shares rebound 23% after flight halt, bankruptcy warning",
-      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-shares-fall-18-as-flight-halt-raises-bankruptcy-risk-5052227",
-      "ts": 1795685813000
-    },
-    {
-      "time": "4:12 AM",
-      "title": "Investing.com — Why is Safestore stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-safestore-stock-climbing-today-93CH-5052300",
-      "ts": 1795684370000
     }
   ]
 }
