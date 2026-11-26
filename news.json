@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 5:13 AM ET",
+  "generated_at": "Nov 26, 2026, 5:16 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795688013959,
+  "updated_ts": 1795688214057,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -95,16 +95,6 @@
       "ts": 1795613399000
     },
     {
-      "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
-      "snippet": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/elon-musk-spacex-trump-accounts-donation.jpg",
-      "time": "Nov 25, 11:29 PM",
-      "coverage": 3,
-      "ts": 1795667395000
-    },
-    {
       "title": "Canada remains top destination for infrastructure investors, survey finds",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-canada-remains-top-destination-for-infrastructure-investors-survey/",
@@ -132,6 +122,16 @@
       "time": "Nov 26, 4:52 AM",
       "coverage": 2,
       "ts": 1795686739000
+    },
+    {
+      "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
+      "snippet": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/elon-musk-spacex-trump-accounts-donation.jpg",
+      "time": "Nov 25, 11:29 PM",
+      "coverage": 2,
+      "ts": 1795667395000
     },
     {
       "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
@@ -235,6 +235,12 @@
   ],
   "ticker": [
     {
+      "time": "5:11 AM",
+      "title": "MarketWatch — The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+      "url": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+      "ts": 1795687860000
+    },
+    {
       "time": "5:08 AM",
       "title": "WSJ Markets — U.S. Economy’s Strength Keeps Dollar Elevated",
       "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
@@ -299,12 +305,6 @@
       "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
       "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
       "ts": 1795684343000
-    },
-    {
-      "time": "4:11 AM",
-      "title": "Investing.com — Why is Bachem stock tumbling today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-bachem-stock-tumbling-today-93CH-5052299",
-      "ts": 1795684306000
     }
   ]
 }
