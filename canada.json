@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 26, 2026, 10:25 AM ET",
+  "generated_at": "Nov 26, 2026, 10:59 AM ET",
   "date_key": "2026-11-26",
   "sections": [
     {
@@ -169,7 +169,7 @@
             "dir": "flat"
           },
           "note": "What banks charge their best customers; variable loans and lines of credit move with it.",
-          "as_of": "Bank of Canada (weekly) · Nov 18, 2026",
+          "as_of": "Bank of Canada (weekly) · Nov 25, 2026",
           "url": "https://www.bankofcanada.ca/rates/banking-and-financial-statistics/posted-interest-rates-offered-by-chartered-banks/"
         },
         {
@@ -214,7 +214,8 @@
           },
           "note": "How much prices overall rose over the past 12 months. The Bank of Canada aims for 2%.",
           "as_of": "Statistics Canada · October 2026",
-          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401"
+          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401",
+          "stale": true
         },
         {
           "name": "Food prices",
@@ -226,7 +227,8 @@
           },
           "note": "How much food prices rose over the past 12 months.",
           "as_of": "Statistics Canada · October 2026",
-          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401"
+          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401",
+          "stale": true
         },
         {
           "name": "Unemployment rate",
@@ -238,7 +240,8 @@
           },
           "note": "Share of people looking for work who can’t find a job.",
           "as_of": "Statistics Canada · October 2026",
-          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701"
+          "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701",
+          "stale": true
         }
       ]
     }
