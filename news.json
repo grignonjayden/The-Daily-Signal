@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:13 PM ET",
+  "generated_at": "Nov 26, 2026, 1:16 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795716806294,
+  "updated_ts": 1795717013293,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -219,6 +219,8 @@
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
       "snippet": "The Securities and Exchange Commission’s&nbsp;Investor Advisory Committee will hold a virtual public meeting on Dec. 3, at 9:30 a.m. ET to discuss the trading of tokenized securities, bankruptcy, and accounting…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
       "time": "Nov 25, 9:10 AM",
       "ts": 1795615824000
     },
@@ -227,6 +229,8 @@
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
       "snippet": "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Audit Trail (CAT). The Commission is proposing to rescind…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/330px-US_Capitol_east_side.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
       "time": "Nov 20, 1:03 PM",
       "ts": 1795197804000
     }
