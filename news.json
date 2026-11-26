@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:21 AM ET",
+  "generated_at": "Nov 26, 2026, 12:24 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795670486727,
+  "updated_ts": 1795670686871,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -64,14 +64,14 @@
       "ts": 1795640408000
     },
     {
-      "title": "Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger",
+      "title": "Musk says every U.S. child will receive two SpaceX shares",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-taiwan-south-korea-rebound-nvidia-risks-linger-5052021",
+      "url": "https://www.investing.com/news/stock-market-news/musk-says-every-us-child-will-receive-two-spacex-shares-5052023",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEB1H0YB_M.jpg",
-      "time": "Nov 26, 12:01 AM",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6M02C_L.jpg",
+      "time": "Nov 26, 12:06 AM",
       "coverage": 4,
-      "ts": 1795669297000
+      "ts": 1795669599000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "12:18 AM",
+      "title": "Investing.com — Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
+      "url": "https://www.investing.com/news/stock-market-news/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-5052028",
+      "ts": 1795670302000
+    },
+    {
       "time": "12:16 AM",
       "title": "CNBC — North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
       "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
@@ -248,6 +254,18 @@
       "title": "Bloomberg — DHL's Venter: Supply Chain Resilience Is Key to Growth",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/dhl-s-venter-supply-chain-resilience-is-key-to-growth-video",
       "ts": 1795670133000
+    },
+    {
+      "time": "12:06 AM",
+      "title": "Investing.com — Stocks rally in Asia, US tariffs not as dire as feared",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
+      "ts": 1795669597000
+    },
+    {
+      "time": "12:01 AM",
+      "title": "Investing.com — Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-taiwan-south-korea-rebound-nvidia-risks-linger-5052021",
+      "ts": 1795669297000
     },
     {
       "time": "Nov 25",
@@ -290,24 +308,6 @@
       "title": "CNBC — Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
       "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
       "ts": 1795665615000
-    },
-    {
-      "time": "Nov 25",
-      "title": "Bloomberg — China-Backed Pakistan Exchange Prepares to Launch Stock Options",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/china-backed-pakistan-exchange-prepares-to-launch-stock-options",
-      "ts": 1795665615000
-    },
-    {
-      "time": "Nov 25",
-      "title": "Bloomberg — Japan Life Insurers Complicate Yen Fight With Record Low Hedging",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-life-insurers-complicate-yen-fight-with-record-low-hedging",
-      "ts": 1795664205000
-    },
-    {
-      "time": "Nov 25",
-      "title": "CNBC — South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
-      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
-      "ts": 1795663973000
     }
   ]
 }
