@@ -1,8 +1,20 @@
 {
-  "generated_at": "Nov 26, 2026, 4:31 PM ET",
+  "generated_at": "Nov 26, 2026, 5:05 PM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "12 First Nations in B.C. buy stake in Coastal GasLink pipeline",
+      "url": "https://www.cbc.ca/news/politics/coastal-gaslink-pipeline-ownership-9.7437694?cmp=rss",
+      "image": "https://i.cbc.ca/ais/1.5901410,1726186999000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C119%2C1280%2C720%29%3B",
+      "source": "CBC News",
+      "badge": "CBC",
+      "analysis": false,
+      "sector": "Energy",
+      "time": "Nov 26",
+      "date": "2026-11-26T21:30:00.000Z",
+      "group": "sector"
+    },
     {
       "title": "Government supports Indigenous economic participation in major energy infrastructure",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-supports-indigenous-economic-participation-in-major-energy-infrastructure.html",
@@ -201,19 +213,24 @@
       "kept": 3
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 1
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
     },
     {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
+    },
+    {
       "source": "CP24",
       "fetched": 200,
       "kept": 1
+    },
+    {
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 0
     },
     {
       "source": "ISED",
@@ -223,11 +240,6 @@
     {
       "source": "Canada Media Fund",
       "fetched": 24,
-      "kept": 0
-    },
-    {
-      "source": "CDEV",
-      "fetched": 20,
       "kept": 0
     },
     {

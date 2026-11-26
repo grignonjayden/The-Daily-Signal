@@ -1,39 +1,8 @@
 {
-  "generated_at": "Nov 26, 2026, 5:01 PM ET",
+  "generated_at": "Nov 26, 2026, 5:04 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795730499793,
+  "updated_ts": 1795730698453,
   "articles": [
-    {
-      "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-      "snippet": "A rebound off lows for the S&P 500 on Wednesday calms bourses after the tech washout.",
-      "image": "https://images.mktw.net/im-44727230",
-      "time": "Nov 26, 8:41 AM",
-      "coverage": 7,
-      "ts": 1795700460000
-    },
-    {
-      "title": "U.S. stock futures rise on Thanksgiving a day after wild swings on Wall Street",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-whipsaw-session-on-wall-st-5051753",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
-      "time": "Nov 26, 3:37 PM",
-      "coverage": 6,
-      "ts": 1795725443000
-    },
-    {
-      "title": "Wall Street se vuelve más cauteloso con el carry trade",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/wall-street-se-vuelve-mas-cauteloso-con-el-carry-trade-mwxrpht6",
-      "snippet": "La operación llegó a generar retornos cercanos a 20% y resistió guerras, intervenciones y crisis políticas. Ahora, la volatilidad obliga a repensar una de las maniobras favoritas del mercado.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 11:29 AM",
-      "coverage": 6,
-      "ts": 1795710566000
-    },
     {
       "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
       "source": "MarketWatch",
@@ -45,24 +14,35 @@
       "ts": 1795701600000
     },
     {
-      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
-      "snippet": "Stock futures extended a late rally from the previous session to trade higher with sentiment helped by an upward revision to third-quarter GDP.",
-      "image": "https://images.wsj.net/im-34152034",
-      "time": "Nov 26, 8:01 AM",
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 26, 4:30 PM",
       "coverage": 5,
-      "ts": 1795698060000
+      "ts": 1795728600000
     },
     {
-      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
-      "time": "Nov 26, 7:22 AM",
+      "title": "U.S. stock futures rise on Thanksgiving a day after wild swings on Wall Street",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-whipsaw-session-on-wall-st-5051753",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
+      "time": "Nov 26, 3:37 PM",
       "coverage": 5,
-      "ts": 1795695745000
+      "ts": 1795725443000
+    },
+    {
+      "title": "Wall Street se vuelve más cauteloso con el carry trade",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/wall-street-se-vuelve-mas-cauteloso-con-el-carry-trade-mwxrpht6",
+      "snippet": "La operación llegó a generar retornos cercanos a 20% y resistió guerras, intervenciones y crisis políticas. Ahora, la volatilidad obliga a repensar una de las maniobras favoritas del mercado.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 11:29 AM",
+      "coverage": 5,
+      "ts": 1795710566000
     },
     {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
@@ -86,14 +66,14 @@
       "ts": 1795723215000
     },
     {
-      "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
-      "snippet": "The Nasdaq composite plunged as much as 4.5% Wednesday before paring losses.",
-      "image": "https://images.wsj.net/im-02216921",
-      "time": "Nov 25, 4:48 PM",
-      "coverage": 6,
-      "ts": 1795643280000
+      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
+      "snippet": "Stock futures extended a late rally from the previous session to trade higher with sentiment helped by an upward revision to third-quarter GDP.",
+      "image": "https://images.wsj.net/im-34152034",
+      "time": "Nov 26, 8:01 AM",
+      "coverage": 4,
+      "ts": 1795698060000
     },
     {
       "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.72%",
@@ -106,24 +86,44 @@
       "ts": 1795728604000
     },
     {
-      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
-      "snippet": "Markets increasingly question whether even the biggest AI names can generate enough profit to justify their price tags",
-      "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
-      "time": "Nov 25, 11:40 AM",
-      "coverage": 6,
-      "ts": 1795624858000
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
+      "time": "Nov 26, 7:22 AM",
+      "coverage": 4,
+      "ts": 1795695745000
     },
     {
-      "title": "Four Black Friday scams to watch for this shopping season",
+      "title": "Ukrainian investment office urges Canadian companies to invest in energy sector after Russian attacks",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
-      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
-      "time": "Nov 26, 1:33 PM",
+      "url": "https://www.theglobeandmail.com/business/article-ukrainian-investment-office-urges-canadian-companies-to-invest-in/",
+      "snippet": "Attacks have damaged generation capacity, and weakened the power grid and gas infrastructure ahead of winter",
+      "image": "https://www.theglobeandmail.com/resizer/v2/RIMPFOBC6VE5TJWGSD72K7V6OA.JPG?auth=6387f5b0d7f981f57e0c15d2bbb4694c280fc57d952cb4601dc7a64a8d5872f1&smart=true&width=7567&height=5044",
+      "time": "Nov 26, 1:14 PM",
       "coverage": 3,
-      "ts": 1795718011000
+      "ts": 1795716873000
+    },
+    {
+      "title": "Spain’s Pablo Hernández de Cos to take over from Lagarde as European Central Bank chief",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/",
+      "snippet": "France’s Laurence Boone and Germany’s Markus Brunnermeier set to fill remaining vacancies on the board as the central bank grapples with inflation",
+      "image": "https://www.theglobeandmail.com/resizer/v2/DGRZZ4JRAVEETLK7GFUJVTZQYM.JPG?auth=f6be22b94cdcd26171b8dd8955bf3ea689fa7b9a80d7a3f0a96bb9d1b49de06e&smart=true&width=4044&height=2724",
+      "time": "Nov 26, 9:44 AM",
+      "coverage": 2,
+      "ts": 1795704259000
+    },
+    {
+      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
+      "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
+      "image": "https://images.wsj.net/im-58488429",
+      "time": "Nov 25, 5:27 PM",
+      "coverage": 5,
+      "ts": 1795645620000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "5:00 PM",
+      "title": "MarketWatch — ‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "ts": 1795730400000
+    },
+    {
       "time": "4:45 PM",
       "title": "MarketWatch — I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
       "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
@@ -259,12 +265,6 @@
       "title": "Investing.com — Mexico stocks lower at close of trade; S&P/BMV IPC down 1.33%",
       "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-133-5052726",
       "ts": 1795728632000
-    },
-    {
-      "time": "4:30 PM",
-      "title": "MarketWatch — I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "ts": 1795728600000
     },
     {
       "time": "4:25 PM",
