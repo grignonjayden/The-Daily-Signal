@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:41 AM ET",
+  "generated_at": "Nov 26, 2026, 7:45 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795696914852,
+  "updated_ts": 1795697124198,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -96,6 +96,16 @@
       "ts": 1795645620000
     },
     {
+      "title": "Musk pledges two SpaceX shares for every U.S. child in $18-billion AI charm offensive",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/article-musk-pledges-two-spacex-shares-for-every-us-child-in-18-billion-ai/",
+      "snippet": "Share giveaway announced hours after company won approval to deploy 1 million satellites for data centres in space",
+      "image": "https://www.theglobeandmail.com/resizer/v2/GWCJRYALWNCG7AKYRMLVYZEVF4.jpg?auth=bda122dc55db1338facde98e5bba9bad1bd9ef63a243c10d880ad2f637bca9f1&smart=true&width=8640&height=5760",
+      "time": "Nov 26, 7:37 AM",
+      "coverage": 3,
+      "ts": 1795696629000
+    },
+    {
       "title": "Stocks climb as traders shrug off latest US tariff salvo",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
@@ -116,23 +126,13 @@
       "ts": 1795695315000
     },
     {
-      "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-anthropics-slide-tests-wall-streets-lofty-bets-on-future-ai-profits/",
-      "snippet": "Markets increasingly question whether even the biggest AI names can generate enough profit to justify their price tags",
-      "image": "https://www.theglobeandmail.com/resizer/v2/O4JIPRKACRD7ROG6RV6OWRLTII.JPG?auth=3c4d7a56b3b863f2a6cc2195c4d2c656589cfee0e5c9a6f6455939f323c0ffdf&smart=true&width=5000&height=3333",
-      "time": "Nov 25, 11:40 AM",
-      "coverage": 5,
-      "ts": 1795624858000
-    },
-    {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
       "snippet": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/elon-musk-spacex-trump-accounts-donation.jpg",
       "time": "Nov 25, 11:29 PM",
-      "coverage": 2,
+      "coverage": 3,
       "ts": 1795667395000
     },
     {
@@ -262,6 +262,12 @@
       "ts": 1795696020000
     },
     {
+      "time": "7:24 AM",
+      "title": "Bloomberg — Congo Closes on Top Copper Supplier Chile as Exports Soar Again",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-closes-on-top-copper-supplier-chile-as-exports-soar-again",
+      "ts": 1795695847000
+    },
+    {
       "time": "7:19 AM",
       "title": "Investing.com — UniCredit pushes for Commerzbank management shake-up with CEO Orcel as chair",
       "url": "https://www.investing.com/news/stock-market-news/unicredit-pushes-for-commerzbank-management-shakeup-with-ceo-orcel-as-chair-5052474",
@@ -302,12 +308,6 @@
       "title": "Investing.com — Dutch groups ask court to halt Meta smart glasses sales over privacy concerns",
       "url": "https://www.investing.com/news/stock-market-news/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales-over-privacy-concerns-5052455",
       "ts": 1795694419000
-    },
-    {
-      "time": "7:00 AM",
-      "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-fd3f4387?mod=rss_markets_main",
-      "ts": 1795694400000
     }
   ]
 }
