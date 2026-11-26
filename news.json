@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:59 AM ET",
+  "generated_at": "Nov 26, 2026, 9:03 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795701585469,
+  "updated_ts": 1795701786126,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -24,6 +24,16 @@
       "ts": 1795698060000
     },
     {
+      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+      "snippet": "The ‘Bank of AI’ faces a host of troubles ahead.",
+      "image": "https://images.mktw.net/im-40841215",
+      "time": "Nov 26, 9:00 AM",
+      "coverage": 4,
+      "ts": 1795701600000
+    },
+    {
       "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
@@ -32,6 +42,16 @@
       "time": "Nov 26, 7:22 AM",
       "coverage": 4,
       "ts": 1795695745000
+    },
+    {
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "snippet": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559274-1795616819098-gettyimages-2306584360-vcg111684383907.jpeg?v=1795616838&w=1920&h=1080",
+      "time": "Nov 25, 10:19 PM",
+      "coverage": 5,
+      "ts": 1795663184000
     },
     {
       "title": "Inflation-Wary Shoppers Prepare for Black Friday",
@@ -45,16 +65,6 @@
       "ts": 1795695493000
     },
     {
-      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
-      "snippet": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559710-1795655986080-gettyimages-2290083650-golba-dailylif260808_npNHs.jpeg?v=1795656043&w=1920&h=1080",
-      "time": "Nov 25, 10:13 PM",
-      "coverage": 5,
-      "ts": 1795662823000
-    },
-    {
       "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
@@ -63,16 +73,6 @@
       "time": "Nov 26, 6:24 AM",
       "coverage": 4,
       "ts": 1795692285000
-    },
-    {
-      "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-      "image": "https://images.mktw.net/im-58425830",
-      "time": "Nov 25, 8:15 PM",
-      "coverage": 5,
-      "ts": 1795655700000
     },
     {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
@@ -85,14 +85,35 @@
       "ts": 1795645620000
     },
     {
-      "title": "Stocks climb as traders shrug off latest US tariff salvo",
+      "title": "Altria weighs possible offer for UK’s Imperial Brands",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
+      "url": "https://www.investing.com/news/stock-market-news/altria-weighs-possible-offer-for-uks-imperial-brands-5052505",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP03E_L.jpg",
-      "time": "Nov 26, 8:00 AM",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP15B_L.jpg",
+      "time": "Nov 26, 8:24 AM",
       "coverage": 3,
-      "ts": 1795698046000
+      "ts": 1795699464000
+    },
+    {
+      "title": "Altria, Japan Tobacco Explore Breakup of Imperial Brands",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential breakup of British cigarette maker Imperial Brands Plc, in what would be one of the largest takeovers of a UK company in a decade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 8:08 AM",
+      "coverage": 3,
+      "ts": 1795698533000
+    },
+    {
+      "title": "Why is Imperial Brands stock surging today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-imperial-brands-stock-surging-today-93CH-5052503",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "time": "Nov 26, 8:08 AM",
+      "coverage": 3,
+      "ts": 1795698511000
     },
     {
       "title": "Musk pledges two SpaceX shares for every U.S. child in $18-billion AI charm offensive",
@@ -103,26 +124,6 @@
       "time": "Nov 26, 7:37 AM",
       "coverage": 3,
       "ts": 1795696629000
-    },
-    {
-      "title": "Trump’s China Tariffs Threaten Fresh Trade Tensions",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-pulse-with-francine-lacqua-11-26-2026-video",
-      "snippet": "China has vowed to defend its interests after the US unveiled new tariffs on Chinese goods and warned the rate could double if trade talks collapse, injecting fresh tension ahead of a planned meeting between Donald…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 6:56 AM",
-      "coverage": 3,
-      "ts": 1795694211000
-    },
-    {
-      "title": "Brazil’s Grupo Fictor, former bidder for Banco Master, investigated in fraud probe, source says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/brazils-grupo-fictor-former-bidder-for-banco-master-investigated-in-fraud-probe-source-says-5052520",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "time": "Nov 26, 8:36 AM",
-      "ts": 1795700164000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -236,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "8:36 AM",
+      "title": "Investing.com — Brazil’s Grupo Fictor, former bidder for Banco Master, investigated in fraud probe, source says",
+      "url": "https://www.investing.com/news/stock-market-news/brazils-grupo-fictor-former-bidder-for-banco-master-investigated-in-fraud-probe-source-says-5052520",
+      "ts": 1795700164000
+    },
+    {
       "time": "8:34 AM",
       "title": "CNBC — What is ‘texture-maxxing’? The food trend putting crunch on the menu",
       "url": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
@@ -248,10 +255,10 @@
       "ts": 1795699795000
     },
     {
-      "time": "8:24 AM",
-      "title": "Investing.com — Altria weighs possible offer for UK’s Imperial Brands",
-      "url": "https://www.investing.com/news/stock-market-news/altria-weighs-possible-offer-for-uks-imperial-brands-5052505",
-      "ts": 1795699464000
+      "time": "8:27 AM",
+      "title": "WSJ Markets — Altria Considers $157 Billion Tie-Up With Imperial Brands",
+      "url": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=rss_markets_main",
+      "ts": 1795699620000
     },
     {
       "time": "8:24 AM",
@@ -264,18 +271,6 @@
       "title": "Bloomberg — ECB Officials Saw More Tightening With Inflation Outlook Worse",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/ecb-officials-saw-more-tightening-with-inflation-outlook-worse",
       "ts": 1795698576000
-    },
-    {
-      "time": "8:08 AM",
-      "title": "Bloomberg — Altria, Japan Tobacco Explore Breakup of Imperial Brands",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
-      "ts": 1795698533000
-    },
-    {
-      "time": "8:08 AM",
-      "title": "Investing.com — Why is Imperial Brands stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-imperial-brands-stock-surging-today-93CH-5052503",
-      "ts": 1795698511000
     },
     {
       "time": "8:08 AM",
@@ -306,6 +301,12 @@
       "title": "Bloomberg — Global Stocks Climb as AI Trade Rebounds",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-opening-trade-11-26-2026-video",
       "ts": 1795698080000
+    },
+    {
+      "time": "8:00 AM",
+      "title": "Investing.com — Stocks climb as traders shrug off latest US tariff salvo",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
+      "ts": 1795698046000
     }
   ]
 }
