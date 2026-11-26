@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:43 PM ET",
+  "generated_at": "Nov 25, 2026, 10:47 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795664626743,
+  "updated_ts": 1795664826905,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -249,6 +249,12 @@
       "ts": 1795663973000
     },
     {
+      "time": "10:24 PM",
+      "title": "Investing.com — Exclusive-Alice Huang-linked firms listed $270 million in AI servers in China, records show",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivealice-huanglinked-firms-listed-270-million-in-ai-servers-in-china-records-show-5049792",
+      "ts": 1795663465000
+    },
+    {
       "time": "10:19 PM",
       "title": "CNBC — S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Rupee Hits 8-Month High as India November Stock Inflows Reach $14.7 Billion: INR",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/rupee-hits-8-month-high-as-india-november-stock-inflows-reach-14-7-billion",
       "ts": 1795660342000
-    },
-    {
-      "time": "9:28 PM",
-      "title": "Bloomberg — Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
-      "ts": 1795660110000
     }
   ]
 }
