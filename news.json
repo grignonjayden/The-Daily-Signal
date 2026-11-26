@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:37 AM ET",
+  "generated_at": "Nov 26, 2026, 9:40 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795703838216,
+  "updated_ts": 1795704039654,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "9:35 AM",
+      "title": "MarketWatch — This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "ts": 1795703700000
+    },
+    {
       "time": "9:20 AM",
       "title": "CNBC — Spain’s Pablo Hernández de Cos set to lead European Central Bank",
       "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
@@ -302,12 +308,6 @@
       "title": "Bloomberg — Spain's De Cos Set to Succeed Lagarde as ECB President",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n",
       "ts": 1795701943000
-    },
-    {
-      "time": "9:02 AM",
-      "title": "Investing.com — Wednesday’s top insider buys and sells: Galaxy Digital, Gold.com and more",
-      "url": "https://www.investing.com/news/stock-market-news/wednesdays-top-insider-buys-and-sells-galaxy-digital-goldcom-and-more-93CH-5052536",
-      "ts": 1795701740000
     }
   ]
 }
