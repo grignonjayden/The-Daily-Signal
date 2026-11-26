@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:52 AM ET",
+  "generated_at": "Nov 26, 2026, 3:56 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795683161742,
+  "updated_ts": 1795683365572,
   "articles": [
     {
       "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
@@ -238,8 +238,14 @@
   ],
   "ticker": [
     {
+      "time": "3:51 AM",
+      "title": "WSJ Markets — Euro’s Recovery Potential Against Dollar Remains Limited",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "ts": 1795683060000
+    },
+    {
       "time": "3:50 AM",
-      "title": "Bloomberg — UniCredit Clears Final Hurdle to Take Over Commerzbank (Video)",
+      "title": "Bloomberg — UniCredit Clears Final Hurdle to Take Over Commerzbank",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video",
       "ts": 1795683020000
     },
@@ -302,12 +308,6 @@
       "title": "CNBC — Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
       "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
       "ts": 1795681547000
-    },
-    {
-      "time": "3:18 AM",
-      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
-      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
-      "ts": 1795681106000
     }
   ]
 }
