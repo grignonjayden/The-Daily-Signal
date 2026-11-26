@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 10:45 AM ET",
+  "generated_at": "Nov 26, 2026, 10:49 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795707943558,
+  "updated_ts": 1795708143896,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -236,6 +236,18 @@
   ],
   "ticker": [
     {
+      "time": "10:45 AM",
+      "title": "Globe and Mail — Ottawa begins rolling out $700-million in AI compute funding under new sector-based approach",
+      "url": "https://www.theglobeandmail.com/business/technology/article-ottawa-rolling-out-700-million-in-ai-compute-funding-evan-solomon/",
+      "ts": 1795707945000
+    },
+    {
+      "time": "10:30 AM",
+      "title": "Investing.com — Turkey stocks higher at close of trade; BIST 100 up 0.82%",
+      "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-082-5052587",
+      "ts": 1795707004000
+    },
+    {
       "time": "10:28 AM",
       "title": "CNBC — Spain’s Pablo Hernández de Cos set to lead European Central Bank",
       "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
@@ -246,6 +258,12 @@
       "title": "Bloomberg — What JLL Sees This Holiday Season",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/what-jll-sees-this-holiday-season-video",
       "ts": 1795706716000
+    },
+    {
+      "time": "10:24 AM",
+      "title": "Investing.com — Dutch groups ask court to halt Meta smart glasses sales over privacy concerns",
+      "url": "https://www.investing.com/news/stock-market-news/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales-over-privacy-concerns-5052455",
+      "ts": 1795706677000
     },
     {
       "time": "10:20 AM",
@@ -288,24 +306,6 @@
       "title": "Bloomberg — (USD:ZAR) Rand Hurtles Toward Worst November Against Dollar in 25 Years",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/-usd-zar-rand-hurtles-toward-worst-november-against-dollar-in-25-years",
       "ts": 1795705167000
-    },
-    {
-      "time": "9:37 AM",
-      "title": "Investing.com — TSX opens higher, extending rebound after whipsaw session",
-      "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
-      "ts": 1795703863000
-    },
-    {
-      "time": "9:35 AM",
-      "title": "MarketWatch — This retired professor has reinvented himself — as a Taylor Swift scholar",
-      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-      "ts": 1795703700000
-    },
-    {
-      "time": "9:18 AM",
-      "title": "Investing.com — Brazil’s Embraer CEO says US aircraft tariff will hurt airlines",
-      "url": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
-      "ts": 1795702711000
     }
   ]
 }
