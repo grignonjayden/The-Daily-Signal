@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:02 AM ET",
+  "generated_at": "Nov 26, 2026, 8:05 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795698131248,
+  "updated_ts": 1795698332468,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -14,6 +14,16 @@
       "ts": 1795689420000
     },
     {
+      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
+      "snippet": "Stock futures extended a late rally from the previous session to trade higher with sentiment helped by an upward revision to third-quarter GDP.",
+      "image": "https://images.wsj.net/im-34152034",
+      "time": "Nov 26, 8:01 AM",
+      "coverage": 5,
+      "ts": 1795698060000
+    },
+    {
       "title": "Wall Street Flips From AI Euphoria to Gloom",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/wall-street-flips-from-ai-euphoria-to-gloom",
@@ -23,16 +33,6 @@
       "time": "Nov 26, 5:56 AM",
       "coverage": 5,
       "ts": 1795690612000
-    },
-    {
-      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
-      "snippet": "Sentiment was helped by an upward revision to third-quarter GDP and clarification that new U.S. tariffs on China and dozens of other nations will replace rather than add to previous ones.",
-      "image": "https://images.wsj.net/im-34152034",
-      "time": "Nov 26, 4:47 AM",
-      "coverage": 5,
-      "ts": 1795686420000
     },
     {
       "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
@@ -238,6 +238,24 @@
   ],
   "ticker": [
     {
+      "time": "8:00 AM",
+      "title": "Globe and Mail — Closing time: Only one province is bucking the retail-closure trend",
+      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-closing-time-only-one-province-is-bucking-the-retail-closure-trend/",
+      "ts": 1795698000000
+    },
+    {
+      "time": "8:00 AM",
+      "title": "Globe and Mail — Many unhappy returns: How retailers are finding new markets in resales",
+      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-many-unhappy-returns-how-retailers-are-finding-new-markets-in-resales/",
+      "ts": 1795698000000
+    },
+    {
+      "time": "7:54 AM",
+      "title": "Bloomberg — Brazil Tightens Consumer Lending Rules as Household Debt Soars",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/brazil-tightens-consumer-lending-rules-as-household-debt-soars",
+      "ts": 1795697690000
+    },
+    {
       "time": "7:46 AM",
       "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
@@ -290,24 +308,6 @@
       "title": "Investing.com — UniCredit pushes for Commerzbank management shake-up with CEO Orcel as chair",
       "url": "https://www.investing.com/news/stock-market-news/unicredit-pushes-for-commerzbank-management-shakeup-with-ceo-orcel-as-chair-5052474",
       "ts": 1795695573000
-    },
-    {
-      "time": "7:18 AM",
-      "title": "Investing.com — Factbox-Smart glasses face growing privacy pushback worldwide",
-      "url": "https://www.investing.com/news/stock-market-news/factboxsmart-glasses-face-growing-privacy-pushback-worldwide-5052470",
-      "ts": 1795695521000
-    },
-    {
-      "time": "7:15 AM",
-      "title": "Investing.com — Deutsche Bank sees Eutelsat debt risk rising on costly satellite renewal",
-      "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-sees-eutelsat-debt-risk-rising-on-costly-satellite-renewal-5052465",
-      "ts": 1795695315000
-    },
-    {
-      "time": "7:15 AM",
-      "title": "Bloomberg — China’s Copper Crunch Hides a Fragile Demand Outlook",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/china-s-copper-crunch-hides-a-fragile-demand-outlook",
-      "ts": 1795695301000
     }
   ]
 }
