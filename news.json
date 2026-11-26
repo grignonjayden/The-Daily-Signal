@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 9:43 PM ET",
+  "generated_at": "Nov 25, 2026, 9:46 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795660992620,
+  "updated_ts": 1795661192591,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -24,6 +24,16 @@
       "ts": 1795655700000
     },
     {
+      "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
+      "snippet": "Gold fell to its lowest level in more ‌than a year after strong U.S. inflation data failed to assuage concerns surrounding the Federal Reserve's rate-hike path.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108070242-1733186993850-2017-07-23T095149Z_104088800_RC197C0FB0C0_RTRMADP_3_SINGAPORE-GOLD.JPG?v=1795580161&w=1920&h=1080",
+      "time": "Nov 25, 6:50 PM",
+      "coverage": 5,
+      "ts": 1795650653000
+    },
+    {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
@@ -44,14 +54,14 @@
       "ts": 1795645620000
     },
     {
-      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
-      "snippet": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558516-17955383482025-12-03t204438z_1611070846_rc269iamutg0_rtrmadp_0_nvidia-huang-congress.jpeg?v=1795635517&w=1920&h=1080",
-      "time": "Nov 25, 4:00 PM",
-      "coverage": 5,
-      "ts": 1795640408000
+      "title": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEK1L06T_L.jpg",
+      "time": "Nov 25, 9:41 PM",
+      "coverage": 4,
+      "ts": 1795660906000
     },
     {
       "title": "Asia shares bounce, AI and tariffs lurk in background",
@@ -85,14 +95,14 @@
       "ts": 1795613399000
     },
     {
-      "title": "The Other Nvidia Romance With an Executive at a Company Linked to China",
+      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
-      "snippet": "Nvidia’s sales chief dated a Super Micro executive for years. Now they have married and her former company has been linked to chip smuggling.",
-      "image": "https://images.wsj.net/im-02809795",
-      "time": "Nov 25, 9:00 PM",
-      "coverage": 3,
-      "ts": 1795658400000
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
+      "snippet": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
+      "image": "https://images.wsj.net/im-85047619",
+      "time": "Nov 25, 5:21 PM",
+      "coverage": 4,
+      "ts": 1795645260000
     },
     {
       "title": "Bank of Canada governor says inflation forecast is lower",
@@ -103,16 +113,6 @@
       "time": "Nov 25, 8:55 AM",
       "coverage": 3,
       "ts": 1795614929000
-    },
-    {
-      "title": "U.S. stock futures turn higher as tech rebound holds after wild swings on Wall St",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-whipsaw-session-on-wall-st-5051753",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
-      "time": "Nov 25, 6:43 PM",
-      "coverage": 3,
-      "ts": 1795650223000
     },
     {
       "title": "KK Mart Starts $112 Million IPO Delayed by Malaysia Socks Row",
@@ -237,10 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "9:36 PM",
+      "title": "Investing.com — Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says",
+      "url": "https://www.investing.com/news/stock-market-news/air-cargo-demand-from-ai-data-centres-shows-no-sign-of-slowing-sats-ceo-says-5051923",
+      "ts": 1795660596000
+    },
+    {
       "time": "9:35 PM",
       "title": "CNBC — SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
       "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
       "ts": 1795660539000
+    },
+    {
+      "time": "9:33 PM",
+      "title": "Investing.com — Asian tech stocks jump as bargain buyers boost battered AI trade",
+      "url": "https://www.investing.com/news/stock-market-news/asian-tech-stocks-jump-as-bargain-buyers-boost-battered-ai-trade-5051918",
+      "ts": 1795660396000
     },
     {
       "time": "9:32 PM",
@@ -259,6 +271,12 @@
       "title": "Bloomberg — Copper Rebounds From Lowest This Year as Volatility Hits Metals",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/copper-rebounds-from-lowest-this-year-as-volatility-hits-metals",
       "ts": 1795658470000
+    },
+    {
+      "time": "9:00 PM",
+      "title": "WSJ Markets — The Other Nvidia Romance With an Executive at a Company Linked to China",
+      "url": "https://www.wsj.com/finance/stocks/nvidia-china-executive-affair-jay-puri-cenly-chen-a42d733b?mod=rss_markets_main",
+      "ts": 1795658400000
     },
     {
       "time": "8:54 PM",
@@ -289,24 +307,6 @@
       "title": "Investing.com — Why is Flight Centre Travel stock falling today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-flight-centre-travel-stock-falling-today-93CH-5051875",
       "ts": 1795657214000
-    },
-    {
-      "time": "8:34 PM",
-      "title": "CNBC — Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
-      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-      "ts": 1795656898000
-    },
-    {
-      "time": "8:31 PM",
-      "title": "Bloomberg — Shein’s Slow India Start Lays Bare Limits of Billionaire Ambani’s Retail Might",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/shein-s-slow-india-start-lays-bare-limits-of-billionaire-ambani-s-retail-might",
-      "ts": 1795656680000
-    },
-    {
-      "time": "8:30 PM",
-      "title": "Bloomberg — Rupee Has Room to Rally Before RBI Steps In, Strategists Say",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/rupee-rally-has-91-in-sight-as-rbi-seen-holding-back-dollar-buys",
-      "ts": 1795656600000
     }
   ]
 }
