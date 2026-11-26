@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 5:38 PM ET",
+  "generated_at": "Nov 26, 2026, 5:42 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795732714093,
+  "updated_ts": 1795732920394,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "5:30 PM",
+      "title": "Bloomberg — AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ai-rout-makes-kioxia-japan-s-cheapest-blue-chip-backing-bulls",
+      "ts": 1795732213000
+    },
+    {
       "time": "5:00 PM",
       "title": "Investing.com — Bradesco’s Trabuco accepts invitation to be Brazil’s finance minister, source says",
       "url": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
@@ -301,12 +307,6 @@
       "title": "Investing.com — TSX ends higher after whipsaw session, helped by battery metal stocks & labor data",
       "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
       "ts": 1795727457000
-    },
-    {
-      "time": "4:06 PM",
-      "title": "Investing.com — US malls make a holiday comeback as shoppers seek more than deals",
-      "url": "https://www.investing.com/news/stock-market-news/us-malls-make-a-holiday-comeback-as-shoppers-seek-more-than-deals-5052721",
-      "ts": 1795727177000
     }
   ]
 }
