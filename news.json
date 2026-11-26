@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 11:47 PM ET",
+  "generated_at": "Nov 25, 2026, 11:51 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795668469080,
+  "updated_ts": 1795668669924,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "11:49 PM",
+      "title": "CNBC — South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "ts": 1795668543000
+    },
+    {
       "time": "11:30 PM",
       "title": "Bloomberg — Australia Firms See Inflation Holding Over 4% for Next 12 Months",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-firms-see-inflation-holding-over-4-for-next-12-months",
@@ -302,12 +308,6 @@
       "title": "Investing.com — Stocks rally in Asia, unrocked by US tariffs",
       "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
       "ts": 1795663098000
-    },
-    {
-      "time": "10:09 PM",
-      "title": "CNBC — K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
-      "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
-      "ts": 1795662587000
     }
   ]
 }
