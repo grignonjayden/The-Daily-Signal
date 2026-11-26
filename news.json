@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:22 AM ET",
+  "generated_at": "Nov 26, 2026, 8:25 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795699346248,
+  "updated_ts": 1795699546258,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "8:09 AM",
+      "title": "Bloomberg — ECB Officials Saw More Tightening With Inflation Outlook Worse",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ecb-officials-saw-more-tightening-with-inflation-outlook-worse",
+      "ts": 1795698576000
+    },
+    {
       "time": "8:08 AM",
       "title": "Bloomberg — Altria Studies Deal for Cigarette Maker Imperial Brands",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
@@ -301,12 +307,6 @@
       "title": "Investing.com — FTSE 100 today: Stocks rise as miners, tech rebound; Babcock leads",
       "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-tech-rebound-offsets-tariff-worries-5052207",
       "ts": 1795697169000
-    },
-    {
-      "time": "7:37 AM",
-      "title": "MarketWatch — Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
-      "url": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
-      "ts": 1795696620000
     }
   ]
 }
