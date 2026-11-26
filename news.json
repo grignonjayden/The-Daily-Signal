@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:20 PM ET",
+  "generated_at": "Nov 26, 2026, 1:23 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795717213326,
+  "updated_ts": 1795717413833,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "1:14 PM",
+      "title": "Globe and Mail — Ukrainian investment office urges Canadian companies to invest in energy sector after Russian attacks",
+      "url": "https://www.theglobeandmail.com/business/article-ukrainian-investment-office-urges-canadian-companies-to-invest-in/",
+      "ts": 1795716873000
+    },
+    {
       "time": "1:00 PM",
       "title": "Bloomberg — New Zealand Poised to Learn Who Can Form Its Next Government",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/new-zealand-poised-to-learn-who-can-form-its-next-government",
@@ -275,7 +281,7 @@
     {
       "time": "12:31 PM",
       "title": "Globe and Mail — What to know about the proposed Telus takeover and possible telecom consolidation",
-      "url": "https://www.theglobeandmail.com/business/article-what-to-know-about-the-proposed-telus-takeover-quebecor-bid/",
+      "url": "https://www.theglobeandmail.com/business/article-what-to-know-about-the-proposed-telus-takeover-and-possible-telecom/",
       "ts": 1795714319000
     },
     {
@@ -301,12 +307,6 @@
       "title": "Investing.com — Mexico urges Asian trade partners to crack down on tariff dodging",
       "url": "https://www.investing.com/news/stock-market-news/mexico-urges-asian-trade-partners-to-crack-down-on-tariff-dodging-5052646",
       "ts": 1795713163000
-    },
-    {
-      "time": "12:08 PM",
-      "title": "Investing.com — U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 1.88%",
-      "url": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-188-5052644",
-      "ts": 1795712920000
     }
   ]
 }
