@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:50 AM ET",
+  "generated_at": "Nov 26, 2026, 9:54 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795704650908,
+  "updated_ts": 1795704851141,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -285,6 +285,12 @@
       "ts": 1795702510000
     },
     {
+      "time": "9:14 AM",
+      "title": "Bloomberg — Oil Refining Profits Crash With Global Fuel Supply Rebounding",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/oil-refining-profits-crash-with-global-fuel-supply-rebounding",
+      "ts": 1795702483000
+    },
+    {
       "time": "9:12 AM",
       "title": "Investing.com — Stellantis says keeping production in Italy a ’daily challenge’ amid rising costs",
       "url": "https://www.investing.com/news/stock-market-news/stellantis-says-keeping-production-in-italy-a-daily-challenge-amid-rising-costs-5052537",
@@ -301,12 +307,6 @@
       "title": "Globe and Mail — Premier Ford, Unifor leader call on Ottawa to scrap greenhouse gas rules for Canadian automakers",
       "url": "https://www.theglobeandmail.com/business/article-ford-unifor-greenhouse-gas-rules-automakers-stellantis-plant/",
       "ts": 1795702268000
-    },
-    {
-      "time": "9:02 AM",
-      "title": "Investing.com — Wednesday’s top insider buys and sells: Galaxy Digital, Gold.com and more",
-      "url": "https://www.investing.com/news/stock-market-news/wednesdays-top-insider-buys-and-sells-galaxy-digital-goldcom-and-more-93CH-5052536",
-      "ts": 1795701740000
     }
   ]
 }
