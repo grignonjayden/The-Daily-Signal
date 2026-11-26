@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:34 AM ET",
+  "generated_at": "Nov 26, 2026, 12:38 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795671293354,
+  "updated_ts": 1795671493471,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "12:36 AM",
+      "title": "CNBC — Beware higher correlation but nab high U.S. credit yields, fund managers say",
+      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "ts": 1795671361000
+    },
+    {
       "time": "12:18 AM",
       "title": "Investing.com — Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
       "url": "https://www.investing.com/news/stock-market-news/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-5052028",
@@ -302,12 +308,6 @@
       "title": "CNBC — How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
       "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
       "ts": 1795666338000
-    },
-    {
-      "time": "Nov 25",
-      "title": "CNBC — Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
-      "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
-      "ts": 1795665615000
     }
   ]
 }
