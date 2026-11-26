@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 26, 2026, 8:49 AM ET",
+  "generated_at": "Nov 26, 2026, 9:23 AM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -112,18 +112,6 @@
       "group": "sector"
     },
     {
-      "title": "Loonie jumps as Macklem stays hawkish",
-      "url": "https://www.cp24.com/news/money/2026/11/25/tandem-rate-hikes-from-the-boc-and-fed-bodes-well-for-the-loonie-fx-expert-says/",
-      "image": "https://www.cp24.com/resizer/v2/GMBAIYBQBFNUDWANG54RHHA4IM.jpg?auth=dc05562ded46d9b3535737d72f6e5d26db9a53685e4f7d0840ba95483dbbebd7&smart=true&width=1400&height=997",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Monetary",
-      "time": "Nov 25",
-      "date": "2026-11-25T22:47:09.000Z",
-      "group": "policy"
-    },
-    {
       "title": "Six Degrees of Optimism in the 2026 Federal Budget",
       "url": "https://cdhowe.org/publication/six-degrees-of-optimism-in-the-2026-federal-budget/",
       "image": "https://cdhowe.org/wp-content/uploads/2026/11/iStock-1488351398.jpg",
@@ -182,6 +170,18 @@
       "time": "Nov 24",
       "date": "2026-11-24T18:22:26.000Z",
       "group": "policy"
+    },
+    {
+      "title": "Bank of Canada Media Interview – The Logic",
+      "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-media-interview-the-logic/",
+      "image": "https://www.bankofcanada.ca/wp-content/uploads/2018/05/4.jpg",
+      "source": "Bank of Canada",
+      "badge": "BoC",
+      "analysis": false,
+      "sector": "Monetary",
+      "time": "Nov 24",
+      "date": "2026-11-24T15:00:24.000Z",
+      "group": "policy"
     }
   ],
   "sources": [
@@ -225,14 +225,14 @@
       "kept": 2
     },
     {
+      "source": "Bank of Canada",
+      "fetched": 20,
+      "kept": 3
+    },
+    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 3
     },
     {
       "source": "CDEV",
@@ -242,7 +242,7 @@
     {
       "source": "Canada Media Fund",
       "fetched": 24,
-      "kept": 1
+      "kept": 0
     },
     {
       "source": "ISED",
@@ -250,14 +250,14 @@
       "kept": 4
     },
     {
-      "source": "Bank of Canada",
-      "fetched": 20,
-      "kept": 3
-    },
-    {
       "source": "C.D. Howe Institute",
       "fetched": 24,
       "kept": 4
+    },
+    {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 2
     }
   ]
 }

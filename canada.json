@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 26, 2026, 8:49 AM ET",
+  "generated_at": "Nov 26, 2026, 9:23 AM ET",
   "date_key": "2026-11-26",
   "sections": [
     {
@@ -130,14 +130,14 @@
         },
         {
           "name": "5-year Canada bond yield",
-          "value": "3.42%",
+          "value": "3.41%",
           "delta": {
             "value": "1 bps",
             "label": "vs day before",
-            "dir": "up"
+            "dir": "down"
           },
           "note": "Fixed mortgage rates tend to follow this yield.",
-          "as_of": "Bank of Canada · Nov 24, 2026",
+          "as_of": "Bank of Canada · Nov 25, 2026",
           "url": "https://www.bankofcanada.ca/rates/interest-rates/bond-yields/benchmark-bond-yields/"
         }
       ]
