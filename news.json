@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 4:49 AM ET",
+  "generated_at": "Nov 26, 2026, 4:53 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795686579094,
+  "updated_ts": 1795686792857,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "4:51 AM",
+      "title": "CNBC — Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "ts": 1795686700000
+    },
+    {
       "time": "4:39 AM",
       "title": "Investing.com — SBO shares rise on strong Q3 orders in precision technology",
       "url": "https://www.investing.com/news/stock-market-news/sbo-shares-rise-on-strong-q3-orders-in-precision-technology-93CH-5052310",
@@ -300,12 +306,6 @@
       "title": "Investing.com — UniCredit shares gain 3% as final approvals clear path for Commerzbank deal",
       "url": "https://www.investing.com/news/stock-market-news/unicredit-clears-final-hurdles-for-commerzbank-takeover-5052161",
       "ts": 1795683624000
-    },
-    {
-      "time": "4:00 AM",
-      "title": "Bloomberg — Marc Levinson on How UPS Created Modern Logistics",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/marc-levinson-on-how-ups-created-modern-logistics",
-      "ts": 1795683622000
     }
   ]
 }
