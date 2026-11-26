@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:04 AM ET",
+  "generated_at": "Nov 26, 2026, 7:08 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795694684163,
+  "updated_ts": 1795694885740,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -240,6 +240,12 @@
   "ticker": [
     {
       "time": "7:00 AM",
+      "title": "Investing.com — Dutch groups ask court to halt Meta smart glasses sales over privacy concerns",
+      "url": "https://www.investing.com/news/stock-market-news/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales-over-privacy-concerns-5052455",
+      "ts": 1795694419000
+    },
+    {
+      "time": "7:00 AM",
       "title": "WSJ Markets — Basic Materials Roundup: Market Talk",
       "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-fd3f4387?mod=rss_markets_main",
       "ts": 1795694400000
@@ -255,6 +261,12 @@
       "title": "WSJ Markets — Financial Services Roundup: Market Talk",
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-7d2d237c?mod=rss_markets_main",
       "ts": 1795693740000
+    },
+    {
+      "time": "6:47 AM",
+      "title": "Investing.com — Here are all the ways we can help you maximize gains for less than $7.50/month",
+      "url": "https://www.investing.com/news/stock-market-news/here-are-all-the-ways-we-can-help-you-maximize-gains-for-less-than-750month-5052410",
+      "ts": 1795693634000
     },
     {
       "time": "6:44 AM",
@@ -293,22 +305,10 @@
       "ts": 1795692172000
     },
     {
-      "time": "6:16 AM",
-      "title": "Globe and Mail — Business Brief: Dashing through the lows",
-      "url": "https://www.theglobeandmail.com/business/article-business-brief-dashing-through-the-lows/",
-      "ts": 1795691787000
-    },
-    {
-      "time": "6:12 AM",
-      "title": "Bloomberg — UniCredit Clears Final Hurdle to Take Over Commerzbank",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video-mwxge90q",
-      "ts": 1795691566000
-    },
-    {
-      "time": "6:03 AM",
-      "title": "Globe and Mail — Defence entrepreneurs dispel gold-rush mentality amid federal spending boom",
-      "url": "https://www.theglobeandmail.com/business/economy/article-defence-entrepreneurs-dispel-gold-rush-mentality-amid-federal-spending/",
-      "ts": 1795691028000
+      "time": "6:17 AM",
+      "title": "CNBC — Switzerland’s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
+      "url": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
+      "ts": 1795691859000
     }
   ]
 }
