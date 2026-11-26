@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 26, 2026, 10:32 AM ET",
+  "generated_at": "Nov 26, 2026, 10:35 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795707138948,
+  "updated_ts": 1795707339355,
   "articles": [
+    {
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "image": "https://images.mktw.net/im-58425830",
+      "time": "Nov 26, 10:30 AM",
+      "coverage": 5,
+      "ts": 1795707000000
+    },
     {
       "title": "US Marlboro maker Altria explores Imperial Brands takeover in Big Tobacco mega deal",
       "source": "Investing.com",
@@ -34,10 +44,10 @@
       "ts": 1795701602000
     },
     {
-      "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+      "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-      "snippet": "A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out",
+      "snippet": "A rebound off lows for the S&P 500 on Wednesday calms bourses after the tech washout.",
       "image": "https://images.mktw.net/im-44727230",
       "time": "Nov 26, 8:41 AM",
       "coverage": 5,
@@ -93,16 +103,6 @@
       "time": "Nov 26, 9:44 AM",
       "coverage": 3,
       "ts": 1795704259000
-    },
-    {
-      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
-      "snippet": "The ‘Bank of AI’ faces a host of troubles ahead.",
-      "image": "https://images.mktw.net/im-40841215",
-      "time": "Nov 26, 9:00 AM",
-      "coverage": 4,
-      "ts": 1795701600000
     },
     {
       "title": "Investors Overpaid for Retail Safety, Missing Kroger’s 14% Rally",
