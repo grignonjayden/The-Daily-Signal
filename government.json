@@ -1,8 +1,20 @@
 {
-  "generated_at": "Nov 26, 2026, 3:57 PM ET",
+  "generated_at": "Nov 26, 2026, 4:31 PM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Government supports Indigenous economic participation in major energy infrastructure",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-supports-indigenous-economic-participation-in-major-energy-infrastructure.html",
+      "image": "",
+      "source": "Finance Canada",
+      "badge": "FIN",
+      "analysis": false,
+      "sector": "Energy",
+      "time": "Nov 26",
+      "date": "2026-11-26T21:19:14.000Z",
+      "group": "sector"
+    },
     {
       "title": "Government of Canada boosts AI innovation from Canadian SMEs with $700 million expansion of the AI Compute Access Fund",
       "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-boosts-the-ai-compute-access-fund-with-700-million-expansion.html",
@@ -61,30 +73,6 @@
       "sector": "Defence",
       "time": "Nov 26",
       "date": "2026-11-26T11:00:13.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Judge throws out $1-million fine against N.B. seafood company, requests new decision",
-      "url": "https://www.cp24.com/news/canada/2026/11/26/judge-throws-out-1-million-fine-against-nb-seafood-company-requests-new-decision/",
-      "image": "https://www.cp24.com/resizer/v2/UQB7CKA63OXVC7HSQCFH7W7HQQ.jpg?auth=9581dda5861a213da336e518b602d2de3cce4c1a4d99aac1fc4b046658d8aa9d&smart=true&width=1400&height=948",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "General",
-      "time": "Nov 25",
-      "date": "2026-11-25T19:49:29.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Minister Champagne to hold media callback following his visit to the Gulf region",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-to-hold-media-callback-following-his-visit-to-the-gulf-region.html",
-      "image": "",
-      "source": "Finance Canada",
-      "badge": "FIN",
-      "analysis": false,
-      "sector": "Media",
-      "time": "Nov 25",
-      "date": "2026-11-25T14:55:08.000Z",
       "group": "sector"
     },
     {
@@ -213,13 +201,18 @@
       "kept": 3
     },
     {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 1
+    },
+    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
+      "source": "CP24",
+      "fetched": 200,
       "kept": 1
     },
     {
@@ -236,11 +229,6 @@
       "source": "CDEV",
       "fetched": 20,
       "kept": 0
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 2
     },
     {
       "source": "C.D. Howe Institute",
