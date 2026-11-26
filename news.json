@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:14 AM ET",
+  "generated_at": "Nov 26, 2026, 7:18 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795695299821,
+  "updated_ts": 1795695502561,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "7:15 AM",
+      "title": "Bloomberg — China’s Copper Crunch Hides a Fragile Demand Outlook",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/china-s-copper-crunch-hides-a-fragile-demand-outlook",
+      "ts": 1795695301000
+    },
+    {
       "time": "7:11 AM",
       "title": "WSJ Markets — Health Care Roundup: Market Talk",
       "url": "https://www.wsj.com/business/health-care-roundup-market-talk-b4d17b6e?mod=rss_markets_main",
@@ -303,12 +309,6 @@
       "title": "Investing.com — Barclays downgrades European forklift makers as Chinese imports jump 51% in Q3",
       "url": "https://www.investing.com/news/stock-market-news/barclays-downgrades-european-forklift-makers-as-chinese-imports-jump-51-in-q3-5052419",
       "ts": 1795692703000
-    },
-    {
-      "time": "6:24 AM",
-      "title": "Investing.com — US chip curbs will slow Asia data-center investment, Fitch says",
-      "url": "https://www.investing.com/news/stock-market-news/us-chip-curbs-will-slow-asia-datacenter-investment-fitch-says-5052417",
-      "ts": 1795692274000
     }
   ]
 }
