@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:22 PM ET",
+  "generated_at": "Nov 25, 2026, 8:25 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795656128494,
+  "updated_ts": 1795656333138,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -238,6 +238,18 @@
   ],
   "ticker": [
     {
+      "time": "8:23 PM",
+      "title": "CNBC — South Korea raises rates to highest in two years, as inflation remains above target",
+      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+      "ts": 1795656206000
+    },
+    {
+      "time": "8:11 PM",
+      "title": "Bloomberg — Situational Awareness Lost 65% in Wild Third Quarter, WSJ Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/situational-awareness-ai-65-hedge-fund-third-quarter-wsj-says",
+      "ts": 1795655501000
+    },
+    {
       "time": "8:10 PM",
       "title": "CNBC — Hedge funds are no longer just for the rich. They’re coming for everyday investors",
       "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
@@ -248,6 +260,12 @@
       "title": "Bloomberg — Lula Sounds Out Bradesco’s Luiz Trabuco to Join His Government",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/lula-sounds-out-bradesco-s-luiz-trabuco-to-join-his-government",
       "ts": 1795655265000
+    },
+    {
+      "time": "8:06 PM",
+      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
+      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
+      "ts": 1795655176000
     },
     {
       "time": "8:04 PM",
@@ -269,21 +287,9 @@
     },
     {
       "time": "8:00 PM",
-      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
-      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
-      "ts": 1795654823000
-    },
-    {
-      "time": "8:00 PM",
       "title": "Bloomberg — Modi’s Criticism of India Inc. Puts Weak Investment in Focus",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/modi-s-criticism-of-india-inc-puts-weak-investment-in-focus",
       "ts": 1795654800000
-    },
-    {
-      "time": "7:58 PM",
-      "title": "CNBC — South Korea raises rates to highest in two years, as inflation remains above target",
-      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
-      "ts": 1795654718000
     },
     {
       "time": "7:57 PM",
@@ -302,12 +308,6 @@
       "title": "Investing.com — Judge bars US FCC from taking steps to threaten ABC’s broadcast license",
       "url": "https://www.investing.com/news/stock-market-news/judge-bars-us-fcc-from-taking-steps-to-threaten-abcs-broadcast-license-5051818",
       "ts": 1795653381000
-    },
-    {
-      "time": "7:33 PM",
-      "title": "MarketWatch — Why this stock-market selloff is probably going to get worse before it gets better",
-      "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-      "ts": 1795653180000
     }
   ]
 }
