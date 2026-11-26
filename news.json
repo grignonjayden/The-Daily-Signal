@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 10:59 AM ET",
+  "generated_at": "Nov 26, 2026, 11:02 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795708745972,
+  "updated_ts": 1795708976139,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -236,16 +236,16 @@
   ],
   "ticker": [
     {
+      "time": "11:00 AM",
+      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "ts": 1795708800000
+    },
+    {
       "time": "10:45 AM",
       "title": "Globe and Mail — Ottawa begins rolling out $700-million in AI compute funding under new sector-based approach",
       "url": "https://www.theglobeandmail.com/business/technology/article-ottawa-rolling-out-700-million-in-ai-compute-funding-evan-solomon/",
       "ts": 1795707945000
-    },
-    {
-      "time": "10:34 AM",
-      "title": "CNBC — Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say",
-      "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
-      "ts": 1795707248000
     },
     {
       "time": "10:30 AM",
