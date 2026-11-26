@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 26, 2026, 5:04 PM ET",
+  "generated_at": "Nov 26, 2026, 5:08 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795730698453,
+  "updated_ts": 1795730907515,
   "articles": [
-    {
-      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
-      "snippet": "The ‘Bank of AI’ faces a host of troubles ahead.",
-      "image": "https://images.mktw.net/im-40841215",
-      "time": "Nov 26, 9:00 AM",
-      "coverage": 6,
-      "ts": 1795701600000
-    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -45,6 +35,16 @@
       "ts": 1795710566000
     },
     {
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "image": "https://images.mktw.net/im-58425830",
+      "time": "Nov 26, 10:30 AM",
+      "coverage": 5,
+      "ts": 1795707000000
+    },
+    {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
@@ -53,17 +53,6 @@
       "time": "Nov 25, 10:19 PM",
       "coverage": 6,
       "ts": 1795663184000
-    },
-    {
-      "title": "Ford CEO on Le Mans, New Electric Pickup and Trade Talks",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/ford-ceo-on-le-mans-new-electric-pickup-and-trade-talks-video",
-      "snippet": "Bloomberg’s Matt Miller sits down with Ford CEO Jim Farley to talk racing, Ford’s planned $30,000 electric pickup, Chinese EV competition and USMCA trade talks, zeroing in on how to protect US auto manufacturing…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 3:00 PM",
-      "coverage": 4,
-      "ts": 1795723215000
     },
     {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
@@ -94,6 +83,17 @@
       "time": "Nov 26, 7:22 AM",
       "coverage": 4,
       "ts": 1795695745000
+    },
+    {
+      "title": "Ford CEO on Le Mans, New Electric Pickup and Trade Talks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/ford-ceo-on-le-mans-new-electric-pickup-and-trade-talks-video",
+      "snippet": "Bloomberg’s Matt Miller sits down with Ford CEO Jim Farley to talk racing, Ford’s planned $30,000 electric pickup, Chinese EV competition and USMCA trade talks, zeroing in on how to protect US auto manufacturing…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 3:00 PM",
+      "coverage": 3,
+      "ts": 1795723215000
     },
     {
       "title": "Ukrainian investment office urges Canadian companies to invest in energy sector after Russian attacks",
@@ -238,6 +238,12 @@
   "ticker": [
     {
       "time": "5:00 PM",
+      "title": "Investing.com — Bradesco’s Trabuco accepts invitation to be Brazil’s finance minister, source says",
+      "url": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
+      "ts": 1795730438000
+    },
+    {
+      "time": "5:00 PM",
       "title": "MarketWatch — ‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
       "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
       "ts": 1795730400000
@@ -301,12 +307,6 @@
       "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 4.30%",
       "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-430-5052714",
       "ts": 1795725004000
-    },
-    {
-      "time": "3:04 PM",
-      "title": "Globe and Mail — Toronto cybersecurity firm 1Password says hacker stole customer names, e-mail addresses",
-      "url": "https://www.theglobeandmail.com/business/technology/article-toronto-cybersecurity-firm-1password-says-hacker-stole-customer-names/",
-      "ts": 1795723479000
     }
   ]
 }
