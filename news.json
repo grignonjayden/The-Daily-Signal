@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:24 PM ET",
+  "generated_at": "Nov 26, 2026, 3:27 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795724643370,
+  "updated_ts": 1795724843896,
   "articles": [
     {
       "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "3:21 PM",
+      "time": "3:25 PM",
       "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
       "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "ts": 1795724517000
+      "ts": 1795724728000
     },
     {
       "time": "3:04 PM",
