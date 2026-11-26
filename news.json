@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 26, 2026, 3:42 AM ET",
+  "generated_at": "Nov 26, 2026, 3:45 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795682547360,
+  "updated_ts": 1795682749276,
   "articles": [
-    {
-      "title": "Asia-Pacific markets close higher as investors look past fresh U.S. tariffs",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
-      "time": "Nov 26, 3:00 AM",
-      "coverage": 4,
-      "ts": 1795680027000
-    },
     {
       "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
       "source": "WSJ Markets",
@@ -42,6 +32,16 @@
       "time": "Nov 25, 8:15 PM",
       "coverage": 5,
       "ts": 1795655700000
+    },
+    {
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
+      "time": "Nov 26, 3:42 AM",
+      "coverage": 4,
+      "ts": 1795682546000
     },
     {
       "title": "European Indexes Open Sharply Higher After U.S. Recovery",
@@ -106,7 +106,7 @@
       "ts": 1795681209000
     },
     {
-      "title": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
+      "title": "Trump’s Tariffs Blunt Appeal of Moving Production Out of China",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
       "snippet": "President Donald Trump’s latest tariff push risks undercutting one of the signature shifts in global manufacturing since the US-China trade war began: the movement of supply chains out of China.",
