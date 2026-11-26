@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:50 PM ET",
+  "generated_at": "Nov 25, 2026, 10:53 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795665028231,
+  "updated_ts": 1795665227275,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "10:42 PM",
+      "title": "Bloomberg — Adani Firms Plan Public Bond Sale to Raise at Least $220 Million",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million",
+      "ts": 1795664545000
+    },
+    {
       "time": "10:36 PM",
       "title": "Bloomberg — Japan Life Insurers Complicate Yen Fight With Record Low Hedging",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-life-insurers-complicate-yen-fight-with-record-low-hedging",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Asian tech stocks jump as bargain buyers boost battered AI trade",
       "url": "https://www.investing.com/news/stock-market-news/asian-tech-stocks-jump-as-bargain-buyers-boost-battered-ai-trade-5051918",
       "ts": 1795660396000
-    },
-    {
-      "time": "9:32 PM",
-      "title": "Bloomberg — Rupee Hits 8-Month High as India November Stock Inflows Reach $14.7 Billion: INR",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/rupee-hits-8-month-high-as-india-november-stock-inflows-reach-14-7-billion",
-      "ts": 1795660342000
     }
   ]
 }
