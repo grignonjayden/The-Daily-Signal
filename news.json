@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:45 AM ET",
+  "generated_at": "Nov 26, 2026, 7:48 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795697124198,
+  "updated_ts": 1795697325176,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -106,6 +106,16 @@
       "ts": 1795696629000
     },
     {
+      "title": "Couche-Tard rules out sweeter offer for Zabka, says bid price final",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/couchetard-rules-out-sweeter-offer-for-zabka-says-bid-price-final-5052487",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP0XY_L.jpg",
+      "time": "Nov 26, 7:36 AM",
+      "coverage": 3,
+      "ts": 1795696585000
+    },
+    {
       "title": "Stocks climb as traders shrug off latest US tariff salvo",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
@@ -114,16 +124,6 @@
       "time": "Nov 26, 7:19 AM",
       "coverage": 3,
       "ts": 1795695591000
-    },
-    {
-      "title": "Deutsche Bank sees Eutelsat debt risk rising on costly satellite renewal",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-sees-eutelsat-debt-risk-rising-on-costly-satellite-renewal-5052465",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "time": "Nov 26, 7:15 AM",
-      "coverage": 3,
-      "ts": 1795695315000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "7:46 AM",
+      "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "ts": 1795697215000
+    },
+    {
       "time": "7:37 AM",
       "title": "MarketWatch — Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
       "url": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
@@ -250,6 +256,12 @@
       "ts": 1795696560000
     },
     {
+      "time": "7:30 AM",
+      "title": "Investing.com — Exclusive-StanChart’s crypto unit Zodia Custody hit by security breach, some client data exposed",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivestancharts-crypto-unit-zodia-custody-hit-by-security-breach-some-client-data-exposed-5052481",
+      "ts": 1795696256000
+    },
+    {
       "time": "7:28 AM",
       "title": "Bloomberg — Congo Pitches $15 Billion Infrastructure Deals as Mining Booms",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/congo-pitches-15-billion-infrastructure-deals-as-mining-booms",
@@ -260,6 +272,12 @@
       "title": "Bloomberg — BBVA Weighs SRT to Hedge About $500 Million of Data Center Loans",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/bbva-weighs-srt-to-hedge-about-500-million-of-data-center-loans",
       "ts": 1795696020000
+    },
+    {
+      "time": "7:24 AM",
+      "title": "Investing.com — Airline Norse Atlantic flags bankruptcy risk as flights suspended",
+      "url": "https://www.investing.com/news/stock-market-news/airline-norse-atlantic-flags-bankruptcy-risk-as-flights-suspended-5052475",
+      "ts": 1795695868000
     },
     {
       "time": "7:24 AM",
@@ -281,33 +299,15 @@
     },
     {
       "time": "7:15 AM",
+      "title": "Investing.com — Deutsche Bank sees Eutelsat debt risk rising on costly satellite renewal",
+      "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-sees-eutelsat-debt-risk-rising-on-costly-satellite-renewal-5052465",
+      "ts": 1795695315000
+    },
+    {
+      "time": "7:15 AM",
       "title": "Bloomberg — China’s Copper Crunch Hides a Fragile Demand Outlook",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/china-s-copper-crunch-hides-a-fragile-demand-outlook",
       "ts": 1795695301000
-    },
-    {
-      "time": "7:11 AM",
-      "title": "WSJ Markets — Health Care Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-b4d17b6e?mod=rss_markets_main",
-      "ts": 1795695060000
-    },
-    {
-      "time": "7:10 AM",
-      "title": "Investing.com — Canada’s TSX futures flat in holiday-thinned trade and Macklem’s warning",
-      "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
-      "ts": 1795695054000
-    },
-    {
-      "time": "7:06 AM",
-      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-7aa75f48?mod=rss_markets_main",
-      "ts": 1795694760000
-    },
-    {
-      "time": "7:00 AM",
-      "title": "Investing.com — Dutch groups ask court to halt Meta smart glasses sales over privacy concerns",
-      "url": "https://www.investing.com/news/stock-market-news/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales-over-privacy-concerns-5052455",
-      "ts": 1795694419000
     }
   ]
 }
