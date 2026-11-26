@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:11 AM ET",
+  "generated_at": "Nov 26, 2026, 7:14 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795695094343,
+  "updated_ts": 1795695299821,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "7:11 AM",
+      "title": "WSJ Markets — Health Care Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-b4d17b6e?mod=rss_markets_main",
+      "ts": 1795695060000
+    },
+    {
       "time": "7:06 AM",
       "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
       "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-7aa75f48?mod=rss_markets_main",
@@ -303,12 +309,6 @@
       "title": "Investing.com — US chip curbs will slow Asia data-center investment, Fitch says",
       "url": "https://www.investing.com/news/stock-market-news/us-chip-curbs-will-slow-asia-datacenter-investment-fitch-says-5052417",
       "ts": 1795692274000
-    },
-    {
-      "time": "6:22 AM",
-      "title": "Bloomberg — Malaysia Says May Intervene If AirAsia’s Financial Woes Worsen",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/malaysia-says-may-intervene-if-airasia-s-financial-woes-worsen",
-      "ts": 1795692172000
     }
   ]
 }
