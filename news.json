@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:07 AM ET",
+  "generated_at": "Nov 26, 2026, 6:10 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795691245067,
+  "updated_ts": 1795691444817,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -269,6 +269,12 @@
       "ts": 1795690158000
     },
     {
+      "time": "5:45 AM",
+      "title": "CNBC — Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+      "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+      "ts": 1795689945000
+    },
+    {
       "time": "5:35 AM",
       "title": "Investing.com — Why is ams OSRAM stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-ams-osram-stock-surging-today-93CH-5052382",
@@ -303,12 +309,6 @@
       "title": "Investing.com — Why is Text stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-text-stock-surging-today-93CH-5052362",
       "ts": 1795687470000
-    },
-    {
-      "time": "5:02 AM",
-      "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-      "ts": 1795687364000
     }
   ]
 }
