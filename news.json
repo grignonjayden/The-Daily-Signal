@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 26, 2026, 5:23 AM ET",
+  "generated_at": "Nov 26, 2026, 5:26 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795688616255,
+  "updated_ts": 1795688816386,
   "articles": [
+    {
+      "title": "FINAL HOUR: Your last chance to grab our exclusive Black Friday deal of the year",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/final-hour-your-last-chance-to-grab-our-best-black-friday-deal-of-the-year-5052364",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEGAQ11L_L.jpg",
+      "time": "Nov 26, 5:10 AM",
+      "coverage": 3,
+      "ts": 1795687817000
+    },
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
       "source": "CNBC",
@@ -112,16 +122,6 @@
       "fallback_image": true,
       "time": "Nov 26, 4:00 AM",
       "ts": 1795683600000
-    },
-    {
-      "title": "Why is Norse Atlantic stock surging today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-norse-atlantic-stock-surging-today-93CH-5052320",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-      "time": "Nov 26, 4:52 AM",
-      "coverage": 2,
-      "ts": 1795686739000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -247,6 +247,12 @@
       "ts": 1795687680000
     },
     {
+      "time": "5:04 AM",
+      "title": "Investing.com — Why is Text stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-text-stock-surging-today-93CH-5052362",
+      "ts": 1795687470000
+    },
+    {
       "time": "5:02 AM",
       "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
       "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
@@ -271,6 +277,12 @@
       "ts": 1795686755000
     },
     {
+      "time": "4:52 AM",
+      "title": "Investing.com — Why is Norse Atlantic stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-norse-atlantic-stock-surging-today-93CH-5052320",
+      "ts": 1795686739000
+    },
+    {
       "time": "4:51 AM",
       "title": "CNBC — Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
       "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
@@ -283,28 +295,16 @@
       "ts": 1795686420000
     },
     {
+      "time": "4:45 AM",
+      "title": "Investing.com — BLACK FRIDAY SPECIAL: Only until today can you lock in the best sale of the year",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-special-only-until-today-can-you-lock-in-the-best-sale-of-the-year-5052313",
+      "ts": 1795686329000
+    },
+    {
       "time": "4:39 AM",
       "title": "Investing.com — SBO shares rise on strong Q3 orders in precision technology",
       "url": "https://www.investing.com/news/stock-market-news/sbo-shares-rise-on-strong-q3-orders-in-precision-technology-93CH-5052310",
       "ts": 1795685992000
-    },
-    {
-      "time": "4:36 AM",
-      "title": "Investing.com — Norse Atlantic shares rebound 23% after flight halt, bankruptcy warning",
-      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-shares-fall-18-as-flight-halt-raises-bankruptcy-risk-5052227",
-      "ts": 1795685813000
-    },
-    {
-      "time": "4:12 AM",
-      "title": "Investing.com — Why is Safestore stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-safestore-stock-climbing-today-93CH-5052300",
-      "ts": 1795684370000
-    },
-    {
-      "time": "4:12 AM",
-      "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
-      "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
-      "ts": 1795684343000
     }
   ]
 }
