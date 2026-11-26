@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:00 PM ET",
+  "generated_at": "Nov 26, 2026, 2:03 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795719624245,
+  "updated_ts": 1795719823229,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "2:00 PM",
+      "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "ts": 1795719600000
+    },
+    {
       "time": "1:44 PM",
       "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
       "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
@@ -301,12 +307,6 @@
       "title": "WSJ Markets — Gold Rises But Big Moves Seen as Unlikely for Now",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
       "ts": 1795713780000
-    },
-    {
-      "time": "12:21 PM",
-      "title": "Globe and Mail — Costs to host Canada’s Investment Summit surpassed $8.1-million",
-      "url": "https://www.theglobeandmail.com/canada/article-canada-investment-summit-costs-topped-81-million/",
-      "ts": 1795713699000
     }
   ]
 }
