@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 4:44 PM ET",
+  "generated_at": "Nov 26, 2026, 4:48 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795729494812,
+  "updated_ts": 1795729695614,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -55,6 +55,16 @@
       "ts": 1795698060000
     },
     {
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
+      "time": "Nov 26, 7:22 AM",
+      "coverage": 5,
+      "ts": 1795695745000
+    },
+    {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
@@ -76,16 +86,6 @@
       "ts": 1795723215000
     },
     {
-      "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
-      "time": "Nov 26, 1:24 PM",
-      "coverage": 4,
-      "ts": 1795717458000
-    },
-    {
       "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
@@ -96,24 +96,14 @@
       "ts": 1795643280000
     },
     {
-      "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
-      "snippet": "U.S. tobacco group Altria said on Thursday it was considering a possible all-cash offer for ​Imperial Brands.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107232976-1682707584484-gettyimages-1486127437-0j5a7430_clcrzwlh.jpeg?v=1698330737&w=1920&h=1080",
-      "time": "Nov 26, 9:47 AM",
-      "coverage": 4,
-      "ts": 1795704457000
-    },
-    {
-      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
-      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
-      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
-      "time": "Nov 26, 9:00 AM",
-      "coverage": 4,
-      "ts": 1795701602000
+      "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.72%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-072-5052724",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEL3D0QK_L.jpg",
+      "time": "Nov 26, 4:30 PM",
+      "coverage": 3,
+      "ts": 1795728604000
     },
     {
       "title": "Anthropic’s slide tests Wall Street’s lofty bets on future AI profits",
@@ -124,6 +114,16 @@
       "time": "Nov 25, 11:40 AM",
       "coverage": 6,
       "ts": 1795624858000
+    },
+    {
+      "title": "Four Black Friday scams to watch for this shopping season",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
+      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
+      "time": "Nov 26, 1:33 PM",
+      "coverage": 3,
+      "ts": 1795718011000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -237,10 +237,28 @@
   ],
   "ticker": [
     {
+      "time": "4:45 PM",
+      "title": "MarketWatch — I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "ts": 1795729500000
+    },
+    {
+      "time": "4:41 PM",
+      "title": "Investing.com — Canadian bonds extend rally amid AI jitters, Macklem comments",
+      "url": "https://www.investing.com/news/stock-market-news/canadian-bonds-extend-rally-amid-ai-jitters-macklem-comments-5052727",
+      "ts": 1795729276000
+    },
+    {
       "time": "4:35 PM",
       "title": "Globe and Mail — Premier Ford, Unifor leader call on Ottawa to scrap greenhouse gas rules for Canadian automakers",
       "url": "https://www.theglobeandmail.com/business/article-working-premier-ford-unifor-leader-call-on-ottawa-to-scrap-greenhouse/",
       "ts": 1795728906000
+    },
+    {
+      "time": "4:30 PM",
+      "title": "Investing.com — Mexico stocks lower at close of trade; S&P/BMV IPC down 1.33%",
+      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-133-5052726",
+      "ts": 1795728632000
     },
     {
       "time": "4:30 PM",
@@ -289,24 +307,6 @@
       "title": "Globe and Mail — Toronto cybersecurity firm 1Password says hacker stole customer names, e-mail addresses",
       "url": "https://www.theglobeandmail.com/business/technology/article-toronto-cybersecurity-firm-1password-says-hacker-stole-customer-names/",
       "ts": 1795723479000
-    },
-    {
-      "time": "2:55 PM",
-      "title": "WSJ Markets — Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
-      "url": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
-      "ts": 1795722900000
-    },
-    {
-      "time": "2:33 PM",
-      "title": "Globe and Mail — Trump’s foray into state-directed stock picking isn’t going well",
-      "url": "https://www.theglobeandmail.com/business/article-trumps-foray-into-state-directed-stock-picking-isnt-going-well/",
-      "ts": 1795721599000
-    },
-    {
-      "time": "2:31 PM",
-      "title": "Bloomberg — Ghana Buys Back $1.1 Billion Domestic Bonds to Boost Confidence",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ghana-buys-back-1-1-billion-domestic-bonds-to-boost-confidence",
-      "ts": 1795721506000
     }
   ]
 }
