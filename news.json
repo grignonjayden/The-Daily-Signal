@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 8:35 PM ET",
+  "generated_at": "Nov 25, 2026, 8:38 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795656939739,
+  "updated_ts": 1795657139519,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "8:34 PM",
+      "title": "CNBC — Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "ts": 1795656898000
+    },
+    {
       "time": "8:27 PM",
       "title": "WSJ Markets — Oil Rises Amid Ongoing Middle East Tensions",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-c730426d?mod=rss_markets_main",
@@ -302,12 +308,6 @@
       "title": "Investing.com — Flight Centre probes data breach in booking system, shares fall",
       "url": "https://www.investing.com/news/stock-market-news/flight-centre-probes-data-breach-in-booking-system-shares-fall-5051833",
       "ts": 1795654653000
-    },
-    {
-      "time": "7:42 PM",
-      "title": "Globe and Mail — Conservatives push for ethics review of Ottawa’s $1.6-billion Cohere investment",
-      "url": "https://www.theglobeandmail.com/politics/article-conservatives-push-ethics-review-ottawa-16-billion-cohere-investment/",
-      "ts": 1795653746000
     }
   ]
 }
