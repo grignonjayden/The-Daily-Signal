@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:57 PM ET",
+  "generated_at": "Nov 26, 2026, 3:00 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795723040169,
+  "updated_ts": 1795723241661,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "2:55 PM",
+      "title": "WSJ Markets — Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
+      "url": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
+      "ts": 1795722900000
+    },
+    {
       "time": "2:33 PM",
       "title": "Globe and Mail — Trump’s foray into state-directed stock picking isn’t going well",
       "url": "https://www.theglobeandmail.com/business/article-trumps-foray-into-state-directed-stock-picking-isnt-going-well/",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — New Zealand Poised to Learn Who Can Form Its Next Government",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/new-zealand-poised-to-learn-who-can-form-its-next-government",
       "ts": 1795716000000
-    },
-    {
-      "time": "12:52 PM",
-      "title": "CNBC — Semiconductor chips are the new oil. Here's why",
-      "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-      "ts": 1795715535000
     }
   ]
 }
