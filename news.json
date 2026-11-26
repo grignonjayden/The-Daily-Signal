@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:23 PM ET",
+  "generated_at": "Nov 26, 2026, 1:26 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795717413833,
+  "updated_ts": 1795717613131,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -65,6 +65,16 @@
       "ts": 1795663184000
     },
     {
+      "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
+      "time": "Nov 26, 1:24 PM",
+      "coverage": 4,
+      "ts": 1795717458000
+    },
+    {
       "title": "Imperial stock sees best day since 1999 on Altria, Japan Tobacco takeover interest",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/imperial-shares-jump-to-highest-since-2017-on-japan-tobacco-deal-report-5052501",
@@ -73,16 +83,6 @@
       "time": "Nov 26, 12:53 PM",
       "coverage": 4,
       "ts": 1795715609000
-    },
-    {
-      "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
-      "time": "Nov 26, 12:48 PM",
-      "coverage": 4,
-      "ts": 1795715300000
     },
     {
       "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
