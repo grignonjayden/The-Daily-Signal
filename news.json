@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:49 AM ET",
+  "generated_at": "Nov 26, 2026, 3:52 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795682951168,
+  "updated_ts": 1795683161742,
   "articles": [
     {
       "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "3:50 AM",
+      "title": "Bloomberg — UniCredit Clears Final Hurdle to Take Over Commerzbank (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/unicredit-clears-final-hurdle-to-take-over-commerzbank-video",
+      "ts": 1795683020000
+    },
+    {
       "time": "3:40 AM",
       "title": "WSJ Markets — Gold Rises But U.S. Inflation Data Fuels Rate-Hike Expectations",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
@@ -302,12 +308,6 @@
       "title": "Investing.com — Macy’s Thanksgiving Day Parade postponed due to weather for first time in 100 years",
       "url": "https://www.investing.com/news/stock-market-news/macys-thanksgiving-day-parade-postponed-due-to-storm-projections-us-media-reports-5051483",
       "ts": 1795681106000
-    },
-    {
-      "time": "3:09 AM",
-      "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-      "ts": 1795680579000
     }
   ]
 }
