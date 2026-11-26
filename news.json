@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 3:15 AM ET",
+  "generated_at": "Nov 26, 2026, 3:19 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795680933598,
+  "updated_ts": 1795681140446,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "3:12 AM",
+      "time": "3:16 AM",
       "title": "CNBC — Norse Atlantic suspends all flights, warns it may file for bankruptcy",
       "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
-      "ts": 1795680770000
+      "ts": 1795680979000
     },
     {
       "time": "3:09 AM",
