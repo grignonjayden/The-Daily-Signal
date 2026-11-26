@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:44 AM ET",
+  "generated_at": "Nov 26, 2026, 12:48 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795671892900,
+  "updated_ts": 1795672095678,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -10,18 +10,8 @@
       "snippet": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
       "image": "https://image.cnbcfm.com/api/v1/image/108559710-1795655986080-gettyimages-2290083650-golba-dailylif260808_npNHs.jpeg?v=1795656043&w=1920&h=1080",
       "time": "Nov 25, 10:13 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795662823000
-    },
-    {
-      "title": "Trump admin weighed using Cold War law to reinstate Nvidia CEO Huang, WaPo reports",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/trump-admin-weighed-using-cold-war-law-to-reinstate-nvidia-ceo-huang-wapo-reports-5051938",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEMA9126_1200_L.jpg",
-      "time": "Nov 25, 9:52 PM",
-      "coverage": 6,
-      "ts": 1795661567000
     },
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
@@ -30,7 +20,7 @@
       "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
       "image": "https://images.mktw.net/im-58425830",
       "time": "Nov 25, 8:15 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795655700000
     },
     {
@@ -40,7 +30,7 @@
       "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
       "image": "https://images.mktw.net/im-78896707",
       "time": "Nov 25, 5:45 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795646700000
     },
     {
@@ -50,7 +40,7 @@
       "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
       "image": "https://images.wsj.net/im-58488429",
       "time": "Nov 25, 5:27 PM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795645620000
     },
     {
@@ -84,6 +74,16 @@
       "ts": 1795669599000
     },
     {
+      "title": "Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-taiwan-south-korea-rebound-nvidia-risks-linger-5052021",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEB1H0YB_M.jpg",
+      "time": "Nov 26, 12:01 AM",
+      "coverage": 4,
+      "ts": 1795669297000
+    },
+    {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
@@ -105,15 +105,15 @@
       "ts": 1795670178000
     },
     {
-      "title": "Adani Firms Plan Public Bond Sale to Raise at Least $220 Million",
+      "title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million",
-      "snippet": "Two companies controlled by Indian billionaire Gautam Adani are looking to sell public bonds to raise at least 20 billion rupees ($220 million), according to people familiar with the matter, which would boost the…",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
+      "snippet": "A hawkish member of the Bank of Japan’s policy board called for early action to keep raising the BOJ’s benchmark rate, supporting market expectations for a rate hike next month.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 25, 10:42 PM",
-      "coverage": 2,
-      "ts": 1795664545000
+      "time": "Nov 25, 9:28 PM",
+      "coverage": 3,
+      "ts": 1795660110000
     },
     {
       "title": "Bank of Canada governor says inflation forecast is lower",
@@ -126,24 +126,24 @@
       "ts": 1795614929000
     },
     {
-      "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
+      "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
-      "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
-      "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
-      "time": "Nov 24, 3:16 PM",
-      "coverage": 6,
-      "ts": 1795551400000
+      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
+      "snippet": "Washington plans new measures despite voters rejecting Trump’s economic agenda during the midterms",
+      "image": "https://www.theglobeandmail.com/resizer/v2/IUFRPLWK3NDZZEVEJGTYXDQPOU.JPG?auth=2f2f2b3beb5b5eef0877b43c4f697e499ebe57ab206c81ab426baceeef815324&smart=true&width=3529&height=2353",
+      "time": "Nov 25, 8:29 AM",
+      "coverage": 4,
+      "ts": 1795613399000
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 6,
-      "ts": 1795456173000
+      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
+      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
+      "time": "Nov 25, 9:38 AM",
+      "coverage": 2,
+      "ts": 1795617488000
     }
   ],
   "outlets": [
@@ -238,16 +238,46 @@
   ],
   "ticker": [
     {
+      "time": "12:41 AM",
+      "title": "Investing.com — Why did Fisher & Paykel Healthcare shares hit a record high today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-did-fisher--paykel-healthcare-shares-hit-a-record-high-today-93CH-5052038",
+      "ts": 1795671710000
+    },
+    {
+      "time": "12:40 AM",
+      "title": "Investing.com — Why is NRW Holdings stock rising today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-nrw-holdings-stock-rising-today-93CH-5052037",
+      "ts": 1795671632000
+    },
+    {
       "time": "12:36 AM",
       "title": "CNBC — Beware higher correlation but nab high U.S. credit yields, fund managers say",
       "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
       "ts": 1795671361000
     },
     {
+      "time": "12:30 AM",
+      "title": "Investing.com — Australia stocks higher at close of trade; S&P/ASX 200 up 0.82%",
+      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-082-5052032",
+      "ts": 1795671004000
+    },
+    {
       "time": "12:28 AM",
       "title": "Bloomberg — Indonesia Must Grow Faster as Its Population Ages, OECD Says",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/indonesia-must-grow-faster-as-its-population-ages-oecd-says",
       "ts": 1795670886000
+    },
+    {
+      "time": "12:26 AM",
+      "title": "Investing.com — Why is Kioxia stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-surging-today-93CH-5052031",
+      "ts": 1795670788000
+    },
+    {
+      "time": "12:25 AM",
+      "title": "Investing.com — Micron faces Taiwan uncertainty as labor dispute threatens expansion, report warns",
+      "url": "https://www.investing.com/news/stock-market-news/micron-faces-taiwan-uncertainty-as-labor-dispute-threatens-expansion-report-warns-5052030",
+      "ts": 1795670743000
     },
     {
       "time": "12:18 AM",
@@ -268,46 +298,16 @@
       "ts": 1795670133000
     },
     {
+      "time": "12:15 AM",
+      "title": "Investing.com — Bitcoin technical outlook: bear trend with oversold signals near $61,000",
+      "url": "https://www.investing.com/news/stock-market-news/bitcoin-technical-outlook-bear-trend-with-oversold-signals-near-61000-93CH-5052026",
+      "ts": 1795670132000
+    },
+    {
       "time": "12:06 AM",
       "title": "Investing.com — Stocks rally in Asia, US tariffs not as dire as feared",
       "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
       "ts": 1795669597000
-    },
-    {
-      "time": "12:01 AM",
-      "title": "Investing.com — Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-taiwan-south-korea-rebound-nvidia-risks-linger-5052021",
-      "ts": 1795669297000
-    },
-    {
-      "time": "Nov 25",
-      "title": "CNBC — South Korea's Kospi leads gains as tech rebound lifts Asia markets",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "ts": 1795668543000
-    },
-    {
-      "time": "Nov 25",
-      "title": "Bloomberg — Australia Firms See Inflation Holding Over 4% for Next 12 Months",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-firms-see-inflation-holding-over-4-for-next-12-months",
-      "ts": 1795667400000
-    },
-    {
-      "time": "Nov 25",
-      "title": "CNBC — Hedge funds are no longer just for the rich. They’re wooing everyday investors",
-      "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
-      "ts": 1795666818000
-    },
-    {
-      "time": "Nov 25",
-      "title": "Investing.com — Musk says every child in the US will get two SpaceX shares",
-      "url": "https://www.investing.com/news/stock-market-news/musk-says-every-child-in-the-us-will-get-two-spacex-shares-5052006",
-      "ts": 1795666704000
-    },
-    {
-      "time": "Nov 25",
-      "title": "Investing.com — +48%, +36%, +32%: the AI healthcare picks beating their sector in 2026",
-      "url": "https://www.investing.com/news/stock-market-news/48-36-32-the-ai-healthcare-picks-beating-their-sector-in-2026-5052005",
-      "ts": 1795666638000
     }
   ]
 }
