@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 10:23 PM ET",
+  "generated_at": "Nov 25, 2026, 10:26 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795663416892,
+  "updated_ts": 1795663619307,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -64,16 +64,6 @@
       "ts": 1795650653000
     },
     {
-      "title": "Asia shares bounce, AI and tariffs lurk in background",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP03E_L.jpg",
-      "time": "Nov 25, 8:36 PM",
-      "coverage": 4,
-      "ts": 1795656994000
-    },
-    {
       "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-edges-lower-as-us-inflation-data-fuels-bets-for-rate-hikes",
@@ -83,16 +73,6 @@
       "time": "Nov 25, 7:18 PM",
       "coverage": 4,
       "ts": 1795652289000
-    },
-    {
-      "title": "U.S. proposes new tariffs on China, EU and other partners over excess factory capacity",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-plans-to-hike-tariffs-on-china-eu-and-other-partners-over/",
-      "snippet": "Washington plans new measures despite voters rejecting Trump’s economic agenda during the midterms",
-      "image": "https://www.theglobeandmail.com/resizer/v2/IUFRPLWK3NDZZEVEJGTYXDQPOU.JPG?auth=2f2f2b3beb5b5eef0877b43c4f697e499ebe57ab206c81ab426baceeef815324&smart=true&width=3529&height=2353",
-      "time": "Nov 25, 8:29 AM",
-      "coverage": 5,
-      "ts": 1795613399000
     },
     {
       "title": "Asian Stocks Rise as Tech Gains in Taiwan, Korea: Markets Wrap",
@@ -116,6 +96,16 @@
       "ts": 1795662540000
     },
     {
+      "title": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEK1L06T_L.jpg",
+      "time": "Nov 25, 9:41 PM",
+      "coverage": 3,
+      "ts": 1795660906000
+    },
+    {
       "title": "Bank of Canada governor says inflation forecast is lower",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/video-bank-of-canada-governor-says-inflation-forecast-is-lower/",
@@ -124,6 +114,16 @@
       "time": "Nov 25, 8:55 AM",
       "coverage": 3,
       "ts": 1795614929000
+    },
+    {
+      "title": "Nvidia’s board under scrutiny after reinstating Jensen Huang as CEO",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-nvidia-board-jensen-huang-ceo-scrutiny/",
+      "snippet": "Board previously allowed Huang to resign following admission that he had an affair with suspected Chinese spy",
+      "image": "https://www.theglobeandmail.com/resizer/v2/UNQI5PI2LRHOZN47JKT2CJVQME.JPG?auth=dce3f121928f6dd788d3f4dace074704430cbc0eaff7f80c36c5b546a708c0c0&smart=true&width=6500&height=4326",
+      "time": "Nov 24, 3:16 PM",
+      "coverage": 6,
+      "ts": 1795551400000
     },
     {
       "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -243,6 +243,12 @@
       "ts": 1795663184000
     },
     {
+      "time": "10:18 PM",
+      "title": "Investing.com — Stocks rally in Asia, unrocked by US tariffs",
+      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
+      "ts": 1795663098000
+    },
+    {
       "time": "10:09 PM",
       "title": "CNBC — K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
       "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
@@ -259,12 +265,6 @@
       "title": "Investing.com — U.S. judge blocks FCC from revoking Disney’s ABC TV licenses",
       "url": "https://www.investing.com/news/stock-market-news/us-judge-blocks-fcc-from-revoking-disneys-abc-tv-licenses-5051928",
       "ts": 1795661106000
-    },
-    {
-      "time": "9:41 PM",
-      "title": "Investing.com — Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925",
-      "ts": 1795660906000
     },
     {
       "time": "9:36 PM",
