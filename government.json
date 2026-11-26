@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 26, 2026, 10:59 AM ET",
+  "generated_at": "Nov 26, 2026, 11:33 AM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -52,15 +52,15 @@
       "group": "sector"
     },
     {
-      "title": "PM Carney, Liberals defend ‘brutal’ pace of committee work on major projects bill",
-      "url": "https://www.cp24.com/news/canada/2026/11/25/pm-carney-liberals-defend-brutal-pace-of-committee-work-on-major-projects-bill/",
-      "image": "https://www.cp24.com/resizer/v2/HOHJ6ZJ6YLLUMMY7GGS5Q4UKJA.jpg?auth=2a9318924fe5b0ca42c13a633724a1f572e51eaa35a5e17ca8151627d47e656f&smart=true&width=1400&height=953",
+      "title": "Judge throws out $1-million fine against N.B. seafood company, requests new decision",
+      "url": "https://www.cp24.com/news/canada/2026/11/26/judge-throws-out-1-million-fine-against-nb-seafood-company-requests-new-decision/",
+      "image": "https://www.cp24.com/resizer/v2/UQB7CKA63OXVC7HSQCFH7W7HQQ.jpg?auth=9581dda5861a213da336e518b602d2de3cce4c1a4d99aac1fc4b046658d8aa9d&smart=true&width=1400&height=948",
       "source": "CP24",
       "badge": "CP24",
       "analysis": false,
-      "sector": "Infrastructure",
+      "sector": "General",
       "time": "Nov 25",
-      "date": "2026-11-26T00:45:09.000Z",
+      "date": "2026-11-25T19:49:29.000Z",
       "group": "sector"
     },
     {
@@ -220,24 +220,29 @@
   ],
   "feed_status": [
     {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
-    },
-    {
       "source": "Bank of Canada",
       "fetched": 20,
       "kept": 3
     },
     {
+      "source": "CBC News",
+      "fetched": 0,
+      "kept": 0
+    },
+    {
+      "source": "Finance Canada",
+      "fetched": 20,
+      "kept": 4
+    },
+    {
       "source": "CDEV",
       "fetched": 20,
       "kept": 0
+    },
+    {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 2
     },
     {
       "source": "Canada Media Fund",
@@ -253,11 +258,6 @@
       "source": "C.D. Howe Institute",
       "fetched": 24,
       "kept": 4
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 2
     }
   ]
 }

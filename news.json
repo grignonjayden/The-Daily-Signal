@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 26, 2026, 11:29 AM ET",
+  "generated_at": "Nov 26, 2026, 11:32 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795710579356,
+  "updated_ts": 1795710779949,
   "articles": [
-    {
-      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-      "image": "https://images.mktw.net/im-58425830",
-      "time": "Nov 26, 10:30 AM",
-      "coverage": 5,
-      "ts": 1795707000000
-    },
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
       "source": "MarketWatch",
@@ -20,8 +10,29 @@
       "snippet": "A rebound off lows for the S&P 500 on Wednesday calms bourses after the tech washout.",
       "image": "https://images.mktw.net/im-44727230",
       "time": "Nov 26, 8:41 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795700460000
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 26, 11:30 AM",
+      "coverage": 5,
+      "ts": 1795710600000
+    },
+    {
+      "title": "Wall Street se vuelve más cauteloso con el carry trade",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/wall-street-se-vuelve-mas-cauteloso-con-el-carry-trade-mwxrpht6",
+      "snippet": "La operación llegó a generar retornos cercanos a 20% y resistió guerras, intervenciones y crisis políticas. Ahora, la volatilidad obliga a repensar una de las maniobras favoritas del mercado.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 11:29 AM",
+      "coverage": 5,
+      "ts": 1795710566000
     },
     {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
@@ -105,17 +116,6 @@
       "ts": 1795645620000
     },
     {
-      "title": "Spain's De Cos Set to Succeed Lagarde as ECB President",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n",
-      "snippet": "Pablo Hernandez de Cos is set to become European Central Bank president, directing the region’s fight against inflation and possible bond turmoil. The 55-year-old Spaniard will take over from Christine Lagarde, who…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 9:05 AM",
-      "coverage": 3,
-      "ts": 1795701943000
-    },
-    {
       "title": "Norway stocks higher at close of trade; Oslo OBX up 1.50%",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-150-5052605",
@@ -136,13 +136,14 @@
       "ts": 1795667395000
     },
     {
-      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
-      "ts": 1795617488000
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
     }
   ],
   "outlets": [
@@ -302,10 +303,10 @@
       "ts": 1795707004000
     },
     {
-      "time": "10:25 AM",
-      "title": "Bloomberg — What JLL Sees This Holiday Season",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/what-jll-sees-this-holiday-season-video",
-      "ts": 1795706716000
+      "time": "10:30 AM",
+      "title": "MarketWatch — We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "ts": 1795707000000
     }
   ]
 }
