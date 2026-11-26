@@ -1,8 +1,20 @@
 {
-  "generated_at": "Nov 26, 2026, 6:12 PM ET",
+  "generated_at": "Nov 26, 2026, 6:45 PM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Liberals support Conservative push for minister to testify after W5 drug-smuggling investigation",
+      "url": "https://www.cp24.com/news/canada/2026/11/26/transport-minister-could-soon-be-called-to-testify-before-committee-about-bag-tag-switching/",
+      "image": "https://www.cp24.com/resizer/v2/7ECDAGXFZZFEEZYU34NV62PIQY.jpg?auth=1233b45e4796827ce8ac10bdbd8e1fb4aabdd221236d84c9d0b1da18b930d69c&smart=true&width=1400&height=916",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "Infrastructure",
+      "time": "Nov 26",
+      "date": "2026-11-27T03:35:55.000Z",
+      "group": "sector"
+    },
     {
       "title": "12 First Nations in B.C. buy stake in Coastal GasLink pipeline",
       "url": "https://www.cbc.ca/news/politics/coastal-gaslink-pipeline-ownership-9.7437694?cmp=rss",
@@ -230,17 +242,17 @@
     {
       "source": "CP24",
       "fetched": 200,
-      "kept": 1
-    },
-    {
-      "source": "ISED",
-      "fetched": 20,
-      "kept": 4
+      "kept": 2
     },
     {
       "source": "Canada Media Fund",
       "fetched": 24,
       "kept": 0
+    },
+    {
+      "source": "ISED",
+      "fetched": 20,
+      "kept": 4
     },
     {
       "source": "C.D. Howe Institute",
