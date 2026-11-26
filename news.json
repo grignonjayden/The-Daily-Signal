@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 26, 2026, 3:44 PM ET",
+  "generated_at": "Nov 26, 2026, 3:47 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795725852453,
+  "updated_ts": 1795726055814,
   "articles": [
-    {
-      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
-      "snippet": "The ‘Bank of AI’ faces a host of troubles ahead.",
-      "image": "https://images.mktw.net/im-40841215",
-      "time": "Nov 26, 9:00 AM",
-      "coverage": 6,
-      "ts": 1795701600000
-    },
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
       "source": "MarketWatch",
@@ -20,8 +10,18 @@
       "snippet": "A rebound off lows for the S&P 500 on Wednesday calms bourses after the tech washout.",
       "image": "https://images.mktw.net/im-44727230",
       "time": "Nov 26, 8:41 AM",
-      "coverage": 6,
+      "coverage": 7,
       "ts": 1795700460000
+    },
+    {
+      "title": "U.S. stock futures rise on Thanksgiving a day after wild swings on Wall Street",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-whipsaw-session-on-wall-st-5051753",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
+      "time": "Nov 26, 3:37 PM",
+      "coverage": 6,
+      "ts": 1795725443000
     },
     {
       "title": "Wall Street se vuelve más cauteloso con el carry trade",
@@ -31,8 +31,18 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 26, 11:29 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795710566000
+    },
+    {
+      "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+      "snippet": "The ‘Bank of AI’ faces a host of troubles ahead.",
+      "image": "https://images.mktw.net/im-40841215",
+      "time": "Nov 26, 9:00 AM",
+      "coverage": 6,
+      "ts": 1795701600000
     },
     {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
@@ -86,14 +96,14 @@
       "ts": 1795717458000
     },
     {
-      "title": "Imperial stock sees best day since 1999 on Altria, Japan Tobacco takeover interest",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/imperial-shares-jump-to-highest-since-2017-on-japan-tobacco-deal-report-5052501",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/news_arrow_up_M_1440047641.jpg",
-      "time": "Nov 26, 12:53 PM",
-      "coverage": 4,
-      "ts": 1795715609000
+      "title": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/wall-street-cant-seem-to-find-its-footing-in-the-chaos-of-the-new-ai-trade-b64564e0?mod=rss_markets_main",
+      "snippet": "The Nasdaq composite plunged as much as 4.5% Wednesday before paring losses.",
+      "image": "https://images.wsj.net/im-02216921",
+      "time": "Nov 25, 4:48 PM",
+      "coverage": 6,
+      "ts": 1795643280000
     },
     {
       "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
@@ -116,16 +126,6 @@
       "ts": 1795692285000
     },
     {
-      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
-      "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
-      "image": "https://images.wsj.net/im-58488429",
-      "time": "Nov 25, 5:27 PM",
-      "coverage": 5,
-      "ts": 1795645620000
-    },
-    {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
@@ -142,7 +142,7 @@
       "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
       "time": "Nov 23, 12:49 PM",
-      "coverage": 6,
+      "coverage": 7,
       "ts": 1795456173000
     }
   ],
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "3:30 PM",
+      "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 4.30%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-430-5052714",
+      "ts": 1795725004000
+    },
+    {
       "time": "3:25 PM",
       "title": "CNBC — Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
       "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
@@ -301,12 +307,6 @@
       "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "ts": 1795717800000
-    },
-    {
-      "time": "1:27 PM",
-      "title": "CNBC — Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-      "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
-      "ts": 1795717663000
     }
   ]
 }
