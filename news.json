@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:24 AM ET",
+  "generated_at": "Nov 26, 2026, 6:27 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795692252856,
+  "updated_ts": 1795692454400,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -239,6 +239,12 @@
   ],
   "ticker": [
     {
+      "time": "6:26 AM",
+      "title": "CNBC — U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "ts": 1795692412000
+    },
+    {
       "time": "6:16 AM",
       "title": "Globe and Mail — Business Brief: Dashing through the lows",
       "url": "https://www.theglobeandmail.com/business/article-business-brief-dashing-through-the-lows/",
@@ -303,12 +309,6 @@
       "title": "Investing.com — Why is ams OSRAM stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-ams-osram-stock-surging-today-93CH-5052382",
       "ts": 1795689355000
-    },
-    {
-      "time": "5:30 AM",
-      "title": "Investing.com — India stocks higher at close of trade; Nifty 50 up 0.25%",
-      "url": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-025-5052374",
-      "ts": 1795689005000
     }
   ]
 }
