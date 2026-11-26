@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 25, 2026, 10:13 PM ET",
+  "generated_at": "Nov 25, 2026, 10:16 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795662807505,
+  "updated_ts": 1795663006428,
   "articles": [
+    {
+      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+      "snippet": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559710-1795655986080-gettyimages-2290083650-golba-dailylif260808_npNHs.jpeg?v=1795656043&w=1920&h=1080",
+      "time": "Nov 25, 10:13 PM",
+      "coverage": 6,
+      "ts": 1795662823000
+    },
     {
       "title": "Trump admin weighed using Cold War law to reinstate Nvidia CEO Huang, WaPo reports",
       "source": "Investing.com",
@@ -12,16 +22,6 @@
       "time": "Nov 25, 9:52 PM",
       "coverage": 6,
       "ts": 1795661567000
-    },
-    {
-      "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
-      "snippet": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559710-1795655986080-gettyimages-2290083650-golba-dailylif260808_npNHs.jpeg?v=1795656043&w=1920&h=1080",
-      "time": "Nov 25, 9:15 PM",
-      "coverage": 6,
-      "ts": 1795659351000
     },
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
