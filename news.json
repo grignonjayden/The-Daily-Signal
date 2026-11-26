@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:05 AM ET",
+  "generated_at": "Nov 26, 2026, 2:08 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795676714878,
+  "updated_ts": 1795676914860,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -261,6 +261,12 @@
       "ts": 1795675876000
     },
     {
+      "time": "1:48 AM",
+      "title": "CNBC — Wealthy Europeans are looking beyond the stock market amid the AI sell-off",
+      "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
+      "ts": 1795675692000
+    },
+    {
       "time": "1:46 AM",
       "title": "Investing.com — Skanska wins $275 mln data center contract in Georgia, USA",
       "url": "https://www.investing.com/news/stock-market-news/skanska-wins-275-mln-data-center-contract-in-georgia-usa-93CH-5052117",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Oil Rises as Houthis Attack Two Saudi Ports on Red Sea",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/oil-rises-as-houthis-attack-two-saudi-ports-on-red-sea-video",
       "ts": 1795674676000
-    },
-    {
-      "time": "1:27 AM",
-      "title": "Bloomberg — Guinea Lawmakers Approve Law to Establish Sovereign Wealth Fund",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/guinea-lawmakers-approve-law-to-establish-sovereign-wealth-fund",
-      "ts": 1795674467000
     }
   ]
 }
