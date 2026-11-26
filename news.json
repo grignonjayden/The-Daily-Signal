@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:06 PM ET",
+  "generated_at": "Nov 26, 2026, 1:10 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795716406090,
+  "updated_ts": 1795716605613,
   "articles": [
     {
       "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
@@ -65,14 +65,45 @@
       "ts": 1795663184000
     },
     {
-      "title": "European stocks end higher as benign U.S. tariffs, Thanksgiving lull offer relief",
+      "title": "Imperial stock sees best day since 1999 on Altria, Japan Tobacco takeover interest",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
+      "url": "https://www.investing.com/news/stock-market-news/imperial-shares-jump-to-highest-since-2017-on-japan-tobacco-deal-report-5052501",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
-      "time": "Nov 26, 12:18 PM",
+      "image": "https://content-media.investing.com/news/news_arrow_up_M_1440047641.jpg",
+      "time": "Nov 26, 12:53 PM",
       "coverage": 4,
-      "ts": 1795713535000
+      "ts": 1795715609000
+    },
+    {
+      "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
+      "time": "Nov 26, 12:48 PM",
+      "coverage": 4,
+      "ts": 1795715300000
+    },
+    {
+      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
+      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
+      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
+      "time": "Nov 26, 9:00 AM",
+      "coverage": 4,
+      "ts": 1795701602000
+    },
+    {
+      "title": "Altria, Japan Tobacco Explore Takeover of Imperial Brands",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential takeover of British cigarette maker Imperial Brands Plc, accelerating consolidation in the declining cigarette market in what would be one of the…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 8:08 AM",
+      "coverage": 4,
+      "ts": 1795698533000
     },
     {
       "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
@@ -83,37 +114,6 @@
       "time": "Nov 26, 6:24 AM",
       "coverage": 4,
       "ts": 1795692285000
-    },
-    {
-      "title": "Spanish former central banker to be named next European Central Bank chief",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/",
-      "snippet": "Pablo Hernández de Cos will replace Christine Lagarde after securing support from the Netherlands",
-      "image": "https://www.theglobeandmail.com/resizer/v2/DGRZZ4JRAVEETLK7GFUJVTZQYM.JPG?auth=f6be22b94cdcd26171b8dd8955bf3ea689fa7b9a80d7a3f0a96bb9d1b49de06e&smart=true&width=4044&height=2724",
-      "time": "Nov 26, 9:44 AM",
-      "coverage": 2,
-      "ts": 1795704259000
-    },
-    {
-      "title": "Mexico urges Asian trade partners to crack down on tariff dodging",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/mexico-urges-asian-trade-partners-to-crack-down-on-tariff-dodging-5052646",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP1JV_L.jpg",
-      "time": "Nov 26, 12:12 PM",
-      "coverage": 3,
-      "ts": 1795713163000
-    },
-    {
-      "title": "Trans-Oil Warns of Going-Concern Risk Pending Debt Waiver",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/trans-oil-warns-of-going-concern-risk-pending-debt-waiver",
-      "snippet": "Trans-Oil Group has yet to secure a waiver after breaching financial covenants on a key export facility, adding to liquidity pressure at the agricultural commodities firm.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 11:39 AM",
-      "coverage": 3,
-      "ts": 1795711169000
     },
     {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
@@ -285,6 +285,18 @@
       "ts": 1795713699000
     },
     {
+      "time": "12:18 PM",
+      "title": "Investing.com — European stocks end higher as benign U.S. tariffs, Thanksgiving lull offer relief",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
+      "ts": 1795713535000
+    },
+    {
+      "time": "12:12 PM",
+      "title": "Investing.com — Mexico urges Asian trade partners to crack down on tariff dodging",
+      "url": "https://www.investing.com/news/stock-market-news/mexico-urges-asian-trade-partners-to-crack-down-on-tariff-dodging-5052646",
+      "ts": 1795713163000
+    },
+    {
       "time": "12:08 PM",
       "title": "Investing.com — U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 1.88%",
       "url": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-188-5052644",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Spain stocks higher at close of trade; IBEX 35 up 2.35%",
       "url": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-235-5052643",
       "ts": 1795712897000
-    },
-    {
-      "time": "12:07 PM",
-      "title": "Investing.com — Portugal stocks higher at close of trade; PSI up 1.33%",
-      "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-133-5052642",
-      "ts": 1795712874000
-    },
-    {
-      "time": "12:07 PM",
-      "title": "Investing.com — Netherlands stocks higher at close of trade; AEX up 1.86%",
-      "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-186-5052641",
-      "ts": 1795712849000
     }
   ]
 }
