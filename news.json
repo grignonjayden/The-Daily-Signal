@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:06 AM ET",
+  "generated_at": "Nov 26, 2026, 9:09 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795701986603,
+  "updated_ts": 1795702191084,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -10,7 +10,7 @@
       "snippet": "A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out",
       "image": "https://images.mktw.net/im-44727230",
       "time": "Nov 26, 8:41 AM",
-      "coverage": 6,
+      "coverage": 7,
       "ts": 1795700460000
     },
     {
@@ -22,6 +22,36 @@
       "time": "Nov 26, 8:01 AM",
       "coverage": 5,
       "ts": 1795698060000
+    },
+    {
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
+      "time": "Nov 26, 7:22 AM",
+      "coverage": 5,
+      "ts": 1795695745000
+    },
+    {
+      "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
+      "snippet": "New import duties targeting 14 economies aim to replace earlier tariffs struck down by U.S. Supreme Court",
+      "image": "https://www.theglobeandmail.com/resizer/v2/VCWLJQIPJRB7PJF3AW5B4BVS7I.jpg?auth=325e44498ea288acaed102b5295cf1b035f0d829ab386b0aa97a096e9ee43d5c&smart=true&width=4000&height=2522",
+      "time": "Nov 26, 6:24 AM",
+      "coverage": 5,
+      "ts": 1795692285000
+    },
+    {
+      "title": "European shares rise as benign U.S. tariffs and Thanksgiving lull offer relief",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEI1R0AR_L.jpg",
+      "time": "Nov 26, 9:03 AM",
+      "coverage": 4,
+      "ts": 1795701808000
     },
     {
       "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
@@ -75,26 +105,6 @@
       "ts": 1795698533000
     },
     {
-      "title": "Why is Imperial Brands stock surging today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-imperial-brands-stock-surging-today-93CH-5052503",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "time": "Nov 26, 8:08 AM",
-      "coverage": 4,
-      "ts": 1795698511000
-    },
-    {
-      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-      "snippet": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
-      "time": "Nov 26, 7:22 AM",
-      "coverage": 4,
-      "ts": 1795695745000
-    },
-    {
       "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
@@ -105,16 +115,6 @@
       "ts": 1795663184000
     },
     {
-      "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
-      "snippet": "New import duties targeting 14 economies aim to replace earlier tariffs struck down by U.S. Supreme Court",
-      "image": "https://www.theglobeandmail.com/resizer/v2/VCWLJQIPJRB7PJF3AW5B4BVS7I.jpg?auth=325e44498ea288acaed102b5295cf1b035f0d829ab386b0aa97a096e9ee43d5c&smart=true&width=4000&height=2522",
-      "time": "Nov 26, 6:24 AM",
-      "coverage": 4,
-      "ts": 1795692285000
-    },
-    {
       "title": "Inflation-Wary Shoppers Prepare for Black Friday",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/inflation-wary-shoppers-prepare-for-black-friday-video",
@@ -122,7 +122,7 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 26, 7:18 AM",
-      "coverage": 3,
+      "coverage": 4,
       "ts": 1795695493000
     },
     {
@@ -237,10 +237,34 @@
   ],
   "ticker": [
     {
+      "time": "9:05 AM",
+      "title": "Bloomberg — Spain's De Cos Set to Succeed Lagarde as ECB President (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/spain-s-de-cos-set-to-succeed-lagarde-as-ecb-president-video-mwxmko5n",
+      "ts": 1795701943000
+    },
+    {
+      "time": "9:02 AM",
+      "title": "Investing.com — Wednesday’s top insider buys and sells: Galaxy Digital, Gold.com and more",
+      "url": "https://www.investing.com/news/stock-market-news/wednesdays-top-insider-buys-and-sells-galaxy-digital-goldcom-and-more-93CH-5052536",
+      "ts": 1795701740000
+    },
+    {
+      "time": "9:00 AM",
+      "title": "Investing.com — Airline Norse Atlantic flags bankruptcy risk as flights suspended",
+      "url": "https://www.investing.com/news/stock-market-news/airline-norse-atlantic-flags-bankruptcy-risk-as-flights-suspended-5052475",
+      "ts": 1795701629000
+    },
+    {
       "time": "9:00 AM",
       "title": "Globe and Mail — Recalibrate your brain to savour the good moments of each day",
       "url": "https://www.theglobeandmail.com/business/careers/talent/article-recalibrate-your-brain-to-savour-the-good-moments-of-each-day/",
       "ts": 1795701600000
+    },
+    {
+      "time": "8:51 AM",
+      "title": "Bloomberg — UK Is Latest Big European Economy to Report Diesel Demand Slump",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/uk-is-latest-big-european-economy-to-report-diesel-demand-slump",
+      "ts": 1795701108000
     },
     {
       "time": "8:36 AM",
@@ -280,33 +304,9 @@
     },
     {
       "time": "8:08 AM",
-      "title": "Bloomberg — UBS Vows to Remain Global as Swiss Capital Outlook Darkens",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ubs-vows-to-remain-global-as-swiss-capital-outlook-darkens",
+      "title": "Investing.com — Why is Imperial Brands stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-imperial-brands-stock-surging-today-93CH-5052503",
       "ts": 1795698511000
-    },
-    {
-      "time": "8:06 AM",
-      "title": "Investing.com — Imperial shares jump to highest since 2017 on Japan Tobacco deal report",
-      "url": "https://www.investing.com/news/stock-market-news/imperial-shares-jump-to-highest-since-2017-on-japan-tobacco-deal-report-5052501",
-      "ts": 1795698369000
-    },
-    {
-      "time": "8:06 AM",
-      "title": "MarketWatch — ‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-      "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-      "ts": 1795698360000
-    },
-    {
-      "time": "8:01 AM",
-      "title": "Investing.com — Brazil’s Lula sounds out Bradesco chairman as finance minister, sources say",
-      "url": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
-      "ts": 1795698083000
-    },
-    {
-      "time": "8:01 AM",
-      "title": "Bloomberg — Global Stocks Climb as AI Trade Rebounds",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-opening-trade-11-26-2026-video",
-      "ts": 1795698080000
     }
   ]
 }
