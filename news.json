@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 2:35 AM ET",
+  "generated_at": "Nov 26, 2026, 2:38 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795678526179,
+  "updated_ts": 1795678725291,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "2:35 AM",
+      "title": "WSJ Markets — Dollar Remains Lifted by Fed Rate-Rise Bets",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "ts": 1795678500000
+    },
+    {
+      "time": "2:30 AM",
+      "title": "CNBC — Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+      "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+      "ts": 1795678211000
+    },
+    {
+      "time": "2:24 AM",
+      "title": "Bloomberg — Diesel-Carrying Ship Sinks Off Spanish Island of Ibiza, One Dead",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/diesel-carrying-ship-sinks-off-spanish-island-of-ibiza-one-dead",
+      "ts": 1795677868000
+    },
+    {
       "time": "2:24 AM",
       "title": "Investing.com — Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
       "url": "https://www.investing.com/news/stock-market-news/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-5052154",
@@ -289,24 +307,6 @@
       "title": "WSJ Markets — U.S. Treasurys Show ‘Remarkable Resilience’ to Upbeat Data",
       "url": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
       "ts": 1795676040000
-    },
-    {
-      "time": "1:51 AM",
-      "title": "Investing.com — Smart Eye CFO Benjaminsson to leave in December, interim named",
-      "url": "https://www.investing.com/news/stock-market-news/smart-eye-cfo-benjaminsson-to-leave-in-december-interim-named-93CH-5052122",
-      "ts": 1795675876000
-    },
-    {
-      "time": "1:46 AM",
-      "title": "Investing.com — Skanska wins $275 mln data center contract in Georgia, USA",
-      "url": "https://www.investing.com/news/stock-market-news/skanska-wins-275-mln-data-center-contract-in-georgia-usa-93CH-5052117",
-      "ts": 1795675599000
-    },
-    {
-      "time": "1:46 AM",
-      "title": "Bloomberg — Why the AI Panic May Be Premature",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/why-the-ai-panic-may-be-premature-video",
-      "ts": 1795675586000
     }
   ]
 }
