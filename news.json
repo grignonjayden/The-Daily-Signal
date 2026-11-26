@@ -1,8 +1,38 @@
 {
-  "generated_at": "Nov 26, 2026, 10:04 AM ET",
+  "generated_at": "Nov 26, 2026, 10:08 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795705486428,
+  "updated_ts": 1795705689086,
   "articles": [
+    {
+      "title": "Marlboro maker Altria explores takeover of UK’s Imperial Brands",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
+      "time": "Nov 26, 9:54 AM",
+      "coverage": 5,
+      "ts": 1795704891000
+    },
+    {
+      "title": "Marlboro maker Altria explores takeover of UK's Imperial Brands",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
+      "snippet": "U.S. tobacco group Altria said on Thursday it was considering a possible all-cash offer for ​Imperial Brands.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107232976-1682707584484-gettyimages-1486127437-0j5a7430_clcrzwlh.jpeg?v=1698330737&w=1920&h=1080",
+      "time": "Nov 26, 9:47 AM",
+      "coverage": 5,
+      "ts": 1795704457000
+    },
+    {
+      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
+      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
+      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
+      "time": "Nov 26, 9:00 AM",
+      "coverage": 5,
+      "ts": 1795701602000
+    },
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
       "source": "MarketWatch",
@@ -10,8 +40,29 @@
       "snippet": "A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out",
       "image": "https://images.mktw.net/im-44727230",
       "time": "Nov 26, 8:41 AM",
-      "coverage": 6,
+      "coverage": 5,
       "ts": 1795700460000
+    },
+    {
+      "title": "Altria Considers $157 Billion Tobacco Tie-Up With Imperial Brands",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=rss_markets_main",
+      "snippet": "The U.S. company said it was considering a takeover offer to buy its smaller London-listed peer.",
+      "image": "https://images.wsj.net/im-875303",
+      "time": "Nov 26, 8:27 AM",
+      "coverage": 5,
+      "ts": 1795699620000
+    },
+    {
+      "title": "Altria, Japan Tobacco Explore Breakup of Imperial Brands",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential breakup of British cigarette maker Imperial Brands Plc, in what would be one of the largest takeovers of a UK company in a decade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 8:08 AM",
+      "coverage": 5,
+      "ts": 1795698533000
     },
     {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
@@ -34,16 +85,6 @@
       "ts": 1795695745000
     },
     {
-      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "snippet": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108556424-1795181552746-gettyimages-2294015150-aditya-notitle260910_npipj.jpeg?v=1795181613&w=1920&h=1080",
-      "time": "Nov 26, 9:59 AM",
-      "coverage": 3,
-      "ts": 1795705187000
-    },
-    {
       "title": "Spain’s Pablo Hernandez de Cos set to be nominated as new European Central Bank head",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-pablo-hernandez-de-cos-nominated-new-european-central-bank-head/",
@@ -64,16 +105,6 @@
       "ts": 1795701808000
     },
     {
-      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
-      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
-      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
-      "time": "Nov 26, 9:00 AM",
-      "coverage": 4,
-      "ts": 1795701602000
-    },
-    {
       "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
@@ -82,37 +113,6 @@
       "time": "Nov 26, 9:00 AM",
       "coverage": 4,
       "ts": 1795701600000
-    },
-    {
-      "title": "Altria Considers $157 Billion Tobacco Tie-Up With Imperial Brands",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=rss_markets_main",
-      "snippet": "The U.S. company said it was considering a takeover offer to buy its smaller London-listed peer.",
-      "image": "https://images.wsj.net/im-875303",
-      "time": "Nov 26, 8:27 AM",
-      "coverage": 4,
-      "ts": 1795699620000
-    },
-    {
-      "title": "Altria, Japan Tobacco Explore Breakup of Imperial Brands",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
-      "snippet": "Altria Group Inc. and Japan Tobacco Inc. are exploring a potential breakup of British cigarette maker Imperial Brands Plc, in what would be one of the largest takeovers of a UK company in a decade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 8:08 AM",
-      "coverage": 4,
-      "ts": 1795698533000
-    },
-    {
-      "title": "Investors Overpaid for Retail Safety, Missing Kroger’s 14% Rally",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/investors-overpaid-for-retail-safety-missing-krogers-14-rally-5051989",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEE203OH_M.jpg",
-      "time": "Nov 26, 9:15 AM",
-      "coverage": 3,
-      "ts": 1795702551000
     },
     {
       "title": "Spain's De Cos Set to Succeed Lagarde as ECB President",
@@ -238,15 +238,21 @@
   "ticker": [
     {
       "time": "9:59 AM",
+      "title": "CNBC — Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "ts": 1795705187000
+    },
+    {
+      "time": "9:59 AM",
+      "title": "Bloomberg — (USD:ZAR) Rand Hurtles Toward Worst November Against Dollar in 25 Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/-usd-zar-rand-hurtles-toward-worst-november-against-dollar-in-25-years",
+      "ts": 1795705167000
+    },
+    {
+      "time": "9:59 AM",
       "title": "WSJ Markets — Japanese Yen Lifted by Safe-Haven Demand",
       "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
       "ts": 1795705140000
-    },
-    {
-      "time": "9:47 AM",
-      "title": "CNBC — Marlboro maker Altria explores takeover of UK's Imperial Brands",
-      "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html",
-      "ts": 1795704457000
     },
     {
       "time": "9:37 AM",
@@ -265,6 +271,12 @@
       "title": "Investing.com — Brazil’s Embraer CEO says US aircraft tariff will hurt airlines",
       "url": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
       "ts": 1795702711000
+    },
+    {
+      "time": "9:15 AM",
+      "title": "Investing.com — Investors Overpaid for Retail Safety, Missing Kroger’s 14% Rally",
+      "url": "https://www.investing.com/news/stock-market-news/investors-overpaid-for-retail-safety-missing-krogers-14-rally-5051989",
+      "ts": 1795702551000
     },
     {
       "time": "9:15 AM",
@@ -295,18 +307,6 @@
       "title": "Bloomberg — Oil Refining Profits Crash With Global Fuel Supply Rebounding",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/oil-refining-profits-crash-with-global-fuel-supply-rebounding",
       "ts": 1795702483000
-    },
-    {
-      "time": "9:12 AM",
-      "title": "Investing.com — Stellantis says keeping production in Italy a ’daily challenge’ amid rising costs",
-      "url": "https://www.investing.com/news/stock-market-news/stellantis-says-keeping-production-in-italy-a-daily-challenge-amid-rising-costs-5052537",
-      "ts": 1795702342000
-    },
-    {
-      "time": "9:11 AM",
-      "title": "Bloomberg — ¿Qué causó las fallas tecnológicas en EE.UU.?",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/-que-causo-las-fallas-tecnologicas-en-ee-uu-video",
-      "ts": 1795702311000
     }
   ]
 }
