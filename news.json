@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 12:04 AM ET",
+  "generated_at": "Nov 26, 2026, 12:07 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795669475850,
+  "updated_ts": 1795669675904,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -64,6 +64,16 @@
       "ts": 1795640408000
     },
     {
+      "title": "Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-taiwan-south-korea-rebound-nvidia-risks-linger-5052021",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEB1H0YB_M.jpg",
+      "time": "Nov 26, 12:01 AM",
+      "coverage": 4,
+      "ts": 1795669297000
+    },
+    {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
@@ -72,16 +82,6 @@
       "time": "Nov 25, 11:29 PM",
       "coverage": 4,
       "ts": 1795667395000
-    },
-    {
-      "title": "Musk says every child in the US will get two SpaceX shares",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/musk-says-every-child-in-the-us-will-get-two-spacex-shares-5052006",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP08E_L.jpg",
-      "time": "Nov 25, 11:18 PM",
-      "coverage": 4,
-      "ts": 1795666704000
     },
     {
       "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
@@ -257,6 +257,12 @@
     },
     {
       "time": "Nov 25",
+      "title": "Investing.com — Musk says every child in the US will get two SpaceX shares",
+      "url": "https://www.investing.com/news/stock-market-news/musk-says-every-child-in-the-us-will-get-two-spacex-shares-5052006",
+      "ts": 1795666704000
+    },
+    {
+      "time": "Nov 25",
       "title": "Investing.com — +48%, +36%, +32%: the AI healthcare picks beating their sector in 2026",
       "url": "https://www.investing.com/news/stock-market-news/48-36-32-the-ai-healthcare-picks-beating-their-sector-in-2026-5052005",
       "ts": 1795666638000
@@ -302,12 +308,6 @@
       "title": "CNBC — S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
       "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
       "ts": 1795663184000
-    },
-    {
-      "time": "Nov 25",
-      "title": "Investing.com — Stocks rally in Asia, unrocked by US tariffs",
-      "url": "https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871",
-      "ts": 1795663098000
     }
   ]
 }
