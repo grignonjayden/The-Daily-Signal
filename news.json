@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:08 AM ET",
+  "generated_at": "Nov 26, 2026, 8:12 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795698533045,
+  "updated_ts": 1795698734249,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "8:08 AM",
+      "title": "Bloomberg — Altria Studies Deal for Cigarette Maker Imperial Brands",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands",
+      "ts": 1795698533000
+    },
+    {
       "time": "8:06 AM",
       "title": "MarketWatch — ‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
       "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
@@ -248,6 +254,12 @@
       "title": "Investing.com — Brazil’s Lula sounds out Bradesco chairman as finance minister, sources say",
       "url": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
       "ts": 1795698083000
+    },
+    {
+      "time": "8:00 AM",
+      "title": "Bloomberg — Kim Shannon of Sionna Tops Market With Bet on Cheap Value Picks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kim-shannon-of-sionna-tops-market-with-bet-on-cheap-value-picks",
+      "ts": 1795698021000
     },
     {
       "time": "8:00 AM",
@@ -296,18 +308,6 @@
       "title": "MarketWatch — Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
       "url": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
       "ts": 1795696620000
-    },
-    {
-      "time": "7:36 AM",
-      "title": "WSJ Markets — Euro’s Recovery Prospects Look Limited",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
-      "ts": 1795696560000
-    },
-    {
-      "time": "7:30 AM",
-      "title": "Investing.com — Exclusive-StanChart’s crypto unit Zodia Custody hit by security breach, some client data exposed",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivestancharts-crypto-unit-zodia-custody-hit-by-security-breach-some-client-data-exposed-5052481",
-      "ts": 1795696256000
     }
   ]
 }
