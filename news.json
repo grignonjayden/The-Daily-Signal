@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 6:37 AM ET",
+  "generated_at": "Nov 26, 2026, 6:41 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795693065795,
+  "updated_ts": 1795693268447,
   "articles": [
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -116,15 +116,15 @@
       "ts": 1795613399000
     },
     {
-      "title": "Can Trump Gain Any Leverage Over China With the 40% Tariff Threat?",
+      "title": "AlexForbes Sees More Growth After Assets Hit $45 Billion",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/insight-with-haslinda-amin-11-26-2026-video",
-      "snippet": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning…",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/alexforbes-sees-more-growth-after-assets-hit-45-billion",
+      "snippet": "South Africa’s biggest commercial retirement-fund administrator boosted assets under management 13% in the first half and expects to maintain that pace for the rest of the year.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 26, 4:09 AM",
+      "time": "Nov 26, 6:28 AM",
       "coverage": 3,
-      "ts": 1795684156000
+      "ts": 1795692524000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
