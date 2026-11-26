@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 1:38 AM ET",
+  "generated_at": "Nov 26, 2026, 1:41 AM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795675110866,
+  "updated_ts": 1795675312872,
   "articles": [
     {
       "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "1:39 AM",
+      "title": "CNBC — SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+      "ts": 1795675174000
+    },
+    {
       "time": "1:31 AM",
       "title": "Bloomberg — Oil Rises as Houthis Attack Two Saudi Ports on Red Sea",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/oil-rises-as-houthis-attack-two-saudi-ports-on-red-sea-video",
@@ -302,12 +308,6 @@
       "title": "Investing.com — Why did Fisher & Paykel Healthcare shares hit a record high today?",
       "url": "https://www.investing.com/news/stock-market-news/why-did-fisher--paykel-healthcare-shares-hit-a-record-high-today-93CH-5052038",
       "ts": 1795671710000
-    },
-    {
-      "time": "12:40 AM",
-      "title": "Investing.com — Why is NRW Holdings stock rising today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-nrw-holdings-stock-rising-today-93CH-5052037",
-      "ts": 1795671632000
     }
   ]
 }
