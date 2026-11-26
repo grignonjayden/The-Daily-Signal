@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 25, 2026, 7:34 PM ET",
+  "generated_at": "Nov 25, 2026, 7:38 PM ET",
   "date_key": "2026-11-25",
-  "updated_ts": 1795653288725,
+  "updated_ts": 1795653491680,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "7:33 PM",
+      "title": "MarketWatch — Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+      "ts": 1795653180000
+    },
+    {
       "time": "7:24 PM",
       "title": "WSJ Markets — Gold Edges Lower Amid Rate Hike Bets",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
@@ -302,12 +308,6 @@
       "title": "Investing.com — U.S. stock futures steady after whipsaw session on Wall St",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-whipsaw-session-on-wall-st-5051753",
       "ts": 1795650223000
-    },
-    {
-      "time": "6:30 PM",
-      "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "ts": 1795649400000
     }
   ]
 }
