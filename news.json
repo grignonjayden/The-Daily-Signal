@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 12:04 AM ET",
+  "generated_at": "Nov 27, 2026, 12:08 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795755887640,
+  "updated_ts": 1795756088164,
   "articles": [
     {
       "title": "Asian stocks rise as tech rebound, easing U.S. trade concerns lift sentiment",
@@ -44,14 +44,24 @@
       "ts": 1795754459000
     },
     {
-      "title": "Japan Tobacco shares surge on report of Imperial Brands takeover",
+      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "snippet": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "time": "Nov 26, 11:20 PM",
+      "coverage": 3,
+      "ts": 1795753255000
+    },
+    {
+      "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/japan-tobacco-shares-surge-on-report-of-imperial-brands-takeover-5052817",
+      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEB1P0B0_M.jpg",
-      "time": "Nov 26, 9:22 PM",
-      "coverage": 4,
-      "ts": 1795746169000
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
+      "time": "Nov 26, 11:06 PM",
+      "coverage": 3,
+      "ts": 1795752380000
     },
     {
       "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
@@ -61,29 +71,19 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 26, 7:26 PM",
-      "coverage": 4,
+      "coverage": 3,
       "ts": 1795739165000
     },
     {
-      "title": "New Zealand Dollar Gains as Traders Look Past Hung Parliament",
+      "title": "Gold Rises as Rebound in Tech Stocks Offsets Rate-Hike Concerns",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/new-zealand-dollar-gains-as-traders-look-past-hung-parliament",
-      "snippet": "The New Zealand dollar rose as traders shrugged off an official election result which confirmed a potentially hung parliament, with sentiment underpinned by improved global risk appetite.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+      "snippet": "Gold rose as a tentative recovery in technology stocks and a weaker US dollar offset the prospect of interest-rate hikes by the Federal Reserve.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 26, 11:42 PM",
-      "coverage": 2,
-      "ts": 1795754578000
-    },
-    {
-      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "snippet": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "time": "Nov 26, 11:20 PM",
+      "time": "Nov 26, 6:53 PM",
       "coverage": 3,
-      "ts": 1795753255000
+      "ts": 1795737215000
     },
     {
       "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
@@ -235,10 +235,28 @@
   ],
   "ticker": [
     {
+      "time": "12:03 AM",
+      "title": "Investing.com — Why is Tianqi Lithium stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-tianqi-lithium-stock-climbing-today-93CH-5052887",
+      "ts": 1795755792000
+    },
+    {
       "time": "12:01 AM",
       "title": "MarketWatch — Is the stock market open on Black Friday?",
       "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
       "ts": 1795755660000
+    },
+    {
+      "time": "12:01 AM",
+      "title": "Globe and Mail — Download the December 2026 edition of Report on Business magazine",
+      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-download-the-december-2026-edition-of-report-on-business-magazine/",
+      "ts": 1795755660000
+    },
+    {
+      "time": "12:00 AM",
+      "title": "Bloomberg — China’s Cabinet Stresses Market Support in Midday Release",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release",
+      "ts": 1795755623000
     },
     {
       "time": "Nov 26",
@@ -248,63 +266,45 @@
     },
     {
       "time": "Nov 26",
+      "title": "Investing.com — Why is B & S International Holdings stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-b--s-international-holdings-stock-surging-today-93CH-5052880",
+      "ts": 1795755371000
+    },
+    {
+      "time": "Nov 26",
+      "title": "Investing.com — Why is Wuxi Delinhai Environmental Technology stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-wuxi-delinhai-environmental-technology-stock-surging-today-93CH-5052878",
+      "ts": 1795755081000
+    },
+    {
+      "time": "Nov 26",
+      "title": "Investing.com — Why is Beijing Zhongke WengeAI Science and Technology stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-beijing-zhongke-wengeai-science-and-technology-stock-surging-today-93CH-5052874",
+      "ts": 1795754908000
+    },
+    {
+      "time": "Nov 26",
       "title": "Bloomberg — IMC Trading’s Internship Ad Misfire Shows Rush for Quant Jobs",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/imc-trading-s-internship-ad-misfire-shows-rush-for-quant-jobs",
       "ts": 1795754748000
     },
     {
       "time": "Nov 26",
+      "title": "Investing.com — Why is China Shenhua Energy stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-china-shenhua-energy-stock-sliding-today-93CH-5052867",
+      "ts": 1795754724000
+    },
+    {
+      "time": "Nov 26",
+      "title": "Bloomberg — New Zealand Dollar Gains as Traders Look Past Hung Parliament",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/new-zealand-dollar-gains-as-traders-look-past-hung-parliament",
+      "ts": 1795754578000
+    },
+    {
+      "time": "Nov 26",
       "title": "Investing.com — Why is the Australian Dollar climbing today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-the-australian-dollar-climbing-today-93CH-5052853",
       "ts": 1795753475000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Investing.com — Japan’s Jera in talks with Anthropic, Meta, Amazon on data centers- Nikkei",
-      "url": "https://www.investing.com/news/stock-market-news/japans-jera-in-talks-with-anthropic-meta-amazon-on-data-centers-nikkei-93CH-5052852",
-      "ts": 1795753467000
-    },
-    {
-      "time": "Nov 26",
-      "title": "WSJ Markets — Venture Firm Antler Eyes $100 Billion in Portfolio Value by 2027",
-      "url": "https://www.wsj.com/finance/investing/venture-firm-antler-eyes-100-billion-in-portfolio-value-by-2027-cb405206?mod=rss_markets_main",
-      "ts": 1795753260000
-    },
-    {
-      "time": "Nov 26",
-      "title": "CNBC — This 170-year historical study says ‘major market collapse’ is coming",
-      "url": "https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html",
-      "ts": 1795752427000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Investing.com — US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
-      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
-      "ts": 1795752380000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Investing.com — Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
-      "url": "https://www.investing.com/news/stock-market-news/singapore-yet-to-confirm-if-nvidia-has-halted-advanced-chip-shipments-deputy-pm-5052834",
-      "ts": 1795751059000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Bloomberg — What’s Driving Hong Kong Home Rents to New Highs",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/what-s-driving-hong-kong-home-rents-to-new-highs-video",
-      "ts": 1795750884000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Bloomberg — EM Asia Stocks Set for Weekly Gain as Markets Regain Footing",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
-      "ts": 1795750428000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Bloomberg — Copper Rebounds From 11-Month Low on Return of Risk Appetite",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
-      "ts": 1795750387000
     }
   ]
 }
