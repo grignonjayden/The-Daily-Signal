@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 27, 2026, 4:12 AM ET",
+  "generated_at": "Nov 27, 2026, 4:16 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795770773325,
+  "updated_ts": 1795770972220,
   "articles": [
+    {
+      "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "snippet": "Oil prices rose with Brent crude above $97 a barrel as attacks on Gulf shipping and Saudi energy infrastructure kept the geopolitical risk premium high.",
+      "image": "https://images.wsj.net/im-48078726",
+      "time": "Nov 27, 4:12 AM",
+      "coverage": 2,
+      "ts": 1795770720000
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -74,17 +84,6 @@
       "time": "Nov 27, 2:15 AM",
       "coverage": 3,
       "ts": 1795763713000
-    },
-    {
-      "title": "European Stock Indexes Rise as Tech Rally Extends",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
-      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 3:32 AM",
-      "coverage": 2,
-      "ts": 1795768320000
     },
     {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
@@ -253,7 +252,7 @@
     },
     {
       "time": "4:00 AM",
-      "title": "Bloomberg — Isabella Weber's Vision for an Affordability Agenda",
+      "title": "Bloomberg — Isabella Weber’s Vision for an Affordability Agenda",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/isabella-weber-s-vision-for-an-affordability-agenda",
       "ts": 1795770022000
     },
