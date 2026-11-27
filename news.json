@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:26 PM ET",
+  "generated_at": "Nov 26, 2026, 9:30 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795746411843,
+  "updated_ts": 1795746624011,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -9,9 +9,9 @@
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
       "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
       "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
-      "time": "Nov 26, 8:45 PM",
+      "time": "Nov 26, 9:27 PM",
       "coverage": 5,
-      "ts": 1795743916000
+      "ts": 1795746458000
     },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -247,6 +247,12 @@
       "ts": 1795745760000
     },
     {
+      "time": "9:15 PM",
+      "title": "Bloomberg — IMF Sees Emerging Risks in Australia’s $3.1 Trillion of Pensions",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-sees-emerging-risks-in-australia-s-3-1-trillion-of-pensions",
+      "ts": 1795745734000
+    },
+    {
       "time": "9:13 PM",
       "title": "WSJ Markets — Asian Markets Mostly Higher as Sentiment Stabilizes",
       "url": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
@@ -299,12 +305,6 @@
       "title": "Investing.com — Netherlands will ask Washington not to enforce MATCH Act, minister says",
       "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
       "ts": 1795741959000
-    },
-    {
-      "time": "8:08 PM",
-      "title": "Bloomberg — Brazil Assets Rally After Lula Names Banker as Finance Minister",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
-      "ts": 1795741680000
     }
   ]
 }
