@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 9:59 AM ET",
+  "generated_at": "Nov 27, 2026, 10:02 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795791564358,
+  "updated_ts": 1795791767378,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -29,9 +29,9 @@
       "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
       "snippet": "Stocks are on pace for a record Black Friday as Anthropic tries to regain its IPO price.",
       "image": "https://image.cnbcfm.com/api/v1/image/108556478-1795186653493-108556478-1795186592615-gettyimages-2305474808-US_STOCKS.jpg?v=1795186665&w=1920&h=1080",
-      "time": "Nov 27, 9:31 AM",
+      "time": "Nov 27, 10:02 AM",
       "coverage": 4,
-      "ts": 1795789872000
+      "ts": 1795791724000
     },
     {
       "title": "BLACK FRIDAY ENDS SOON: ONLY HOURS TO GO to secure 60% off InvestingPro",
@@ -235,6 +235,12 @@
   ],
   "ticker": [
     {
+      "time": "10:01 AM",
+      "title": "MarketWatch — Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+      "url": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+      "ts": 1795791660000
+    },
+    {
       "time": "9:56 AM",
       "title": "CNBC — Dow rallies 300 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
@@ -299,12 +305,6 @@
       "title": "WSJ Markets — U.S. Natural Gas Futures Fall as Front Month Shifts to January",
       "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
       "ts": 1795790100000
-    },
-    {
-      "time": "9:33 AM",
-      "title": "Bloomberg — Nvidia Pares Gains on Blackwell Report; Altria Lower | Stock Movers",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-pares-gains-altria-moves-lower-stock-movers-video",
-      "ts": 1795789981000
     }
   ]
 }
