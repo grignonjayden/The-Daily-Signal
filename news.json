@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:12 PM ET",
+  "generated_at": "Nov 26, 2026, 7:15 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795738358359,
+  "updated_ts": 1795738558074,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "7:11 PM",
+      "title": "WSJ Markets — Gold Fortunes Tied to Stocks in Near Term",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
+      "ts": 1795738260000
+    },
+    {
       "time": "6:54 PM",
       "title": "Investing.com — Bradesco chairman Trabuco agrees to become Brazil’s finance minister",
       "url": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Asian Stocks Rise for Second Day, Crude Oil Gains: Markets Wrap",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
       "ts": 1795730397000
-    },
-    {
-      "time": "4:45 PM",
-      "title": "MarketWatch — I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "ts": 1795729500000
     }
   ]
 }
