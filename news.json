@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 1:28 AM ET",
+  "generated_at": "Nov 27, 2026, 1:31 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795760915513,
+  "updated_ts": 1795761115081,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -74,17 +74,6 @@
       "ts": 1795698060000
     },
     {
-      "title": "Ziemba: Oil Supply Risks Outweigh OPEC+ Moves (Video)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/ziemba-oil-supply-risks-outweigh-opec-moves-video",
-      "snippet": "",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 1:22 AM",
-      "coverage": 2,
-      "ts": 1795760578000
-    },
-    {
       "title": "Thales in exclusive talks to buy 51.6% stake in Lumibird",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/thales-in-exclusive-talks-to-buy-516-stake-in-lumibird-5052994",
@@ -93,6 +82,17 @@
       "time": "Nov 27, 1:13 AM",
       "coverage": 2,
       "ts": 1795760011000
+    },
+    {
+      "title": "Will the Nvidia Saga Stunt Chinese AI?",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-tech-asia-11-27-2026-video",
+      "snippet": "Jensen Huang's shocking return to Nvidia has brought some relief to the AI trade, but the political fallout is already in motion and is set to tighten Chinese firms' access to advanced chips. Bloomberg Tech: Asia…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 1:10 AM",
+      "coverage": 2,
+      "ts": 1795759854000
     },
     {
       "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
@@ -235,16 +235,16 @@
   ],
   "ticker": [
     {
+      "time": "1:22 AM",
+      "title": "Bloomberg — Ziemba: Oil Supply Risks Outweigh OPEC+ Moves",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/ziemba-oil-supply-risks-outweigh-opec-moves-video",
+      "ts": 1795760578000
+    },
+    {
       "time": "1:12 AM",
       "title": "Investing.com — Sanofi CEO got to work on $41 billion Insmed deal straight after taking office",
       "url": "https://www.investing.com/news/stock-market-news/sanofi-ceo-got-to-work-on-41-billion-insmed-deal-straight-after-taking-office-5052971",
       "ts": 1795759954000
-    },
-    {
-      "time": "1:10 AM",
-      "title": "Bloomberg — Will the Nvidia Saga Stunt Chinese AI?",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-tech-asia-11-27-2026-video",
-      "ts": 1795759854000
     },
     {
       "time": "1:09 AM",
