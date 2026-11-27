@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 11:47 AM ET",
+  "generated_at": "Nov 27, 2026, 11:50 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795798055880,
+  "updated_ts": 1795798255905,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "11:49 AM",
+      "title": "CNBC — Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
+      "url": "https://www.cnbc.com/2026/11/27/josh-brown-lost-a-bet-on-disney-it-is-now-on-his-best-stocks-in-the-market-list.html",
+      "ts": 1795798175000
+    },
+    {
       "time": "11:43 AM",
       "title": "CNBC — AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
       "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
@@ -288,12 +294,6 @@
       "title": "Bloomberg — Altice International, Creditors Discuss Debt Cut of About 40%",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/altice-international-creditors-discuss-debt-cut-of-about-40",
       "ts": 1795795647000
-    },
-    {
-      "time": "11:02 AM",
-      "title": "CNBC — Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
-      "url": "https://www.cnbc.com/2026/11/27/josh-brown-lost-a-bet-on-disney-it-is-now-on-his-best-stocks-in-the-market-list.html",
-      "ts": 1795795351000
     },
     {
       "time": "10:58 AM",
