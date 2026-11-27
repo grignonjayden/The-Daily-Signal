@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 27, 2026, 10:12 AM ET",
+  "generated_at": "Nov 27, 2026, 10:16 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795792369539,
+  "updated_ts": 1795792570857,
   "articles": [
+    {
+      "title": "Are tech founders 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/tech-founders-too-big-fail-jensen-huangs-nvidia-return-sparks-debate",
+      "snippet": "Jensen Huang&apos;s return as Nvidia CEO just 11 days after resigning spotlights &quot;key-man risk&quot; and what experts call a lack of succession planning at Big Tech.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/former-nvidia-ceo-jensen-huang-statement.jpg",
+      "time": "Nov 27, 10:06 AM",
+      "coverage": 5,
+      "ts": 1795791993000
+    },
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
@@ -133,15 +143,6 @@
       "time": "Nov 25, 11:29 PM",
       "coverage": 3,
       "ts": 1795667395000
-    },
-    {
-      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
-      "ts": 1795617488000
     }
   ],
   "outlets": [
@@ -253,6 +254,12 @@
       "ts": 1795791840000
     },
     {
+      "time": "10:03 AM",
+      "title": "Bloomberg — No Quick Legal Relief for Patriarch in Lawsuit Against Tata Sons",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/no-quick-legal-relief-for-patriarch-in-lawsuit-against-tata-sons",
+      "ts": 1795791796000
+    },
+    {
       "time": "10:01 AM",
       "title": "MarketWatch — Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
       "url": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
@@ -299,12 +306,6 @@
       "title": "Bloomberg — Can Russia Ever Change From Within",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/can-russia-ever-change-from-within-video",
       "ts": 1795791265000
-    },
-    {
-      "time": "9:52 AM",
-      "title": "CNBC — German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
-      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-      "ts": 1795791160000
     }
   ]
 }
