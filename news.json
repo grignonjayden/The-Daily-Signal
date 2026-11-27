@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 6:23 AM ET",
+  "generated_at": "Nov 27, 2026, 6:26 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795778591777,
+  "updated_ts": 1795778796105,
   "articles": [
     {
       "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -65,14 +65,15 @@
       "ts": 1795770720000
     },
     {
-      "title": "European shares rise on tech, miners strength; head for weekly gains",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0IR_L.jpg",
-      "time": "Nov 27, 5:36 AM",
+      "title": "Turkey Fund Investors Face Principal Loss Despite Erdogan Pledge",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-fund-investors-face-principal-loss-despite-erdogan-pledge",
+      "snippet": "Turkey’s Vice President Cevdet Yilmaz said payments from liquidated investment funds will be based on the market price of assets they carry, signaling that many small investors may not recover their full principal.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 6:13 AM",
       "coverage": 3,
-      "ts": 1795775780000
+      "ts": 1795777998000
     },
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -83,17 +84,6 @@
       "time": "Nov 26, 7:31 PM",
       "coverage": 4,
       "ts": 1795739460000
-    },
-    {
-      "title": "US Futures Rally as Tech Rebound Gains Momentum: Markets Wrap",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
-      "snippet": "US stocks are set to rally strongly after Thanksgiving as a rebound in the artificial intelligence trade gathers pace, with waning demand for havens sending Treasuries lower.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 4:59 PM",
-      "coverage": 4,
-      "ts": 1795730397000
     },
     {
       "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
@@ -113,6 +103,16 @@
       "fallback_image": true,
       "time": "Nov 27, 4:00 AM",
       "ts": 1795770000000
+    },
+    {
+      "title": "US equity funds post biggest outflows in 11 weeks as tech rout weighs",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-equity-funds-post-biggest-outflows-in-11-weeks-as-tech-rout-weighs-5053333",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0UY_L.jpg",
+      "time": "Nov 27, 6:18 AM",
+      "coverage": 2,
+      "ts": 1795778306000
     },
     {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
@@ -241,16 +241,34 @@
       "ts": 1795778460000
     },
     {
+      "time": "6:17 AM",
+      "title": "Investing.com — European shares extend rally, but bruising November leaves AI scars",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
+      "ts": 1795778251000
+    },
+    {
       "time": "6:16 AM",
       "title": "Bloomberg — Stock Bulls Stir Again After Weeks of AI Anxiety",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/stock-bulls-stir-again-after-weeks-of-ai-anxiety",
       "ts": 1795778197000
     },
     {
-      "time": "6:11 AM",
-      "title": "Bloomberg — New Serb Leadership Picks Academic Saicic to Run for President",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/new-serb-leadership-picks-academic-saicic-to-run-for-president",
-      "ts": 1795777906000
+      "time": "6:13 AM",
+      "title": "Investing.com — Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
+      "url": "https://www.investing.com/news/stock-market-news/explainerblack-friday-test-for-retailers-as-tight-budgets-meet-aisavvy-shoppers-5053309",
+      "ts": 1795778011000
+    },
+    {
+      "time": "6:08 AM",
+      "title": "Investing.com — How Sanofi’s new CEO struck a rapid $41 billion deal for Insmed",
+      "url": "https://www.investing.com/news/stock-market-news/sanofi-ceo-got-to-work-on-41-billion-insmed-deal-straight-after-taking-office-5052971",
+      "ts": 1795777712000
+    },
+    {
+      "time": "6:08 AM",
+      "title": "Investing.com — Exclusive-Hackers breach US Air Force flagship Cloud One computing platform",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314",
+      "ts": 1795777695000
     },
     {
       "time": "6:00 AM",
@@ -287,24 +305,6 @@
       "title": "Investing.com — Dutch groups ask court to halt Meta smart glasses sales over privacy concerns",
       "url": "https://www.investing.com/news/stock-market-news/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales-over-privacy-concerns-5052455",
       "ts": 1795776504000
-    },
-    {
-      "time": "5:46 AM",
-      "title": "Investing.com — Centrica warns hundreds of Rough gas jobs at risk as ministers stall - report",
-      "url": "https://www.investing.com/news/stock-market-news/centrica-warns-hundreds-of-rough-gas-jobs-at-risk-as-ministers-stall--report-5053291",
-      "ts": 1795776372000
-    },
-    {
-      "time": "5:43 AM",
-      "title": "Investing.com — Why is Qfin Holdings stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-qfin-holdings-stock-climbing-today-93CH-5053284",
-      "ts": 1795776217000
-    },
-    {
-      "time": "5:40 AM",
-      "title": "Investing.com — Why is Salesforce stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-climbing-today-93CH-5053277",
-      "ts": 1795776016000
     }
   ]
 }
