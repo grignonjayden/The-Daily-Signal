@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 11:07 AM ET",
+  "generated_at": "Nov 27, 2026, 11:10 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795795636901,
+  "updated_ts": 1795795839216,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -236,6 +236,18 @@
   ],
   "ticker": [
     {
+      "time": "11:08 AM",
+      "title": "CNBC — It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
+      "url": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
+      "ts": 1795795690000
+    },
+    {
+      "time": "11:02 AM",
+      "title": "CNBC — Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
+      "url": "https://www.cnbc.com/2026/11/27/josh-brown-lost-a-bet-on-disney-it-is-now-on-his-best-stocks-in-the-market-list.html",
+      "ts": 1795795351000
+    },
+    {
       "time": "11:00 AM",
       "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
@@ -294,18 +306,6 @@
       "title": "Bloomberg — Brick-and-Mortar Making a Comeback on Experience, Says Dana Telsey",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/brick-and-mortar-making-a-comeback-says-dana-telsey-video",
       "ts": 1795794145000
-    },
-    {
-      "time": "10:42 AM",
-      "title": "Bloomberg — Rains Ease El Niño Crop Fears in Brazil’s Top Soybean Region",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/rains-ease-el-nino-crop-fears-in-brazil-s-top-soybean-region",
-      "ts": 1795794121000
-    },
-    {
-      "time": "10:36 AM",
-      "title": "Investing.com — US stocks set for weekly advance as battered AI shares hold their ground",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
-      "ts": 1795793778000
     }
   ]
 }
