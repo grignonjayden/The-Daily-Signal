@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 9:49 AM ET",
+  "generated_at": "Nov 27, 2026, 9:52 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795790963038,
+  "updated_ts": 1795791161990,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -234,10 +234,10 @@
   ],
   "ticker": [
     {
-      "time": "9:48 AM",
+      "time": "9:50 AM",
       "title": "CNBC — Dow rallies 300 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795790914000
+      "ts": 1795791003000
     },
     {
       "time": "9:43 AM",
@@ -295,7 +295,7 @@
     },
     {
       "time": "9:20 AM",
-      "title": "Bloomberg — Dangerous Nor’easter Storm Triggers US East Coast Power Outages",
+      "title": "Bloomberg — Power Outages, Flood Risks Linger After Storm Wallops East Coast",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/dangerous-nor-easter-storm-triggers-widespread-power-outages",
       "ts": 1795789206000
     },
