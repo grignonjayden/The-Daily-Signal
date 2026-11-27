@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 12:44 PM ET",
+  "generated_at": "Nov 27, 2026, 12:48 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795801487106,
+  "updated_ts": 1795801688317,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -106,6 +106,27 @@
       "ts": 1795773600000
     },
     {
+      "title": "European Stock Indexes Rise as Tech Rally Extends",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
+      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 3:32 AM",
+      "coverage": 3,
+      "ts": 1795768320000
+    },
+    {
+      "title": "European shares extend rise, but bruising November leaves AI scars",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
+      "time": "Nov 27, 12:26 PM",
+      "coverage": 2,
+      "ts": 1795800401000
+    },
+    {
       "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.77%",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-077-5053741",
@@ -114,26 +135,6 @@
       "time": "Nov 27, 12:08 PM",
       "coverage": 2,
       "ts": 1795799323000
-    },
-    {
-      "title": "Spain stocks higher at close of trade; IBEX 35 up 1.72%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-172-5053740",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC550XV_M.jpg",
-      "time": "Nov 27, 12:08 PM",
-      "coverage": 2,
-      "ts": 1795799299000
-    },
-    {
-      "title": "Oil Futures Mixed in Shortened U.S. Trading Day",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
-      "snippet": "Crude futures were mixed in light U.S. Black Friday trading with the market watching shipping risks in the Middle East and awaiting Sunday’s meeting of OPEC and its allies to discuss output policy for 2027.",
-      "image": "https://images.wsj.net/im-48078726",
-      "time": "Nov 27, 9:54 AM",
-      "coverage": 2,
-      "ts": 1795791240000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -249,6 +250,18 @@
       "ts": 1795800660000
     },
     {
+      "time": "12:30 PM",
+      "title": "Investing.com — FTSE 100 today: Stocks climb as miners lead on metals rebound; Entain gains",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108",
+      "ts": 1795800646000
+    },
+    {
+      "time": "12:24 PM",
+      "title": "Investing.com — European shares log strong weekly gains; markets await Spanish election",
+      "url": "https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129",
+      "ts": 1795800265000
+    },
+    {
       "time": "12:23 PM",
       "title": "Bloomberg — Hong Kong Is Selling The City It Used To Be",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/hong-kong-is-selling-the-city-it-used-to-be-video",
@@ -265,6 +278,12 @@
       "title": "WSJ Markets — Inside China’s $4 Billion Secondhand Luxury Boom",
       "url": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=rss_markets_main",
       "ts": 1795799520000
+    },
+    {
+      "time": "12:08 PM",
+      "title": "Investing.com — Spain stocks higher at close of trade; IBEX 35 up 1.72%",
+      "url": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-172-5053740",
+      "ts": 1795799299000
     },
     {
       "time": "12:07 PM",
@@ -289,24 +308,6 @@
       "title": "Investing.com — Germany stocks higher at close of trade; DAX up 0.86%",
       "url": "https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-086-5053736",
       "ts": 1795799174000
-    },
-    {
-      "time": "12:05 PM",
-      "title": "Investing.com — France stocks higher at close of trade; CAC 40 up 0.58%",
-      "url": "https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-058-5053735",
-      "ts": 1795799130000
-    },
-    {
-      "time": "12:05 PM",
-      "title": "Investing.com — Belgium stocks higher at close of trade; BEL 20 up 1.07%",
-      "url": "https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-107-5053734",
-      "ts": 1795799103000
-    },
-    {
-      "time": "12:01 PM",
-      "title": "CNBC — Stocks making the biggest moves midday: XP, Newmont, Sandisk & more",
-      "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795798867000
     }
   ]
 }
