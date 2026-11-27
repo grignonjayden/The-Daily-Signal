@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 4:42 AM ET",
+  "generated_at": "Nov 27, 2026, 4:46 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795772569351,
+  "updated_ts": 1795772775120,
   "articles": [
     {
       "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
@@ -34,6 +34,16 @@
       "ts": 1795762238000
     },
     {
+      "title": "EM equity funds pull in $36.7B, led by China and Taiwan ETFs",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/em-equity-funds-pull-in-367b-led-by-china-and-taiwan-etfs-93CH-5053187",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "time": "Nov 27, 4:41 AM",
+      "coverage": 3,
+      "ts": 1795772483000
+    },
+    {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
@@ -44,14 +54,14 @@
       "ts": 1795739460000
     },
     {
-      "title": "+32%, +28%, +20%: See the AI-picked stocks surging this week as Black Friday hits",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/32-28-20-see-the-aipicked-stocks-surging-this-week-as-black-friday-hits-5053164",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM1H1CM_1200_L.jpg",
-      "time": "Nov 27, 4:01 AM",
-      "coverage": 3,
-      "ts": 1795770104000
+      "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+      "snippet": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108356338-1788181104655-gettyimages-667735328-_mg_5102.jpeg?v=1788181165&w=1920&h=1080",
+      "time": "Nov 26, 7:22 PM",
+      "coverage": 4,
+      "ts": 1795738949000
     },
     {
       "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
@@ -64,26 +74,6 @@
       "ts": 1795764960000
     },
     {
-      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "snippet": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "time": "Nov 27, 2:15 AM",
-      "coverage": 3,
-      "ts": 1795763713000
-    },
-    {
-      "title": "Four Black Friday scams to watch for this shopping season",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
-      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
-      "time": "Nov 26, 1:33 PM",
-      "coverage": 4,
-      "ts": 1795718011000
-    },
-    {
       "title": "Odd Lots: Weber’s Vision for an Affordability Agenda (Podcast)",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/audio/2026-11-27/odd-lots-weber-s-vision-for-an-affordability-agenda-podcast",
@@ -92,6 +82,16 @@
       "fallback_image": true,
       "time": "Nov 27, 4:00 AM",
       "ts": 1795770000000
+    },
+    {
+      "title": "Sanofi CEO got to work on $41 billion Insmed deal straight after taking office",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/sanofi-ceo-got-to-work-on-41-billion-insmed-deal-straight-after-taking-office-5052971",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0BL_L.jpg",
+      "time": "Nov 27, 4:30 AM",
+      "coverage": 2,
+      "ts": 1795771853000
     },
     {
       "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
@@ -105,16 +105,6 @@
       "ts": 1795739165000
     },
     {
-      "title": "Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/vietnamese-partners-of-trump-organization-plan-trump-tower-in-hanoi-sources-say-5053107",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-      "time": "Nov 27, 4:18 AM",
-      "coverage": 2,
-      "ts": 1795771120000
-    },
-    {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-ottawa-cheap-canned-vegetables-import-tariffs-domestic-industry/",
@@ -122,6 +112,16 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
       "time": "Nov 26, 8:26 PM",
       "ts": 1795742782000
+    },
+    {
+      "title": "Four Black Friday scams to watch for this shopping season",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
+      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
+      "time": "Nov 26, 1:33 PM",
+      "coverage": 3,
+      "ts": 1795718011000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -234,10 +234,46 @@
   ],
   "ticker": [
     {
+      "time": "4:39 AM",
+      "title": "Investing.com — Bekaert shares jump 8% on strong Q3 sales growth",
+      "url": "https://www.investing.com/news/stock-market-news/bekaert-shares-jump-8-on-strong-q3-2026-sales-growth-5053185",
+      "ts": 1795772386000
+    },
+    {
+      "time": "4:37 AM",
+      "title": "Investing.com — Why is Dottikon ES stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-dottikon-es-stock-surging-today-93CH-5053184",
+      "ts": 1795772263000
+    },
+    {
       "time": "4:34 AM",
       "title": "WSJ Markets — Stock Futures Jump as AI Trade Set for Rebound",
       "url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
       "ts": 1795772040000
+    },
+    {
+      "time": "4:33 AM",
+      "title": "Investing.com — Exosens shares jump 6% on German army night vision order",
+      "url": "https://www.investing.com/news/stock-market-news/exosens-shares-jump-6-on-german-army-night-vision-order-93CH-5053181",
+      "ts": 1795772037000
+    },
+    {
+      "time": "4:31 AM",
+      "title": "Investing.com — Fincantieri wins €500M navy contract, shares rise 6%",
+      "url": "https://www.investing.com/news/stock-market-news/fincantieri-wins-500m-navy-contract-shares-rise-6-93CH-5053180",
+      "ts": 1795771908000
+    },
+    {
+      "time": "4:27 AM",
+      "title": "Investing.com — Rheinmetall shares rise on €738 million Romanian vehicle order",
+      "url": "https://www.investing.com/news/stock-market-news/rheinmetall-shares-rise-on-738-million-romanian-vehicle-order-5053178",
+      "ts": 1795771651000
+    },
+    {
+      "time": "4:18 AM",
+      "title": "Investing.com — Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
+      "url": "https://www.investing.com/news/stock-market-news/vietnamese-partners-of-trump-organization-plan-trump-tower-in-hanoi-sources-say-5053107",
+      "ts": 1795771120000
     },
     {
       "time": "4:17 AM",
@@ -258,52 +294,16 @@
       "ts": 1795770160000
     },
     {
-      "time": "4:02 AM",
-      "title": "Investing.com — Why is Ventura Offshore Holding stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-ventura-offshore-holding-stock-sliding-today-93CH-5053165",
-      "ts": 1795770126000
-    },
-    {
-      "time": "4:01 AM",
-      "title": "Investing.com — Why is Lumibird stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-lumibird-stock-surging-today-93CH-5053163",
-      "ts": 1795770074000
-    },
-    {
-      "time": "4:00 AM",
-      "title": "Investing.com — Why is Envipco stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-envipco-stock-sliding-today-93CH-5053160",
-      "ts": 1795770037000
-    },
-    {
       "time": "4:00 AM",
       "title": "Bloomberg — Isabella Weber’s Vision for an Affordability Agenda",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/isabella-weber-s-vision-for-an-affordability-agenda",
       "ts": 1795770022000
     },
     {
-      "time": "4:00 AM",
-      "title": "Investing.com — Why is Thales stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-thales-stock-climbing-today-93CH-5053157",
-      "ts": 1795770008000
-    },
-    {
-      "time": "3:47 AM",
-      "title": "Investing.com — Why is SMA Solar Technology stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-sma-solar-technology-stock-rallying-today-93CH-5053152",
-      "ts": 1795769263000
-    },
-    {
       "time": "3:43 AM",
       "title": "Bloomberg — Dubai Stocks Erase Wartime Losses to Become a Top Gulf Performer",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/dubai-stocks-erase-wartime-losses-to-become-a-top-gulf-performer",
       "ts": 1795768988000
-    },
-    {
-      "time": "3:41 AM",
-      "title": "Investing.com — Why is Modivo stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-modivo-stock-rallying-today-93CH-5053149",
-      "ts": 1795768912000
     }
   ]
 }
