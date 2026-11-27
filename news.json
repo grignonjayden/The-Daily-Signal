@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 9:35 AM ET",
+  "generated_at": "Nov 27, 2026, 9:38 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795790110575,
+  "updated_ts": 1795790313281,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -85,6 +85,16 @@
       "ts": 1795786554000
     },
     {
+      "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-montney-region-alberta-natural-gas-reserves-canada-seize-opportunity/",
+      "snippet": "A flurry of acquisitions reveals the region’s potential, but investors fear it might be too good to be true",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ODDM7N7QYNDULEK7RM2DIP6SNU.JPG?auth=72a61352e47ab51b443eea49a074c1e3aaec1540de152851b06659d8ee70e12d&smart=true&width=4000&height=2667",
+      "time": "Nov 27, 5:00 AM",
+      "coverage": 2,
+      "ts": 1795773600000
+    },
+    {
       "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
@@ -114,16 +124,6 @@
       "fallback_image": true,
       "time": "Nov 27, 9:20 AM",
       "ts": 1795789206000
-    },
-    {
-      "title": "Ontario’s mortgage arrears rate nears 2008 levels, the Home of the Week and more top real estate stories",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-mortgage-delinquency-rates-ontario-canada-real-estate-news-november-27/",
-      "snippet": "Plus, the gamble facing homeowners right now",
-      "image": "https://www.theglobeandmail.com/resizer/v2/KN3Q74323FB4DNHPRKOARZKPMQ.JPG?auth=ff842a82a9a4a29d05468e454ab76afbed42a3d900c20009ef8e8cef9cfad7d6&smart=true&width=8192&height=6144",
-      "time": "Nov 27, 8:30 AM",
-      "coverage": 2,
-      "ts": 1795786200000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -237,16 +237,28 @@
   ],
   "ticker": [
     {
-      "time": "9:32 AM",
+      "time": "9:36 AM",
       "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795789964000
+      "ts": 1795790166000
     },
     {
-      "time": "9:27 AM",
-      "title": "CNBC — Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals, Nvidia & more",
+      "time": "9:35 AM",
+      "title": "CNBC — Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
       "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795789630000
+      "ts": 1795790129000
+    },
+    {
+      "time": "9:35 AM",
+      "title": "WSJ Markets — U.S. Natural Gas Futures Fall as Front Month Shifts to January",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
+      "ts": 1795790100000
+    },
+    {
+      "time": "9:33 AM",
+      "title": "Bloomberg — Nvidia Pares Gains on Blackwell Report; Altria Lower | Stock Movers",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-pares-gains-altria-moves-lower-stock-movers-video",
+      "ts": 1795789981000
     },
     {
       "time": "9:23 AM",
@@ -295,18 +307,6 @@
       "title": "Investing.com — US stocks set for higher open as battered AI shares claw back losses",
       "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
       "ts": 1795788039000
-    },
-    {
-      "time": "9:00 AM",
-      "title": "Globe and Mail — Middlefield’s Shane Obata loves a good monopoly",
-      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-middlefields-shane-obata-loves-a-good-monopoly/",
-      "ts": 1795788000000
-    },
-    {
-      "time": "9:00 AM",
-      "title": "Globe and Mail — The trade crisis can be an opportunity if businesses lean on francophones to help them grow",
-      "url": "https://www.theglobeandmail.com/business/careers/leadership/article-the-trade-crisis-can-be-an-opportunity-if-businesses-lean-on/",
-      "ts": 1795788000000
     }
   ]
 }
