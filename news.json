@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:46 AM ET",
+  "generated_at": "Nov 27, 2026, 10:49 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795794396940,
+  "updated_ts": 1795794596845,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -237,10 +237,22 @@
   ],
   "ticker": [
     {
+      "time": "10:45 AM",
+      "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "ts": 1795794300000
+    },
+    {
       "time": "10:44 AM",
       "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
       "ts": 1795794277000
+    },
+    {
+      "time": "10:42 AM",
+      "title": "Bloomberg — Rains Ease El Niño Crop Fears in Brazil’s Top Soybean Region",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/rains-ease-el-nino-crop-fears-in-brazil-s-top-soybean-region",
+      "ts": 1795794121000
     },
     {
       "time": "10:36 AM",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Walmart technical outlook amid Black Friday",
       "url": "https://www.investing.com/news/stock-market-news/walmart-technical-outlook-amid-black-friday-93CH-5053637",
       "ts": 1795792976000
-    },
-    {
-      "time": "10:20 AM",
-      "title": "Globe and Mail — Ottawa rejects call to relieve Canadian automakers of greenhouse gas rules",
-      "url": "https://www.theglobeandmail.com/business/article-ottawa-rejects-call-canadian-automakers-greenhouse-gas-rules/",
-      "ts": 1795792855000
-    },
-    {
-      "time": "10:20 AM",
-      "title": "Investing.com — Why is Palantir Technologies stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-rallying-today-93CH-5053635",
-      "ts": 1795792836000
     }
   ]
 }
