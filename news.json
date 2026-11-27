@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 9:46 AM ET",
+  "generated_at": "Nov 27, 2026, 9:49 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795790762135,
+  "updated_ts": 1795790963038,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -44,16 +44,6 @@
       "ts": 1795787805000
     },
     {
-      "title": "Wall street futures surge toward best week in months on Nvidia lifeline",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
-      "time": "Nov 27, 8:52 AM",
-      "coverage": 4,
-      "ts": 1795787544000
-    },
-    {
       "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
@@ -72,6 +62,16 @@
       "time": "Nov 27, 7:44 AM",
       "coverage": 4,
       "ts": 1795783448000
+    },
+    {
+      "title": "Tech Stocks Jump as Investors Take Break From AI Jitters",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "snippet": "Shares rebounded at the start of a shorter trading session, with all three major indexes poised to end the week strong.",
+      "image": "https://images.wsj.net/im-22450552",
+      "time": "Nov 27, 9:46 AM",
+      "coverage": 3,
+      "ts": 1795790760000
     },
     {
       "title": "As the AI Storm Rages, Are UK and Europe Markets a Haven For Investors? Live Q&A",
@@ -105,25 +105,23 @@
       "ts": 1795770720000
     },
     {
-      "title": "European Stock Indexes Rise as Tech Rally Extends",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
-      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 3:32 AM",
-      "coverage": 3,
-      "ts": 1795768320000
-    },
-    {
-      "title": "Dangerous Nor’easter Storm Triggers US East Coast Power Outages",
+      "title": "US Storm Triggers East Coast Power Outages",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/dangerous-nor-easter-storm-triggers-widespread-power-outages",
-      "snippet": "More than 500,000 homes and businesses along the East Coast are without power after an explosive storm uprooted trees in Queens and inundated commuter rail lines in New Jersey on Thanksgiving Day.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/us-storm-triggers-east-coast-power-outages-video",
+      "snippet": "More than 500,000 homes and businesses along the East Coast are without power after an explosive storm uprooted trees in parts of New York City and inundated commuter rail lines in New Jersey on Thanksgiving Day.…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 27, 9:20 AM",
-      "ts": 1795789206000
+      "time": "Nov 27, 9:47 AM",
+      "ts": 1795790830000
+    },
+    {
+      "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5053574",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP0AK_L.jpg",
+      "time": "Nov 27, 9:18 AM",
+      "ts": 1795789134000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -136,14 +134,13 @@
       "ts": 1795667395000
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 6,
-      "ts": 1795456173000
+      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
+      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
+      "time": "Nov 25, 9:38 AM",
+      "ts": 1795617488000
     }
   ],
   "outlets": [
@@ -237,16 +234,40 @@
   ],
   "ticker": [
     {
-      "time": "9:45 AM",
-      "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
+      "time": "9:48 AM",
+      "title": "CNBC — Dow rallies 300 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795790702000
+      "ts": 1795790914000
+    },
+    {
+      "time": "9:43 AM",
+      "title": "Investing.com — Why is SanDisk stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-rallying-today-93CH-5053600",
+      "ts": 1795790604000
+    },
+    {
+      "time": "9:42 AM",
+      "title": "Investing.com — Canada’s TSX futures climb as Bay Street eyes three-day winning streak",
+      "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-climb-as-bay-street-eyes-threeday-winning-streak-5053439",
+      "ts": 1795790530000
     },
     {
       "time": "9:40 AM",
       "title": "MarketWatch — Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
       "url": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
       "ts": 1795790400000
+    },
+    {
+      "time": "9:36 AM",
+      "title": "Investing.com — Chile’s antitrust authority seeks $80 million Apple fine over iOS",
+      "url": "https://www.investing.com/news/stock-market-news/chiles-antitrust-authority-seeks-80-million-apple-fine-over-ios-5053595",
+      "ts": 1795790197000
+    },
+    {
+      "time": "9:36 AM",
+      "title": "Investing.com — US stocks open higher as battered AI shares claw back losses",
+      "url": "https://www.investing.com/news/stock-market-news/us-stocks-open-higher-as-battered-ai-shares-claw-back-losses-5053592",
+      "ts": 1795790182000
     },
     {
       "time": "9:35 AM",
@@ -273,40 +294,16 @@
       "ts": 1795789380000
     },
     {
-      "time": "9:18 AM",
-      "title": "Investing.com — Nvidia halts server shipments to four Southeast Asian countries, FT reports",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5053574",
-      "ts": 1795789134000
+      "time": "9:20 AM",
+      "title": "Bloomberg — Dangerous Nor’easter Storm Triggers US East Coast Power Outages",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/dangerous-nor-easter-storm-triggers-widespread-power-outages",
+      "ts": 1795789206000
     },
     {
       "time": "9:18 AM",
       "title": "CNBC — This week’s bounce following a rapid correction may not hold, history shows",
       "url": "https://www.cnbc.com/2026/11/27/this-weeks-bounce-following-a-rapid-correction-may-not-hold-history-shows.html",
       "ts": 1795789102000
-    },
-    {
-      "time": "9:18 AM",
-      "title": "Investing.com — Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
-      "url": "https://www.investing.com/news/stock-market-news/explainerblack-friday-test-for-retailers-as-tight-budgets-meet-aisavvy-shoppers-5053309",
-      "ts": 1795789102000
-    },
-    {
-      "time": "9:13 AM",
-      "title": "Investing.com — European shares extend rally, but bruising November leaves AI scars",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
-      "ts": 1795788798000
-    },
-    {
-      "time": "9:12 AM",
-      "title": "CNBC — EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
-      "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
-      "ts": 1795788775000
-    },
-    {
-      "time": "9:01 AM",
-      "title": "Investing.com — Thursday insider buys and sells: eBay, Williams Companies and more",
-      "url": "https://www.investing.com/news/stock-market-news/thursday-insider-buys-and-sells-ebay-williams-companies-and-more-93CH-5053556",
-      "ts": 1795788074000
     }
   ]
 }
