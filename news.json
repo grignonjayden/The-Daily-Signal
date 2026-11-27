@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 7:09 AM ET",
+  "generated_at": "Nov 27, 2026, 7:13 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795781397225,
+  "updated_ts": 1795781595972,
   "articles": [
     {
       "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
@@ -114,14 +114,15 @@
       "ts": 1795718011000
     },
     {
-      "title": "Odd Lots: Weber’s Vision for an Affordability Agenda (Podcast)",
+      "title": "EU Budget Talks Break Down; Spain Set to Vote",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/audio/2026-11-27/odd-lots-weber-s-vision-for-an-affordability-agenda-podcast",
-      "snippet": "The most important word in politics right now is affordability. It was a winning issue in the midterms for Democrats, and one of the reasons why people across Europe are out in the streets protesting: Food, housing,…",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-opening-trade-11-27-2026-video",
+      "snippet": "European Union leaders cut budget talks short during a summit in Brussels after frustrated countries refused to budge in negotiations over the bloc’s long-term funding plan. Meanwhile, Spaniards prepare to vote in a…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 27, 4:00 AM",
-      "ts": 1795770000000
+      "time": "Nov 27, 6:22 AM",
+      "coverage": 2,
+      "ts": 1795778567000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -192,26 +193,6 @@
       "ts": 1795699800000
     },
     {
-      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
-      "snippet": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 3:00 PM",
-      "ts": 1795636800000
-    },
-    {
-      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
-      "snippet": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 3:00 PM",
-      "ts": 1795636800000
-    },
-    {
       "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
@@ -244,6 +225,12 @@
       "title": "MarketWatch — Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
       "url": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
       "ts": 1795780860000
+    },
+    {
+      "time": "7:00 AM",
+      "title": "Bloomberg — Polish President Blocks Pre-Election Tax Cut in New Blow to Tusk",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/polish-president-blocks-pre-election-tax-cut-in-new-blow-to-tusk",
+      "ts": 1795780828000
     },
     {
       "time": "6:59 AM",
@@ -298,12 +285,6 @@
       "title": "Investing.com — US housing market 2026: high rates, slow sales, and a buyer’s dilemma",
       "url": "https://www.investing.com/news/stock-market-news/us-housing-market-2026-high-rates-slow-sales-and-a-buyers-dilemma-93CH-5053342",
       "ts": 1795779072000
-    },
-    {
-      "time": "6:30 AM",
-      "title": "Bloomberg — Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
-      "ts": 1795779000000
     }
   ]
 }
