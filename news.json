@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 5:16 AM ET",
+  "generated_at": "Nov 27, 2026, 5:19 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795774573167,
+  "updated_ts": 1795774782512,
   "articles": [
     {
       "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -44,16 +44,6 @@
       "ts": 1795742100000
     },
     {
-      "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-in-shortened-post-thanksgiving-trade-f0822039?mod=rss_markets_main",
-      "snippet": "Treasury yields climbed on Friday as markets reopened for a shortened session following the Thanksgiving holiday.",
-      "image": "https://images.wsj.net/im-45721539",
-      "time": "Nov 27, 4:49 AM",
-      "coverage": 3,
-      "ts": 1795772940000
-    },
-    {
       "title": "EM equity funds pull in $36.7B, led by China and Taiwan ETFs",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/em-equity-funds-pull-in-367b-led-by-china-and-taiwan-etfs-93CH-5053187",
@@ -62,6 +52,16 @@
       "time": "Nov 27, 4:41 AM",
       "coverage": 3,
       "ts": 1795772483000
+    },
+    {
+      "title": "Stock Futures Jump as AI Trade Set for Rebound",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
+      "snippet": "Nasdaq futures traded 2.7% higher, while contracts tied to the S&P 500 and the Dow Jones Industrial Average also rose ahead of a shortened trading session Friday.",
+      "image": "https://images.wsj.net/im-14953166",
+      "time": "Nov 27, 4:34 AM",
+      "coverage": 3,
+      "ts": 1795772040000
     },
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -233,6 +233,30 @@
   ],
   "ticker": [
     {
+      "time": "5:16 AM",
+      "title": "WSJ Markets — Dubai’s Benchmark Stock Index Erases Wartime Losses as Banks, Property Shares Rise",
+      "url": "https://www.wsj.com/finance/stocks/dubais-benchmark-stock-index-erases-wartime-losses-as-banks-property-shares-rise-8b5a7a52?mod=rss_markets_main",
+      "ts": 1795774560000
+    },
+    {
+      "time": "5:15 AM",
+      "title": "MarketWatch — Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my children through the same ordeal?",
+      "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "ts": 1795774500000
+    },
+    {
+      "time": "5:13 AM",
+      "title": "CNBC — Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+      "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+      "ts": 1795774424000
+    },
+    {
+      "time": "5:11 AM",
+      "title": "CNBC — Defense giant Rheinmetall embraces ‘new normal’ of caution after military contract setback; stock rises",
+      "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
+      "ts": 1795774269000
+    },
+    {
       "time": "5:02 AM",
       "title": "Investing.com — Why is Lumibird stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-lumibird-stock-surging-today-93CH-5053235",
@@ -279,30 +303,6 @@
       "title": "Bloomberg — Rwanda Wins F1 Hosting Rights in Bet on Tourism",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/rwanda-wins-f1-hosting-rights-in-bet-on-tourism-video",
       "ts": 1795773266000
-    },
-    {
-      "time": "4:53 AM",
-      "title": "Bloomberg — Kospi Rout Wipes $151 Billion From Korea Pension Fund’s Assets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/kospi-rout-wipes-151-billion-from-korea-pension-fund-s-assets",
-      "ts": 1795773195000
-    },
-    {
-      "time": "4:52 AM",
-      "title": "Investing.com — Elia raises 2026 net income guidance across all divisions",
-      "url": "https://www.investing.com/news/stock-market-news/elia-raises-2026-net-income-guidance-across-all-divisions-93CH-5053198",
-      "ts": 1795773137000
-    },
-    {
-      "time": "4:49 AM",
-      "title": "WSJ Markets — Precious Metals Rally as AI Trade Revives Risk Appetite",
-      "url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
-      "ts": 1795772940000
-    },
-    {
-      "time": "4:48 AM",
-      "title": "Investing.com — Nasdaq futures surge as investors pile back into battered AI stocks",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
-      "ts": 1795772904000
     }
   ]
 }
