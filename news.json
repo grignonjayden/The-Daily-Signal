@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:59 PM ET",
+  "generated_at": "Nov 26, 2026, 9:03 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795744797799,
+  "updated_ts": 1795745008706,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "9:02 PM",
+      "title": "CNBC — China industrial profits growth surges to a 5-month high of 20.1% in October",
+      "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "ts": 1795744968000
+    },
+    {
       "time": "8:51 PM",
       "title": "WSJ Markets — Risk of Yen Weakening Against Dollar Appears Limited",
       "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
@@ -246,12 +252,6 @@
       "title": "Bloomberg — How Volatility is Undermining the Carry Trade",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/how-volatility-is-undermining-the-carry-trade-video",
       "ts": 1795743601000
-    },
-    {
-      "time": "8:38 PM",
-      "title": "CNBC — China industrial profits growth surges to a 5-month high of 20.1% in October",
-      "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-      "ts": 1795743480000
     },
     {
       "time": "8:26 PM",
