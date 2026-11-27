@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 27, 2026, 8:16 AM ET",
+  "generated_at": "Nov 27, 2026, 8:20 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795785413655,
+  "updated_ts": 1795785613642,
   "articles": [
+    {
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "image": "https://images.mktw.net/im-58425830",
+      "time": "Nov 27, 8:15 AM",
+      "coverage": 6,
+      "ts": 1795785300000
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -42,16 +52,6 @@
       "time": "Nov 27, 5:20 AM",
       "coverage": 4,
       "ts": 1795774839000
-    },
-    {
-      "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
-      "snippet": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
-      "image": "https://images.mktw.net/im-85895280",
-      "time": "Nov 27, 7:42 AM",
-      "coverage": 3,
-      "ts": 1795783320000
     },
     {
       "title": "Stock Futures Rally as AI Trade Gathers Pace; EU Budget Talks Falter",
@@ -296,16 +296,16 @@
       "ts": 1795783628000
     },
     {
+      "time": "7:42 AM",
+      "title": "MarketWatch — How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
+      "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
+      "ts": 1795783320000
+    },
+    {
       "time": "7:41 AM",
       "title": "Bloomberg — ¿Volverá la derecha al poder en España?",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/-volvera-la-derecha-al-poder-en-espana",
       "ts": 1795783315000
-    },
-    {
-      "time": "7:33 AM",
-      "title": "Bloomberg — Europe Has Too Much Wind, Not Enough Power Grid",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/europe-has-too-much-wind-not-enough-power-grid",
-      "ts": 1795782822000
     }
   ]
 }
