@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 27, 2026, 12:21 AM ET",
+  "generated_at": "Nov 27, 2026, 12:24 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795756893328,
+  "updated_ts": 1795757093602,
   "articles": [
-    {
-      "title": "Asian stocks rise as tech rebound, easing U.S. trade concerns lift sentiment",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-tech-rebound-easing-us-trade-concerns-lift-sentiment-5052839",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEB0Q00K_M.jpg",
-      "time": "Nov 26, 10:47 PM",
-      "coverage": 5,
-      "ts": 1795751247000
-    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -54,16 +44,6 @@
       "ts": 1795753255000
     },
     {
-      "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
-      "time": "Nov 26, 11:06 PM",
-      "coverage": 3,
-      "ts": 1795752380000
-    },
-    {
       "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
@@ -75,35 +55,14 @@
       "ts": 1795739165000
     },
     {
-      "title": "Gold Rises as Rebound in Tech Stocks Offsets Rate-Hike Concerns",
+      "title": "New Zealand Dollar Gains as Traders Look Past Hung Parliament",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
-      "snippet": "Gold rose as a tentative recovery in technology stocks and a weaker US dollar offset the prospect of interest-rate hikes by the Federal Reserve.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/new-zealand-dollar-gains-as-traders-look-past-hung-parliament",
+      "snippet": "The New Zealand dollar rose as traders shrugged off an official election result which confirmed a potentially hung parliament, with sentiment underpinned by improved global risk appetite.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 26, 6:53 PM",
-      "coverage": 3,
-      "ts": 1795737215000
-    },
-    {
-      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
-      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
-      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
-      "time": "Nov 26, 9:00 AM",
-      "coverage": 4,
-      "ts": 1795701602000
-    },
-    {
-      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
-      "snippet": "Stock futures extended a late rally from the previous session to trade higher with sentiment helped by an upward revision to third-quarter GDP.",
-      "image": "https://images.wsj.net/im-34152034",
-      "time": "Nov 26, 8:01 AM",
-      "coverage": 4,
-      "ts": 1795698060000
+      "time": "Nov 26, 11:42 PM",
+      "ts": 1795754578000
     },
     {
       "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
@@ -116,6 +75,16 @@
       "ts": 1795756440000
     },
     {
+      "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "snippet": "Oil prices were mixed in early Asian trade. Rising attacks on energy infrastructure across the Middle East have raised concerns of further supply disruptions, ANZ said.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 8:48 PM",
+      "ts": 1795744080000
+    },
+    {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-ottawa-cheap-canned-vegetables-import-tariffs-domestic-industry/",
@@ -123,6 +92,34 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
       "time": "Nov 26, 8:26 PM",
       "ts": 1795742782000
+    },
+    {
+      "title": "Four Black Friday scams to watch for this shopping season",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
+      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
+      "time": "Nov 26, 1:33 PM",
+      "coverage": 3,
+      "ts": 1795718011000
+    },
+    {
+      "title": "Why is Marco Polo Marine stock climbing today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-marco-polo-marine-stock-climbing-today-93CH-5052912",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "time": "Nov 27, 12:21 AM",
+      "ts": 1795756902000
+    },
+    {
+      "title": "Why is Arcadia Minerals stock surging today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-arcadia-minerals-stock-surging-today-93CH-5052899",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+      "time": "Nov 27, 12:14 AM",
+      "ts": 1795756479000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -241,6 +238,12 @@
       "ts": 1795756555000
     },
     {
+      "time": "12:13 AM",
+      "title": "Investing.com — Why is Neuren Pharmaceuticals stock plunging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-neuren-pharmaceuticals-stock-plunging-today-93CH-5052898",
+      "ts": 1795756436000
+    },
+    {
       "time": "12:03 AM",
       "title": "Investing.com — Why is Tianqi Lithium stock climbing today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-tianqi-lithium-stock-climbing-today-93CH-5052887",
@@ -299,12 +302,6 @@
       "title": "Investing.com — Why is China Shenhua Energy stock sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-china-shenhua-energy-stock-sliding-today-93CH-5052867",
       "ts": 1795754724000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Bloomberg — New Zealand Dollar Gains as Traders Look Past Hung Parliament",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/new-zealand-dollar-gains-as-traders-look-past-hung-parliament",
-      "ts": 1795754578000
     }
   ]
 }
