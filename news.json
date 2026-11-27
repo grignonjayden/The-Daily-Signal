@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 11:40 AM ET",
+  "generated_at": "Nov 27, 2026, 11:44 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795797652018,
+  "updated_ts": 1795797855978,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -115,14 +115,14 @@
       "ts": 1795768320000
     },
     {
-      "title": "Norse Atlantic files for bankruptcy, halts flights as Iran war drives up fuel costs",
+      "title": "Poland stocks higher at close of trade; WIG30 up 1.16%",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-files-for-bankruptcy-halts-flights-as-iran-war-drives-up-fuel-costs-5053705",
+      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-116-5053711",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FX_L.jpg",
-      "time": "Nov 27, 11:24 AM",
+      "image": "https://content-media.investing.com/news/Warsaw_Stock_Exchange_M_1440056832.jpg",
+      "time": "Nov 27, 11:35 AM",
       "coverage": 2,
-      "ts": 1795796663000
+      "ts": 1795797303000
     },
     {
       "title": "Oil Futures Mixed in Shortened U.S. Trading Day",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "11:43 AM",
+      "title": "CNBC — AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+      "ts": 1795797794000
+    },
+    {
       "time": "11:31 AM",
       "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
@@ -246,6 +252,18 @@
       "title": "CNBC — Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
       "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
       "ts": 1795797067000
+    },
+    {
+      "time": "11:30 AM",
+      "title": "Investing.com — Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.98%",
+      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-098-5053706",
+      "ts": 1795797004000
+    },
+    {
+      "time": "11:24 AM",
+      "title": "Investing.com — Norse Atlantic files for bankruptcy, halts flights as Iran war drives up fuel costs",
+      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-files-for-bankruptcy-halts-flights-as-iran-war-drives-up-fuel-costs-5053705",
+      "ts": 1795796663000
     },
     {
       "time": "11:24 AM",
@@ -288,24 +306,6 @@
       "title": "Investing.com — Norway stocks higher at close of trade; Oslo OBX up 0.80%",
       "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-080-5053675",
       "ts": 1795794928000
-    },
-    {
-      "time": "10:55 AM",
-      "title": "Investing.com — Israel stocks higher at close of trade; TA 35 up 1.54%",
-      "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-154-5053674",
-      "ts": 1795794903000
-    },
-    {
-      "time": "10:54 AM",
-      "title": "Investing.com — Explainer-A million satellites? What SpaceX’s Starmind could mean for Earth and space",
-      "url": "https://www.investing.com/news/stock-market-news/explainera-million-satellites-what-spacexs-starmind-could-mean-for-earth-and-space-5053673",
-      "ts": 1795794880000
-    },
-    {
-      "time": "10:53 AM",
-      "title": "Bloomberg — The Big Pressures Facing the Fed",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/the-big-pressures-facing-the-fed",
-      "ts": 1795794806000
     }
   ]
 }
