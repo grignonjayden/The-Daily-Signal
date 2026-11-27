@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:43 PM ET",
+  "generated_at": "Nov 26, 2026, 9:47 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795747433200,
+  "updated_ts": 1795747633737,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -235,16 +235,16 @@
   ],
   "ticker": [
     {
+      "time": "9:44 PM",
+      "title": "WSJ Markets — Asian Currencies Might Be Weighed by AI Uncertainties",
+      "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "ts": 1795747440000
+    },
+    {
       "time": "9:30 PM",
       "title": "Bloomberg — Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
       "ts": 1795746622000
-    },
-    {
-      "time": "9:18 PM",
-      "title": "WSJ Markets — Asian Currencies Consolidate Amid Cautious Mood",
-      "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
-      "ts": 1795745880000
     },
     {
       "time": "9:16 PM",
