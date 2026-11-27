@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:09 PM ET",
+  "generated_at": "Nov 26, 2026, 7:12 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795738157753,
+  "updated_ts": 1795738358359,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -243,6 +243,12 @@
       "ts": 1795737259000
     },
     {
+      "time": "6:44 PM",
+      "title": "Bloomberg — ‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/-dollar-storm-greenback-on-track-for-longest-winning-run-since-2024",
+      "ts": 1795736667000
+    },
+    {
       "time": "6:41 PM",
       "title": "Bloomberg — Japan Bank Shares Risk Further Unwind as Funding Cost Bites",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-bank-shares-risk-further-unwind-as-funding-cost-bites",
@@ -301,12 +307,6 @@
       "title": "MarketWatch — I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
       "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
       "ts": 1795729500000
-    },
-    {
-      "time": "4:41 PM",
-      "title": "Investing.com — Canadian bonds extend rally amid AI jitters, Macklem comments",
-      "url": "https://www.investing.com/news/stock-market-news/canadian-bonds-extend-rally-amid-ai-jitters-macklem-comments-5052727",
-      "ts": 1795729276000
     }
   ]
 }
