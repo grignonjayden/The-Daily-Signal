@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 3:52 PM ET",
+  "generated_at": "Nov 27, 2026, 3:56 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795812777790,
+  "updated_ts": 1795812976634,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -228,6 +228,12 @@
   ],
   "ticker": [
     {
+      "time": "3:52 PM",
+      "title": "CNBC — OpenAI countersues Apple for stealing trade secrets",
+      "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+      "ts": 1795812752000
+    },
+    {
       "time": "3:47 PM",
       "title": "WSJ Markets — Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
@@ -292,12 +298,6 @@
       "title": "Investing.com — Weight-Loss Drugs Stole Headlines—This $8 Diabetes Stock Jumped 37%",
       "url": "https://www.investing.com/news/stock-market-news/weightloss-drugs-stole-headlinesthis-8-diabetes-stock-jumped-37-5053413",
       "ts": 1795810199000
-    },
-    {
-      "time": "3:09 PM",
-      "title": "Investing.com — Cathie Wood Chases Speculative AI—This Quiet $17 Stock Surged 34%",
-      "url": "https://www.investing.com/news/stock-market-news/cathie-wood-chases-speculative-aithis-quiet-17-stock-surged-34-5052860",
-      "ts": 1795810189000
     }
   ]
 }
