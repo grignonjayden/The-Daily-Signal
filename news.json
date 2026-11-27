@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 9:21 AM ET",
+  "generated_at": "Nov 27, 2026, 9:25 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795789304701,
+  "updated_ts": 1795789505559,
   "articles": [
     {
       "title": "Wall street futures surge toward best week in months on Nvidia lifeline",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "9:23 AM",
+      "title": "MarketWatch — How much more are richest Americans spending on the holidays compared to everyone else?",
+      "url": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+      "ts": 1795789380000
+    },
+    {
+      "time": "9:18 AM",
+      "title": "CNBC — This week’s bounce following a rapid correction may not hold, history shows",
+      "url": "https://www.cnbc.com/2026/11/27/this-weeks-bounce-following-a-rapid-correction-may-not-hold-history-shows.html",
+      "ts": 1795789102000
+    },
+    {
+      "time": "9:12 AM",
+      "title": "CNBC — EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+      "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
+      "ts": 1795788775000
+    },
+    {
       "time": "9:01 AM",
       "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
@@ -289,24 +307,6 @@
       "title": "Investing.com — Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
       "url": "https://www.investing.com/news/stock-market-news/explainerblack-friday-test-for-retailers-as-tight-budgets-meet-aisavvy-shoppers-5053309",
       "ts": 1795787664000
-    },
-    {
-      "time": "8:45 AM",
-      "title": "MarketWatch — Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-      "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-      "ts": 1795787100000
-    },
-    {
-      "time": "8:42 AM",
-      "title": "Investing.com — Why is Glencore stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-glencore-stock-rallying-today-93CH-5053532",
-      "ts": 1795786925000
-    },
-    {
-      "time": "8:41 AM",
-      "title": "Investing.com — Why is Antofagasta stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-antofagasta-stock-rallying-today-93CH-5053531",
-      "ts": 1795786887000
     }
   ]
 }
