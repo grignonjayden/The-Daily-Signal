@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 11:50 AM ET",
+  "generated_at": "Nov 27, 2026, 11:54 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795798255905,
+  "updated_ts": 1795798456418,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -54,6 +54,16 @@
       "ts": 1795774839000
     },
     {
+      "title": "U.S. goods trade deficit widens again as AI-led imports hit record high",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-goods-trade-deficit-widens-again-as-ai-led-imports-hit-record-high/",
+      "snippet": "October deficit of more than 10% puts trade on track to weaken fourth-quarter GDP growth",
+      "image": "https://www.theglobeandmail.com/resizer/v2/CT5PGGE4PBCR7MXY543CUATEQQ.JPG?auth=cd3ed04600df9bd1d24f8e8834b4f22cf64a1d36fb5441b7cc061437385d156b&smart=true&width=7535&height=5026",
+      "time": "Nov 27, 11:45 AM",
+      "coverage": 3,
+      "ts": 1795797946000
+    },
+    {
       "title": "AI Tools Reshape the Black Friday Experience",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-tools-reshape-the-black-friday-experience-video",
@@ -75,16 +85,6 @@
       "ts": 1795773600000
     },
     {
-      "title": "Canadians expected to spend less on Black Friday this year",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
-      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
-      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
-      "time": "Nov 27, 7:44 AM",
-      "coverage": 3,
-      "ts": 1795783448000
-    },
-    {
       "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
@@ -94,14 +94,15 @@
       "ts": 1795795200000
     },
     {
-      "title": "US Storm Triggers East Coast Power Outages",
+      "title": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/us-storm-triggers-east-coast-power-outages-video",
-      "snippet": "More than 500,000 homes and businesses along the East Coast are without power after an explosive storm uprooted trees in parts of New York City and inundated commuter rail lines in New Jersey on Thanksgiving Day.…",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+      "snippet": "Gold rose as a rally in stocks helped the precious metal recover from a rout that sent prices to a 15-month low.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 27, 9:47 AM",
-      "ts": 1795790830000
+      "time": "Nov 26, 6:53 PM",
+      "coverage": 4,
+      "ts": 1795737215000
     },
     {
       "title": "European Stock Indexes Rise as Tech Rally Extends",
@@ -236,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "11:52 AM",
+      "title": "CNBC — Dow rallies 600 points as benchmark heads for best week since April 2025: Live updates",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "ts": 1795798351000
+    },
+    {
+      "time": "11:50 AM",
+      "title": "CNBC — Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
+      "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795798254000
+    },
+    {
       "time": "11:49 AM",
       "title": "CNBC — Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
       "url": "https://www.cnbc.com/2026/11/27/josh-brown-lost-a-bet-on-disney-it-is-now-on-his-best-stocks-in-the-market-list.html",
@@ -246,18 +259,6 @@
       "title": "CNBC — AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
       "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
       "ts": 1795797794000
-    },
-    {
-      "time": "11:31 AM",
-      "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795797095000
-    },
-    {
-      "time": "11:31 AM",
-      "title": "CNBC — Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
-      "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795797067000
     },
     {
       "time": "11:30 AM",
