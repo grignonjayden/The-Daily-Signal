@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 9:56 AM ET",
+  "generated_at": "Nov 27, 2026, 9:59 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795791362979,
+  "updated_ts": 1795791564358,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -235,14 +235,20 @@
   ],
   "ticker": [
     {
-      "time": "9:55 AM",
+      "time": "9:56 AM",
       "title": "CNBC — Dow rallies 300 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795791313000
+      "ts": 1795791370000
+    },
+    {
+      "time": "9:56 AM",
+      "title": "MarketWatch — Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+      "ts": 1795791360000
     },
     {
       "time": "9:54 AM",
-      "title": "Bloomberg — Can Russia Ever Change From Within (Video)",
+      "title": "Bloomberg — Can Russia Ever Change From Within",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/can-russia-ever-change-from-within-video",
       "ts": 1795791265000
     },
@@ -269,12 +275,6 @@
       "title": "Investing.com — Canada’s TSX futures climb as Bay Street eyes three-day winning streak",
       "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-climb-as-bay-street-eyes-threeday-winning-streak-5053439",
       "ts": 1795790530000
-    },
-    {
-      "time": "9:40 AM",
-      "title": "MarketWatch — Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
-      "ts": 1795790400000
     },
     {
       "time": "9:36 AM",
