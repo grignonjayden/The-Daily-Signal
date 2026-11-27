@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 9:01 AM ET",
+  "generated_at": "Nov 27, 2026, 9:04 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795788070347,
+  "updated_ts": 1795788271477,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -236,10 +236,28 @@
   ],
   "ticker": [
     {
-      "time": "9:00 AM",
+      "time": "9:01 AM",
       "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795788023000
+      "ts": 1795788076000
+    },
+    {
+      "time": "9:00 AM",
+      "title": "Globe and Mail — Middlefield’s Shane Obata loves a good monopoly",
+      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-middlefields-shane-obata-loves-a-good-monopoly/",
+      "ts": 1795788000000
+    },
+    {
+      "time": "9:00 AM",
+      "title": "Globe and Mail — The trade crisis can be an opportunity if businesses lean on francophones to help them grow",
+      "url": "https://www.theglobeandmail.com/business/careers/leadership/article-the-trade-crisis-can-be-an-opportunity-if-businesses-lean-on/",
+      "ts": 1795788000000
+    },
+    {
+      "time": "9:00 AM",
+      "title": "Globe and Mail — Consider the company holiday party as work, so mind your booze",
+      "url": "https://www.theglobeandmail.com/business/careers/management/article-consider-the-company-holiday-party-as-work-so-mind-your-booze/",
+      "ts": 1795788000000
     },
     {
       "time": "8:58 AM",
@@ -288,24 +306,6 @@
       "title": "Investing.com — Why is Entain stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-entain-stock-rallying-today-93CH-5053525",
       "ts": 1795786605000
-    },
-    {
-      "time": "8:36 AM",
-      "title": "Investing.com — Factbox-Airlines strained by Iran-war fuel price shock",
-      "url": "https://www.investing.com/news/stock-market-news/factboxairlines-strained-by-iranwar-fuel-price-shock-5053523",
-      "ts": 1795786566000
-    },
-    {
-      "time": "8:36 AM",
-      "title": "Bloomberg — Poland Warns on Tech Debt Flood Before 2027 Eurobond Sales",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-warns-on-tech-debt-flood-before-2027-eurobond-sales",
-      "ts": 1795786563000
-    },
-    {
-      "time": "8:31 AM",
-      "title": "Bloomberg — Bank Indonesia Says Policy Focus on Stability, Inflation in 2027",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/bank-indonesia-says-policy-focus-on-stability-inflation-in-2027",
-      "ts": 1795786271000
     }
   ]
 }
