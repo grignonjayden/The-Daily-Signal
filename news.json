@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 10:07 PM ET",
+  "generated_at": "Nov 26, 2026, 10:10 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795748845001,
+  "updated_ts": 1795749044434,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -241,6 +241,12 @@
       "ts": 1795748460000
     },
     {
+      "time": "9:43 PM",
+      "title": "Bloomberg — Treasuries Retreat as Gains in Equities Sap Demand for Havens",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
+      "ts": 1795747388000
+    },
+    {
       "time": "9:36 PM",
       "title": "Investing.com — Why is Japan Tobacco stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-japan-tobacco-stock-surging-today-93CH-5052820",
@@ -299,12 +305,6 @@
       "title": "Investing.com — Why is 3P Learning stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-3p-learning-stock-surging-today-93CH-5052808",
       "ts": 1795744009000
-    },
-    {
-      "time": "8:40 PM",
-      "title": "Bloomberg — How Volatility is Undermining the Carry Trade",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/how-volatility-is-undermining-the-carry-trade-video",
-      "ts": 1795743601000
     }
   ]
 }
