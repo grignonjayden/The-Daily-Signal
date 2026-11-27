@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 4:52 AM ET",
+  "generated_at": "Nov 27, 2026, 4:56 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795773175408,
+  "updated_ts": 1795773375205,
   "articles": [
     {
       "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
@@ -234,6 +234,12 @@
   ],
   "ticker": [
     {
+      "time": "4:54 AM",
+      "title": "Bloomberg — Rwanda Wins F1 Hosting Rights in Bet on Tourism (Video)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/rwanda-wins-f1-hosting-rights-in-bet-on-tourism-video",
+      "ts": 1795773266000
+    },
+    {
       "time": "4:49 AM",
       "title": "WSJ Markets — Precious Metals Rally as AI Trade Revives Risk Appetite",
       "url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
@@ -298,12 +304,6 @@
       "title": "WSJ Markets — Rising Oil Prices Could Weigh on Euro Versus Dollar",
       "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
       "ts": 1795770240000
-    },
-    {
-      "time": "4:02 AM",
-      "title": "Investing.com — Why is Exosens stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-exosens-stock-surging-today-93CH-5053166",
-      "ts": 1795770160000
     }
   ]
 }
