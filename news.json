@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 4:19 PM ET",
+  "generated_at": "Nov 27, 2026, 4:22 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795814370535,
+  "updated_ts": 1795814579785,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -64,6 +64,16 @@
       "ts": 1795799040000
     },
     {
+      "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "snippet": "Nasdaq finished its best week since April, while the Dow and S&P also ended the week strong.",
+      "image": "https://images.wsj.net/im-22450552",
+      "time": "Nov 27, 4:16 PM",
+      "coverage": 3,
+      "ts": 1795814160000
+    },
+    {
       "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
@@ -73,16 +83,6 @@
       "time": "Nov 27, 1:43 PM",
       "coverage": 3,
       "ts": 1795805016000
-    },
-    {
-      "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
-      "snippet": "The Nasdaq finished its best week since April, with all three major indexes ending the week strong.",
-      "image": "https://images.wsj.net/im-22450552",
-      "time": "Nov 27, 1:09 PM",
-      "coverage": 3,
-      "ts": 1795802940000
     },
     {
       "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
