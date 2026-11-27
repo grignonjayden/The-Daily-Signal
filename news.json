@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:43 PM ET",
+  "generated_at": "Nov 26, 2026, 8:46 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795743794995,
+  "updated_ts": 1795743999362,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -29,9 +29,9 @@
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
       "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
       "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
-      "time": "Nov 26, 7:18 PM",
+      "time": "Nov 26, 8:45 PM",
       "coverage": 4,
-      "ts": 1795738697000
+      "ts": 1795743916000
     },
     {
       "title": "U.S. stock futures rise in holiday-thinned trade; tech rebound in focus",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "8:40 PM",
+      "title": "Bloomberg — How Volatility is Undermining the Carry Trade",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/how-volatility-is-undermining-the-carry-trade-video",
+      "ts": 1795743601000
+    },
+    {
       "time": "8:38 PM",
       "title": "CNBC — China industrial profits growth surges to a 5-month high of 20.1% in October",
       "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
@@ -300,12 +306,6 @@
       "title": "Investing.com — Why is WiseTech Global stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-wisetech-global-stock-surging-today-93CH-5052791",
       "ts": 1795739688000
-    },
-    {
-      "time": "7:34 PM",
-      "title": "Bloomberg — Japan GPIF to Brief on Every Asset-Mix Review, Not Just Some",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-gpif-to-brief-on-every-asset-mix-review-not-just-some",
-      "ts": 1795739684000
     }
   ]
 }
