@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 3:32 PM ET",
+  "generated_at": "Nov 27, 2026, 3:36 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795811573950,
+  "updated_ts": 1795811772827,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -106,6 +106,16 @@
       "ts": 1795783448000
     },
     {
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-openai-countersues-apple-for-stealing-trade-secrets/",
+      "snippet": "Tensions between the companies have escalated amid intensifying race to develop AI products",
+      "image": "https://www.theglobeandmail.com/resizer/v2/2HU76QL435GANPQYJXKMPEO3TA.JPG?auth=9d80afe1364878cd6c10f306886e6bfe1081c14b4d0389ebccdadc317622ea14&smart=true&width=5000&height=3335",
+      "time": "Nov 27, 3:31 PM",
+      "coverage": 2,
+      "ts": 1795811470000
+    },
+    {
       "title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
@@ -124,16 +134,6 @@
       "time": "Nov 27, 3:11 PM",
       "coverage": 2,
       "ts": 1795810306000
-    },
-    {
-      "title": "U.S. goods trade deficit widens again as AI-led imports hit record high",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-goods-trade-deficit-widens-again-as-ai-led-imports-hit-record-high/",
-      "snippet": "October deficit of more than 10% puts trade on track to weaken fourth-quarter GDP growth",
-      "image": "https://www.theglobeandmail.com/resizer/v2/CT5PGGE4PBCR7MXY543CUATEQQ.JPG?auth=cd3ed04600df9bd1d24f8e8834b4f22cf64a1d36fb5441b7cc061437385d156b&smart=true&width=7535&height=5026",
-      "time": "Nov 27, 11:45 AM",
-      "coverage": 2,
-      "ts": 1795797946000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
