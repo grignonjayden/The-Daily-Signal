@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 1:41 AM ET",
+  "generated_at": "Nov 27, 2026, 1:45 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795761715674,
+  "updated_ts": 1795761919491,
   "articles": [
     {
       "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -74,14 +74,14 @@
       "ts": 1795698060000
     },
     {
-      "title": "Thales in exclusive talks to buy 51.6% stake in Lumibird",
+      "title": "Asian stocks rally as China shares surge on fresh market-support pledges",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/thales-in-exclusive-talks-to-buy-516-stake-in-lumibird-5052994",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-tech-rebound-easing-us-trade-concerns-lift-sentiment-5052839",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEI590SG_L.jpg",
-      "time": "Nov 27, 1:13 AM",
+      "image": "https://content-media.investing.com/news/LYNXMPEB0Q00K_M.jpg",
+      "time": "Nov 27, 1:24 AM",
       "coverage": 2,
-      "ts": 1795760011000
+      "ts": 1795760674000
     },
     {
       "title": "Will the Nvidia Saga Stunt Chinese AI?",
@@ -258,6 +258,12 @@
       "ts": 1795760100000
     },
     {
+      "time": "1:13 AM",
+      "title": "Investing.com — Thales in exclusive talks to buy 51.6% stake in Lumibird",
+      "url": "https://www.investing.com/news/stock-market-news/thales-in-exclusive-talks-to-buy-516-stake-in-lumibird-5052994",
+      "ts": 1795760011000
+    },
+    {
       "time": "1:12 AM",
       "title": "Investing.com — Sanofi CEO got to work on $41 billion Insmed deal straight after taking office",
       "url": "https://www.investing.com/news/stock-market-news/sanofi-ceo-got-to-work-on-41-billion-insmed-deal-straight-after-taking-office-5052971",
@@ -298,12 +304,6 @@
       "title": "WSJ Markets — Asian Markets Rise as AI Sentiment Stabilizes",
       "url": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
       "ts": 1795758780000
-    },
-    {
-      "time": "12:46 AM",
-      "title": "CNBC — Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
-      "url": "https://www.cnbc.com/2026/11/27/nike-formula-1-sportswear-brands-sponsorship-adidas-puma.html",
-      "ts": 1795758364000
     }
   ]
 }
