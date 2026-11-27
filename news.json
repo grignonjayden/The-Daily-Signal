@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 27, 2026, 12:04 PM ET",
+  "generated_at": "Nov 27, 2026, 12:07 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795799067317,
+  "updated_ts": 1795799268417,
   "articles": [
-    {
-      "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/tech-founders-too-big-fail-jensen-huangs-nvidia-return-sparks-debate",
-      "snippet": "Jensen Huang&apos;s return as Nvidia CEO just 11 days after resigning spotlights &quot;key-man risk&quot; and what experts call a lack of succession planning at Big Tech.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/former-nvidia-ceo-jensen-huang-statement.jpg",
-      "time": "Nov 27, 10:06 AM",
-      "coverage": 6,
-      "ts": 1795791993000
-    },
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
       "source": "MarketWatch",
@@ -24,14 +14,14 @@
       "ts": 1795794720000
     },
     {
-      "title": "Wall Street rallies as tech stocks rebound, putting indexes on course for big week",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
-      "time": "Nov 27, 10:41 AM",
+      "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/tech-founders-too-big-fail-jensen-huangs-nvidia-return-sparks-debate",
+      "snippet": "Jensen Huang&apos;s return as Nvidia CEO just 11 days after resigning spotlights &quot;key-man risk&quot; and what experts call a lack of succession planning at Big Tech.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/former-nvidia-ceo-jensen-huang-statement.jpg",
+      "time": "Nov 27, 10:06 AM",
       "coverage": 5,
-      "ts": 1795794080000
+      "ts": 1795791993000
     },
     {
       "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
@@ -44,14 +34,45 @@
       "ts": 1795780822000
     },
     {
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "snippet": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "image": "https://images.mktw.net/im-44503864",
+      "time": "Nov 27, 12:04 PM",
+      "coverage": 4,
+      "ts": 1795799040000
+    },
+    {
+      "title": "Wall Street rallies as investors return to beaten-down AI stocks, eyes strong week",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
+      "time": "Nov 27, 11:53 AM",
+      "coverage": 4,
+      "ts": 1795798418000
+    },
+    {
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
       "snippet": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
       "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
       "time": "Nov 27, 5:20 AM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795774839000
+    },
+    {
+      "title": "Black Friday 2026: Shoppers Try to Cut Back, Hunt for Deals",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-2026-shoppers-cut-back-hunt-for-deals-video",
+      "snippet": "Black Friday spending is projected to rise in 2026 as wary shoppers stock up early on essentials and lean into deals. Bloomberg’s Annie Bang reports. (Source: Bloomberg)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 12:02 PM",
+      "coverage": 3,
+      "ts": 1795798944000
     },
     {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
@@ -95,45 +116,24 @@
       "ts": 1795773600000
     },
     {
-      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "snippet": "“Retirement is a financial status, not an age.”",
-      "image": "https://images.mktw.net/im-83830528",
-      "time": "Nov 27, 11:00 AM",
-      "ts": 1795795200000
-    },
-    {
-      "title": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
-      "snippet": "Gold rose as a rally in stocks helped the precious metal recover from a rout that sent prices to a 15-month low.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 6:53 PM",
-      "coverage": 4,
-      "ts": 1795737215000
-    },
-    {
-      "title": "European Stock Indexes Rise as Tech Rally Extends",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
-      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 3:32 AM",
-      "coverage": 3,
-      "ts": 1795768320000
-    },
-    {
-      "title": "Poland stocks higher at close of trade; WIG30 up 1.16%",
+      "title": "Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.42%",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-116-5053711",
+      "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-142-5053731",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/Warsaw_Stock_Exchange_M_1440056832.jpg",
-      "time": "Nov 27, 11:35 AM",
+      "image": "https://content-media.investing.com/news/CERNText_800x533_L_1505114445.jpg",
+      "time": "Nov 27, 12:00 PM",
       "coverage": 2,
-      "ts": 1795797303000
+      "ts": 1795798829000
+    },
+    {
+      "title": "Oil Futures Mixed in Shortened U.S. Trading Day",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "snippet": "Crude futures were mixed in light U.S. Black Friday trading with the market watching shipping risks in the Middle East and awaiting Sunday’s meeting of OPEC and its allies to discuss output policy for 2027.",
+      "image": "https://images.wsj.net/im-48078726",
+      "time": "Nov 27, 9:54 AM",
+      "coverage": 2,
+      "ts": 1795791240000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -243,10 +243,34 @@
       "ts": 1795798867000
     },
     {
+      "time": "12:00 PM",
+      "title": "Investing.com — Finland stocks higher at close of trade; OMX Helsinki 25 up 1.09%",
+      "url": "https://www.investing.com/news/stock-market-news/finland-stocks-higher-at-close-of-trade-omx-helsinki-25-up-109-5053730",
+      "ts": 1795798804000
+    },
+    {
+      "time": "11:59 AM",
+      "title": "Investing.com — Anthropic short interest climbs as IPO lockup expiry nears",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-short-interest-climbs-as-ipo-lockup-expiry-nears-5053729",
+      "ts": 1795798747000
+    },
+    {
       "time": "11:55 AM",
       "title": "CNBC — Dow rallies 600 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
       "ts": 1795798550000
+    },
+    {
+      "time": "11:53 AM",
+      "title": "Investing.com — Why is Oracle stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-oracle-stock-rallying-today-93CH-5053726",
+      "ts": 1795798425000
+    },
+    {
+      "time": "11:50 AM",
+      "title": "Investing.com — Why is Nebius stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-climbing-today-93CH-5053725",
+      "ts": 1795798238000
     },
     {
       "time": "11:49 AM",
@@ -261,52 +285,28 @@
       "ts": 1795798148000
     },
     {
+      "time": "11:48 AM",
+      "title": "Investing.com — Why is Meta Platforms stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-rallying-today-93CH-5053719",
+      "ts": 1795798123000
+    },
+    {
+      "time": "11:47 AM",
+      "title": "Investing.com — Why is Seagate Technology stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-seagate-technology-stock-surging-today-93CH-5053717",
+      "ts": 1795798022000
+    },
+    {
       "time": "11:43 AM",
       "title": "CNBC — AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
       "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
       "ts": 1795797794000
     },
     {
-      "time": "11:30 AM",
-      "title": "Investing.com — Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.98%",
-      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-098-5053706",
-      "ts": 1795797004000
-    },
-    {
-      "time": "11:24 AM",
-      "title": "Investing.com — Norse Atlantic files for bankruptcy, halts flights as Iran war drives up fuel costs",
-      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-files-for-bankruptcy-halts-flights-as-iran-war-drives-up-fuel-costs-5053705",
-      "ts": 1795796663000
-    },
-    {
-      "time": "11:24 AM",
-      "title": "Bloomberg — Lula escolhe Trabuco para acalmar mercado",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/lula-escolhe-trabuco-para-acalmar-mercado-video",
-      "ts": 1795796646000
-    },
-    {
-      "time": "11:21 AM",
-      "title": "Investing.com — Fitch rates Stellantis BBB with negative outlook",
-      "url": "https://www.investing.com/news/stock-market-news/fitch-rates-stellantis-bbb-with-negative-outlook-5053703",
-      "ts": 1795796477000
-    },
-    {
-      "time": "11:08 AM",
-      "title": "CNBC — It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
-      "url": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
-      "ts": 1795795690000
-    },
-    {
-      "time": "11:07 AM",
-      "title": "Bloomberg — Altice International, Creditors Discuss Debt Cut of About 40%",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/altice-international-creditors-discuss-debt-cut-of-about-40",
-      "ts": 1795795647000
-    },
-    {
-      "time": "10:58 AM",
-      "title": "Bloomberg — Anterix Could Be SpaceX’s Next Deal for Mobile Network Access",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/anterix-could-be-spacex-s-next-deal-for-mobile-network-access",
-      "ts": 1795795126000
+      "time": "11:43 AM",
+      "title": "Bloomberg — UK Steel Sector Says UK-EU Agreement Gives Rivals Unfair Edge",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/uk-steel-sector-says-uk-eu-agreement-gives-rivals-unfair-edge",
+      "ts": 1795797793000
     }
   ]
 }
