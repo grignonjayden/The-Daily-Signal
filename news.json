@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:16 PM ET",
+  "generated_at": "Nov 26, 2026, 9:20 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795745807949,
+  "updated_ts": 1795746010457,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -235,6 +235,18 @@
   ],
   "ticker": [
     {
+      "time": "9:18 PM",
+      "title": "WSJ Markets — Asian Currencies Consolidate Amid Cautious Mood",
+      "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "ts": 1795745880000
+    },
+    {
+      "time": "9:16 PM",
+      "title": "WSJ Markets — Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
+      "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+      "ts": 1795745760000
+    },
+    {
       "time": "9:13 PM",
       "title": "WSJ Markets — Asian Markets Mostly Higher as Sentiment Stabilizes",
       "url": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
@@ -245,12 +257,6 @@
       "title": "CNBC — China industrial profits growth surges to a 5-month high of 20.1% in October",
       "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
       "ts": 1795745049000
-    },
-    {
-      "time": "8:51 PM",
-      "title": "WSJ Markets — Risk of Yen Weakening Against Dollar Appears Limited",
-      "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
-      "ts": 1795744260000
     },
     {
       "time": "8:46 PM",
@@ -298,12 +304,6 @@
       "time": "8:00 PM",
       "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "ts": 1795741200000
-    },
-    {
-      "time": "8:00 PM",
-      "title": "Bloomberg — Modi Critics Face Growing Constraints on Travel, Speech in India",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/modi-critics-face-growing-constraints-on-travel-speech-in-india",
       "ts": 1795741200000
     }
   ]
