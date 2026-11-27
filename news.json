@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 11:30 AM ET",
+  "generated_at": "Nov 27, 2026, 11:34 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795797051261,
+  "updated_ts": 1795797252474,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -236,10 +236,16 @@
   ],
   "ticker": [
     {
-      "time": "11:28 AM",
+      "time": "11:31 AM",
       "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795796926000
+      "ts": 1795797095000
+    },
+    {
+      "time": "11:31 AM",
+      "title": "CNBC — Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
+      "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795797067000
     },
     {
       "time": "11:24 AM",
@@ -252,12 +258,6 @@
       "title": "Investing.com — Fitch rates Stellantis BBB with negative outlook",
       "url": "https://www.investing.com/news/stock-market-news/fitch-rates-stellantis-bbb-with-negative-outlook-5053703",
       "ts": 1795796477000
-    },
-    {
-      "time": "11:12 AM",
-      "title": "CNBC — Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
-      "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795795931000
     },
     {
       "time": "11:08 AM",
