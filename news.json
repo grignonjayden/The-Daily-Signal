@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:30 PM ET",
+  "generated_at": "Nov 26, 2026, 9:33 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795746624011,
+  "updated_ts": 1795746830045,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -235,6 +235,12 @@
   ],
   "ticker": [
     {
+      "time": "9:30 PM",
+      "title": "Bloomberg — Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
+      "ts": 1795746622000
+    },
+    {
       "time": "9:18 PM",
       "title": "WSJ Markets — Asian Currencies Consolidate Amid Cautious Mood",
       "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
@@ -299,12 +305,6 @@
       "title": "WSJ Markets — MSCI India Gets Rare Earnings Upgrade",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
       "ts": 1795742460000
-    },
-    {
-      "time": "8:12 PM",
-      "title": "Investing.com — Netherlands will ask Washington not to enforce MATCH Act, minister says",
-      "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
-      "ts": 1795741959000
     }
   ]
 }
