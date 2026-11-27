@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 5:02 AM ET",
+  "generated_at": "Nov 27, 2026, 5:06 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795773776813,
+  "updated_ts": 1795773975707,
   "articles": [
     {
       "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -85,6 +85,15 @@
       "ts": 1795766180000
     },
     {
+      "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-montney-region-alberta-natural-gas-reserves-canada-seize-opportunity/",
+      "snippet": "A flurry of acquisitions reveals the region’s potential, but investors fear it might be too good to be true",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ODDM7N7QYNDULEK7RM2DIP6SNU.JPG?auth=72a61352e47ab51b443eea49a074c1e3aaec1540de152851b06659d8ee70e12d&smart=true&width=4000&height=2667",
+      "time": "Nov 27, 5:00 AM",
+      "ts": 1795773600000
+    },
+    {
       "title": "Odd Lots: Weber’s Vision for an Affordability Agenda (Podcast)",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/audio/2026-11-27/odd-lots-weber-s-vision-for-an-affordability-agenda-podcast",
@@ -95,14 +104,14 @@
       "ts": 1795770000000
     },
     {
-      "title": "Sanofi CEO got to work on $41 billion Insmed deal straight after taking office",
+      "title": "South Korea may double its market stabilization fund to KRW40trn: report",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/sanofi-ceo-got-to-work-on-41-billion-insmed-deal-straight-after-taking-office-5052971",
+      "url": "https://www.investing.com/news/stock-market-news/south-korea-may-double-its-market-stabilization-fund-to-krw40trn-report-93CH-5053200",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0BL_L.jpg",
-      "time": "Nov 27, 4:30 AM",
+      "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+      "time": "Nov 27, 4:54 AM",
       "coverage": 2,
-      "ts": 1795771853000
+      "ts": 1795773246000
     },
     {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
@@ -112,16 +121,6 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
       "time": "Nov 26, 8:26 PM",
       "ts": 1795742782000
-    },
-    {
-      "title": "Ukrainian investment office urges Canadian companies to invest in energy sector after Russian attacks",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-ukrainian-investment-office-urges-canadian-companies-to-invest-in/",
-      "snippet": "Attacks have damaged generation capacity, and weakened the power grid and gas infrastructure ahead of winter",
-      "image": "https://www.theglobeandmail.com/resizer/v2/RIMPFOBC6VE5TJWGSD72K7V6OA.JPG?auth=6387f5b0d7f981f57e0c15d2bbb4694c280fc57d952cb4601dc7a64a8d5872f1&smart=true&width=7567&height=5044",
-      "time": "Nov 26, 1:14 PM",
-      "coverage": 3,
-      "ts": 1795716873000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -234,10 +233,40 @@
   ],
   "ticker": [
     {
+      "time": "5:02 AM",
+      "title": "Investing.com — Why is Lumibird stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-lumibird-stock-surging-today-93CH-5053235",
+      "ts": 1795773748000
+    },
+    {
+      "time": "5:00 AM",
+      "title": "Globe and Mail — Telesat in advanced talks with Germany for interim satellite capabilities",
+      "url": "https://www.theglobeandmail.com/business/article-telesat-in-advanced-talks-with-germany-for-interim-satellite/",
+      "ts": 1795773620000
+    },
+    {
+      "time": "5:00 AM",
+      "title": "Globe and Mail — Globalive’s Anthony Lacavera wants to buy Freedom Mobile back if Telus takeover proceeds",
+      "url": "https://www.theglobeandmail.com/business/article-globalive-anthony-lacavera-freedom-mobile-quebecor-telus-takeover/",
+      "ts": 1795773600000
+    },
+    {
+      "time": "4:59 AM",
+      "title": "Investing.com — Why is Vertex Pharmaceuticals stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-sliding-today-93CH-5053216",
+      "ts": 1795773569000
+    },
+    {
       "time": "4:59 AM",
       "title": "MarketWatch — Hollywood Hills home of the late Presley Gerber listed for $3.6 million, 2 months after his death",
       "url": "https://www.marketwatch.com/story/hollywood-hills-home-of-the-late-presley-gerber-listed-for-3-6-million-2-months-after-his-death-92497183?mod=mw_rss_topstories",
       "ts": 1795773540000
+    },
+    {
+      "time": "4:56 AM",
+      "title": "Investing.com — Why is Rheinmetall stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-rheinmetall-stock-climbing-today-93CH-5053206",
+      "ts": 1795773413000
     },
     {
       "time": "4:54 AM",
@@ -258,52 +287,22 @@
       "ts": 1795773195000
     },
     {
+      "time": "4:52 AM",
+      "title": "Investing.com — Elia raises 2026 net income guidance across all divisions",
+      "url": "https://www.investing.com/news/stock-market-news/elia-raises-2026-net-income-guidance-across-all-divisions-93CH-5053198",
+      "ts": 1795773137000
+    },
+    {
       "time": "4:49 AM",
       "title": "WSJ Markets — Precious Metals Rally as AI Trade Revives Risk Appetite",
       "url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
       "ts": 1795772940000
     },
     {
-      "time": "4:44 AM",
-      "title": "CNBC — Spain Votes: Will Sanchez's big gamble pay off?",
-      "url": "https://www.cnbc.com/video/2026/11/27/spain-election-preview-sanchez-feijoo-vox.html",
-      "ts": 1795772678000
-    },
-    {
-      "time": "4:39 AM",
-      "title": "Investing.com — Bekaert shares jump 8% on strong Q3 sales growth",
-      "url": "https://www.investing.com/news/stock-market-news/bekaert-shares-jump-8-on-strong-q3-2026-sales-growth-5053185",
-      "ts": 1795772386000
-    },
-    {
-      "time": "4:37 AM",
-      "title": "Investing.com — Why is Dottikon ES stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-dottikon-es-stock-surging-today-93CH-5053184",
-      "ts": 1795772263000
-    },
-    {
-      "time": "4:34 AM",
-      "title": "WSJ Markets — Stock Futures Jump as AI Trade Set for Rebound",
-      "url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
-      "ts": 1795772040000
-    },
-    {
-      "time": "4:33 AM",
-      "title": "Investing.com — Exosens shares jump 6% on German army night vision order",
-      "url": "https://www.investing.com/news/stock-market-news/exosens-shares-jump-6-on-german-army-night-vision-order-93CH-5053181",
-      "ts": 1795772037000
-    },
-    {
-      "time": "4:31 AM",
-      "title": "Investing.com — Fincantieri wins €500M navy contract, shares rise 6%",
-      "url": "https://www.investing.com/news/stock-market-news/fincantieri-wins-500m-navy-contract-shares-rise-6-93CH-5053180",
-      "ts": 1795771908000
-    },
-    {
-      "time": "4:27 AM",
-      "title": "Investing.com — Rheinmetall shares rise on €738 million Romanian vehicle order",
-      "url": "https://www.investing.com/news/stock-market-news/rheinmetall-shares-rise-on-738-million-romanian-vehicle-order-5053178",
-      "ts": 1795771651000
+      "time": "4:48 AM",
+      "title": "Investing.com — Nasdaq futures surge as investors pile back into battered AI stocks",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+      "ts": 1795772904000
     }
   ]
 }
