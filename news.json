@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 2:22 AM ET",
+  "generated_at": "Nov 27, 2026, 2:25 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795764138120,
+  "updated_ts": 1795764338035,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -44,6 +44,16 @@
       "ts": 1795763713000
     },
     {
+      "title": "China stocks, yuan rally after Beijing vows stronger market support",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0AQ_L.jpg",
+      "time": "Nov 27, 1:48 AM",
+      "coverage": 3,
+      "ts": 1795762117000
+    },
+    {
       "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.80%",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-080-5052929",
@@ -54,6 +64,16 @@
       "ts": 1795757703000
     },
     {
+      "title": "Chinese Shares Lifted as Beijing Signals More Market Support",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/chinese-shares-lifted-as-beijing-signals-more-market-support-3a1d1468?mod=rss_markets_main",
+      "snippet": "Authorities reiterated support for capital markets and vowed stabilization policies, amid increased volatility in global markets.",
+      "image": "https://images.wsj.net/im-91174298",
+      "time": "Nov 27, 2:22 AM",
+      "coverage": 2,
+      "ts": 1795764120000
+    },
+    {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
@@ -62,16 +82,6 @@
       "time": "Nov 26, 8:01 AM",
       "coverage": 4,
       "ts": 1795698060000
-    },
-    {
-      "title": "China stocks, yuan rally after Beijing vows stronger market support",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0AQ_L.jpg",
-      "time": "Nov 27, 1:48 AM",
-      "coverage": 2,
-      "ts": 1795762117000
     },
     {
       "title": "Vietnam Expects to Sign US Trade Deal to Limit Tariff Hit",
@@ -94,15 +104,6 @@
       "time": "Nov 27, 1:10 AM",
       "coverage": 2,
       "ts": 1795759854000
-    },
-    {
-      "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
-      "snippet": "Oil prices were mixed in early Asian trade. Rising attacks on energy infrastructure across the Middle East have raised concerns of further supply disruptions, ANZ said.",
-      "image": "https://images.wsj.net/im-48078726",
-      "time": "Nov 26, 8:48 PM",
-      "ts": 1795744080000
     },
     {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
@@ -247,6 +248,12 @@
       "ts": 1795763744000
     },
     {
+      "time": "2:05 AM",
+      "title": "Investing.com — Japan stocks higher at close of trade; Nikkei 225 up 2.11%",
+      "url": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-211-5053031",
+      "ts": 1795763103000
+    },
+    {
       "time": "1:59 AM",
       "title": "Bloomberg — Indonesia Arrests Three Over Trades in Stock Scrutinized by MSCI",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/indonesia-arrests-three-over-trades-in-stock-scrutinized-by-msci",
@@ -299,12 +306,6 @@
       "title": "Investing.com — Thales in exclusive talks to buy 51.6% stake in Lumibird",
       "url": "https://www.investing.com/news/stock-market-news/thales-in-exclusive-talks-to-buy-516-stake-in-lumibird-5052994",
       "ts": 1795760011000
-    },
-    {
-      "time": "1:12 AM",
-      "title": "Investing.com — Sanofi CEO got to work on $41 billion Insmed deal straight after taking office",
-      "url": "https://www.investing.com/news/stock-market-news/sanofi-ceo-got-to-work-on-41-billion-insmed-deal-straight-after-taking-office-5052971",
-      "ts": 1795759954000
     }
   ]
 }
