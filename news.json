@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 4:56 AM ET",
+  "generated_at": "Nov 27, 2026, 4:59 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795773375205,
+  "updated_ts": 1795773574309,
   "articles": [
     {
       "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
@@ -240,6 +240,12 @@
       "ts": 1795773266000
     },
     {
+      "time": "4:53 AM",
+      "title": "Bloomberg — Kospi Rout Wipes $151 Billion From Korea Pension Fund’s Assets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/kospi-rout-wipes-151-billion-from-korea-pension-fund-s-assets",
+      "ts": 1795773195000
+    },
+    {
       "time": "4:49 AM",
       "title": "WSJ Markets — Precious Metals Rally as AI Trade Revives Risk Appetite",
       "url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
@@ -298,12 +304,6 @@
       "title": "Investing.com — Dottikon ES shares rise 9% on strong first-half results",
       "url": "https://www.investing.com/news/stock-market-news/dottikon-es-shares-rise-9-on-strong-firsthalf-results-93CH-5053176",
       "ts": 1795771022000
-    },
-    {
-      "time": "4:04 AM",
-      "title": "WSJ Markets — Rising Oil Prices Could Weigh on Euro Versus Dollar",
-      "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
-      "ts": 1795770240000
     }
   ]
 }
