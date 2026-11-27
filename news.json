@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 26, 2026, 11:07 PM ET",
+  "generated_at": "Nov 26, 2026, 11:11 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795752460927,
+  "updated_ts": 1795752660485,
   "articles": [
+    {
+      "title": "Asian stocks rise as tech rebound, easing U.S. trade concerns lift sentiment",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-tech-rebound-easing-us-trade-concerns-lift-sentiment-5052839",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEB0Q00K_M.jpg",
+      "time": "Nov 26, 10:47 PM",
+      "coverage": 5,
+      "ts": 1795751247000
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -55,16 +65,6 @@
       "ts": 1795739165000
     },
     {
-      "title": "U.S. AI chip curbs stall billions in Asia data center deals, Bloomberg reports",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-ai-chip-curbs-stall-billions-in-asia-data-center-deals-bloomberg-reports-5052819",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEI710GE_L.jpg",
-      "time": "Nov 26, 9:35 PM",
-      "coverage": 3,
-      "ts": 1795746954000
-    },
-    {
       "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
@@ -75,6 +75,17 @@
       "ts": 1795738949000
     },
     {
+      "title": "Gold Rises as Rebound in Tech Stocks Offsets Rate-Hike Concerns",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+      "snippet": "Gold rose as a tentative recovery in technology stocks and a weaker US dollar offset the prospect of interest-rate hikes by the Federal Reserve.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 6:53 PM",
+      "coverage": 3,
+      "ts": 1795737215000
+    },
+    {
       "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
@@ -83,6 +94,16 @@
       "time": "Nov 26, 9:00 AM",
       "coverage": 4,
       "ts": 1795701602000
+    },
+    {
+      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
+      "snippet": "Stock futures extended a late rally from the previous session to trade higher with sentiment helped by an upward revision to third-quarter GDP.",
+      "image": "https://images.wsj.net/im-34152034",
+      "time": "Nov 26, 8:01 AM",
+      "coverage": 4,
+      "ts": 1795698060000
     },
     {
       "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
@@ -102,27 +123,6 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
       "time": "Nov 26, 8:26 PM",
       "ts": 1795742782000
-    },
-    {
-      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
-      "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
-      "image": "https://images.wsj.net/im-58488429",
-      "time": "Nov 25, 5:27 PM",
-      "coverage": 5,
-      "ts": 1795645620000
-    },
-    {
-      "title": "Gold Rises as Rebound in Tech Stocks Offsets Rate-Hike Concerns",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
-      "snippet": "Gold rose as a tentative recovery in technology stocks and a weaker US dollar offset the prospect of interest-rate hikes by the Federal Reserve.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 6:53 PM",
-      "coverage": 2,
-      "ts": 1795737215000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -235,6 +235,18 @@
   ],
   "ticker": [
     {
+      "time": "11:07 PM",
+      "title": "CNBC — This 170-year historical study says ‘major market collapse’ is coming",
+      "url": "https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html",
+      "ts": 1795752427000
+    },
+    {
+      "time": "10:48 PM",
+      "title": "Investing.com — US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
+      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
+      "ts": 1795751298000
+    },
+    {
       "time": "10:44 PM",
       "title": "Investing.com — Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
       "url": "https://www.investing.com/news/stock-market-news/singapore-yet-to-confirm-if-nvidia-has-halted-advanced-chip-shipments-deputy-pm-5052834",
@@ -293,18 +305,6 @@
       "title": "Bloomberg — Treasuries Retreat as Gains in Equities Sap Demand for Havens",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
       "ts": 1795747388000
-    },
-    {
-      "time": "9:36 PM",
-      "title": "Investing.com — Why is Japan Tobacco stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-japan-tobacco-stock-surging-today-93CH-5052820",
-      "ts": 1795746969000
-    },
-    {
-      "time": "9:30 PM",
-      "title": "Bloomberg — Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
-      "ts": 1795746622000
     }
   ]
 }
