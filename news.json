@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 8:33 AM ET",
+  "generated_at": "Nov 27, 2026, 8:37 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795786429868,
+  "updated_ts": 1795786660260,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -54,6 +54,17 @@
       "ts": 1795774839000
     },
     {
+      "title": "As the AI Storm Rages, Are UK and Europe Markets a Haven For Investors? Live Q&A",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/sessions/2026-12-01/live-q-amp-a-are-uk-and-european-markets-a-haven-from-the-ai-storm",
+      "snippet": "Bloomberg reporters take your questions about UK and European markets in a Live Q&A on Tuesday, December 1 at 1 p.m. GMT",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 8:35 AM",
+      "coverage": 3,
+      "ts": 1795786554000
+    },
+    {
       "title": "Canadians expected to spend less on Black Friday this year",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
@@ -85,17 +96,6 @@
       "ts": 1795770720000
     },
     {
-      "title": "Turkey Fund Investors Face Principal Loss Despite Erdogan Pledge",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-fund-investors-face-principal-loss-despite-erdogan-pledge",
-      "snippet": "Turkey’s Vice President Cevdet Yilmaz said payments from liquidated investment funds will be based on the market price of assets they carry, signaling that many small investors may not recover their full principal.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 6:13 AM",
-      "coverage": 3,
-      "ts": 1795777998000
-    },
-    {
       "title": "European Stock Indexes Rise as Tech Rally Extends",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
@@ -117,14 +117,14 @@
       "ts": 1795786200000
     },
     {
-      "title": "Jefferies sees Brazil rebound potential after finance minister pick",
+      "title": "Norse Atlantic Airways files for bankruptcy in Norway",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/jefferies-sees-brazil-rebound-potential-after-finance-minister-pick-93CH-5053426",
+      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-airways-files-for-bankruptcy-in-norway-5053483",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "time": "Nov 27, 7:16 AM",
+      "image": "https://content-media.investing.com/news/LYNXMPEA6F0JM_M.jpg",
+      "time": "Nov 27, 8:10 AM",
       "coverage": 2,
-      "ts": 1795781780000
+      "ts": 1795785033000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -157,6 +157,16 @@
   ],
   "official": [
     {
+      "title": "Minister Champagne will visit Luxembourg to sign the Defence, Security and Resilience Bank agreement and strengthen economic ties",
+      "source": "Finance Canada",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-will-visit-luxembourg-to-sign-the-defence-security-and-resilience-bank-agreement-and-strengthen-economic-ties.html",
+      "snippet": "The Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will visit Luxembourg City, Luxembourg, on November 30 to sign the founding Articles of Agreement of the Defence, Security and…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 8:33 AM",
+      "ts": 1795786383000
+    },
+    {
       "title": "Government supports Indigenous economic participation in major energy infrastructure",
       "source": "Finance Canada",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-supports-indigenous-economic-participation-in-major-energy-infrastructure.html",
@@ -165,16 +175,6 @@
       "fallback_image": true,
       "time": "Nov 26, 4:19 PM",
       "ts": 1795727954000
-    },
-    {
-      "title": "Minister Champagne introduces legislation to implement Budget 2026: Masters of our destiny",
-      "source": "Finance Canada",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-introduces-legislation-to-implement-budget-2026-masters-of-our-destiny.html",
-      "snippet": "Minister Champagne introduces legislation to implement Budget 2026: Masters of our destiny",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Ottawa_-_ON_-_Stadtansicht.jpg/330px-Ottawa_-_ON_-_Stadtansicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 11:29 AM",
-      "ts": 1795710595000
     },
     {
       "title": "Payroll employment, earnings and hours, and job vacancies, September 2026",
@@ -238,6 +238,12 @@
   "ticker": [
     {
       "time": "8:32 AM",
+      "title": "CNBC — Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+      "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+      "ts": 1795786330000
+    },
+    {
+      "time": "8:32 AM",
       "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
       "ts": 1795786327000
@@ -249,10 +255,10 @@
       "ts": 1795786200000
     },
     {
-      "time": "8:24 AM",
+      "time": "8:26 AM",
       "title": "Investing.com — FTSE 100 today: Stocks rise as miners lead on metals rebound; Entain leads gains",
       "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108",
-      "ts": 1795785849000
+      "ts": 1795785968000
     },
     {
       "time": "8:23 AM",
@@ -295,12 +301,6 @@
       "title": "Bloomberg — Turkey’s Tightening Steps Show Early Signs of Calming Markets",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-s-tightening-steps-show-early-signs-of-calming-markets",
       "ts": 1795785121000
-    },
-    {
-      "time": "8:10 AM",
-      "title": "Investing.com — Norse Atlantic Airways files for bankruptcy in Norway",
-      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-airways-files-for-bankruptcy-in-norway-5053483",
-      "ts": 1795785033000
     },
     {
       "time": "8:08 AM",
