@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 1:18 AM ET",
+  "generated_at": "Nov 27, 2026, 1:21 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795760307008,
+  "updated_ts": 1795760507514,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -24,14 +24,14 @@
       "ts": 1795739460000
     },
     {
-      "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+      "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
       "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
       "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
-      "time": "Nov 26, 11:40 PM",
+      "time": "Nov 27, 1:21 AM",
       "coverage": 4,
-      "ts": 1795754459000
+      "ts": 1795760466000
     },
     {
       "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.80%",
