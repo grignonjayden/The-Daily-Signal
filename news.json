@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 5:06 PM ET",
+  "generated_at": "Nov 27, 2026, 5:09 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795817185586,
+  "updated_ts": 1795817385615,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -44,14 +44,25 @@
       "ts": 1795791993000
     },
     {
-      "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
-      "snippet": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1795450514&w=1920&h=1080",
-      "time": "Nov 27, 7:00 AM",
-      "coverage": 5,
-      "ts": 1795780822000
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "snippet": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108560334-1795816810559-gettyimages-2248285067-emaz-1_em27443.jpeg?v=1795816828&w=1920&h=1080",
+      "time": "Nov 27, 5:00 PM",
+      "coverage": 4,
+      "ts": 1795816857000
+    },
+    {
+      "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
+      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 12:36 PM",
+      "coverage": 4,
+      "ts": 1795801012000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -62,6 +73,16 @@
       "time": "Nov 27, 12:04 PM",
       "coverage": 4,
       "ts": 1795799040000
+    },
+    {
+      "title": "Canadians expected to spend less on Black Friday this year",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
+      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
+      "time": "Nov 27, 7:44 AM",
+      "coverage": 4,
+      "ts": 1795783448000
     },
     {
       "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
@@ -83,27 +104,6 @@
       "time": "Nov 27, 4:16 PM",
       "coverage": 3,
       "ts": 1795814160000
-    },
-    {
-      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
-      "snippet": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 1:43 PM",
-      "coverage": 3,
-      "ts": 1795805016000
-    },
-    {
-      "title": "Canadians expected to spend less on Black Friday this year",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
-      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
-      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
-      "time": "Nov 27, 7:44 AM",
-      "coverage": 3,
-      "ts": 1795783448000
     },
     {
       "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.93%",
@@ -228,12 +228,6 @@
   ],
   "ticker": [
     {
-      "time": "4:45 PM",
-      "title": "CNBC — Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "ts": 1795815941000
-    },
-    {
       "time": "4:31 PM",
       "title": "Investing.com — Why is Strategy stock gaining today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-gaining-today-93CH-5053886",
@@ -298,6 +292,12 @@
       "title": "Globe and Mail — Number of temporary residents in Canada set to exceed federal target by end of 2027",
       "url": "https://www.theglobeandmail.com/business/article-ottawa-temporary-residents-target-diab-november-27/",
       "ts": 1795811718000
+    },
+    {
+      "time": "3:30 PM",
+      "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 0.05%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-005-5053837",
+      "ts": 1795811403000
     }
   ]
 }
