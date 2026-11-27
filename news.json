@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 2:15 AM ET",
+  "generated_at": "Nov 27, 2026, 2:18 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795763734341,
+  "updated_ts": 1795763938917,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -34,6 +34,16 @@
       "ts": 1795762238000
     },
     {
+      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "snippet": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "time": "Nov 27, 2:15 AM",
+      "coverage": 3,
+      "ts": 1795763713000
+    },
+    {
       "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.80%",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-080-5052929",
@@ -42,16 +52,6 @@
       "time": "Nov 27, 12:35 AM",
       "coverage": 3,
       "ts": 1795757703000
-    },
-    {
-      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "snippet": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "time": "Nov 26, 11:20 PM",
-      "coverage": 3,
-      "ts": 1795753255000
     },
     {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
@@ -193,26 +193,6 @@
       "ts": 1795699800000
     },
     {
-      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
-      "snippet": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 3:00 PM",
-      "ts": 1795636800000
-    },
-    {
-      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
-      "snippet": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 3:00 PM",
-      "ts": 1795636800000
-    },
-    {
       "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
@@ -235,6 +215,12 @@
   ],
   "ticker": [
     {
+      "time": "2:15 AM",
+      "title": "CNBC — Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "ts": 1795763744000
+    },
+    {
       "time": "1:59 AM",
       "title": "Bloomberg — Indonesia Arrests Three Over Trades in Stock Scrutinized by MSCI",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/indonesia-arrests-three-over-trades-in-stock-scrutinized-by-msci",
@@ -245,12 +231,6 @@
       "title": "Bloomberg — FTSE 100 Live: UK Stocks Poised Join Global Stock Rebound",
       "url": "https://www.bloomberg.com/news/live-blog/2026-11-27/ftse-100-live-updates-pound-gilts-ai-stocks-treasuries-hsbc-copper-euro-what-s-moving-uk-markets-right-now-markets-today-mwymmeef",
       "ts": 1795762491000
-    },
-    {
-      "time": "1:36 AM",
-      "title": "CNBC — German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg",
-      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-      "ts": 1795761390000
     },
     {
       "time": "1:31 AM",
