@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 6:36 AM ET",
+  "generated_at": "Nov 27, 2026, 6:39 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795779392737,
+  "updated_ts": 1795779592775,
   "articles": [
     {
       "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -235,6 +235,18 @@
   ],
   "ticker": [
     {
+      "time": "6:35 AM",
+      "title": "WSJ Markets — Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
+      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "ts": 1795779300000
+    },
+    {
+      "time": "6:30 AM",
+      "title": "Bloomberg — Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
+      "ts": 1795779000000
+    },
+    {
       "time": "6:27 AM",
       "title": "CNBC — Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
       "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
@@ -253,12 +265,6 @@
       "ts": 1795778681000
     },
     {
-      "time": "6:21 AM",
-      "title": "WSJ Markets — Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
-      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
-      "ts": 1795778460000
-    },
-    {
       "time": "6:17 AM",
       "title": "Investing.com — European shares extend rally, but bruising November leaves AI scars",
       "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
@@ -269,6 +275,12 @@
       "title": "Bloomberg — Stock Bulls Stir Again After Weeks of AI Anxiety",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/stock-bulls-stir-again-after-weeks-of-ai-anxiety",
       "ts": 1795778197000
+    },
+    {
+      "time": "6:14 AM",
+      "title": "Bloomberg — Altria’s Interest in Imperial May Also Affect Its AB InBev Stake",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/altria-s-interest-in-imperial-may-also-affect-its-ab-inbev-stake",
+      "ts": 1795778099000
     },
     {
       "time": "6:13 AM",
@@ -293,18 +305,6 @@
       "title": "CNBC — Inflation has shoppers hunting for value. That bodes well for Black Friday",
       "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
       "ts": 1795777201000
-    },
-    {
-      "time": "5:54 AM",
-      "title": "MarketWatch — Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
-      "url": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
-      "ts": 1795776840000
-    },
-    {
-      "time": "5:49 AM",
-      "title": "MarketWatch — SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
-      "url": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
-      "ts": 1795776540000
     }
   ]
 }
