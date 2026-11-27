@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 8:30 AM ET",
+  "generated_at": "Nov 27, 2026, 8:33 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795786216622,
+  "updated_ts": 1795786429868,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -107,13 +107,14 @@
       "ts": 1795768320000
     },
     {
-      "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
+      "title": "Ontario’s mortgage arrears rate nears 2008 levels, the Home of the Week and more top real estate stories",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-montney-region-alberta-natural-gas-reserves-canada-seize-opportunity/",
-      "snippet": "A flurry of acquisitions reveals the region’s potential, but investors fear it might be too good to be true",
-      "image": "https://www.theglobeandmail.com/resizer/v2/ODDM7N7QYNDULEK7RM2DIP6SNU.JPG?auth=72a61352e47ab51b443eea49a074c1e3aaec1540de152851b06659d8ee70e12d&smart=true&width=4000&height=2667",
-      "time": "Nov 27, 5:00 AM",
-      "ts": 1795773600000
+      "url": "https://www.theglobeandmail.com/business/article-mortgage-delinquency-rates-ontario-canada-real-estate-news-november-27/",
+      "snippet": "Plus, the gamble facing homeowners right now",
+      "image": "https://www.theglobeandmail.com/resizer/v2/KN3Q74323FB4DNHPRKOARZKPMQ.JPG?auth=ff842a82a9a4a29d05468e454ab76afbed42a3d900c20009ef8e8cef9cfad7d6&smart=true&width=8192&height=6144",
+      "time": "Nov 27, 8:30 AM",
+      "coverage": 2,
+      "ts": 1795786200000
     },
     {
       "title": "Jefferies sees Brazil rebound potential after finance minister pick",
@@ -236,10 +237,22 @@
   ],
   "ticker": [
     {
-      "time": "8:26 AM",
+      "time": "8:32 AM",
+      "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "ts": 1795786327000
+    },
+    {
+      "time": "8:30 AM",
+      "title": "MarketWatch — Renters are now a national political constituency that can influence elections",
+      "url": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
+      "ts": 1795786200000
+    },
+    {
+      "time": "8:24 AM",
       "title": "Investing.com — FTSE 100 today: Stocks rise as miners lead on metals rebound; Entain leads gains",
       "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108",
-      "ts": 1795785968000
+      "ts": 1795785849000
     },
     {
       "time": "8:23 AM",
@@ -284,12 +297,6 @@
       "ts": 1795785121000
     },
     {
-      "time": "8:11 AM",
-      "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795785082000
-    },
-    {
       "time": "8:10 AM",
       "title": "Investing.com — Norse Atlantic Airways files for bankruptcy in Norway",
       "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-airways-files-for-bankruptcy-in-norway-5053483",
@@ -300,12 +307,6 @@
       "title": "CNBC — Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
       "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
       "ts": 1795784887000
-    },
-    {
-      "time": "8:05 AM",
-      "title": "CNBC — It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
-      "url": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
-      "ts": 1795784702000
     }
   ]
 }
