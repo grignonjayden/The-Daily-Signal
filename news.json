@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 3:22 AM ET",
+  "generated_at": "Nov 27, 2026, 3:26 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795767762198,
+  "updated_ts": 1795767962268,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -34,16 +34,6 @@
       "ts": 1795739460000
     },
     {
-      "title": "Wall St futures surge as investors return from holiday",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FZ_L.jpg",
-      "time": "Nov 27, 2:36 AM",
-      "coverage": 3,
-      "ts": 1795764981000
-    },
-    {
       "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-in-shortened-post-thanksgiving-trade-f0822039?mod=rss_markets_main",
@@ -63,16 +53,6 @@
       "time": "Nov 27, 2:31 AM",
       "coverage": 3,
       "ts": 1795764706000
-    },
-    {
-      "title": "+65%, +62%, +49%: AI picks across the Americas, now 60% off for Black Friday",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/65-62-49-ai-picks-across-the-americas-now-60-off-for-black-friday-5053044",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEI3O0EL_L.jpg",
-      "time": "Nov 27, 2:28 AM",
-      "coverage": 3,
-      "ts": 1795764537000
     },
     {
       "title": "AI Rally Faces Fresh Test: Nvidia Curbs & Trump Tariffs",
@@ -96,14 +76,13 @@
       "ts": 1795763713000
     },
     {
-      "title": "Four Black Friday scams to watch for this shopping season",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
-      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
-      "time": "Nov 26, 1:33 PM",
-      "coverage": 4,
-      "ts": 1795718011000
+      "title": "Indonesian police arrest three in Dian Swastatika share manipulation case",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/indonesian-police-arrest-three-in-dian-swastatika-share-manipulation-case-93CH-5053063",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+      "time": "Nov 27, 2:50 AM",
+      "ts": 1795765849000
     },
     {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
@@ -114,6 +93,26 @@
       "time": "Nov 25, 5:27 PM",
       "coverage": 6,
       "ts": 1795645620000
+    },
+    {
+      "title": "Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/vietnamese-partners-of-trump-organization-plan-trump-tower-in-hanoi-sources-say-5053107",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "time": "Nov 27, 3:18 AM",
+      "coverage": 2,
+      "ts": 1795767506000
+    },
+    {
+      "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
+      "snippet": "New import duties targeting 14 economies aim to replace earlier tariffs struck down by U.S. Supreme Court",
+      "image": "https://www.theglobeandmail.com/resizer/v2/VCWLJQIPJRB7PJF3AW5B4BVS7I.jpg?auth=325e44498ea288acaed102b5295cf1b035f0d829ab386b0aa97a096e9ee43d5c&smart=true&width=4000&height=2522",
+      "time": "Nov 26, 6:24 AM",
+      "coverage": 4,
+      "ts": 1795692285000
     },
     {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
@@ -135,14 +134,13 @@
       "ts": 1795667395000
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 6,
-      "ts": 1795456173000
+      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
+      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
+      "time": "Nov 25, 9:38 AM",
+      "ts": 1795617488000
     }
   ],
   "outlets": [
@@ -236,6 +234,48 @@
   ],
   "ticker": [
     {
+      "time": "3:23 AM",
+      "title": "WSJ Markets — Eurozone Bond Yields Track Treasury Yields, Oil Prices Higher",
+      "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+      "ts": 1795767780000
+    },
+    {
+      "time": "3:22 AM",
+      "title": "Investing.com — FTSE 100 today: Stocks rise as miners lead on metals rebound",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108",
+      "ts": 1795767728000
+    },
+    {
+      "time": "3:09 AM",
+      "title": "Investing.com — Goldman Sachs initiates Andritz at ’buy’, sees 25% upside on hydro growth",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-initiates-andritz-at-buy-sees-25-upside-on-hydro-growth-5053076",
+      "ts": 1795766947000
+    },
+    {
+      "time": "3:08 AM",
+      "title": "Investing.com — Entain’s Australia unit to pay $123M to settle AML case",
+      "url": "https://www.investing.com/news/stock-market-news/entains-australia-unit-to-pay-123m-to-settle-aml-case-93CH-5053075",
+      "ts": 1795766923000
+    },
+    {
+      "time": "3:07 AM",
+      "title": "Investing.com — European shares extend rally, but bruising November leaves AI scars",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
+      "ts": 1795766861000
+    },
+    {
+      "time": "3:06 AM",
+      "title": "Investing.com — Stelrad sees FY26 profit of £28-29M amid tough markets",
+      "url": "https://www.investing.com/news/stock-market-news/stelrad-sees-fy26-profit-of-2829m-amid-tough-markets-93CH-5053074",
+      "ts": 1795766815000
+    },
+    {
+      "time": "3:05 AM",
+      "title": "Investing.com — Power Probe cuts FY26 revenue outlook on weak US demand",
+      "url": "https://www.investing.com/news/stock-market-news/power-probe-cuts-fy26-revenue-outlook-on-weak-us-demand-93CH-5053072",
+      "ts": 1795766718000
+    },
+    {
       "time": "3:05 AM",
       "title": "CNBC — Private markets are more accessible than ever for investors. Getting out is another matter",
       "url": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html",
@@ -260,52 +300,10 @@
       "ts": 1795765893000
     },
     {
-      "time": "2:50 AM",
-      "title": "Investing.com — Indonesian police arrest three in Dian Swastatika share manipulation case",
-      "url": "https://www.investing.com/news/stock-market-news/indonesian-police-arrest-three-in-dian-swastatika-share-manipulation-case-93CH-5053063",
-      "ts": 1795765849000
-    },
-    {
       "time": "2:45 AM",
       "title": "Bloomberg — Watch Stockpiling in Oil Markets in 2027: Energy Aspects",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/watch-stockpiling-in-oil-markets-in-2027-energy-aspects-video",
       "ts": 1795765520000
-    },
-    {
-      "time": "2:44 AM",
-      "title": "Investing.com — Trump urged Venezuela, Iraq to leave OPEC and blocked dues, Reuters reports",
-      "url": "https://www.investing.com/news/stock-market-news/trump-urged-venezuela-iraq-to-leave-opec-and-blocked-dues-reuters-reports-93CH-5053056",
-      "ts": 1795765499000
-    },
-    {
-      "time": "2:42 AM",
-      "title": "Bloomberg — Pay Policy at South Africa’s Momentum Passes With 51% Support",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/pay-policy-at-south-africa-s-momentum-passes-with-51-support",
-      "ts": 1795765329000
-    },
-    {
-      "time": "2:32 AM",
-      "title": "Investing.com — Coca-Cola HBC completes $2.6 bln acquisition of CCBA",
-      "url": "https://www.investing.com/news/stock-market-news/cocacola-hbc-completes-26-bln-acquisition-of-ccba-93CH-5053051",
-      "ts": 1795764757000
-    },
-    {
-      "time": "2:25 AM",
-      "title": "WSJ Markets — U.S. 10-Year Treasury Yield Likely Has Seen Cycle Peak",
-      "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
-      "ts": 1795764300000
-    },
-    {
-      "time": "2:24 AM",
-      "title": "Investing.com — Jefferies initiates Allwyn at ’hold’, flags regulatory risks to growth outlook",
-      "url": "https://www.investing.com/news/stock-market-news/jefferies-initiates-allwyn-at-hold-flags-regulatory-risks-to-growth-outlook-5053043",
-      "ts": 1795764247000
-    },
-    {
-      "time": "2:22 AM",
-      "title": "Investing.com — Mercedes-Benz sets up China joint venture to centralize parts buying",
-      "url": "https://www.investing.com/news/stock-market-news/mercedesbenz-sets-up-china-joint-venture-to-centralize-parts-buying-5053042",
-      "ts": 1795764159000
     }
   ]
 }
