@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 3:42 PM ET",
+  "generated_at": "Nov 27, 2026, 3:46 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795812171342,
+  "updated_ts": 1795812370992,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -227,10 +227,28 @@
   ],
   "ticker": [
     {
+      "time": "3:40 PM",
+      "title": "Globe and Mail — What the future might hold for the Stellantis Brampton auto plant, according to our reporter",
+      "url": "https://www.theglobeandmail.com/business/article-future-of-stellantis-auto-plant-brampton/",
+      "ts": 1795812011000
+    },
+    {
       "time": "3:35 PM",
       "title": "Globe and Mail — Number of temporary residents in Canada set to exceed federal target by end of 2027",
       "url": "https://www.theglobeandmail.com/business/article-ottawa-temporary-residents-target-diab-november-27/",
       "ts": 1795811718000
+    },
+    {
+      "time": "3:30 PM",
+      "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 0.05%",
+      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-005-5053837",
+      "ts": 1795811403000
+    },
+    {
+      "time": "3:24 PM",
+      "title": "Bloomberg — Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote",
+      "ts": 1795811041000
     },
     {
       "time": "3:11 PM",
@@ -275,28 +293,10 @@
       "ts": 1795810182000
     },
     {
-      "time": "3:09 PM",
-      "title": "Investing.com — Every Holiday Swipe Pays a Toll—And These 2 Buffett Stocks Own It",
-      "url": "https://www.investing.com/news/stock-market-news/every-holiday-swipe-pays-a-tolland-these-2-buffett-stocks-own-it-5052858",
-      "ts": 1795810148000
-    },
-    {
       "time": "3:03 PM",
       "title": "CNBC — Hackers breach U.S. Air Force flagship Cloud One computing platform",
       "url": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html",
       "ts": 1795809788000
-    },
-    {
-      "time": "2:55 PM",
-      "title": "MarketWatch — Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-      "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-      "ts": 1795809300000
-    },
-    {
-      "time": "2:10 PM",
-      "title": "CNBC — OpenAI countersues Apple for stealing trade secrets",
-      "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
-      "ts": 1795806621000
     }
   ]
 }

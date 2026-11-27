@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 27, 2026, 3:12 PM ET",
+  "generated_at": "Nov 27, 2026, 3:46 PM ET",
   "date_key": "2026-11-27",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -16,15 +16,15 @@
       "group": "sector"
     },
     {
-      "title": "Mackenzie Valley Highway becomes first major project of national interest in Canada’s North",
-      "url": "https://www.cp24.com/news/canada/2026/11/27/carney-travels-to-yellowknife-for-announcement-on-major-initiative/",
-      "image": "https://www.cp24.com/resizer/v2/6VUZOHJIOQ4OH3IW44QMCV3NTI.jpg?auth=5ac5fa0447785e2c10deb0ca199ee4f932129b652e74a1ef8cc2819928dcbc93&smart=true&width=1400&height=933",
+      "title": "Government announces list of companies to compete for future design of 24 Sussex Drive",
+      "url": "https://www.cp24.com/news/canada/2026/11/27/government-announces-list-of-companies-to-compete-for-future-design-of-24-sussex-drive/",
+      "image": "https://www.cp24.com/resizer/v2/DXEVQ7HZUBCQJMXXVJNY6A4CHA.png?auth=4f1990e42086c07dbadddec5785231bcfde15ef136de19334072be6edb234459&smart=true&width=1668&height=938",
       "source": "CP24",
       "badge": "CP24",
       "analysis": false,
-      "sector": "Infrastructure",
+      "sector": "General",
       "time": "Nov 27",
-      "date": "2026-11-27T22:53:03.000Z",
+      "date": "2026-11-27T22:30:36.000Z",
       "group": "sector"
     },
     {
@@ -247,6 +247,11 @@
       "kept": 4
     },
     {
+      "source": "Canada Media Fund",
+      "fetched": 24,
+      "kept": 0
+    },
+    {
       "source": "CDEV",
       "fetched": 20,
       "kept": 0
@@ -257,19 +262,14 @@
       "kept": 4
     },
     {
-      "source": "Canada Media Fund",
+      "source": "C.D. Howe Institute",
       "fetched": 24,
-      "kept": 0
+      "kept": 4
     },
     {
       "source": "CP24",
       "fetched": 200,
       "kept": 3
-    },
-    {
-      "source": "C.D. Howe Institute",
-      "fetched": 24,
-      "kept": 4
     }
   ]
 }
