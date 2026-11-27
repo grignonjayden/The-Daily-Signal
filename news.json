@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 8:41 AM ET",
+  "generated_at": "Nov 27, 2026, 8:44 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795786863502,
+  "updated_ts": 1795787063336,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "8:38 AM",
+      "title": "Globe and Mail — Corus reports $59.4-million loss as revenue falls in fourth quarter",
+      "url": "https://www.theglobeandmail.com/business/article-corus-results-fourth-quarter-2026/",
+      "ts": 1795786712000
+    },
+    {
       "time": "8:32 AM",
       "title": "CNBC — Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
       "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Turkey’s Tightening Steps Show Early Signs of Calming Markets",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-s-tightening-steps-show-early-signs-of-calming-markets",
       "ts": 1795785121000
-    },
-    {
-      "time": "8:08 AM",
-      "title": "CNBC — Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
-      "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
-      "ts": 1795784887000
     }
   ]
 }
