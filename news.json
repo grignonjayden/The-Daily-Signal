@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 6:16 PM ET",
+  "generated_at": "Nov 27, 2026, 6:19 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795821389894,
+  "updated_ts": 1795821592645,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -228,6 +228,12 @@
   ],
   "ticker": [
     {
+      "time": "6:15 PM",
+      "title": "MarketWatch — Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+      "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "ts": 1795821300000
+    },
+    {
       "time": "6:07 PM",
       "title": "CNBC — OpenAI countersues Apple for stealing trade secrets",
       "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
@@ -292,12 +298,6 @@
       "title": "WSJ Markets — Treasury Yields Gain As U.S. Equities Rally",
       "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
       "ts": 1795813800000
-    },
-    {
-      "time": "4:08 PM",
-      "title": "Globe and Mail — Pitching in: Ontario couple gives $1-million to help build an animal shelter",
-      "url": "https://www.theglobeandmail.com/business/article-pitching-in-ontario-couple-gives-1-million-build-animal-shelter/",
-      "ts": 1795813716000
     }
   ]
 }
