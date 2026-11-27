@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 12:27 PM ET",
+  "generated_at": "Nov 27, 2026, 12:31 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795800476535,
+  "updated_ts": 1795800676704,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -249,6 +249,12 @@
       "ts": 1795800233000
     },
     {
+      "time": "12:23 PM",
+      "title": "Globe and Mail — HOOPP names Shrirang Apte as chief investment officer as Wissell announces retirement",
+      "url": "https://www.theglobeandmail.com/business/article-hoopp-names-shrirang-apte-cio-as-wissell-announces-retirement/",
+      "ts": 1795800201000
+    },
+    {
       "time": "12:12 PM",
       "title": "WSJ Markets — Inside China’s $4 Billion Secondhand Luxury Boom",
       "url": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=rss_markets_main",
@@ -301,12 +307,6 @@
       "title": "Investing.com — Sweden stocks higher at close of trade; OMX Stockholm 30 up 1.42%",
       "url": "https://www.investing.com/news/stock-market-news/sweden-stocks-higher-at-close-of-trade-omx-stockholm-30-up-142-5053731",
       "ts": 1795798829000
-    },
-    {
-      "time": "12:00 PM",
-      "title": "Investing.com — Finland stocks higher at close of trade; OMX Helsinki 25 up 1.09%",
-      "url": "https://www.investing.com/news/stock-market-news/finland-stocks-higher-at-close-of-trade-omx-helsinki-25-up-109-5053730",
-      "ts": 1795798804000
     }
   ]
 }
