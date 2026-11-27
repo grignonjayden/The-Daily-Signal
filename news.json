@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:49 PM ET",
+  "generated_at": "Nov 26, 2026, 8:53 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795744199003,
+  "updated_ts": 1795744399534,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -236,6 +236,18 @@
   ],
   "ticker": [
     {
+      "time": "8:51 PM",
+      "title": "WSJ Markets — Risk of Yen Weakening Against Dollar Appears Limited",
+      "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "ts": 1795744260000
+    },
+    {
+      "time": "8:48 PM",
+      "title": "WSJ Markets — Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "ts": 1795744080000
+    },
+    {
       "time": "8:40 PM",
       "title": "Bloomberg — How Volatility is Undermining the Carry Trade",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/how-volatility-is-undermining-the-carry-trade-video",
@@ -254,16 +266,16 @@
       "ts": 1795742782000
     },
     {
+      "time": "8:22 PM",
+      "title": "Bloomberg — South Korea Reportedly Mulls Expanding Stock Stabilization Fund",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/south-korea-reportedly-mulls-expanding-stock-stabilization-fund",
+      "ts": 1795742552000
+    },
+    {
       "time": "8:21 PM",
       "title": "WSJ Markets — MSCI India Gets Rare Earnings Upgrade",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
       "ts": 1795742460000
-    },
-    {
-      "time": "8:17 PM",
-      "title": "WSJ Markets — Australian Dollar’s Weakness to Extend Into 2027",
-      "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
-      "ts": 1795742220000
     },
     {
       "time": "8:12 PM",
@@ -294,18 +306,6 @@
       "title": "Bloomberg — Singapore Wealth Firm Farro Plans Hong Kong Office With 20 Hires",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-wealth-firm-farro-plans-hong-kong-office-with-20-hires",
       "ts": 1795740640000
-    },
-    {
-      "time": "7:42 PM",
-      "title": "Investing.com — US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
-      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
-      "ts": 1795740140000
-    },
-    {
-      "time": "7:34 PM",
-      "title": "Investing.com — Why is WiseTech Global stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-wisetech-global-stock-surging-today-93CH-5052791",
-      "ts": 1795739688000
     }
   ]
 }
