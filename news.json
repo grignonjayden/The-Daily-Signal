@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 26, 2026, 7:05 PM ET",
+  "generated_at": "Nov 26, 2026, 7:09 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795737957059,
+  "updated_ts": 1795738157753,
   "articles": [
-    {
-      "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
-      "time": "Nov 26, 6:54 PM",
-      "coverage": 5,
-      "ts": 1795737290000
-    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -44,6 +34,16 @@
       "ts": 1795737682000
     },
     {
+      "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
+      "time": "Nov 26, 6:54 PM",
+      "coverage": 4,
+      "ts": 1795737290000
+    },
+    {
       "title": "Musk says he will donate another SpaceX share to American kids annually",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/musk-says-he-will-donate-another-spacex-share-to-american-kids-annually-5052757",
@@ -52,6 +52,16 @@
       "time": "Nov 26, 6:31 PM",
       "coverage": 4,
       "ts": 1795735907000
+    },
+    {
+      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
+      "snippet": "Asian markets rose Thursday as investors brushed aside new U.S. tariff proposals and Wall Street recouped most of its sharp losses ahead of the Thanksgiving holiday.",
+      "image": "https://images.wsj.net/im-98798504",
+      "time": "Nov 26, 12:22 AM",
+      "coverage": 5,
+      "ts": 1795670520000
     },
     {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
@@ -105,25 +115,15 @@
       "ts": 1795716873000
     },
     {
-      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
-      "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
-      "image": "https://images.wsj.net/im-58488429",
-      "time": "Nov 25, 5:27 PM",
-      "coverage": 5,
-      "ts": 1795645620000
-    },
-    {
-      "title": "Lula Taps Bradesco Chair as Finance Chief to Soothe Markets",
+      "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/lula-taps-bradesco-chairman-as-finance-chief-to-reassure-markets",
-      "snippet": "President Luiz Inácio Lula da Silva tapped Bradesco Chairman Luiz Carlos Trabuco Cappi as finance minister, turning to one of Brazil’s best-known bankers to restore investor confidence in the nation’s finances.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+      "snippet": "Gold steadied, as traders weighed the prospect of Federal Reserve interest-rate hikes against a wider market recovery spurred by a rebound in US technology stocks.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 26, 6:18 PM",
+      "time": "Nov 26, 6:53 PM",
       "coverage": 2,
-      "ts": 1795735101000
+      "ts": 1795737215000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -249,6 +249,12 @@
       "ts": 1795736496000
     },
     {
+      "time": "6:18 PM",
+      "title": "Bloomberg — Lula Taps Bradesco Chair as Finance Chief to Soothe Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/lula-taps-bradesco-chairman-as-finance-chief-to-reassure-markets",
+      "ts": 1795735101000
+    },
+    {
       "time": "6:05 PM",
       "title": "Bloomberg — Latest Oil Market News and Analysis for Nov. 27",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
@@ -286,7 +292,7 @@
     },
     {
       "time": "4:59 PM",
-      "title": "Bloomberg — Asian Stock Futures Signal Gains, Oil Advances: Markets Wrap",
+      "title": "Bloomberg — Asian Stocks Rise for Second Day, Crude Oil Gains: Markets Wrap",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
       "ts": 1795730397000
     },
@@ -301,12 +307,6 @@
       "title": "Investing.com — Canadian bonds extend rally amid AI jitters, Macklem comments",
       "url": "https://www.investing.com/news/stock-market-news/canadian-bonds-extend-rally-amid-ai-jitters-macklem-comments-5052727",
       "ts": 1795729276000
-    },
-    {
-      "time": "4:35 PM",
-      "title": "Globe and Mail — Premier Ford, Unifor leader call on Ottawa to scrap greenhouse gas rules for Canadian automakers",
-      "url": "https://www.theglobeandmail.com/business/article-working-premier-ford-unifor-leader-call-on-ottawa-to-scrap-greenhouse/",
-      "ts": 1795728906000
     }
   ]
 }
