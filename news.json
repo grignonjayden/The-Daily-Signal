@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 5:26 AM ET",
+  "generated_at": "Nov 27, 2026, 5:29 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795775182429,
+  "updated_ts": 1795775382594,
   "articles": [
     {
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
@@ -54,16 +54,6 @@
       "ts": 1795772940000
     },
     {
-      "title": "EM equity funds pull in $36.7B, led by China and Taiwan ETFs",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/em-equity-funds-pull-in-367b-led-by-china-and-taiwan-etfs-93CH-5053187",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
-      "time": "Nov 27, 4:41 AM",
-      "coverage": 3,
-      "ts": 1795772483000
-    },
-    {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
@@ -104,16 +94,6 @@
       "ts": 1795773299000
     },
     {
-      "title": "South Korea may double its market stabilization fund to KRW40trn: report",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/south-korea-may-double-its-market-stabilization-fund-to-krw40trn-report-93CH-5053200",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "time": "Nov 27, 4:54 AM",
-      "coverage": 2,
-      "ts": 1795773246000
-    },
-    {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-ottawa-cheap-canned-vegetables-import-tariffs-domestic-industry/",
@@ -121,6 +101,24 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
       "time": "Nov 26, 8:26 PM",
       "ts": 1795742782000
+    },
+    {
+      "title": "Nikkei’s AI correction may be nearing a bottom, Goldman says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nikkeis-ai-correction-may-be-nearing-a-bottom-goldman-says-93CH-5053268",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "time": "Nov 27, 5:19 AM",
+      "ts": 1795774758000
+    },
+    {
+      "title": "Lumibird jumps 17% as Thales eyes majority stake at 25% premium",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/thales-in-exclusive-talks-to-buy-516-stake-in-lumibird-5052994",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEI590SG_L.jpg",
+      "time": "Nov 27, 5:18 AM",
+      "ts": 1795774738000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -251,58 +249,58 @@
       "ts": 1795774424000
     },
     {
+      "time": "5:12 AM",
+      "title": "Investing.com — Japan Tobacco shares surge on talk it may acquire part of Imperial",
+      "url": "https://www.investing.com/news/stock-market-news/japan-tobacco-shares-surge-on-talk-it-may-acquire-part-of-imperial-5053257",
+      "ts": 1795774361000
+    },
+    {
+      "time": "5:12 AM",
+      "title": "Investing.com — Why is Texas Instruments stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-texas-instruments-stock-climbing-today-93CH-5053256",
+      "ts": 1795774343000
+    },
+    {
+      "time": "5:11 AM",
+      "title": "Investing.com — Why is Micron Technology stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-surging-today-93CH-5053255",
+      "ts": 1795774293000
+    },
+    {
       "time": "5:11 AM",
       "title": "CNBC — Defense giant Rheinmetall embraces ‘new normal’ of caution after military contract setback; stock rises",
       "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
       "ts": 1795774269000
     },
     {
-      "time": "5:02 AM",
-      "title": "Investing.com — Why is Lumibird stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-lumibird-stock-surging-today-93CH-5053235",
-      "ts": 1795773748000
+      "time": "5:10 AM",
+      "title": "Investing.com — Why is Intel stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-intel-stock-rallying-today-93CH-5053254",
+      "ts": 1795774247000
     },
     {
-      "time": "5:00 AM",
-      "title": "Globe and Mail — Telesat in advanced talks with Germany for interim satellite capabilities",
-      "url": "https://www.theglobeandmail.com/business/article-telesat-in-advanced-talks-with-germany-for-interim-satellite/",
-      "ts": 1795773620000
+      "time": "5:10 AM",
+      "title": "Investing.com — Why is Marvell Technology stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-surging-today-93CH-5053252",
+      "ts": 1795774205000
     },
     {
-      "time": "5:00 AM",
-      "title": "Globe and Mail — Globalive’s Anthony Lacavera wants to buy Freedom Mobile back if Telus takeover proceeds",
-      "url": "https://www.theglobeandmail.com/business/article-globalive-anthony-lacavera-freedom-mobile-quebecor-telus-takeover/",
-      "ts": 1795773600000
+      "time": "5:09 AM",
+      "title": "Investing.com — Why is Qualcomm stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-rallying-today-93CH-5053251",
+      "ts": 1795774156000
     },
     {
-      "time": "4:59 AM",
-      "title": "Investing.com — Why is Vertex Pharmaceuticals stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-sliding-today-93CH-5053216",
-      "ts": 1795773569000
+      "time": "5:07 AM",
+      "title": "Investing.com — Why is Broadcom stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-rallying-today-93CH-5053249",
+      "ts": 1795774026000
     },
     {
-      "time": "4:59 AM",
-      "title": "MarketWatch — Hollywood Hills home of the late Presley Gerber listed for $3.6 million, 2 months after his death",
-      "url": "https://www.marketwatch.com/story/hollywood-hills-home-of-the-late-presley-gerber-listed-for-3-6-million-2-months-after-his-death-92497183?mod=mw_rss_topstories",
-      "ts": 1795773540000
-    },
-    {
-      "time": "4:56 AM",
-      "title": "Investing.com — Why is Rheinmetall stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-rheinmetall-stock-climbing-today-93CH-5053206",
-      "ts": 1795773413000
-    },
-    {
-      "time": "4:54 AM",
-      "title": "Bloomberg — Rwanda Wins F1 Hosting Rights in Bet on Tourism",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/rwanda-wins-f1-hosting-rights-in-bet-on-tourism-video",
-      "ts": 1795773266000
-    },
-    {
-      "time": "4:53 AM",
-      "title": "Bloomberg — Kospi Rout Wipes $151 Billion From Korea Pension Fund’s Assets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/kospi-rout-wipes-151-billion-from-korea-pension-fund-s-assets",
-      "ts": 1795773195000
+      "time": "5:06 AM",
+      "title": "Investing.com — Why is NVIDIA stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-rallying-today-93CH-5053241",
+      "ts": 1795773980000
     }
   ]
 }
