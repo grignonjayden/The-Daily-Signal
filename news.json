@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 6:06 PM ET",
+  "generated_at": "Nov 27, 2026, 6:09 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795820791398,
+  "updated_ts": 1795820990191,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -228,6 +228,12 @@
   ],
   "ticker": [
     {
+      "time": "6:07 PM",
+      "title": "CNBC — OpenAI countersues Apple for stealing trade secrets",
+      "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+      "ts": 1795820833000
+    },
+    {
       "time": "5:29 PM",
       "title": "Bloomberg — Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
@@ -292,12 +298,6 @@
       "title": "Globe and Mail — Pitching in: Ontario couple gives $1-million to help build an animal shelter",
       "url": "https://www.theglobeandmail.com/business/article-pitching-in-ontario-couple-gives-1-million-build-animal-shelter/",
       "ts": 1795813716000
-    },
-    {
-      "time": "4:05 PM",
-      "title": "Bloomberg — Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
-      "ts": 1795813505000
     }
   ]
 }
