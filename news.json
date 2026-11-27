@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 12:48 PM ET",
+  "generated_at": "Nov 27, 2026, 12:51 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795801688317,
+  "updated_ts": 1795801892383,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -34,6 +34,16 @@
       "ts": 1795780822000
     },
     {
+      "title": "SpaceX shares jump over 3% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "snippet": "SpaceX shares jumped in Friday trading after Elon Musk said on X that he would donate shares to American children every year.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "time": "Nov 27, 12:50 PM",
+      "coverage": 4,
+      "ts": 1795801822000
+    },
+    {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
@@ -42,16 +52,6 @@
       "time": "Nov 27, 12:04 PM",
       "coverage": 4,
       "ts": 1795799040000
-    },
-    {
-      "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "snippet": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "time": "Nov 27, 5:20 AM",
-      "coverage": 4,
-      "ts": 1795774839000
     },
     {
       "title": "Black Friday 2026: Shoppers Try to Cut Back, Hunt for Deals",
@@ -238,6 +238,12 @@
   ],
   "ticker": [
     {
+      "time": "12:48 PM",
+      "title": "Globe and Mail — Ottawa outlines plan to reinvent struggling forest industry",
+      "url": "https://www.theglobeandmail.com/canada/article-ottawa-forest-industry-strategy-hodgson-november-27/",
+      "ts": 1795801729000
+    },
+    {
       "time": "12:42 PM",
       "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since October 2022: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
@@ -302,12 +308,6 @@
       "title": "Investing.com — Italy stocks higher at close of trade; Investing.com Italy 40 up 1.84%",
       "url": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-184-5053737",
       "ts": 1795799222000
-    },
-    {
-      "time": "12:06 PM",
-      "title": "Investing.com — Germany stocks higher at close of trade; DAX up 0.86%",
-      "url": "https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-086-5053736",
-      "ts": 1795799174000
     }
   ]
 }
