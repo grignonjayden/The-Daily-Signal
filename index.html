@@ -124,6 +124,34 @@
   h1, h2, h3, .num, .gen-btn, .nav-pill, .chip { font-family: 'Manrope', sans-serif; }
 
   .wrap { max-width: 1180px; margin: 0 auto; padding: 0 20px 70px; }
+  /* Page background: slowly morphing colour fields in the TDS palette, behind every card */
+  body::before, body::after { content: ''; position: fixed; inset: -50%; z-index: -1; pointer-events: none; will-change: transform; }
+  body::before {
+    background:
+      radial-gradient(closest-side at 25% 30%, rgba(28,46,82,0.13), transparent),
+      radial-gradient(closest-side at 75% 25%, rgba(217,114,44,0.12), transparent),
+      radial-gradient(closest-side at 60% 75%, rgba(75,46,107,0.12), transparent);
+    animation: bgSwirl 60s linear infinite;
+  }
+  body::after {
+    background:
+      radial-gradient(closest-side at 35% 65%, rgba(47,99,214,0.09), transparent),
+      radial-gradient(closest-side at 70% 55%, rgba(217,114,44,0.08), transparent);
+    animation: bgDrift 28s ease-in-out infinite alternate;
+  }
+  :root[data-theme="dark"] body::before {
+    background:
+      radial-gradient(closest-side at 25% 30%, rgba(143,176,236,0.13), transparent),
+      radial-gradient(closest-side at 75% 25%, rgba(232,132,63,0.12), transparent),
+      radial-gradient(closest-side at 60% 75%, rgba(180,151,220,0.13), transparent);
+  }
+  :root[data-theme="dark"] body::after {
+    background:
+      radial-gradient(closest-side at 35% 65%, rgba(111,140,200,0.12), transparent),
+      radial-gradient(closest-side at 70% 55%, rgba(232,132,63,0.08), transparent);
+  }
+  @keyframes bgSwirl { to { transform: rotate(360deg); } }
+  @keyframes bgDrift { 0% { transform: translate(-6%, -4%) scale(1); } 50% { transform: translate(5%, 6%) scale(1.1); } 100% { transform: translate(8%, -5%) scale(0.95); } }
 
   /* ---------- Header ---------- */
   .hero {
