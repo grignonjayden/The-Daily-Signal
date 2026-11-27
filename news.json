@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 11:27 AM ET",
+  "generated_at": "Nov 27, 2026, 11:30 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795796850993,
+  "updated_ts": 1795797051261,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -61,28 +61,8 @@
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
       "time": "Nov 27, 10:54 AM",
-      "coverage": 4,
+      "coverage": 3,
       "ts": 1795794880000
-    },
-    {
-      "title": "Target stock technicals amid Black Friday",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/target-stock-technicals-amid-black-friday-93CH-5053643",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEJ4G0GB_L.jpg",
-      "time": "Nov 27, 10:25 AM",
-      "coverage": 4,
-      "ts": 1795793158000
-    },
-    {
-      "title": "Canadians expected to spend less on Black Friday this year",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
-      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
-      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
-      "time": "Nov 27, 7:44 AM",
-      "coverage": 4,
-      "ts": 1795783448000
     },
     {
       "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
@@ -93,6 +73,16 @@
       "time": "Nov 27, 5:00 AM",
       "coverage": 2,
       "ts": 1795773600000
+    },
+    {
+      "title": "Canadians expected to spend less on Black Friday this year",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
+      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
+      "time": "Nov 27, 7:44 AM",
+      "coverage": 3,
+      "ts": 1795783448000
     },
     {
       "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
@@ -123,6 +113,16 @@
       "time": "Nov 27, 3:32 AM",
       "coverage": 3,
       "ts": 1795768320000
+    },
+    {
+      "title": "Norse Atlantic files for bankruptcy, halts flights as Iran war drives up fuel costs",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-files-for-bankruptcy-halts-flights-as-iran-war-drives-up-fuel-costs-5053705",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FX_L.jpg",
+      "time": "Nov 27, 11:24 AM",
+      "coverage": 2,
+      "ts": 1795796663000
     },
     {
       "title": "Oil Futures Mixed in Shortened U.S. Trading Day",
@@ -236,10 +236,22 @@
   ],
   "ticker": [
     {
-      "time": "11:26 AM",
+      "time": "11:28 AM",
       "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795796804000
+      "ts": 1795796926000
+    },
+    {
+      "time": "11:24 AM",
+      "title": "Bloomberg — Lula escolhe Trabuco para acalmar mercado",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/lula-escolhe-trabuco-para-acalmar-mercado-video",
+      "ts": 1795796646000
+    },
+    {
+      "time": "11:21 AM",
+      "title": "Investing.com — Fitch rates Stellantis BBB with negative outlook",
+      "url": "https://www.investing.com/news/stock-market-news/fitch-rates-stellantis-bbb-with-negative-outlook-5053703",
+      "ts": 1795796477000
     },
     {
       "time": "11:12 AM",
@@ -294,18 +306,6 @@
       "title": "CNBC — Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
       "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
       "ts": 1795794720000
-    },
-    {
-      "time": "10:50 AM",
-      "title": "Investing.com — Greece stocks higher at close of trade; Athens General Composite up 1.33%",
-      "url": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-133-5053669",
-      "ts": 1795794603000
-    },
-    {
-      "time": "10:49 AM",
-      "title": "CNBC — 'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it",
-      "url": "https://www.cnbc.com/make-it/2026/11/27/the-traitors-ends-with-246300-prize-heres-how-much-goes-to-taxes.html",
-      "ts": 1795794569000
     }
   ]
 }
