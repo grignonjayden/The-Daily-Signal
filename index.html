@@ -558,6 +558,16 @@
   .pf-manual-row { display: flex; gap: 8px; max-width: 360px; }
   .pf-manual-row select { width: 90px; flex: none; }
   .pf-go { margin-top: 16px; }
+  .pf-add-row { display: flex; align-items: center; justify-content: space-between; gap: 14px; }
+  .pf-add-row .item-summary { margin: 0; }
+  .pf-add-open { flex: none; padding: 11px 22px; }
+  .pf-add-pop { position: relative; max-width: 620px; }
+  .pf-add-pop .widget { background: none; box-shadow: none; border: none; padding: 0; margin: 0; animation: none; opacity: 1; transform: none; }
+  .pf-pop-x { all: unset; position: absolute; top: 14px; right: 14px; z-index: 2; width: 36px; height: 36px; border-radius: 50%; text-align: center; line-height: 36px; font-size: 22px; color: var(--ink-soft); cursor: pointer; background: var(--surface-alt); -webkit-tap-highlight-color: transparent; }
+  .pf-pop-x:hover { color: var(--ink); }
+  .pf-preview { font-size: 14px; font-weight: 700; color: var(--ink); margin: 12px 0 0; min-height: 1em; }
+  .pf-preview:empty { display: none; }
+  .pf-add-pop .pf-sug { max-height: 240px; overflow-y: auto; }
   .pf-msg { font-size: 13px; font-weight: 600; color: var(--ink-soft); margin: 10px 0 0; min-height: 1em; }
   .pf-why { display: flex; flex-direction: column; gap: 8px; }
   .pf-why .item-summary { font-size: 14.5px; line-height: 1.55; color: var(--ink); }
@@ -2655,6 +2665,7 @@ function pfDraw() {
       if (h.type === 'cash') det.push(h.rate ? '≈ ' + pfMoney(v.yearly) + ' interest a year' : '');
       else det.push(fmtQty(h.qty) + (h.type === 'crypto' ? ' coins' : ' shares') + ' × ' + pfMoney(v.price || 0, v.cur));
       det.push((total ? (v.value / total * 100).toFixed(1) : 0) + '% of your portfolio');
+      if (h.acct) det.push(h.acct);
       if (v.gain != null) det.push((v.gain >= 0 ? 'up ' : 'down ') + pfMoney(Math.abs(v.gain)) + ' since you bought');
       r.appendChild(el('div', { className: 'pf-det', text: det.filter(Boolean).join(' · ') }));
       list.appendChild(r);
@@ -2665,7 +2676,14 @@ function pfDraw() {
   }
 
   // 4) Add an investment
-  mainPanel.appendChild(pfAddWidget(keepType));
+  const addCard = widgetShell('w-span-12 pf-add-slim', 'coin', 'var(--pink-soft)', 'var(--pink-deep)', 'Add an investment');
+  const addRow = el('div', { className: 'pf-add-row' });
+  addRow.appendChild(el('p', { className: 'item-summary', text: 'Stocks, ETFs, crypto, cash or GICs.' }));
+  const addBtn = el('button', { className: 'gen-btn pf-add-open', text: '+ Add' }); addBtn.type = 'button';
+  addBtn.onclick = () => pfAddModal(keepType);
+  addRow.appendChild(addBtn); addCard.appendChild(addRow);
+  addCard.appendChild(el('p', { className: 'pf-msg', text: PF.lastAdded ? '✓ Added ' + PF.lastAdded + '.' : '' })); PF.lastAdded = '';
+  mainPanel.appendChild(addCard);
 
   const foot = el('div', { className: 'pf-foot' });
   foot.appendChild(el('p', { className: 'live-updated', text: 'For your own tracking only, not investment advice. Your holdings are saved only in this browser on this device; nothing is sent anywhere.' }));
@@ -3356,6 +3374,32 @@ function pfSmlChart(R) {
   return wrap;
 }
 
+const PF_ACCTS = ['TFSA', 'RRSP', 'FHSA', 'RESP', 'RRIF', 'LIRA', 'Non-registered', 'Other'];
+function pfAcctSelect() {
+  const s = document.createElement('select');
+  [['', 'Choose…']].concat(PF_ACCTS.map(a => [a, a])).forEach(([v, t]) => { const o = document.createElement('option'); o.value = v; o.textContent = t; s.appendChild(o); });
+  return s;
+}
+// The add form opens in a pop-up from the "+ Add" button on the Portfolio tab.
+function pfAddModal(type) {
+  const old = document.querySelector('.pf-add-overlay'); if (old) old.remove();
+  const overlay = el('div', { className: 'info-overlay pf-add-overlay' });
+  const box = el('div', { className: 'info-box card-pop pf-add-pop' });
+  box.setAttribute('role', 'dialog'); box.setAttribute('aria-modal', 'true'); box.setAttribute('aria-label', 'Add an investment');
+  const x = el('button', { className: 'pf-pop-x', text: '×' }); x.type = 'button'; x.setAttribute('aria-label', 'Close');
+  box.appendChild(x); box.appendChild(pfAddWidget(type));
+  overlay.appendChild(box); document.body.appendChild(overlay);
+  const onKey = e => { if (e.key === 'Escape') shut(); };
+  const shut = () => { overlay.remove(); document.removeEventListener('keydown', onKey); };
+  x.onclick = shut; overlay.addEventListener('click', e => { if (e.target === overlay) shut(); });
+  document.addEventListener('keydown', onKey);
+  const first = box.querySelector('.pf-form input'); if (first && matchMedia('(hover: hover)').matches) first.focus();
+}
+function pfAdded(h) {
+  pfSave(pfLoad().concat(h));
+  const o = document.querySelector('.pf-add-overlay'); if (o) o.remove();
+  PF.lastAdded = h.sym || h.name || 'it'; pfDraw();
+}
 function pfAddWidget(type) {
   PF.addType = type || 'stock';
   const w = widgetShell('w-span-12 pf-add', 'coin', 'var(--pink-soft)', 'var(--pink-deep)', 'Add an investment');
@@ -3376,10 +3420,11 @@ function pfAddWidget(type) {
     const name = field('Name', inp('text', 'e.g. TFSA GIC, savings account'));
     const amt = field('Amount (C$)', inp('number', 'e.g. 5000'));
     const rate = field('Interest rate (% a year, optional)', inp('number', 'e.g. 3.5'));
+    const acct = field('Account (optional)', pfAcctSelect());
     const add = el('button', { className: 'gen-btn pf-go', text: 'Add to my portfolio' }); add.type = 'button';
     add.onclick = () => {
       const a = parseFloat(amt.value); if (!(a > 0)) { msg.textContent = 'Enter an amount.'; return; }
-      pfSave(pfLoad().concat({ id: Date.now() + '', type: 'cash', name: name.value.trim() || 'Cash', amount: a, rate: parseFloat(rate.value) || 0 })); pfDraw();
+      pfAdded({ id: Date.now() + '', type: 'cash', name: name.value.trim() || 'Cash', amount: a, rate: parseFloat(rate.value) || 0, acct: acct.value || undefined });
     };
     w.appendChild(form); w.appendChild(add); w.appendChild(msg); return w;
   }
@@ -3397,6 +3442,16 @@ function pfAddWidget(type) {
   manual.appendChild(el('small', { text: 'Not in our list, so enter its current price yourself (it won’t update on its own):' }));
   const mr = el('div', { className: 'pf-manual-row' }); mr.appendChild(mPrice); mr.appendChild(mCur); manual.appendChild(mr);
   form.appendChild(manual);
+  const acct = field('Account (optional)', pfAcctSelect(), 'TFSA, RRSP, FHSA, etc. Shown next to the holding.');
+  const prev = el('p', { className: 'pf-preview' });
+  const preview = () => {
+    const q = parseFloat(qty.value); prev.textContent = '';
+    if (!picked || !(q > 0)) return;
+    const t = { ...picked, qty: q, cost: parseFloat(cost.value) || null, manualPrice: parseFloat(mPrice.value) || null, cur: mCur.value };
+    const v = pfValue(t, pfFx()); if (!(v.value > 0)) return;
+    prev.textContent = 'Worth about ' + pfMoney(v.value) + ' today' + (v.gain != null ? ' · ' + (v.gain >= 0 ? 'up ' : 'down ') + pfMoney(Math.abs(v.gain)) + ' since you bought' : '');
+  };
+  [qty, cost, mPrice].forEach(i => i.addEventListener('input', preview)); mCur.addEventListener('change', preview);
 
   const options = () => {
     const t = search.value.trim().toLowerCase(); if (!t) return [];
@@ -3414,7 +3469,7 @@ function pfAddWidget(type) {
       const l = el('span'); l.appendChild(el('b', { text: o.title })); l.appendChild(el('span', { text: ' ' + o.sub })); b.appendChild(l);
       b.appendChild(el('span', { className: 'pf-sug-price', text: o.right }));
       b.onmousedown = e => e.preventDefault();
-      b.onclick = () => { picked = o.pick; search.value = o.title + ' · ' + o.pick.name; sug.innerHTML = ''; manual.hidden = true; qty.focus(); };
+      b.onclick = () => { picked = o.pick; search.value = o.title + ' · ' + o.pick.name; sug.innerHTML = ''; manual.hidden = true; qty.focus(); preview(); };
       sug.appendChild(b);
     });
     const t = search.value.trim();
@@ -3436,12 +3491,12 @@ function pfAddWidget(type) {
     const q = parseFloat(qty.value); if (!(q > 0)) { msg.textContent = 'Enter how many you own.'; qty.focus(); return; }
     const h = { id: Date.now() + '', ...picked, qty: q, cost: parseFloat(cost.value) || null };
     if (picked.manual) { const p = parseFloat(mPrice.value); if (!(p > 0)) { msg.textContent = 'Enter its current price.'; mPrice.focus(); return; } h.manualPrice = p; h.cur = mCur.value; h.x = mCur.value === 'USD' ? 'US' : 'TSX'; delete h.manual; }
-    pfSave(pfLoad().concat(h)); pfDraw();
-    const again = mainPanel.querySelector('.pf-msg'); if (again) again.textContent = '✓ Added ' + (h.sym || h.name) + '.';
+    if (acct.value) h.acct = acct.value;
+    pfAdded(h);
   };
   if (PF.addType === 'stock' && !(PF.quotes && PF.quotes.quotes && PF.quotes.quotes.length)) msg.textContent = 'The stock list is still loading. You can still add any stock with your own price.';
   if (PF.addType === 'crypto' && !(PF.coins && PF.coins.length)) msg.textContent = 'Couldn’t reach CoinGecko just now. Try again in a minute.';
-  w.appendChild(form); w.appendChild(add); w.appendChild(msg);
+  w.appendChild(form); w.appendChild(prev); w.appendChild(add); w.appendChild(msg);
   return w;
 }
 
