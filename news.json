@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 1:18 PM ET",
+  "generated_at": "Nov 27, 2026, 1:21 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795803514011,
+  "updated_ts": 1795803715437,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -57,7 +57,7 @@
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
-      "snippet": "The Nasdaq finishes its best week since April, with all three major indexes ending the week strong.",
+      "snippet": "The Nasdaq finished its best week since April, with all three major indexes ending the week strong.",
       "image": "https://images.wsj.net/im-22450552",
       "time": "Nov 27, 1:09 PM",
       "coverage": 3,
@@ -228,6 +228,12 @@
   ],
   "ticker": [
     {
+      "time": "1:20 PM",
+      "title": "CNBC — Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+      "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+      "ts": 1795803632000
+    },
+    {
       "time": "1:15 PM",
       "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-6ec085c9?mod=rss_markets_main",
@@ -292,12 +298,6 @@
       "title": "Investing.com — Spain stocks higher at close of trade; IBEX 35 up 1.72%",
       "url": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-172-5053740",
       "ts": 1795799299000
-    },
-    {
-      "time": "12:07 PM",
-      "title": "Investing.com — Portugal stocks higher at close of trade; PSI up 1.20%",
-      "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-120-5053739",
-      "ts": 1795799275000
     }
   ]
 }
