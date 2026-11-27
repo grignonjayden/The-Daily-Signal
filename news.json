@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 10:24 PM ET",
+  "generated_at": "Nov 26, 2026, 10:27 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795749848760,
+  "updated_ts": 1795750049231,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -241,6 +241,18 @@
       "ts": 1795749518000
     },
     {
+      "time": "10:08 PM",
+      "title": "Investing.com — Why is Hansoh Pharmaceutical stock rising today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-hansoh-pharmaceutical-stock-rising-today-93CH-5052832",
+      "ts": 1795748908000
+    },
+    {
+      "time": "10:08 PM",
+      "title": "Investing.com — New Zealand election result shows hung parliament",
+      "url": "https://www.investing.com/news/stock-market-news/new-zealand-election-result-shows-hung-parliament-93CH-5052831",
+      "ts": 1795748899000
+    },
+    {
       "time": "10:01 PM",
       "title": "WSJ Markets — Korean Won Poised to Strengthen Against Dollar in 2027",
       "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
@@ -293,18 +305,6 @@
       "title": "CNBC — China industrial profits growth surges to a 5-month high of 20.1% in October",
       "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
       "ts": 1795745049000
-    },
-    {
-      "time": "9:00 PM",
-      "title": "Bloomberg — Mahanadi Coalfields Set for Mumbai Debut After $969 Million IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/mahanadi-coalfields-set-for-mumbai-debut-after-969-million-ipo",
-      "ts": 1795744800000
-    },
-    {
-      "time": "8:59 PM",
-      "title": "Investing.com — +54%, +41%, +41%: Asia’s AI-picked strategies leading their markets in 2026",
-      "url": "https://www.investing.com/news/stock-market-news/54-41-41-asias-aipicked-strategies-leading-their-markets-in-2026-5052809",
-      "ts": 1795744793000
     }
   ]
 }
