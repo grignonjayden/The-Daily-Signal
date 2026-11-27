@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 1:42 PM ET",
+  "generated_at": "Nov 27, 2026, 1:45 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795804929080,
+  "updated_ts": 1795805129115,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -64,6 +64,16 @@
       "ts": 1795799040000
     },
     {
+      "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FZ_L.jpg",
+      "time": "Nov 27, 1:42 PM",
+      "coverage": 3,
+      "ts": 1795804937000
+    },
+    {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
@@ -74,14 +84,15 @@
       "ts": 1795802940000
     },
     {
-      "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FZ_L.jpg",
-      "time": "Nov 27, 1:06 PM",
+      "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
+      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 12:36 PM",
       "coverage": 3,
-      "ts": 1795802802000
+      "ts": 1795801012000
     },
     {
       "title": "Black Friday 2026: Shoppers Try to Cut Back, Hunt for Deals",
@@ -93,17 +104,6 @@
       "time": "Nov 27, 12:02 PM",
       "coverage": 3,
       "ts": 1795798944000
-    },
-    {
-      "title": "AI Tools Reshape the Black Friday Experience",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-tools-reshape-the-black-friday-experience-video",
-      "snippet": "As the holiday shopping season ramps up, retail sales are expected to top $1 trillion for the first time, with shoppers indicating they will spend more this year than last. They are also expected to give AI more say…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 10:54 AM",
-      "coverage": 3,
-      "ts": 1795794880000
     },
     {
       "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
@@ -228,6 +228,12 @@
   ],
   "ticker": [
     {
+      "time": "1:40 PM",
+      "title": "MarketWatch — The warnings behind this week’s stock-market rally",
+      "url": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+      "ts": 1795804800000
+    },
+    {
       "time": "1:22 PM",
       "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
       "url": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-7ba86b3a?mod=rss_markets_main",
@@ -292,12 +298,6 @@
       "title": "Bloomberg — Hong Kong Is Selling The City It Used To Be",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/hong-kong-is-selling-the-city-it-used-to-be-video",
       "ts": 1795800233000
-    },
-    {
-      "time": "12:23 PM",
-      "title": "Globe and Mail — HOOPP names Shrirang Apte as chief investment officer as Wissell announces retirement",
-      "url": "https://www.theglobeandmail.com/business/article-hoopp-names-shrirang-apte-cio-as-wissell-announces-retirement/",
-      "ts": 1795800201000
     }
   ]
 }
