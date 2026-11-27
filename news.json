@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 4:46 PM ET",
+  "generated_at": "Nov 27, 2026, 4:49 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795815980907,
+  "updated_ts": 1795816180521,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -106,6 +106,16 @@
       "ts": 1795783448000
     },
     {
+      "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.93%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-193-5053883",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPED7S129_M.jpg",
+      "time": "Nov 27, 4:30 PM",
+      "coverage": 2,
+      "ts": 1795815031000
+    },
+    {
       "title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
@@ -125,16 +135,6 @@
       "time": "Nov 27, 3:31 PM",
       "coverage": 2,
       "ts": 1795811470000
-    },
-    {
-      "title": "Millions of Americans are retiring—lifting this wealth stock 13%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/millions-of-americans-are-retiringlifting-this-wealth-stock-13-5053441",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "time": "Nov 27, 3:11 PM",
-      "coverage": 2,
-      "ts": 1795810306000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -196,26 +196,6 @@
       "ts": 1795786200000
     },
     {
-      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
-      "snippet": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 3:00 PM",
-      "ts": 1795636800000
-    },
-    {
-      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
-      "snippet": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 3:00 PM",
-      "ts": 1795636800000
-    },
-    {
       "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
       "source": "U.S. SEC",
       "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
@@ -232,6 +212,18 @@
       "title": "CNBC — Even the price of toys is on the rise. How Americans are scaling back holiday plans",
       "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
       "ts": 1795815941000
+    },
+    {
+      "time": "4:31 PM",
+      "title": "Investing.com — Why is Strategy stock gaining today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-gaining-today-93CH-5053886",
+      "ts": 1795815119000
+    },
+    {
+      "time": "4:30 PM",
+      "title": "Investing.com — Canada stocks higher at close of trade; S&P/TSX Composite up 1.20%",
+      "url": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-120-5053880",
+      "ts": 1795815004000
     },
     {
       "time": "4:25 PM",
@@ -286,18 +278,6 @@
       "title": "Globe and Mail — Number of temporary residents in Canada set to exceed federal target by end of 2027",
       "url": "https://www.theglobeandmail.com/business/article-ottawa-temporary-residents-target-diab-november-27/",
       "ts": 1795811718000
-    },
-    {
-      "time": "3:30 PM",
-      "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 0.05%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-005-5053837",
-      "ts": 1795811403000
-    },
-    {
-      "time": "3:24 PM",
-      "title": "Bloomberg — Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote",
-      "ts": 1795811041000
     }
   ]
 }
