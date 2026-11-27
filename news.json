@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 2:16 PM ET",
+  "generated_at": "Nov 27, 2026, 2:19 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795806964596,
+  "updated_ts": 1795807165077,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -228,6 +228,12 @@
   ],
   "ticker": [
     {
+      "time": "2:10 PM",
+      "title": "CNBC — OpenAI countersues Apple for stealing trade secrets",
+      "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+      "ts": 1795806621000
+    },
+    {
       "time": "2:00 PM",
       "title": "Investing.com — Chicago PMI and CFTC speculative positions among economic data due Monday",
       "url": "https://www.investing.com/news/stock-market-news/chicago-pmi-and-cftc-speculative-positions-among-economic-data-due-monday-93CH-5053804",
@@ -292,12 +298,6 @@
       "title": "CNBC — Dow rallies nearly 600 points to close out best week since 2022: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
       "ts": 1795803112000
-    },
-    {
-      "time": "12:59 PM",
-      "title": "Investing.com — Investing.com’s stocks of the week",
-      "url": "https://www.investing.com/news/stock-market-news/investingcoms-stocks-of-the-week-5053762",
-      "ts": 1795802350000
     }
   ]
 }
