@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 5:36 AM ET",
+  "generated_at": "Nov 27, 2026, 5:39 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795775784861,
+  "updated_ts": 1795775984048,
   "articles": [
     {
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
@@ -231,6 +231,12 @@
   ],
   "ticker": [
     {
+      "time": "5:37 AM",
+      "title": "MarketWatch — This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
+      "url": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
+      "ts": 1795775820000
+    },
+    {
       "time": "5:32 AM",
       "title": "MarketWatch — The AI stock crash is mostly over, JPMorgan says — but a worse phase could be coming in 2027",
       "url": "https://www.marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd?mod=mw_rss_topstories",
@@ -295,12 +301,6 @@
       "title": "CNBC — Defense giant Rheinmetall embraces ‘new normal’ of caution after military contract setback; stock rises",
       "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
       "ts": 1795774269000
-    },
-    {
-      "time": "5:10 AM",
-      "title": "Investing.com — Why is Intel stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-intel-stock-rallying-today-93CH-5053254",
-      "ts": 1795774247000
     }
   ]
 }
