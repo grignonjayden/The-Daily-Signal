@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 1:58 PM ET",
+  "generated_at": "Nov 27, 2026, 2:02 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795805932960,
+  "updated_ts": 1795806134048,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -12,6 +12,16 @@
       "time": "Nov 27, 1:53 PM",
       "coverage": 5,
       "ts": 1795805580000
+    },
+    {
+      "title": "Wall Street ends higher as AI stocks rebound, Nasdaq leads gains",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
+      "time": "Nov 27, 1:21 PM",
+      "coverage": 5,
+      "ts": 1795803662000
     },
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -34,6 +44,27 @@
       "ts": 1795780822000
     },
     {
+      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
+      "snippet": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 1:43 PM",
+      "coverage": 4,
+      "ts": 1795805016000
+    },
+    {
+      "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FZ_L.jpg",
+      "time": "Nov 27, 1:42 PM",
+      "coverage": 4,
+      "ts": 1795804937000
+    },
+    {
       "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
@@ -44,16 +75,6 @@
       "ts": 1795803846000
     },
     {
-      "title": "Wall Street ends higher as AI stocks rebound, Nasdaq leads gains",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
-      "time": "Nov 27, 1:21 PM",
-      "coverage": 4,
-      "ts": 1795803662000
-    },
-    {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
@@ -62,16 +83,6 @@
       "time": "Nov 27, 12:04 PM",
       "coverage": 4,
       "ts": 1795799040000
-    },
-    {
-      "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FZ_L.jpg",
-      "time": "Nov 27, 1:42 PM",
-      "coverage": 3,
-      "ts": 1795804937000
     },
     {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
@@ -93,17 +104,6 @@
       "time": "Nov 27, 12:36 PM",
       "coverage": 3,
       "ts": 1795801012000
-    },
-    {
-      "title": "Black Friday 2026: Shoppers Try to Cut Back, Hunt for Deals",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-2026-shoppers-cut-back-hunt-for-deals-video",
-      "snippet": "Black Friday spending is projected to rise in 2026 as wary shoppers stock up early on essentials and lean into deals. Bloomberg’s Annie Bang reports. (Source: Bloomberg)",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 12:02 PM",
-      "coverage": 3,
-      "ts": 1795798944000
     },
     {
       "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
