@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 4:02 AM ET",
+  "generated_at": "Nov 27, 2026, 4:06 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795770167399,
+  "updated_ts": 1795770367409,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -32,17 +32,6 @@
       "time": "Nov 26, 7:31 PM",
       "coverage": 4,
       "ts": 1795739460000
-    },
-    {
-      "title": "European Stock Indexes Rise as Tech Rally Extends",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
-      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 3:32 AM",
-      "coverage": 3,
-      "ts": 1795768320000
     },
     {
       "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
@@ -87,34 +76,15 @@
       "ts": 1795763713000
     },
     {
-      "title": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.61%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-161-5053133",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC111HY_M.jpg",
-      "time": "Nov 27, 3:35 AM",
+      "title": "European Stock Indexes Rise as Tech Rally Extends",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
+      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 3:32 AM",
       "coverage": 2,
-      "ts": 1795768503000
-    },
-    {
-      "title": "European stocks extend recovery as tech, miners advance",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0IR_L.jpg",
-      "time": "Nov 27, 3:30 AM",
-      "coverage": 2,
-      "ts": 1795768236000
-    },
-    {
-      "title": "U.S. trading partners deny ‘premise’ behind Trump’s new tariffs plan",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-china-us-trading-partners-oppose-donald-trump-new-tariffs/",
-      "snippet": "New import duties targeting 14 economies aim to replace earlier tariffs struck down by U.S. Supreme Court",
-      "image": "https://www.theglobeandmail.com/resizer/v2/VCWLJQIPJRB7PJF3AW5B4BVS7I.jpg?auth=325e44498ea288acaed102b5295cf1b035f0d829ab386b0aa97a096e9ee43d5c&smart=true&width=4000&height=2522",
-      "time": "Nov 26, 6:24 AM",
-      "coverage": 4,
-      "ts": 1795692285000
+      "ts": 1795768320000
     },
     {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
@@ -124,6 +94,34 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
       "time": "Nov 26, 8:26 PM",
       "ts": 1795742782000
+    },
+    {
+      "title": "Four Black Friday scams to watch for this shopping season",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
+      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
+      "time": "Nov 26, 1:33 PM",
+      "coverage": 3,
+      "ts": 1795718011000
+    },
+    {
+      "title": "Why is Exosens stock surging today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-exosens-stock-surging-today-93CH-5053166",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "time": "Nov 27, 4:02 AM",
+      "ts": 1795770160000
+    },
+    {
+      "title": "Why is Ventura Offshore Holding stock sliding today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-ventura-offshore-holding-stock-sliding-today-93CH-5053165",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+      "time": "Nov 27, 4:02 AM",
+      "ts": 1795770126000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -236,10 +234,34 @@
   ],
   "ticker": [
     {
+      "time": "4:04 AM",
+      "title": "WSJ Markets — Rising Oil Prices Could Weigh on Euro Versus Dollar",
+      "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "ts": 1795770240000
+    },
+    {
+      "time": "4:01 AM",
+      "title": "Investing.com — Why is Lumibird stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-lumibird-stock-surging-today-93CH-5053163",
+      "ts": 1795770074000
+    },
+    {
+      "time": "4:00 AM",
+      "title": "Investing.com — Why is Envipco stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-envipco-stock-sliding-today-93CH-5053160",
+      "ts": 1795770037000
+    },
+    {
       "time": "4:00 AM",
       "title": "Bloomberg — Isabella Weber's Vision for an Affordability Agenda",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/isabella-weber-s-vision-for-an-affordability-agenda",
       "ts": 1795770022000
+    },
+    {
+      "time": "4:00 AM",
+      "title": "Investing.com — Why is Thales stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-thales-stock-climbing-today-93CH-5053157",
+      "ts": 1795770008000
     },
     {
       "time": "4:00 AM",
@@ -248,10 +270,22 @@
       "ts": 1795770000000
     },
     {
+      "time": "3:47 AM",
+      "title": "Investing.com — Why is SMA Solar Technology stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-sma-solar-technology-stock-rallying-today-93CH-5053152",
+      "ts": 1795769263000
+    },
+    {
       "time": "3:43 AM",
       "title": "Bloomberg — Dubai Stocks Erase Wartime Losses to Become a Top Gulf Performer",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/dubai-stocks-erase-wartime-losses-to-become-a-top-gulf-performer",
       "ts": 1795768988000
+    },
+    {
+      "time": "3:41 AM",
+      "title": "Investing.com — Why is Modivo stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-modivo-stock-rallying-today-93CH-5053149",
+      "ts": 1795768912000
     },
     {
       "time": "3:38 AM",
@@ -270,42 +304,6 @@
       "title": "Investing.com — Why is Permanent TSB stock rising today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-permanent-tsb-stock-rising-today-93CH-5053136",
       "ts": 1795768609000
-    },
-    {
-      "time": "3:36 AM",
-      "title": "Bloomberg — China Bank Bond Spreads Head for Biggest Jump in Over Two Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-bank-bond-spreads-head-for-biggest-jump-in-over-two-years",
-      "ts": 1795768576000
-    },
-    {
-      "time": "3:34 AM",
-      "title": "Investing.com — Why is Power Probe stock plummeting today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-power-probe-stock-plummeting-today-93CH-5053132",
-      "ts": 1795768480000
-    },
-    {
-      "time": "3:34 AM",
-      "title": "WSJ Markets — U.S. Dollar Little Changed Near Recent High",
-      "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
-      "ts": 1795768440000
-    },
-    {
-      "time": "3:26 AM",
-      "title": "Investing.com — Why is Norse Atlantic stock collapsing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-norse-atlantic-stock-collapsing-today-93CH-5053114",
-      "ts": 1795768011000
-    },
-    {
-      "time": "3:24 AM",
-      "title": "Investing.com — Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
-      "url": "https://www.investing.com/news/stock-market-news/vietnamese-partners-of-trump-organization-plan-trump-tower-in-hanoi-sources-say-5053107",
-      "ts": 1795767897000
-    },
-    {
-      "time": "3:23 AM",
-      "title": "WSJ Markets — Eurozone Bond Yields Track Treasury Yields, Oil Prices Higher",
-      "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
-      "ts": 1795767780000
     }
   ]
 }
