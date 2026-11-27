@@ -484,6 +484,25 @@
   .pf-total { margin: 2px 0 14px; }
   .pf-total-val { font-size: 38px; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; }
   .pf-total-lbl { font-size: 12.5px; font-weight: 600; color: var(--ink-faint); margin-top: 2px; }
+  .pf-signal { margin-bottom: 16px; }
+  .pf-sig-chg { font-size: 14px; font-weight: 700; color: var(--ink-faint); margin-top: 4px; font-variant-numeric: tabular-nums; }
+  .pf-sig-chg.up { color: var(--mint-deep); } .pf-sig-chg.down { color: var(--pink-deep); }
+  .pf-sig-bars { display: flex; align-items: flex-end; gap: 3px; height: 150px; margin: 18px 0 6px; padding-top: 12px; touch-action: pan-y; user-select: none; -webkit-user-select: none; cursor: crosshair; }
+  .pf-sig-bars span { flex: 1; min-width: 2px; position: relative; border-radius: 4px 4px 2px 2px; background: var(--ink-faint); transition: opacity .15s, height .3s var(--ease); transform-origin: bottom; }
+  .pf-sig-bars span.up { background: var(--mint); } .pf-sig-bars span.down { background: var(--pink); }
+  .pf-sig-bars span.after { opacity: .22; }
+  .pf-sig-bars span.on { box-shadow: 0 0 0 2px var(--surface), 0 0 0 3.5px var(--ink); }
+  .pf-sig-bars span.now::after { content: ''; position: absolute; left: 50%; top: -10px; width: 6px; height: 6px; margin-left: -3px; border-radius: 50%; background: var(--pink); animation: pfBlink 2s ease-in-out infinite; }
+  .pf-sig-bars.grow span { animation: pfGrow .45s var(--ease) both; }
+  @keyframes pfGrow { from { transform: scaleY(0); } }
+  @keyframes pfBlink { 50% { opacity: .25; } }
+  .pf-sig-axis { display: flex; justify-content: space-between; font-size: 11.5px; font-weight: 600; color: var(--ink-faint); }
+  .pf-sig-range { display: flex; gap: 4px; background: var(--surface-alt); border-radius: 999px; padding: 4px; margin: 14px 0 0; }
+  .pf-sig-range .chip { flex: 1; justify-content: center; background: transparent; padding: 8px 0; font-size: 13px; }
+  .pf-sig-range .chip:hover:not(.active) { background: transparent; color: var(--ink); }
+  .pf-sig-range .chip.active, :root[data-theme="dark"] .pf-sig-range .chip.active { background: var(--surface); color: var(--ink); box-shadow: 0 1px 3px rgba(0,0,0,.12); }
+  .pf-sig-note { font-size: 12px; font-weight: 600; color: var(--ink-soft); margin: 10px 0 0; line-height: 1.45; }
+  @media (max-width: 600px) { .pf-sig-bars { gap: 2px; height: 130px; } .pf-sig-bars span { border-radius: 3px 3px 1px 1px; } }
   .pf-stats { display: flex; flex-wrap: wrap; gap: 10px; }
   .pf-stat { flex: 1 1 180px; background: var(--surface-alt); border-radius: 14px; padding: 12px 14px; }
   .pf-stat-lbl { font-size: 11.5px; font-weight: 700; color: var(--ink-soft); margin-bottom: 3px; }
@@ -2576,10 +2595,7 @@ function pfDraw() {
   } else {
     const day = vals.reduce((s, x) => s + x.v.day, 0), dayBase = total - day;
     const withCost = vals.filter(x => x.v.gain != null), gain = withCost.reduce((s, x) => s + x.v.gain, 0), cost = withCost.reduce((s, x) => s + x.v.cost, 0);
-    const big = el('div', { className: 'pf-total' });
-    big.appendChild(el('div', { className: 'pf-total-val', text: pfMoney(total) }));
-    big.appendChild(el('div', { className: 'pf-total-lbl', text: 'Total value in Canadian dollars' }));
-    sum.appendChild(big);
+    sum.appendChild(pfSignal(vals, total));
     const stats = el('div', { className: 'pf-stats' });
     const stat = (label, v, pct) => { const s = el('div', { className: 'pf-stat ' + (v > 0 ? 'up' : v < 0 ? 'down' : '') }); s.appendChild(el('div', { className: 'pf-stat-lbl', text: label })); s.appendChild(el('div', { className: 'pf-stat-val', text: (v > 0 ? '▲ ' : v < 0 ? '▼ ' : '') + pfSigned(v) + (pct != null ? '  (' + pfPct(pct) + ')' : '') })); stats.appendChild(s); };
     stat('Today', day, dayBase > 0 ? day / dayBase * 100 : 0);
@@ -2661,6 +2677,79 @@ function pfDraw() {
   mainPanel.appendChild(foot);
 }
 function fmtQty(n) { return n.toLocaleString('en-CA', { maximumFractionDigits: 8 }); }
+
+// ---------- Portfolio: "Signal bars" progress view ----------
+// One bar per week, like a signal-strength meter: what today's holdings were worth each week (weekly prices
+// from history.json / CoinGecko, walked back from today's value). Navy = up week, orange = down week.
+const PF_RANGES = [['1M', 4, 'past month'], ['3M', 13, 'past 3 months'], ['6M', 26, 'past 6 months'], ['1Y', 52, 'past year']];
+function pfSeries(vals) {
+  if (!PF.hist || !PF.hist.weeks) return null;
+  const n = PF.hist.weeks.length, out = new Array(n).fill(0); let covered = 0, tot = 0;
+  vals.forEach(({ h, v }) => {
+    const hs = h.type === 'cash' ? null : pfHistFor(h), r = hs && hs.r;
+    tot += v.value; if (r || h.type === 'cash') covered += v.value;
+    let p = v.value; out[n - 1] += p;
+    for (let i = n - 2; i >= 0; i--) {
+      const g = h.type === 'cash' ? Math.pow(1 + (h.rate || 0) / 100, 1 / 52) - 1 : (r && r[i] != null ? r[i] : 0);
+      p = p / (1 + g); out[i] += p;
+    }
+  });
+  return { dates: PF.hist.weeks, vals: out, coverage: tot ? covered / tot : 1 };
+}
+function pfSignal(vals, total) {
+  const box = el('div', { className: 'pf-signal' });
+  const big = el('div', { className: 'pf-total' });
+  const valEl = el('div', { className: 'pf-total-val', text: pfMoney(total) });
+  const chgEl = el('div', { className: 'pf-sig-chg', text: 'Total value in Canadian dollars' });
+  big.appendChild(valEl); big.appendChild(chgEl); box.appendChild(big);
+  const S = pfSeries(vals);
+  if (!S || total <= 0) return box;
+  const fmtD = d => new Date(d + 'T12:00:00').toLocaleDateString('en-CA', { month: 'short', day: 'numeric', year: 'numeric' });
+  const bars = el('div', { className: 'pf-sig-bars' }), axis = el('div', { className: 'pf-sig-axis' }), range = el('div', { className: 'pf-sig-range' });
+  box.appendChild(bars); box.appendChild(axis); box.appendChild(range);
+  let pts = [], rg = null;
+  const head = i => {
+    const a = pts[0].v, b = pts[i].v, d = b - a, now = i === pts.length - 1;
+    valEl.textContent = pfMoney(b);
+    chgEl.className = 'pf-sig-chg ' + (d > 0 ? 'up' : d < 0 ? 'down' : '');
+    chgEl.textContent = (d > 0 ? '▲ ' : d < 0 ? '▼ ' : '') + pfSigned(d) + ' (' + pfPct(a > 0 ? d / a * 100 : 0) + ') ' + (now ? rg[2] : 'by week of ' + pts[i].label);
+    [...bars.children].forEach((s, j) => { s.classList.toggle('after', j > i); s.classList.toggle('on', j === i && !now); });
+  };
+  const draw = animate => {
+    rg = PF_RANGES.find(r => r[0] === PF.range) || PF_RANGES[3];
+    const n = S.vals.length, start = Math.max(0, n - 1 - rg[1]);
+    pts = S.vals.slice(start).map((v, j) => ({ v, label: start + j === n - 1 ? 'Now' : fmtD(S.dates[start + j]), prev: start + j > 0 ? S.vals[start + j - 1] : null }));
+    const lo = Math.min(...pts.map(p => p.v)), hi = Math.max(...pts.map(p => p.v));
+    bars.innerHTML = ''; bars.classList.toggle('grow', !!animate);
+    bars.setAttribute('role', 'img'); bars.setAttribute('aria-label', 'Weekly value over the ' + rg[2] + ', from ' + pfMoney(pts[0].v) + ' to ' + pfMoney(total));
+    pts.forEach((p, j) => {
+      const s = el('span'); const d = p.prev == null ? 0 : p.v - p.prev;
+      s.className = (d > 0 ? 'up' : d < 0 ? 'down' : '') + (j === pts.length - 1 ? ' now' : '');
+      s.style.height = (hi - lo > 1e-6 ? 18 + 82 * (p.v - lo) / (hi - lo) : 60) + '%';
+      s.style.animationDelay = (j * Math.min(14, 500 / pts.length)).toFixed(0) + 'ms';
+      bars.appendChild(s);
+    });
+    axis.innerHTML = ''; axis.appendChild(el('span', { text: pts[0].label })); axis.appendChild(el('span', { text: 'Now' }));
+    [...range.children].forEach(c => c.classList.toggle('active', c.dataset.r === rg[0]));
+    head(pts.length - 1);
+  };
+  PF_RANGES.forEach(r => {
+    const c = el('button', { className: 'chip', text: r[0] }); c.type = 'button'; c.dataset.r = r[0];
+    c.onclick = () => { if (PF.range !== r[0]) { PF.range = r[0]; draw(true); } };
+    range.appendChild(c);
+  });
+  // Drag or hover across the bars to read any week, like scrubbing a chart.
+  const at = e => { const b = bars.getBoundingClientRect(); return Math.max(0, Math.min(pts.length - 1, Math.floor((e.clientX - b.left) / b.width * pts.length))); };
+  bars.addEventListener('pointermove', e => head(at(e)));
+  bars.addEventListener('pointerdown', e => head(at(e)));
+  const reset = () => head(pts.length - 1);
+  bars.addEventListener('pointerleave', reset); bars.addEventListener('pointerup', e => { if (e.pointerType !== 'mouse') reset(); }); bars.addEventListener('pointercancel', reset);
+  draw(!PF.sigShown); PF.sigShown = true;
+  const note = 'Each bar is one week: blue = up week, orange = down week. Drag across to see any week. Based on what you own today, as if you’d held it all year (weekly prices; U.S. holdings at today’s exchange rate).'
+    + (S.coverage < 0.999 ? ' Holdings without price history are held flat.' : '');
+  box.appendChild(el('p', { className: 'pf-sig-note', text: note }));
+  return box;
+}
 
 // ---------- Portfolio: "Why it moved" + "Indirect news" ----------
 // Built entirely in the browser from TDS's own data (headlines, government stories, index moves, Markets themes),
