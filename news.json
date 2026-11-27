@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:09 AM ET",
+  "generated_at": "Nov 27, 2026, 10:12 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795792167557,
+  "updated_ts": 1795792369539,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -241,6 +241,12 @@
       "ts": 1795792111000
     },
     {
+      "time": "10:07 AM",
+      "title": "Bloomberg — AI Can Level Playing Field for Travelers, Kelly Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-can-level-playing-field-for-travelers-kelly-says-video",
+      "ts": 1795792044000
+    },
+    {
       "time": "10:04 AM",
       "title": "MarketWatch — My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
       "url": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
@@ -299,12 +305,6 @@
       "title": "CNBC — German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
       "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
       "ts": 1795791160000
-    },
-    {
-      "time": "9:46 AM",
-      "title": "WSJ Markets — Tech Stocks Rise as Investors Take a Break From AI Jitters",
-      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
-      "ts": 1795790760000
     }
   ]
 }
