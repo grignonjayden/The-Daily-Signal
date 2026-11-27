@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 4:22 AM ET",
+  "generated_at": "Nov 27, 2026, 4:26 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795771371158,
+  "updated_ts": 1795771571195,
   "articles": [
     {
       "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
@@ -44,6 +44,16 @@
       "ts": 1795739460000
     },
     {
+      "title": "+32%, +28%, +20%: See the AI-picked stocks surging this week as Black Friday hits",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/32-28-20-see-the-aipicked-stocks-surging-this-week-as-black-friday-hits-5053164",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM1H1CM_1200_L.jpg",
+      "time": "Nov 27, 4:01 AM",
+      "coverage": 3,
+      "ts": 1795770104000
+    },
+    {
       "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-in-shortened-post-thanksgiving-trade-f0822039?mod=rss_markets_main",
@@ -65,17 +75,6 @@
       "ts": 1795764706000
     },
     {
-      "title": "AI Rally Faces Fresh Test: Nvidia Curbs & Trump Tariffs",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/insight-with-haslinda-amin-11-27-2026-video",
-      "snippet": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 2:15 AM",
-      "coverage": 3,
-      "ts": 1795763714000
-    },
-    {
       "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
@@ -86,6 +85,36 @@
       "ts": 1795763713000
     },
     {
+      "title": "Four Black Friday scams to watch for this shopping season",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
+      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
+      "time": "Nov 26, 1:33 PM",
+      "coverage": 4,
+      "ts": 1795718011000
+    },
+    {
+      "title": "Odd Lots: Weber’s Vision for an Affordability Agenda (Podcast)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/audio/2026-11-27/odd-lots-weber-s-vision-for-an-affordability-agenda-podcast",
+      "snippet": "The most important word in politics right now is affordability. It was a winning issue in the midterms for Democrats, and one of the reasons why people across Europe are out in the streets protesting: Food, housing,…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 4:00 AM",
+      "ts": 1795770000000
+    },
+    {
+      "title": "Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/vietnamese-partners-of-trump-organization-plan-trump-tower-in-hanoi-sources-say-5053107",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "time": "Nov 27, 4:18 AM",
+      "coverage": 2,
+      "ts": 1795771120000
+    },
+    {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-ottawa-cheap-canned-vegetables-import-tariffs-domestic-industry/",
@@ -93,34 +122,6 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
       "time": "Nov 26, 8:26 PM",
       "ts": 1795742782000
-    },
-    {
-      "title": "Four Black Friday scams to watch for this shopping season",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
-      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
-      "time": "Nov 26, 1:33 PM",
-      "coverage": 3,
-      "ts": 1795718011000
-    },
-    {
-      "title": "Why is Exosens stock surging today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-exosens-stock-surging-today-93CH-5053166",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "time": "Nov 27, 4:02 AM",
-      "ts": 1795770160000
-    },
-    {
-      "title": "Why is Ventura Offshore Holding stock sliding today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-ventura-offshore-holding-stock-sliding-today-93CH-5053165",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "time": "Nov 27, 4:02 AM",
-      "ts": 1795770126000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -233,10 +234,28 @@
   ],
   "ticker": [
     {
+      "time": "4:17 AM",
+      "title": "Investing.com — Dottikon ES shares rise 9% on strong first-half results",
+      "url": "https://www.investing.com/news/stock-market-news/dottikon-es-shares-rise-9-on-strong-firsthalf-results-93CH-5053176",
+      "ts": 1795771022000
+    },
+    {
       "time": "4:04 AM",
       "title": "WSJ Markets — Rising Oil Prices Could Weigh on Euro Versus Dollar",
       "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
       "ts": 1795770240000
+    },
+    {
+      "time": "4:02 AM",
+      "title": "Investing.com — Why is Exosens stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-exosens-stock-surging-today-93CH-5053166",
+      "ts": 1795770160000
+    },
+    {
+      "time": "4:02 AM",
+      "title": "Investing.com — Why is Ventura Offshore Holding stock sliding today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-ventura-offshore-holding-stock-sliding-today-93CH-5053165",
+      "ts": 1795770126000
     },
     {
       "time": "4:01 AM",
@@ -263,12 +282,6 @@
       "ts": 1795770008000
     },
     {
-      "time": "4:00 AM",
-      "title": "Bloomberg — Odd Lots: Weber’s Vision for an Affordability Agenda (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-11-27/odd-lots-weber-s-vision-for-an-affordability-agenda-podcast",
-      "ts": 1795770000000
-    },
-    {
       "time": "3:47 AM",
       "title": "Investing.com — Why is SMA Solar Technology stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-sma-solar-technology-stock-rallying-today-93CH-5053152",
@@ -287,22 +300,10 @@
       "ts": 1795768912000
     },
     {
-      "time": "3:38 AM",
-      "title": "Investing.com — Modivo Platform shares rise 5% on strong November sales",
-      "url": "https://www.investing.com/news/stock-market-news/modivo-platform-shares-rise-5-on-strong-november-sales-93CH-5053138",
-      "ts": 1795768707000
-    },
-    {
-      "time": "3:37 AM",
-      "title": "Investing.com — Why is 2Crsi stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-2crsi-stock-surging-today-93CH-5053137",
-      "ts": 1795768678000
-    },
-    {
       "time": "3:36 AM",
-      "title": "Investing.com — Why is Permanent TSB stock rising today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-permanent-tsb-stock-rising-today-93CH-5053136",
-      "ts": 1795768609000
+      "title": "Bloomberg — China Bank Bond Spreads Head for Biggest Jump in Over Two Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-bank-bond-spreads-head-for-biggest-jump-in-over-two-years",
+      "ts": 1795768576000
     }
   ]
 }
