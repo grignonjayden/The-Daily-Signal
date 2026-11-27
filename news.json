@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 1:21 PM ET",
+  "generated_at": "Nov 27, 2026, 1:25 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795803715437,
+  "updated_ts": 1795803917783,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -39,9 +39,19 @@
       "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
       "snippet": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
       "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "time": "Nov 27, 1:10 PM",
+      "time": "Nov 27, 1:24 PM",
       "coverage": 4,
-      "ts": 1795803010000
+      "ts": 1795803846000
+    },
+    {
+      "title": "Wall Street ends higher as AI stocks rebound, Nasdaq leads gains",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
+      "time": "Nov 27, 1:21 PM",
+      "coverage": 4,
+      "ts": 1795803662000
     },
     {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
@@ -64,6 +74,16 @@
       "ts": 1795802940000
     },
     {
+      "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FZ_L.jpg",
+      "time": "Nov 27, 1:06 PM",
+      "coverage": 3,
+      "ts": 1795802802000
+    },
+    {
       "title": "Black Friday 2026: Shoppers Try to Cut Back, Hunt for Deals",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/black-friday-2026-shoppers-cut-back-hunt-for-deals-video",
@@ -73,16 +93,6 @@
       "time": "Nov 27, 12:02 PM",
       "coverage": 3,
       "ts": 1795798944000
-    },
-    {
-      "title": "U.S. goods trade deficit widens again as AI-led imports hit record high",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-goods-trade-deficit-widens-again-as-ai-led-imports-hit-record-high/",
-      "snippet": "October deficit of more than 10% puts trade on track to weaken fourth-quarter GDP growth",
-      "image": "https://www.theglobeandmail.com/resizer/v2/CT5PGGE4PBCR7MXY543CUATEQQ.JPG?auth=cd3ed04600df9bd1d24f8e8834b4f22cf64a1d36fb5441b7cc061437385d156b&smart=true&width=7535&height=5026",
-      "time": "Nov 27, 11:45 AM",
-      "coverage": 3,
-      "ts": 1795797946000
     },
     {
       "title": "AI Tools Reshape the Black Friday Experience",
@@ -106,6 +116,16 @@
       "ts": 1795773600000
     },
     {
+      "title": "Canadians expected to spend less on Black Friday this year",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
+      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
+      "time": "Nov 27, 7:44 AM",
+      "coverage": 3,
+      "ts": 1795783448000
+    },
+    {
       "title": "European Stock Indexes Rise as Tech Rally Extends",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
@@ -115,26 +135,6 @@
       "time": "Nov 27, 3:32 AM",
       "coverage": 3,
       "ts": 1795768320000
-    },
-    {
-      "title": "European shares extend rise, but bruising November leaves AI scars",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
-      "time": "Nov 27, 12:26 PM",
-      "coverage": 2,
-      "ts": 1795800401000
-    },
-    {
-      "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.77%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-077-5053741",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LondonStockExchange_800x533_L_1616664780.jpg",
-      "time": "Nov 27, 12:08 PM",
-      "coverage": 2,
-      "ts": 1795799323000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -228,6 +228,12 @@
   ],
   "ticker": [
     {
+      "time": "1:22 PM",
+      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
+      "url": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-7ba86b3a?mod=rss_markets_main",
+      "ts": 1795803720000
+    },
+    {
       "time": "1:20 PM",
       "title": "CNBC — Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
       "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
@@ -270,6 +276,12 @@
       "ts": 1795800646000
     },
     {
+      "time": "12:26 PM",
+      "title": "Investing.com — European shares extend rise, but bruising November leaves AI scars",
+      "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
+      "ts": 1795800401000
+    },
+    {
       "time": "12:24 PM",
       "title": "Investing.com — European shares log strong weekly gains; markets await Spanish election",
       "url": "https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129",
@@ -286,18 +298,6 @@
       "title": "Globe and Mail — HOOPP names Shrirang Apte as chief investment officer as Wissell announces retirement",
       "url": "https://www.theglobeandmail.com/business/article-hoopp-names-shrirang-apte-cio-as-wissell-announces-retirement/",
       "ts": 1795800201000
-    },
-    {
-      "time": "12:12 PM",
-      "title": "WSJ Markets — Inside China’s $4 Billion Secondhand Luxury Boom",
-      "url": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=rss_markets_main",
-      "ts": 1795799520000
-    },
-    {
-      "time": "12:08 PM",
-      "title": "Investing.com — Spain stocks higher at close of trade; IBEX 35 up 1.72%",
-      "url": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-172-5053740",
-      "ts": 1795799299000
     }
   ]
 }
