@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 1:48 AM ET",
+  "generated_at": "Nov 27, 2026, 1:52 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795762120418,
+  "updated_ts": 1795762320733,
   "articles": [
     {
       "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -24,6 +24,16 @@
       "ts": 1795742100000
     },
     {
+      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "snippet": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556424-1795181552746-gettyimages-2294015150-aditya-notitle260910_npipj.jpeg?v=1795181613&w=1920&h=1080",
+      "time": "Nov 27, 1:50 AM",
+      "coverage": 2,
+      "ts": 1795762238000
+    },
+    {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
@@ -42,16 +52,6 @@
       "time": "Nov 27, 12:35 AM",
       "coverage": 3,
       "ts": 1795757703000
-    },
-    {
-      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "snippet": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "time": "Nov 26, 11:20 PM",
-      "coverage": 3,
-      "ts": 1795753255000
     },
     {
       "title": "New Zealand Dollar Gains as Traders Look Past Hung Parliament",
