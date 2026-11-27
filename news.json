@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 4:36 AM ET",
+  "generated_at": "Nov 27, 2026, 4:39 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795772171016,
+  "updated_ts": 1795772370514,
   "articles": [
     {
       "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
@@ -234,6 +234,12 @@
   ],
   "ticker": [
     {
+      "time": "4:34 AM",
+      "title": "WSJ Markets — Stock Futures Jump as AI Trade Set for Rebound",
+      "url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
+      "ts": 1795772040000
+    },
+    {
       "time": "4:17 AM",
       "title": "Investing.com — Dottikon ES shares rise 9% on strong first-half results",
       "url": "https://www.investing.com/news/stock-market-news/dottikon-es-shares-rise-9-on-strong-firsthalf-results-93CH-5053176",
@@ -298,12 +304,6 @@
       "title": "Investing.com — Why is Modivo stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-modivo-stock-rallying-today-93CH-5053149",
       "ts": 1795768912000
-    },
-    {
-      "time": "3:36 AM",
-      "title": "Bloomberg — China Bank Bond Spreads Head for Biggest Jump in Over Two Years",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-bank-bond-spreads-head-for-biggest-jump-in-over-two-years",
-      "ts": 1795768576000
     }
   ]
 }
