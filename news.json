@@ -1,18 +1,8 @@
 {
-  "generated_at": "Nov 27, 2026, 1:58 AM ET",
+  "generated_at": "Nov 27, 2026, 2:02 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795762721800,
+  "updated_ts": 1795762930757,
   "articles": [
-    {
-      "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
-      "time": "Nov 27, 1:21 AM",
-      "coverage": 4,
-      "ts": 1795760466000
-    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -20,8 +10,18 @@
       "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
       "image": "https://images.mktw.net/im-78896707",
       "time": "Nov 26, 8:15 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795742100000
+    },
+    {
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "image": "https://images.mktw.net/im-58425830",
+      "time": "Nov 26, 7:31 PM",
+      "coverage": 5,
+      "ts": 1795739460000
     },
     {
       "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
@@ -34,16 +34,6 @@
       "ts": 1795762238000
     },
     {
-      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-      "image": "https://images.mktw.net/im-58425830",
-      "time": "Nov 26, 7:31 PM",
-      "coverage": 4,
-      "ts": 1795739460000
-    },
-    {
       "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.80%",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-080-5052929",
@@ -52,6 +42,16 @@
       "time": "Nov 27, 12:35 AM",
       "coverage": 3,
       "ts": 1795757703000
+    },
+    {
+      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "snippet": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "time": "Nov 26, 11:20 PM",
+      "coverage": 3,
+      "ts": 1795753255000
     },
     {
       "title": "New Zealand Dollar Gains as Traders Look Past Hung Parliament",
@@ -74,6 +74,17 @@
       "ts": 1795698060000
     },
     {
+      "title": "Vietnam Expects to Sign US Trade Deal to Limit Tariff Hit",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/vietnam-expects-to-sign-us-trade-deal-to-limit-tariff-hit",
+      "snippet": "Vietnam expects to sign a trade deal with the US that will result in a significantly lower final tariff rate as the two countries inch closer to a reciprocal trade agreement.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 1:44 AM",
+      "coverage": 2,
+      "ts": 1795761865000
+    },
+    {
       "title": "Asian stocks rally as China shares surge on fresh market-support pledges",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-tech-rebound-easing-us-trade-concerns-lift-sentiment-5052839",
@@ -82,17 +93,6 @@
       "time": "Nov 27, 1:24 AM",
       "coverage": 2,
       "ts": 1795760674000
-    },
-    {
-      "title": "Will the Nvidia Saga Stunt Chinese AI?",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-tech-asia-11-27-2026-video",
-      "snippet": "Jensen Huang's shocking return to Nvidia has brought some relief to the AI trade, but the political fallout is already in motion and is set to tighten Chinese firms' access to advanced chips. Bloomberg Tech: Asia…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 1:10 AM",
-      "coverage": 2,
-      "ts": 1795759854000
     },
     {
       "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
@@ -234,6 +234,12 @@
   ],
   "ticker": [
     {
+      "time": "1:54 AM",
+      "title": "Bloomberg — FTSE 100 Live: UK Stocks Poised Join Global Stock Rebound",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-11-27/ftse-100-live-updates-pound-gilts-ai-stocks-treasuries-hsbc-copper-euro-what-s-moving-uk-markets-right-now-markets-today-mwymmeef",
+      "ts": 1795762491000
+    },
+    {
       "time": "1:36 AM",
       "title": "CNBC — German software major SAP weighs cutting at least 10,000 jobs in AI push: Bloomberg",
       "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
@@ -276,6 +282,12 @@
       "ts": 1795759954000
     },
     {
+      "time": "1:10 AM",
+      "title": "Bloomberg — Will the Nvidia Saga Stunt Chinese AI?",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-tech-asia-11-27-2026-video",
+      "ts": 1795759854000
+    },
+    {
       "time": "1:09 AM",
       "title": "CNBC — China’s factories are growing profits again, but the AI boom is picking the winners",
       "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
@@ -292,18 +304,6 @@
       "title": "WSJ Markets — Gold, Silver Rally as Market Sentiment Improves",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
       "ts": 1795759140000
-    },
-    {
-      "time": "12:56 AM",
-      "title": "Investing.com — Why is Waaree Renewable Technologies stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-waaree-renewable-technologies-stock-surging-today-93CH-5052953",
-      "ts": 1795759000000
-    },
-    {
-      "time": "12:55 AM",
-      "title": "Investing.com — Qantas set to award Boeing bulk of 20-jet order, Bloomberg reports",
-      "url": "https://www.investing.com/news/stock-market-news/qantas-set-to-award-boeing-bulk-of-20jet-order-bloomberg-reports-5052952",
-      "ts": 1795758923000
     }
   ]
 }
