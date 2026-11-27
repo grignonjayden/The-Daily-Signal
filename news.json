@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:22 PM ET",
+  "generated_at": "Nov 26, 2026, 7:26 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795738965470,
+  "updated_ts": 1795739165218,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -54,6 +54,16 @@
       "ts": 1795735907000
     },
     {
+      "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+      "snippet": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108356338-1788181104655-gettyimages-667735328-_mg_5102.jpeg?v=1788181165&w=1920&h=1080",
+      "time": "Nov 26, 7:22 PM",
+      "coverage": 3,
+      "ts": 1795738949000
+    },
+    {
       "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
@@ -72,16 +82,6 @@
       "time": "Nov 26, 8:01 AM",
       "coverage": 4,
       "ts": 1795698060000
-    },
-    {
-      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-      "snippet": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108405958-1791937428704-gettyimages-2299263032-AFP_D2XV29Y.jpeg?v=1791937445&w=1920&h=1080",
-      "time": "Nov 26, 7:46 AM",
-      "coverage": 4,
-      "ts": 1795697215000
     },
     {
       "title": "Musk pledges two SpaceX shares for every U.S. child in $18-billion AI charm offensive",
@@ -105,14 +105,14 @@
       "ts": 1795723215000
     },
     {
-      "title": "Ukrainian investment office urges Canadian companies to invest in energy sector after Russian attacks",
+      "title": "Four Black Friday scams to watch for this shopping season",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-ukrainian-investment-office-urges-canadian-companies-to-invest-in/",
-      "snippet": "Attacks have damaged generation capacity, and weakened the power grid and gas infrastructure ahead of winter",
-      "image": "https://www.theglobeandmail.com/resizer/v2/RIMPFOBC6VE5TJWGSD72K7V6OA.JPG?auth=6387f5b0d7f981f57e0c15d2bbb4694c280fc57d952cb4601dc7a64a8d5872f1&smart=true&width=7567&height=5044",
-      "time": "Nov 26, 1:14 PM",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
+      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
+      "time": "Nov 26, 1:33 PM",
       "coverage": 3,
-      "ts": 1795716873000
+      "ts": 1795718011000
     },
     {
       "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
@@ -255,10 +255,22 @@
       "ts": 1795738556000
     },
     {
+      "time": "7:15 PM",
+      "title": "Investing.com — Samsung, SK Hynix adopt China’s YMTC memory technology, Nikkei reports",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-sk-hynix-adopt-chinas-ymtc-memory-technology-nikkei-reports-5052784",
+      "ts": 1795738553000
+    },
+    {
       "time": "7:11 PM",
       "title": "WSJ Markets — Gold Fortunes Tied to Stocks in Near Term",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
       "ts": 1795738260000
+    },
+    {
+      "time": "7:06 PM",
+      "title": "Investing.com — Cautious consumers gear up for Black Friday as inflation woes bite",
+      "url": "https://www.investing.com/news/stock-market-news/cautious-consumers-gear-up-for-black-friday-as-inflation-woes-bite-5052778",
+      "ts": 1795737997000
     },
     {
       "time": "6:54 PM",
@@ -295,18 +307,6 @@
       "title": "Investing.com — Brazil’s Embraer criticizes new US tariffs, warns of air travel inflation",
       "url": "https://www.investing.com/news/stock-market-news/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-5052544",
       "ts": 1795734022000
-    },
-    {
-      "time": "6:00 PM",
-      "title": "Bloomberg — Euro Set for Biggest Drop in Two Decades Against Yuan This Year",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/euro-set-for-biggest-drop-in-two-decades-against-yuan-this-year",
-      "ts": 1795734000000
-    },
-    {
-      "time": "6:00 PM",
-      "title": "Bloomberg — Bankers Pay Up for Hong Kong Apartments as Rents Hit New Highs",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/bankers-pay-up-for-hong-kong-apartments-as-rents-hit-new-highs",
-      "ts": 1795734000000
     }
   ]
 }
