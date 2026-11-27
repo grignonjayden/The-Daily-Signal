@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 6:33 AM ET",
+  "generated_at": "Nov 27, 2026, 6:36 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795779192840,
+  "updated_ts": 1795779392737,
   "articles": [
     {
       "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -241,6 +241,12 @@
       "ts": 1795778840000
     },
     {
+      "time": "6:25 AM",
+      "title": "Bloomberg — Fidelidade Said to Aim for Lisbon IPO From Second Half of 2027",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/fidelidade-said-to-aim-for-lisbon-ipo-from-second-half-of-2027",
+      "ts": 1795778727000
+    },
+    {
       "time": "6:24 AM",
       "title": "Globe and Mail — Business Brief: Will Canada seize the Montney opportunity?",
       "url": "https://www.theglobeandmail.com/business/article-business-brief-will-canada-seize-the-montney-opportunity/",
@@ -298,12 +304,6 @@
       "time": "5:49 AM",
       "title": "MarketWatch — SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
       "url": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
-      "ts": 1795776540000
-    },
-    {
-      "time": "5:49 AM",
-      "title": "WSJ Markets — ECB Leadership Change Has No Material Impact on Euro",
-      "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
       "ts": 1795776540000
     }
   ]
