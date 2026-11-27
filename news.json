@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:43 AM ET",
+  "generated_at": "Nov 27, 2026, 10:46 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795794197734,
+  "updated_ts": 1795794396940,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -10,8 +10,18 @@
       "snippet": "Jensen Huang&apos;s return as Nvidia CEO just 11 days after resigning spotlights &quot;key-man risk&quot; and what experts call a lack of succession planning at Big Tech.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/former-nvidia-ceo-jensen-huang-statement.jpg",
       "time": "Nov 27, 10:06 AM",
-      "coverage": 6,
+      "coverage": 7,
       "ts": 1795791993000
+    },
+    {
+      "title": "Wall Street rallies as tech stocks rebound, putting indexes on course for big week",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
+      "time": "Nov 27, 10:41 AM",
+      "coverage": 5,
+      "ts": 1795794080000
     },
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -34,6 +44,26 @@
       "ts": 1795780822000
     },
     {
+      "title": "Target stock technicals amid Black Friday",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/target-stock-technicals-amid-black-friday-93CH-5053643",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEJ4G0GB_L.jpg",
+      "time": "Nov 27, 10:25 AM",
+      "coverage": 4,
+      "ts": 1795793158000
+    },
+    {
+      "title": "Top 10 things to watch in the stock market on Black Friday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
+      "snippet": "Stocks are on pace for a record Black Friday as Anthropic tries to regain its IPO price.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108556478-1795186653493-108556478-1795186592615-gettyimages-2305474808-US_STOCKS.jpg?v=1795186665&w=1920&h=1080",
+      "time": "Nov 27, 10:08 AM",
+      "coverage": 4,
+      "ts": 1795792111000
+    },
+    {
       "title": "As the AI Storm Rages, Are UK and Europe Markets a Haven For Investors? Live Q&A",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/sessions/2026-12-01/live-q-amp-a-are-uk-and-european-markets-a-haven-from-the-ai-storm",
@@ -45,24 +75,24 @@
       "ts": 1795786554000
     },
     {
-      "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "snippet": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "time": "Nov 27, 5:20 AM",
-      "coverage": 4,
-      "ts": 1795774839000
-    },
-    {
       "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
       "snippet": "Sales of newly built homes surged to the highest level of the year in October, as home builders offered aggressive discounts to buyers.",
       "image": "https://images.mktw.net/im-829639",
       "time": "Nov 27, 8:22 AM",
-      "coverage": 3,
+      "coverage": 4,
       "ts": 1795785720000
+    },
+    {
+      "title": "Canadians expected to spend less on Black Friday this year",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
+      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
+      "time": "Nov 27, 7:44 AM",
+      "coverage": 4,
+      "ts": 1795783448000
     },
     {
       "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
@@ -75,16 +105,6 @@
       "ts": 1795773600000
     },
     {
-      "title": "Canadians expected to spend less on Black Friday this year",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
-      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
-      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
-      "time": "Nov 27, 7:44 AM",
-      "coverage": 3,
-      "ts": 1795783448000
-    },
-    {
       "title": "US Storm Triggers East Coast Power Outages",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/us-storm-triggers-east-coast-power-outages-video",
@@ -95,14 +115,15 @@
       "ts": 1795790830000
     },
     {
-      "title": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.23%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-023-5053621",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM2I1CG_1200_L.jpg",
-      "time": "Nov 27, 10:10 AM",
-      "coverage": 2,
-      "ts": 1795792203000
+      "title": "European Stock Indexes Rise as Tech Rally Extends",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
+      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 3:32 AM",
+      "coverage": 3,
+      "ts": 1795768320000
     },
     {
       "title": "Oil Futures Mixed in Shortened U.S. Trading Day",
@@ -113,25 +134,6 @@
       "time": "Nov 27, 9:54 AM",
       "coverage": 2,
       "ts": 1795791240000
-    },
-    {
-      "title": "Tech Stocks Rise as Investors Take a Break From AI Jitters",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
-      "snippet": "Shares rebounded at the start of a shorter trading session, with all three major indexes poised to end the week strong.",
-      "image": "https://images.wsj.net/im-22450552",
-      "time": "Nov 27, 9:46 AM",
-      "coverage": 2,
-      "ts": 1795790760000
-    },
-    {
-      "title": "Why is Palantir Technologies stock rallying today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-rallying-today-93CH-5053635",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEGB61KW-OCATC_L.jpg",
-      "time": "Nov 27, 10:20 AM",
-      "ts": 1795792836000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -235,10 +237,34 @@
   ],
   "ticker": [
     {
-      "time": "10:30 AM",
-      "title": "CNBC — Dow rallies 300 points as benchmark heads for best week since April 2025: Live updates",
+      "time": "10:44 AM",
+      "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795793450000
+      "ts": 1795794277000
+    },
+    {
+      "time": "10:36 AM",
+      "title": "Investing.com — US stocks set for weekly advance as battered AI shares hold their ground",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+      "ts": 1795793778000
+    },
+    {
+      "time": "10:34 AM",
+      "title": "Investing.com — Vertex shares drop after FDA delays kidney drug decision",
+      "url": "https://www.investing.com/news/stock-market-news/vertex-shares-drop-after-fda-delays-kidney-drug-decision-5053654",
+      "ts": 1795793690000
+    },
+    {
+      "time": "10:31 AM",
+      "title": "Investing.com — Anthropic, Tesla among market cap stock movers on Friday",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-tesla-among-market-cap-stock-movers-on-friday-93CH-5053652",
+      "ts": 1795793506000
+    },
+    {
+      "time": "10:30 AM",
+      "title": "Investing.com — Turkey stocks higher at close of trade; BIST 100 up 2.18%",
+      "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-218-5053646",
+      "ts": 1795793403000
     },
     {
       "time": "10:30 AM",
@@ -253,58 +279,34 @@
       "ts": 1795793400000
     },
     {
+      "time": "10:24 AM",
+      "title": "Investing.com — Amazon technical outlook amid Black Friday shopping",
+      "url": "https://www.investing.com/news/stock-market-news/amazon-technical-outlook-amid-black-friday-shopping-93CH-5053640",
+      "ts": 1795793068000
+    },
+    {
+      "time": "10:23 AM",
+      "title": "Investing.com — Goldman Sachs Names Top China Humanoid Robotics Stocks to Watch",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-china-humanoid-robotics-stocks-to-watch-5053639",
+      "ts": 1795793027000
+    },
+    {
+      "time": "10:22 AM",
+      "title": "Investing.com — Walmart technical outlook amid Black Friday",
+      "url": "https://www.investing.com/news/stock-market-news/walmart-technical-outlook-amid-black-friday-93CH-5053637",
+      "ts": 1795792976000
+    },
+    {
       "time": "10:20 AM",
       "title": "Globe and Mail — Ottawa rejects call to relieve Canadian automakers of greenhouse gas rules",
       "url": "https://www.theglobeandmail.com/business/article-ottawa-rejects-call-canadian-automakers-greenhouse-gas-rules/",
       "ts": 1795792855000
     },
     {
-      "time": "10:18 AM",
-      "title": "CNBC — This week’s bounce following a rapid correction may not hold, history shows",
-      "url": "https://www.cnbc.com/2026/11/27/this-weeks-bounce-following-a-rapid-correction-may-not-hold-history-shows.html",
-      "ts": 1795792692000
-    },
-    {
-      "time": "10:17 AM",
-      "title": "Investing.com — Why is Tesla stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-climbing-today-93CH-5053632",
-      "ts": 1795792664000
-    },
-    {
-      "time": "10:15 AM",
-      "title": "Investing.com — Why is Micron Technology stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-rallying-today-93CH-5053631",
-      "ts": 1795792552000
-    },
-    {
-      "time": "10:13 AM",
-      "title": "Investing.com — Why is Dell Technologies stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-surging-today-93CH-5053627",
-      "ts": 1795792434000
-    },
-    {
-      "time": "10:12 AM",
-      "title": "Investing.com — Why is Western Digital stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-rallying-today-93CH-5053625",
-      "ts": 1795792321000
-    },
-    {
-      "time": "10:10 AM",
-      "title": "Investing.com — Why is Alibaba ADR stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-alibaba-adr-stock-rallying-today-93CH-5053622",
-      "ts": 1795792207000
-    },
-    {
-      "time": "10:08 AM",
-      "title": "CNBC — Top 10 things to watch in the stock market on Black Friday",
-      "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
-      "ts": 1795792111000
-    },
-    {
-      "time": "10:07 AM",
-      "title": "Bloomberg — AI Can Level Playing Field for Travelers, Kelly Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-can-level-playing-field-for-travelers-kelly-says-video",
-      "ts": 1795792044000
+      "time": "10:20 AM",
+      "title": "Investing.com — Why is Palantir Technologies stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-rallying-today-93CH-5053635",
+      "ts": 1795792836000
     }
   ]
 }
