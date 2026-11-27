@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 11:34 AM ET",
+  "generated_at": "Nov 27, 2026, 11:37 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795797252474,
+  "updated_ts": 1795797452538,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -266,6 +266,12 @@
       "ts": 1795795690000
     },
     {
+      "time": "11:07 AM",
+      "title": "Bloomberg — Altice International, Creditors Discuss Debt Cut of About 40%",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/altice-international-creditors-discuss-debt-cut-of-about-40",
+      "ts": 1795795647000
+    },
+    {
       "time": "11:02 AM",
       "title": "CNBC — Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
       "url": "https://www.cnbc.com/2026/11/27/josh-brown-lost-a-bet-on-disney-it-is-now-on-his-best-stocks-in-the-market-list.html",
@@ -300,12 +306,6 @@
       "title": "Bloomberg — The Big Pressures Facing the Fed",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/the-big-pressures-facing-the-fed",
       "ts": 1795794806000
-    },
-    {
-      "time": "10:52 AM",
-      "title": "CNBC — Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
-      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "ts": 1795794720000
     }
   ]
 }
