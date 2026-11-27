@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:02 PM ET",
+  "generated_at": "Nov 26, 2026, 7:05 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795737753102,
+  "updated_ts": 1795737957059,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -34,6 +34,16 @@
       "ts": 1795707000000
     },
     {
+      "title": "U.S. stock futures rise in holiday-thinned trade; tech rebound in focus",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
+      "time": "Nov 26, 7:01 PM",
+      "coverage": 4,
+      "ts": 1795737682000
+    },
+    {
       "title": "Musk says he will donate another SpaceX share to American kids annually",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/musk-says-he-will-donate-another-spacex-share-to-american-kids-annually-5052757",
@@ -54,6 +64,16 @@
       "ts": 1795698060000
     },
     {
+      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "snippet": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108405958-1791937428704-gettyimages-2299263032-AFP_D2XV29Y.jpeg?v=1791937445&w=1920&h=1080",
+      "time": "Nov 26, 7:46 AM",
+      "coverage": 4,
+      "ts": 1795697215000
+    },
+    {
       "title": "Musk pledges two SpaceX shares for every U.S. child in $18-billion AI charm offensive",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/article-musk-pledges-two-spacex-shares-for-every-us-child-in-18-billion-ai/",
@@ -62,26 +82,6 @@
       "time": "Nov 26, 7:37 AM",
       "coverage": 4,
       "ts": 1795696629000
-    },
-    {
-      "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.72%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-072-5052724",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEL3D0QK_L.jpg",
-      "time": "Nov 26, 4:30 PM",
-      "coverage": 3,
-      "ts": 1795728604000
-    },
-    {
-      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
-      "snippet": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559274-1795616819098-gettyimages-2306584360-vcg111684383907.jpeg?v=1795616838&w=1920&h=1080",
-      "time": "Nov 25, 10:19 PM",
-      "coverage": 5,
-      "ts": 1795663184000
     },
     {
       "title": "Ford CEO on Le Mans, New Electric Pickup and Trade Talks",
@@ -237,10 +237,10 @@
   ],
   "ticker": [
     {
-      "time": "6:42 PM",
+      "time": "6:54 PM",
       "title": "Investing.com — Bradesco chairman Trabuco agrees to become Brazil’s finance minister",
       "url": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
-      "ts": 1795736539000
+      "ts": 1795737259000
     },
     {
       "time": "6:41 PM",
