@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:06 AM ET",
+  "generated_at": "Nov 27, 2026, 10:09 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795791966484,
+  "updated_ts": 1795792167557,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -32,16 +32,6 @@
       "time": "Nov 27, 5:20 AM",
       "coverage": 4,
       "ts": 1795774839000
-    },
-    {
-      "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
-      "snippet": "Shares rebounded at the start of a shorter trading session, with all three major indexes poised to end the week strong.",
-      "image": "https://images.wsj.net/im-22450552",
-      "time": "Nov 27, 9:46 AM",
-      "coverage": 3,
-      "ts": 1795790760000
     },
     {
       "title": "As the AI Storm Rages, Are UK and Europe Markets a Haven For Investors? Live Q&A",
@@ -113,6 +103,16 @@
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP0AK_L.jpg",
       "time": "Nov 27, 9:18 AM",
       "ts": 1795789134000
+    },
+    {
+      "title": "Oil Futures Mixed in Shortened U.S. Trading Day",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "snippet": "Crude futures were mixed in light U.S. Black Friday trading with the market watching shipping risks in the Middle East and awaiting Sunday’s meeting of OPEC and its allies to discuss output policy for 2027.",
+      "image": "https://images.wsj.net/im-48078726",
+      "time": "Nov 27, 9:54 AM",
+      "coverage": 2,
+      "ts": 1795791240000
     },
     {
       "title": "European shares extend rally, but bruising November leaves AI scars",
@@ -235,16 +235,16 @@
   ],
   "ticker": [
     {
+      "time": "10:08 AM",
+      "title": "CNBC — Top 10 things to watch in the stock market on Black Friday",
+      "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
+      "ts": 1795792111000
+    },
+    {
       "time": "10:04 AM",
       "title": "MarketWatch — My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
       "url": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
       "ts": 1795791840000
-    },
-    {
-      "time": "10:02 AM",
-      "title": "CNBC — Top 10 things to watch in the stock market on Black Friday",
-      "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
-      "ts": 1795791724000
     },
     {
       "time": "10:01 AM",
@@ -295,16 +295,16 @@
       "ts": 1795791265000
     },
     {
-      "time": "9:54 AM",
-      "title": "WSJ Markets — Oil Futures Mixed in Shortened U.S. Trading Day",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
-      "ts": 1795791240000
-    },
-    {
       "time": "9:52 AM",
       "title": "CNBC — German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
       "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
       "ts": 1795791160000
+    },
+    {
+      "time": "9:46 AM",
+      "title": "WSJ Markets — Tech Stocks Rise as Investors Take a Break From AI Jitters",
+      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "ts": 1795790760000
     }
   ]
 }
