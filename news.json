@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 11:57 AM ET",
+  "generated_at": "Nov 27, 2026, 12:01 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795798657368,
+  "updated_ts": 1795798865345,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -52,6 +52,16 @@
       "time": "Nov 27, 5:20 AM",
       "coverage": 5,
       "ts": 1795774839000
+    },
+    {
+      "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "snippet": "Shares are rebounding in a shortened trading session, with all three major indexes poised to end the week strong.",
+      "image": "https://images.wsj.net/im-22450552",
+      "time": "Nov 27, 11:55 AM",
+      "coverage": 3,
+      "ts": 1795798500000
     },
     {
       "title": "U.S. goods trade deficit widens again as AI-led imports hit record high",
@@ -114,16 +124,6 @@
       "time": "Nov 27, 3:32 AM",
       "coverage": 3,
       "ts": 1795768320000
-    },
-    {
-      "title": "Tech Stocks Rise as Investors Take a Break From AI Jitters",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
-      "snippet": "Shares are rebounding in a shortened trading session, with all three major indexes poised to end the week strong.",
-      "image": "https://images.wsj.net/im-22450552",
-      "time": "Nov 27, 11:55 AM",
-      "coverage": 2,
-      "ts": 1795798500000
     },
     {
       "title": "Poland stocks higher at close of trade; WIG30 up 1.16%",
@@ -237,22 +237,28 @@
   ],
   "ticker": [
     {
+      "time": "11:57 AM",
+      "title": "CNBC — Stocks making the biggest moves Friday: XP, Newmont, Sandisk & more",
+      "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
+      "ts": 1795798624000
+    },
+    {
       "time": "11:55 AM",
       "title": "CNBC — Dow rallies 600 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
       "ts": 1795798550000
     },
     {
-      "time": "11:50 AM",
-      "title": "CNBC — Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
-      "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795798254000
-    },
-    {
       "time": "11:49 AM",
       "title": "CNBC — Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
       "url": "https://www.cnbc.com/2026/11/27/josh-brown-lost-a-bet-on-disney-it-is-now-on-his-best-stocks-in-the-market-list.html",
       "ts": 1795798175000
+    },
+    {
+      "time": "11:49 AM",
+      "title": "Bloomberg — Anthropic Shares Jump After Volatile Week Since IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
+      "ts": 1795798148000
     },
     {
       "time": "11:43 AM",
@@ -301,12 +307,6 @@
       "title": "Bloomberg — Anterix Could Be SpaceX’s Next Deal for Mobile Network Access",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/anterix-could-be-spacex-s-next-deal-for-mobile-network-access",
       "ts": 1795795126000
-    },
-    {
-      "time": "10:55 AM",
-      "title": "Investing.com — Norway stocks higher at close of trade; Oslo OBX up 0.80%",
-      "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-080-5053675",
-      "ts": 1795794928000
     }
   ]
 }
