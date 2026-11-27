@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 4:12 PM ET",
+  "generated_at": "Nov 27, 2026, 4:16 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795813970826,
+  "updated_ts": 1795814170527,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -228,6 +228,12 @@
   ],
   "ticker": [
     {
+      "time": "4:10 PM",
+      "title": "WSJ Markets — Treasury Yields Gain As U.S. Equities Rally",
+      "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+      "ts": 1795813800000
+    },
+    {
       "time": "4:08 PM",
       "title": "Globe and Mail — Pitching in: Ontario couple gives $1-million to help build an animal shelter",
       "url": "https://www.theglobeandmail.com/business/article-pitching-in-ontario-couple-gives-1-million-build-animal-shelter/",
@@ -238,12 +244,6 @@
       "title": "Bloomberg — Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
       "ts": 1795813505000
-    },
-    {
-      "time": "3:57 PM",
-      "title": "WSJ Markets — Treasury Yields Rise on Higher Rate Expectations",
-      "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
-      "ts": 1795813020000
     },
     {
       "time": "3:52 PM",
