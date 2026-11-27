@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 8:47 AM ET",
+  "generated_at": "Nov 27, 2026, 8:51 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795787263250,
+  "updated_ts": 1795787464164,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -107,6 +107,15 @@
       "ts": 1795768320000
     },
     {
+      "title": "Why is Antofagasta stock rallying today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-antofagasta-stock-rallying-today-93CH-5053531",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "time": "Nov 27, 8:41 AM",
+      "ts": 1795786887000
+    },
+    {
       "title": "Ontario’s mortgage arrears rate nears 2008 levels, the Home of the Week and more top real estate stories",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-mortgage-delinquency-rates-ontario-canada-real-estate-news-november-27/",
@@ -115,16 +124,6 @@
       "time": "Nov 27, 8:30 AM",
       "coverage": 2,
       "ts": 1795786200000
-    },
-    {
-      "title": "Norse Atlantic Airways files for bankruptcy in Norway",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-airways-files-for-bankruptcy-in-norway-5053483",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEA6F0JM_M.jpg",
-      "time": "Nov 27, 8:10 AM",
-      "coverage": 2,
-      "ts": 1795785033000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -237,16 +236,52 @@
   ],
   "ticker": [
     {
+      "time": "8:46 AM",
+      "title": "WSJ Markets — Stock Futures Jump as AI Trade Set for Rebound",
+      "url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
+      "ts": 1795787160000
+    },
+    {
       "time": "8:45 AM",
       "title": "MarketWatch — Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
       "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
       "ts": 1795787100000
     },
     {
+      "time": "8:42 AM",
+      "title": "Investing.com — Why is Glencore stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-glencore-stock-rallying-today-93CH-5053532",
+      "ts": 1795786925000
+    },
+    {
       "time": "8:38 AM",
       "title": "Globe and Mail — Corus reports $59.4-million loss as revenue falls in fourth quarter",
       "url": "https://www.theglobeandmail.com/business/article-corus-results-fourth-quarter-2026/",
       "ts": 1795786712000
+    },
+    {
+      "time": "8:37 AM",
+      "title": "Investing.com — Why is Fresnillo stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-fresnillo-stock-rallying-today-93CH-5053527",
+      "ts": 1795786635000
+    },
+    {
+      "time": "8:36 AM",
+      "title": "Investing.com — Why is Entain stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-entain-stock-rallying-today-93CH-5053525",
+      "ts": 1795786605000
+    },
+    {
+      "time": "8:36 AM",
+      "title": "Investing.com — Factbox-Airlines strained by Iran-war fuel price shock",
+      "url": "https://www.investing.com/news/stock-market-news/factboxairlines-strained-by-iranwar-fuel-price-shock-5053523",
+      "ts": 1795786566000
+    },
+    {
+      "time": "8:36 AM",
+      "title": "Bloomberg — Poland Warns on Tech Debt Flood Before 2027 Eurobond Sales",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-warns-on-tech-debt-flood-before-2027-eurobond-sales",
+      "ts": 1795786563000
     },
     {
       "time": "8:32 AM",
@@ -268,45 +303,9 @@
     },
     {
       "time": "8:30 AM",
-      "title": "MarketWatch — Renters are now a national political constituency that can influence elections",
-      "url": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
-      "ts": 1795786200000
-    },
-    {
-      "time": "8:26 AM",
-      "title": "Investing.com — FTSE 100 today: Stocks rise as miners lead on metals rebound; Entain leads gains",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108",
-      "ts": 1795785968000
-    },
-    {
-      "time": "8:23 AM",
-      "title": "CNBC — Hackers breach U.S. Air Force flagship Cloud One computing platform",
-      "url": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html",
-      "ts": 1795785781000
-    },
-    {
-      "time": "8:21 AM",
-      "title": "CNBC — The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-      "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
-      "ts": 1795785716000
-    },
-    {
-      "time": "8:17 AM",
-      "title": "Globe and Mail — Binance withdrawals fully reopen after crypto platform completes recovery work",
-      "url": "https://www.theglobeandmail.com/business/article-binance-withdrawals-reopen-after-crypto-platform-completes-recovery/",
-      "ts": 1795785453000
-    },
-    {
-      "time": "8:15 AM",
-      "title": "CNBC — New car prices are at a record high. Here's where to look for deals",
-      "url": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
-      "ts": 1795785301000
-    },
-    {
-      "time": "8:13 AM",
-      "title": "Bloomberg — El Niño, Flooding Put Squeeze on South African Fruit Producers",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/el-nino-flooding-put-squeeze-on-south-african-fruit-producers",
-      "ts": 1795785220000
+      "title": "Investing.com — 3 beaten-down luxury stocks to buy right now, according to UBS",
+      "url": "https://www.investing.com/news/stock-market-news/3-beatendown-luxury-stocks-to-buy-right-now-according-to-ubs-5053506",
+      "ts": 1795786201000
     }
   ]
 }
