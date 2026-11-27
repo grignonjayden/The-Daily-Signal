@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:13 PM ET",
+  "generated_at": "Nov 26, 2026, 9:16 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795745609078,
+  "updated_ts": 1795745807949,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -235,6 +235,12 @@
   ],
   "ticker": [
     {
+      "time": "9:13 PM",
+      "title": "WSJ Markets — Asian Markets Mostly Higher as Sentiment Stabilizes",
+      "url": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
+      "ts": 1795745580000
+    },
+    {
       "time": "9:04 PM",
       "title": "CNBC — China industrial profits growth surges to a 5-month high of 20.1% in October",
       "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
@@ -299,12 +305,6 @@
       "title": "Bloomberg — Modi Critics Face Growing Constraints on Travel, Speech in India",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/modi-critics-face-growing-constraints-on-travel-speech-in-india",
       "ts": 1795741200000
-    },
-    {
-      "time": "7:50 PM",
-      "title": "Bloomberg — Singapore Wealth Firm Farro Plans Hong Kong Office With 20 Hires",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-wealth-firm-farro-plans-hong-kong-office-with-20-hires",
-      "ts": 1795740640000
     }
   ]
 }
