@@ -1,16 +1,16 @@
 {
-  "generated_at": "Nov 27, 2026, 10:16 AM ET",
+  "generated_at": "Nov 27, 2026, 10:19 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795792570857,
+  "updated_ts": 1795792789847,
   "articles": [
     {
-      "title": "Are tech founders 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
+      "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/tech-founders-too-big-fail-jensen-huangs-nvidia-return-sparks-debate",
       "snippet": "Jensen Huang&apos;s return as Nvidia CEO just 11 days after resigning spotlights &quot;key-man risk&quot; and what experts call a lack of succession planning at Big Tech.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/former-nvidia-ceo-jensen-huang-statement.jpg",
       "time": "Nov 27, 10:06 AM",
-      "coverage": 5,
+      "coverage": 6,
       "ts": 1795791993000
     },
     {
@@ -34,6 +34,17 @@
       "ts": 1795780822000
     },
     {
+      "title": "As the AI Storm Rages, Are UK and Europe Markets a Haven For Investors? Live Q&A",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/sessions/2026-12-01/live-q-amp-a-are-uk-and-european-markets-a-haven-from-the-ai-storm",
+      "snippet": "Bloomberg reporters take your questions about UK and European markets in a Live Q&A on Tuesday, December 1 at 1 p.m. GMT",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 8:35 AM",
+      "coverage": 4,
+      "ts": 1795786554000
+    },
+    {
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
@@ -42,17 +53,6 @@
       "time": "Nov 27, 5:20 AM",
       "coverage": 4,
       "ts": 1795774839000
-    },
-    {
-      "title": "As the AI Storm Rages, Are UK and Europe Markets a Haven For Investors? Live Q&A",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/sessions/2026-12-01/live-q-amp-a-are-uk-and-european-markets-a-haven-from-the-ai-storm",
-      "snippet": "Bloomberg reporters take your questions about UK and European markets in a Live Q&A on Tuesday, December 1 at 1 p.m. GMT",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 8:35 AM",
-      "coverage": 3,
-      "ts": 1795786554000
     },
     {
       "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "10:18 AM",
+      "title": "CNBC — This week’s bounce following a rapid correction may not hold, history shows",
+      "url": "https://www.cnbc.com/2026/11/27/this-weeks-bounce-following-a-rapid-correction-may-not-hold-history-shows.html",
+      "ts": 1795792692000
+    },
+    {
       "time": "10:08 AM",
       "title": "CNBC — Top 10 things to watch in the stock market on Black Friday",
       "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
@@ -252,12 +258,6 @@
       "title": "MarketWatch — My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
       "url": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
       "ts": 1795791840000
-    },
-    {
-      "time": "10:03 AM",
-      "title": "Bloomberg — No Quick Legal Relief for Patriarch in Lawsuit Against Tata Sons",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/no-quick-legal-relief-for-patriarch-in-lawsuit-against-tata-sons",
-      "ts": 1795791796000
     },
     {
       "time": "10:01 AM",
