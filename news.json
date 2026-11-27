@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 6:16 AM ET",
+  "generated_at": "Nov 27, 2026, 6:19 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795778192887,
+  "updated_ts": 1795778391762,
   "articles": [
     {
       "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -34,6 +34,16 @@
       "ts": 1795774839000
     },
     {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 27, 6:15 AM",
+      "coverage": 4,
+      "ts": 1795778100000
+    },
+    {
       "title": "European Stock Indexes Rise as Tech Rally Extends",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
@@ -63,16 +73,6 @@
       "time": "Nov 27, 5:36 AM",
       "coverage": 3,
       "ts": 1795775780000
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 26, 8:15 PM",
-      "coverage": 4,
-      "ts": 1795742100000
     },
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -235,6 +235,12 @@
   ],
   "ticker": [
     {
+      "time": "6:16 AM",
+      "title": "Bloomberg — Stock Bulls Stir Again After Weeks of AI Anxiety",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/stock-bulls-stir-again-after-weeks-of-ai-anxiety",
+      "ts": 1795778197000
+    },
+    {
       "time": "6:00 AM",
       "title": "CNBC — Inflation has shoppers hunting for value. That bodes well for Black Friday",
       "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
@@ -299,12 +305,6 @@
       "title": "Investing.com — Why is Advanced Micro Devices stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-5053275",
       "ts": 1795775894000
-    },
-    {
-      "time": "5:37 AM",
-      "title": "MarketWatch — This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
-      "url": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
-      "ts": 1795775820000
     }
   ]
 }
