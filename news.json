@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 7:16 AM ET",
+  "generated_at": "Nov 27, 2026, 7:19 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795781797705,
+  "updated_ts": 1795781997563,
   "articles": [
     {
       "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
@@ -235,6 +235,12 @@
   ],
   "ticker": [
     {
+      "time": "7:15 AM",
+      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "ts": 1795781700000
+    },
+    {
       "time": "7:04 AM",
       "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-6ec085c9?mod=rss_markets_main",
@@ -299,12 +305,6 @@
       "title": "WSJ Markets — Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
       "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
       "ts": 1795779300000
-    },
-    {
-      "time": "6:31 AM",
-      "title": "Investing.com — US housing market 2026: high rates, slow sales, and a buyer’s dilemma",
-      "url": "https://www.investing.com/news/stock-market-news/us-housing-market-2026-high-rates-slow-sales-and-a-buyers-dilemma-93CH-5053342",
-      "ts": 1795779072000
     }
   ]
 }
