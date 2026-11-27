@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 11:51 PM ET",
+  "generated_at": "Nov 26, 2026, 11:54 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795755084113,
+  "updated_ts": 1795755283638,
   "articles": [
     {
       "title": "Asian stocks rise as tech rebound, easing U.S. trade concerns lift sentiment",
@@ -65,6 +65,17 @@
       "ts": 1795739165000
     },
     {
+      "title": "New Zealand Dollar Gains as Traders Look Past Hung Parliament",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/new-zealand-dollar-gains-as-traders-look-past-hung-parliament",
+      "snippet": "The New Zealand dollar rose as traders shrugged off an official election result which confirmed a potentially hung parliament, with sentiment underpinned by improved global risk appetite.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 11:42 PM",
+      "coverage": 2,
+      "ts": 1795754578000
+    },
+    {
       "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
@@ -73,17 +84,6 @@
       "time": "Nov 26, 11:20 PM",
       "coverage": 3,
       "ts": 1795753255000
-    },
-    {
-      "title": "Gold Rises as Rebound in Tech Stocks Offsets Rate-Hike Concerns",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
-      "snippet": "Gold rose as a tentative recovery in technology stocks and a weaker US dollar offset the prospect of interest-rate hikes by the Federal Reserve.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 6:53 PM",
-      "coverage": 3,
-      "ts": 1795737215000
     },
     {
       "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
