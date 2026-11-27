@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 11:24 PM ET",
+  "generated_at": "Nov 26, 2026, 11:27 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795753471620,
+  "updated_ts": 1795753672108,
   "articles": [
     {
       "title": "Asian stocks rise as tech rebound, easing U.S. trade concerns lift sentiment",
@@ -12,26 +12,6 @@
       "time": "Nov 26, 10:47 PM",
       "coverage": 5,
       "ts": 1795751247000
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 26, 8:15 PM",
-      "coverage": 5,
-      "ts": 1795742100000
-    },
-    {
-      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-      "image": "https://images.mktw.net/im-58425830",
-      "time": "Nov 26, 7:31 PM",
-      "coverage": 5,
-      "ts": 1795739460000
     },
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -54,6 +34,26 @@
       "ts": 1795746169000
     },
     {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 26, 8:15 PM",
+      "coverage": 4,
+      "ts": 1795742100000
+    },
+    {
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "image": "https://images.mktw.net/im-58425830",
+      "time": "Nov 26, 7:31 PM",
+      "coverage": 4,
+      "ts": 1795739460000
+    },
+    {
       "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
@@ -65,14 +65,14 @@
       "ts": 1795739165000
     },
     {
-      "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
-      "snippet": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108356338-1788181104655-gettyimages-667735328-_mg_5102.jpeg?v=1788181165&w=1920&h=1080",
-      "time": "Nov 26, 7:22 PM",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "snippet": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "time": "Nov 26, 11:20 PM",
       "coverage": 3,
-      "ts": 1795738949000
+      "ts": 1795753255000
     },
     {
       "title": "Gold Rises as Rebound in Tech Stocks Offsets Rate-Hike Concerns",
@@ -235,16 +235,34 @@
   ],
   "ticker": [
     {
+      "time": "11:24 PM",
+      "title": "Investing.com — Why is the Australian Dollar climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-the-australian-dollar-climbing-today-93CH-5052853",
+      "ts": 1795753475000
+    },
+    {
+      "time": "11:24 PM",
+      "title": "Investing.com — Japan’s Jera in talks with Anthropic, Meta, Amazon on data centers- Nikkei",
+      "url": "https://www.investing.com/news/stock-market-news/japans-jera-in-talks-with-anthropic-meta-amazon-on-data-centers-nikkei-93CH-5052852",
+      "ts": 1795753467000
+    },
+    {
+      "time": "11:21 PM",
+      "title": "WSJ Markets — Venture Firm Antler Eyes $100 Billion in Portfolio Value by 2027",
+      "url": "https://www.wsj.com/finance/investing/venture-firm-antler-eyes-100-billion-in-portfolio-value-by-2027-cb405206?mod=rss_markets_main",
+      "ts": 1795753260000
+    },
+    {
       "time": "11:07 PM",
       "title": "CNBC — This 170-year historical study says ‘major market collapse’ is coming",
       "url": "https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html",
       "ts": 1795752427000
     },
     {
-      "time": "10:48 PM",
+      "time": "11:06 PM",
       "title": "Investing.com — US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
       "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
-      "ts": 1795751298000
+      "ts": 1795752380000
     },
     {
       "time": "10:44 PM",
@@ -287,24 +305,6 @@
       "title": "Investing.com — Why is Hansoh Pharmaceutical stock rising today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-hansoh-pharmaceutical-stock-rising-today-93CH-5052832",
       "ts": 1795748908000
-    },
-    {
-      "time": "10:08 PM",
-      "title": "Investing.com — New Zealand election result shows hung parliament",
-      "url": "https://www.investing.com/news/stock-market-news/new-zealand-election-result-shows-hung-parliament-93CH-5052831",
-      "ts": 1795748899000
-    },
-    {
-      "time": "10:01 PM",
-      "title": "WSJ Markets — Korean Won Poised to Strengthen Against Dollar in 2027",
-      "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
-      "ts": 1795748460000
-    },
-    {
-      "time": "9:43 PM",
-      "title": "Bloomberg — Treasuries Retreat as Gains in Equities Sap Demand for Havens",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/treasuries-retreat-as-gains-in-equities-sap-demand-for-havens",
-      "ts": 1795747388000
     }
   ]
 }
