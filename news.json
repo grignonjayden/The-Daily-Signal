@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 2:22 PM ET",
+  "generated_at": "Nov 27, 2026, 2:26 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795807364758,
+  "updated_ts": 1795807568083,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -95,16 +95,6 @@
       "ts": 1795802940000
     },
     {
-      "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-montney-region-alberta-natural-gas-reserves-canada-seize-opportunity/",
-      "snippet": "A flurry of acquisitions reveals the region’s potential, but investors fear it might be too good to be true",
-      "image": "https://www.theglobeandmail.com/resizer/v2/ODDM7N7QYNDULEK7RM2DIP6SNU.JPG?auth=72a61352e47ab51b443eea49a074c1e3aaec1540de152851b06659d8ee70e12d&smart=true&width=4000&height=2667",
-      "time": "Nov 27, 5:00 AM",
-      "coverage": 2,
-      "ts": 1795773600000
-    },
-    {
       "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
@@ -135,6 +125,16 @@
       "time": "Nov 27, 11:45 AM",
       "coverage": 2,
       "ts": 1795797946000
+    },
+    {
+      "title": "Ontario’s mortgage arrears rate nears 2008 levels, the Home of the Week and more top real estate stories",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-mortgage-delinquency-rates-ontario-canada-real-estate-news-november-27/",
+      "snippet": "Plus, the gamble facing homeowners right now",
+      "image": "https://www.theglobeandmail.com/resizer/v2/KN3Q74323FB4DNHPRKOARZKPMQ.JPG?auth=ff842a82a9a4a29d05468e454ab76afbed42a3d900c20009ef8e8cef9cfad7d6&smart=true&width=8192&height=6144",
+      "time": "Nov 27, 8:30 AM",
+      "coverage": 2,
+      "ts": 1795786200000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -234,6 +234,18 @@
       "ts": 1795806621000
     },
     {
+      "time": "2:06 PM",
+      "title": "Investing.com — Exclusive-Armani heirs consider buying small slice of fashion house in stake sale, sources say",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivearmani-heirs-consider-buying-small-slice-of-fashion-house-in-stake-sale-sources-say-5053801",
+      "ts": 1795806415000
+    },
+    {
+      "time": "2:06 PM",
+      "title": "Investing.com — Arista Networks, Intel among market cap stock movers on Friday",
+      "url": "https://www.investing.com/news/stock-market-news/arista-networks-intel-among-market-cap-stock-movers-on-friday-93CH-5053810",
+      "ts": 1795806377000
+    },
+    {
       "time": "2:00 PM",
       "title": "Investing.com — Chicago PMI and CFTC speculative positions among economic data due Monday",
       "url": "https://www.investing.com/news/stock-market-news/chicago-pmi-and-cftc-speculative-positions-among-economic-data-due-monday-93CH-5053804",
@@ -244,12 +256,6 @@
       "title": "Investing.com — Rubrik, Nano Nuclear Energy, and more set to report earnings Friday",
       "url": "https://www.investing.com/news/stock-market-news/rubrik-nano-nuclear-energy-and-more-set-to-report-earnings-friday-93CH-5053802",
       "ts": 1795806032000
-    },
-    {
-      "time": "2:00 PM",
-      "title": "Investing.com — Exclusive-Armani heirs consider buying small slice of fashion house in stake sale, sources say",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivearmani-heirs-consider-buying-small-slice-of-fashion-house-in-stake-sale-sources-say-5053801",
-      "ts": 1795806022000
     },
     {
       "time": "1:48 PM",
@@ -292,12 +298,6 @@
       "title": "WSJ Markets — Energy & Utilities Roundup: Market Talk",
       "url": "https://www.wsj.com/finance/investing/energy-utilities-roundup-market-talk-6ec085c9?mod=rss_markets_main",
       "ts": 1795803300000
-    },
-    {
-      "time": "1:11 PM",
-      "title": "CNBC — Dow rallies nearly 600 points to close out best week since 2022: Live updates",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795803112000
     }
   ]
 }
