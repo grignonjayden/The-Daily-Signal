@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 27, 2026, 5:59 PM ET",
+  "generated_at": "Nov 27, 2026, 6:33 PM ET",
   "date_key": "2026-11-27",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -13,6 +13,18 @@
       "sector": "Energy",
       "time": "Nov 27",
       "date": "2026-11-28T01:32:33.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Company launches investigation into claims Wainwright nurse's job was threatened",
+      "url": "https://www.cbc.ca/news/politics/calian-investigation-nurse-job-poilievre-photo-9.7439785?cmp=rss",
+      "image": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B",
+      "source": "CBC News",
+      "badge": "CBC",
+      "analysis": false,
+      "sector": "General",
+      "time": "Nov 27",
+      "date": "2026-11-27T23:00:50.000Z",
       "group": "sector"
     },
     {
@@ -37,18 +49,6 @@
       "sector": "Infrastructure",
       "time": "Nov 27",
       "date": "2026-11-27T21:23:57.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Government reveals contractor shortlist for 24 Sussex overhaul",
-      "url": "https://www.cbc.ca/news/politics/contractor-shortlist-24-sussex-renovation-9.7439108?cmp=rss",
-      "image": "https://i.cbc.ca/ais/9e507151-5853-4649-a50a-12ceb7e0d86c,1795804436036/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5765%2C3242%29%3B",
-      "source": "CBC News",
-      "badge": "CBC",
-      "analysis": false,
-      "sector": "General",
-      "time": "Nov 27",
-      "date": "2026-11-27T18:57:58.000Z",
       "group": "sector"
     },
     {
@@ -237,28 +237,23 @@
       "kept": 3
     },
     {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
       "source": "CBC News",
       "fetched": 40,
       "kept": 3
     },
     {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 3
-    },
-    {
-      "source": "Canada Media Fund",
-      "fetched": 24,
-      "kept": 0
+      "source": "Finance Canada",
+      "fetched": 20,
+      "kept": 4
     },
     {
       "source": "CDEV",
       "fetched": 20,
+      "kept": 0
+    },
+    {
+      "source": "Canada Media Fund",
+      "fetched": 24,
       "kept": 0
     },
     {
@@ -270,6 +265,11 @@
       "source": "C.D. Howe Institute",
       "fetched": 24,
       "kept": 4
+    },
+    {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 3
     }
   ]
 }
