@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 8:06 AM ET",
+  "generated_at": "Nov 27, 2026, 8:10 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795784812950,
+  "updated_ts": 1795785013422,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "8:08 AM",
+      "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "ts": 1795784923000
+    },
+    {
+      "time": "8:08 AM",
+      "title": "CNBC — Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+      "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
+      "ts": 1795784887000
+    },
+    {
       "time": "8:03 AM",
       "title": "WSJ Markets — Swiss Bourse to Launch IPO Academy in Bid to Encourage European Listings",
       "url": "https://www.wsj.com/finance/swiss-bourse-to-launch-ipo-academy-in-bid-to-encourage-european-listings-d98da166?mod=rss_markets_main",
@@ -247,6 +259,12 @@
       "title": "Investing.com — UBS Flags Two UK housebuilders to Own, One to Avoid, as 2027 Stays Stagnant",
       "url": "https://www.investing.com/news/stock-market-news/ubs-flags-two-uk-housebuilders-to-own-one-to-avoid-as-2027-stays-stagnant-5053474",
       "ts": 1795784508000
+    },
+    {
+      "time": "8:00 AM",
+      "title": "CNBC — Spain’s election could pull Madrid closer to Trump’s Washington",
+      "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
+      "ts": 1795784442000
     },
     {
       "time": "8:00 AM",
@@ -279,12 +297,6 @@
       "ts": 1795783678000
     },
     {
-      "time": "7:45 AM",
-      "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795783553000
-    },
-    {
       "time": "7:41 AM",
       "title": "Bloomberg — ¿Volverá la derecha al poder en España?",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/-volvera-la-derecha-al-poder-en-espana",
@@ -295,18 +307,6 @@
       "title": "Bloomberg — Europe Has Too Much Wind, Not Enough Power Grid",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/europe-has-too-much-wind-not-enough-power-grid",
       "ts": 1795782822000
-    },
-    {
-      "time": "7:32 AM",
-      "title": "CNBC — Stocks making the biggest moves premarket: SpaceX, Altria, Vertex Pharmaceuticals, Nvidia & more",
-      "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795782731000
-    },
-    {
-      "time": "7:30 AM",
-      "title": "Globe and Mail — Letko Brosseau urges Advantage shareholders to vote against proposed $2.5-billion takeover",
-      "url": "https://www.theglobeandmail.com/business/article-letko-brosseau-urges-advantage-shareholders-to-vote-against-takeover/",
-      "ts": 1795782600000
     }
   ]
 }
