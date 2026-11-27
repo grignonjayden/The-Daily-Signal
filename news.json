@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 12:18 AM ET",
+  "generated_at": "Nov 27, 2026, 12:21 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795756686663,
+  "updated_ts": 1795756893328,
   "articles": [
     {
       "title": "Asian stocks rise as tech rebound, easing U.S. trade concerns lift sentiment",
@@ -106,14 +106,14 @@
       "ts": 1795698060000
     },
     {
-      "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
+      "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
-      "snippet": "Oil prices were mixed in early Asian trade. Rising attacks on energy infrastructure across the Middle East have raised concerns of further supply disruptions, ANZ said.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 8:48 PM",
-      "ts": 1795744080000
+      "url": "https://www.wsj.com/finance/commodities-futures/australia-orders-lng-exporters-reserve-some-gas-to-plug-shortages-at-home-72d6fe9b?mod=rss_markets_main",
+      "snippet": "Australia will require liquefied natural gas exporters to reserve up to a fifth of their shipments for the domestic market to help lower power bills for local households and businesses.",
+      "image": "https://images.wsj.net/im-96490935",
+      "time": "Nov 27, 12:14 AM",
+      "coverage": 2,
+      "ts": 1795756440000
     },
     {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
