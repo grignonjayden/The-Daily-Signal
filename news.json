@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 5:19 PM ET",
+  "generated_at": "Nov 27, 2026, 5:23 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795817987809,
+  "updated_ts": 1795818187681,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -44,6 +44,16 @@
       "ts": 1795791993000
     },
     {
+      "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FZ_L.jpg",
+      "time": "Nov 27, 5:18 PM",
+      "coverage": 4,
+      "ts": 1795817898000
+    },
+    {
       "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
@@ -52,6 +62,17 @@
       "time": "Nov 27, 5:00 PM",
       "coverage": 4,
       "ts": 1795816857000
+    },
+    {
+      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
+      "snippet": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 1:43 PM",
+      "coverage": 4,
+      "ts": 1795805016000
     },
     {
       "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
@@ -85,17 +106,6 @@
       "ts": 1795783448000
     },
     {
-      "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
-      "snippet": "S&P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually adopt the euro.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 4:19 PM",
-      "coverage": 3,
-      "ts": 1795814371000
-    },
-    {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
@@ -104,16 +114,6 @@
       "time": "Nov 27, 4:16 PM",
       "coverage": 3,
       "ts": 1795814160000
-    },
-    {
-      "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.93%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-193-5053883",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPED7S129_M.jpg",
-      "time": "Nov 27, 4:30 PM",
-      "coverage": 2,
-      "ts": 1795815031000
     },
     {
       "title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
@@ -228,10 +228,22 @@
   ],
   "ticker": [
     {
+      "time": "5:12 PM",
+      "title": "Investing.com — Glass Lewis backs Vail Resorts board in proxy fight with activist Oasis",
+      "url": "https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
+      "ts": 1795817545000
+    },
+    {
       "time": "4:31 PM",
       "title": "Investing.com — Why is Strategy stock gaining today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-gaining-today-93CH-5053886",
       "ts": 1795815119000
+    },
+    {
+      "time": "4:30 PM",
+      "title": "Investing.com — Mexico stocks higher at close of trade; S&P/BMV IPC up 1.93%",
+      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-193-5053883",
+      "ts": 1795815031000
     },
     {
       "time": "4:30 PM",
@@ -250,6 +262,12 @@
       "title": "Investing.com — Russia stocks higher at close of trade; MOEX Russia Index up 1.29%",
       "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-129-5053864",
       "ts": 1795814403000
+    },
+    {
+      "time": "4:19 PM",
+      "title": "Bloomberg — Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+      "ts": 1795814371000
     },
     {
       "time": "4:10 PM",
@@ -280,24 +298,6 @@
       "title": "WSJ Markets — Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
       "ts": 1795812420000
-    },
-    {
-      "time": "3:40 PM",
-      "title": "Globe and Mail — What the future might hold for the Stellantis Brampton auto plant, according to our reporter",
-      "url": "https://www.theglobeandmail.com/business/article-future-of-stellantis-auto-plant-brampton/",
-      "ts": 1795812011000
-    },
-    {
-      "time": "3:35 PM",
-      "title": "Globe and Mail — Number of temporary residents in Canada set to exceed federal target by end of 2027",
-      "url": "https://www.theglobeandmail.com/business/article-ottawa-temporary-residents-target-diab-november-27/",
-      "ts": 1795811718000
-    },
-    {
-      "time": "3:30 PM",
-      "title": "Investing.com — Brazil stocks higher at close of trade; Bovespa up 0.05%",
-      "url": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-005-5053837",
-      "ts": 1795811403000
     }
   ]
 }
