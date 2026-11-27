@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 12:41 AM ET",
+  "generated_at": "Nov 27, 2026, 12:44 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795758098179,
+  "updated_ts": 1795758298588,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -10,7 +10,7 @@
       "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
       "image": "https://images.mktw.net/im-78896707",
       "time": "Nov 26, 8:15 PM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795742100000
     },
     {
@@ -20,8 +20,18 @@
       "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
       "image": "https://images.mktw.net/im-58425830",
       "time": "Nov 26, 7:31 PM",
-      "coverage": 5,
+      "coverage": 4,
       "ts": 1795739460000
+    },
+    {
+      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.80%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-080-5052929",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEC4S0H2_M.jpg",
+      "time": "Nov 27, 12:35 AM",
+      "coverage": 3,
+      "ts": 1795757703000
     },
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -30,18 +40,17 @@
       "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
       "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
       "time": "Nov 26, 11:40 PM",
-      "coverage": 4,
+      "coverage": 3,
       "ts": 1795754459000
     },
     {
-      "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
+      "title": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "snippet": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "time": "Nov 26, 11:20 PM",
-      "coverage": 3,
-      "ts": 1795753255000
+      "url": "https://www.cnbc.com/2026/11/27/nike-formula-1-sportswear-brands-sponsorship-adidas-puma.html",
+      "snippet": "Nike, Adidas and Puma are betting big on Formula 1 as the sport's cultural influence grows and younger audiences fuel its appeal.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559915-1795748042371-gettyimages-2283680157-ms2_7303_gr9tphjj.jpeg?v=1795748093&w=1920&h=1080",
+      "time": "Nov 27, 12:38 AM",
+      "ts": 1795757904000
     },
     {
       "title": "New Zealand Dollar Gains as Traders Look Past Hung Parliament",
@@ -68,29 +77,9 @@
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
       "snippet": "Oil prices were mixed in early Asian trade. Rising attacks on energy infrastructure across the Middle East have raised concerns of further supply disruptions, ANZ said.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
+      "image": "https://images.wsj.net/im-48078726",
       "time": "Nov 26, 8:48 PM",
       "ts": 1795744080000
-    },
-    {
-      "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-ottawa-cheap-canned-vegetables-import-tariffs-domestic-industry/",
-      "snippet": "Tariffs to be introduced on imports above a set quota from trading partners such as the U.S. and Europe as of Dec. 1",
-      "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
-      "time": "Nov 26, 8:26 PM",
-      "ts": 1795742782000
-    },
-    {
-      "title": "Four Black Friday scams to watch for this shopping season",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
-      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
-      "time": "Nov 26, 1:33 PM",
-      "coverage": 3,
-      "ts": 1795718011000
     },
     {
       "title": "Gold Rises as Rebound in Tech Stocks Offsets Rate-Hike Concerns",
@@ -104,22 +93,13 @@
       "ts": 1795737215000
     },
     {
-      "title": "Why is Marco Polo Marine stock climbing today?",
+      "title": "Why is Meituan stock rallying today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-marco-polo-marine-stock-climbing-today-93CH-5052912",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-meituan-stock-rallying-today-93CH-5052916",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "time": "Nov 27, 12:21 AM",
-      "ts": 1795756902000
-    },
-    {
-      "title": "Why is Arcadia Minerals stock surging today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-arcadia-minerals-stock-surging-today-93CH-5052899",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-      "time": "Nov 27, 12:14 AM",
-      "ts": 1795756479000
+      "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "time": "Nov 27, 12:29 AM",
+      "ts": 1795757383000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -128,7 +108,7 @@
       "snippet": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/elon-musk-spacex-trump-accounts-donation.jpg",
       "time": "Nov 25, 11:29 PM",
-      "coverage": 3,
+      "coverage": 2,
       "ts": 1795667395000
     },
     {
@@ -138,6 +118,7 @@
       "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
       "time": "Nov 25, 9:38 AM",
+      "coverage": 2,
       "ts": 1795617488000
     }
   ],
@@ -147,8 +128,7 @@
     "MarketWatch",
     "Bloomberg",
     "Investing.com",
-    "Fox Business",
-    "Globe and Mail"
+    "Fox Business"
   ],
   "official": [
     {
@@ -232,10 +212,34 @@
   ],
   "ticker": [
     {
+      "time": "12:29 AM",
+      "title": "Investing.com — Why is Tokyo Electric Power stock rising today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-tokyo-electric-power-stock-rising-today-93CH-5052915",
+      "ts": 1795757380000
+    },
+    {
+      "time": "12:24 AM",
+      "title": "Investing.com — Why is KPI Green Energy stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-kpi-green-energy-stock-climbing-today-93CH-5052914",
+      "ts": 1795757092000
+    },
+    {
+      "time": "12:23 AM",
+      "title": "Investing.com — Why is International Gemological Institute stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-international-gemological-institute-stock-climbing-today-93CH-5052913",
+      "ts": 1795756985000
+    },
+    {
       "time": "12:22 AM",
       "title": "Bloomberg — Poor Regulation of $500 Billion Sand Trade Raises Construction Safety Concerns",
       "url": "https://www.bloomberg.com/features/2026-sand-mining/",
       "ts": 1795756940000
+    },
+    {
+      "time": "12:21 AM",
+      "title": "Investing.com — Why is Marco Polo Marine stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-marco-polo-marine-stock-climbing-today-93CH-5052912",
+      "ts": 1795756902000
     },
     {
       "time": "12:19 AM",
@@ -248,6 +252,12 @@
       "title": "CNBC — China’s factories are growing profits again, but the AI boom is picking the winners",
       "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
       "ts": 1795756555000
+    },
+    {
+      "time": "12:14 AM",
+      "title": "Investing.com — Why is Arcadia Minerals stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-arcadia-minerals-stock-surging-today-93CH-5052899",
+      "ts": 1795756479000
     },
     {
       "time": "12:13 AM",
@@ -268,40 +278,10 @@
       "ts": 1795755660000
     },
     {
-      "time": "12:01 AM",
-      "title": "Globe and Mail — Download the December 2026 edition of Report on Business magazine",
-      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-download-the-december-2026-edition-of-report-on-business-magazine/",
-      "ts": 1795755660000
-    },
-    {
       "time": "12:00 AM",
       "title": "Bloomberg — China Stocks Rally After Rare Midday Statement on Market Support",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release",
       "ts": 1795755623000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Bloomberg — Taiwan's ETF Godfather Julian Liu on Market Momentum",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/taiwan-s-etf-godfather-julian-liu-on-market-momentum-video",
-      "ts": 1795755437000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Investing.com — Why is B & S International Holdings stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-b--s-international-holdings-stock-surging-today-93CH-5052880",
-      "ts": 1795755371000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Investing.com — Why is Wuxi Delinhai Environmental Technology stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-wuxi-delinhai-environmental-technology-stock-surging-today-93CH-5052878",
-      "ts": 1795755081000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Investing.com — Why is Beijing Zhongke WengeAI Science and Technology stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-beijing-zhongke-wengeai-science-and-technology-stock-surging-today-93CH-5052874",
-      "ts": 1795754908000
     }
   ]
 }
