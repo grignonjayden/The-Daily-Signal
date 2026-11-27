@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 8:23 AM ET",
+  "generated_at": "Nov 27, 2026, 8:26 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795785816828,
+  "updated_ts": 1795786016652,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -236,6 +236,18 @@
   ],
   "ticker": [
     {
+      "time": "8:23 AM",
+      "title": "CNBC — Hackers breach U.S. Air Force flagship Cloud One computing platform",
+      "url": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html",
+      "ts": 1795785781000
+    },
+    {
+      "time": "8:22 AM",
+      "title": "MarketWatch — New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+      "url": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
+      "ts": 1795785720000
+    },
+    {
       "time": "8:21 AM",
       "title": "CNBC — The S&P 500 is in a correction. Bear markets and recessions don't always follow",
       "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
@@ -248,6 +260,12 @@
       "ts": 1795785453000
     },
     {
+      "time": "8:15 AM",
+      "title": "CNBC — New car prices are at a record high. Here's where to look for deals",
+      "url": "https://www.cnbc.com/2026/11/27/new-car-buying-deals-buying-tips.html",
+      "ts": 1795785301000
+    },
+    {
       "time": "8:11 AM",
       "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
@@ -258,6 +276,12 @@
       "title": "CNBC — Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
       "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
       "ts": 1795784887000
+    },
+    {
+      "time": "8:05 AM",
+      "title": "CNBC — It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
+      "url": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
+      "ts": 1795784702000
     },
     {
       "time": "8:03 AM",
@@ -282,30 +306,6 @@
       "title": "Globe and Mail — What I’ve Learned: Charlene Theodore knows exactly how to fix Canada’s productivity problem",
       "url": "https://www.theglobeandmail.com/business/rob-magazine/article-what-ive-learned-charlene-theodore-knows-exactly-how-to-fix-canadas/",
       "ts": 1795784400000
-    },
-    {
-      "time": "7:53 AM",
-      "title": "Investing.com — Why history suggests a sharp rally could be near",
-      "url": "https://www.investing.com/news/stock-market-news/why-history-suggests-a-sharp-rally-could-be-near-5053462",
-      "ts": 1795784002000
-    },
-    {
-      "time": "7:48 AM",
-      "title": "WSJ Markets — Allstate Joins Growing List of Companies Hit by Tech Outages",
-      "url": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?mod=rss_markets_main",
-      "ts": 1795783680000
-    },
-    {
-      "time": "7:47 AM",
-      "title": "Bloomberg — Ofwat Warns Thames Water Rescue Decision Remains Months Away",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/ofwat-warns-thames-water-rescue-decision-remains-months-away",
-      "ts": 1795783678000
-    },
-    {
-      "time": "7:42 AM",
-      "title": "MarketWatch — How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
-      "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
-      "ts": 1795783320000
     }
   ]
 }
