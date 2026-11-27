@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 2:42 AM ET",
+  "generated_at": "Nov 27, 2026, 2:45 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795765342525,
+  "updated_ts": 1795765541848,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -34,6 +34,16 @@
       "ts": 1795762238000
     },
     {
+      "title": "Wall St futures surge as investors return from holiday",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FZ_L.jpg",
+      "time": "Nov 27, 2:36 AM",
+      "coverage": 3,
+      "ts": 1795764981000
+    },
+    {
       "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-in-shortened-post-thanksgiving-trade-f0822039?mod=rss_markets_main",
@@ -55,6 +65,16 @@
       "ts": 1795764706000
     },
     {
+      "title": "+65%, +62%, +49%: AI picks across the Americas, now 60% off for Black Friday",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/65-62-49-ai-picks-across-the-americas-now-60-off-for-black-friday-5053044",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEI3O0EL_L.jpg",
+      "time": "Nov 27, 2:28 AM",
+      "coverage": 3,
+      "ts": 1795764537000
+    },
+    {
       "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
@@ -65,24 +85,14 @@
       "ts": 1795763713000
     },
     {
-      "title": "China stocks, yuan rally after Beijing vows stronger market support",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0AQ_L.jpg",
-      "time": "Nov 27, 1:48 AM",
-      "coverage": 3,
-      "ts": 1795762117000
-    },
-    {
-      "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.80%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-080-5052929",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEC4S0H2_M.jpg",
-      "time": "Nov 27, 12:35 AM",
-      "coverage": 3,
-      "ts": 1795757703000
+      "title": "Four Black Friday scams to watch for this shopping season",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
+      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
+      "time": "Nov 26, 1:33 PM",
+      "coverage": 4,
+      "ts": 1795718011000
     },
     {
       "title": "Chinese Shares Lifted as Beijing Signals More Market Support",
@@ -115,16 +125,6 @@
       "ts": 1795742782000
     },
     {
-      "title": "Four Black Friday scams to watch for this shopping season",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
-      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
-      "time": "Nov 26, 1:33 PM",
-      "coverage": 3,
-      "ts": 1795718011000
-    },
-    {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
@@ -135,14 +135,14 @@
       "ts": 1795667395000
     },
     {
-      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
-      "coverage": 2,
-      "ts": 1795617488000
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
     }
   ],
   "outlets": [
@@ -236,10 +236,28 @@
   ],
   "ticker": [
     {
+      "time": "2:32 AM",
+      "title": "Investing.com — Coca-Cola HBC completes $2.6 bln acquisition of CCBA",
+      "url": "https://www.investing.com/news/stock-market-news/cocacola-hbc-completes-26-bln-acquisition-of-ccba-93CH-5053051",
+      "ts": 1795764757000
+    },
+    {
       "time": "2:25 AM",
       "title": "WSJ Markets — U.S. 10-Year Treasury Yield Likely Has Seen Cycle Peak",
       "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
       "ts": 1795764300000
+    },
+    {
+      "time": "2:24 AM",
+      "title": "Investing.com — Jefferies initiates Allwyn at ’hold’, flags regulatory risks to growth outlook",
+      "url": "https://www.investing.com/news/stock-market-news/jefferies-initiates-allwyn-at-hold-flags-regulatory-risks-to-growth-outlook-5053043",
+      "ts": 1795764247000
+    },
+    {
+      "time": "2:22 AM",
+      "title": "Investing.com — Mercedes-Benz sets up China joint venture to centralize parts buying",
+      "url": "https://www.investing.com/news/stock-market-news/mercedesbenz-sets-up-china-joint-venture-to-centralize-parts-buying-5053042",
+      "ts": 1795764159000
     },
     {
       "time": "2:20 AM",
@@ -272,6 +290,12 @@
       "ts": 1795762491000
     },
     {
+      "time": "1:48 AM",
+      "title": "Investing.com — China stocks, yuan rally after Beijing vows stronger market support",
+      "url": "https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026",
+      "ts": 1795762117000
+    },
+    {
       "time": "1:31 AM",
       "title": "Bloomberg — Oil Stockpiling to Influence Market in 2027, Energy Aspects Says",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/oil-stockpiling-to-influence-market-in-2027-energy-aspects-says",
@@ -282,30 +306,6 @@
       "title": "Investing.com — Asian stocks rally as China shares surge on fresh market-support pledges",
       "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-tech-rebound-easing-us-trade-concerns-lift-sentiment-5052839",
       "ts": 1795760674000
-    },
-    {
-      "time": "1:22 AM",
-      "title": "Bloomberg — Ziemba: Oil Supply Risks Outweigh OPEC+ Moves",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/ziemba-oil-supply-risks-outweigh-opec-moves-video",
-      "ts": 1795760578000
-    },
-    {
-      "time": "1:20 AM",
-      "title": "Bloomberg — Huawei Teases AI Chip to Rival Giants SK Hynix, Samsung",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-china-show-11-27-2026-video",
-      "ts": 1795760434000
-    },
-    {
-      "time": "1:16 AM",
-      "title": "Bloomberg — Asian Stocks Extend Recovery as AI Trade Rebounds",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/the-asia-trade-11-27-2026-video",
-      "ts": 1795760194000
-    },
-    {
-      "time": "1:15 AM",
-      "title": "Bloomberg — The Rate Bets That Backfired on Hedge Funds In Europe This Year",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/the-rate-bets-that-backfired-on-hedge-funds-in-europe-this-year",
-      "ts": 1795760100000
     }
   ]
 }
