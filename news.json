@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 1:45 PM ET",
+  "generated_at": "Nov 27, 2026, 1:48 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795805129115,
+  "updated_ts": 1795805330566,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -228,6 +228,18 @@
   ],
   "ticker": [
     {
+      "time": "1:46 PM",
+      "title": "CNBC — Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+      "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+      "ts": 1795805180000
+    },
+    {
+      "time": "1:45 PM",
+      "title": "Globe and Mail — Project to boost Trans Mountain pipeline flows starts up ahead of schedule",
+      "url": "https://www.theglobeandmail.com/business/article-project-to-boost-trans-mountain-pipeline-flows-starts-up/",
+      "ts": 1795805115000
+    },
+    {
       "time": "1:40 PM",
       "title": "MarketWatch — The warnings behind this week’s stock-market rally",
       "url": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
@@ -286,18 +298,6 @@
       "title": "Investing.com — European shares extend rise, but bruising November leaves AI scars",
       "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
       "ts": 1795800401000
-    },
-    {
-      "time": "12:24 PM",
-      "title": "Investing.com — European shares log strong weekly gains; markets await Spanish election",
-      "url": "https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129",
-      "ts": 1795800265000
-    },
-    {
-      "time": "12:23 PM",
-      "title": "Bloomberg — Hong Kong Is Selling The City It Used To Be",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/hong-kong-is-selling-the-city-it-used-to-be-video",
-      "ts": 1795800233000
     }
   ]
 }
