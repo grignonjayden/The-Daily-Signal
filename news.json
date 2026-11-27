@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:33 AM ET",
+  "generated_at": "Nov 27, 2026, 10:36 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795793592902,
+  "updated_ts": 1795793795584,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -242,6 +242,12 @@
     },
     {
       "time": "10:30 AM",
+      "title": "WSJ Markets — Private-Equity Firms Have a Surprising New Source for Debt: the Nordic Bond Market",
+      "url": "https://www.wsj.com/finance/investing/private-equity-firms-have-a-surprising-new-source-for-debt-the-nordic-bond-market-24163a71?mod=rss_markets_main",
+      "ts": 1795793400000
+    },
+    {
+      "time": "10:30 AM",
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795793400000
@@ -299,12 +305,6 @@
       "title": "Bloomberg — AI Can Level Playing Field for Travelers, Kelly Says",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-can-level-playing-field-for-travelers-kelly-says-video",
       "ts": 1795792044000
-    },
-    {
-      "time": "10:06 AM",
-      "title": "Investing.com — Why is Lumentum stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-lumentum-stock-rallying-today-93CH-5053619",
-      "ts": 1795791984000
     }
   ]
 }
