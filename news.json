@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:49 AM ET",
+  "generated_at": "Nov 27, 2026, 10:53 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795794596845,
+  "updated_ts": 1795794830439,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -237,6 +237,18 @@
   ],
   "ticker": [
     {
+      "time": "10:52 AM",
+      "title": "CNBC — Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "ts": 1795794720000
+    },
+    {
+      "time": "10:49 AM",
+      "title": "CNBC — 'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it",
+      "url": "https://www.cnbc.com/make-it/2026/11/27/the-traitors-ends-with-246300-prize-heres-how-much-goes-to-taxes.html",
+      "ts": 1795794569000
+    },
+    {
       "time": "10:45 AM",
       "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
@@ -247,6 +259,12 @@
       "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
       "ts": 1795794277000
+    },
+    {
+      "time": "10:42 AM",
+      "title": "Bloomberg — Brick-and-Mortar Making a Comeback on Experience, Says Dana Telsey",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/brick-and-mortar-making-a-comeback-says-dana-telsey-video",
+      "ts": 1795794145000
     },
     {
       "time": "10:42 AM",
@@ -289,24 +307,6 @@
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795793400000
-    },
-    {
-      "time": "10:24 AM",
-      "title": "Investing.com — Amazon technical outlook amid Black Friday shopping",
-      "url": "https://www.investing.com/news/stock-market-news/amazon-technical-outlook-amid-black-friday-shopping-93CH-5053640",
-      "ts": 1795793068000
-    },
-    {
-      "time": "10:23 AM",
-      "title": "Investing.com — Goldman Sachs Names Top China Humanoid Robotics Stocks to Watch",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-china-humanoid-robotics-stocks-to-watch-5053639",
-      "ts": 1795793027000
-    },
-    {
-      "time": "10:22 AM",
-      "title": "Investing.com — Walmart technical outlook amid Black Friday",
-      "url": "https://www.investing.com/news/stock-market-news/walmart-technical-outlook-amid-black-friday-93CH-5053637",
-      "ts": 1795792976000
     }
   ]
 }
