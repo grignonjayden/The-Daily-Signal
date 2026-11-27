@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:19 PM ET",
+  "generated_at": "Nov 26, 2026, 7:22 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795738757688,
+  "updated_ts": 1795738965470,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,24 @@
   ],
   "ticker": [
     {
+      "time": "7:18 PM",
+      "title": "WSJ Markets — Nikkei Rises 0.4%, Led by Banks, Trading Houses",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
+      "ts": 1795738680000
+    },
+    {
+      "time": "7:16 PM",
+      "title": "Globe and Mail — Wealthsimple faces backlash over interest rate cuts, rollback of perks",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-wealthsimple-changes-interest-rate-cuts-chequing-rollback-perks/",
+      "ts": 1795738580000
+    },
+    {
+      "time": "7:15 PM",
+      "title": "Bloomberg — US Plans for Tariffs Face Pushback",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/us-plans-for-tariffs-face-pushback-video",
+      "ts": 1795738556000
+    },
+    {
       "time": "7:11 PM",
       "title": "WSJ Markets — Gold Fortunes Tied to Stocks in Near Term",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
@@ -289,24 +307,6 @@
       "title": "Bloomberg — Bankers Pay Up for Hong Kong Apartments as Rents Hit New Highs",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/bankers-pay-up-for-hong-kong-apartments-as-rents-hit-new-highs",
       "ts": 1795734000000
-    },
-    {
-      "time": "5:30 PM",
-      "title": "Bloomberg — AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ai-rout-makes-kioxia-japan-s-cheapest-blue-chip-backing-bulls",
-      "ts": 1795732213000
-    },
-    {
-      "time": "5:00 PM",
-      "title": "MarketWatch — ‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "ts": 1795730400000
-    },
-    {
-      "time": "4:59 PM",
-      "title": "Bloomberg — Asian Stocks Rise for Second Day, Crude Oil Gains: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
-      "ts": 1795730397000
     }
   ]
 }
