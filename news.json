@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 26, 2026, 7:32 PM ET",
+  "generated_at": "Nov 26, 2026, 7:36 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795739565399,
+  "updated_ts": 1795739765886,
   "articles": [
+    {
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "image": "https://images.mktw.net/im-58425830",
+      "time": "Nov 26, 7:31 PM",
+      "coverage": 5,
+      "ts": 1795739460000
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -12,16 +22,6 @@
       "time": "Nov 26, 4:30 PM",
       "coverage": 5,
       "ts": 1795728600000
-    },
-    {
-      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-      "image": "https://images.mktw.net/im-58425830",
-      "time": "Nov 26, 10:30 AM",
-      "coverage": 5,
-      "ts": 1795707000000
     },
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
