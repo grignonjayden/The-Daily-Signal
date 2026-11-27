@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 12:01 AM ET",
+  "generated_at": "Nov 27, 2026, 12:04 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795755683528,
+  "updated_ts": 1795755887640,
   "articles": [
     {
       "title": "Asian stocks rise as tech rebound, easing U.S. trade concerns lift sentiment",
@@ -235,6 +235,18 @@
   ],
   "ticker": [
     {
+      "time": "12:01 AM",
+      "title": "MarketWatch — Is the stock market open on Black Friday?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
+      "ts": 1795755660000
+    },
+    {
+      "time": "Nov 26",
+      "title": "Bloomberg — Taiwan's ETF Godfather Julian Liu on Market Momentum",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/taiwan-s-etf-godfather-julian-liu-on-market-momentum-video",
+      "ts": 1795755437000
+    },
+    {
       "time": "Nov 26",
       "title": "Bloomberg — IMC Trading’s Internship Ad Misfire Shows Rush for Quant Jobs",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/imc-trading-s-internship-ad-misfire-shows-rush-for-quant-jobs",
@@ -293,18 +305,6 @@
       "title": "Bloomberg — Copper Rebounds From 11-Month Low on Return of Risk Appetite",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/copper-rebounds-from-11-month-low-on-return-of-risk-appetite",
       "ts": 1795750387000
-    },
-    {
-      "time": "Nov 26",
-      "title": "CNBC — Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
-      "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
-      "ts": 1795750223000
-    },
-    {
-      "time": "Nov 26",
-      "title": "Bloomberg — Japan’s ‘Tokyo Drift’ Car Culture Draws Global Fans",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/japan-s-tokyo-drift-car-culture-draws-global-fans-video",
-      "ts": 1795749518000
     }
   ]
 }
