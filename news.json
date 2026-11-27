@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 10:44 PM ET",
+  "generated_at": "Nov 26, 2026, 10:47 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795751057184,
+  "updated_ts": 1795751257671,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -235,6 +235,18 @@
   ],
   "ticker": [
     {
+      "time": "10:44 PM",
+      "title": "Investing.com — Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
+      "url": "https://www.investing.com/news/stock-market-news/singapore-yet-to-confirm-if-nvidia-has-halted-advanced-chip-shipments-deputy-pm-5052834",
+      "ts": 1795751059000
+    },
+    {
+      "time": "10:41 PM",
+      "title": "Bloomberg — What’s Driving Hong Kong Home Rents to New Highs",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/what-s-driving-hong-kong-home-rents-to-new-highs-video",
+      "ts": 1795750884000
+    },
+    {
       "time": "10:33 PM",
       "title": "Bloomberg — EM Asia Stocks Set for Weekly Gain as Markets Regain Footing",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
@@ -293,18 +305,6 @@
       "title": "Bloomberg — Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
       "ts": 1795746622000
-    },
-    {
-      "time": "9:20 PM",
-      "title": "Investing.com — Black Friday is here: 60% off InvestingPro and its AI stock picks end soon",
-      "url": "https://www.investing.com/news/stock-market-news/black-friday-is-here-60-off-investingpro-and-its-ai-stock-picks-end-soon-5052816",
-      "ts": 1795746058000
-    },
-    {
-      "time": "9:16 PM",
-      "title": "WSJ Markets — Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
-      "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
-      "ts": 1795745760000
     }
   ]
 }
