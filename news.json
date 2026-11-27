@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 26, 2026, 8:16 PM ET",
+  "generated_at": "Nov 26, 2026, 8:19 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795742178265,
+  "updated_ts": 1795742379249,
   "articles": [
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 26, 8:15 PM",
+      "coverage": 5,
+      "ts": 1795742100000
+    },
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
@@ -12,16 +22,6 @@
       "time": "Nov 26, 7:31 PM",
       "coverage": 5,
       "ts": 1795739460000
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 26, 4:30 PM",
-      "coverage": 5,
-      "ts": 1795728600000
     },
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -54,6 +54,17 @@
       "ts": 1795735907000
     },
     {
+      "title": "Japan Tobacco Shares Climb on Potential Imperial Brands Takeover",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
+      "snippet": "Japan Tobacco Inc. shares gained after news that the cigarette maker is exploring a potential takeover of Imperial Brands Plc with Altria Group Inc.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 7:26 PM",
+      "coverage": 3,
+      "ts": 1795739165000
+    },
+    {
       "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
@@ -72,6 +83,16 @@
       "time": "Nov 26, 12:22 AM",
       "coverage": 5,
       "ts": 1795670520000
+    },
+    {
+      "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
+      "snippet": "Japan Tobacco also reportedly considering an offer for Imperial",
+      "image": "https://www.theglobeandmail.com/resizer/v2/Q4FS4ECGEZINHEPQENKNKV6MOA.jpg?auth=b1bb33a31c10abc20445c28ea2ba22f0a6eb94898f6a11d8d03f83175a7d9355&smart=true&width=4922&height=3222",
+      "time": "Nov 26, 9:00 AM",
+      "coverage": 4,
+      "ts": 1795701602000
     },
     {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
@@ -103,27 +124,6 @@
       "time": "Nov 26, 3:00 PM",
       "coverage": 3,
       "ts": 1795723215000
-    },
-    {
-      "title": "Four Black Friday scams to watch for this shopping season",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
-      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
-      "time": "Nov 26, 1:33 PM",
-      "coverage": 3,
-      "ts": 1795718011000
-    },
-    {
-      "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
-      "snippet": "Gold steadied, as traders weighed the prospect of Federal Reserve interest-rate hikes against a wider market recovery spurred by a rebound in US technology stocks.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 6:53 PM",
-      "coverage": 2,
-      "ts": 1795737215000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
