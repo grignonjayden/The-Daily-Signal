@@ -1,8 +1,28 @@
 {
-  "generated_at": "Nov 27, 2026, 7:23 AM ET",
+  "generated_at": "Nov 27, 2026, 7:26 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795782196466,
+  "updated_ts": 1795782396254,
   "articles": [
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 27, 6:15 AM",
+      "coverage": 6,
+      "ts": 1795778100000
+    },
+    {
+      "title": "Nvidia Blackwell chips found in Shanghai data center tied to Alice Huang",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-blackwell-chips-found-in-shanghai-data-center-tied-to-alice-huang-5053414",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEMAB24G_L.jpg",
+      "time": "Nov 27, 7:10 AM",
+      "coverage": 5,
+      "ts": 1795781408000
+    },
     {
       "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
       "source": "CNBC",
@@ -12,16 +32,6 @@
       "time": "Nov 27, 7:00 AM",
       "coverage": 5,
       "ts": 1795780822000
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 27, 6:15 AM",
-      "coverage": 5,
-      "ts": 1795778100000
     },
     {
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
@@ -34,26 +44,6 @@
       "ts": 1795774839000
     },
     {
-      "title": "Stocks look like a Black Friday bargain. Read the fine print.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
-      "snippet": "Analysts raised their profit forecasts for S&P 500 companies during the selloff. Plus, how to spot a bogus boutique and what Jensen Huang is doing in your 401(k).",
-      "image": "https://images.mktw.net/im-25984516",
-      "time": "Nov 27, 7:01 AM",
-      "coverage": 4,
-      "ts": 1795780860000
-    },
-    {
-      "title": "Don’t miss out: Get 60% off InvestingPro before our Black Friday sale ends",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/dont-miss-out-get-60-off-investingpro-before-our-black-friday-sale-ends-5053334",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEDAP0C7_M.jpg",
-      "time": "Nov 27, 6:19 AM",
-      "coverage": 4,
-      "ts": 1795778364000
-    },
-    {
       "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
@@ -64,14 +54,14 @@
       "ts": 1795770720000
     },
     {
-      "title": "Goldman Sachs sees US GDP at 2.4% in 2027 with lower inflation",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-us-gdp-at-24-in-2027-with-lower-inflation-93CH-5053340",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/GoldmanSachsGroup_800x533_L_1670864483.jpg",
-      "time": "Nov 27, 6:26 AM",
+      "title": "Stocks look like a Black Friday bargain. Read the fine print.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
+      "snippet": "Analysts raised their profit forecasts for S&P 500 companies during the selloff. Plus, how to spot a bogus boutique and what Jensen Huang is doing in your 401(k).",
+      "image": "https://images.mktw.net/im-25984516",
+      "time": "Nov 27, 7:01 AM",
       "coverage": 3,
-      "ts": 1795778801000
+      "ts": 1795780860000
     },
     {
       "title": "Turkey Fund Investors Face Principal Loss Despite Erdogan Pledge",
@@ -104,14 +94,14 @@
       "ts": 1795773600000
     },
     {
-      "title": "Four Black Friday scams to watch for this shopping season",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-four-sophisticated-black-friday-scams-to-watch-for-this-shopping/",
-      "snippet": "Scammers are out in droves this season trying to get you to click onto spurious links and look-alike websites",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TK6SWWZTHVBBZFSNB374HFXCFM.JPG?auth=d2f1ae2e94dc06b129012cfaaab8429888b758c39752ef48035684ea61d2a540&smart=true&width=5131&height=3421",
-      "time": "Nov 26, 1:33 PM",
-      "coverage": 4,
-      "ts": 1795718011000
+      "title": "Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/explainerblack-friday-test-for-retailers-as-tight-budgets-meet-aisavvy-shoppers-5053309",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0TS_L.jpg",
+      "time": "Nov 27, 6:42 AM",
+      "coverage": 2,
+      "ts": 1795779744000
     },
     {
       "title": "EU Budget Talks Break Down; Spain Set to Vote",
@@ -125,6 +115,15 @@
       "ts": 1795778567000
     },
     {
+      "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-ottawa-cheap-canned-vegetables-import-tariffs-domestic-industry/",
+      "snippet": "Tariffs to be introduced on imports above a set quota from trading partners such as the U.S. and Europe as of Dec. 1",
+      "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
+      "time": "Nov 26, 8:26 PM",
+      "ts": 1795742782000
+    },
+    {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
@@ -135,13 +134,14 @@
       "ts": 1795667395000
     },
     {
-      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
-      "ts": 1795617488000
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
     }
   ],
   "outlets": [
@@ -235,10 +235,46 @@
   ],
   "ticker": [
     {
+      "time": "7:22 AM",
+      "title": "MarketWatch — ‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
+      "url": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
+      "ts": 1795782120000
+    },
+    {
+      "time": "7:16 AM",
+      "title": "Investing.com — Jefferies sees Brazil rebound potential after finance minister pick",
+      "url": "https://www.investing.com/news/stock-market-news/jefferies-sees-brazil-rebound-potential-after-finance-minister-pick-93CH-5053426",
+      "ts": 1795781780000
+    },
+    {
+      "time": "7:15 AM",
+      "title": "Investing.com — Why is SMA Solar Technology stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-sma-solar-technology-stock-rallying-today-93CH-5053420",
+      "ts": 1795781702000
+    },
+    {
       "time": "7:15 AM",
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795781700000
+    },
+    {
+      "time": "7:12 AM",
+      "title": "Investing.com — Nasdaq futures surge as investors pile back into battered AI stocks",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+      "ts": 1795781539000
+    },
+    {
+      "time": "7:07 AM",
+      "title": "Investing.com — Premarket movers: AI stocks rebound, Vertex slides on FDA review",
+      "url": "https://www.investing.com/news/stock-market-news/premarket-movers-ai-stocks-rebound-vertex-slides-on-fda-review-5053411",
+      "ts": 1795781228000
+    },
+    {
+      "time": "7:04 AM",
+      "title": "Investing.com — SMA Solar jumps 5% as Berenberg sees backlog driving earnings upside",
+      "url": "https://www.investing.com/news/stock-market-news/sma-solar-jumps-5-as-berenberg-sees-backlog-driving-earnings-upside-5053408",
+      "ts": 1795781049000
     },
     {
       "time": "7:04 AM",
@@ -269,42 +305,6 @@
       "title": "Investing.com — Why is Palo Alto Networks stock sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-sliding-today-93CH-5053363",
       "ts": 1795780626000
-    },
-    {
-      "time": "6:49 AM",
-      "title": "CNBC — Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
-      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
-      "ts": 1795780158000
-    },
-    {
-      "time": "6:49 AM",
-      "title": "Investing.com — Wedbush cyber recap",
-      "url": "https://www.investing.com/news/stock-market-news/wedbush-cyber-recap-93CH-5053360",
-      "ts": 1795780149000
-    },
-    {
-      "time": "6:42 AM",
-      "title": "Investing.com — Exclusive-Hackers breach US Air Force flagship Cloud One computing platform",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314",
-      "ts": 1795779762000
-    },
-    {
-      "time": "6:42 AM",
-      "title": "Investing.com — Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
-      "url": "https://www.investing.com/news/stock-market-news/explainerblack-friday-test-for-retailers-as-tight-budgets-meet-aisavvy-shoppers-5053309",
-      "ts": 1795779744000
-    },
-    {
-      "time": "6:37 AM",
-      "title": "Investing.com — Citi flags solar, storage, and SST sector updates ahead of key policy moves",
-      "url": "https://www.investing.com/news/stock-market-news/citi-flags-solar-storage-and-sst-sector-updates-ahead-of-key-policy-moves-93CH-5053348",
-      "ts": 1795779430000
-    },
-    {
-      "time": "6:35 AM",
-      "title": "WSJ Markets — Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
-      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
-      "ts": 1795779300000
     }
   ]
 }
