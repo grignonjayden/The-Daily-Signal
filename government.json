@@ -1,8 +1,20 @@
 {
-  "generated_at": "Nov 27, 2026, 5:49 AM ET",
+  "generated_at": "Nov 27, 2026, 6:23 AM ET",
   "date_key": "2026-11-27",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Ontario is Taking its Financial Sector for Granted",
+      "url": "https://cdhowe.org/publication/ontario-is-taking-its-financial-sector-for-granted/",
+      "image": "https://cdhowe.org/wp-content/uploads/2026/11/Op-Ed-Template-6-1-1024x683.png",
+      "source": "C.D. Howe Institute",
+      "badge": "CDH",
+      "analysis": true,
+      "sector": "General",
+      "time": "Nov 27",
+      "date": "2026-11-27T11:00:55.000Z",
+      "group": "sector"
+    },
     {
       "title": "Liberals will pass Bill C-39, despite competing views within caucus: House leader",
       "url": "https://www.cp24.com/news/canada/2026/11/27/slam-dunk-with-our-own-mps-government-house-leader-confident-liberals-will-pass-bill-c-39/",
@@ -85,18 +97,6 @@
       "sector": "Defence",
       "time": "Nov 26",
       "date": "2026-11-26T11:00:39.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Canada’s New Defence Bank Holds Promise, but Financial Safeguards Are Essential",
-      "url": "https://cdhowe.org/publication/canadas-new-defence-bank-holds-promise-but-financial-safeguards-are-essential/",
-      "image": "https://cdhowe.org/wp-content/uploads/2026/11/Single-Image-Template-84-2.png",
-      "source": "C.D. Howe Institute",
-      "badge": "CDH",
-      "analysis": true,
-      "sector": "Defence",
-      "time": "Nov 26",
-      "date": "2026-11-26T11:00:13.000Z",
       "group": "sector"
     },
     {
@@ -220,6 +220,11 @@
   ],
   "feed_status": [
     {
+      "source": "Bank of Canada",
+      "fetched": 20,
+      "kept": 3
+    },
+    {
       "source": "CBC News",
       "fetched": 40,
       "kept": 2
@@ -230,19 +235,14 @@
       "kept": 4
     },
     {
-      "source": "Bank of Canada",
-      "fetched": 20,
-      "kept": 3
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 2
     },
     {
       "source": "CDEV",
       "fetched": 20,
       "kept": 0
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 2
     },
     {
       "source": "Canada Media Fund",

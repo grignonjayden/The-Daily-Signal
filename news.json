@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 6:19 AM ET",
+  "generated_at": "Nov 27, 2026, 6:23 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795778391762,
+  "updated_ts": 1795778591777,
   "articles": [
     {
       "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -235,10 +235,22 @@
   ],
   "ticker": [
     {
+      "time": "6:21 AM",
+      "title": "WSJ Markets — Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
+      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "ts": 1795778460000
+    },
+    {
       "time": "6:16 AM",
       "title": "Bloomberg — Stock Bulls Stir Again After Weeks of AI Anxiety",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/stock-bulls-stir-again-after-weeks-of-ai-anxiety",
       "ts": 1795778197000
+    },
+    {
+      "time": "6:11 AM",
+      "title": "Bloomberg — New Serb Leadership Picks Academic Saicic to Run for President",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/new-serb-leadership-picks-academic-saicic-to-run-for-president",
+      "ts": 1795777906000
     },
     {
       "time": "6:00 AM",
@@ -293,18 +305,6 @@
       "title": "Investing.com — Why is Salesforce stock climbing today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-climbing-today-93CH-5053277",
       "ts": 1795776016000
-    },
-    {
-      "time": "5:39 AM",
-      "title": "Investing.com — Why is Spotify stock gaining today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-spotify-stock-gaining-today-93CH-5053276",
-      "ts": 1795775981000
-    },
-    {
-      "time": "5:38 AM",
-      "title": "Investing.com — Why is Advanced Micro Devices stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-5053275",
-      "ts": 1795775894000
     }
   ]
 }
