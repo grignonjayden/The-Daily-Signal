@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 5:43 PM ET",
+  "generated_at": "Nov 27, 2026, 5:46 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795819388096,
+  "updated_ts": 1795819590166,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -228,6 +228,12 @@
   ],
   "ticker": [
     {
+      "time": "5:29 PM",
+      "title": "Bloomberg — Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
+      "ts": 1795818596000
+    },
+    {
       "time": "5:12 PM",
       "title": "Investing.com — Glass Lewis backs Vail Resorts board in proxy fight with activist Oasis",
       "url": "https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
@@ -292,12 +298,6 @@
       "title": "CNBC — OpenAI countersues Apple for stealing trade secrets",
       "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
       "ts": 1795812752000
-    },
-    {
-      "time": "3:47 PM",
-      "title": "WSJ Markets — Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
-      "ts": 1795812420000
     }
   ]
 }
