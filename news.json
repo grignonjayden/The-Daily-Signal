@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:23 PM ET",
+  "generated_at": "Nov 26, 2026, 9:26 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795746210191,
+  "updated_ts": 1795746411843,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -34,14 +34,25 @@
       "ts": 1795739460000
     },
     {
-      "title": "U.S. stock futures rise in holiday-thinned trade; tech rebound in focus",
+      "title": "Japan Tobacco shares surge on report of Imperial Brands takeover",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
+      "url": "https://www.investing.com/news/stock-market-news/japan-tobacco-shares-surge-on-report-of-imperial-brands-takeover-5052817",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
-      "time": "Nov 26, 7:01 PM",
-      "coverage": 5,
-      "ts": 1795737682000
+      "image": "https://content-media.investing.com/news/LYNXMPEB1P0B0_M.jpg",
+      "time": "Nov 26, 9:22 PM",
+      "coverage": 4,
+      "ts": 1795746169000
+    },
+    {
+      "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
+      "snippet": "Japan Tobacco Inc. shares gained after news that the cigarette maker is exploring a potential takeover of Imperial Brands Plc with Altria Group Inc.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 7:26 PM",
+      "coverage": 4,
+      "ts": 1795739165000
     },
     {
       "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
@@ -52,17 +63,6 @@
       "time": "Nov 26, 7:42 PM",
       "coverage": 3,
       "ts": 1795740140000
-    },
-    {
-      "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
-      "snippet": "Japan Tobacco Inc. shares gained after news that the cigarette maker is exploring a potential takeover of Imperial Brands Plc with Altria Group Inc.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 7:26 PM",
-      "coverage": 3,
-      "ts": 1795739165000
     },
     {
       "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
@@ -85,27 +85,6 @@
       "ts": 1795701602000
     },
     {
-      "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-higher-as-ai-trade-steadies-for-thanksgiving-break-8f712d82?mod=rss_markets_main",
-      "snippet": "Stock futures extended a late rally from the previous session to trade higher with sentiment helped by an upward revision to third-quarter GDP.",
-      "image": "https://images.wsj.net/im-34152034",
-      "time": "Nov 26, 8:01 AM",
-      "coverage": 4,
-      "ts": 1795698060000
-    },
-    {
-      "title": "Stocks Rise With Nasdaq Futures, Treasuries Fall: Markets Wrap",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
-      "snippet": "Asian stocks rose for a second day along with US equity-index futures, extending a tentative recovery after weeks of volatility in the artificial intelligence trade. Treasuries declined as cash trading resumed…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 4:59 PM",
-      "coverage": 3,
-      "ts": 1795730397000
-    },
-    {
       "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
@@ -123,6 +102,27 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
       "time": "Nov 26, 8:26 PM",
       "ts": 1795742782000
+    },
+    {
+      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
+      "snippet": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
+      "image": "https://images.wsj.net/im-58488429",
+      "time": "Nov 25, 5:27 PM",
+      "coverage": 5,
+      "ts": 1795645620000
+    },
+    {
+      "title": "IMF Urges RBA to Be Ready to Tighten Further If Prices Worsen",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
+      "snippet": "Australia’s monetary authorities should stand ready to raise interest rates further if price pressures are more persistent, the International Monetary Fund said, while calling on the government to deliver on pledges…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 8:10 PM",
+      "coverage": 2,
+      "ts": 1795741812000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -265,6 +265,12 @@
       "ts": 1795744800000
     },
     {
+      "time": "8:59 PM",
+      "title": "Investing.com — +54%, +41%, +41%: Asia’s AI-picked strategies leading their markets in 2026",
+      "url": "https://www.investing.com/news/stock-market-news/54-41-41-asias-aipicked-strategies-leading-their-markets-in-2026-5052809",
+      "ts": 1795744793000
+    },
+    {
       "time": "8:46 PM",
       "title": "Investing.com — Why is 3P Learning stock surging today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-3p-learning-stock-surging-today-93CH-5052808",
@@ -293,12 +299,6 @@
       "title": "Investing.com — Netherlands will ask Washington not to enforce MATCH Act, minister says",
       "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
       "ts": 1795741959000
-    },
-    {
-      "time": "8:10 PM",
-      "title": "Bloomberg — IMF Urges RBA to Be Ready to Tighten Further If Prices Worsen",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
-      "ts": 1795741812000
     },
     {
       "time": "8:08 PM",
