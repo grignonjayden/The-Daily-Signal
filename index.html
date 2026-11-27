@@ -176,15 +176,11 @@
     border: 1.5px solid var(--pink); opacity: 0.6; animation: ping 2.2s var(--ease) infinite;
   }
   @keyframes ping { 0% { transform: scale(0.6); opacity: 0.7; } 100% { transform: scale(2); opacity: 0; } }
-  .title-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
   .why-top { font-family: 'Manrope', sans-serif; font-size: 13px; font-weight: 700; background: var(--surface); color: var(--ink-soft); border: 1px solid var(--line); padding: 7px 13px; border-radius: 999px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; box-shadow: var(--shadow-sm); transition: all .16s var(--ease); -webkit-tap-highlight-color: transparent; }
   .why-top svg { width: 14px; height: 14px; }
   .why-top:hover:not(.active) { border-color: var(--ink-faint); color: var(--ink); }
   .why-top.active { background: var(--ink); border-color: var(--ink); color: #fff; }
   :root[data-theme="dark"] .why-top.active { color: #14161D; }
-  @media (max-width: 360px) { .title-row { flex-wrap: wrap !important; } }
-  /* Phones: a round lightbulb button so it stays beside the title */
-  @media (max-width: 600px) { .title-row { gap: 8px; flex-wrap: nowrap; } .why-top { font-size: 0; gap: 0; width: 32px; height: 32px; padding: 0; justify-content: center; flex: none; } .why-top svg { width: 16px; height: 16px; } }
   h1.title { font-size: clamp(30px, 4.6vw, 42px); font-weight: 800; margin: 0; letter-spacing: -0.02em; line-height: 1.05; }
   .dateline { font-size: 13px; color: var(--ink-soft); margin-top: 10px; font-weight: 500; }
 
@@ -795,10 +791,11 @@
     <div class="hero-row">
       <div>
         <p class="greeting"><span class="live-dot"></span>Market Dispatch · Personal Edition<svg class="ca-flag" viewBox="0 0 9600 4800" role="img" aria-label="Canadian flag"><rect width="9600" height="4800" fill="#fff"/><rect width="2400" height="4800" fill="#D52B1E"/><rect x="7200" width="2400" height="4800" fill="#D52B1E"/><path fill="#D52B1E" d="m4890 4430-45-863a95 95 0 0 1 111-98l859 151-116-320a65 65 0 0 1 20-73l941-762-212-99a65 65 0 0 1-34-79l186-572-542 115a65 65 0 0 1-73-38l-105-247-423 454a65 65 0 0 1-111-57l204-1052-327 189a65 65 0 0 1-91-27l-332-652-332 652a65 65 0 0 1-91 27l-327-189 204 1052a65 65 0 0 1-111 57l-423-454-105 247a65 65 0 0 1-73 38l-542-115 186 572a65 65 0 0 1-34 79l-212 99 941 762a65 65 0 0 1 20 73l-116 320 859-151a95 95 0 0 1 111 98l-45 863z"/></svg></p>
-        <div class="title-row"><h1 class="title">The Daily Signal</h1><button class="why-top" id="whyTop" type="button" aria-label="Why TDS" title="Why TDS">Why TDS</button></div>
+        <h1 class="title">The Daily Signal</h1>
         <p class="dateline" id="dateline">Loading today's briefing…</p>
       </div>
       <div class="hero-actions">
+        <button class="why-top" id="whyTop" type="button">Why TDS</button>
         <button class="theme-switch" id="themeSwitch" role="switch" aria-checked="false" aria-label="Night mode" title="Switch day / night mode">
           <span class="ts-track"><span class="ts-stars"><i></i><i></i><i></i><i></i></span><span class="ts-cloud"></span><span class="ts-knob"></span></span>
           <span class="ts-label" id="themeLabel">Light mode</span>
