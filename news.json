@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 8:57 AM ET",
+  "generated_at": "Nov 27, 2026, 9:01 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795787869450,
+  "updated_ts": 1795788070347,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -236,6 +236,24 @@
   ],
   "ticker": [
     {
+      "time": "9:00 AM",
+      "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "ts": 1795788023000
+    },
+    {
+      "time": "8:58 AM",
+      "title": "CNBC — Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+      "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+      "ts": 1795787899000
+    },
+    {
+      "time": "8:56 AM",
+      "title": "CNBC — Walmart is crushing SpaceX. Only one is a bargain",
+      "url": "https://www.cnbc.com/2026/11/27/walmart-costco-valuations-ai-stocks.html",
+      "ts": 1795787772000
+    },
+    {
       "time": "8:46 AM",
       "title": "WSJ Markets — Stock Futures Jump as AI Trade Set for Rebound",
       "url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
@@ -284,28 +302,10 @@
       "ts": 1795786563000
     },
     {
-      "time": "8:32 AM",
-      "title": "CNBC — Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-      "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-      "ts": 1795786330000
-    },
-    {
-      "time": "8:32 AM",
-      "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795786327000
-    },
-    {
       "time": "8:31 AM",
       "title": "Bloomberg — Bank Indonesia Says Policy Focus on Stability, Inflation in 2027",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/bank-indonesia-says-policy-focus-on-stability-inflation-in-2027",
       "ts": 1795786271000
-    },
-    {
-      "time": "8:30 AM",
-      "title": "Investing.com — 3 beaten-down luxury stocks to buy right now, according to UBS",
-      "url": "https://www.investing.com/news/stock-market-news/3-beatendown-luxury-stocks-to-buy-right-now-according-to-ubs-5053506",
-      "ts": 1795786201000
     }
   ]
 }
