@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 4:26 PM ET",
+  "generated_at": "Nov 27, 2026, 4:29 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795814782628,
+  "updated_ts": 1795814982539,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -64,6 +64,17 @@
       "ts": 1795799040000
     },
     {
+      "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+      "snippet": "S&P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually adopt the euro.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 4:19 PM",
+      "coverage": 3,
+      "ts": 1795814371000
+    },
+    {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
@@ -83,17 +94,6 @@
       "time": "Nov 27, 1:43 PM",
       "coverage": 3,
       "ts": 1795805016000
-    },
-    {
-      "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
-      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 12:36 PM",
-      "coverage": 3,
-      "ts": 1795801012000
     },
     {
       "title": "Canadians expected to spend less on Black Friday this year",
@@ -228,6 +228,18 @@
   ],
   "ticker": [
     {
+      "time": "4:25 PM",
+      "title": "Investing.com — Colombia stocks higher at close of trade; COLCAP up 1.53%",
+      "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-153-5053878",
+      "ts": 1795814706000
+    },
+    {
+      "time": "4:20 PM",
+      "title": "Investing.com — Russia stocks higher at close of trade; MOEX Russia Index up 1.29%",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-129-5053864",
+      "ts": 1795814403000
+    },
+    {
       "time": "4:10 PM",
       "title": "WSJ Markets — Treasury Yields Gain As U.S. Equities Rally",
       "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
@@ -286,18 +298,6 @@
       "title": "WSJ Markets — Precious Metals Rally as AI Trade Revives Risk Appetite",
       "url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
       "ts": 1795810800000
-    },
-    {
-      "time": "3:11 PM",
-      "title": "Investing.com — Market Swings Spooked Retail Traders—And Lifted CME Group Up 18%",
-      "url": "https://www.investing.com/news/stock-market-news/market-swings-spooked-retail-tradersand-lifted-cme-group-up-18-5053438",
-      "ts": 1795810296000
-    },
-    {
-      "time": "3:11 PM",
-      "title": "Investing.com — AI Chip Stocks Swung Wildly—While Warren Buffett’s Apple Climbed 26%",
-      "url": "https://www.investing.com/news/stock-market-news/ai-chip-stocks-swung-wildlywhile-warren-buffetts-apple-climbed-26-5053436",
-      "ts": 1795810289000
     }
   ]
 }
