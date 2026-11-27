@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:57 AM ET",
+  "generated_at": "Nov 27, 2026, 11:00 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795795033870,
+  "updated_ts": 1795795234497,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -10,8 +10,19 @@
       "snippet": "Jensen Huang&apos;s return as Nvidia CEO just 11 days after resigning spotlights &quot;key-man risk&quot; and what experts call a lack of succession planning at Big Tech.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/former-nvidia-ceo-jensen-huang-statement.jpg",
       "time": "Nov 27, 10:06 AM",
-      "coverage": 7,
+      "coverage": 6,
       "ts": 1795791993000
+    },
+    {
+      "title": "AI Tools Reshape the Black Friday Experience",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/ai-tools-reshape-the-black-friday-experience-video",
+      "snippet": "As the holiday shopping season ramps up, retail sales are expected to top $1 trillion for the first time, with shoppers indicating they will spend more this year than last. They are also expected to give AI more say…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 10:54 AM",
+      "coverage": 5,
+      "ts": 1795794880000
     },
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -34,23 +45,13 @@
       "ts": 1795794080000
     },
     {
-      "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
-      "snippet": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1795450514&w=1920&h=1080",
-      "time": "Nov 27, 7:00 AM",
-      "coverage": 5,
-      "ts": 1795780822000
-    },
-    {
       "title": "Target stock technicals amid Black Friday",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/target-stock-technicals-amid-black-friday-93CH-5053643",
       "snippet": "",
       "image": "https://content-media.investing.com/news/moved_LYNXMPEJ4G0GB_L.jpg",
       "time": "Nov 27, 10:25 AM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795793158000
     },
     {
@@ -60,19 +61,8 @@
       "snippet": "Stocks are on pace for a record Black Friday as Anthropic tries to regain its IPO price.",
       "image": "https://image.cnbcfm.com/api/v1/image/108556478-1795186653493-108556478-1795186592615-gettyimages-2305474808-US_STOCKS.jpg?v=1795186665&w=1920&h=1080",
       "time": "Nov 27, 10:08 AM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795792111000
-    },
-    {
-      "title": "As the AI Storm Rages, Are UK and Europe Markets a Haven For Investors? Live Q&A",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/sessions/2026-12-01/live-q-amp-a-are-uk-and-european-markets-a-haven-from-the-ai-storm",
-      "snippet": "Bloomberg reporters take your questions about UK and European markets in a Live Q&A on Tuesday, December 1 at 1 p.m. GMT",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 8:35 AM",
-      "coverage": 4,
-      "ts": 1795786554000
     },
     {
       "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
@@ -81,7 +71,7 @@
       "snippet": "Sales of newly built homes surged to the highest level of the year in October, as home builders offered aggressive discounts to buyers.",
       "image": "https://images.mktw.net/im-829639",
       "time": "Nov 27, 8:22 AM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795785720000
     },
     {
@@ -91,8 +81,18 @@
       "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
       "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
       "time": "Nov 27, 7:44 AM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795783448000
+    },
+    {
+      "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+      "snippet": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1795450514&w=1920&h=1080",
+      "time": "Nov 27, 7:00 AM",
+      "coverage": 5,
+      "ts": 1795780822000
     },
     {
       "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
