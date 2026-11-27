@@ -1,8 +1,28 @@
 {
-  "generated_at": "Nov 27, 2026, 6:59 AM ET",
+  "generated_at": "Nov 27, 2026, 7:03 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795780797585,
+  "updated_ts": 1795780997548,
   "articles": [
+    {
+      "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+      "snippet": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1795450514&w=1920&h=1080",
+      "time": "Nov 27, 7:00 AM",
+      "coverage": 5,
+      "ts": 1795780822000
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 27, 6:15 AM",
+      "coverage": 5,
+      "ts": 1795778100000
+    },
     {
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
       "source": "CNBC",
@@ -14,14 +34,14 @@
       "ts": 1795774839000
     },
     {
-      "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
-      "time": "Nov 27, 4:12 AM",
-      "coverage": 5,
-      "ts": 1795770739000
+      "title": "Stocks look like a Black Friday bargain. Read the fine print.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
+      "snippet": "Analysts raised their profit forecasts for S&P 500 companies during the selloff. Plus, how to spot a bogus boutique and what Jensen Huang is doing in your 401(k).",
+      "image": "https://images.mktw.net/im-25984516",
+      "time": "Nov 27, 7:01 AM",
+      "coverage": 4,
+      "ts": 1795780860000
     },
     {
       "title": "Don’t miss out: Get 60% off InvestingPro before our Black Friday sale ends",
@@ -34,16 +54,6 @@
       "ts": 1795778364000
     },
     {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 27, 6:15 AM",
-      "coverage": 4,
-      "ts": 1795778100000
-    },
-    {
       "title": "European Stock Indexes Rise as Tech Rally Extends",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
@@ -53,16 +63,6 @@
       "time": "Nov 27, 3:32 AM",
       "coverage": 4,
       "ts": 1795768320000
-    },
-    {
-      "title": "Is the stock market open on Black Friday?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
-      "snippet": "Here’s how the day after Thanksgiving will affect trading on Wall Street",
-      "image": "https://images.mktw.net/im-39655594",
-      "time": "Nov 27, 12:01 AM",
-      "coverage": 4,
-      "ts": 1795755660000
     },
     {
       "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
@@ -235,6 +235,12 @@
   ],
   "ticker": [
     {
+      "time": "7:01 AM",
+      "title": "MarketWatch — Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+      "ts": 1795780860000
+    },
+    {
       "time": "6:49 AM",
       "title": "CNBC — Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
       "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
@@ -299,12 +305,6 @@
       "title": "Investing.com — Why is Cloudflare stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-cloudflare-stock-rallying-today-93CH-5053338",
       "ts": 1795778636000
-    },
-    {
-      "time": "6:18 AM",
-      "title": "Investing.com — US equity funds post biggest outflows in 11 weeks as tech rout weighs",
-      "url": "https://www.investing.com/news/stock-market-news/us-equity-funds-post-biggest-outflows-in-11-weeks-as-tech-rout-weighs-5053333",
-      "ts": 1795778306000
     }
   ]
 }
