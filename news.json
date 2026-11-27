@@ -1,8 +1,28 @@
 {
-  "generated_at": "Nov 27, 2026, 4:59 AM ET",
+  "generated_at": "Nov 27, 2026, 5:02 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795773574309,
+  "updated_ts": 1795773776813,
   "articles": [
+    {
+      "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
+      "time": "Nov 27, 4:12 AM",
+      "coverage": 5,
+      "ts": 1795770739000
+    },
+    {
+      "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+      "snippet": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559824-1795686703593-gettyimages-2283165053-ah809023_cxnkwed9.jpeg?v=1795686767&w=1920&h=1080",
+      "time": "Nov 26, 11:12 AM",
+      "coverage": 4,
+      "ts": 1795709567000
+    },
     {
       "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
       "source": "WSJ Markets",
@@ -22,16 +42,6 @@
       "time": "Nov 26, 8:15 PM",
       "coverage": 4,
       "ts": 1795742100000
-    },
-    {
-      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "snippet": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108556424-1795181552746-gettyimages-2294015150-aditya-notitle260910_npipj.jpeg?v=1795181613&w=1920&h=1080",
-      "time": "Nov 27, 1:50 AM",
-      "coverage": 2,
-      "ts": 1795762238000
     },
     {
       "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
@@ -64,14 +74,15 @@
       "ts": 1795739460000
     },
     {
-      "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
-      "snippet": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108356338-1788181104655-gettyimages-667735328-_mg_5102.jpeg?v=1788181165&w=1920&h=1080",
-      "time": "Nov 26, 7:22 PM",
-      "coverage": 4,
-      "ts": 1795738949000
+      "title": "US Stocks Set to Bounce as Risk Appetite Returns After Holiday",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
+      "snippet": "US stocks are poised to rebound, with risk appetite returning after a selloff that brought the Nasdaq 100 index to the brink of a bear market.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 2:56 AM",
+      "coverage": 3,
+      "ts": 1795766180000
     },
     {
       "title": "Odd Lots: Weber’s Vision for an Affordability Agenda (Podcast)",
@@ -92,17 +103,6 @@
       "time": "Nov 27, 4:30 AM",
       "coverage": 2,
       "ts": 1795771853000
-    },
-    {
-      "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
-      "snippet": "Japan Tobacco Inc. shares rose on news that it’s exploring a potential takeover of Imperial Brands Plc with Altria Group Inc., a move that would help the Japanese cigarette maker fill a large earnings hole left by…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 26, 7:26 PM",
-      "coverage": 3,
-      "ts": 1795739165000
     },
     {
       "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
@@ -234,6 +234,18 @@
   ],
   "ticker": [
     {
+      "time": "4:59 AM",
+      "title": "MarketWatch — Hollywood Hills home of the late Presley Gerber listed for $3.6 million, 2 months after his death",
+      "url": "https://www.marketwatch.com/story/hollywood-hills-home-of-the-late-presley-gerber-listed-for-3-6-million-2-months-after-his-death-92497183?mod=mw_rss_topstories",
+      "ts": 1795773540000
+    },
+    {
+      "time": "4:54 AM",
+      "title": "Bloomberg — Russia Extends Jet Fuel Export Ban to March on Refinery Attacks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/russia-extends-jet-fuel-export-ban-to-march-on-refinery-attacks",
+      "ts": 1795773299000
+    },
+    {
       "time": "4:54 AM",
       "title": "Bloomberg — Rwanda Wins F1 Hosting Rights in Bet on Tourism (Video)",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/rwanda-wins-f1-hosting-rights-in-bet-on-tourism-video",
@@ -292,18 +304,6 @@
       "title": "Investing.com — Rheinmetall shares rise on €738 million Romanian vehicle order",
       "url": "https://www.investing.com/news/stock-market-news/rheinmetall-shares-rise-on-738-million-romanian-vehicle-order-5053178",
       "ts": 1795771651000
-    },
-    {
-      "time": "4:18 AM",
-      "title": "Investing.com — Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
-      "url": "https://www.investing.com/news/stock-market-news/vietnamese-partners-of-trump-organization-plan-trump-tower-in-hanoi-sources-say-5053107",
-      "ts": 1795771120000
-    },
-    {
-      "time": "4:17 AM",
-      "title": "Investing.com — Dottikon ES shares rise 9% on strong first-half results",
-      "url": "https://www.investing.com/news/stock-market-news/dottikon-es-shares-rise-9-on-strong-firsthalf-results-93CH-5053176",
-      "ts": 1795771022000
     }
   ]
 }
