@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 27, 2026, 4:19 PM ET",
+  "generated_at": "Nov 27, 2026, 4:53 PM ET",
   "date_key": "2026-11-27",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
@@ -12,7 +12,7 @@
       "analysis": false,
       "sector": "Energy",
       "time": "Nov 27",
-      "date": "2026-11-27T22:54:40.000Z",
+      "date": "2026-11-28T01:32:33.000Z",
       "group": "sector"
     },
     {
@@ -25,6 +25,18 @@
       "sector": "General",
       "time": "Nov 27",
       "date": "2026-11-27T22:30:36.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Carney says vote on controversial bill to fast-track projects will be whipped for Liberal MPs",
+      "url": "https://www.cbc.ca/news/politics/bil-c-39-major-projects-vote-9.7439299?cmp=rss",
+      "image": "https://i.cbc.ca/ais/6d00906a-2dd7-486d-9cd3-3f596d32442d,1795813492898/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C4901%2C2756%29%3B",
+      "source": "CBC News",
+      "badge": "CBC",
+      "analysis": false,
+      "sector": "Infrastructure",
+      "time": "Nov 27",
+      "date": "2026-11-27T21:23:57.000Z",
       "group": "sector"
     },
     {
@@ -73,18 +85,6 @@
       "sector": "General",
       "time": "Nov 27",
       "date": "2026-11-27T11:00:55.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Yukon power infrastructure project now at Carney's Major Projects Office",
-      "url": "https://www.cbc.ca/news/canada/north/whitehorse-power-centres-major-projects-office-9.7438314?cmp=rss",
-      "image": "https://i.cbc.ca/ais/53b1f28e-72b1-4e3b-bc2d-405a0178aa23,1795750660777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C4240%2C2385%29%3B",
-      "source": "CBC News",
-      "badge": "CBC",
-      "analysis": false,
-      "sector": "Infrastructure",
-      "time": "Nov 26",
-      "date": "2026-11-27T04:37:34.000Z",
       "group": "sector"
     },
     {
@@ -232,8 +232,8 @@
   ],
   "feed_status": [
     {
-      "source": "CBC News",
-      "fetched": 40,
+      "source": "Bank of Canada",
+      "fetched": 20,
       "kept": 3
     },
     {
@@ -242,14 +242,14 @@
       "kept": 4
     },
     {
-      "source": "Bank of Canada",
-      "fetched": 20,
+      "source": "CBC News",
+      "fetched": 40,
       "kept": 3
     },
     {
-      "source": "CDEV",
-      "fetched": 20,
-      "kept": 0
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 3
     },
     {
       "source": "Canada Media Fund",
@@ -262,9 +262,9 @@
       "kept": 4
     },
     {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 3
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 0
     },
     {
       "source": "C.D. Howe Institute",
