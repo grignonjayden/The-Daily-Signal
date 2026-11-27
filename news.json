@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 10:30 PM ET",
+  "generated_at": "Nov 26, 2026, 10:34 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795750249960,
+  "updated_ts": 1795750450760,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -114,15 +114,15 @@
       "ts": 1795645620000
     },
     {
-      "title": "IMF Urges RBA to Be Ready to Tighten Further If Prices Worsen",
+      "title": "Gold Rises as Rebound in Tech Stocks Offsets Rate-Hike Concerns",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
-      "snippet": "Australia’s monetary authorities should stand ready to raise interest rates further if price pressures are more persistent, the International Monetary Fund said, while calling on the government to deliver on pledges…",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week",
+      "snippet": "Gold rose as a tentative recovery in technology stocks and a weaker US dollar offset the prospect of interest-rate hikes by the Federal Reserve.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 26, 8:10 PM",
+      "time": "Nov 26, 6:53 PM",
       "coverage": 2,
-      "ts": 1795741812000
+      "ts": 1795737215000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -235,6 +235,12 @@
   ],
   "ticker": [
     {
+      "time": "10:30 PM",
+      "title": "CNBC — Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+      "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+      "ts": 1795750223000
+    },
+    {
       "time": "10:18 PM",
       "title": "Bloomberg — Japan’s ‘Tokyo Drift’ Car Culture Draws Global Fans",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/japan-s-tokyo-drift-car-culture-draws-global-fans-video",
@@ -299,12 +305,6 @@
       "title": "WSJ Markets — Asian Markets Mostly Higher as Sentiment Stabilizes",
       "url": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
       "ts": 1795745580000
-    },
-    {
-      "time": "9:04 PM",
-      "title": "CNBC — China industrial profits growth surges to a 5-month high of 20.1% in October",
-      "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-      "ts": 1795745049000
     }
   ]
 }
