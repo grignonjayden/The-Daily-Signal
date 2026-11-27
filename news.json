@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 3:46 PM ET",
+  "generated_at": "Nov 27, 2026, 3:49 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795812370992,
+  "updated_ts": 1795812579110,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -106,6 +106,17 @@
       "ts": 1795783448000
     },
     {
+      "title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
+      "snippet": "U.S. natural gas futures settled lower with the Nymex January contract falling 4.5% to $3.491/mmBtu in its first trading day at the front of the curve.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 3:44 PM",
+      "coverage": 2,
+      "ts": 1795812240000
+    },
+    {
       "title": "OpenAI countersues Apple for stealing trade secrets",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-openai-countersues-apple-for-stealing-trade-secrets/",
@@ -114,16 +125,6 @@
       "time": "Nov 27, 3:31 PM",
       "coverage": 2,
       "ts": 1795811470000
-    },
-    {
-      "title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
-      "snippet": "Precious-metal prices surged as investors returned to the artificial-intelligence trade and global stocks rebounded, boosting risk appetite and easing pressure on assets that had been sold to meet liquidity needs.",
-      "image": "https://images.wsj.net/im-52368302",
-      "time": "Nov 27, 3:20 PM",
-      "coverage": 2,
-      "ts": 1795810800000
     },
     {
       "title": "Millions of Americans are retiring—lifting this wealth stock 13%",
@@ -227,6 +228,12 @@
   ],
   "ticker": [
     {
+      "time": "3:47 PM",
+      "title": "WSJ Markets — Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "ts": 1795812420000
+    },
+    {
       "time": "3:40 PM",
       "title": "Globe and Mail — What the future might hold for the Stellantis Brampton auto plant, according to our reporter",
       "url": "https://www.theglobeandmail.com/business/article-future-of-stellantis-auto-plant-brampton/",
@@ -249,6 +256,12 @@
       "title": "Bloomberg — Sánchez Seeks Unlikely Win With Plea for Spaniards to Go Vote",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/sanchez-seeks-unlikely-win-with-plea-for-spaniards-to-go-vote",
       "ts": 1795811041000
+    },
+    {
+      "time": "3:20 PM",
+      "title": "WSJ Markets — Precious Metals Rally as AI Trade Revives Risk Appetite",
+      "url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
+      "ts": 1795810800000
     },
     {
       "time": "3:11 PM",
@@ -285,18 +298,6 @@
       "title": "Investing.com — Cathie Wood Chases Speculative AI—This Quiet $17 Stock Surged 34%",
       "url": "https://www.investing.com/news/stock-market-news/cathie-wood-chases-speculative-aithis-quiet-17-stock-surged-34-5052860",
       "ts": 1795810189000
-    },
-    {
-      "time": "3:09 PM",
-      "title": "Investing.com — Inflation-Weary Shoppers Are Picky—Yet This Mall Brand Surged 30%",
-      "url": "https://www.investing.com/news/stock-market-news/inflationweary-shoppers-are-pickyyet-this-mall-brand-surged-30-5052859",
-      "ts": 1795810182000
-    },
-    {
-      "time": "3:03 PM",
-      "title": "CNBC — Hackers breach U.S. Air Force flagship Cloud One computing platform",
-      "url": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html",
-      "ts": 1795809788000
     }
   ]
 }
