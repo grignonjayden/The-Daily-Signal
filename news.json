@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:47 PM ET",
+  "generated_at": "Nov 26, 2026, 9:50 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795747633737,
+  "updated_ts": 1795747836385,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -55,14 +55,14 @@
       "ts": 1795739165000
     },
     {
-      "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
+      "title": "U.S. AI chip curbs stall billions in Asia data center deals, Bloomberg reports",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
+      "url": "https://www.investing.com/news/stock-market-news/us-ai-chip-curbs-stall-billions-in-asia-data-center-deals-bloomberg-reports-5052819",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
-      "time": "Nov 26, 7:42 PM",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEI710GE_L.jpg",
+      "time": "Nov 26, 9:35 PM",
       "coverage": 3,
-      "ts": 1795740140000
+      "ts": 1795746954000
     },
     {
       "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
@@ -241,10 +241,22 @@
       "ts": 1795747440000
     },
     {
+      "time": "9:36 PM",
+      "title": "Investing.com — Why is Japan Tobacco stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-japan-tobacco-stock-surging-today-93CH-5052820",
+      "ts": 1795746969000
+    },
+    {
       "time": "9:30 PM",
       "title": "Bloomberg — Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
       "ts": 1795746622000
+    },
+    {
+      "time": "9:20 PM",
+      "title": "Investing.com — Black Friday is here: 60% off InvestingPro and its AI stock picks end soon",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-is-here-60-off-investingpro-and-its-ai-stock-picks-end-soon-5052816",
+      "ts": 1795746058000
     },
     {
       "time": "9:16 PM",
@@ -293,18 +305,6 @@
       "title": "Bloomberg — How Volatility is Undermining the Carry Trade",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/how-volatility-is-undermining-the-carry-trade-video",
       "ts": 1795743601000
-    },
-    {
-      "time": "8:22 PM",
-      "title": "Bloomberg — South Korea Reportedly Mulls Expanding Stock Stabilization Fund",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/south-korea-reportedly-mulls-expanding-stock-stabilization-fund",
-      "ts": 1795742552000
-    },
-    {
-      "time": "8:21 PM",
-      "title": "WSJ Markets — MSCI India Gets Rare Earnings Upgrade",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
-      "ts": 1795742460000
     }
   ]
 }
