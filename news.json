@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:19 AM ET",
+  "generated_at": "Nov 27, 2026, 10:23 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795792789847,
+  "updated_ts": 1795792989762,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -261,6 +261,12 @@
     },
     {
       "time": "10:01 AM",
+      "title": "Bloomberg — How an Aluminum Squeeze Brought the LME to the Brink of Crisis Again",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/how-an-aluminum-squeeze-brought-the-lme-to-the-brink-of-crisis-again",
+      "ts": 1795791712000
+    },
+    {
+      "time": "10:01 AM",
       "title": "MarketWatch — Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
       "url": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
       "ts": 1795791660000
@@ -300,12 +306,6 @@
       "title": "Investing.com — Why is Nu Holdings stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-nu-holdings-stock-rallying-today-93CH-5053610",
       "ts": 1795791354000
-    },
-    {
-      "time": "9:54 AM",
-      "title": "Bloomberg — Can Russia Ever Change From Within",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/can-russia-ever-change-from-within-video",
-      "ts": 1795791265000
     }
   ]
 }
