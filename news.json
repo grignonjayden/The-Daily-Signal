@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:46 PM ET",
+  "generated_at": "Nov 26, 2026, 7:49 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795740369869,
+  "updated_ts": 1795740569547,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -142,7 +142,6 @@
       "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
       "time": "Nov 25, 9:38 AM",
-      "coverage": 2,
       "ts": 1795617488000
     }
   ],
@@ -237,10 +236,34 @@
   ],
   "ticker": [
     {
+      "time": "7:42 PM",
+      "title": "Investing.com — US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
+      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
+      "ts": 1795740140000
+    },
+    {
+      "time": "7:34 PM",
+      "title": "Investing.com — Why is WiseTech Global stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-wisetech-global-stock-surging-today-93CH-5052791",
+      "ts": 1795739688000
+    },
+    {
       "time": "7:34 PM",
       "title": "Bloomberg — Japan GPIF to Brief on Every Asset-Mix Review, Not Just Some",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-gpif-to-brief-on-every-asset-mix-review-not-just-some",
       "ts": 1795739684000
+    },
+    {
+      "time": "7:33 PM",
+      "title": "Investing.com — WiseTech shares jump 16.7% to nearly 10-month high as FY27 outlook holds",
+      "url": "https://www.investing.com/news/stock-market-news/wisetech-shares-jump-167-to-nearly-10month-high-as-fy27-outlook-holds-5052790",
+      "ts": 1795739605000
+    },
+    {
+      "time": "7:30 PM",
+      "title": "Investing.com — Trump says Wednesday’s market had him briefly ’concerned’ before stocks recovered",
+      "url": "https://www.investing.com/news/stock-market-news/trump-says-wednesdays-market-had-him-briefly-concerned-before-stocks-recovered-5052789",
+      "ts": 1795739422000
     },
     {
       "time": "7:25 PM",
@@ -283,30 +306,6 @@
       "title": "Investing.com — Bradesco chairman Trabuco agrees to become Brazil’s finance minister",
       "url": "https://www.investing.com/news/stock-market-news/brazils-lula-sounds-out-bradescochairman-as-finance-minister-sources-say-5052498",
       "ts": 1795737259000
-    },
-    {
-      "time": "6:44 PM",
-      "title": "Bloomberg — ‘Dollar Storm:’ Greenback on Track for Longest Winning Run Since 2024",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/-dollar-storm-greenback-on-track-for-longest-winning-run-since-2024",
-      "ts": 1795736667000
-    },
-    {
-      "time": "6:41 PM",
-      "title": "Bloomberg — Japan Bank Shares Risk Further Unwind as Funding Cost Bites",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/japan-bank-shares-risk-further-unwind-as-funding-cost-bites",
-      "ts": 1795736496000
-    },
-    {
-      "time": "6:18 PM",
-      "title": "Bloomberg — Lula Taps Bradesco Chair as Finance Chief to Soothe Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/lula-taps-bradesco-chairman-as-finance-chief-to-reassure-markets",
-      "ts": 1795735101000
-    },
-    {
-      "time": "6:05 PM",
-      "title": "Bloomberg — Latest Oil Market News and Analysis for Nov. 27",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/latest-oil-market-news-and-analysis-for-nov-27",
-      "ts": 1795734338000
     }
   ]
 }
