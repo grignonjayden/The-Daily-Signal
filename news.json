@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:39 PM ET",
+  "generated_at": "Nov 26, 2026, 8:43 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795743594375,
+  "updated_ts": 1795743794995,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "8:38 PM",
+      "title": "CNBC — China industrial profits growth surges to a 5-month high of 20.1% in October",
+      "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "ts": 1795743480000
+    },
+    {
       "time": "8:26 PM",
       "title": "Globe and Mail — Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
       "url": "https://www.theglobeandmail.com/business/article-ottawa-cheap-canned-vegetables-import-tariffs-domestic-industry/",
@@ -300,12 +306,6 @@
       "title": "Bloomberg — Japan GPIF to Brief on Every Asset-Mix Review, Not Just Some",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-gpif-to-brief-on-every-asset-mix-review-not-just-some",
       "ts": 1795739684000
-    },
-    {
-      "time": "7:33 PM",
-      "title": "Investing.com — WiseTech shares jump 16.7% to nearly 10-month high as FY27 outlook holds",
-      "url": "https://www.investing.com/news/stock-market-news/wisetech-shares-jump-167-to-nearly-10month-high-as-fy27-outlook-holds-5052790",
-      "ts": 1795739605000
     }
   ]
 }
