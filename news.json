@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 12:34 PM ET",
+  "generated_at": "Nov 27, 2026, 12:38 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795800883470,
+  "updated_ts": 1795801084637,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -237,16 +237,16 @@
   ],
   "ticker": [
     {
+      "time": "12:36 PM",
+      "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "ts": 1795800965000
+    },
+    {
       "time": "12:31 PM",
       "title": "MarketWatch — Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
       "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
       "ts": 1795800660000
-    },
-    {
-      "time": "12:24 PM",
-      "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795800262000
     },
     {
       "time": "12:23 PM",
