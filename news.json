@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 1:04 PM ET",
+  "generated_at": "Nov 27, 2026, 1:08 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795802697162,
+  "updated_ts": 1795802909712,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -234,6 +234,12 @@
       "ts": 1795802630000
     },
     {
+      "time": "12:59 PM",
+      "title": "Investing.com — Investing.com’s stocks of the week",
+      "url": "https://www.investing.com/news/stock-market-news/investingcoms-stocks-of-the-week-5053762",
+      "ts": 1795802350000
+    },
+    {
       "time": "12:48 PM",
       "title": "Globe and Mail — Ottawa outlines $6.5-billion plan to reinvent struggling forest industry",
       "url": "https://www.theglobeandmail.com/canada/article-ottawa-forest-industry-strategy-hodgson-november-27/",
@@ -292,12 +298,6 @@
       "title": "Investing.com — Netherlands stocks higher at close of trade; AEX up 1.24%",
       "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-124-5053738",
       "ts": 1795799248000
-    },
-    {
-      "time": "12:07 PM",
-      "title": "Investing.com — Italy stocks higher at close of trade; Investing.com Italy 40 up 1.84%",
-      "url": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-184-5053737",
-      "ts": 1795799222000
     }
   ]
 }
