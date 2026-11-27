@@ -1,8 +1,28 @@
 {
-  "generated_at": "Nov 27, 2026, 6:46 AM ET",
+  "generated_at": "Nov 27, 2026, 6:49 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795779993081,
+  "updated_ts": 1795780192070,
   "articles": [
+    {
+      "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
+      "time": "Nov 27, 4:12 AM",
+      "coverage": 6,
+      "ts": 1795770739000
+    },
+    {
+      "title": "Wall street futures surge toward best week in months on Nvidia lifeline",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
+      "time": "Nov 27, 6:00 AM",
+      "coverage": 5,
+      "ts": 1795777219000
+    },
     {
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
       "source": "CNBC",
@@ -12,16 +32,6 @@
       "time": "Nov 27, 5:20 AM",
       "coverage": 5,
       "ts": 1795774839000
-    },
-    {
-      "title": "Stock futures rise as Wall Street gets set to wrap up a volatile holiday week: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
-      "time": "Nov 27, 4:12 AM",
-      "coverage": 5,
-      "ts": 1795770739000
     },
     {
       "title": "Don’t miss out: Get 60% off InvestingPro before our Black Friday sale ends",
@@ -75,16 +85,6 @@
       "ts": 1795770720000
     },
     {
-      "title": "Goldman Sachs sees US GDP at 2.4% in 2027 with lower inflation",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-us-gdp-at-24-in-2027-with-lower-inflation-93CH-5053340",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/GoldmanSachsGroup_800x533_L_1670864483.jpg",
-      "time": "Nov 27, 6:26 AM",
-      "coverage": 3,
-      "ts": 1795778801000
-    },
-    {
       "title": "Turkey Fund Investors Face Principal Loss Despite Erdogan Pledge",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-fund-investors-face-principal-loss-despite-erdogan-pledge",
@@ -135,13 +135,14 @@
       "ts": 1795667395000
     },
     {
-      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
-      "ts": 1795617488000
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
     }
   ],
   "outlets": [
@@ -235,22 +236,10 @@
   ],
   "ticker": [
     {
-      "time": "6:42 AM",
-      "title": "Investing.com — Exclusive-Hackers breach US Air Force flagship Cloud One computing platform",
-      "url": "https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314",
-      "ts": 1795779762000
-    },
-    {
-      "time": "6:42 AM",
-      "title": "Investing.com — Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
-      "url": "https://www.investing.com/news/stock-market-news/explainerblack-friday-test-for-retailers-as-tight-budgets-meet-aisavvy-shoppers-5053309",
-      "ts": 1795779744000
-    },
-    {
-      "time": "6:37 AM",
-      "title": "Investing.com — Citi flags solar, storage, and SST sector updates ahead of key policy moves",
-      "url": "https://www.investing.com/news/stock-market-news/citi-flags-solar-storage-and-sst-sector-updates-ahead-of-key-policy-moves-93CH-5053348",
-      "ts": 1795779430000
+      "time": "6:49 AM",
+      "title": "CNBC — Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "ts": 1795780158000
     },
     {
       "time": "6:35 AM",
@@ -266,6 +255,12 @@
     },
     {
       "time": "6:30 AM",
+      "title": "Investing.com — Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
+      "url": "https://www.investing.com/news/stock-market-news/explainerblack-friday-test-for-retailers-as-tight-budgets-meet-aisavvy-shoppers-5053309",
+      "ts": 1795779056000
+    },
+    {
+      "time": "6:30 AM",
       "title": "Bloomberg — Deutsche Boerse’s €5.3 billion Allfunds Deal Gets EU Approval",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/deutsche-boerse-s-5-3-billion-allfunds-deal-gets-eu-approval",
       "ts": 1795779000000
@@ -275,6 +270,12 @@
       "title": "CNBC — Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
       "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
       "ts": 1795778840000
+    },
+    {
+      "time": "6:26 AM",
+      "title": "Investing.com — Goldman Sachs sees US GDP at 2.4% in 2027 with lower inflation",
+      "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-us-gdp-at-24-in-2027-with-lower-inflation-93CH-5053340",
+      "ts": 1795778801000
     },
     {
       "time": "6:25 AM",
@@ -289,6 +290,12 @@
       "ts": 1795778681000
     },
     {
+      "time": "6:24 AM",
+      "title": "Investing.com — Exclusive-Hackers breach US Air Force flagship Cloud One computing platform",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314",
+      "ts": 1795778664000
+    },
+    {
       "time": "6:23 AM",
       "title": "Investing.com — Why is Cloudflare stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-cloudflare-stock-rallying-today-93CH-5053338",
@@ -299,12 +306,6 @@
       "title": "Investing.com — US equity funds post biggest outflows in 11 weeks as tech rout weighs",
       "url": "https://www.investing.com/news/stock-market-news/us-equity-funds-post-biggest-outflows-in-11-weeks-as-tech-rout-weighs-5053333",
       "ts": 1795778306000
-    },
-    {
-      "time": "6:17 AM",
-      "title": "Investing.com — European shares extend rally, but bruising November leaves AI scars",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
-      "ts": 1795778251000
     }
   ]
 }
