@@ -1,8 +1,44 @@
 {
-  "generated_at": "Nov 27, 2026, 1:38 PM ET",
+  "generated_at": "Nov 27, 2026, 2:05 PM ET",
   "date_key": "2026-11-27",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Alberta-to-B.C. pipeline project to increase flow has been completed",
+      "url": "https://www.cp24.com/news/canada/2026/11/27/project-to-increase-trans-mountain-pipeline-flows-starts-up-ahead-of-schedule/",
+      "image": "https://www.cp24.com/resizer/v2/LJQILBVQ4DD5E7FB5PQNPIHG4Q.jpg?auth=95542c0953764f06a8eded1ec8b57b1ab2cbf2ac8df3cca214480a2c07866e88&smart=true&width=1400&height=961",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "Energy",
+      "time": "Nov 27",
+      "date": "2026-11-27T22:54:40.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Mackenzie Valley Highway becomes first major project of national interest in Canada’s North",
+      "url": "https://www.cp24.com/news/canada/2026/11/27/carney-travels-to-yellowknife-for-announcement-on-major-initiative/",
+      "image": "https://www.cp24.com/resizer/v2/6VUZOHJIOQ4OH3IW44QMCV3NTI.jpg?auth=5ac5fa0447785e2c10deb0ca199ee4f932129b652e74a1ef8cc2819928dcbc93&smart=true&width=1400&height=933",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "Infrastructure",
+      "time": "Nov 27",
+      "date": "2026-11-27T22:53:03.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Government reveals contractor shortlist for 24 Sussex overhaul",
+      "url": "https://www.cbc.ca/news/politics/contractor-shortlist-24-sussex-renovation-9.7439108?cmp=rss",
+      "image": "https://i.cbc.ca/ais/9e507151-5853-4649-a50a-12ceb7e0d86c,1795804436036/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5765%2C3242%29%3B",
+      "source": "CBC News",
+      "badge": "CBC",
+      "analysis": false,
+      "sector": "General",
+      "time": "Nov 27",
+      "date": "2026-11-27T18:57:58.000Z",
+      "group": "sector"
+    },
     {
       "title": "Government highlights support for Tla’amin Nation’s acquisition of British Columbia forestry operation",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-highlights-support-for-tlaamin-nations-acquisition-of-british-columbia-forestry-operation.html",
@@ -13,18 +49,6 @@
       "sector": "Energy",
       "time": "Nov 27",
       "date": "2026-11-27T18:27:49.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Prime Minister Mark Carney talks major projects in northern visit",
-      "url": "https://www.cbc.ca/news/canada/north/livestory/prime-minister-mark-carney-north-9.7438167?cmp=rss",
-      "image": "https://i.cbc.ca/ais/911900c9-45f4-4522-840a-5818b088a6b2,1795794571410/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
-      "source": "CBC News",
-      "badge": "CBC",
-      "analysis": false,
-      "sector": "Infrastructure",
-      "time": "Nov 27",
-      "date": "2026-11-27T14:59:12.000Z",
       "group": "sector"
     },
     {
@@ -49,30 +73,6 @@
       "sector": "General",
       "time": "Nov 27",
       "date": "2026-11-27T11:00:55.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Liberals will pass Bill C-39, despite competing views within caucus: House leader",
-      "url": "https://www.cp24.com/news/canada/2026/11/27/slam-dunk-with-our-own-mps-government-house-leader-confident-liberals-will-pass-bill-c-39/",
-      "image": "https://www.cp24.com/resizer/v2/N6YZ2FPF4MT4DMUC4YXHB3YO4Q.jpg?auth=5368fc421d22daf47f7e329a0dc4ad1893d87778d3b6f78f962970ebe267f3e4&smart=true&width=1400&height=933",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Infrastructure",
-      "time": "Nov 27",
-      "date": "2026-11-27T06:55:11.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Supreme Court to rule on Quebec’s secularism law. Experts say the stakes could not be higher",
-      "url": "https://www.cp24.com/news/canada/2026/11/27/supreme-court-to-rule-on-quebecs-secularism-law-experts-say-the-stakes-could-not-be-higher/",
-      "image": "https://www.cp24.com/resizer/v2/B4T7T262XBVRRLLR4C5M7FRHZE.jpg?auth=e4e172bb2055723d063d34779b1891a494426ae9f5dce8f10fa5be9a850b2d7a&smart=true&width=1400&height=1032",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "General",
-      "time": "Nov 27",
-      "date": "2026-11-27T06:54:16.000Z",
       "group": "sector"
     },
     {
@@ -242,9 +242,9 @@
       "kept": 3
     },
     {
-      "source": "Finance Canada",
+      "source": "CDEV",
       "fetched": 20,
-      "kept": 4
+      "kept": 0
     },
     {
       "source": "Canada Media Fund",
@@ -252,9 +252,14 @@
       "kept": 0
     },
     {
-      "source": "CDEV",
+      "source": "Finance Canada",
       "fetched": 20,
-      "kept": 0
+      "kept": 4
+    },
+    {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 3
     },
     {
       "source": "ISED",
@@ -265,11 +270,6 @@
       "source": "C.D. Howe Institute",
       "fetched": 24,
       "kept": 4
-    },
-    {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 3
     }
   ]
 }

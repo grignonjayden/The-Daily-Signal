@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 2:02 PM ET",
+  "generated_at": "Nov 27, 2026, 2:05 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795806134048,
+  "updated_ts": 1795806352001,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -228,6 +228,30 @@
   ],
   "ticker": [
     {
+      "time": "2:00 PM",
+      "title": "Investing.com — Chicago PMI and CFTC speculative positions among economic data due Monday",
+      "url": "https://www.investing.com/news/stock-market-news/chicago-pmi-and-cftc-speculative-positions-among-economic-data-due-monday-93CH-5053804",
+      "ts": 1795806051000
+    },
+    {
+      "time": "2:00 PM",
+      "title": "Investing.com — Rubrik, Nano Nuclear Energy, and more set to report earnings Friday",
+      "url": "https://www.investing.com/news/stock-market-news/rubrik-nano-nuclear-energy-and-more-set-to-report-earnings-friday-93CH-5053802",
+      "ts": 1795806032000
+    },
+    {
+      "time": "2:00 PM",
+      "title": "Investing.com — Exclusive-Armani heirs consider buying small slice of fashion house in stake sale, sources say",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivearmani-heirs-consider-buying-small-slice-of-fashion-house-in-stake-sale-sources-say-5053801",
+      "ts": 1795806022000
+    },
+    {
+      "time": "1:48 PM",
+      "title": "Investing.com — OpenAI countersues Apple for stealing trade secrets, FT reports",
+      "url": "https://www.investing.com/news/stock-market-news/openai-countersues-apple-for-stealing-trade-secrets-ft-reports-5053798",
+      "ts": 1795805299000
+    },
+    {
       "time": "1:46 PM",
       "title": "CNBC — Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
       "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
@@ -274,30 +298,6 @@
       "title": "Investing.com — Investing.com’s stocks of the week",
       "url": "https://www.investing.com/news/stock-market-news/investingcoms-stocks-of-the-week-5053762",
       "ts": 1795802350000
-    },
-    {
-      "time": "12:48 PM",
-      "title": "Globe and Mail — Ottawa outlines $6.5-billion plan to reinvent struggling forestry sector",
-      "url": "https://www.theglobeandmail.com/canada/article-ottawa-forest-industry-strategy-hodgson-november-27/",
-      "ts": 1795801729000
-    },
-    {
-      "time": "12:31 PM",
-      "title": "MarketWatch — Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-      "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-      "ts": 1795800660000
-    },
-    {
-      "time": "12:30 PM",
-      "title": "Investing.com — FTSE 100 today: Stocks climb as miners lead on metals rebound; Entain gains",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108",
-      "ts": 1795800646000
-    },
-    {
-      "time": "12:26 PM",
-      "title": "Investing.com — European shares extend rise, but bruising November leaves AI scars",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
-      "ts": 1795800401000
     }
   ]
 }
