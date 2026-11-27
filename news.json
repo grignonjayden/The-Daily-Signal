@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 3:06 PM ET",
+  "generated_at": "Nov 27, 2026, 3:09 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795809974597,
+  "updated_ts": 1795810173535,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -106,17 +106,6 @@
       "ts": 1795801012000
     },
     {
-      "title": "European Stock Indexes Rise as Tech Rally Extends",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
-      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 3:32 AM",
-      "coverage": 3,
-      "ts": 1795768320000
-    },
-    {
       "title": "U.S. goods trade deficit widens again as AI-led imports hit record high",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-us-goods-trade-deficit-widens-again-as-ai-led-imports-hit-record-high/",
@@ -125,6 +114,16 @@
       "time": "Nov 27, 11:45 AM",
       "coverage": 2,
       "ts": 1795797946000
+    },
+    {
+      "title": "Oil Futures Mixed in Shortened U.S. Trading Day",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "snippet": "Crude futures were mixed in light U.S. Black Friday trading with the market watching shipping risks in the Middle East and awaiting Sunday’s meeting of OPEC and its allies to discuss output policy for 2027.",
+      "image": "https://images.wsj.net/im-48078726",
+      "time": "Nov 27, 9:54 AM",
+      "coverage": 2,
+      "ts": 1795791240000
     },
     {
       "title": "Ontario’s mortgage arrears rate nears 2008 levels, the Home of the Week and more top real estate stories",
@@ -234,6 +233,12 @@
       "ts": 1795809788000
     },
     {
+      "time": "3:00 PM",
+      "title": "Investing.com — Hackers breach US Air Force flagship Cloud One computing platform",
+      "url": "https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314",
+      "ts": 1795809625000
+    },
+    {
       "time": "2:55 PM",
       "title": "MarketWatch — Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
       "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
@@ -292,12 +297,6 @@
       "title": "MarketWatch — The warnings behind this week’s stock-market rally",
       "url": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
       "ts": 1795804800000
-    },
-    {
-      "time": "1:22 PM",
-      "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
-      "url": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-7ba86b3a?mod=rss_markets_main",
-      "ts": 1795803720000
     }
   ]
 }
