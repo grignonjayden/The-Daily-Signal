@@ -1,8 +1,20 @@
 {
-  "generated_at": "Nov 26, 2026, 8:26 PM ET",
+  "generated_at": "Nov 26, 2026, 9:00 PM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Supreme Court to rule on Quebec’s secularism law. Experts say the stakes could not be higher",
+      "url": "https://www.cp24.com/news/canada/2026/11/27/supreme-court-to-rule-on-quebecs-secularism-law-experts-say-the-stakes-could-not-be-higher/",
+      "image": "https://www.cp24.com/resizer/v2/B4T7T262XBVRRLLR4C5M7FRHZE.jpg?auth=e4e172bb2055723d063d34779b1891a494426ae9f5dce8f10fa5be9a850b2d7a&smart=true&width=1400&height=1032",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "General",
+      "time": "Nov 27",
+      "date": "2026-11-27T05:50:16.000Z",
+      "group": "sector"
+    },
     {
       "title": "‘Slam dunk with our own MPs:’ Government House leader confident Liberals will pass Bill C-39",
       "url": "https://www.cp24.com/news/canada/2026/11/27/slam-dunk-with-our-own-mps-government-house-leader-confident-liberals-will-pass-bill-c-39/",
@@ -13,18 +25,6 @@
       "sector": "Infrastructure",
       "time": "Nov 26",
       "date": "2026-11-27T04:30:43.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Liberals support Conservative push for minister to testify after W5 drug-smuggling investigation",
-      "url": "https://www.cp24.com/news/canada/2026/11/26/transport-minister-could-soon-be-called-to-testify-before-committee-about-bag-tag-switching/",
-      "image": "https://www.cp24.com/resizer/v2/7ECDAGXFZZFEEZYU34NV62PIQY.jpg?auth=1233b45e4796827ce8ac10bdbd8e1fb4aabdd221236d84c9d0b1da18b930d69c&smart=true&width=1400&height=916",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Infrastructure",
-      "time": "Nov 26",
-      "date": "2026-11-27T03:35:55.000Z",
       "group": "sector"
     },
     {
@@ -225,19 +225,14 @@
       "kept": 3
     },
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
-    },
-    {
       "source": "Finance Canada",
       "fetched": 20,
       "kept": 4
     },
     {
-      "source": "CDEV",
+      "source": "ISED",
       "fetched": 20,
-      "kept": 0
+      "kept": 4
     },
     {
       "source": "CP24",
@@ -245,14 +240,19 @@
       "kept": 2
     },
     {
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 0
+    },
+    {
       "source": "Canada Media Fund",
       "fetched": 24,
       "kept": 0
     },
     {
-      "source": "ISED",
-      "fetched": 20,
-      "kept": 4
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
     },
     {
       "source": "C.D. Howe Institute",

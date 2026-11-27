@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 26, 2026, 8:56 PM ET",
+  "generated_at": "Nov 26, 2026, 8:59 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795744598680,
+  "updated_ts": 1795744797799,
   "articles": [
+    {
+      "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
+      "time": "Nov 26, 8:45 PM",
+      "coverage": 5,
+      "ts": 1795743916000
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -24,23 +34,13 @@
       "ts": 1795739460000
     },
     {
-      "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
-      "time": "Nov 26, 8:45 PM",
-      "coverage": 4,
-      "ts": 1795743916000
-    },
-    {
       "title": "U.S. stock futures rise in holiday-thinned trade; tech rebound in focus",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
       "snippet": "",
       "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
       "time": "Nov 26, 7:01 PM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795737682000
     },
     {
@@ -75,16 +75,6 @@
       "ts": 1795738949000
     },
     {
-      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
-      "snippet": "Asian markets rose Thursday as investors brushed aside new U.S. tariff proposals and Wall Street recouped most of its sharp losses ahead of the Thanksgiving holiday.",
-      "image": "https://images.wsj.net/im-98798504",
-      "time": "Nov 26, 12:22 AM",
-      "coverage": 5,
-      "ts": 1795670520000
-    },
-    {
       "title": "Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-altria-explores-takeover-of-imperial-brands/",
@@ -105,6 +95,17 @@
       "ts": 1795698060000
     },
     {
+      "title": "Stocks Rise With Nasdaq Futures, Treasuries Fall: Markets Wrap",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/asian-stock-futures-signal-gains-oil-climbs-again-markets-wrap",
+      "snippet": "Asian stocks rose for a second day along with US equity-index futures, extending a tentative recovery after weeks of volatility in the artificial intelligence trade. Treasuries declined as cash trading resumed…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 4:59 PM",
+      "coverage": 3,
+      "ts": 1795730397000
+    },
+    {
       "title": "Musk pledges two SpaceX shares for every U.S. child in $18-billion AI charm offensive",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/article-musk-pledges-two-spacex-shares-for-every-us-child-in-18-billion-ai/",
@@ -115,15 +116,14 @@
       "ts": 1795696629000
     },
     {
-      "title": "IMF Urges RBA to Be Ready to Tighten Further If Prices Worsen",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
-      "snippet": "Australia’s monetary authorities should stand ready to raise interest rates further if price pressures are more persistent, the International Monetary Fund said, while calling on the government to deliver on pledges…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "snippet": "Oil prices were mixed in early Asian trade. Rising attacks on energy infrastructure across the Middle East have raised concerns of further supply disruptions, ANZ said.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 26, 8:10 PM",
-      "coverage": 2,
-      "ts": 1795741812000
+      "time": "Nov 26, 8:48 PM",
+      "ts": 1795744080000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -242,12 +242,6 @@
       "ts": 1795744260000
     },
     {
-      "time": "8:48 PM",
-      "title": "WSJ Markets — Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
-      "ts": 1795744080000
-    },
-    {
       "time": "8:40 PM",
       "title": "Bloomberg — How Volatility is Undermining the Carry Trade",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/how-volatility-is-undermining-the-carry-trade-video",
@@ -282,6 +276,12 @@
       "title": "Investing.com — Netherlands will ask Washington not to enforce MATCH Act, minister says",
       "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
       "ts": 1795741959000
+    },
+    {
+      "time": "8:10 PM",
+      "title": "Bloomberg — IMF Urges RBA to Be Ready to Tighten Further If Prices Worsen",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
+      "ts": 1795741812000
     },
     {
       "time": "8:08 PM",
