@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:53 AM ET",
+  "generated_at": "Nov 27, 2026, 10:57 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795794830439,
+  "updated_ts": 1795795033870,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -14,6 +14,16 @@
       "ts": 1795791993000
     },
     {
+      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+      "snippet": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+      "image": "https://images.mktw.net/im-70107432",
+      "time": "Nov 27, 10:52 AM",
+      "coverage": 5,
+      "ts": 1795794720000
+    },
+    {
       "title": "Wall Street rallies as tech stocks rebound, putting indexes on course for big week",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
@@ -22,16 +32,6 @@
       "time": "Nov 27, 10:41 AM",
       "coverage": 5,
       "ts": 1795794080000
-    },
-    {
-      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
-      "image": "https://images.mktw.net/im-58425830",
-      "time": "Nov 27, 8:15 AM",
-      "coverage": 5,
-      "ts": 1795785300000
     },
     {
       "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "10:53 AM",
+      "title": "Bloomberg — The Big Pressures Facing the Fed",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/the-big-pressures-facing-the-fed",
+      "ts": 1795794806000
+    },
+    {
       "time": "10:52 AM",
       "title": "CNBC — Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
       "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
@@ -300,12 +306,6 @@
       "time": "10:30 AM",
       "title": "WSJ Markets — Private-Equity Firms Have a Surprising New Source for Debt: the Nordic Bond Market",
       "url": "https://www.wsj.com/finance/investing/private-equity-firms-have-a-surprising-new-source-for-debt-the-nordic-bond-market-24163a71?mod=rss_markets_main",
-      "ts": 1795793400000
-    },
-    {
-      "time": "10:30 AM",
-      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "ts": 1795793400000
     }
   ]
