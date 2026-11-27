@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:29 PM ET",
+  "generated_at": "Nov 26, 2026, 8:33 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795742990051,
+  "updated_ts": 1795743193893,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -115,15 +115,15 @@
       "ts": 1795696629000
     },
     {
-      "title": "Brazil Assets Rally After Lula Names Banker as Finance Minister",
+      "title": "IMF Urges RBA to Be Ready to Tighten Further If Prices Worsen",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
-      "snippet": "Brazilian assets gained after one of the country’s best-known bankers was named the new finance minister.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/imf-urges-rba-to-be-ready-to-tighten-further-if-prices-worsen",
+      "snippet": "Australia’s monetary authorities should stand ready to raise interest rates further if price pressures are more persistent, the International Monetary Fund said, while calling on the government to deliver on pledges…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 26, 8:08 PM",
+      "time": "Nov 26, 8:10 PM",
       "coverage": 2,
-      "ts": 1795741680000
+      "ts": 1795741812000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "8:26 PM",
+      "title": "Globe and Mail — Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
+      "url": "https://www.theglobeandmail.com/business/article-ottawa-cheap-canned-vegetables-import-tariffs-domestic-industry/",
+      "ts": 1795742782000
+    },
+    {
       "time": "8:21 PM",
       "title": "WSJ Markets — MSCI India Gets Rare Earnings Upgrade",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
@@ -254,9 +260,21 @@
       "ts": 1795741959000
     },
     {
+      "time": "8:08 PM",
+      "title": "Bloomberg — Brazil Assets Rally After Lula Names Banker as Finance Minister",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
+      "ts": 1795741680000
+    },
+    {
       "time": "8:00 PM",
       "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "ts": 1795741200000
+    },
+    {
+      "time": "8:00 PM",
+      "title": "Bloomberg — Modi Critics Face Growing Constraints on Travel, Speech in India",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/modi-critics-face-growing-constraints-on-travel-speech-in-india",
       "ts": 1795741200000
     },
     {
@@ -288,24 +306,6 @@
       "title": "Investing.com — WiseTech shares jump 16.7% to nearly 10-month high as FY27 outlook holds",
       "url": "https://www.investing.com/news/stock-market-news/wisetech-shares-jump-167-to-nearly-10month-high-as-fy27-outlook-holds-5052790",
       "ts": 1795739605000
-    },
-    {
-      "time": "7:30 PM",
-      "title": "Investing.com — Trump says Wednesday’s market had him briefly ’concerned’ before stocks recovered",
-      "url": "https://www.investing.com/news/stock-market-news/trump-says-wednesdays-market-had-him-briefly-concerned-before-stocks-recovered-5052789",
-      "ts": 1795739422000
-    },
-    {
-      "time": "7:25 PM",
-      "title": "WSJ Markets — Gold Stabilizes But Faces Fragile Recovery",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
-      "ts": 1795739100000
-    },
-    {
-      "time": "7:16 PM",
-      "title": "Globe and Mail — Wealthsimple faces backlash over interest rate cuts, rollback of perks",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-wealthsimple-changes-interest-rate-cuts-chequing-rollback-perks/",
-      "ts": 1795738580000
     }
   ]
 }
