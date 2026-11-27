@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 5:49 PM ET",
+  "generated_at": "Nov 27, 2026, 5:53 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795819789604,
+  "updated_ts": 1795819988397,
   "articles": [
     {
       "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
@@ -54,14 +54,14 @@
       "ts": 1795817898000
     },
     {
-      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-      "snippet": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108560334-1795816810559-gettyimages-2248285067-emaz-1_em27443.jpeg?v=1795816828&w=1920&h=1080",
-      "time": "Nov 27, 5:00 PM",
-      "coverage": 4,
-      "ts": 1795816857000
+      "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+      "snippet": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1795450514&w=1920&h=1080",
+      "time": "Nov 27, 7:00 AM",
+      "coverage": 5,
+      "ts": 1795780822000
     },
     {
       "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
@@ -75,17 +75,6 @@
       "ts": 1795805016000
     },
     {
-      "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
-      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 12:36 PM",
-      "coverage": 4,
-      "ts": 1795801012000
-    },
-    {
       "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
@@ -96,16 +85,6 @@
       "ts": 1795799040000
     },
     {
-      "title": "Canadians expected to spend less on Black Friday this year",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
-      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
-      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
-      "time": "Nov 27, 7:44 AM",
-      "coverage": 4,
-      "ts": 1795783448000
-    },
-    {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
@@ -114,6 +93,27 @@
       "time": "Nov 27, 4:16 PM",
       "coverage": 3,
       "ts": 1795814160000
+    },
+    {
+      "title": "Canadians expected to spend less on Black Friday this year",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
+      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
+      "time": "Nov 27, 7:44 AM",
+      "coverage": 3,
+      "ts": 1795783448000
+    },
+    {
+      "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+      "snippet": "S&P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually adopt the euro.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 4:19 PM",
+      "coverage": 2,
+      "ts": 1795814371000
     },
     {
       "title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
@@ -240,6 +240,18 @@
       "ts": 1795818283000
     },
     {
+      "time": "5:14 PM",
+      "title": "Bloomberg — Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
+      "ts": 1795817681000
+    },
+    {
+      "time": "5:00 PM",
+      "title": "CNBC — Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "ts": 1795816857000
+    },
+    {
       "time": "4:31 PM",
       "title": "Investing.com — Why is Strategy stock gaining today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-gaining-today-93CH-5053886",
@@ -270,12 +282,6 @@
       "ts": 1795814403000
     },
     {
-      "time": "4:19 PM",
-      "title": "Bloomberg — Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
-      "ts": 1795814371000
-    },
-    {
       "time": "4:10 PM",
       "title": "WSJ Markets — Treasury Yields Gain As U.S. Equities Rally",
       "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
@@ -292,12 +298,6 @@
       "title": "Bloomberg — Mexican Airport Operator GAP Raises $398 Million for Fibra Trust",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/mexican-airport-operator-gap-raises-398-million-for-fibra-trust",
       "ts": 1795813505000
-    },
-    {
-      "time": "3:52 PM",
-      "title": "CNBC — OpenAI countersues Apple for stealing trade secrets",
-      "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
-      "ts": 1795812752000
     }
   ]
 }
