@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 5:29 AM ET",
+  "generated_at": "Nov 27, 2026, 5:33 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795775382594,
+  "updated_ts": 1795775582429,
   "articles": [
     {
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
@@ -231,6 +231,18 @@
   ],
   "ticker": [
     {
+      "time": "5:30 AM",
+      "title": "Globe and Mail — Which province has the worst mortgage delinquency rates? Take our business and investing news quiz",
+      "url": "https://www.theglobeandmail.com/business/article-mortgage-delinquency-rates-canada-news-quiz/",
+      "ts": 1795775400000
+    },
+    {
+      "time": "5:21 AM",
+      "title": "Bloomberg — JSE Courts Dangote Refinery Secondary Listing in Expansion Push",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/jse-courts-dangote-refinery-secondary-listing-in-expansion-push",
+      "ts": 1795774916000
+    },
+    {
       "time": "5:16 AM",
       "title": "WSJ Markets — Dubai’s Benchmark Stock Index Erases Wartime Losses as Banks, Property Shares Rise",
       "url": "https://www.wsj.com/finance/stocks/dubais-benchmark-stock-index-erases-wartime-losses-as-banks-property-shares-rise-8b5a7a52?mod=rss_markets_main",
@@ -289,18 +301,6 @@
       "title": "Investing.com — Why is Qualcomm stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-rallying-today-93CH-5053251",
       "ts": 1795774156000
-    },
-    {
-      "time": "5:07 AM",
-      "title": "Investing.com — Why is Broadcom stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-rallying-today-93CH-5053249",
-      "ts": 1795774026000
-    },
-    {
-      "time": "5:06 AM",
-      "title": "Investing.com — Why is NVIDIA stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-rallying-today-93CH-5053241",
-      "ts": 1795773980000
     }
   ]
 }
