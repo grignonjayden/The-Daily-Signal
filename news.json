@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 3:02 PM ET",
+  "generated_at": "Nov 27, 2026, 3:06 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795809774716,
+  "updated_ts": 1795809974597,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -228,6 +228,12 @@
   ],
   "ticker": [
     {
+      "time": "3:03 PM",
+      "title": "CNBC — Hackers breach U.S. Air Force flagship Cloud One computing platform",
+      "url": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html",
+      "ts": 1795809788000
+    },
+    {
       "time": "2:55 PM",
       "title": "MarketWatch — Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
       "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
@@ -292,12 +298,6 @@
       "title": "WSJ Markets — Auto & Transport Roundup: Market Talk",
       "url": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-7ba86b3a?mod=rss_markets_main",
       "ts": 1795803720000
-    },
-    {
-      "time": "1:20 PM",
-      "title": "CNBC — Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-      "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-      "ts": 1795803632000
     }
   ]
 }
