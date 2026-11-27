@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 10:20 PM ET",
+  "generated_at": "Nov 26, 2026, 10:24 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795749644385,
+  "updated_ts": 1795749848760,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -235,6 +235,12 @@
   ],
   "ticker": [
     {
+      "time": "10:18 PM",
+      "title": "Bloomberg — Japan’s ‘Tokyo Drift’ Car Culture Draws Global Fans",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/japan-s-tokyo-drift-car-culture-draws-global-fans-video",
+      "ts": 1795749518000
+    },
+    {
       "time": "10:01 PM",
       "title": "WSJ Markets — Korean Won Poised to Strengthen Against Dollar in 2027",
       "url": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
@@ -299,12 +305,6 @@
       "title": "Investing.com — +54%, +41%, +41%: Asia’s AI-picked strategies leading their markets in 2026",
       "url": "https://www.investing.com/news/stock-market-news/54-41-41-asias-aipicked-strategies-leading-their-markets-in-2026-5052809",
       "ts": 1795744793000
-    },
-    {
-      "time": "8:46 PM",
-      "title": "Investing.com — Why is 3P Learning stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-3p-learning-stock-surging-today-93CH-5052808",
-      "ts": 1795744009000
     }
   ]
 }
