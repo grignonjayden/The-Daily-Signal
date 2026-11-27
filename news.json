@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 11:24 AM ET",
+  "generated_at": "Nov 27, 2026, 11:27 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795796642044,
+  "updated_ts": 1795796850993,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "11:26 AM",
+      "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "ts": 1795796804000
+    },
+    {
       "time": "11:12 AM",
       "title": "CNBC — Stocks making the biggest moves Friday: SpaceX, Altria, Vertex Pharmaceuticals & more",
       "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
@@ -252,12 +258,6 @@
       "title": "CNBC — Josh Brown lost a bet on Disney. It is now on his Best Stocks in the Market list",
       "url": "https://www.cnbc.com/2026/11/27/josh-brown-lost-a-bet-on-disney-it-is-now-on-his-best-stocks-in-the-market-list.html",
       "ts": 1795795351000
-    },
-    {
-      "time": "11:00 AM",
-      "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795795250000
     },
     {
       "time": "10:58 AM",
