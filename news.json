@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 5:56 AM ET",
+  "generated_at": "Nov 27, 2026, 5:59 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795776991596,
+  "updated_ts": 1795777190415,
   "articles": [
     {
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
@@ -234,6 +234,12 @@
   ],
   "ticker": [
     {
+      "time": "5:54 AM",
+      "title": "MarketWatch — Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
+      "url": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
+      "ts": 1795776840000
+    },
+    {
       "time": "5:49 AM",
       "title": "MarketWatch — SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
       "url": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
@@ -297,12 +303,6 @@
       "time": "5:30 AM",
       "title": "WSJ Markets — Trump Can’t Rescue the Stock Market. Here’s What Can.",
       "url": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
-      "ts": 1795775400000
-    },
-    {
-      "time": "5:30 AM",
-      "title": "Globe and Mail — Which province has the worst mortgage delinquency rates? Take our business and investing news quiz",
-      "url": "https://www.theglobeandmail.com/business/article-mortgage-delinquency-rates-canada-news-quiz/",
       "ts": 1795775400000
     }
   ]
