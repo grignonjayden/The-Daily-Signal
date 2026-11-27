@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 9:03 PM ET",
+  "generated_at": "Nov 26, 2026, 9:06 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795745008706,
+  "updated_ts": 1795745208632,
   "articles": [
     {
       "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -44,17 +44,17 @@
       "ts": 1795737682000
     },
     {
-      "title": "Musk says he will donate another SpaceX share to American kids annually",
+      "title": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/musk-says-he-will-donate-another-spacex-share-to-american-kids-annually-5052757",
+      "url": "https://www.investing.com/news/stock-market-news/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands-5052558",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEL3E0ZA_L.jpg",
-      "time": "Nov 26, 6:31 PM",
-      "coverage": 4,
-      "ts": 1795735907000
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP17O_L.jpg",
+      "time": "Nov 26, 7:42 PM",
+      "coverage": 3,
+      "ts": 1795740140000
     },
     {
-      "title": "Japan Tobacco Shares Climb on Potential Imperial Brands Takeover",
+      "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
       "snippet": "Japan Tobacco Inc. shares gained after news that the cigarette maker is exploring a potential takeover of Imperial Brands Plc with Altria Group Inc.",
@@ -106,16 +106,6 @@
       "ts": 1795730397000
     },
     {
-      "title": "Musk pledges two SpaceX shares for every U.S. child in $18-billion AI charm offensive",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/article-musk-pledges-two-spacex-shares-for-every-us-child-in-18-billion-ai/",
-      "snippet": "Share giveaway announced hours after company won approval to deploy a million satellites for data centres in space",
-      "image": "https://www.theglobeandmail.com/resizer/v2/GWCJRYALWNCG7AKYRMLVYZEVF4.jpg?auth=bda122dc55db1338facde98e5bba9bad1bd9ef63a243c10d880ad2f637bca9f1&smart=true&width=8640&height=5760",
-      "time": "Nov 26, 7:37 AM",
-      "coverage": 4,
-      "ts": 1795696629000
-    },
-    {
       "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
@@ -126,13 +116,22 @@
       "ts": 1795744080000
     },
     {
+      "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-ottawa-cheap-canned-vegetables-import-tariffs-domestic-industry/",
+      "snippet": "Tariffs to be introduced on imports above a set quota from trading partners such as the U.S. and Europe as of Dec. 1",
+      "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
+      "time": "Nov 26, 8:26 PM",
+      "ts": 1795742782000
+    },
+    {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
       "snippet": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
       "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/elon-musk-spacex-trump-accounts-donation.jpg",
       "time": "Nov 25, 11:29 PM",
-      "coverage": 4,
+      "coverage": 3,
       "ts": 1795667395000
     },
     {
@@ -236,10 +235,10 @@
   ],
   "ticker": [
     {
-      "time": "9:02 PM",
+      "time": "9:04 PM",
       "title": "CNBC — China industrial profits growth surges to a 5-month high of 20.1% in October",
       "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-      "ts": 1795744968000
+      "ts": 1795745049000
     },
     {
       "time": "8:51 PM",
@@ -248,16 +247,16 @@
       "ts": 1795744260000
     },
     {
+      "time": "8:46 PM",
+      "title": "Investing.com — Why is 3P Learning stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-3p-learning-stock-surging-today-93CH-5052808",
+      "ts": 1795744009000
+    },
+    {
       "time": "8:40 PM",
       "title": "Bloomberg — How Volatility is Undermining the Carry Trade",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/how-volatility-is-undermining-the-carry-trade-video",
       "ts": 1795743601000
-    },
-    {
-      "time": "8:26 PM",
-      "title": "Globe and Mail — Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
-      "url": "https://www.theglobeandmail.com/business/article-ottawa-cheap-canned-vegetables-import-tariffs-domestic-industry/",
-      "ts": 1795742782000
     },
     {
       "time": "8:22 PM",
