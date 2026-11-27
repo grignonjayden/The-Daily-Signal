@@ -140,6 +140,35 @@
     box-shadow: var(--shadow-md);
   }
   .hero-row { display: flex; justify-content: space-between; align-items: flex-end; gap: 20px; flex-wrap: wrap; }
+  /* Slowly moving colour glow behind the title, in the TDS palette (navy, orange, purple, blue) */
+  .hero-row { position: relative; z-index: 1; }
+  .hero::before, .hero::after { content: ''; position: absolute; inset: -60%; z-index: 0; pointer-events: none; will-change: transform; }
+  .hero::before {
+    background:
+      radial-gradient(closest-side at 30% 35%, rgba(28,46,82,0.26), transparent),
+      radial-gradient(closest-side at 72% 30%, rgba(217,114,44,0.22), transparent),
+      radial-gradient(closest-side at 55% 72%, rgba(75,46,107,0.22), transparent);
+    animation: heroSwirl 30s linear infinite;
+  }
+  .hero::after {
+    background:
+      radial-gradient(closest-side at 40% 60%, rgba(47,99,214,0.11), transparent),
+      radial-gradient(closest-side at 65% 45%, rgba(217,114,44,0.10), transparent);
+    animation: heroDrift 16s ease-in-out infinite alternate;
+  }
+  :root[data-theme="dark"] .hero::before {
+    background:
+      radial-gradient(closest-side at 30% 35%, rgba(143,176,236,0.24), transparent),
+      radial-gradient(closest-side at 72% 30%, rgba(232,132,63,0.22), transparent),
+      radial-gradient(closest-side at 55% 72%, rgba(180,151,220,0.22), transparent);
+  }
+  :root[data-theme="dark"] .hero::after {
+    background:
+      radial-gradient(closest-side at 40% 60%, rgba(111,140,200,0.18), transparent),
+      radial-gradient(closest-side at 65% 45%, rgba(232,132,63,0.09), transparent);
+  }
+  @keyframes heroSwirl { to { transform: rotate(360deg); } }
+  @keyframes heroDrift { 0% { transform: translate(-8%, -4%) scale(1); } 50% { transform: translate(6%, 5%) scale(1.12); } 100% { transform: translate(10%, -6%) scale(0.95); } }
   .greeting { font-size: 13px; font-weight: 600; color: var(--ink-soft); margin: 0 0 6px; display: flex; align-items: center; gap: 8px; }
   .live-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--pink); position: relative; }
   .live-dot::after {
