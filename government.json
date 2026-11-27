@@ -1,8 +1,20 @@
 {
-  "generated_at": "Nov 26, 2026, 7:19 PM ET",
+  "generated_at": "Nov 26, 2026, 7:52 PM ET",
   "date_key": "2026-11-26",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "‘Slam dunk with our own MPs:’ Government House leader confident Liberals will pass Bill C-39",
+      "url": "https://www.cp24.com/news/canada/2026/11/27/slam-dunk-with-our-own-mps-government-house-leader-confident-liberals-will-pass-bill-c-39/",
+      "image": "https://www.cp24.com/resizer/v2/N6YZ2FPF4MT4DMUC4YXHB3YO4Q.jpg?auth=5368fc421d22daf47f7e329a0dc4ad1893d87778d3b6f78f962970ebe267f3e4&smart=true&width=1400&height=933",
+      "source": "CP24",
+      "badge": "CP24",
+      "analysis": false,
+      "sector": "Infrastructure",
+      "time": "Nov 26",
+      "date": "2026-11-27T04:30:43.000Z",
+      "group": "sector"
+    },
     {
       "title": "Liberals support Conservative push for minister to testify after W5 drug-smuggling investigation",
       "url": "https://www.cp24.com/news/canada/2026/11/26/transport-minister-could-soon-be-called-to-testify-before-committee-about-bag-tag-switching/",
@@ -49,18 +61,6 @@
       "sector": "AI & tech",
       "time": "Nov 26",
       "date": "2026-11-26T16:57:42.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Eric Ham: Trump’s hypocrisy on China exposes Washington’s latest bluff against Ottawa",
-      "url": "https://www.cp24.com/news/canada/2026/11/26/eric-ham-trumps-hypocrisy-on-china-exposes-washingtons-latest-bluff-against-ottawa/",
-      "image": "https://www.cp24.com/resizer/v2/7YHLW7QDSJFQTLYRVI7AX2PRMQ.jpg?auth=35bd868c8fec783f99c975910d6be4a777dfef9386e3192e833f6852a8528262&smart=true&width=2603&height=1464",
-      "source": "CP24",
-      "badge": "CP24",
-      "analysis": false,
-      "sector": "Trade",
-      "time": "Nov 26",
-      "date": "2026-11-26T14:00:00.000Z",
       "group": "sector"
     },
     {
@@ -220,11 +220,6 @@
   ],
   "feed_status": [
     {
-      "source": "CBC News",
-      "fetched": 40,
-      "kept": 2
-    },
-    {
       "source": "Bank of Canada",
       "fetched": 20,
       "kept": 3
@@ -235,19 +230,24 @@
       "kept": 4
     },
     {
+      "source": "CBC News",
+      "fetched": 40,
+      "kept": 2
+    },
+    {
       "source": "CP24",
       "fetched": 200,
       "kept": 2
     },
     {
-      "source": "CDEV",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
       "source": "ISED",
       "fetched": 20,
       "kept": 4
+    },
+    {
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 0
     },
     {
       "source": "Canada Media Fund",
