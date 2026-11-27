@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 7:46 AM ET",
+  "generated_at": "Nov 27, 2026, 7:50 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795783604031,
+  "updated_ts": 1795783806796,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "7:48 AM",
+      "title": "WSJ Markets — Allstate Joins Growing List of Companies Hit by Tech Outages",
+      "url": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?mod=rss_markets_main",
+      "ts": 1795783680000
+    },
+    {
       "time": "7:45 AM",
       "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
@@ -268,6 +274,12 @@
     },
     {
       "time": "7:29 AM",
+      "title": "Investing.com — Canada’s TSX futures climb as Bay Street eyes three-day winning streak",
+      "url": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-climb-as-bay-street-eyes-threeday-winning-streak-5053439",
+      "ts": 1795782556000
+    },
+    {
+      "time": "7:29 AM",
       "title": "MarketWatch — A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
       "url": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
       "ts": 1795782540000
@@ -277,6 +289,12 @@
       "title": "MarketWatch — Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
       "url": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
       "ts": 1795782540000
+    },
+    {
+      "time": "7:24 AM",
+      "title": "Investing.com — Exclusive-Global fashion brands shift orders from Bangladesh to India amid unrest",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveglobal-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest-5053435",
+      "ts": 1795782275000
     },
     {
       "time": "7:22 AM",
@@ -289,24 +307,6 @@
       "title": "Investing.com — Why is SMA Solar Technology stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-sma-solar-technology-stock-rallying-today-93CH-5053420",
       "ts": 1795781702000
-    },
-    {
-      "time": "7:15 AM",
-      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "ts": 1795781700000
-    },
-    {
-      "time": "7:12 AM",
-      "title": "Investing.com — Nasdaq futures surge as investors pile back into battered AI stocks",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
-      "ts": 1795781539000
-    },
-    {
-      "time": "7:07 AM",
-      "title": "Investing.com — Premarket movers: AI stocks rebound, Vertex slides on FDA review",
-      "url": "https://www.investing.com/news/stock-market-news/premarket-movers-ai-stocks-rebound-vertex-slides-on-fda-review-5053411",
-      "ts": 1795781228000
     }
   ]
 }
