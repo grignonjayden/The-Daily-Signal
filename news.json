@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 12:11 PM ET",
+  "generated_at": "Nov 27, 2026, 12:14 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795799472733,
+  "updated_ts": 1795799672260,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -237,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "12:12 PM",
+      "title": "CNBC — Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "ts": 1795799521000
+    },
+    {
       "time": "12:01 PM",
       "title": "CNBC — Stocks making the biggest moves midday: XP, Newmont, Sandisk & more",
       "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
@@ -253,12 +259,6 @@
       "title": "Investing.com — Anthropic short interest climbs as IPO lockup expiry nears",
       "url": "https://www.investing.com/news/stock-market-news/anthropic-short-interest-climbs-as-ipo-lockup-expiry-nears-5053729",
       "ts": 1795798747000
-    },
-    {
-      "time": "11:55 AM",
-      "title": "CNBC — Dow rallies 600 points as benchmark heads for best week since April 2025: Live updates",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795798550000
     },
     {
       "time": "11:53 AM",
