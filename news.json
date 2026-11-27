@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 5:23 AM ET",
+  "generated_at": "Nov 27, 2026, 5:26 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795774984121,
+  "updated_ts": 1795775182429,
   "articles": [
     {
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
@@ -74,17 +74,6 @@
       "ts": 1795739460000
     },
     {
-      "title": "US Stocks Set to Bounce as Risk Appetite Returns After Holiday",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
-      "snippet": "US stocks are poised to rebound, with risk appetite returning after a selloff that brought the Nasdaq 100 index to the brink of a bear market.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 2:56 AM",
-      "coverage": 3,
-      "ts": 1795766180000
-    },
-    {
       "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-montney-region-alberta-natural-gas-reserves-canada-seize-opportunity/",
@@ -102,6 +91,17 @@
       "fallback_image": true,
       "time": "Nov 27, 4:00 AM",
       "ts": 1795770000000
+    },
+    {
+      "title": "Russia Extends Jet Fuel Export Ban to March on Refinery Attacks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/russia-extends-jet-fuel-export-ban-to-march-on-refinery-attacks",
+      "snippet": "Russia extended a ban on most jet fuel exports by four months through March to keep its domestic market supplied as Ukraine continues to attack the country’s refineries.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 4:54 AM",
+      "coverage": 2,
+      "ts": 1795773299000
     },
     {
       "title": "South Korea may double its market stabilization fund to KRW40trn: report",
@@ -294,15 +294,15 @@
     },
     {
       "time": "4:54 AM",
-      "title": "Bloomberg — Russia Extends Jet Fuel Export Ban to March on Refinery Attacks",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/russia-extends-jet-fuel-export-ban-to-march-on-refinery-attacks",
-      "ts": 1795773299000
-    },
-    {
-      "time": "4:54 AM",
       "title": "Bloomberg — Rwanda Wins F1 Hosting Rights in Bet on Tourism",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/rwanda-wins-f1-hosting-rights-in-bet-on-tourism-video",
       "ts": 1795773266000
+    },
+    {
+      "time": "4:53 AM",
+      "title": "Bloomberg — Kospi Rout Wipes $151 Billion From Korea Pension Fund’s Assets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/kospi-rout-wipes-151-billion-from-korea-pension-fund-s-assets",
+      "ts": 1795773195000
     }
   ]
 }
