@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:29 AM ET",
+  "generated_at": "Nov 27, 2026, 10:33 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795793391782,
+  "updated_ts": 1795793592902,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -165,6 +165,24 @@
       "ts": 1795786383000
     },
     {
+      "title": "Canada's balance of international payments, third quarter 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261127/dq261127a-eng.htm",
+      "snippet": "Canada's current account surplus (on a seasonally adjusted basis) narrowed from $6.1 billion in the second quarter to $4.5 billion in the third quarter.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261127/cg261127a001-eng.png",
+      "time": "Nov 27, 8:30 AM",
+      "ts": 1795786200000
+    },
+    {
+      "title": "Railway carloadings, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261127/dq261127b-eng.htm",
+      "snippet": "In September, Canadian railways shipped 32.6 million tonnes of freight, up 3.8% compared with September 2025.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261127/cg261127b001-eng.png",
+      "time": "Nov 27, 8:30 AM",
+      "ts": 1795786200000
+    },
+    {
       "title": "Government supports Indigenous economic participation in major energy infrastructure",
       "source": "Finance Canada",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-supports-indigenous-economic-participation-in-major-energy-infrastructure.html",
@@ -173,24 +191,6 @@
       "fallback_image": true,
       "time": "Nov 26, 4:19 PM",
       "ts": 1795727954000
-    },
-    {
-      "title": "Payroll employment, earnings and hours, and job vacancies, September 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261126/dq261126a-eng.htm",
-      "snippet": "The number of employees receiving pay and benefits from their employer—measured as \"payroll employment\" in the Survey of Employment, Payrolls and Hours—was little changed in September (+9,700; +0.1%), following a…",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261126/cg261126a001-eng.png",
-      "time": "Nov 26, 8:30 AM",
-      "ts": 1795699800000
-    },
-    {
-      "title": "Government spending by function, 2025",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261126/dq261126b-eng.htm",
-      "snippet": "Growth in spending by the consolidated Canadian general government—that is, all levels of government including the federal, provincial, territorial, local and other government entities combined—slowed to 2.2% in…",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261126/cg261126b001-eng.png",
-      "time": "Nov 26, 8:30 AM",
-      "ts": 1795699800000
     },
     {
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
@@ -234,6 +234,18 @@
     }
   ],
   "ticker": [
+    {
+      "time": "10:30 AM",
+      "title": "CNBC — Dow rallies 300 points as benchmark heads for best week since April 2025: Live updates",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "ts": 1795793450000
+    },
+    {
+      "time": "10:30 AM",
+      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "ts": 1795793400000
+    },
     {
       "time": "10:20 AM",
       "title": "Globe and Mail — Ottawa rejects call to relieve Canadian automakers of greenhouse gas rules",
@@ -293,18 +305,6 @@
       "title": "Investing.com — Why is Lumentum stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-lumentum-stock-rallying-today-93CH-5053619",
       "ts": 1795791984000
-    },
-    {
-      "time": "10:04 AM",
-      "title": "MarketWatch — My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
-      "url": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
-      "ts": 1795791840000
-    },
-    {
-      "time": "10:01 AM",
-      "title": "Bloomberg — How an Aluminum Squeeze Brought the LME to the Brink of Crisis Again",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/how-an-aluminum-squeeze-brought-the-lme-to-the-brink-of-crisis-again",
-      "ts": 1795791712000
     }
   ]
 }
