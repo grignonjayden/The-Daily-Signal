@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 2:02 AM ET",
+  "generated_at": "Nov 27, 2026, 2:05 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795762930757,
+  "updated_ts": 1795763133217,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -74,6 +74,16 @@
       "ts": 1795698060000
     },
     {
+      "title": "China stocks, yuan rally after Beijing vows stronger market support",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0AQ_L.jpg",
+      "time": "Nov 27, 1:48 AM",
+      "coverage": 2,
+      "ts": 1795762117000
+    },
+    {
       "title": "Vietnam Expects to Sign US Trade Deal to Limit Tariff Hit",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/vietnam-expects-to-sign-us-trade-deal-to-limit-tariff-hit",
@@ -83,16 +93,6 @@
       "time": "Nov 27, 1:44 AM",
       "coverage": 2,
       "ts": 1795761865000
-    },
-    {
-      "title": "Asian stocks rally as China shares surge on fresh market-support pledges",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-tech-rebound-easing-us-trade-concerns-lift-sentiment-5052839",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEB0Q00K_M.jpg",
-      "time": "Nov 27, 1:24 AM",
-      "coverage": 2,
-      "ts": 1795760674000
     },
     {
       "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
@@ -252,6 +252,12 @@
       "ts": 1795761105000
     },
     {
+      "time": "1:24 AM",
+      "title": "Investing.com — Asian stocks rally as China shares surge on fresh market-support pledges",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-tech-rebound-easing-us-trade-concerns-lift-sentiment-5052839",
+      "ts": 1795760674000
+    },
+    {
       "time": "1:22 AM",
       "title": "Bloomberg — Ziemba: Oil Supply Risks Outweigh OPEC+ Moves",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/ziemba-oil-supply-risks-outweigh-opec-moves-video",
@@ -298,12 +304,6 @@
       "title": "Investing.com — Taiwan stocks lower at close of trade; Taiwan Weighted down 0.11%",
       "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-011-5052968",
       "ts": 1795759503000
-    },
-    {
-      "time": "12:59 AM",
-      "title": "WSJ Markets — Gold, Silver Rally as Market Sentiment Improves",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
-      "ts": 1795759140000
     }
   ]
 }
