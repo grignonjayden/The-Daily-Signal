@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 7:33 AM ET",
+  "generated_at": "Nov 27, 2026, 7:36 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795782802489,
+  "updated_ts": 1795783004053,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -235,15 +235,27 @@
   ],
   "ticker": [
     {
-      "time": "7:29 AM",
-      "title": "MarketWatch — Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
-      "ts": 1795782540000
+      "time": "7:33 AM",
+      "title": "Bloomberg — Europe Has Too Much Wind, Not Enough Power Grid",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/europe-has-too-much-wind-not-enough-power-grid",
+      "ts": 1795782822000
+    },
+    {
+      "time": "7:30 AM",
+      "title": "Globe and Mail — Letko Brosseau urges Advantage shareholders to vote against proposed $2.5-billion takeover",
+      "url": "https://www.theglobeandmail.com/business/article-letko-brosseau-urges-advantage-shareholders-to-vote-against-takeover/",
+      "ts": 1795782600000
     },
     {
       "time": "7:29 AM",
       "title": "MarketWatch — A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
       "url": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+      "ts": 1795782540000
+    },
+    {
+      "time": "7:29 AM",
+      "title": "MarketWatch — Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
       "ts": 1795782540000
     },
     {
@@ -293,18 +305,6 @@
       "title": "Bloomberg — Polish President Blocks Pre-Election Tax Cut in New Blow to Tusk",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/polish-president-blocks-pre-election-tax-cut-in-new-blow-to-tusk",
       "ts": 1795780828000
-    },
-    {
-      "time": "6:59 AM",
-      "title": "Bloomberg — India’s Richest Civic Body Will Open Bond Sales to Retail Buyers",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/india-s-richest-civic-body-will-open-bond-sales-to-retail-buyers",
-      "ts": 1795780790000
-    },
-    {
-      "time": "6:57 AM",
-      "title": "Investing.com — Why is Palo Alto Networks stock sliding today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-sliding-today-93CH-5053363",
-      "ts": 1795780626000
     }
   ]
 }
