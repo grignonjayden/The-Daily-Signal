@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 4:39 AM ET",
+  "generated_at": "Nov 27, 2026, 4:42 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795772370514,
+  "updated_ts": 1795772569351,
   "articles": [
     {
       "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
@@ -64,17 +64,6 @@
       "ts": 1795764960000
     },
     {
-      "title": "Imperial Brands Attracts Suitors as UK Stock Market Set to Shrink Further",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/imperial-brands-attracts-suitors-as-uk-stock-market-set-to-shrink-further",
-      "snippet": "Plus, warnings from the BOE on the dangers of AI",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 2:31 AM",
-      "coverage": 3,
-      "ts": 1795764706000
-    },
-    {
       "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
@@ -103,6 +92,17 @@
       "fallback_image": true,
       "time": "Nov 27, 4:00 AM",
       "ts": 1795770000000
+    },
+    {
+      "title": "Japan Tobacco Climbs on Potential Imperial Brands Takeover",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
+      "snippet": "Japan Tobacco Inc. shares rose on news that it’s exploring a potential takeover of Imperial Brands Plc with Altria Group Inc., a move that would help the Japanese cigarette maker fill a large earnings hole left by…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 26, 7:26 PM",
+      "coverage": 3,
+      "ts": 1795739165000
     },
     {
       "title": "Vietnamese partners of Trump Organization plan Trump Tower in Hanoi, sources say",
