@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 27, 2026, 8:26 AM ET",
+  "generated_at": "Nov 27, 2026, 8:30 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795786016652,
+  "updated_ts": 1795786216622,
   "articles": [
+    {
+      "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/is-todays-black-friday-tech-rebound-a-real-rallyor-a-dead-cat-bounce-5053485",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg",
+      "time": "Nov 27, 8:21 AM",
+      "coverage": 5,
+      "ts": 1795785671000
+    },
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
       "source": "MarketWatch",
@@ -10,28 +20,8 @@
       "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
       "image": "https://images.mktw.net/im-58425830",
       "time": "Nov 27, 8:15 AM",
-      "coverage": 6,
-      "ts": 1795785300000
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 27, 6:15 AM",
-      "coverage": 6,
-      "ts": 1795778100000
-    },
-    {
-      "title": "Nvidia Blackwell chips found in Shanghai data center tied to Alice Huang",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-blackwell-chips-found-in-shanghai-data-center-tied-to-alice-huang-5053414",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXNPEMAB24G_L.jpg",
-      "time": "Nov 27, 7:10 AM",
       "coverage": 5,
-      "ts": 1795781408000
+      "ts": 1795785300000
     },
     {
       "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
@@ -44,14 +34,34 @@
       "ts": 1795780822000
     },
     {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 27, 6:15 AM",
+      "coverage": 5,
+      "ts": 1795778100000
+    },
+    {
       "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
       "snippet": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
       "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
       "time": "Nov 27, 5:20 AM",
-      "coverage": 4,
+      "coverage": 5,
       "ts": 1795774839000
+    },
+    {
+      "title": "Canadians expected to spend less on Black Friday this year",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
+      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
+      "time": "Nov 27, 7:44 AM",
+      "coverage": 3,
+      "ts": 1795783448000
     },
     {
       "title": "Stock Futures Rally as AI Trade Gathers Pace; EU Budget Talks Falter",
@@ -86,6 +96,17 @@
       "ts": 1795777998000
     },
     {
+      "title": "European Stock Indexes Rise as Tech Rally Extends",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
+      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 3:32 AM",
+      "coverage": 3,
+      "ts": 1795768320000
+    },
+    {
       "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-montney-region-alberta-natural-gas-reserves-canada-seize-opportunity/",
@@ -93,26 +114,6 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/ODDM7N7QYNDULEK7RM2DIP6SNU.JPG?auth=72a61352e47ab51b443eea49a074c1e3aaec1540de152851b06659d8ee70e12d&smart=true&width=4000&height=2667",
       "time": "Nov 27, 5:00 AM",
       "ts": 1795773600000
-    },
-    {
-      "title": "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed’s December Rate Decision",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/investing/week-ahead-for-fx-bonds-key-labor-data-in-focus-ahead-of-feds-december-rate-decision-52cad754?mod=rss_markets_main",
-      "snippet": "U.S. labor market data, including the key nonfarm payrolls report, will be in focus in the week starting Nov. 30.",
-      "image": "https://images.wsj.net/im-58488010",
-      "time": "Nov 27, 7:51 AM",
-      "coverage": 2,
-      "ts": 1795783860000
-    },
-    {
-      "title": "Canadians expected to spend less on Black Friday this year",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
-      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
-      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
-      "time": "Nov 27, 7:44 AM",
-      "coverage": 2,
-      "ts": 1795783448000
     },
     {
       "title": "Jefferies sees Brazil rebound potential after finance minister pick",
@@ -135,14 +136,13 @@
       "ts": 1795667395000
     },
     {
-      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
+      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
-      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
-      "time": "Nov 23, 12:49 PM",
-      "coverage": 6,
-      "ts": 1795456173000
+      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
+      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
+      "time": "Nov 25, 9:38 AM",
+      "ts": 1795617488000
     }
   ],
   "outlets": [
@@ -236,6 +236,12 @@
   ],
   "ticker": [
     {
+      "time": "8:26 AM",
+      "title": "Investing.com — FTSE 100 today: Stocks rise as miners lead on metals rebound; Entain leads gains",
+      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108",
+      "ts": 1795785968000
+    },
+    {
       "time": "8:23 AM",
       "title": "CNBC — Hackers breach U.S. Air Force flagship Cloud One computing platform",
       "url": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html",
@@ -266,10 +272,28 @@
       "ts": 1795785301000
     },
     {
+      "time": "8:13 AM",
+      "title": "Bloomberg — El Niño, Flooding Put Squeeze on South African Fruit Producers",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/el-nino-flooding-put-squeeze-on-south-african-fruit-producers",
+      "ts": 1795785220000
+    },
+    {
+      "time": "8:12 AM",
+      "title": "Bloomberg — Turkey’s Tightening Steps Show Early Signs of Calming Markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/turkey-s-tightening-steps-show-early-signs-of-calming-markets",
+      "ts": 1795785121000
+    },
+    {
       "time": "8:11 AM",
       "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
       "ts": 1795785082000
+    },
+    {
+      "time": "8:10 AM",
+      "title": "Investing.com — Norse Atlantic Airways files for bankruptcy in Norway",
+      "url": "https://www.investing.com/news/stock-market-news/norse-atlantic-airways-files-for-bankruptcy-in-norway-5053483",
+      "ts": 1795785033000
     },
     {
       "time": "8:08 AM",
@@ -282,30 +306,6 @@
       "title": "CNBC — It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
       "url": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
       "ts": 1795784702000
-    },
-    {
-      "time": "8:03 AM",
-      "title": "WSJ Markets — Swiss Bourse to Launch IPO Academy in Bid to Encourage European Listings",
-      "url": "https://www.wsj.com/finance/swiss-bourse-to-launch-ipo-academy-in-bid-to-encourage-european-listings-d98da166?mod=rss_markets_main",
-      "ts": 1795784580000
-    },
-    {
-      "time": "8:01 AM",
-      "title": "Investing.com — UBS Flags Two UK housebuilders to Own, One to Avoid, as 2027 Stays Stagnant",
-      "url": "https://www.investing.com/news/stock-market-news/ubs-flags-two-uk-housebuilders-to-own-one-to-avoid-as-2027-stays-stagnant-5053474",
-      "ts": 1795784508000
-    },
-    {
-      "time": "8:00 AM",
-      "title": "CNBC — Spain’s election could pull Madrid closer to Trump’s Washington",
-      "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
-      "ts": 1795784442000
-    },
-    {
-      "time": "8:00 AM",
-      "title": "Globe and Mail — What I’ve Learned: Charlene Theodore knows exactly how to fix Canada’s productivity problem",
-      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-what-ive-learned-charlene-theodore-knows-exactly-how-to-fix-canadas/",
-      "ts": 1795784400000
     }
   ]
 }
