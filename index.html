@@ -182,6 +182,9 @@
     .tab-btn svg { width: 19px; height: 19px; }
   }
   @media (max-width: 350px) { .tab-btn { font-size: 10.5px; padding: 9px 1px 8px; } .tab-bar { gap: 4px; } }
+  /* 7 tabs (Insights added): a touch smaller so every label fits its tile */
+  @media (max-width: 600px) { .tab-bar { gap: 4px; } .tab-btn { font-size: 10.5px; padding-left: 0; padding-right: 0; letter-spacing: -0.02em; } }
+  @media (max-width: 350px) { .tab-btn { font-size: 9.5px; } }
 
   /* ---------- News list ---------- */
   .news-list { display: flex; flex-direction: column; gap: 2px; }
@@ -2659,8 +2662,6 @@ function pfDraw() {
     const q = PF.quotes;
     list.appendChild(el('p', { className: 'live-updated', text: 'Stock & ETF prices from Yahoo Finance' + (q ? ', updated ' + q.generated_at : '') + ' (about every 15 min, delayed) · crypto live from CoinGecko · U.S. prices converted at US$1 = C$' + (fx ? fx.toFixed(4) : '1.40 (estimate)') }));
     mainPanel.appendChild(list);
-    mainPanel.appendChild(pfRiskWidget(vals, total));
-    mainPanel.appendChild(pfIndirectWidget(vals, total));
   }
 
   // 4) Add an investment
@@ -2674,6 +2675,32 @@ function pfDraw() {
     clr.onclick = () => { if (clr.dataset.sure) { pfSave([]); pfDraw(); } else { clr.dataset.sure = '1'; clr.textContent = 'Tap again to delete everything'; } };
     foot.appendChild(clr);
   }
+  mainPanel.appendChild(foot);
+}
+// ---------- Insights tab: risk & reward + news that could reach your portfolio (same holdings, own tab) ----------
+async function renderInsights() {
+  dateline.textContent = 'Insights · risk, reward and news for what you own';
+  mainPanel.innerHTML = '';
+  const w = el('div', { className: 'widget w-span-12' }); w.appendChild(el('p', { className: 'item-summary', text: 'Loading prices…' })); mainPanel.appendChild(w);
+  await Promise.all([pfLoadQuotes(), pfLoadCoins(), pfLoadHistory(), liveLoaded.news ? null : loadLive('news'), liveLoaded.government ? null : loadLive('government'), liveLoaded.canada ? null : loadLive('canada')]);
+  await pfLoadCoinHistory(pfLoad().filter(h => h.type === 'crypto').map(h => h.cgId));
+  if (activeTab === 'insights') pfDrawInsights();
+}
+function pfDrawInsights() {
+  const holdings = pfLoad(), fx = pfFx();
+  mainPanel.innerHTML = '';
+  if (!holdings.length) {
+    const e = widgetShell('w-span-12', 'shield', 'var(--lavender-soft)', 'var(--lavender)', 'Insights');
+    e.appendChild(el('p', { className: 'item-summary why-p', text: 'Add what you own on the Portfolio tab, and this page shows how risky your mix is, what the past year suggests, and which news could reach your holdings.' }));
+    const go = el('button', { className: 'info-btn', text: 'Go to Portfolio' }); go.type = 'button'; go.onclick = () => switchTab('portfolio');
+    e.appendChild(go); mainPanel.appendChild(e); return;
+  }
+  const vals = holdings.map(h => ({ h, v: pfValue(h, fx) }));
+  const total = vals.reduce((s, x) => s + x.v.value, 0);
+  mainPanel.appendChild(pfRiskWidget(vals, total));
+  mainPanel.appendChild(pfIndirectWidget(vals, total));
+  const foot = el('div', { className: 'pf-foot' });
+  foot.appendChild(el('p', { className: 'live-updated', text: 'Built from the holdings on your Portfolio tab, saved only in this browser. Suggestions come from past data, not personal investment advice.' }));
   mainPanel.appendChild(foot);
 }
 function fmtQty(n) { return n.toLocaleString('en-CA', { maximumFractionDigits: 8 }); }
@@ -3482,6 +3509,7 @@ const TAB_CONFIG = {
   canada: { label: 'Canada', icon: 'maple', color: '#D52B1E', data: TODAYS_CANADA, render: renderCanada },
   government: { label: 'Industry Moves from Ottawa', icon: 'parliament', color: '#7B4FB8', data: TODAYS_GOV, render: (d, k) => TAB_CONFIG.news.render(TAB_CONFIG.news.data, k), hidden: true }, // shown inside News
   portfolio: { label: 'Portfolio', icon: 'pie', color: '#7B4FB8', data: {}, render: renderPortfolio, isStatic: true },
+  insights: { label: 'Insights', icon: 'shield', color: '#7B4FB8', data: {}, render: renderInsights, isStatic: true },
   why: { label: 'Why TDS', icon: 'lightbulb', color: '#0F8B8D', data: {}, render: renderWhy, isStatic: true }
 };
 let activeTab = 'markets';
