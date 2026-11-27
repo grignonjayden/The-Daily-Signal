@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 7:15 PM ET",
+  "generated_at": "Nov 26, 2026, 7:19 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795738558074,
+  "updated_ts": 1795738757688,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -24,6 +24,16 @@
       "ts": 1795707000000
     },
     {
+      "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
+      "time": "Nov 26, 7:18 PM",
+      "coverage": 4,
+      "ts": 1795738697000
+    },
+    {
       "title": "U.S. stock futures rise in holiday-thinned trade; tech rebound in focus",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
@@ -32,16 +42,6 @@
       "time": "Nov 26, 7:01 PM",
       "coverage": 4,
       "ts": 1795737682000
-    },
-    {
-      "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "snippet": "Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559385-1795622824065-gettyimages-2306838330-anotherday43813056_7qbcsvlf.jpeg?v=1795622864&w=1920&h=1080",
-      "time": "Nov 26, 6:54 PM",
-      "coverage": 4,
-      "ts": 1795737290000
     },
     {
       "title": "Musk says he will donate another SpaceX share to American kids annually",
