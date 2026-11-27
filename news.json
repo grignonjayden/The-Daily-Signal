@@ -1,17 +1,17 @@
 {
-  "generated_at": "Nov 27, 2026, 9:07 AM ET",
+  "generated_at": "Nov 27, 2026, 9:11 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795788472473,
+  "updated_ts": 1795788703413,
   "articles": [
     {
-      "title": "Is today’s Black Friday tech rebound a real rally—or a dead cat bounce?",
+      "title": "Wall street futures surge toward best week in months on Nvidia lifeline",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/is-todays-black-friday-tech-rebound-a-real-rallyor-a-dead-cat-bounce-5053485",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-in-holidaythinned-trade-tech-rebound-in-focus-5052775",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg",
-      "time": "Nov 27, 8:21 AM",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
+      "time": "Nov 27, 8:52 AM",
       "coverage": 5,
-      "ts": 1795785671000
+      "ts": 1795787544000
     },
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -34,16 +34,6 @@
       "ts": 1795780822000
     },
     {
-      "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "snippet": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "time": "Nov 27, 5:20 AM",
-      "coverage": 5,
-      "ts": 1795774839000
-    },
-    {
       "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
@@ -52,6 +42,26 @@
       "time": "Nov 27, 8:22 AM",
       "coverage": 4,
       "ts": 1795785720000
+    },
+    {
+      "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "snippet": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "time": "Nov 27, 5:20 AM",
+      "coverage": 4,
+      "ts": 1795774839000
+    },
+    {
+      "title": "BLACK FRIDAY ENDS SOON: ONLY HOURS TO GO to secure 60% off InvestingPro",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-ends-soon-only-hours-to-go-to-secure-60-off-investingpro-5053549",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM1J0WY_1200_L.jpg",
+      "time": "Nov 27, 8:56 AM",
+      "coverage": 3,
+      "ts": 1795787805000
     },
     {
       "title": "As the AI Storm Rages, Are UK and Europe Markets a Haven For Investors? Live Q&A",
@@ -96,24 +106,14 @@
       "ts": 1795770720000
     },
     {
-      "title": "European Stock Indexes Rise as Tech Rally Extends",
+      "title": "Stock Futures Jump as AI Trade Set for Rebound",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
-      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 3:32 AM",
-      "coverage": 3,
-      "ts": 1795768320000
-    },
-    {
-      "title": "Why is Antofagasta stock rallying today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-antofagasta-stock-rallying-today-93CH-5053531",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-      "time": "Nov 27, 8:41 AM",
-      "ts": 1795786887000
+      "url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
+      "snippet": "Nasdaq futures were 2% higher, while contracts tied to the S&P 500 and the Dow Jones Industrial Average also rose ahead of a shortened trading session Friday.",
+      "image": "https://images.wsj.net/im-14953166",
+      "time": "Nov 27, 8:46 AM",
+      "coverage": 2,
+      "ts": 1795787160000
     },
     {
       "title": "Ontario’s mortgage arrears rate nears 2008 levels, the Home of the Week and more top real estate stories",
@@ -136,13 +136,14 @@
       "ts": 1795667395000
     },
     {
-      "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+      "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
       "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026",
-      "snippet": "U.S. equities pared losses on Wednesday, with the Dow Jones Industrial Average finishing up 164 points after falling 1,100 at the session low.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 25, 9:38 AM",
-      "ts": 1795617488000
+      "url": "https://www.foxbusiness.com/markets/what-jensen-huangs-return-means-nvidia-wall-street",
+      "snippet": "Nvidia stock surged after the company&apos;s board reinstated Jensen Huang as CEO, a move analysts say removes a major overhang on the AI trade.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/jensen-huang-stage-open-arms.jpg",
+      "time": "Nov 23, 12:49 PM",
+      "coverage": 6,
+      "ts": 1795456173000
     }
   ],
   "outlets": [
@@ -242,6 +243,18 @@
       "ts": 1795788076000
     },
     {
+      "time": "9:01 AM",
+      "title": "Investing.com — Thursday insider buys and sells: eBay, Williams Companies and more",
+      "url": "https://www.investing.com/news/stock-market-news/thursday-insider-buys-and-sells-ebay-williams-companies-and-more-93CH-5053556",
+      "ts": 1795788074000
+    },
+    {
+      "time": "9:00 AM",
+      "title": "Investing.com — US stocks set for higher open as battered AI shares claw back losses",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+      "ts": 1795788039000
+    },
+    {
       "time": "9:00 AM",
       "title": "Globe and Mail — Middlefield’s Shane Obata loves a good monopoly",
       "url": "https://www.theglobeandmail.com/business/rob-magazine/article-middlefields-shane-obata-loves-a-good-monopoly/",
@@ -272,10 +285,10 @@
       "ts": 1795787772000
     },
     {
-      "time": "8:46 AM",
-      "title": "WSJ Markets — Stock Futures Jump as AI Trade Set for Rebound",
-      "url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
-      "ts": 1795787160000
+      "time": "8:54 AM",
+      "title": "Investing.com — Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
+      "url": "https://www.investing.com/news/stock-market-news/explainerblack-friday-test-for-retailers-as-tight-budgets-meet-aisavvy-shoppers-5053309",
+      "ts": 1795787664000
     },
     {
       "time": "8:45 AM",
@@ -290,22 +303,10 @@
       "ts": 1795786925000
     },
     {
-      "time": "8:38 AM",
-      "title": "Globe and Mail — Corus reports $59.4-million loss as revenue falls in fourth quarter",
-      "url": "https://www.theglobeandmail.com/business/article-corus-results-fourth-quarter-2026/",
-      "ts": 1795786712000
-    },
-    {
-      "time": "8:37 AM",
-      "title": "Investing.com — Why is Fresnillo stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-fresnillo-stock-rallying-today-93CH-5053527",
-      "ts": 1795786635000
-    },
-    {
-      "time": "8:36 AM",
-      "title": "Investing.com — Why is Entain stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-entain-stock-rallying-today-93CH-5053525",
-      "ts": 1795786605000
+      "time": "8:41 AM",
+      "title": "Investing.com — Why is Antofagasta stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-antofagasta-stock-rallying-today-93CH-5053531",
+      "ts": 1795786887000
     }
   ]
 }
