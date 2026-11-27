@@ -1,8 +1,32 @@
 {
-  "generated_at": "Nov 27, 2026, 1:05 PM ET",
+  "generated_at": "Nov 27, 2026, 1:38 PM ET",
   "date_key": "2026-11-27",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Government highlights support for Tla’amin Nation’s acquisition of British Columbia forestry operation",
+      "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-highlights-support-for-tlaamin-nations-acquisition-of-british-columbia-forestry-operation.html",
+      "image": "",
+      "source": "Finance Canada",
+      "badge": "FIN",
+      "analysis": false,
+      "sector": "Energy",
+      "time": "Nov 27",
+      "date": "2026-11-27T18:27:49.000Z",
+      "group": "sector"
+    },
+    {
+      "title": "Prime Minister Mark Carney talks major projects in northern visit",
+      "url": "https://www.cbc.ca/news/canada/north/livestory/prime-minister-mark-carney-north-9.7438167?cmp=rss",
+      "image": "https://i.cbc.ca/ais/911900c9-45f4-4522-840a-5818b088a6b2,1795794571410/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
+      "source": "CBC News",
+      "badge": "CBC",
+      "analysis": false,
+      "sector": "Infrastructure",
+      "time": "Nov 27",
+      "date": "2026-11-27T14:59:12.000Z",
+      "group": "sector"
+    },
     {
       "title": "Minister Champagne will visit Luxembourg to sign the Defence, Security and Resilience Bank agreement and strengthen economic ties",
       "url": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-will-visit-luxembourg-to-sign-the-defence-security-and-resilience-bank-agreement-and-strengthen-economic-ties.html",
@@ -61,30 +85,6 @@
       "sector": "Infrastructure",
       "time": "Nov 26",
       "date": "2026-11-27T04:37:34.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "12 First Nations in B.C. buy stake in Coastal GasLink pipeline",
-      "url": "https://www.cbc.ca/news/politics/coastal-gaslink-pipeline-ownership-9.7437694?cmp=rss",
-      "image": "https://i.cbc.ca/ais/1.5901410,1726186999000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C119%2C1280%2C720%29%3B",
-      "source": "CBC News",
-      "badge": "CBC",
-      "analysis": false,
-      "sector": "Energy",
-      "time": "Nov 26",
-      "date": "2026-11-26T21:30:00.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Government supports Indigenous economic participation in major energy infrastructure",
-      "url": "https://www.canada.ca/en/department-finance/news/2026/11/government-supports-indigenous-economic-participation-in-major-energy-infrastructure.html",
-      "image": "",
-      "source": "Finance Canada",
-      "badge": "FIN",
-      "analysis": false,
-      "sector": "Energy",
-      "time": "Nov 26",
-      "date": "2026-11-26T21:19:14.000Z",
       "group": "sector"
     },
     {
@@ -232,6 +232,11 @@
   ],
   "feed_status": [
     {
+      "source": "Bank of Canada",
+      "fetched": 20,
+      "kept": 3
+    },
+    {
       "source": "CBC News",
       "fetched": 40,
       "kept": 3
@@ -242,24 +247,14 @@
       "kept": 4
     },
     {
-      "source": "Bank of Canada",
-      "fetched": 20,
-      "kept": 3
-    },
-    {
-      "source": "CDEV",
-      "fetched": 20,
-      "kept": 0
-    },
-    {
       "source": "Canada Media Fund",
       "fetched": 24,
       "kept": 0
     },
     {
-      "source": "CP24",
-      "fetched": 200,
-      "kept": 3
+      "source": "CDEV",
+      "fetched": 20,
+      "kept": 0
     },
     {
       "source": "ISED",
@@ -270,6 +265,11 @@
       "source": "C.D. Howe Institute",
       "fetched": 24,
       "kept": 4
+    },
+    {
+      "source": "CP24",
+      "fetched": 200,
+      "kept": 3
     }
   ]
 }
