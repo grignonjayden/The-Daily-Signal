@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 7:26 AM ET",
+  "generated_at": "Nov 27, 2026, 7:29 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795782396254,
+  "updated_ts": 1795782595356,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -94,14 +94,14 @@
       "ts": 1795773600000
     },
     {
-      "title": "Explainer-Black Friday test for retailers as tight budgets meet AI-savvy shoppers",
+      "title": "Jefferies sees Brazil rebound potential after finance minister pick",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/explainerblack-friday-test-for-retailers-as-tight-budgets-meet-aisavvy-shoppers-5053309",
+      "url": "https://www.investing.com/news/stock-market-news/jefferies-sees-brazil-rebound-potential-after-finance-minister-pick-93CH-5053426",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0TS_L.jpg",
-      "time": "Nov 27, 6:42 AM",
+      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+      "time": "Nov 27, 7:16 AM",
       "coverage": 2,
-      "ts": 1795779744000
+      "ts": 1795781780000
     },
     {
       "title": "EU Budget Talks Break Down; Spain Set to Vote",
@@ -241,12 +241,6 @@
       "ts": 1795782120000
     },
     {
-      "time": "7:16 AM",
-      "title": "Investing.com — Jefferies sees Brazil rebound potential after finance minister pick",
-      "url": "https://www.investing.com/news/stock-market-news/jefferies-sees-brazil-rebound-potential-after-finance-minister-pick-93CH-5053426",
-      "ts": 1795781780000
-    },
-    {
       "time": "7:15 AM",
       "title": "Investing.com — Why is SMA Solar Technology stock rallying today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-sma-solar-technology-stock-rallying-today-93CH-5053420",
@@ -305,6 +299,12 @@
       "title": "Investing.com — Why is Palo Alto Networks stock sliding today?",
       "url": "https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-sliding-today-93CH-5053363",
       "ts": 1795780626000
+    },
+    {
+      "time": "6:49 AM",
+      "title": "CNBC — Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+      "ts": 1795780158000
     }
   ]
 }
