@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 8:20 AM ET",
+  "generated_at": "Nov 27, 2026, 8:23 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795785613642,
+  "updated_ts": 1795785816828,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -236,6 +236,18 @@
   ],
   "ticker": [
     {
+      "time": "8:21 AM",
+      "title": "CNBC — The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+      "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+      "ts": 1795785716000
+    },
+    {
+      "time": "8:17 AM",
+      "title": "Globe and Mail — Binance withdrawals fully reopen after crypto platform completes recovery work",
+      "url": "https://www.theglobeandmail.com/business/article-binance-withdrawals-reopen-after-crypto-platform-completes-recovery/",
+      "ts": 1795785453000
+    },
+    {
       "time": "8:11 AM",
       "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
       "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
@@ -290,22 +302,10 @@
       "ts": 1795783678000
     },
     {
-      "time": "7:47 AM",
-      "title": "CNBC — The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-      "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
-      "ts": 1795783628000
-    },
-    {
       "time": "7:42 AM",
       "title": "MarketWatch — How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
       "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
       "ts": 1795783320000
-    },
-    {
-      "time": "7:41 AM",
-      "title": "Bloomberg — ¿Volverá la derecha al poder en España?",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/-volvera-la-derecha-al-poder-en-espana",
-      "ts": 1795783315000
     }
   ]
 }
