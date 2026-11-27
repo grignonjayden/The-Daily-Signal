@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 12:14 PM ET",
+  "generated_at": "Nov 27, 2026, 12:17 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795799672260,
+  "updated_ts": 1795799874894,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -243,6 +243,12 @@
       "ts": 1795799521000
     },
     {
+      "time": "12:12 PM",
+      "title": "WSJ Markets — Inside China’s $4 Billion Secondhand Luxury Boom",
+      "url": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=rss_markets_main",
+      "ts": 1795799520000
+    },
+    {
       "time": "12:01 PM",
       "title": "CNBC — Stocks making the biggest moves midday: XP, Newmont, Sandisk & more",
       "url": "https://www.cnbc.com/2026/11/27/stocks-moving-the-most-today-live-updates.html",
@@ -301,12 +307,6 @@
       "title": "CNBC — AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
       "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
       "ts": 1795797794000
-    },
-    {
-      "time": "11:43 AM",
-      "title": "Bloomberg — UK Steel Sector Says UK-EU Agreement Gives Rivals Unfair Edge",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/uk-steel-sector-says-uk-eu-agreement-gives-rivals-unfair-edge",
-      "ts": 1795797793000
     }
   ]
 }
