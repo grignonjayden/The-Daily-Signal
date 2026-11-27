@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 2:19 PM ET",
+  "generated_at": "Nov 27, 2026, 2:22 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795807165077,
+  "updated_ts": 1795807364758,
   "articles": [
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -95,17 +95,6 @@
       "ts": 1795802940000
     },
     {
-      "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
-      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 12:36 PM",
-      "coverage": 3,
-      "ts": 1795801012000
-    },
-    {
       "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-montney-region-alberta-natural-gas-reserves-canada-seize-opportunity/",
@@ -116,14 +105,15 @@
       "ts": 1795773600000
     },
     {
-      "title": "Canadians expected to spend less on Black Friday this year",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
-      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
-      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
-      "time": "Nov 27, 7:44 AM",
-      "coverage": 3,
-      "ts": 1795783448000
+      "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
+      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 12:36 PM",
+      "coverage": 2,
+      "ts": 1795801012000
     },
     {
       "title": "European Stock Indexes Rise as Tech Rally Extends",
@@ -135,6 +125,16 @@
       "time": "Nov 27, 3:32 AM",
       "coverage": 3,
       "ts": 1795768320000
+    },
+    {
+      "title": "U.S. goods trade deficit widens again as AI-led imports hit record high",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-us-goods-trade-deficit-widens-again-as-ai-led-imports-hit-record-high/",
+      "snippet": "October deficit of more than 10% puts trade on track to weaken fourth-quarter GDP growth",
+      "image": "https://www.theglobeandmail.com/resizer/v2/CT5PGGE4PBCR7MXY543CUATEQQ.JPG?auth=cd3ed04600df9bd1d24f8e8834b4f22cf64a1d36fb5441b7cc061437385d156b&smart=true&width=7535&height=5026",
+      "time": "Nov 27, 11:45 AM",
+      "coverage": 2,
+      "ts": 1795797946000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
