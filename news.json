@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:23 AM ET",
+  "generated_at": "Nov 27, 2026, 10:26 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795792989762,
+  "updated_ts": 1795793191913,
   "articles": [
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -95,24 +95,14 @@
       "ts": 1795790830000
     },
     {
-      "title": "European Stock Indexes Rise as Tech Rally Extends",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
-      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 3:32 AM",
-      "coverage": 3,
-      "ts": 1795768320000
-    },
-    {
-      "title": "Nvidia halts server shipments to four Southeast Asian countries, FT reports",
+      "title": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.23%",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports-5053574",
+      "url": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-023-5053621",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAP0AK_L.jpg",
-      "time": "Nov 27, 9:18 AM",
-      "ts": 1795789134000
+      "image": "https://content-media.investing.com/news/LYNXMPEM2I1CG_1200_L.jpg",
+      "time": "Nov 27, 10:10 AM",
+      "coverage": 2,
+      "ts": 1795792203000
     },
     {
       "title": "Oil Futures Mixed in Shortened U.S. Trading Day",
@@ -125,14 +115,23 @@
       "ts": 1795791240000
     },
     {
-      "title": "European shares extend rally, but bruising November leaves AI scars",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/european-shares-extend-rally-but-bruising-november-leaves-ai-scars-5053023",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6L1PR_1200_L.jpg",
-      "time": "Nov 27, 9:13 AM",
+      "title": "Tech Stocks Rise as Investors Take a Break From AI Jitters",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "snippet": "Shares rebounded at the start of a shorter trading session, with all three major indexes poised to end the week strong.",
+      "image": "https://images.wsj.net/im-22450552",
+      "time": "Nov 27, 9:46 AM",
       "coverage": 2,
-      "ts": 1795788798000
+      "ts": 1795790760000
+    },
+    {
+      "title": "Why is Palantir Technologies stock rallying today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-rallying-today-93CH-5053635",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEGB61KW-OCATC_L.jpg",
+      "time": "Nov 27, 10:20 AM",
+      "ts": 1795792836000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -236,10 +235,46 @@
   ],
   "ticker": [
     {
+      "time": "10:20 AM",
+      "title": "Globe and Mail — Ottawa rejects call to relieve Canadian automakers of greenhouse gas rules",
+      "url": "https://www.theglobeandmail.com/business/article-ottawa-rejects-call-canadian-automakers-greenhouse-gas-rules/",
+      "ts": 1795792855000
+    },
+    {
       "time": "10:18 AM",
       "title": "CNBC — This week’s bounce following a rapid correction may not hold, history shows",
       "url": "https://www.cnbc.com/2026/11/27/this-weeks-bounce-following-a-rapid-correction-may-not-hold-history-shows.html",
       "ts": 1795792692000
+    },
+    {
+      "time": "10:17 AM",
+      "title": "Investing.com — Why is Tesla stock climbing today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-climbing-today-93CH-5053632",
+      "ts": 1795792664000
+    },
+    {
+      "time": "10:15 AM",
+      "title": "Investing.com — Why is Micron Technology stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-rallying-today-93CH-5053631",
+      "ts": 1795792552000
+    },
+    {
+      "time": "10:13 AM",
+      "title": "Investing.com — Why is Dell Technologies stock surging today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-surging-today-93CH-5053627",
+      "ts": 1795792434000
+    },
+    {
+      "time": "10:12 AM",
+      "title": "Investing.com — Why is Western Digital stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-rallying-today-93CH-5053625",
+      "ts": 1795792321000
+    },
+    {
+      "time": "10:10 AM",
+      "title": "Investing.com — Why is Alibaba ADR stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-alibaba-adr-stock-rallying-today-93CH-5053622",
+      "ts": 1795792207000
     },
     {
       "time": "10:08 AM",
@@ -254,6 +289,12 @@
       "ts": 1795792044000
     },
     {
+      "time": "10:06 AM",
+      "title": "Investing.com — Why is Lumentum stock rallying today?",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-lumentum-stock-rallying-today-93CH-5053619",
+      "ts": 1795791984000
+    },
+    {
       "time": "10:04 AM",
       "title": "MarketWatch — My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
       "url": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
@@ -264,48 +305,6 @@
       "title": "Bloomberg — How an Aluminum Squeeze Brought the LME to the Brink of Crisis Again",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/how-an-aluminum-squeeze-brought-the-lme-to-the-brink-of-crisis-again",
       "ts": 1795791712000
-    },
-    {
-      "time": "10:01 AM",
-      "title": "MarketWatch — Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
-      "url": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
-      "ts": 1795791660000
-    },
-    {
-      "time": "10:00 AM",
-      "title": "Investing.com — Why is Anthropic stock climbing today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-anthropic-stock-climbing-today-93CH-5053614",
-      "ts": 1795791658000
-    },
-    {
-      "time": "9:58 AM",
-      "title": "Globe and Mail — Bell, Telus and Rogers violated fee ban, CRTC says",
-      "url": "https://www.theglobeandmail.com/business/article-bell-telus-and-rogers-violated-fee-ban-crtc-says/",
-      "ts": 1795791533000
-    },
-    {
-      "time": "9:58 AM",
-      "title": "Investing.com — Why is Coherent stock surging today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-coherent-stock-surging-today-93CH-5053611",
-      "ts": 1795791487000
-    },
-    {
-      "time": "9:56 AM",
-      "title": "CNBC — Dow rallies 300 points as benchmark heads for best week since April 2025: Live updates",
-      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-      "ts": 1795791370000
-    },
-    {
-      "time": "9:56 AM",
-      "title": "MarketWatch — Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
-      "ts": 1795791360000
-    },
-    {
-      "time": "9:55 AM",
-      "title": "Investing.com — Why is Nu Holdings stock rallying today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-nu-holdings-stock-rallying-today-93CH-5053610",
-      "ts": 1795791354000
     }
   ]
 }
