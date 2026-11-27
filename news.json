@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 26, 2026, 8:26 PM ET",
+  "generated_at": "Nov 26, 2026, 8:29 PM ET",
   "date_key": "2026-11-26",
-  "updated_ts": 1795742780900,
+  "updated_ts": 1795742990051,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -115,15 +115,15 @@
       "ts": 1795696629000
     },
     {
-      "title": "Ford CEO on Le Mans, New Electric Pickup and Trade Talks",
+      "title": "Brazil Assets Rally After Lula Names Banker as Finance Minister",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/ford-ceo-on-le-mans-new-electric-pickup-and-trade-talks-video",
-      "snippet": "Bloomberg’s Matt Miller sits down with Ford CEO Jim Farley to talk racing, Ford’s planned $30,000 electric pickup, Chinese EV competition and USMCA trade talks, zeroing in on how to protect US auto manufacturing…",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/brazil-assets-rally-after-lula-names-banker-luiz-carlos-trabuco-cappi-finance-minister",
+      "snippet": "Brazilian assets gained after one of the country’s best-known bankers was named the new finance minister.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 26, 3:00 PM",
-      "coverage": 3,
-      "ts": 1795723215000
+      "time": "Nov 26, 8:08 PM",
+      "coverage": 2,
+      "ts": 1795741680000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -248,6 +248,12 @@
       "ts": 1795742220000
     },
     {
+      "time": "8:12 PM",
+      "title": "Investing.com — Netherlands will ask Washington not to enforce MATCH Act, minister says",
+      "url": "https://www.investing.com/news/stock-market-news/dutch-minister-says-us-chip-curbs-bill-would-hurt-europe-5052431",
+      "ts": 1795741959000
+    },
+    {
       "time": "8:00 PM",
       "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
@@ -300,12 +306,6 @@
       "title": "Globe and Mail — Wealthsimple faces backlash over interest rate cuts, rollback of perks",
       "url": "https://www.theglobeandmail.com/investing/personal-finance/article-wealthsimple-changes-interest-rate-cuts-chequing-rollback-perks/",
       "ts": 1795738580000
-    },
-    {
-      "time": "7:15 PM",
-      "title": "Bloomberg — US Plans for Tariffs Face Pushback",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/us-plans-for-tariffs-face-pushback-video",
-      "ts": 1795738556000
     }
   ]
 }
