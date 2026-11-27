@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 3:59 AM ET",
+  "generated_at": "Nov 27, 2026, 4:02 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795769967503,
+  "updated_ts": 1795770167399,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -236,6 +236,18 @@
   ],
   "ticker": [
     {
+      "time": "4:00 AM",
+      "title": "Bloomberg — Isabella Weber's Vision for an Affordability Agenda",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/isabella-weber-s-vision-for-an-affordability-agenda",
+      "ts": 1795770022000
+    },
+    {
+      "time": "4:00 AM",
+      "title": "Bloomberg — Odd Lots: Weber’s Vision for an Affordability Agenda (Podcast)",
+      "url": "https://www.bloomberg.com/news/audio/2026-11-27/odd-lots-weber-s-vision-for-an-affordability-agenda-podcast",
+      "ts": 1795770000000
+    },
+    {
       "time": "3:43 AM",
       "title": "Bloomberg — Dubai Stocks Erase Wartime Losses to Become a Top Gulf Performer",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/dubai-stocks-erase-wartime-losses-to-become-a-top-gulf-performer",
@@ -294,18 +306,6 @@
       "title": "WSJ Markets — Eurozone Bond Yields Track Treasury Yields, Oil Prices Higher",
       "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
       "ts": 1795767780000
-    },
-    {
-      "time": "3:22 AM",
-      "title": "Bloomberg — US Investors Will Have to Chase Rally: Market Analysis",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/us-investors-will-have-to-chase-rally-3-minutes-mliv-video",
-      "ts": 1795767748000
-    },
-    {
-      "time": "3:22 AM",
-      "title": "Investing.com — FTSE 100 today: Stocks rise as miners lead on metals rebound",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-miners-lead-on-metals-rebound-5053108",
-      "ts": 1795767728000
     }
   ]
 }
