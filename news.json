@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 7:43 AM ET",
+  "generated_at": "Nov 27, 2026, 7:46 AM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795783404096,
+  "updated_ts": 1795783604031,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -44,6 +44,37 @@
       "ts": 1795774839000
     },
     {
+      "title": "Canadians expected to spend less on Black Friday this year",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
+      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
+      "time": "Nov 27, 7:44 AM",
+      "coverage": 3,
+      "ts": 1795783448000
+    },
+    {
+      "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
+      "snippet": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
+      "image": "https://images.mktw.net/im-85895280",
+      "time": "Nov 27, 7:42 AM",
+      "coverage": 3,
+      "ts": 1795783320000
+    },
+    {
+      "title": "Stock Futures Rally as AI Trade Gathers Pace; EU Budget Talks Falter",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-brief-11-27-2026-video",
+      "snippet": "US investors return from the holiday with a rally in equity futures as a tech recovery gains momentum. EU leaders cut budget talks short after failing to negotiate a long-term funding plan. Shoppers prepare for Black…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 7:20 AM",
+      "coverage": 3,
+      "ts": 1795782010000
+    },
+    {
       "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
@@ -52,16 +83,6 @@
       "time": "Nov 27, 4:12 AM",
       "coverage": 2,
       "ts": 1795770720000
-    },
-    {
-      "title": "Stocks look like a Black Friday bargain. Read the fine print.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
-      "snippet": "Analysts raised their profit forecasts for S&P 500 companies during the selloff. Plus, how to spot a bogus boutique and what Jensen Huang is doing in your 401(k).",
-      "image": "https://images.mktw.net/im-25984516",
-      "time": "Nov 27, 7:01 AM",
-      "coverage": 3,
-      "ts": 1795780860000
     },
     {
       "title": "Turkey Fund Investors Face Principal Loss Despite Erdogan Pledge",
@@ -75,14 +96,15 @@
       "ts": 1795777998000
     },
     {
-      "title": "Stock Futures Jump as AI Trade Set for Rebound",
+      "title": "European Stock Indexes Rise as Tech Rally Extends",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
-      "snippet": "Nasdaq futures traded 2.7% higher, while contracts tied to the S&P 500 and the Dow Jones Industrial Average also rose ahead of a shortened trading session Friday.",
-      "image": "https://images.wsj.net/im-14953166",
-      "time": "Nov 27, 4:34 AM",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
+      "snippet": "Tech and defense stocks lifted European indexes higher at the end of a volatile week for the AI trade.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 3:32 AM",
       "coverage": 3,
-      "ts": 1795772040000
+      "ts": 1795768320000
     },
     {
       "title": "The world is waking up to the Montney’s vast natural gas reserves. Will Canada seize the opportunity?",
@@ -94,17 +116,6 @@
       "ts": 1795773600000
     },
     {
-      "title": "Stock Futures Rally as AI Trade Gathers Pace; EU Budget Talks Falter",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-brief-11-27-2026-video",
-      "snippet": "US investors return from the holiday with a rally in equity futures as a tech recovery gains momentum. EU leaders cut budget talks short after failing to negotiate a long-term funding plan. Shoppers prepare for Black…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 7:20 AM",
-      "coverage": 2,
-      "ts": 1795782010000
-    },
-    {
       "title": "Jefferies sees Brazil rebound potential after finance minister pick",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/jefferies-sees-brazil-rebound-potential-after-finance-minister-pick-93CH-5053426",
@@ -113,15 +124,6 @@
       "time": "Nov 27, 7:16 AM",
       "coverage": 2,
       "ts": 1795781780000
-    },
-    {
-      "title": "Ottawa clamps down on imports of cheap canned vegetables in bid to protect domestic industry",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-ottawa-cheap-canned-vegetables-import-tariffs-domestic-industry/",
-      "snippet": "Tariffs to be introduced on imports above a set quota from trading partners such as the U.S. and Europe as of Dec. 1",
-      "image": "https://www.theglobeandmail.com/resizer/v2/P3JXIHQU2VGO3D35SOUACHNVPQ.jpg?auth=5e78616528f2e7457d1ccea733480aa4b0714eee74a31a269aca7a82ffc6205d&smart=true&width=5000&height=3333",
-      "time": "Nov 26, 8:26 PM",
-      "ts": 1795742782000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -235,6 +237,12 @@
   ],
   "ticker": [
     {
+      "time": "7:45 AM",
+      "title": "CNBC — Dow futures rally 600 points as benchmark heads for best week since April 2025: Live updates",
+      "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "ts": 1795783553000
+    },
+    {
       "time": "7:41 AM",
       "title": "Bloomberg — ¿Volverá la derecha al poder en España?",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/-volvera-la-derecha-al-poder-en-espana",
@@ -299,12 +307,6 @@
       "title": "Investing.com — Premarket movers: AI stocks rebound, Vertex slides on FDA review",
       "url": "https://www.investing.com/news/stock-market-news/premarket-movers-ai-stocks-rebound-vertex-slides-on-fda-review-5053411",
       "ts": 1795781228000
-    },
-    {
-      "time": "7:04 AM",
-      "title": "Investing.com — SMA Solar jumps 5% as Berenberg sees backlog driving earnings upside",
-      "url": "https://www.investing.com/news/stock-market-news/sma-solar-jumps-5-as-berenberg-sees-backlog-driving-earnings-upside-5053408",
-      "ts": 1795781049000
     }
   ]
 }
