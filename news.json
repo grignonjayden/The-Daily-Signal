@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 1:56 AM ET",
+  "generated_at": "Nov 28, 2026, 2:00 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795849002801,
+  "updated_ts": 1795849202221,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -125,15 +125,14 @@
       "ts": 1795783448000
     },
     {
-      "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+      "title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
-      "snippet": "S&P Global Ratings lifted the outlook on Hungary’s sovereign debt to stable from negative, citing planned steps by Prime Minister Peter Magyar’s cabinet to cut the budget deficit and eventually adopt the euro.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain",
+      "snippet": "India’s banking regulator is stepping up scrutiny of the nation’s $247 billion gold-loan sector as a sharp drop in bullion prices erodes the collateral that lenders demand from borrowers, according to people familiar…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 27, 4:19 PM",
-      "coverage": 2,
-      "ts": 1795814371000
+      "time": "Nov 28, 1:39 AM",
+      "ts": 1795847948000
     },
     {
       "title": "Number of temporary residents in Canada set to exceed federal target by end of 2027",
