@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 7:03 AM ET",
+  "generated_at": "Nov 28, 2026, 7:06 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795867395705,
+  "updated_ts": 1795867596359,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -115,6 +115,15 @@
       "ts": 1795814160000
     },
     {
+      "title": "Americans Have More Riding on the Stock Market Than Ever",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=rss_markets_main",
+      "snippet": "Plus, a family feud as big as Texas hangs over Houston’s NFL team, and inside China’s $4 billion secondhand luxury boom.",
+      "image": "https://images.wsj.net/im-01144362",
+      "time": "Nov 28, 7:02 AM",
+      "ts": 1795867320000
+    },
+    {
       "title": "Can you trust AI with complex money questions? Read three chatbots’ answers, rated by experts",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/investing/personal-finance/article-ai-chatbot-money-questions-chatgpt-claude-gemini-experts/",
@@ -122,15 +131,6 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/OB75D5TCTNFWBPITD3TKCFNVJQ.png?auth=4aa5ef855566aaee4d648fac213760983cafb4810533affe71b9716af38b917a&smart=true&width=1500&height=1000",
       "time": "Nov 28, 6:00 AM",
       "ts": 1795863600000
-    },
-    {
-      "title": "Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610?mod=rss_markets_main",
-      "snippet": "The policies were pitched as a salve for aging Americans worried about care costs. Except many insurers flubbed the math.",
-      "image": "https://images.wsj.net/im-16578809",
-      "time": "Nov 28, 5:00 AM",
-      "ts": 1795860000000
     },
     {
       "title": "Canadians expected to spend less on Black Friday this year",
@@ -234,6 +234,14 @@
     },
     {
       "time": "5:00 AM",
+      "title": "WSJ Markets — Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
+      "url": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610?mod=rss_markets_main",
+      "ts": 1795860000000,
+      "snippet": "The policies were pitched as a salve for aging Americans worried about care costs. Except many insurers flubbed the math.",
+      "image": "https://images.wsj.net/im-16578809"
+    },
+    {
+      "time": "5:00 AM",
       "title": "Bloomberg — Plunging Fuel Prices Bring Relief for Drivers and Central Banks",
       "url": "https://www.bloomberg.com/news/articles/2026-11-28/plunging-fuel-prices-bring-relief-for-drivers-and-central-banks",
       "ts": 1795860000000,
@@ -311,13 +319,6 @@
       "url": "https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
       "ts": 1795833740000,
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ1RH_L.jpg"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Investing.com — AI stocks rebound: Catch the next move with AI picks at 60% off, Black Friday only",
-      "url": "https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
-      "ts": 1795833295000,
-      "image": "https://content-media.investing.com/news/LYNXMPEDAO061_M.jpg"
     }
   ]
 }
