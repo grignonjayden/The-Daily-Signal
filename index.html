@@ -618,7 +618,8 @@
   .pf-manual-row select { width: 90px; flex: none; }
   .pf-go { margin-top: 16px; }
   .pf-add-row { display: flex; align-items: center; justify-content: space-between; gap: 14px; }
-  .pf-add-row .item-summary { margin: 0; }
+  .pf-add-row .item-summary, .pf-add-sub { margin: 0; }
+  .pf-add-sub { font-size: 14px; line-height: 1.5; color: var(--ink-soft); font-weight: 500; }
   .pf-add-open { flex: none; padding: 11px 22px; }
   .pf-add-pop { position: relative; max-width: 620px; }
   .pf-add-pop .widget { background: none; box-shadow: none; border: none; padding: 0; margin: 0; animation: none; opacity: 1; transform: none; }
@@ -2692,6 +2693,15 @@ function pfDraw() {
   const vals = holdings.map(h => ({ h, v: pfValue(h, fx) }));
   const total = vals.reduce((s, x) => s + x.v.value, 0);
 
+  // 0) Add an investment (top of the page)
+  const addCard = widgetShell('w-span-12 pf-add-slim', 'coin', 'var(--pink-soft)', 'var(--pink-deep)', 'Add an investment');
+  const addRow = el('div', { className: 'pf-add-row' });
+  addRow.appendChild(el('p', { className: 'pf-add-sub', text: 'Stocks, ETFs, bonds, IPOs, futures, options, crypto, cash or GICs.' }));
+  const addBtn = el('button', { className: 'gen-btn pf-add-open', text: '+ Add' }); addBtn.type = 'button';
+  addBtn.onclick = () => pfAddModal(keepType);
+  addRow.appendChild(addBtn); addCard.appendChild(addRow);
+  addCard.appendChild(el('p', { className: 'pf-msg', text: PF.lastAdded ? '✓ Added ' + PF.lastAdded + '.' : '' })); PF.lastAdded = '';
+  mainPanel.appendChild(addCard);
   // 1) Summary
   const sum = widgetShell('w-span-12 pf-root', 'pie', 'var(--mint-soft)', 'var(--mint-deep)', 'Your portfolio', holdings.length || undefined);
   if (!holdings.length) {
@@ -2769,15 +2779,7 @@ function pfDraw() {
     mainPanel.appendChild(list);
   }
 
-  // 4) Add an investment
-  const addCard = widgetShell('w-span-12 pf-add-slim', 'coin', 'var(--pink-soft)', 'var(--pink-deep)', 'Add an investment');
-  const addRow = el('div', { className: 'pf-add-row' });
-  addRow.appendChild(el('p', { className: 'item-summary', text: 'Stocks, ETFs, crypto, cash or GICs.' }));
-  const addBtn = el('button', { className: 'gen-btn pf-add-open', text: '+ Add' }); addBtn.type = 'button';
-  addBtn.onclick = () => pfAddModal(keepType);
-  addRow.appendChild(addBtn); addCard.appendChild(addRow);
-  addCard.appendChild(el('p', { className: 'pf-msg', text: PF.lastAdded ? '✓ Added ' + PF.lastAdded + '.' : '' })); PF.lastAdded = '';
-  mainPanel.appendChild(addCard);
+  // (Add an investment now sits at the top)
 
   const foot = el('div', { className: 'pf-foot' });
   foot.appendChild(el('p', { className: 'live-updated', text: 'For your own tracking only, not investment advice. Your holdings are saved only in this browser on this device; nothing is sent anywhere.' }));
