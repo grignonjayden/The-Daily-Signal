@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 27, 2026, 9:04 PM ET",
+  "generated_at": "Nov 27, 2026, 9:07 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795831472645,
+  "updated_ts": 1795831673961,
   "articles": [
+    {
+      "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/wall-street-stages-major-comeback-thanksgiving-shortened-trading-week",
+      "snippet": "Wall Street staged a strong comeback as the S&amp;P 500 posted its largest weekly gain in more than a year, with investors returning to battered AI stocks.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
+      "time": "Nov 27, 9:00 PM",
+      "coverage": 5,
+      "ts": 1795831210000
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -12,6 +22,16 @@
       "time": "Nov 27, 6:30 PM",
       "coverage": 5,
       "ts": 1795822200000
+    },
+    {
+      "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FZ_L.jpg",
+      "time": "Nov 27, 5:18 PM",
+      "coverage": 5,
+      "ts": 1795817898000
     },
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -24,6 +44,17 @@
       "ts": 1795810560000
     },
     {
+      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
+      "snippet": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 1:43 PM",
+      "coverage": 5,
+      "ts": 1795805016000
+    },
+    {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/tech-founders-too-big-fail-jensen-huangs-nvidia-return-sparks-debate",
@@ -34,16 +65,6 @@
       "ts": 1795791993000
     },
     {
-      "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ0FZ_L.jpg",
-      "time": "Nov 27, 5:18 PM",
-      "coverage": 4,
-      "ts": 1795817898000
-    },
-    {
       "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
@@ -52,17 +73,6 @@
       "time": "Nov 27, 7:00 AM",
       "coverage": 5,
       "ts": 1795780822000
-    },
-    {
-      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
-      "snippet": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 1:43 PM",
-      "coverage": 4,
-      "ts": 1795805016000
     },
     {
       "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
@@ -135,16 +145,6 @@
       "time": "Nov 27, 3:35 PM",
       "coverage": 2,
       "ts": 1795811718000
-    },
-    {
-      "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts",
-      "snippet": "SpaceX will give one share of its Class A common stock to every active Trump Account, with Elon Musk pledging to personally match the donation.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/elon-musk-spacex-trump-accounts-donation.jpg",
-      "time": "Nov 25, 11:29 PM",
-      "coverage": 3,
-      "ts": 1795667395000
     }
   ],
   "outlets": [
@@ -176,6 +176,24 @@
       "fallback_image": true,
       "time": "Nov 27, 8:33 AM",
       "ts": 1795786383000
+    },
+    {
+      "title": "Canada's balance of international payments, third quarter 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261127/dq261127a-eng.htm",
+      "snippet": "Canada's current account surplus (on a seasonally adjusted basis) narrowed from $6.1 billion in the second quarter to $4.5 billion in the third quarter.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261127/cg261127a001-eng.png",
+      "time": "Nov 27, 8:30 AM",
+      "ts": 1795786200000
+    },
+    {
+      "title": "Railway carloadings, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261127/dq261127b-eng.htm",
+      "snippet": "In September, Canadian railways shipped 32.6 million tonnes of freight, up 3.8% compared with September 2025.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261127/cg261127b001-eng.png",
+      "time": "Nov 27, 8:30 AM",
+      "ts": 1795786200000
     },
     {
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
