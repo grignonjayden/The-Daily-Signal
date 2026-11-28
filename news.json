@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:02 PM ET",
+  "generated_at": "Nov 27, 2026, 10:05 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795834933708,
+  "updated_ts": 1795835134550,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -75,6 +75,16 @@
       "ts": 1795803846000
     },
     {
+      "title": "AI stocks rebound: Catch the next move with AI picks at 60% off, Black Friday only",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEDAO061_M.jpg",
+      "time": "Nov 27, 9:34 PM",
+      "coverage": 3,
+      "ts": 1795833295000
+    },
+    {
       "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
@@ -83,16 +93,6 @@
       "time": "Nov 27, 7:56 PM",
       "coverage": 3,
       "ts": 1795827406000
-    },
-    {
-      "title": "US Black Friday online sales to cross $13 billion, Adobe says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR006_L.jpg",
-      "time": "Nov 27, 7:18 PM",
-      "coverage": 3,
-      "ts": 1795825121000
     },
     {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
@@ -228,6 +228,13 @@
   ],
   "ticker": [
     {
+      "time": "9:42 PM",
+      "title": "Investing.com — Glass Lewis backs Vail Resorts board in proxy fight with activist Oasis",
+      "url": "https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
+      "ts": 1795833740000,
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ1RH_L.jpg"
+    },
+    {
       "time": "9:20 PM",
       "title": "Investing.com — American Airlines jets clip wings on taxiway at Reagan National Airport",
       "url": "https://www.investing.com/news/stock-market-news/american-airlines-jets-clip-wings-on-taxiway-at-reagan-national-airport-5054097",
@@ -273,6 +280,13 @@
     },
     {
       "time": "7:18 PM",
+      "title": "Investing.com — US Black Friday online sales to cross $13 billion, Adobe says",
+      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+      "ts": 1795825121000,
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR006_L.jpg"
+    },
+    {
+      "time": "7:18 PM",
       "title": "Investing.com — US shoppers confront uphill battle in Black Friday discount quest",
       "url": "https://www.investing.com/news/stock-market-news/us-shoppers-confront-uphill-battle-in-black-friday-discount-quest-5054041",
       "ts": 1795825103000,
@@ -300,21 +314,6 @@
       "ts": 1795824000000,
       "snippet": "The mansion-like historic structure is being renovated for lounges and a dining room, kitchen and bar, city documents show.",
       "image": "https://images.wsj.net/im-96569150"
-    },
-    {
-      "time": "7:00 PM",
-      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "ts": 1795824000000,
-      "snippet": "“Given my age, I never make a major new purchase without thinking about the future.”",
-      "image": "https://images.mktw.net/im-34995811"
-    },
-    {
-      "time": "6:58 PM",
-      "title": "Investing.com — Grupo Aeroportuario del Pacifico completes FIBRA GAP IPO at Ps. 7.82B",
-      "url": "https://www.investing.com/news/stock-market-news/grupo-aeroportuario-del-pacifico-completes-fibra-gap-ipo-at-ps-782b-432SI-5054018",
-      "ts": 1795823881000,
-      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
     }
   ]
 }
