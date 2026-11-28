@@ -259,6 +259,9 @@
   .news-time { font-size: 11px; font-weight: 600; color: var(--ink-faint); white-space: nowrap; }
   .news-title { font-size: 15.5px; font-weight: 700; margin: 0 0 4px; letter-spacing: -0.005em; }
   .news-snippet { font-size: 13.5px; line-height: 1.5; color: var(--ink-soft); margin: 0; font-weight: 500; }
+  .off-short .news-snippet { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .off-short .news-card[hidden] { display: none; }
+  .off-more { margin-top: 10px; }
 
   /* ---------- Video thumbnails ---------- */
   .news-card.has-video { display: flex; gap: 14px; align-items: flex-start; }
@@ -1295,6 +1298,7 @@ function addInfoButton(widget, title, text) {
 }
 
 // Collapsed by default: a Show/Hide button in the header opens the list.
+const NEWS_UI = { offAll: false, tickerOpen: false };
 function makeCollapsible(widget, body) {
   body.hidden = true;
   const btn = el('button', { className: 'info-btn', text: 'Show' });
@@ -1847,8 +1851,10 @@ function renderNews(data, dateKey) {
   // Official releases — Fed, Bank of Canada, Finance Canada, StatCan, SEC
   if (Array.isArray(data.official) && data.official.length) {
     const offWidget = widgetShell('w-span-12', 'bank', 'var(--sky-soft)', 'var(--sky)', 'Official releases', data.official.length);
-    offWidget.appendChild(el('p', { className: 'item-summary gov-sub', text: 'Announcements straight from the source: the Bank of Canada, Finance Canada, Statistics Canada, the U.S. Federal Reserve and the SEC.' }));
+    offWidget.classList.add('off-short');
+    offWidget.appendChild(el('p', { className: 'item-summary gov-sub', text: 'Straight from the Bank of Canada, Finance Canada, StatCan, the Fed and the SEC.' }));
     const offList = el('div', { className: 'news-list' });
+    const OFF_SHOW = 3; // newest few; the rest behind "Show more" (choice kept across auto-refreshes)
     data.official.forEach((a, i) => {
       const card = el('a', { className: 'news-card has-thumb', href: a.url || '#' });
       card.style.animationDelay = (i * 0.05) + 's';
@@ -1861,9 +1867,15 @@ function renderNews(data, dateKey) {
       body.appendChild(el('p', { className: 'news-title', text: a.title || '' }));
       if (a.snippet) body.appendChild(el('p', { className: 'news-snippet', text: a.snippet }));
       card.appendChild(body);
+      if (i >= OFF_SHOW && !NEWS_UI.offAll) card.hidden = true;
       offList.appendChild(card);
     });
     offWidget.appendChild(offList);
+    if (data.official.length > OFF_SHOW) {
+      const more = el('button', { className: 'info-btn off-more', text: NEWS_UI.offAll ? 'Show fewer' : 'Show ' + (data.official.length - OFF_SHOW) + ' more' }); more.type = 'button';
+      more.onclick = () => { NEWS_UI.offAll = !NEWS_UI.offAll; [...offList.children].forEach((c, j) => { c.hidden = j >= OFF_SHOW && !NEWS_UI.offAll; }); more.textContent = NEWS_UI.offAll ? 'Show fewer' : 'Show ' + (data.official.length - OFF_SHOW) + ' more'; };
+      offWidget.appendChild(more);
+    }
     mainPanel.appendChild(offWidget);
   }
 
@@ -1882,8 +1894,15 @@ function renderNews(data, dateKey) {
       row.appendChild(el('div', { className: 'ticker-headline', text: t.title || '' }));
       tickerList.appendChild(row);
     });
-    tickerWidget.appendChild(tickerList);
-    tickerWidget.appendChild(el('div', { className: 'ticker-caption', text: "Updates automatically every few minutes from the Federal Reserve, Bank of Canada, Finance Canada, Statistics Canada and the SEC, plus a mix of U.S. and Canadian business outlets. Tap any headline to read the original source." }));
+    const tickerBody = el('div');
+    tickerBody.appendChild(tickerList);
+    tickerWidget.appendChild(tickerBody);
+    // Collapsed by default; open/closed is remembered across the 3-minute auto-refresh.
+    tickerBody.hidden = !NEWS_UI.tickerOpen;
+    const tb = el('button', { className: 'info-btn', text: NEWS_UI.tickerOpen ? 'Hide' : 'Show' }); tb.type = 'button'; tb.setAttribute('aria-expanded', String(NEWS_UI.tickerOpen));
+    tb.onclick = () => { NEWS_UI.tickerOpen = !NEWS_UI.tickerOpen; tickerBody.hidden = !NEWS_UI.tickerOpen; tb.textContent = NEWS_UI.tickerOpen ? 'Hide' : 'Show'; tb.setAttribute('aria-expanded', String(NEWS_UI.tickerOpen)); };
+    tickerWidget.querySelector('.widget-head').appendChild(tb);
+    tickerBody.appendChild(el('div', { className: 'ticker-caption', text: "Updates automatically every few minutes from the Federal Reserve, Bank of Canada, Finance Canada, Statistics Canada and the SEC, plus a mix of U.S. and Canadian business outlets. Tap any headline to read the original source." }));
     mainPanel.appendChild(tickerWidget);
   }
 
