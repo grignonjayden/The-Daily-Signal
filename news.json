@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 5:02 AM ET",
+  "generated_at": "Nov 28, 2026, 5:05 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795860142058,
+  "updated_ts": 1795860342866,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -126,15 +126,13 @@
       "ts": 1795814160000
     },
     {
-      "title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
+      "title": "Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
-      "snippet": "U.S. natural gas futures settled lower with the Nymex January contract falling 4.5% to $3.491/mmBtu in its first trading day at the front of the curve.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 3:44 PM",
-      "coverage": 2,
-      "ts": 1795812240000
+      "url": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610?mod=rss_markets_main",
+      "snippet": "The policies were pitched as a salve for aging Americans worried about care costs. Except many insurers flubbed the math.",
+      "image": "https://images.wsj.net/im-16578809",
+      "time": "Nov 28, 5:00 AM",
+      "ts": 1795860000000
     },
     {
       "title": "OpenAI countersues Apple for stealing trade secrets",
