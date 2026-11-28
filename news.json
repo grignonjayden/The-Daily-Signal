@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 1:02 PM ET",
+  "generated_at": "Nov 28, 2026, 1:06 PM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795888960993,
+  "updated_ts": 1795889160451,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -64,17 +64,6 @@
       "ts": 1795881264000
     },
     {
-      "title": "Nigeria Central Bank Plans 2027 Launch of Repo and Swap Markets",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-28/nigeria-central-bank-plans-2027-launch-of-repo-and-swap-markets",
-      "snippet": "Nigeria’s central bank is targeting the launch of a repo and overnight index swap market in the first quarter of 2027, as it seeks to strengthen liquidity management and improve the transmission of policy decisions.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 28, 9:39 AM",
-      "coverage": 3,
-      "ts": 1795876776000
-    },
-    {
       "title": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html",
@@ -93,6 +82,17 @@
       "time": "Nov 27, 10:06 AM",
       "coverage": 5,
       "ts": 1795791993000
+    },
+    {
+      "title": "Nigeria Central Bank Plans 2027 Launch of Repo and Swap Markets",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/nigeria-central-bank-plans-2027-launch-of-repo-and-swap-markets",
+      "snippet": "Nigeria’s central bank is targeting the launch of a repo and overnight index swap market in the first quarter of 2027, as it seeks to strengthen liquidity management and improve the transmission of policy decisions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 28, 9:39 AM",
+      "coverage": 2,
+      "ts": 1795876776000
     },
     {
       "title": "Norway’s Wealth Fund Again Votes No to Musk’s Tesla Pay Package",
@@ -224,6 +224,14 @@
   ],
   "ticker": [
     {
+      "time": "1:03 PM",
+      "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "ts": 1795888980000,
+      "snippet": "“Retirement is a financial status, not an age.”",
+      "image": "https://images.mktw.net/im-83830528"
+    },
+    {
       "time": "11:25 AM",
       "title": "CNBC — Supreme Court will decide whether assault weapons bans violate the Second Amendment",
       "url": "https://www.cnbc.com/2026/11/28/supreme-court-to-decide-if-assault-weapons-bans-violate-2nd-amendment.html",
@@ -309,14 +317,6 @@
       "ts": 1795874460000,
       "snippet": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
       "image": "https://images.mktw.net/im-93318812"
-    },
-    {
-      "time": "9:00 AM",
-      "title": "CNBC — AI data center boom strains construction labor across the U.S.",
-      "url": "https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html",
-      "ts": 1795874401000,
-      "snippet": "CNBC traveled to Abilene, Texas to see how the AI data center construction boom is impacting the local economy in both positive and negative ways.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108558526-1795538783249-gene.jpg?v=1795538827&w=1920&h=1080"
     }
   ]
 }
