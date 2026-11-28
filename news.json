@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 7:26 PM ET",
+  "generated_at": "Nov 27, 2026, 7:30 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795825605868,
+  "updated_ts": 1795825804809,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -75,6 +75,16 @@
       "ts": 1795803846000
     },
     {
+      "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR006_L.jpg",
+      "time": "Nov 27, 7:18 PM",
+      "coverage": 3,
+      "ts": 1795825121000
+    },
+    {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
@@ -96,14 +106,14 @@
       "ts": 1795812240000
     },
     {
-      "title": "2027 smartphone market outlook: Apple to outperform as shipments fall 5%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/2027-smartphone-market-outlook-apple-to-outperform-as-shipments-fall-5-5054028",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXNPEB880N1_M.jpg",
-      "time": "Nov 27, 7:03 PM",
-      "coverage": 2,
-      "ts": 1795824202000
+      "title": "Canadians expected to spend less on Black Friday this year",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
+      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
+      "time": "Nov 27, 7:44 AM",
+      "coverage": 3,
+      "ts": 1795783448000
     },
     {
       "title": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
@@ -125,16 +135,6 @@
       "time": "Nov 27, 3:31 PM",
       "coverage": 2,
       "ts": 1795811470000
-    },
-    {
-      "title": "U.S. goods trade deficit widens again as AI-led imports hit record high",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-us-goods-trade-deficit-widens-again-as-ai-led-imports-hit-record-high/",
-      "snippet": "October deficit of more than 10% puts trade on track to weaken fourth-quarter GDP growth",
-      "image": "https://www.theglobeandmail.com/resizer/v2/CT5PGGE4PBCR7MXY543CUATEQQ.JPG?auth=cd3ed04600df9bd1d24f8e8834b4f22cf64a1d36fb5441b7cc061437385d156b&smart=true&width=7535&height=5026",
-      "time": "Nov 27, 11:45 AM",
-      "coverage": 2,
-      "ts": 1795797946000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -228,10 +228,22 @@
   ],
   "ticker": [
     {
+      "time": "7:18 PM",
+      "title": "Investing.com — US shoppers confront uphill battle in Black Friday discount quest",
+      "url": "https://www.investing.com/news/stock-market-news/us-shoppers-confront-uphill-battle-in-black-friday-discount-quest-5054041",
+      "ts": 1795825103000
+    },
+    {
       "time": "7:08 PM",
       "title": "Globe and Mail — Telus picks up pace on sale of health, agriculture and VC divisions",
       "url": "https://www.theglobeandmail.com/business/article-telus-divestiture-plan-health-agriculture-vc-divisions/",
       "ts": 1795824529000
+    },
+    {
+      "time": "7:03 PM",
+      "title": "Investing.com — 2027 smartphone market outlook: Apple to outperform as shipments fall 5%",
+      "url": "https://www.investing.com/news/stock-market-news/2027-smartphone-market-outlook-apple-to-outperform-as-shipments-fall-5-5054028",
+      "ts": 1795824202000
     },
     {
       "time": "7:00 PM",
@@ -286,18 +298,6 @@
       "title": "Bloomberg — Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
       "ts": 1795817681000
-    },
-    {
-      "time": "5:00 PM",
-      "title": "CNBC — Inflation has shoppers hunting for value. That bodes well for Black Friday",
-      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-      "ts": 1795816857000
-    },
-    {
-      "time": "4:31 PM",
-      "title": "Investing.com — Why is Strategy stock gaining today?",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-gaining-today-93CH-5053886",
-      "ts": 1795815119000
     }
   ]
 }
