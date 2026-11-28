@@ -1,4 +1,4 @@
-{"generated_at":"Nov 27, 7:02 PM ET","updated_ts":1795824132699,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
+{"generated_at":"Nov 27, 7:06 PM ET","updated_ts":1795824402864,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
 {"s":"6B=F","x":"FUT","t":"f","n":"British pound","k":62500,"r":33,"c":"USD","p":1.3099,"pc":1.3123},
 {"s":"6C=F","x":"FUT","t":"f","n":"Canadian dollar","k":100000,"r":30,"c":"USD","p":0.7024,"pc":0.7046},
 {"s":"6E=F","x":"FUT","t":"f","n":"Euro","k":125000,"r":31,"c":"USD","p":1.0944,"pc":1.0989},
