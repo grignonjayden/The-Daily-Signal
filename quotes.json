@@ -1,4 +1,4 @@
-{"generated_at":"Nov 27, 8:44 PM ET","updated_ts":1795830257364,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
+{"generated_at":"Nov 27, 9:01 PM ET","updated_ts":1795831271662,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
 {"s":"6B=F","x":"FUT","t":"f","n":"British pound","k":62500,"r":33,"c":"USD","p":1.3099,"pc":1.3123},
 {"s":"6C=F","x":"FUT","t":"f","n":"Canadian dollar","k":100000,"r":30,"c":"USD","p":0.7024,"pc":0.7046},
 {"s":"6E=F","x":"FUT","t":"f","n":"Euro","k":125000,"r":31,"c":"USD","p":1.0944,"pc":1.0989},
@@ -44,7 +44,7 @@
 {"s":"^GDAXI","x":"IDX","t":"i","n":"DAX (Germany)","r":8,"c":"EUR","p":25441.24,"pc":25215.52},
 {"s":"^GSPC","x":"IDX","t":"i","n":"S&P 500","r":0,"c":"USD","p":7297.49,"pc":7182.78},
 {"s":"^GSPTSE","x":"IDX","t":"i","n":"S&P/TSX Composite","r":5,"c":"CAD","p":34839.87,"pc":34426.88},
-{"s":"^HSI","x":"IDX","t":"i","n":"Hang Seng (Hong Kong)","r":12,"c":"HKD","p":22694.77,"pc":21966},
+{"s":"^HSI","x":"IDX","t":"i","n":"Hang Seng (Hong Kong)","r":12,"c":"HKD","p":22694.77,"pc":22226.88},
 {"s":"^IRX","x":"IDX","t":"i","n":"U.S. 13-week T-bill yield","r":20,"c":"USD","p":4.153,"pc":4.155},
 {"s":"^IXIC","x":"IDX","t":"i","n":"Nasdaq Composite","r":1,"c":"USD","p":24129.5,"pc":23585.803},
 {"s":"^KS11","x":"IDX","t":"i","n":"KOSPI (South Korea)","r":15,"c":"KRW","p":4915.68,"pc":4711.21},
@@ -57,7 +57,7 @@
 {"s":"^TNX","x":"IDX","t":"i","n":"U.S. 10-year Treasury yield","r":19,"c":"USD","p":4.936,"pc":4.848},
 {"s":"^TYX","x":"IDX","t":"i","n":"U.S. 30-year Treasury yield","r":21,"c":"USD","p":5.325,"pc":5.235},
 {"s":"^VIX","x":"IDX","t":"i","n":"VIX (fear gauge)","r":6,"c":"USD","p":23.81,"pc":26.8},
-{"s":"000001.SS","x":"IDX","t":"i","n":"Shanghai Composite","r":13,"c":"CNY","p":3606.487,"pc":3476.47},
+{"s":"000001.SS","x":"IDX","t":"i","n":"Shanghai Composite","r":13,"c":"CNY","p":3606.4868,"pc":3476.8816},
 {"s":"DX-Y.NYB","x":"IDX","t":"i","n":"U.S. Dollar Index","r":22,"c":"USD","p":104.014,"pc":103.665},
 {"s":"ABX","x":"TSX","t":"s","h":1,"r":23,"n":"BARRICK MINING CORPORATION","c":"CAD","p":51.98,"pc":49.84},
 {"s":"AC","x":"TSX","t":"s","h":1,"r":58,"n":"AIR CANADA","c":"CAD","p":21.61,"pc":21.95},
