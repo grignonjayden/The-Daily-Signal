@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 2:46 PM ET",
+  "generated_at": "Nov 28, 2026, 2:49 PM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795895191388,
+  "updated_ts": 1795895390272,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -224,6 +224,13 @@
   ],
   "ticker": [
     {
+      "time": "2:40 PM",
+      "title": "Investing.com — Thailand eyes EU trade deal by end of 2027, PM says after U.S. pact",
+      "url": "https://www.investing.com/news/stock-market-news/thailand-eyes-eu-trade-deal-by-end-of-2027-pm-says-after-us-pact-93CH-5054382",
+      "ts": 1795894821000,
+      "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
+    },
+    {
       "time": "2:17 PM",
       "title": "Investing.com — Volkswagen stock fights $1.2B India tax demand, citing rival imports, Reuters reports",
       "url": "https://www.investing.com/news/stock-market-news/volkswagen-stock-fights-12b-india-tax-demand-citing-rival-imports-reuters-reports-93CH-5054380",
@@ -306,14 +313,6 @@
       "ts": 1795878000000,
       "snippet": "“Given my age, I never make a major new purchase without thinking about the future.”",
       "image": "https://images.mktw.net/im-34995811"
-    },
-    {
-      "time": "9:34 AM",
-      "title": "CNBC — The Iran war could shatter rising expectations of surplus oil supply in coming months",
-      "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
-      "ts": 1795876491000,
-      "snippet": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108481442-1793289930383-gettyimages-2301997925-koutsokostas-notitle261029_nplpg.jpeg?v=1793290000&w=1920&h=1080"
     }
   ]
 }
