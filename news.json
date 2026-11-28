@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 8:10 AM ET",
+  "generated_at": "Nov 28, 2026, 8:13 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795871423253,
+  "updated_ts": 1795871622875,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -241,6 +241,14 @@
     },
     {
       "time": "8:00 AM",
+      "title": "CNBC — The doctor, the patient and the smartwatch: What physicians think of the third voice at your appointment",
+      "url": "https://www.cnbc.com/make-it/2026/11/28/wearable-health-trackers-doctors.html",
+      "ts": 1795870802000,
+      "snippet": "Many Americans use a smartwatch or fitness tracker to collect their health data, and doctors say the devices are increasingly becoming part of annual checkups.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559464-1795626353817-gettyimages-2209671464-20250204_tuesdaydc_0889.jpeg?v=1795626423&w=1920&h=1080"
+    },
+    {
+      "time": "8:00 AM",
       "title": "MarketWatch — Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
       "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
       "ts": 1795870800000,
@@ -312,14 +320,6 @@
       "url": "https://www.investing.com/news/stock-market-news/cyber-monday-is-live-everything-you-can-get-with-investingpro-under-750month-5053718",
       "ts": 1795855688000,
       "image": "https://content-media.investing.com/news/HappyTrader_800x533_L_1661164904.jpg"
-    },
-    {
-      "time": "2:40 AM",
-      "title": "CNBC — U.S. military repelled drones at UK airbase this month, FT reports",
-      "url": "https://www.cnbc.com/2026/11/28/us-military-repelled-drones-at-uk-airbase-this-month-ft-reports.html",
-      "ts": 1795851614000,
-      "snippet": "The newspaper, citing people familiar with the matter, said the U.S. deployed counter-drone technology to repel the unmanned aerial systems.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108560353-1795850379842-gettyimages-2297552102-3b9a1156_aeh9udyx.jpeg?v=1795850410&w=1920&h=1080"
     }
   ]
 }
