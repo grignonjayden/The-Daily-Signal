@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 1:18 AM ET",
+  "generated_at": "Nov 28, 2026, 1:22 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795846727001,
+  "updated_ts": 1795846961816,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -227,6 +227,22 @@
   ],
   "ticker": [
     {
+      "time": "1:15 AM",
+      "title": "CNBC — Defense company Chemring protects NATO fleets. Here's why an activist investor wants it to break up",
+      "url": "https://www.cnbc.com/2026/11/28/defense-nato-activist-investor.html",
+      "ts": 1795846509000,
+      "snippet": "A hedge fund activist says a Chemring overhaul could unlock up to 80% share upside in the defense stock.",
+      "image": "https://image.cnbcfm.com/api/v1/image/107068936-16539976022022-05-31t104609z_1130027660_rc29iu9mptbs_rtrmadp_0_ukraine-crisis-nato-turkey-finland.jpeg?v=1679900606&w=1920&h=1080"
+    },
+    {
+      "time": "1:00 AM",
+      "title": "CNBC — Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+      "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+      "ts": 1795845601000,
+      "snippet": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108560129-1795788133101-gettyimages-2242624345-GERMANY_BGD2025.jpeg?v=1795788271&w=1920&h=1080"
+    },
+    {
       "time": "Nov 27",
       "title": "Investing.com — Are recent outages bad for software?",
       "url": "https://www.investing.com/news/stock-market-news/are-recent-outages-bad-for-software-5054117",
@@ -298,22 +314,6 @@
       "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
       "ts": 1795825121000,
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR006_L.jpg"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Globe and Mail — Telus picks up pace on sale of health, agriculture and VC divisions",
-      "url": "https://www.theglobeandmail.com/business/article-telus-divestiture-plan-health-agriculture-vc-divisions/",
-      "ts": 1795824529000,
-      "snippet": "Telecom accelerates plan to divest of non-core assets after fielding Quebecor’s takeover proposal",
-      "image": "https://www.theglobeandmail.com/resizer/v2/QUGLQI34WVD2PMVYYSRCNPT4VQ.JPG?auth=51d22805ddf7ae2198f22c9bf8b008ffa4237e0d602ff60ee2ed1b8332572833&smart=true&width=7975&height=5319"
-    },
-    {
-      "time": "Nov 27",
-      "title": "WSJ Markets — JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch",
-      "url": "https://www.wsj.com/finance/banking/jpmorgan-plans-a-private-club-for-well-heeled-clients-in-a-1930s-branch-c609a03c?mod=rss_markets_main",
-      "ts": 1795824000000,
-      "snippet": "The mansion-like historic structure is being renovated for lounges and a dining room, kitchen and bar, city documents show.",
-      "image": "https://images.wsj.net/im-96569150"
     }
   ]
 }
