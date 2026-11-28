@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 7:46 AM ET",
+  "generated_at": "Nov 28, 2026, 7:50 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795870011078,
+  "updated_ts": 1795870211750,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -225,6 +225,13 @@
   "ticker": [
     {
       "time": "7:30 AM",
+      "title": "Investing.com — International court rejects Argentina’s request to stop UK oil activity near Falklands",
+      "url": "https://www.investing.com/news/stock-market-news/international-court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands-5054314",
+      "ts": 1795869020000,
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR07W_L.jpg"
+    },
+    {
+      "time": "7:30 AM",
       "title": "MarketWatch — These tech stocks may let you play defense without giving up on AI",
       "url": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
       "ts": 1795869000000,
@@ -313,14 +320,6 @@
       "ts": 1795846509000,
       "snippet": "A hedge fund activist says a Chemring overhaul could unlock up to 80% share upside in the defense stock.",
       "image": "https://image.cnbcfm.com/api/v1/image/107068936-16539976022022-05-31t104609z_1130027660_rc29iu9mptbs_rtrmadp_0_ukraine-crisis-nato-turkey-finland.jpeg?v=1679900606&w=1920&h=1080"
-    },
-    {
-      "time": "1:00 AM",
-      "title": "CNBC — Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
-      "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
-      "ts": 1795845601000,
-      "snippet": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108560129-1795788133101-gettyimages-2242624345-GERMANY_BGD2025.jpeg?v=1795788271&w=1920&h=1080"
     }
   ]
 }
