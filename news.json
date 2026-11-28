@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 9:51 AM ET",
+  "generated_at": "Nov 28, 2026, 9:54 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795877478797,
+  "updated_ts": 1795877678275,
   "articles": [
     {
       "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
@@ -42,6 +42,17 @@
       "time": "Nov 28, 4:24 AM",
       "coverage": 4,
       "ts": 1795857861000
+    },
+    {
+      "title": "Nigeria Central Bank Plans 2027 Launch of Repo and Swap Markets",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/nigeria-central-bank-plans-2027-launch-of-repo-and-swap-markets",
+      "snippet": "Nigeria’s central bank is targeting the launch of a repo and overnight index swap market in the first quarter of 2027, as it seeks to strengthen liquidity management and improve the transmission of policy decisions.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 28, 9:39 AM",
+      "coverage": 3,
+      "ts": 1795876776000
     },
     {
       "title": "Black Friday online shopping rises to $13.1 billion in the US, Adobe Analytics data shows",
@@ -92,17 +103,6 @@
       "fallback_image": true,
       "time": "Nov 28, 5:15 AM",
       "ts": 1795860953000
-    },
-    {
-      "title": "India’s SEBI Weighs Exchange Platform for Pre-IPO Shares",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-28/india-s-sebi-weighs-exchange-platform-for-pre-ipo-shares",
-      "snippet": "India’s markets regulator is weighing a specialized trading platform as part of efforts to rein in the grey market for shares of companies headed for initial public offerings.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 28, 6:56 AM",
-      "coverage": 2,
-      "ts": 1795866998000
     },
     {
       "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
@@ -190,26 +190,6 @@
       "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261127/cg261127b001-eng.png",
       "time": "Nov 27, 8:30 AM",
       "ts": 1795786200000
-    },
-    {
-      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
-      "snippet": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 3:00 PM",
-      "ts": 1795636800000
-    },
-    {
-      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "source": "Federal Reserve",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
-      "snippet": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eccles_Building_%2826088200676%29.jpg/330px-Eccles_Building_%2826088200676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 25, 3:00 PM",
-      "ts": 1795636800000
     },
     {
       "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",

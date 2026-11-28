@@ -1,4 +1,4 @@
-{"generated_at":"Nov 28, 9:37 AM ET","updated_ts":1795876671254,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
+{"generated_at":"Nov 28, 9:54 AM ET","updated_ts":1795877682239,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
 {"s":"6B=F","x":"FUT","t":"f","n":"British pound","k":62500,"r":33,"c":"USD","p":1.3099,"pc":1.3123},
 {"s":"6C=F","x":"FUT","t":"f","n":"Canadian dollar","k":100000,"r":30,"c":"USD","p":0.7024,"pc":0.7046},
 {"s":"6E=F","x":"FUT","t":"f","n":"Euro","k":125000,"r":31,"c":"USD","p":1.0944,"pc":1.0989},
@@ -52,7 +52,7 @@
 {"s":"^N225","x":"IDX","t":"i","n":"Nikkei 225 (Japan)","r":11,"c":"JPY","p":58711.11,"pc":57499.16},
 {"s":"^NDX","x":"IDX","t":"i","n":"Nasdaq-100","r":2,"c":"USD","p":26726.389,"pc":26046.896},
 {"s":"^NSEI","x":"IDX","t":"i","n":"Nifty 50 (India)","r":16,"c":"INR","p":25607.2,"pc":25884.5},
-{"s":"^RUT","x":"IDX","t":"i","n":"Russell 2000","r":4,"c":"USD","p":2750.297,"pc":2704.06},
+{"s":"^RUT","x":"IDX","t":"i","n":"Russell 2000","r":4,"c":"USD","p":2750.297,"pc":2704.061},
 {"s":"^STOXX50E","x":"IDX","t":"i","n":"Euro Stoxx 50","r":10,"c":"EUR","p":6089.2,"pc":6014.74},
 {"s":"^TNX","x":"IDX","t":"i","n":"U.S. 10-year Treasury yield","r":19,"c":"USD","p":4.936,"pc":4.848},
 {"s":"^TYX","x":"IDX","t":"i","n":"U.S. 30-year Treasury yield","r":21,"c":"USD","p":5.325,"pc":5.235},
