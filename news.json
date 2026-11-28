@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 3:00 AM ET",
+  "generated_at": "Nov 28, 2026, 3:04 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795852839008,
+  "updated_ts": 1795853050609,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -267,15 +267,6 @@
     },
     {
       "time": "Nov 27",
-      "title": "Bloomberg — China Import Logistics Fell 0.6% in January-October, Xinhua Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
-      "ts": 1795834904000,
-      "snippet": "China’s import logistics demand contracted further in the first 10 months of the year, extending a slowdown from 9.6% growth in January-February, Xinhua News Agency reported, citing figures from the China Federation…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true
-    },
-    {
-      "time": "Nov 27",
       "title": "Investing.com — Glass Lewis backs Vail Resorts board in proxy fight with activist Oasis",
       "url": "https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
       "ts": 1795833740000,
@@ -317,6 +308,13 @@
       "url": "https://www.investing.com/news/stock-market-news/ecb-officials-signal-further-rate-hikes-as-inflation-remains-elevated-5054086",
       "ts": 1795830011000,
       "image": "https://content-media.investing.com/news/LYNXMPED3R0M8_M.jpg"
+    },
+    {
+      "time": "Nov 27",
+      "title": "Investing.com — China’s premium puffer jacket push meets consumer resistance",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-premium-puffer-jacketpush-meets-consumer-resistance-5054071",
+      "ts": 1795828696000,
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR01N_L.jpg"
     }
   ]
 }
