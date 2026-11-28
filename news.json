@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 9:07 AM ET",
+  "generated_at": "Nov 28, 2026, 9:11 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795874854854,
+  "updated_ts": 1795875065227,
   "articles": [
     {
       "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
@@ -224,6 +224,14 @@
   ],
   "ticker": [
     {
+      "time": "9:06 AM",
+      "title": "CNBC — U.S. denies Iran claims over USS Abraham Lincoln strike and Hormuz tolls",
+      "url": "https://www.cnbc.com/2026/11/28/centcom-iran-abraham-lincoln-hormuz-tanker-claims.html",
+      "ts": 1795874803000,
+      "snippet": "Centcom denied a claim by the head of Iran's navy that his country's forces struck the USS Abraham Lincoln aircraft carrier on the first day of the war.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108560359-1795872235990-gettyimages-2306503388-IRAN-HORMOZGAN_PROVINCE-THE_STRAIT_OF_HORMUZ-MERCHANT_VESSELS.jpeg?v=1795872246&w=1920&h=1080"
+    },
+    {
       "time": "9:01 AM",
       "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
       "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
@@ -308,13 +316,6 @@
       "snippet": "India’s markets regulator is weighing a specialized trading platform as part of efforts to rein in the grey market for shares of companies headed for initial public offerings.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true
-    },
-    {
-      "time": "6:53 AM",
-      "title": "Investing.com — +157%: Our AI-picked stocks for December will be out SOON - Now for 60% off",
-      "url": "https://www.investing.com/news/stock-market-news/157-our-aipicked-stocks-for-december-will-be-out-soon--now-for-60-off-5054307",
-      "ts": 1795866788000,
-      "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
     }
   ]
 }
