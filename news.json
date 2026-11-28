@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 5:59 AM ET",
+  "generated_at": "Nov 28, 2026, 6:02 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795863563601,
+  "updated_ts": 1795863768193,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -115,6 +115,15 @@
       "ts": 1795814160000
     },
     {
+      "title": "Can you trust AI with complex money questions? Read three chatbots’ answers, rated by experts",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-ai-chatbot-money-questions-chatgpt-claude-gemini-experts/",
+      "snippet": "Have agents truly become good enough for you to rely on them for financial advice?",
+      "image": "https://www.theglobeandmail.com/resizer/v2/OB75D5TCTNFWBPITD3TKCFNVJQ.png?auth=4aa5ef855566aaee4d648fac213760983cafb4810533affe71b9716af38b917a&smart=true&width=1500&height=1000",
+      "time": "Nov 28, 6:00 AM",
+      "ts": 1795863600000
+    },
+    {
       "title": "Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610?mod=rss_markets_main",
@@ -132,16 +141,6 @@
       "time": "Nov 27, 7:44 AM",
       "coverage": 3,
       "ts": 1795783448000
-    },
-    {
-      "title": "OpenAI countersues Apple for stealing trade secrets",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-openai-countersues-apple-for-stealing-trade-secrets/",
-      "snippet": "Tensions between the companies have escalated amid intensifying race to develop AI products",
-      "image": "https://www.theglobeandmail.com/resizer/v2/2HU76QL435GANPQYJXKMPEO3TA.JPG?auth=9d80afe1364878cd6c10f306886e6bfe1081c14b4d0389ebccdadc317622ea14&smart=true&width=5000&height=3335",
-      "time": "Nov 27, 3:31 PM",
-      "coverage": 2,
-      "ts": 1795811470000
     }
   ],
   "outlets": [
