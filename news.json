@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 9:17 AM ET",
+  "generated_at": "Nov 28, 2026, 9:21 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795875463739,
+  "updated_ts": 1795875663534,
   "articles": [
     {
       "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
@@ -249,6 +249,14 @@
       "image": "https://images.mktw.net/im-93318812"
     },
     {
+      "time": "9:00 AM",
+      "title": "CNBC — AI data center boom strains construction labor across the U.S.",
+      "url": "https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html",
+      "ts": 1795874401000,
+      "snippet": "CNBC traveled to Abilene, Texas to see how the AI data center construction boom is impacting the local economy in both positive and negative ways.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108558526-1795538783249-gene.jpg?v=1795538827&w=1920&h=1080"
+    },
+    {
       "time": "8:56 AM",
       "title": "CNBC — Jefferies says this dip is a rare tech buying opportunity. 5 stocks to pick up now",
       "url": "https://www.cnbc.com/2026/11/28/jefferies-says-this-dip-is-a-rare-tech-buying-opportunity-5-stocks-to-pick-up-now-.html",
@@ -308,14 +316,6 @@
       "snippet": "Holiday sales are expected to rise this season, but inflation means shoppers may be spending more without bringing home more goods, while value and convenience remain key drivers. On Bloomberg This Weekend, Bloomberg…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true
-    },
-    {
-      "time": "8:00 AM",
-      "title": "CNBC — The doctor, the patient and the smartwatch: What physicians think of the third voice at your appointment",
-      "url": "https://www.cnbc.com/make-it/2026/11/28/wearable-health-trackers-doctors.html",
-      "ts": 1795870802000,
-      "snippet": "Many Americans use a smartwatch or fitness tracker to collect their health data, and doctors say the devices are increasingly becoming part of annual checkups.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559464-1795626353817-gettyimages-2209671464-20250204_tuesdaydc_0889.jpeg?v=1795626423&w=1920&h=1080"
     }
   ]
 }
