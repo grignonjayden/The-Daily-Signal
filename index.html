@@ -243,6 +243,9 @@
     .tab-btn svg { width: 19px; height: 19px; }
   }
   @media (max-width: 350px) { .tab-btn { font-size: 10.5px; padding: 9px 1px 8px; } .tab-bar { gap: 4px; } }
+  /* 7 tabs (My News added): a touch smaller on phones so every label fits its tile */
+  @media (max-width: 600px) { .tab-bar { gap: 4px; } .tab-btn { font-size: 10.5px; padding-left: 0; padding-right: 0; letter-spacing: -0.02em; } }
+  @media (max-width: 350px) { .tab-btn { font-size: 9.5px; } }
 
 
   /* ---------- News story mode ---------- */
@@ -3241,7 +3244,7 @@ function pfDraw() {
 }
 // ---------- Insights tab: risk & reward + news that could reach your portfolio (same holdings, own tab) ----------
 async function renderInsights() {
-  dateline.textContent = 'Insights · risk, reward and news for what you own';
+  dateline.textContent = 'Insights · risk and reward for what you own';
   mainPanel.innerHTML = '';
   const w = el('div', { className: 'widget w-span-12' }); w.appendChild(el('p', { className: 'item-summary', text: 'Loading prices…' })); mainPanel.appendChild(w);
   await Promise.all([pfLoadQuotes(), pfLoadCoins(), pfLoadHistory(), liveLoaded.news ? null : loadLive('news'), liveLoaded.government ? null : loadLive('government'), liveLoaded.canada ? null : loadLive('canada')]);
@@ -3253,16 +3256,37 @@ function pfDrawInsights() {
   mainPanel.innerHTML = '';
   if (!holdings.length) {
     const e = widgetShell('w-span-12', 'shield', 'var(--lavender-soft)', 'var(--lavender)', 'Insights');
-    e.appendChild(el('p', { className: 'item-summary why-p', text: 'Add what you own on the Portfolio tab, and this page shows how risky your mix is, what the past year suggests, and which news could reach your holdings.' }));
+    e.appendChild(el('p', { className: 'item-summary why-p', text: 'Add what you own on the Portfolio tab, and this page shows how risky your mix is and what the past year suggests.' }));
     const go = el('button', { className: 'info-btn', text: 'Go to Portfolio' }); go.type = 'button'; go.onclick = () => switchTab('portfolio');
     e.appendChild(go); mainPanel.appendChild(e); return;
   }
   const vals = holdings.map(h => ({ h, v: pfValue(h, fx) }));
   const total = vals.reduce((s, x) => s + x.v.value, 0);
   mainPanel.appendChild(pfRiskWidget(vals, total));
-  mainPanel.appendChild(pfIndirectWidget(vals, total));
   const foot = el('div', { className: 'pf-foot' });
   foot.appendChild(el('p', { className: 'live-updated', text: 'Built from the holdings on your Portfolio tab, saved only in this browser. Suggestions come from past data, not personal investment advice.' }));
+  mainPanel.appendChild(foot);
+}
+// ---------- My News tab: news that could reach your portfolio (its own tab since Nov 28) ----------
+async function renderMyNews() {
+  dateline.textContent = 'My News · stories that could reach what you own';
+  mainPanel.innerHTML = '';
+  const w = el('div', { className: 'widget w-span-12' }); w.appendChild(el('p', { className: 'item-summary', text: 'Loading…' })); mainPanel.appendChild(w);
+  await Promise.all([pfLoadQuotes(), pfLoadCoins(), liveLoaded.news ? null : loadLive('news'), liveLoaded.government ? null : loadLive('government')]);
+  if (activeTab !== 'mynews') return;
+  const holdings = pfLoad(), fx = pfFx();
+  mainPanel.innerHTML = '';
+  if (!holdings.length) {
+    const e = widgetShell('w-span-12', 'newspaper', 'var(--sky-soft)', 'var(--sky)', 'My News');
+    e.appendChild(el('p', { className: 'item-summary why-p', text: 'Add what you own on the Portfolio tab, and this page shows which of today’s stories could reach your holdings, even when they don’t name them.' }));
+    const go = el('button', { className: 'info-btn', text: 'Go to Portfolio' }); go.type = 'button'; go.onclick = () => switchTab('portfolio');
+    e.appendChild(go); mainPanel.appendChild(e); return;
+  }
+  const vals = holdings.map(h => ({ h, v: pfValue(h, fx) }));
+  const total = vals.reduce((s, x) => s + x.v.value, 0);
+  mainPanel.appendChild(pfIndirectWidget(vals, total, true));
+  const foot = el('div', { className: 'pf-foot' });
+  foot.appendChild(el('p', { className: 'live-updated', text: 'Built from the holdings on your Portfolio tab, saved only in this browser, and today’s TDS headlines. Not investment advice.' }));
   mainPanel.appendChild(foot);
 }
 function fmtQty(n) { return n.toLocaleString('en-CA', { maximumFractionDigits: 8 }); }
@@ -3596,12 +3620,13 @@ const PF_IND_LOOK = {
   gold: ['Gold', '#C99A1A', 'gem'], crypto: ['Crypto', '#F2930F', 'bitcoin'], consumer: ['Spending & jobs', '#8E909A', 'cart'],
   geo: ['World events', '#A6591F', 'shield'], health: ['Health', '#E5484D', 'pulse'],
 };
-function pfIndirectWidget(vals, total) {
+function pfIndirectWidget(vals, total, open) { // open = full tab view (not collapsed)
+  const done = w => open ? w : collapseCard(w, 'pf-indirect');
   const picks = pfIndirect(vals, total);
   const w = widgetShell('w-span-12 pf-ind-w', 'newspaper', 'var(--sky-soft)', 'var(--sky)', 'News that could reach your portfolio', picks.length || undefined);
   if (!picks.length) {
     w.appendChild(el('p', { className: 'item-summary', text: 'No stories in today’s headlines connect to your holdings yet. This updates as news comes in.' }));
-    return collapseCard(w, 'pf-indirect');
+    return done(w);
   }
   // Summary strip: how much of your portfolio today's news reaches, split by theme
   const reach = new Map(); picks.forEach(p => p.groups.forEach(g => g.items.forEach(x => reach.set(x.h.id, { x, theme: reach.has(x.h.id) ? reach.get(x.h.id).theme : p.theme }))));
@@ -3642,7 +3667,7 @@ function pfIndirectWidget(vals, total) {
   });
   w.appendChild(grid);
   w.appendChild(el('p', { className: 'live-updated', text: 'Market-wide stories are systematic risk (they hit almost everything); sector stories hit groups of companies. General patterns, not predictions or advice.' }));
-  return collapseCard(w, 'pf-indirect');
+  return done(w);
 }
 
 // ---------- Portfolio: risk & portfolio theory (CAPM, Sharpe, systematic vs idiosyncratic, Markowitz) ----------
@@ -4254,6 +4279,7 @@ const TAB_CONFIG = {
   government: { label: 'Industry Moves from Ottawa', icon: 'parliament', color: '#7B4FB8', data: TODAYS_GOV, render: (d, k) => TAB_CONFIG.news.render(TAB_CONFIG.news.data, k), hidden: true }, // shown inside News
   portfolio: { label: 'Portfolio', icon: 'pie', color: '#7B4FB8', data: {}, render: renderPortfolio, isStatic: true },
   insights: { label: 'Insights', icon: 'shield', color: '#7B4FB8', data: {}, render: renderInsights, isStatic: true },
+  mynews: { label: 'My News', icon: 'newspaper', color: '#2F63D6', data: {}, render: renderMyNews, isStatic: true },
   why: { label: 'Why TDS', icon: 'lightbulb', color: '#0F8B8D', data: {}, render: renderWhy, isStatic: true, inHeader: true } // button beside the title, not in the tab row
 };
 let activeTab = 'markets';
