@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 28, 2026, 11:01 AM ET",
+  "generated_at": "Nov 28, 2026, 11:05 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795881719410,
+  "updated_ts": 1795881919563,
   "articles": [
+    {
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "snippet": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "image": "https://images.mktw.net/im-58425830",
+      "time": "Nov 28, 11:00 AM",
+      "coverage": 5,
+      "ts": 1795881600000
+    },
     {
       "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
       "source": "Globe and Mail",
@@ -73,16 +83,6 @@
       "time": "Nov 28, 9:34 AM",
       "coverage": 3,
       "ts": 1795876497000
-    },
-    {
-      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
-      "snippet": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
-      "image": "https://images.mktw.net/im-70107432",
-      "time": "Nov 27, 3:16 PM",
-      "coverage": 5,
-      "ts": 1795810560000
     },
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
