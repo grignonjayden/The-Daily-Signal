@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 4:03 PM ET",
+  "generated_at": "Nov 28, 2026, 4:07 PM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795899835522,
+  "updated_ts": 1795900036479,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -224,6 +224,20 @@
   ],
   "ticker": [
     {
+      "time": "4:01 PM",
+      "title": "Investing.com — Taiwan’s ruling party gains ground in local elections watched by China",
+      "url": "https://www.investing.com/news/stock-market-news/taiwans-ruling-party-gains-ground-in-local-elections-watched-by-china-93CH-5054403",
+      "ts": 1795899705000,
+      "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg"
+    },
+    {
+      "time": "3:54 PM",
+      "title": "Investing.com — Argentina’s bid to stop UK oil activity near Falklands rejected by international court",
+      "url": "https://www.investing.com/news/stock-market-news/international-court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands-5054314",
+      "ts": 1795899258000,
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR07W_L.jpg"
+    },
+    {
       "time": "2:54 PM",
       "title": "Investing.com — 5.0 earthquake strikes near Los Angeles, no major damage reported",
       "url": "https://www.investing.com/news/stock-market-news/50-earthquake-strikes-near-los-angeles-no-major-damage-reported-93CH-5054384",
@@ -297,21 +311,6 @@
       "url": "https://www.investing.com/news/stock-market-news/chinas-chery-automobile-moves-into-police-and-nurse-robots-ft-reports-5054345",
       "ts": 1795881206000,
       "image": "https://content-media.investing.com/news/Robots_800x533_L_1780416863.jpg"
-    },
-    {
-      "time": "10:34 AM",
-      "title": "Investing.com — Where does last week’s selloff stand in history, and what’s driven bigger ones?",
-      "url": "https://www.investing.com/news/stock-market-news/where-does-last-weeks-selloff-stand-in-history-and-whats-driven-bigger-ones-5054320",
-      "ts": 1795880041000,
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg"
-    },
-    {
-      "time": "10:30 AM",
-      "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "ts": 1795879800000,
-      "snippet": "“My wife stopped working outside the home in 1970.”",
-      "image": "https://images.mktw.net/im-86538053"
     }
   ]
 }
