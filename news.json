@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 8:47 AM ET",
+  "generated_at": "Nov 28, 2026, 8:50 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795873641368,
+  "updated_ts": 1795873844923,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -232,6 +232,27 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108326901-1782402782515-gettyimages-2282733148-AFP_B8BN4GJ.jpeg?v=1782405357&w=1920&h=1080"
     },
     {
+      "time": "8:36 AM",
+      "title": "Investing.com — China’s premium puffer jacket push meets consumer resistance",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-premium-puffer-jacketpush-meets-consumer-resistance-5054071",
+      "ts": 1795872981000,
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR01N_L.jpg"
+    },
+    {
+      "time": "8:29 AM",
+      "title": "Investing.com — India’s SEBI weighs exchange platform for pre-IPO shares",
+      "url": "https://www.investing.com/news/stock-market-news/indias-sebi-weighs-exchange-platform-for-preipo-shares-5054322",
+      "ts": 1795872547000,
+      "image": "https://content-media.investing.com/news/LYNXMPED770B6_M.jpg"
+    },
+    {
+      "time": "8:24 AM",
+      "title": "Investing.com — Argentina’s bid to stop UK oil activity near Falklands rejected by international court",
+      "url": "https://www.investing.com/news/stock-market-news/international-court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands-5054314",
+      "ts": 1795872265000,
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR07W_L.jpg"
+    },
+    {
       "time": "8:13 AM",
       "title": "Investing.com — Where does last week’s selloff stand in history, and what’s driven bigger ones?",
       "url": "https://www.investing.com/news/stock-market-news/where-does-last-weeks-selloff-stand-in-history-and-whats-driven-bigger-ones-5054320",
@@ -246,13 +267,6 @@
       "snippet": "Holiday sales are expected to rise this season, but inflation means shoppers may be spending more without bringing home more goods, while value and convenience remain key drivers. On Bloomberg This Weekend, Bloomberg…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true
-    },
-    {
-      "time": "8:00 AM",
-      "title": "Investing.com — Argentina’s bid to stop UK oil activity near Falklands rejected by international court",
-      "url": "https://www.investing.com/news/stock-market-news/international-court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands-5054314",
-      "ts": 1795870820000,
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR07W_L.jpg"
     },
     {
       "time": "8:00 AM",
@@ -300,23 +314,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-28/modi-nears-majority-needed-to-increase-india-s-parliament-seats",
       "ts": 1795861059000,
       "snippet": "Prime Minister Narendra Modi’s government moved closer to clearing a contentious law to expand the size of India’s parliament after a regional opposition party declared support for the legislation.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true
-    },
-    {
-      "time": "5:00 AM",
-      "title": "WSJ Markets — Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
-      "url": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610?mod=rss_markets_main",
-      "ts": 1795860000000,
-      "snippet": "The policies were pitched as a salve for aging Americans worried about care costs. Except many insurers flubbed the math.",
-      "image": "https://images.wsj.net/im-16578809"
-    },
-    {
-      "time": "5:00 AM",
-      "title": "Bloomberg — Plunging Fuel Prices Bring Relief for Drivers and Central Banks",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-28/plunging-fuel-prices-bring-relief-for-drivers-and-central-banks",
-      "ts": 1795860000000,
-      "snippet": "In a few short weeks, global fuel markets have lurched out of crisis, for now at least.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true
     }
