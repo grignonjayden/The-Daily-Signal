@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 7:20 AM ET",
+  "generated_at": "Nov 28, 2026, 7:23 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795868401031,
+  "updated_ts": 1795868600763,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -174,6 +174,24 @@
       "ts": 1795786383000
     },
     {
+      "title": "Canada's balance of international payments, third quarter 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261127/dq261127a-eng.htm",
+      "snippet": "Canada's current account surplus (on a seasonally adjusted basis) narrowed from $6.1 billion in the second quarter to $4.5 billion in the third quarter.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261127/cg261127a001-eng.png",
+      "time": "Nov 27, 8:30 AM",
+      "ts": 1795786200000
+    },
+    {
+      "title": "Railway carloadings, September 2026",
+      "source": "Statistics Canada",
+      "url": "https://www.statcan.gc.ca/daily-quotidien/261127/dq261127b-eng.htm",
+      "snippet": "In September, Canadian railways shipped 32.6 million tonnes of freight, up 3.8% compared with September 2025.",
+      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261127/cg261127b001-eng.png",
+      "time": "Nov 27, 8:30 AM",
+      "ts": 1795786200000
+    },
+    {
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
@@ -205,6 +223,15 @@
     }
   ],
   "ticker": [
+    {
+      "time": "6:56 AM",
+      "title": "Bloomberg — India’s SEBI Weighs Exchange Platform for Pre-IPO Shares",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/india-s-sebi-weighs-exchange-platform-for-pre-ipo-shares",
+      "ts": 1795866998000,
+      "snippet": "India’s markets regulator is weighing a specialized trading platform as part of efforts to rein in the grey market for shares of companies headed for initial public offerings.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true
+    },
     {
       "time": "6:53 AM",
       "title": "Investing.com — +157%: Our AI-picked stocks for December will be out SOON - Now for 60% off",
@@ -294,13 +321,6 @@
       "ts": 1795845601000,
       "snippet": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
       "image": "https://image.cnbcfm.com/api/v1/image/108559960-1795761342779-gettyimages-2299595583-NIGERIA_DANGOTE.jpeg?v=1795761503&w=1920&h=1080"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Investing.com — Are recent outages bad for software?",
-      "url": "https://www.investing.com/news/stock-market-news/are-recent-outages-bad-for-software-5054117",
-      "ts": 1795835387000,
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEHB80JO_L.jpg"
     }
   ]
 }
