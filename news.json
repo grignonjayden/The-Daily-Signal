@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 5:29 AM ET",
+  "generated_at": "Nov 28, 2026, 5:32 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795861753039,
+  "updated_ts": 1795861952823,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -225,6 +225,15 @@
   ],
   "ticker": [
     {
+      "time": "5:17 AM",
+      "title": "Bloomberg — Modi Nears Majority Needed to Increase India’s Parliament Seats",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/modi-nears-majority-needed-to-increase-india-s-parliament-seats",
+      "ts": 1795861059000,
+      "snippet": "Prime Minister Narendra Modi’s government moved closer to clearing a contentious law to expand the size of India’s parliament after a regional opposition party declared support for the legislation.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true
+    },
+    {
       "time": "5:00 AM",
       "title": "Bloomberg — Plunging Fuel Prices Bring Relief for Drivers and Central Banks",
       "url": "https://www.bloomberg.com/news/articles/2026-11-28/plunging-fuel-prices-bring-relief-for-drivers-and-central-banks",
@@ -310,13 +319,6 @@
       "url": "https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
       "ts": 1795833295000,
       "image": "https://content-media.investing.com/news/LYNXMPEDAO061_M.jpg"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Investing.com — American Airlines jets clip wings on taxiway at Reagan National Airport",
-      "url": "https://www.investing.com/news/stock-market-news/american-airlines-jets-clip-wings-on-taxiway-at-reagan-national-airport-5054097",
-      "ts": 1795832426000,
-      "image": "https://content-media.investing.com/news/LYNXMPEA7I01N_M.jpg"
     }
   ]
 }
