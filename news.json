@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 5:22 AM ET",
+  "generated_at": "Nov 28, 2026, 5:25 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795861350802,
+  "updated_ts": 1795861549303,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -22,16 +22,6 @@
       "time": "Nov 27, 6:30 PM",
       "coverage": 5,
       "ts": 1795822200000
-    },
-    {
-      "title": "Missed Black Friday? Here’s one FINAL chance to lock in InvestingPro for 60% off",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/missed-black-friday-heres-one-final-chance-to-lock-in-investingpro-for-60-off-5053598",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
-      "time": "Nov 28, 12:53 AM",
-      "coverage": 4,
-      "ts": 1795845199000
     },
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -74,14 +64,34 @@
       "ts": 1795791993000
     },
     {
-      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-      "snippet": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108560334-1795816810559-gettyimages-2248285067-emaz-1_em27443.jpeg?v=1795816828&w=1920&h=1080",
-      "time": "Nov 27, 5:00 PM",
-      "coverage": 4,
-      "ts": 1795816857000
+      "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+      "snippet": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1795450514&w=1920&h=1080",
+      "time": "Nov 27, 7:00 AM",
+      "coverage": 5,
+      "ts": 1795780822000
+    },
+    {
+      "title": "Missed Black Friday? Here’s one FINAL chance to lock in InvestingPro for 60% off",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/missed-black-friday-heres-one-final-chance-to-lock-in-investingpro-for-60-off-5053598",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "time": "Nov 28, 12:53 AM",
+      "coverage": 3,
+      "ts": 1795845199000
+    },
+    {
+      "title": "Norway’s Wealth Fund Again Votes No to Musk’s Tesla Pay Package",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/norway-s-wealth-fund-again-votes-no-to-musk-s-tesla-pay-package",
+      "snippet": "Norway’s $2.2 trillion sovereign wealth fund said it is voting against Elon Musk’s 2025 pay package at Tesla Inc.’s annual meeting next week.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 28, 5:15 AM",
+      "ts": 1795860953000
     },
     {
       "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
@@ -93,27 +103,6 @@
       "time": "Nov 27, 1:43 PM",
       "coverage": 4,
       "ts": 1795805016000
-    },
-    {
-      "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
-      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 12:36 PM",
-      "coverage": 4,
-      "ts": 1795801012000
-    },
-    {
-      "title": "Canadians expected to spend less on Black Friday this year",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
-      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
-      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
-      "time": "Nov 27, 7:44 AM",
-      "coverage": 4,
-      "ts": 1795783448000
     },
     {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
@@ -133,6 +122,16 @@
       "image": "https://images.wsj.net/im-16578809",
       "time": "Nov 28, 5:00 AM",
       "ts": 1795860000000
+    },
+    {
+      "title": "Canadians expected to spend less on Black Friday this year",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
+      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
+      "time": "Nov 27, 7:44 AM",
+      "coverage": 3,
+      "ts": 1795783448000
     },
     {
       "title": "OpenAI countersues Apple for stealing trade secrets",
