@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 28, 2026, 8:30 AM ET",
+  "generated_at": "Nov 28, 2026, 8:34 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795872626572,
+  "updated_ts": 1795872842318,
   "articles": [
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
+      "image": "https://images.mktw.net/im-78896707",
+      "time": "Nov 28, 8:30 AM",
+      "coverage": 5,
+      "ts": 1795872600000
+    },
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
       "source": "CNBC",
@@ -22,16 +32,6 @@
       "time": "Nov 28, 4:24 AM",
       "coverage": 4,
       "ts": 1795857861000
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "snippet": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "image": "https://images.mktw.net/im-78896707",
-      "time": "Nov 27, 6:30 PM",
-      "coverage": 5,
-      "ts": 1795822200000
     },
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
