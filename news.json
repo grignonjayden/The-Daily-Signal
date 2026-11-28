@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 4:24 PM ET",
+  "generated_at": "Nov 28, 2026, 4:27 PM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795901044249,
+  "updated_ts": 1795901244055,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -54,14 +54,14 @@
       "ts": 1795876497000
     },
     {
-      "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
+      "title": "Trump-backed World Liberty Financial blames Binance after crypto token falls more than 50%",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html",
-      "snippet": "Demand for computing infrastructure has surged since generative AI services were introduced, prompting technology companies to invest heavily in data centers.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108476670-1793220059525-108476670-1793219835583-gettyimages-2286485713-ALPHABET_EARNS.jpeg?v=1793220075&w=1920&h=1080",
-      "time": "Nov 28, 5:50 AM",
-      "coverage": 3,
-      "ts": 1795863044000
+      "url": "https://www.cnbc.com/2026/11/28/trump-world-liberty-wlfi-token-binance.html",
+      "snippet": "A cryptocurrency tied to the Trump family-backed World Liberty Financial has lost more than half of its value over the past day.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108350002-1786739811963-gettyimages-2284745660-TSCHNEIDER_68654_World_Liberty_Financial_P8676440.jpeg?v=1786739852&w=1920&h=1080",
+      "time": "Nov 28, 4:25 PM",
+      "coverage": 2,
+      "ts": 1795901153000
     },
     {
       "title": "Thailand eyes EU trade deal by end of 2027, PM says after U.S. pact",
