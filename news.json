@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 10:28 AM ET",
+  "generated_at": "Nov 28, 2026, 10:31 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795879712288,
+  "updated_ts": 1795879911065,
   "articles": [
     {
       "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
@@ -55,6 +55,16 @@
       "ts": 1795876776000
     },
     {
+      "title": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html",
+      "snippet": "After the Education Department cut his PSLF count, Nicholas Yund fought to restore it, documenting his payments and seeking help from lawmakers.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108366791-1790167959009-Untitled-4.jpg?v=1790167986&w=1920&h=1080",
+      "time": "Nov 28, 9:34 AM",
+      "coverage": 3,
+      "ts": 1795876497000
+    },
+    {
       "title": "Black Friday online shopping rises to $13.1 billion in the US, Adobe Analytics data shows",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/black-friday-online-shopping-rises-to-131-billion-in-the-us-adobe-analytics-data-shows-5054328",
@@ -73,16 +83,6 @@
       "time": "Nov 27, 3:16 PM",
       "coverage": 5,
       "ts": 1795810560000
-    },
-    {
-      "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "snippet": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "time": "Nov 27, 1:24 PM",
-      "coverage": 5,
-      "ts": 1795803846000
     },
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -224,20 +224,20 @@
   ],
   "ticker": [
     {
+      "time": "10:30 AM",
+      "title": "MarketWatch — I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "ts": 1795879800000,
+      "snippet": "“My wife stopped working outside the home in 1970.”",
+      "image": "https://images.mktw.net/im-86538053"
+    },
+    {
       "time": "10:00 AM",
       "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "ts": 1795878000000,
       "snippet": "“Given my age, I never make a major new purchase without thinking about the future.”",
       "image": "https://images.mktw.net/im-34995811"
-    },
-    {
-      "time": "9:34 AM",
-      "title": "CNBC — He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
-      "url": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html",
-      "ts": 1795876497000,
-      "snippet": "After the Education Department cut his PSLF count, Nicholas Yund fought to restore it, documenting his payments and seeking help from lawmakers.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108366791-1790167959009-Untitled-4.jpg?v=1790167986&w=1920&h=1080"
     },
     {
       "time": "9:34 AM",
