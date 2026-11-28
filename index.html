@@ -57,7 +57,6 @@
   }
   :root[data-theme="dark"] .gen-btn, :root[data-theme="dark"] .tab-btn.active, :root[data-theme="dark"] .chip.active { color: #14161D; }
   :root[data-theme="dark"] .gen-btn:hover { background: #FFFFFF; }
-  :root[data-theme="dark"] .ring-track { stroke: rgba(255,255,255,0.14); }
   :root[data-theme="dark"] .news-thumb-sm { background: linear-gradient(135deg, #2E4C86, #1C2E52); }
   :root[data-theme="dark"] .news-thumb-sm.official { background: linear-gradient(135deg, #D9722C, #A6591F); }
   :root[data-theme="dark"] .note-box { color: var(--ink-soft); }
@@ -479,8 +478,9 @@
 
   /* ---------- Confidence ring widget ---------- */
   /* No box: the ring sits straight on the moving page background */
-  :root { --ring-a: #2F63D6; --ring-b: #7B4FB8; --ring-c: #D9722C; --ring-track: rgba(28,46,82,.10); }
-  :root[data-theme="dark"] { --ring-a: #8FB0EC; --ring-b: #B497DC; --ring-c: #E8843F; --ring-track: rgba(255,255,255,.09); }
+  :root[data-theme="dark"] svg:not(.ring-svg) .ring-track { stroke: rgba(255,255,255,0.14); } /* small rings (movers) */
+  :root { --ring-conf: #2457C9; --ring-dev: #D9722C; }
+  :root[data-theme="dark"] { --ring-conf: #4A7BEA; --ring-dev: #E8843F; }
   .widget.ring-widget, :root[data-theme="dark"] .widget.ring-widget {
     position: relative; background: none; border: none; box-shadow: none; overflow: visible;
     display: flex; flex-direction: column; align-items: center; text-align: center; justify-content: center;
@@ -491,13 +491,13 @@
   .ring-wrap { position: relative; width: 168px; height: 168px; margin-bottom: 14px; }
   .ring-wrap svg { transform: rotate(-90deg); }
   .ring-center { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; }
-  .ring-num { font-family: 'Manrope', sans-serif; font-size: 36px; font-weight: 800; letter-spacing: -0.03em; line-height: 1; background: linear-gradient(135deg, var(--ink) 30%, var(--ring-b)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .ring-num { font-family: 'Manrope', sans-serif; font-size: 36px; font-weight: 800; letter-spacing: -0.03em; line-height: 1; color: var(--ink); }
   .ring-sub { font-size: 11.5px; color: var(--ink-soft); font-weight: 700; margin-top: 5px; letter-spacing: .02em; }
   .ring-legend { display: flex; gap: 16px; margin-top: 4px; }
   .ring-legend span { font-size: 12.5px; font-weight: 700; display: inline-flex; align-items: center; gap: 6px; color: var(--ink-soft); }
   .ring-legend .dot { width: 9px; height: 9px; border-radius: 50%; }
-  .ring-legend .dot-conf { background: linear-gradient(135deg, var(--ring-a), var(--ring-b) 60%, var(--ring-c)); }
-  .ring-legend .dot-dev { background: var(--ring-track); box-shadow: inset 0 0 0 2px color-mix(in srgb, var(--ink) 25%, transparent); }
+  .ring-legend .dot-conf { background: var(--ring-conf); }
+  .ring-legend .dot-dev { background: var(--ring-dev); }
 
   /* ---------- Pulse chips ---------- */
   .pulse-scroll { display: flex; gap: 12px; overflow-x: auto; padding-bottom: 4px; margin: 0 -2px; }
@@ -1537,18 +1537,12 @@ const SECTOR_PALETTE = [
   { bg: 'var(--sky-soft)', fg: 'var(--sky)' }
 ];
 
-let RING_ID = 0;
 function buildConfidenceRing(confirmedCount, developingCount) {
   const total = confirmedCount + developingCount;
   const pct = total ? Math.round((confirmedCount / total) * 100) : 0;
   const widget = el('div', { className: 'widget w-span-4 ring-widget' });
   const wrap = el('div', { className: 'ring-wrap' });
-  const ringSvg = buildRing(168, 14, pct, 'url(#ringGrad' + (++RING_ID) + ')', 'var(--ring-track)');
-  // Palette gradient on the arc (blue → purple → orange), so it matches the moving background glow
-  const NS = 'http://www.w3.org/2000/svg', defs = document.createElementNS(NS, 'defs'), lg = document.createElementNS(NS, 'linearGradient');
-  lg.setAttribute('id', 'ringGrad' + RING_ID); lg.setAttribute('x1', '0'); lg.setAttribute('y1', '0'); lg.setAttribute('x2', '1'); lg.setAttribute('y2', '1');
-  [['0%', 'var(--ring-a)'], ['55%', 'var(--ring-b)'], ['100%', 'var(--ring-c)']].forEach(([o, c]) => { const st = document.createElementNS(NS, 'stop'); st.setAttribute('offset', o); st.setAttribute('style', 'stop-color:' + c); lg.appendChild(st); });
-  defs.appendChild(lg); ringSvg.insertBefore(defs, ringSvg.firstChild);
+  const ringSvg = buildRing(168, 14, pct, 'var(--ring-conf)', 'var(--ring-dev)'); // solid blue = confirmed, solid orange = developing
   ringSvg.classList.add('ring-svg');
   wrap.appendChild(ringSvg);
 
