@@ -323,6 +323,8 @@
   .off-short .news-snippet { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
   .off-short .news-card[hidden] { display: none; }
   .off-more { margin-top: 10px; }
+  .news-coll-body[hidden] { display: none; }
+  .widget.is-collapsed { padding-bottom: 18px; } .widget.is-collapsed > .widget-head { margin-bottom: 0; }
 
   /* ---------- Video thumbnails ---------- */
   .news-card.has-video { display: flex; gap: 14px; align-items: flex-start; }
@@ -1359,7 +1361,7 @@ function addInfoButton(widget, title, text) {
 }
 
 // Collapsed by default: a Show/Hide button in the header opens the list.
-const NEWS_UI = { offAll: false, tickerOpen: false };
+const NEWS_UI = { offAll: false, tickerOpen: false, open: {} };
 function makeCollapsible(widget, body) {
   body.hidden = true;
   const btn = el('button', { className: 'info-btn', text: 'Show' });
@@ -1959,14 +1961,31 @@ function renderNews(data, dateKey) {
     tickerBody.appendChild(tickerList);
     tickerWidget.appendChild(tickerBody);
     // Collapsed by default; open/closed is remembered across the 3-minute auto-refresh.
-    tickerBody.hidden = !NEWS_UI.tickerOpen;
+    tickerBody.hidden = !NEWS_UI.tickerOpen; tickerWidget.classList.toggle('is-collapsed', !NEWS_UI.tickerOpen);
     const tb = el('button', { className: 'info-btn', text: NEWS_UI.tickerOpen ? 'Hide' : 'Show' }); tb.type = 'button'; tb.setAttribute('aria-expanded', String(NEWS_UI.tickerOpen));
-    tb.onclick = () => { NEWS_UI.tickerOpen = !NEWS_UI.tickerOpen; tickerBody.hidden = !NEWS_UI.tickerOpen; tb.textContent = NEWS_UI.tickerOpen ? 'Hide' : 'Show'; tb.setAttribute('aria-expanded', String(NEWS_UI.tickerOpen)); };
+    tb.onclick = () => { NEWS_UI.tickerOpen = !NEWS_UI.tickerOpen; tickerBody.hidden = !NEWS_UI.tickerOpen; tickerWidget.classList.toggle('is-collapsed', !NEWS_UI.tickerOpen); tb.textContent = NEWS_UI.tickerOpen ? 'Hide' : 'Show'; tb.setAttribute('aria-expanded', String(NEWS_UI.tickerOpen)); };
     tickerWidget.querySelector('.widget-head').appendChild(tb);
     tickerBody.appendChild(el('div', { className: 'ticker-caption', text: "Updates automatically every few minutes from the Federal Reserve, Bank of Canada, Finance Canada, Statistics Canada and the SEC, plus a mix of U.S. and Canadian business outlets. Tap any headline to read the original source." }));
     mainPanel.appendChild(tickerWidget);
   }
   if (storyList(data).length) mainPanel.prepend(storyEntryWidget()); // Story mode button at the top of News
+  collapseNewsWidgets();
+}
+// Every News card except Story mode starts collapsed to its title bar; open/closed is remembered across auto-refreshes.
+function collapseNewsWidgets() {
+  mainPanel.querySelectorAll(':scope > .widget').forEach(w => {
+    if (w.classList.contains('story-entry') || w.dataset.coll) return;
+    const head = w.querySelector(':scope > .widget-head'); if (!head) return;
+    const title = ((head.querySelector('h2') || {}).textContent || '').trim();
+    if (title === 'Throughout the Day') return; // already has its own Show/Hide
+    const body = el('div', { className: 'news-coll-body' });
+    [...w.childNodes].filter(n => n !== head).forEach(n => body.appendChild(n));
+    w.appendChild(body); w.dataset.coll = '1';
+    const set = open => { body.hidden = !open; w.classList.toggle('is-collapsed', !open); b.textContent = open ? 'Hide' : 'Show'; b.setAttribute('aria-expanded', String(open)); };
+    const b = el('button', { className: 'info-btn' }); b.type = 'button';
+    b.onclick = () => { NEWS_UI.open[title] = !NEWS_UI.open[title]; set(NEWS_UI.open[title]); };
+    head.appendChild(b); set(!!NEWS_UI.open[title]);
+  });
 }
 
 // ---------- News story mode (TikTok-style): one story per screen, tap or swipe for the next ----------
