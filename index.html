@@ -247,9 +247,57 @@
 
 
   /* ---------- News story mode ---------- */
-  .story-entry-row { display: flex; align-items: center; justify-content: space-between; gap: 14px; }
-  .story-entry-sub { margin: 0; font-size: 14px; line-height: 1.5; color: var(--ink-soft); font-weight: 500; }
-  .story-go { flex: none; padding: 11px 22px; }
+  /* Story mode entry card */
+  .widget.story-hero { position: relative; overflow: hidden; color: #fff; padding: 22px 22px 18px; background: #10192E; border: none; box-shadow: 0 18px 40px rgba(16,25,46,.28); }
+  .story-hero:hover { transform: none; }
+  .sh-glow { position: absolute; inset: -60%; pointer-events: none; background: radial-gradient(closest-side at 28% 35%, rgba(47,99,214,.65), transparent), radial-gradient(closest-side at 72% 30%, rgba(217,114,44,.55), transparent), radial-gradient(closest-side at 55% 75%, rgba(123,79,184,.6), transparent); animation: heroSwirl 26s linear infinite; }
+  .story-hero > *:not(.sh-glow) { position: relative; }
+  .sh-top { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+  .sh-live { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; font-weight: 800; letter-spacing: .08em; background: #E5484D; border-radius: 6px; padding: 4px 8px; }
+  .sh-live i { width: 6px; height: 6px; border-radius: 50%; background: #fff; animation: pfBlink 1.4s ease-in-out infinite; }
+  .sh-meta { font-size: 12.5px; font-weight: 700; opacity: .85; }
+  .sh-main { display: flex; align-items: center; gap: 22px; }
+  .sh-text { flex: 1; min-width: 0; }
+  .sh-kicker { font-size: 12px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: #FFC79E; margin-bottom: 6px; }
+  .sh-title { font-family: 'Manrope', sans-serif; font-size: clamp(24px, 3.2vw, 32px); line-height: 1.12; font-weight: 800; letter-spacing: -0.02em; margin: 0 0 10px; color: #fff; }
+  .sh-sub { font-size: 14.5px; line-height: 1.5; color: rgba(255,255,255,.85); margin: 0 0 18px; font-weight: 500; max-width: 46ch; }
+  .sh-play { all: unset; cursor: pointer; display: inline-flex; align-items: center; gap: 10px; background: #fff; color: #10192E; font-family: 'Manrope', sans-serif; font-size: 15px; font-weight: 800; border-radius: 999px; padding: 8px 20px 8px 8px; box-shadow: 0 8px 24px rgba(0,0,0,.25); transition: transform .16s var(--ease), box-shadow .16s var(--ease); -webkit-tap-highlight-color: transparent; }
+  .sh-play span:last-child { white-space: nowrap; }
+  @media (max-width: 360px) { .sh-stack { display: none; } }
+  .sh-play:hover { transform: translateY(-2px) scale(1.03); box-shadow: 0 12px 30px rgba(0,0,0,.32); }
+  .sh-play-ic { width: 34px; height: 34px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #D9722C, #7B4FB8 60%, #2F63D6); color: #fff; position: relative; }
+  .sh-play-ic svg { width: 16px; height: 16px; fill: #fff; stroke: none; margin-left: 2px; }
+  .sh-play-ic::after { content: ''; position: absolute; inset: -4px; border-radius: 50%; border: 2px solid rgba(217,114,44,.7); animation: ping 2.2s var(--ease) infinite; }
+  .sh-stack { all: unset; cursor: pointer; position: relative; flex: none; width: 190px; height: 230px; margin-right: 18px; }
+  .sh-card { position: absolute; top: 0; width: 132px; height: 220px; border-radius: 16px; overflow: hidden; background: linear-gradient(160deg, #2F63D6, #7B4FB8 55%, #D9722C); box-shadow: 0 14px 30px rgba(0,0,0,.35); border: 2px solid rgba(255,255,255,.85); transition: transform .35s var(--ease); }
+  .sh-card img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .sh-card-0 { left: 50px; transform: rotate(4deg); z-index: 3; }
+  .sh-card-1 { left: 22px; transform: rotate(-5deg) translateY(6px); z-index: 2; opacity: .92; }
+  .sh-card-2 { left: 0; transform: rotate(-13deg) translateY(14px); z-index: 1; opacity: .8; }
+  .sh-stack:hover .sh-card-0 { transform: rotate(7deg) translate(12px, -4px); } .sh-stack:hover .sh-card-1 { transform: rotate(-3deg) translateY(0); } .sh-stack:hover .sh-card-2 { transform: rotate(-16deg) translate(-10px, 10px); }
+  .sh-card-shade { position: absolute; inset: 0; background: linear-gradient(to bottom, transparent 40%, rgba(0,0,0,.8)); }
+  .sh-card-t { position: absolute; left: 9px; right: 9px; bottom: 10px; font-size: 11.5px; line-height: 1.3; font-weight: 800; color: #fff; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .sh-ini { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-family: 'Manrope', sans-serif; font-weight: 800; font-size: 13px; color: rgba(255,255,255,.75); }
+  .sh-bubbles { display: flex; gap: 14px; overflow-x: auto; margin: 18px -22px 0; padding: 4px 22px 2px; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+  .sh-bubbles::-webkit-scrollbar { display: none; }
+  .sh-bub { all: unset; cursor: pointer; flex: none; width: 66px; display: flex; flex-direction: column; align-items: center; gap: 6px; -webkit-tap-highlight-color: transparent; }
+  .sh-ring { width: 62px; height: 62px; border-radius: 50%; padding: 3px; box-sizing: border-box; background: conic-gradient(from 200deg, #D9722C, #E5484D, #7B4FB8, #2F63D6, #D9722C); transition: transform .16s var(--ease); }
+  .sh-bub:hover .sh-ring { transform: scale(1.07); }
+  .sh-bub-pic { position: relative; display: block; width: 100%; height: 100%; border-radius: 50%; overflow: hidden; border: 2.5px solid #10192E; box-sizing: border-box; background: linear-gradient(135deg, #2F63D6, #7B4FB8); }
+  .sh-bub-pic img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .sh-bub-pic .sh-ini { font-size: 10px; }
+  .sh-more-n { display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 800; color: #fff; }
+  .sh-bub-l { font-size: 11px; font-weight: 700; color: rgba(255,255,255,.9); max-width: 66px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  @media (max-width: 600px) {
+    .widget.story-hero { padding: 18px 16px 14px; }
+    .sh-main { gap: 12px; }
+    .sh-stack { width: 104px; height: 150px; margin-right: 4px; }
+    .sh-card { width: 82px; height: 138px; border-radius: 12px; }
+    .sh-card-0 { left: 24px; } .sh-card-1 { left: 10px; } .sh-card-2 { left: 0; }
+    .sh-card-t { font-size: 9.5px; left: 6px; right: 6px; bottom: 7px; }
+    .sh-sub { font-size: 13.5px; margin-bottom: 14px; }
+    .sh-bubbles { margin: 16px -16px 0; padding: 4px 16px 2px; gap: 12px; }
+  }
   /* Reels viewer */
   .reels-ov { position: fixed; inset: 0; z-index: 990; background: #000; display: flex; justify-content: center; height: 100vh; height: 100dvh; color: #fff; }
   .reels-frame { position: relative; height: 100%; width: 100%; max-width: calc(100dvh * 9 / 16); overflow: hidden; background: #0F1116; }
@@ -305,7 +353,6 @@
   .reel-end-row { display: flex; gap: 10px; justify-content: center; margin-top: 16px; flex-wrap: wrap; }
   .reel-btn { all: unset; cursor: pointer; font-size: 14.5px; font-weight: 800; color: #10192E; background: #fff; border-radius: 999px; padding: 11px 20px; }
   .reel-btn.ghost { color: #fff; background: rgba(255,255,255,.14); }
-  @media (max-width: 600px) { .story-entry-row { gap: 10px; } }
   /* ---------- News list ---------- */
   .news-list { display: flex; flex-direction: column; gap: 2px; }
   .news-card {
@@ -2166,12 +2213,53 @@ function openStories(startAt) {
   update(); scroller.focus({ preventScroll: true });
 }
 function storyEntryWidget() {
-  const n = storyList().length;
-  const w = widgetShell('w-span-12 story-entry', 'frontpage', 'var(--mint-soft)', 'var(--mint-deep)', 'Story mode');
-  const row = el('div', { className: 'story-entry-row' });
-  row.appendChild(el('p', { className: 'story-entry-sub', text: 'Tap through ' + n + ' of today’s stories one at a time, each with a quick plain-English explanation.' }));
-  const b = el('button', { className: 'gen-btn story-go', text: '▶ Start' }); b.type = 'button'; b.onclick = () => openStories(0);
-  row.appendChild(b); w.appendChild(row);
+  // Eye-catching entry card: live badge, headline, big play button, a fanned stack of story previews
+  // and an Instagram-style row of story bubbles (tap one to jump straight to that story).
+  const list = storyList(), n = list.length;
+  const w = el('div', { className: 'widget w-span-12 story-entry story-hero' });
+  w.appendChild(el('div', { className: 'sh-glow' }));
+  const pic = (a, cls) => {
+    const box = el('div', { className: cls });
+    box.appendChild(el('span', { className: 'sh-ini', text: (SOURCE_BADGES[a.source] || (a.source || 'TDS').slice(0, 3)).slice(0, 4).toUpperCase() }));
+    if (a.image) { const img = document.createElement('img'); img.alt = ''; img.loading = 'lazy'; img.referrerPolicy = 'no-referrer'; img.onerror = () => img.remove(); img.src = a.image; box.appendChild(img); }
+    return box;
+  };
+  const top = el('div', { className: 'sh-top' });
+  const live = el('span', { className: 'sh-live' }); live.appendChild(el('i')); live.appendChild(document.createTextNode('LIVE')); top.appendChild(live);
+  top.appendChild(el('span', { className: 'sh-meta', text: n + ' stories · about ' + Math.max(1, Math.round(n * 8 / 60)) + ' min' }));
+  w.appendChild(top);
+  const main = el('div', { className: 'sh-main' });
+  const txt = el('div', { className: 'sh-text' });
+  txt.appendChild(el('div', { className: 'sh-kicker', text: 'Story mode' }));
+  txt.appendChild(el('h2', { className: 'sh-title', text: 'Today’s news, one swipe at a time' }));
+  txt.appendChild(el('p', { className: 'sh-sub', text: 'Flip through the day’s biggest stories like Reels, each with a quick plain-English take on what happened and why it matters.' }));
+  const play = el('button', { className: 'sh-play' }); play.type = 'button'; play.setAttribute('aria-label', 'Start story mode');
+  const pi = el('span', { className: 'sh-play-ic' }); pi.appendChild(svgIcon('M8 5l11 7-11 7z')); play.appendChild(pi); play.appendChild(el('span', { text: 'Watch now' }));
+  play.onclick = () => openStories(0);
+  txt.appendChild(play);
+  main.appendChild(txt);
+  // Fanned stack of the first three stories (wider screens)
+  const stack = el('button', { className: 'sh-stack' }); stack.type = 'button'; stack.setAttribute('aria-label', 'Open the first story');
+  list.slice(0, 3).reverse().forEach((a, k, arr) => {
+    const c = pic(a, 'sh-card sh-card-' + (arr.length - 1 - k));
+    c.appendChild(el('div', { className: 'sh-card-shade' }));
+    c.appendChild(el('div', { className: 'sh-card-t', text: storyDec(a.title) }));
+    stack.appendChild(c);
+  });
+  stack.onclick = () => openStories(0);
+  main.appendChild(stack);
+  w.appendChild(main);
+  // Story bubbles
+  const bub = el('div', { className: 'sh-bubbles' });
+  list.slice(0, 12).forEach((a, j) => {
+    const b = el('button', { className: 'sh-bub' }); b.type = 'button'; b.title = storyDec(a.title);
+    const ring = el('span', { className: 'sh-ring' }); ring.appendChild(pic(a, 'sh-bub-pic')); b.appendChild(ring);
+    b.appendChild(el('span', { className: 'sh-bub-l', text: storyExplain(a).tag }));
+    b.onclick = () => openStories(j);
+    bub.appendChild(b);
+  });
+  if (n > 12) { const more = el('button', { className: 'sh-bub sh-bub-more' }); more.type = 'button'; const r = el('span', { className: 'sh-ring' }); r.appendChild(el('span', { className: 'sh-bub-pic sh-more-n', text: '+' + (n - 12) })); more.appendChild(r); more.appendChild(el('span', { className: 'sh-bub-l', text: 'More' })); more.onclick = () => openStories(12); bub.appendChild(more); }
+  w.appendChild(bub);
   return w;
 }
 
