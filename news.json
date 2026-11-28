@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 9:11 PM ET",
+  "generated_at": "Nov 27, 2026, 9:14 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795831874004,
+  "updated_ts": 1795832074782,
   "articles": [
     {
       "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
@@ -244,6 +244,13 @@
       "image": "https://images.wsj.net/im-34902810"
     },
     {
+      "time": "8:40 PM",
+      "title": "Investing.com — ECB officials signal further rate hikes as inflation remains elevated",
+      "url": "https://www.investing.com/news/stock-market-news/ecb-officials-signal-further-rate-hikes-as-inflation-remains-elevated-5054086",
+      "ts": 1795830011000,
+      "image": "https://content-media.investing.com/news/LYNXMPED3R0M8_M.jpg"
+    },
+    {
       "time": "8:18 PM",
       "title": "Investing.com — China’s premium puffer jacket push meets consumer resistance",
       "url": "https://www.investing.com/news/stock-market-news/chinas-premium-puffer-jacketpush-meets-consumer-resistance-5054071",
@@ -309,14 +316,6 @@
       "ts": 1795821300000,
       "snippet": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
       "image": "https://images.mktw.net/im-71398430"
-    },
-    {
-      "time": "6:07 PM",
-      "title": "CNBC — OpenAI countersues Apple for stealing trade secrets",
-      "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
-      "ts": 1795820833000,
-      "snippet": "Apple in July sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner's foray into consumer hardware.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108074673-1733945784385-gettyimages-2160933099-AA_11072024_1770830.jpeg?v=1733945863&w=1920&h=1080"
     }
   ]
 }
