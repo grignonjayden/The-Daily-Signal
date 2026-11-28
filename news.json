@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 9:27 AM ET",
+  "generated_at": "Nov 28, 2026, 9:31 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795876068335,
+  "updated_ts": 1795876267892,
   "articles": [
     {
       "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
@@ -54,6 +54,16 @@
       "ts": 1795810560000
     },
     {
+      "title": "Black Friday online shopping rises to $13.1 billion in the US, Adobe Analytics data shows",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-online-shopping-rises-to-131-billion-in-the-us-adobe-analytics-data-shows-5054328",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR09W_L.jpg",
+      "time": "Nov 28, 9:12 AM",
+      "coverage": 3,
+      "ts": 1795875138000
+    },
+    {
       "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
@@ -72,16 +82,6 @@
       "time": "Nov 27, 10:06 AM",
       "coverage": 5,
       "ts": 1795791993000
-    },
-    {
-      "title": "Missed Black Friday? Here’s one FINAL chance to lock in InvestingPro for 60% off",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/missed-black-friday-heres-one-final-chance-to-lock-in-investingpro-for-60-off-5053598",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
-      "time": "Nov 28, 12:53 AM",
-      "coverage": 3,
-      "ts": 1795845199000
     },
     {
       "title": "Norway’s Wealth Fund Again Votes No to Musk’s Tesla Pay Package",
@@ -224,6 +224,14 @@
   ],
   "ticker": [
     {
+      "time": "9:27 AM",
+      "title": "MarketWatch — What’s the most tax-efficient way to donate to charity?",
+      "url": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+      "ts": 1795876020000,
+      "snippet": "How to make your donations beneficial for both you and the recipient",
+      "image": "https://images.mktw.net/im-62972885"
+    },
+    {
       "time": "9:11 AM",
       "title": "CNBC — The Iran war could shatter rising expectations of surplus oil supply in coming months",
       "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
@@ -307,15 +315,6 @@
       "url": "https://www.investing.com/news/stock-market-news/where-does-last-weeks-selloff-stand-in-history-and-whats-driven-bigger-ones-5054320",
       "ts": 1795871595000,
       "image": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg"
-    },
-    {
-      "time": "8:04 AM",
-      "title": "Bloomberg — Higher Prices Test Holiday Shoppers",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-28/higher-prices-test-holiday-shoppers-video",
-      "ts": 1795871098000,
-      "snippet": "Holiday sales are expected to rise this season, but inflation means shoppers may be spending more without bringing home more goods, while value and convenience remain key drivers. On Bloomberg This Weekend, Bloomberg…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true
     }
   ]
 }
