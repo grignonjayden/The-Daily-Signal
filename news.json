@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 12:05 PM ET",
+  "generated_at": "Nov 28, 2026, 12:08 PM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795885530076,
+  "updated_ts": 1795885733412,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -232,6 +232,15 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108326901-1782402782515-gettyimages-2282733148-AFP_B8BN4GJ.jpeg?v=1782405357&w=1920&h=1080"
     },
     {
+      "time": "11:16 AM",
+      "title": "Bloomberg — Busiest Weekend For Holiday Shopping",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-28/bloomberg-this-weekend-11-28-2026-video",
+      "ts": 1795882618000,
+      "snippet": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Walmart Chief…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true
+    },
+    {
       "time": "10:53 AM",
       "title": "Investing.com — China’s Chery Automobile moves into police and nurse robots, FT reports",
       "url": "https://www.investing.com/news/stock-market-news/chinas-chery-automobile-moves-into-police-and-nurse-robots-ft-reports-5054345",
@@ -308,14 +317,6 @@
       "ts": 1795874401000,
       "snippet": "CNBC traveled to Abilene, Texas to see how the AI data center construction boom is impacting the local economy in both positive and negative ways.",
       "image": "https://image.cnbcfm.com/api/v1/image/108558526-1795538783249-gene.jpg?v=1795538827&w=1920&h=1080"
-    },
-    {
-      "time": "8:56 AM",
-      "title": "CNBC — Jefferies says this dip is a rare tech buying opportunity. 5 stocks to pick up now",
-      "url": "https://www.cnbc.com/2026/11/28/jefferies-says-this-dip-is-a-rare-tech-buying-opportunity-5-stocks-to-pick-up-now-.html",
-      "ts": 1795874175000,
-      "snippet": "The investment bank highlighted picks across the technology universe.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108201324-17582960822025-09-19t152728z_626607790_rc21vga54a26_rtrmadp_0_pattern-ipo.jpeg?v=1758296118&w=1920&h=1080"
     }
   ]
 }
