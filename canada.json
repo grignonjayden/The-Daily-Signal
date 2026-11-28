@@ -1,5 +1,5 @@
 {
-  "generated_at": "Nov 28, 2026, 4:35 AM ET",
+  "generated_at": "Nov 28, 2026, 5:09 AM ET",
   "date_key": "2026-11-28",
   "sections": [
     {
@@ -106,13 +106,13 @@
       "items": [
         {
           "name": "Gas (regular, national avg.)",
-          "value": "140.5¢/L",
+          "value": "141.3¢/L",
           "delta": {
-            "value": "1.9¢",
+            "value": "0.8¢",
             "label": "vs yesterday",
-            "dir": "down"
+            "dir": "up"
           },
-          "note": "Week ago 144.4¢ · month ago 172.4¢ · year ago 131.0¢",
+          "note": "Week ago 143.4¢ · month ago 172.3¢ · year ago 130.1¢",
           "as_of": "CAA · November 28 2026 at 4:00am",
           "url": "https://www.caa.ca/gas-prices/"
         },
