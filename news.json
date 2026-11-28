@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 7:06 AM ET",
+  "generated_at": "Nov 28, 2026, 7:10 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795867596359,
+  "updated_ts": 1795867800778,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -224,6 +224,13 @@
   ],
   "ticker": [
     {
+      "time": "6:53 AM",
+      "title": "Investing.com — +157%: Our AI-picked stocks for December will be out SOON - Now for 60% off",
+      "url": "https://www.investing.com/news/stock-market-news/157-our-aipicked-stocks-for-december-will-be-out-soon--now-for-60-off-5054307",
+      "ts": 1795866788000,
+      "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
+    },
+    {
       "time": "5:17 AM",
       "title": "Bloomberg — Modi Nears Majority Needed to Increase India’s Parliament Seats",
       "url": "https://www.bloomberg.com/news/articles/2026-11-28/modi-nears-majority-needed-to-increase-india-s-parliament-seats",
@@ -312,13 +319,6 @@
       "url": "https://www.investing.com/news/stock-market-news/are-recent-outages-bad-for-software-5054117",
       "ts": 1795835387000,
       "image": "https://content-media.investing.com/news/moved_LYNXMPEHB80JO_L.jpg"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Investing.com — Glass Lewis backs Vail Resorts board in proxy fight with activist Oasis",
-      "url": "https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
-      "ts": 1795833740000,
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ1RH_L.jpg"
     }
   ]
 }
