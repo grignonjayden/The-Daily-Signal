@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 5:19 AM ET",
+  "generated_at": "Nov 28, 2026, 5:22 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795861150143,
+  "updated_ts": 1795861350802,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -226,6 +226,15 @@
   ],
   "ticker": [
     {
+      "time": "5:00 AM",
+      "title": "Bloomberg — Plunging Fuel Prices Bring Relief for Drivers and Central Banks",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/plunging-fuel-prices-bring-relief-for-drivers-and-central-banks",
+      "ts": 1795860000000,
+      "snippet": "In a few short weeks, global fuel markets have lurched out of crisis, for now at least.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true
+    },
+    {
       "time": "4:00 AM",
       "title": "Bloomberg — Eisenkot Edging Closer to Leading Israel With Talks Progressing",
       "url": "https://www.bloomberg.com/news/articles/2026-11-28/eisenkot-edging-closer-to-leading-israel-with-talks-progressing",
@@ -309,13 +318,6 @@
       "url": "https://www.investing.com/news/stock-market-news/american-airlines-jets-clip-wings-on-taxiway-at-reagan-national-airport-5054097",
       "ts": 1795832426000,
       "image": "https://content-media.investing.com/news/LYNXMPEA7I01N_M.jpg"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Investing.com — THE INSANE SAVINGS ARE ENDING! InvestingPro for less than $1.9/week",
-      "url": "https://www.investing.com/news/stock-market-news/the-insane-savings-are-ending-investingpro-for-less-than-19week-5054096",
-      "ts": 1795832278000,
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEGAQ11L_L.jpg"
     }
   ]
 }
