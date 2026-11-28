@@ -1,11 +1,11 @@
-{"generated_at":"Nov 28, 3:34 AM ET","updated_ts":1795854862551,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
+{"generated_at":"Nov 28, 3:51 AM ET","updated_ts":1795855887417,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
 {"s":"6B=F","x":"FUT","t":"f","n":"British pound","k":62500,"r":33,"c":"USD","p":1.3099,"pc":1.3123},
 {"s":"6C=F","x":"FUT","t":"f","n":"Canadian dollar","k":100000,"r":30,"c":"USD","p":0.7024,"pc":0.7046},
 {"s":"6E=F","x":"FUT","t":"f","n":"Euro","k":125000,"r":31,"c":"USD","p":1.0944,"pc":1.0989},
 {"s":"6J=F","x":"FUT","t":"f","n":"Japanese yen","k":12500000,"r":32,"c":"USD","p":0.0063,"pc":0.0063},
 {"s":"BTC=F","x":"FUT","t":"f","n":"Bitcoin (CME)","k":5,"r":34,"c":"USD","p":59885,"pc":59885},
 {"s":"BZ=F","x":"FUT","t":"f","n":"Brent crude oil","k":1000,"r":7,"c":"USD","p":90.84,"pc":90.64},
-{"s":"CC=F","x":"FUT","t":"f","n":"Cocoa","k":10,"r":22,"c":"USD","p":5499,"pc":5499},
+{"s":"CC=F","x":"FUT","t":"f","n":"Cocoa","k":10,"r":22,"c":"USD","p":5499,"pc":5385},
 {"s":"CL=F","x":"FUT","t":"f","n":"Crude oil (WTI)","k":1000,"r":6,"c":"USD","p":83.08,"pc":83.68},
 {"s":"CT=F","x":"FUT","t":"f","n":"Cotton","k":500,"r":23,"c":"USX","p":84.69,"pc":82.05},
 {"s":"ES=F","x":"FUT","t":"f","n":"E-mini S&P 500","k":50,"r":0,"c":"USD","p":7308.25,"pc":7195.75},
@@ -14,7 +14,7 @@
 {"s":"HE=F","x":"FUT","t":"f","n":"Lean hogs","k":400,"r":25,"c":"USX","p":56,"pc":55.425},
 {"s":"HG=F","x":"FUT","t":"f","n":"Copper","k":25000,"r":14,"c":"USD","p":5.6005,"pc":5.4215},
 {"s":"HO=F","x":"FUT","t":"f","n":"Heating oil","k":42000,"r":10,"c":"USD","p":3.6752,"pc":3.6531},
-{"s":"KC=F","x":"FUT","t":"f","n":"Coffee","k":375,"r":20,"c":"USX","p":275.55,"pc":275.55},
+{"s":"KC=F","x":"FUT","t":"f","n":"Coffee","k":375,"r":20,"c":"USX","p":275.55,"pc":280.85},
 {"s":"LE=F","x":"FUT","t":"f","n":"Live cattle","k":400,"r":24,"c":"USX","p":228.125,"pc":226.975},
 {"s":"MBT=F","x":"FUT","t":"f","n":"Micro Bitcoin (CME)","k":0.1,"r":35,"c":"USD","p":59885,"pc":59885},
 {"s":"MES=F","x":"FUT","t":"f","n":"Micro E-mini S&P 500","k":5,"r":1,"c":"USD","p":7308.25,"pc":7195.75},
