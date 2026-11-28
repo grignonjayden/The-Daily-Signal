@@ -57,7 +57,6 @@
   }
   :root[data-theme="dark"] .gen-btn, :root[data-theme="dark"] .tab-btn.active, :root[data-theme="dark"] .chip.active { color: #14161D; }
   :root[data-theme="dark"] .gen-btn:hover { background: #FFFFFF; }
-  :root[data-theme="dark"] .ring-widget { background: linear-gradient(150deg, var(--pink-soft) 0%, var(--lavender-soft) 55%, var(--mint-soft) 100%); }
   :root[data-theme="dark"] .ring-track { stroke: rgba(255,255,255,0.14); }
   :root[data-theme="dark"] .news-thumb-sm { background: linear-gradient(135deg, #2E4C86, #1C2E52); }
   :root[data-theme="dark"] .news-thumb-sm.official { background: linear-gradient(135deg, #D9722C, #A6591F); }
@@ -479,21 +478,31 @@
   .widget-count { font-size: 12px; font-weight: 600; color: var(--ink-faint); }
 
   /* ---------- Confidence ring widget ---------- */
-  .ring-widget {
-    background: linear-gradient(150deg, #FFE9EE 0%, #F4EEFF 55%, #E7F6F1 100%);
-    display: flex; flex-direction: column; align-items: center; text-align: center;
-    justify-content: center;
-    min-height: 260px;
-    grid-column: 1 / -1 !important; justify-self: center; width: 100%; max-width: 340px; /* compact centred box on its own row */
+  /* No box: the ring floats on the page and its glow fades into the moving background */
+  :root { --ring-a: #2F63D6; --ring-b: #7B4FB8; --ring-c: #D9722C; --ring-track: rgba(28,46,82,.10); }
+  :root[data-theme="dark"] { --ring-a: #8FB0EC; --ring-b: #B497DC; --ring-c: #E8843F; --ring-track: rgba(255,255,255,.09); }
+  .widget.ring-widget, :root[data-theme="dark"] .widget.ring-widget {
+    position: relative; background: none; border: none; box-shadow: none; overflow: visible;
+    display: flex; flex-direction: column; align-items: center; text-align: center; justify-content: center;
+    min-height: 250px; padding: 26px 22px 22px;
+    grid-column: 1 / -1 !important; justify-self: center; width: 100%; max-width: 340px; /* compact, centred on its own row */
   }
+  .widget.ring-widget:hover { transform: none; box-shadow: none; }
+  .ring-glow { position: absolute; left: 50%; top: 46%; width: 300px; height: 300px; margin: -150px 0 0 -150px; border-radius: 50%; pointer-events: none; z-index: 0;
+    background: radial-gradient(closest-side at 35% 40%, color-mix(in srgb, var(--ring-a) 34%, transparent), transparent), radial-gradient(closest-side at 65% 45%, color-mix(in srgb, var(--ring-c) 26%, transparent), transparent), radial-gradient(closest-side at 50% 68%, color-mix(in srgb, var(--ring-b) 30%, transparent), transparent);
+    filter: blur(18px); animation: heroSwirl 24s linear infinite; }
+  .ring-widget > *:not(.ring-glow) { position: relative; z-index: 1; }
   .ring-wrap { position: relative; width: 168px; height: 168px; margin-bottom: 14px; }
   .ring-wrap svg { transform: rotate(-90deg); }
+  .ring-svg circle:last-child { filter: drop-shadow(0 0 8px color-mix(in srgb, var(--ring-b) 55%, transparent)); }
   .ring-center { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; }
-  .ring-num { font-size: 32px; font-weight: 800; letter-spacing: -0.02em; line-height: 1; }
-  .ring-sub { font-size: 11px; color: var(--ink-soft); font-weight: 600; margin-top: 4px; }
+  .ring-num { font-family: 'Manrope', sans-serif; font-size: 36px; font-weight: 800; letter-spacing: -0.03em; line-height: 1; background: linear-gradient(135deg, var(--ink) 30%, var(--ring-b)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .ring-sub { font-size: 11.5px; color: var(--ink-soft); font-weight: 700; margin-top: 5px; letter-spacing: .02em; }
   .ring-legend { display: flex; gap: 16px; margin-top: 4px; }
-  .ring-legend span { font-size: 12px; font-weight: 600; display: inline-flex; align-items: center; gap: 6px; color: var(--ink-soft); }
-  .ring-legend .dot { width: 8px; height: 8px; border-radius: 50%; }
+  .ring-legend span { font-size: 12.5px; font-weight: 700; display: inline-flex; align-items: center; gap: 6px; color: var(--ink-soft); }
+  .ring-legend .dot { width: 9px; height: 9px; border-radius: 50%; }
+  .ring-legend .dot-conf { background: linear-gradient(135deg, var(--ring-a), var(--ring-b) 60%, var(--ring-c)); }
+  .ring-legend .dot-dev { background: var(--ring-track); box-shadow: inset 0 0 0 2px color-mix(in srgb, var(--ink) 25%, transparent); }
 
   /* ---------- Pulse chips ---------- */
   .pulse-scroll { display: flex; gap: 12px; overflow-x: auto; padding-bottom: 4px; margin: 0 -2px; }
@@ -1533,23 +1542,32 @@ const SECTOR_PALETTE = [
   { bg: 'var(--sky-soft)', fg: 'var(--sky)' }
 ];
 
+let RING_ID = 0;
 function buildConfidenceRing(confirmedCount, developingCount) {
   const total = confirmedCount + developingCount;
   const pct = total ? Math.round((confirmedCount / total) * 100) : 0;
   const widget = el('div', { className: 'widget w-span-4 ring-widget' });
   const wrap = el('div', { className: 'ring-wrap' });
-  wrap.appendChild(buildRing(168, 16, pct, 'var(--mint)', 'rgba(75,46,107,0.20)'));
+  const ringSvg = buildRing(168, 14, pct, 'url(#ringGrad' + (++RING_ID) + ')', 'var(--ring-track)');
+  // Palette gradient on the arc (blue → purple → orange), so it matches the moving background glow
+  const NS = 'http://www.w3.org/2000/svg', defs = document.createElementNS(NS, 'defs'), lg = document.createElementNS(NS, 'linearGradient');
+  lg.setAttribute('id', 'ringGrad' + RING_ID); lg.setAttribute('x1', '0'); lg.setAttribute('y1', '0'); lg.setAttribute('x2', '1'); lg.setAttribute('y2', '1');
+  [['0%', 'var(--ring-a)'], ['55%', 'var(--ring-b)'], ['100%', 'var(--ring-c)']].forEach(([o, c]) => { const st = document.createElementNS(NS, 'stop'); st.setAttribute('offset', o); st.setAttribute('style', 'stop-color:' + c); lg.appendChild(st); });
+  defs.appendChild(lg); ringSvg.insertBefore(defs, ringSvg.firstChild);
+  ringSvg.classList.add('ring-svg');
+  wrap.appendChild(ringSvg);
 
   const center = el('div', { className: 'ring-center' });
   center.appendChild(el('div', { className: 'ring-num', text: pct + '%' }));
   center.appendChild(el('div', { className: 'ring-sub', text: 'confirmed today' }));
   wrap.appendChild(center);
+  widget.appendChild(el('div', { className: 'ring-glow' }));
   widget.appendChild(wrap);
 
   const legend = el('div', { className: 'ring-legend' });
-  const l1 = el('span'); const d1 = el('span', { className: 'dot' }); d1.style.background = 'var(--mint)';
+  const l1 = el('span'); const d1 = el('span', { className: 'dot dot-conf' });
   l1.appendChild(d1); l1.appendChild(document.createTextNode(confirmedCount + ' confirmed'));
-  const l2 = el('span'); const d2 = el('span', { className: 'dot' }); d2.style.background = 'var(--peach)';
+  const l2 = el('span'); const d2 = el('span', { className: 'dot dot-dev' });
   l2.appendChild(d2); l2.appendChild(document.createTextNode(developingCount + ' developing'));
   legend.appendChild(l1); legend.appendChild(l2);
   widget.appendChild(legend);
