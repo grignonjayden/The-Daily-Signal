@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 1:05 AM ET",
+  "generated_at": "Nov 28, 2026, 1:08 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795845925579,
+  "updated_ts": 1795846126290,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -54,6 +54,16 @@
       "ts": 1795780822000
     },
     {
+      "title": "Missed Black Friday? Here’s one FINAL chance to lock in InvestingPro for 60% off",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/missed-black-friday-heres-one-final-chance-to-lock-in-investingpro-for-60-off-5053598",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "time": "Nov 28, 12:53 AM",
+      "coverage": 3,
+      "ts": 1795845199000
+    },
+    {
       "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
@@ -83,16 +93,6 @@
       "time": "Nov 27, 9:34 PM",
       "coverage": 3,
       "ts": 1795833295000
-    },
-    {
-      "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEHAQ0BJ_L.jpg",
-      "time": "Nov 27, 7:56 PM",
-      "coverage": 3,
-      "ts": 1795827406000
     },
     {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
@@ -287,17 +287,17 @@
     },
     {
       "time": "Nov 27",
+      "title": "Investing.com — U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
+      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
+      "ts": 1795827406000,
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEHAQ0BJ_L.jpg"
+    },
+    {
+      "time": "Nov 27",
       "title": "Investing.com — US Black Friday online sales to cross $13 billion, Adobe says",
       "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
       "ts": 1795825121000,
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR006_L.jpg"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Investing.com — US shoppers confront uphill battle in Black Friday discount quest",
-      "url": "https://www.investing.com/news/stock-market-news/us-shoppers-confront-uphill-battle-in-black-friday-discount-quest-5054041",
-      "ts": 1795825103000,
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ171_L.jpg"
     },
     {
       "time": "Nov 27",
