@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 28, 2026, 6:02 AM ET",
+  "generated_at": "Nov 28, 2026, 6:06 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795863768193,
+  "updated_ts": 1795863966828,
   "articles": [
+    {
+      "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html",
+      "snippet": "Demand for computing infrastructure has surged since generative AI services were introduced, prompting technology companies to invest heavily in data centers.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108476670-1793220059525-108476670-1793219835583-gettyimages-2286485713-ALPHABET_EARNS.jpeg?v=1793220075&w=1920&h=1080",
+      "time": "Nov 28, 5:50 AM",
+      "coverage": 4,
+      "ts": 1795863044000
+    },
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
       "source": "Investing.com",
@@ -62,16 +72,6 @@
       "time": "Nov 27, 10:06 AM",
       "coverage": 5,
       "ts": 1795791993000
-    },
-    {
-      "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
-      "snippet": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1795450514&w=1920&h=1080",
-      "time": "Nov 27, 7:00 AM",
-      "coverage": 5,
-      "ts": 1795780822000
     },
     {
       "title": "Missed Black Friday? Here’s one FINAL chance to lock in InvestingPro for 60% off",
