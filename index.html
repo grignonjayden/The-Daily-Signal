@@ -869,7 +869,7 @@
   .info-box p.pf-rd-note { font-size: 12px; color: var(--ink-faint); margin: 14px 0 12px; }
   .pf-simple .num-btn { cursor: pointer; outline: none; }
   .pf-simple .num-btn .num { transition: r .2s; }
-  .pf-simple .num-btn:hover .num, .pf-simple .num-btn.on .num, .pf-simple .num-btn:focus-visible .num { r: 14; }
+  .pf-simple .num-btn.on .num, .pf-simple .num-btn:focus-visible .num { r: 14; }
   .pf-tap-hint { font-size: 13px; font-weight: 800; color: var(--pink-deep); margin: 2px 0 10px; }
   .pf-tap-hint.done { color: var(--ink-faint); font-weight: 600; }
   .pf-key-chips { display: flex; flex-wrap: wrap; gap: 8px; }
@@ -963,6 +963,19 @@
   .kt-date-day { font-weight: 700; min-width: 104px; color: var(--ink-soft); }
   .news-coverage { font-size: 10.5px; font-weight: 700; color: var(--pink-deep); background: var(--pink-soft); border-radius: 99px; padding: 1px 8px; }
   @media (max-width: 600px) { .kt-row { grid-template-columns: 1fr; gap: 2px; } }
+
+  /* ---------- Calm hovers (Nov 28): nothing lifts, grows, slides or flashes when you point at it ---------- */
+  .theme-switch:hover .ts-track, .gen-btn:hover, .tab-btn:hover, .sh-play:hover, .sh-bub:hover .sh-ring,
+  .news-card:hover, .news-card.has-video:hover .news-play-circle, .ticker-row:hover, .widget:hover, .pulse-chip:hover,
+  .item:hover, .sector-tag:hover, .pf-donut-btn:hover .pf-donut, .pf-donut-btn:focus-visible .pf-donut { transform: none !important; }
+  .widget:hover { box-shadow: var(--shadow-sm); }
+  .tab-btn:hover, .gen-btn:hover { box-shadow: var(--shadow-sm); }
+  .tab-btn.active:hover { box-shadow: var(--shadow-sm); }
+  .sh-play:hover { box-shadow: 0 8px 24px rgba(0,0,0,.25); }
+  .pf-donut-btn:hover .pf-donut, .pf-donut-btn:focus-visible .pf-donut { filter: none; }
+  .sh-stack:hover .sh-card-0 { transform: rotate(4deg); } .sh-stack:hover .sh-card-1 { transform: rotate(-5deg) translateY(6px); } .sh-stack:hover .sh-card-2 { transform: rotate(-13deg) translateY(14px); }
+  .gen-btn:hover { background: var(--ink); } :root[data-theme="dark"] .gen-btn:hover { background: var(--ink); }
+  :root[data-theme="dark"] .chip:hover:not(.active) { background: var(--line); }
 </style>
 <script>try{var L=new URLSearchParams(location.search).get('layout');if(L==='flow'||L==='cards')localStorage.setItem('ds-layout',L);if((L||localStorage.getItem('ds-layout'))==='flow')document.documentElement.classList.add('flow');}catch(e){}</script>
 </head>
