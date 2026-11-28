@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 11:05 AM ET",
+  "generated_at": "Nov 28, 2026, 11:08 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795881919563,
+  "updated_ts": 1795882119461,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -54,14 +54,14 @@
       "ts": 1795857861000
     },
     {
-      "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
+      "title": "US Black Friday online spend rises 11% to a new high of $13.1 billion",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-online-shopping-rises-to-131-billion-in-the-us-adobe-analytics-data-shows-5054328",
       "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEHAQ0BJ_L.jpg",
-      "time": "Nov 28, 10:41 AM",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR09W_L.jpg",
+      "time": "Nov 28, 10:54 AM",
       "coverage": 3,
-      "ts": 1795880481000
+      "ts": 1795881264000
     },
     {
       "title": "Nigeria Central Bank Plans 2027 Launch of Repo and Swap Markets",
@@ -224,6 +224,20 @@
   ],
   "ticker": [
     {
+      "time": "10:53 AM",
+      "title": "Investing.com — China’s Chery Automobile moves into police and nurse robots, FT reports",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-chery-automobile-moves-into-police-and-nurse-robots-ft-reports-5054345",
+      "ts": 1795881206000,
+      "image": "https://content-media.investing.com/news/Robots_800x533_L_1780416863.jpg"
+    },
+    {
+      "time": "10:41 AM",
+      "title": "Investing.com — U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
+      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
+      "ts": 1795880481000,
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEHAQ0BJ_L.jpg"
+    },
+    {
       "time": "10:34 AM",
       "title": "Investing.com — Where does last week’s selloff stand in history, and what’s driven bigger ones?",
       "url": "https://www.investing.com/news/stock-market-news/where-does-last-weeks-selloff-stand-in-history-and-whats-driven-bigger-ones-5054320",
@@ -253,13 +267,6 @@
       "ts": 1795876491000,
       "snippet": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
       "image": "https://image.cnbcfm.com/api/v1/image/108481442-1793289930383-gettyimages-2301997925-koutsokostas-notitle261029_nplpg.jpeg?v=1793290000&w=1920&h=1080"
-    },
-    {
-      "time": "9:30 AM",
-      "title": "Investing.com — Black Friday online shopping rises to $13.1 billion in the US, Adobe Analytics data shows",
-      "url": "https://www.investing.com/news/stock-market-news/black-friday-online-shopping-rises-to-131-billion-in-the-us-adobe-analytics-data-shows-5054328",
-      "ts": 1795876218000,
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR09W_L.jpg"
     },
     {
       "time": "9:27 AM",
@@ -309,14 +316,6 @@
       "ts": 1795873606000,
       "snippet": "Berkshire Hathaway's PacifiCorp and attorneys for thousands of plaintiffs are welcoming a decision by Oregon's Supreme Court to widen its review of a 2023 lower court trial in which a jury awarded more than one…",
       "image": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080"
-    },
-    {
-      "time": "8:38 AM",
-      "title": "CNBC — Supreme Court will decide whether assault weapons bans violate the Second Amendment",
-      "url": "https://www.cnbc.com/2026/11/28/supreme-court-to-decide-if-assault-weapons-bans-violate-2nd-amendment.html",
-      "ts": 1795873098000,
-      "snippet": "The Supreme Court will hear arguments Wednesday over whether state and local assault weapons bans violate the Second Amendment's right \"to keep and bear arms.\"",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326901-1782402782515-gettyimages-2282733148-AFP_B8BN4GJ.jpeg?v=1782405357&w=1920&h=1080"
     }
   ]
 }
