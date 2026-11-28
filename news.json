@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 2:26 PM ET",
+  "generated_at": "Nov 28, 2026, 2:29 PM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795893971985,
+  "updated_ts": 1795894170816,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -224,6 +224,13 @@
   ],
   "ticker": [
     {
+      "time": "2:17 PM",
+      "title": "Investing.com — Volkswagen stock fights $1.2B India tax demand, citing rival imports, Reuters reports",
+      "url": "https://www.investing.com/news/stock-market-news/volkswagen-stock-fights-12b-india-tax-demand-citing-rival-imports-reuters-reports-93CH-5054380",
+      "ts": 1795893461000,
+      "image": "https://content-media.investing.com/news/LYNXNPEE9P0RU_M.jpg"
+    },
+    {
       "time": "1:52 PM",
       "title": "Investing.com — Saab wins €450M radar order from Ukraine",
       "url": "https://www.investing.com/news/stock-market-news/saab-wins-450m-radar-order-from-ukraine-93CH-5054376",
@@ -307,14 +314,6 @@
       "ts": 1795876491000,
       "snippet": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
       "image": "https://image.cnbcfm.com/api/v1/image/108481442-1793289930383-gettyimages-2301997925-koutsokostas-notitle261029_nplpg.jpeg?v=1793290000&w=1920&h=1080"
-    },
-    {
-      "time": "9:27 AM",
-      "title": "MarketWatch — What’s the most tax-efficient way to donate to charity?",
-      "url": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
-      "ts": 1795876020000,
-      "snippet": "How to make your donations beneficial for both you and the recipient",
-      "image": "https://images.mktw.net/im-62972885"
     }
   ]
 }
