@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 3:04 AM ET",
+  "generated_at": "Nov 28, 2026, 3:07 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795853050609,
+  "updated_ts": 1795853251289,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -14,6 +14,16 @@
       "ts": 1795822200000
     },
     {
+      "title": "Missed Black Friday? Here’s one FINAL chance to lock in InvestingPro for 60% off",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/missed-black-friday-heres-one-final-chance-to-lock-in-investingpro-for-60-off-5053598",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+      "time": "Nov 28, 12:53 AM",
+      "coverage": 4,
+      "ts": 1795845199000
+    },
+    {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
@@ -22,6 +32,16 @@
       "time": "Nov 27, 3:16 PM",
       "coverage": 5,
       "ts": 1795810560000
+    },
+    {
+      "title": "AI stocks rebound: Catch the next move with AI picks at 60% off, Black Friday only",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXMPEDAO061_M.jpg",
+      "time": "Nov 27, 9:34 PM",
+      "coverage": 4,
+      "ts": 1795833295000
     },
     {
       "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
@@ -44,6 +64,16 @@
       "ts": 1795791993000
     },
     {
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "snippet": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108560334-1795816810559-gettyimages-2248285067-emaz-1_em27443.jpeg?v=1795816828&w=1920&h=1080",
+      "time": "Nov 27, 5:00 PM",
+      "coverage": 4,
+      "ts": 1795816857000
+    },
+    {
       "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
@@ -52,16 +82,6 @@
       "time": "Nov 27, 7:00 AM",
       "coverage": 5,
       "ts": 1795780822000
-    },
-    {
-      "title": "Missed Black Friday? Here’s one FINAL chance to lock in InvestingPro for 60% off",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/missed-black-friday-heres-one-final-chance-to-lock-in-investingpro-for-60-off-5053598",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
-      "time": "Nov 28, 12:53 AM",
-      "coverage": 3,
-      "ts": 1795845199000
     },
     {
       "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
@@ -75,24 +95,25 @@
       "ts": 1795805016000
     },
     {
-      "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "snippet": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
-      "time": "Nov 27, 1:24 PM",
+      "title": "Traders Buy the Dip as Stocks Rise on Black Friday",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-surveillance-11-27-2026-video",
+      "snippet": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 12:36 PM",
       "coverage": 4,
-      "ts": 1795803846000
+      "ts": 1795801012000
     },
     {
-      "title": "AI stocks rebound: Catch the next move with AI picks at 60% off, Black Friday only",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEDAO061_M.jpg",
-      "time": "Nov 27, 9:34 PM",
-      "coverage": 3,
-      "ts": 1795833295000
+      "title": "Canadians expected to spend less on Black Friday this year",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
+      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
+      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
+      "time": "Nov 27, 7:44 AM",
+      "coverage": 4,
+      "ts": 1795783448000
     },
     {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
@@ -103,26 +124,6 @@
       "time": "Nov 27, 4:16 PM",
       "coverage": 3,
       "ts": 1795814160000
-    },
-    {
-      "title": "Canadians expected to spend less on Black Friday this year",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
-      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
-      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
-      "time": "Nov 27, 7:44 AM",
-      "coverage": 3,
-      "ts": 1795783448000
-    },
-    {
-      "title": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain",
-      "snippet": "India’s banking regulator is stepping up scrutiny of the nation’s $247 billion gold-loan sector as a sharp drop in bullion prices erodes the collateral that lenders demand from borrowers, according to people familiar…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 28, 1:39 AM",
-      "ts": 1795847948000
     },
     {
       "title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
@@ -235,6 +236,15 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108560353-1795850379842-gettyimages-2297552102-3b9a1156_aeh9udyx.jpeg?v=1795850410&w=1920&h=1080"
     },
     {
+      "time": "1:39 AM",
+      "title": "Bloomberg — RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain",
+      "ts": 1795847948000,
+      "snippet": "India’s banking regulator is stepping up scrutiny of the nation’s $247 billion gold-loan sector as a sharp drop in bullion prices erodes the collateral that lenders demand from borrowers, according to people familiar…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true
+    },
+    {
       "time": "1:15 AM",
       "title": "CNBC — Defense company Chemring protects NATO fleets. Here's why an activist investor wants it to break up",
       "url": "https://www.cnbc.com/2026/11/28/defense-nato-activist-investor.html",
@@ -308,13 +318,6 @@
       "url": "https://www.investing.com/news/stock-market-news/ecb-officials-signal-further-rate-hikes-as-inflation-remains-elevated-5054086",
       "ts": 1795830011000,
       "image": "https://content-media.investing.com/news/LYNXMPED3R0M8_M.jpg"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Investing.com — China’s premium puffer jacket push meets consumer resistance",
-      "url": "https://www.investing.com/news/stock-market-news/chinas-premium-puffer-jacketpush-meets-consumer-resistance-5054071",
-      "ts": 1795828696000,
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR01N_L.jpg"
     }
   ]
 }
