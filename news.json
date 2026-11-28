@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 8:03 AM ET",
+  "generated_at": "Nov 28, 2026, 8:07 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795871023710,
+  "updated_ts": 1795871222554,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -224,6 +224,14 @@
   ],
   "ticker": [
     {
+      "time": "8:00 AM",
+      "title": "MarketWatch — Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+      "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "ts": 1795870800000,
+      "snippet": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+      "image": "https://images.mktw.net/im-71398430"
+    },
+    {
       "time": "7:30 AM",
       "title": "Investing.com — International court rejects Argentina’s request to stop UK oil activity near Falklands",
       "url": "https://www.investing.com/news/stock-market-news/international-court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands-5054314",
@@ -312,14 +320,6 @@
       "snippet": "India’s banking regulator is stepping up scrutiny of the nation’s $247 billion gold-loan sector as a sharp drop in bullion prices erodes the collateral that lenders demand from borrowers, according to people familiar…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true
-    },
-    {
-      "time": "1:15 AM",
-      "title": "CNBC — Defense company Chemring protects NATO fleets. Here's why an activist investor wants it to break up",
-      "url": "https://www.cnbc.com/2026/11/28/defense-nato-activist-investor.html",
-      "ts": 1795846509000,
-      "snippet": "A hedge fund activist says a Chemring overhaul could unlock up to 80% share upside in the defense stock.",
-      "image": "https://image.cnbcfm.com/api/v1/image/107068936-16539976022022-05-31t104609z_1130027660_rc29iu9mptbs_rtrmadp_0_ukraine-crisis-nato-turkey-finland.jpeg?v=1679900606&w=1920&h=1080"
     }
   ]
 }
