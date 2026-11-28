@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 28, 2026, 4:45 AM ET",
+  "generated_at": "Nov 28, 2026, 4:48 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795859138659,
+  "updated_ts": 1795859339173,
   "articles": [
+    {
+      "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/musk-says-google-is-interested-in-renting-more-computing-capacity-from-spacex-5054241",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR04U_L.jpg",
+      "time": "Nov 28, 4:24 AM",
+      "coverage": 4,
+      "ts": 1795857861000
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -34,14 +44,14 @@
       "ts": 1795810560000
     },
     {
-      "title": "AI stocks rebound: Catch the next move with AI picks at 60% off, Black Friday only",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/LYNXMPEDAO061_M.jpg",
-      "time": "Nov 27, 9:34 PM",
-      "coverage": 4,
-      "ts": 1795833295000
+      "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+      "snippet": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+      "time": "Nov 27, 1:24 PM",
+      "coverage": 5,
+      "ts": 1795803846000
     },
     {
       "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
@@ -72,16 +82,6 @@
       "time": "Nov 27, 5:00 PM",
       "coverage": 4,
       "ts": 1795816857000
-    },
-    {
-      "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
-      "snippet": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1795450514&w=1920&h=1080",
-      "time": "Nov 27, 7:00 AM",
-      "coverage": 5,
-      "ts": 1795780822000
     },
     {
       "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
@@ -137,14 +137,14 @@
       "ts": 1795812240000
     },
     {
-      "title": "Number of temporary residents in Canada set to exceed federal target by end of 2027",
+      "title": "OpenAI countersues Apple for stealing trade secrets",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-ottawa-temporary-residents-target-diab-november-27/",
-      "snippet": "Current immigration plan projects share will be roughly ‘5.5% or less’ of the total population, Metlege Diab says",
-      "image": "https://www.theglobeandmail.com/resizer/v2/4JJLUXVHNFB3LBITVRVJU5YXCA.JPG?auth=63c35cd887b4bacd5cfff9b98fe3fee6c28ac3bf9a95e0d212ab48c516fe67d8&smart=true&width=7128&height=4995",
-      "time": "Nov 27, 3:35 PM",
+      "url": "https://www.theglobeandmail.com/business/article-openai-countersues-apple-for-stealing-trade-secrets/",
+      "snippet": "Tensions between the companies have escalated amid intensifying race to develop AI products",
+      "image": "https://www.theglobeandmail.com/resizer/v2/2HU76QL435GANPQYJXKMPEO3TA.JPG?auth=9d80afe1364878cd6c10f306886e6bfe1081c14b4d0389ebccdadc317622ea14&smart=true&width=5000&height=3335",
+      "time": "Nov 27, 3:31 PM",
       "coverage": 2,
-      "ts": 1795811718000
+      "ts": 1795811470000
     }
   ],
   "outlets": [
@@ -300,6 +300,13 @@
     },
     {
       "time": "Nov 27",
+      "title": "Investing.com — AI stocks rebound: Catch the next move with AI picks at 60% off, Black Friday only",
+      "url": "https://www.investing.com/news/stock-market-news/ai-stocks-rebound-catch-the-next-move-with-ai-picks-at-60-off-black-friday-only-5054103",
+      "ts": 1795833295000,
+      "image": "https://content-media.investing.com/news/LYNXMPEDAO061_M.jpg"
+    },
+    {
+      "time": "Nov 27",
       "title": "Investing.com — American Airlines jets clip wings on taxiway at Reagan National Airport",
       "url": "https://www.investing.com/news/stock-market-news/american-airlines-jets-clip-wings-on-taxiway-at-reagan-national-airport-5054097",
       "ts": 1795832426000,
@@ -311,14 +318,6 @@
       "url": "https://www.investing.com/news/stock-market-news/the-insane-savings-are-ending-investingpro-for-less-than-19week-5054096",
       "ts": 1795832278000,
       "image": "https://content-media.investing.com/news/moved_LYNXMPEGAQ11L_L.jpg"
-    },
-    {
-      "time": "Nov 27",
-      "title": "WSJ Markets — Americans Are More Exposed to the Stock Market Than Ever Before",
-      "url": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac?mod=rss_markets_main",
-      "ts": 1795831200000,
-      "snippet": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
-      "image": "https://images.wsj.net/im-11530422"
     }
   ]
 }
