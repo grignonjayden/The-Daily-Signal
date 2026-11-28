@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 3:06 PM ET",
+  "generated_at": "Nov 28, 2026, 3:09 PM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795896392510,
+  "updated_ts": 1795896592162,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -224,6 +224,13 @@
   ],
   "ticker": [
     {
+      "time": "2:54 PM",
+      "title": "Investing.com — 5.0 earthquake strikes near Los Angeles, no major damage reported",
+      "url": "https://www.investing.com/news/stock-market-news/50-earthquake-strikes-near-los-angeles-no-major-damage-reported-93CH-5054384",
+      "ts": 1795895695000,
+      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+    },
+    {
       "time": "2:40 PM",
       "title": "Investing.com — Thailand eyes EU trade deal by end of 2027, PM says after U.S. pact",
       "url": "https://www.investing.com/news/stock-market-news/thailand-eyes-eu-trade-deal-by-end-of-2027-pm-says-after-us-pact-93CH-5054382",
@@ -305,14 +312,6 @@
       "ts": 1795879800000,
       "snippet": "“My wife stopped working outside the home in 1970.”",
       "image": "https://images.mktw.net/im-86538053"
-    },
-    {
-      "time": "10:00 AM",
-      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "ts": 1795878000000,
-      "snippet": "“Given my age, I never make a major new purchase without thinking about the future.”",
-      "image": "https://images.mktw.net/im-34995811"
     }
   ]
 }
