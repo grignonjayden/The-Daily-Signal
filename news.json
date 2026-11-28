@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 1:25 PM ET",
+  "generated_at": "Nov 28, 2026, 1:29 PM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795890359432,
+  "updated_ts": 1795890557454,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -224,6 +224,13 @@
   ],
   "ticker": [
     {
+      "time": "1:19 PM",
+      "title": "Investing.com — Indonesia weighs first subsidised fuel price hike in five years",
+      "url": "https://www.investing.com/news/stock-market-news/indonesia-weighs-first-subsidised-fuel-price-hike-in-five-years-93CH-5054371",
+      "ts": 1795889972000,
+      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
+    },
+    {
       "time": "1:15 PM",
       "title": "MarketWatch — My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
       "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
@@ -308,15 +315,6 @@
       "ts": 1795876020000,
       "snippet": "How to make your donations beneficial for both you and the recipient",
       "image": "https://images.mktw.net/im-62972885"
-    },
-    {
-      "time": "9:08 AM",
-      "title": "Bloomberg — Travel Demand Holds Despite Higher Prices",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-28/travel-demand-holds-despite-higher-prices-video",
-      "ts": 1795874939000,
-      "snippet": "Travelers are heading into 2027 facing higher airfares and hotel rates, as strong demand boosts cruises and changing travel patterns put pressure on theme parks. On Bloomberg This Weekend, senior credit analyst of…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true
     }
   ]
 }
