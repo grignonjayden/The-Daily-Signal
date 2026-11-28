@@ -626,7 +626,22 @@
   .pf-pop-x:hover { color: var(--ink); }
   .pf-preview { font-size: 14px; font-weight: 700; color: var(--ink); margin: 12px 0 0; min-height: 1em; }
   .pf-preview:empty { display: none; }
-  .pf-add-pop .pf-sug { max-height: 240px; overflow-y: auto; }
+  .pf-add-pop .pf-sug { max-height: 280px; overflow-y: auto; }
+  .pf-pills { gap: 6px; margin-bottom: 10px; }
+  .pf-pills .chip { padding: 7px 12px; }
+  .pf-region { display: inline-flex; gap: 2px; background: var(--surface-alt); border-radius: 999px; padding: 3px; margin: 0 0 10px; }
+  .pf-rg { all: unset; cursor: pointer; font-size: 12px; font-weight: 700; color: var(--ink-soft); padding: 5px 12px; border-radius: 999px; -webkit-tap-highlight-color: transparent; }
+  .pf-rg.active { background: var(--surface); color: var(--ink); box-shadow: 0 1px 3px rgba(0,0,0,.12); }
+  .info-box .pf-preview { font-size: 14px; line-height: 1.45; margin: 12px 0 0; }
+  .info-box .pf-msg { font-size: 13px; line-height: 1.45; margin: 10px 0 0; }
+  .info-box .pf-add-intro, .pf-add-intro { font-size: 13px; font-weight: 500; color: var(--ink-soft); margin: 0 0 12px; line-height: 1.45; }
+  .pf-field-wide { grid-column: 1 / -1; }
+  .pf-sug-head { font-size: 11px; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; color: var(--ink-faint); padding: 8px 12px 4px; }
+  .pf-funds { grid-column: 1 / -1; display: flex; flex-direction: column; gap: 8px; }
+  .pf-funds[hidden] { display: none; }
+  .pf-funds small { font-size: 12.5px; font-weight: 600; color: var(--ink-soft); }
+  .pf-fund-row { display: flex; flex-wrap: wrap; gap: 6px; }
+  .pf-add input[type=date] { min-height: 44px; }
   .pf-msg { font-size: 13px; font-weight: 600; color: var(--ink-soft); margin: 10px 0 0; min-height: 1em; }
   .pf-why { display: flex; flex-direction: column; gap: 8px; }
   .pf-why .item-summary { font-size: 14.5px; line-height: 1.55; color: var(--ink); }
@@ -2563,6 +2578,7 @@ const PF_CATS = {
   us: { label: 'U.S. stocks & ETFs', color: '#2F63D6' },
   crypto: { label: 'Crypto', color: '#F2930F' },
   cash: { label: 'Cash & GICs', color: '#1E9E5A' },
+  deriv: { label: 'Options & futures', color: '#7B4FB8' },
 };
 const PF = { quotes: null, quotesTs: 0, coins: null, coinsTs: 0, addType: 'stock', timer: null };
 function pfLoad() { try { const d = JSON.parse(localStorage.getItem(PF_KEY) || '{}'); return Array.isArray(d.holdings) ? d.holdings : []; } catch (e) { return []; } }
@@ -2604,6 +2620,22 @@ function pfValue(h, fx) {
     if (price == null) return { value: 0, day: 0, gain: null, cat: 'crypto', live: false };
     const value = price * h.qty, pct = c && typeof c.price_change_percentage_24h === 'number' ? c.price_change_percentage_24h : 0;
     return { value, day: value - value / (1 + pct / 100), pct, gain: h.cost ? (price - h.cost) * h.qty : null, cost: h.cost ? h.cost * h.qty : null, price, cur: 'CAD', cat: 'crypto', live: !!c };
+  }
+  if (h.type === 'future') { // value = profit or loss since you entered (futures have no purchase price, only margin)
+    const q = pfQuote(h), cur = q ? q.c : (h.cur || 'USD'), rate = cur === 'USD' ? (fx || 1.4) : 1, k = h.k || (q && q.k) || 1;
+    const price = q ? q.p : h.cost; if (price == null) return { value: 0, day: 0, gain: null, cat: 'deriv', live: false };
+    const pnl = h.cost != null ? (price - h.cost) * k * h.qty * rate : 0;
+    return { value: pnl, day: q && q.pc ? (q.p - q.pc) * k * h.qty * rate : 0, pct: q && q.pc ? (q.p - q.pc) / q.pc * 100 : 0, gain: h.cost != null ? pnl : null, cost: 0,
+      price, cur, cat: 'deriv', live: !!q && !q.stale, notional: price * k * h.qty * rate };
+  }
+  if (h.type === 'option') { // premium × 100 shares × contracts; blank current premium = intrinsic value from the stock price
+    const q = pfQuote(h), cur = q ? q.c : (h.cur || 'USD'), rate = cur === 'USD' ? (fx || 1.4) : 1;
+    const intr = S => S == null ? null : Math.max(0, h.right === 'P' ? h.strike - S : S - h.strike);
+    const now = intr(q ? q.p : null), price = h.manualPrice != null ? h.manualPrice : now;
+    if (price == null) return { value: 0, day: 0, gain: null, cat: 'deriv', live: false };
+    const m = 100 * h.qty * rate, was = h.manualPrice == null ? intr(q && q.pc) : null;
+    return { value: price * m, day: was != null ? (now - was) * m : 0, gain: h.cost != null ? (price - h.cost) * m : null, cost: h.cost != null ? h.cost * m : null,
+      price, cur, cat: 'deriv', live: !!q, est: h.manualPrice == null, under: q ? q.p : null };
   }
   const q = pfQuote(h); const cur = q ? q.c : (h.cur || 'CAD');
   const price = q ? q.p : h.manualPrice; const rate = cur === 'USD' ? (fx || 1.4) : 1;
@@ -2709,7 +2741,7 @@ function pfDraw() {
       const nm = el('div', { className: 'pf-name' });
       const dot = el('span', { className: 'pf-dot' }); dot.style.background = PF_CATS[v.cat].color; nm.appendChild(dot);
       const nmText = el('div');
-      nmText.appendChild(el('div', { className: 'pf-sym', text: h.type === 'cash' ? (h.name || 'Cash') : (h.sym || '').toUpperCase() }));
+      nmText.appendChild(el('div', { className: 'pf-sym', text: h.type === 'cash' ? (h.name || 'Cash') : h.type === 'option' ? (h.sym || '').toUpperCase() + ' ' + h.strike + (h.right === 'P' ? 'P' : 'C') : (h.sym || '').toUpperCase() }));
       nmText.appendChild(el('div', { className: 'pf-sub', text: h.type === 'cash' ? (h.rate ? h.rate + '% interest' : 'Cash') : (h.name || '') }));
       nm.appendChild(nmText); top.appendChild(nm);
       const right = el('div', { className: 'pf-right' });
@@ -2723,6 +2755,8 @@ function pfDraw() {
       const bar = el('div', { className: 'pf-bar' }); const fill = el('span'); fill.style.width = (total ? v.value / total * 100 : 0).toFixed(1) + '%'; fill.style.background = PF_CATS[v.cat].color; bar.appendChild(fill); r.appendChild(bar);
       const det = [];
       if (h.type === 'cash') det.push(h.rate ? '≈ ' + pfMoney(v.yearly) + ' interest a year' : '');
+      else if (h.type === 'future') det.push(fmtQty(h.qty) + ' contract' + (h.qty === 1 ? '' : 's') + ' at ' + pfMoney(v.price || 0, v.cur) + (h.cost ? ' (entered ' + pfMoney(h.cost, v.cur) + ')' : '') + ' · controls ≈ ' + pfMoney(v.notional || 0) + ' · value shown = profit/loss');
+      else if (h.type === 'option') det.push(fmtQty(h.qty) + ' contract' + (h.qty === 1 ? '' : 's') + ' × 100 × ' + pfMoney(v.price || 0, v.cur) + (v.est ? ' (estimate from stock at ' + pfMoney(v.under || 0, v.cur) + ')' : ''));
       else det.push(fmtQty(h.qty) + (h.type === 'crypto' ? ' coins' : ' shares') + ' × ' + pfMoney(v.price || 0, v.cur));
       det.push((total ? (v.value / total * 100).toFixed(1) : 0) + '% of your portfolio');
       if (h.acct) det.push(h.acct);
@@ -2939,6 +2973,11 @@ function pfExposures(h, v) {
   const out = new Set();
   if (h.type === 'cash') { out.add('cash'); return out; }
   if (h.type === 'crypto') { out.add('crypto'); return out; }
+  if (h.type === 'future') {
+    const f = (h.sym || '').replace('=F', ''), F = { oil: 'CL BZ NG RB HO', gold: 'GC MGC', silver: 'SI', mining: 'HG PL PA', index: 'ES MES NQ MNQ YM RTY', bonds: 'ZB ZN ZF ZT', loonie: '6C', crypto: 'BTC MBT ETH' };
+    Object.keys(F).forEach(k => { if (pfSymIn(F[k], f)) out.add(k); }); if (/^(ES|MES)$/.test(f)) out.add('sp500'); if (/^(NQ|MNQ)$/.test(f)) out.add('nasdaq');
+    if ((h.cur || 'USD') === 'USD') out.add('loonie'); return out;
+  }
   const s = h.sym;
   Object.keys(PF_EXPOSURE).forEach(k => { if (pfSymIn(PF_EXPOSURE[k], s)) out.add(k); });
   if (pfSymIn(PF_INDEX_ETF['S&P 500'], s)) { out.add('sp500'); out.add('index'); }
@@ -3460,13 +3499,30 @@ function pfAdded(h) {
   const o = document.querySelector('.pf-add-overlay'); if (o) o.remove();
   PF.lastAdded = h.sym || h.name || 'it'; pfDraw();
 }
+// Search pills: each one filters the list (quotes.json) and changes the form to fit that kind of investment.
+const PF_ADD_TYPES = [['stock', 'Stocks'], ['etf', 'ETFs'], ['bond', 'Bonds'], ['ipo', 'IPOs'], ['index', 'Indexes'], ['future', 'Futures'], ['option', 'Options'], ['crypto', 'Crypto'], ['cash', 'Cash / GIC']];
+const PF_INDEX_FUNDS = { '^GSPC': 'VFV ZSP XUS VOO SPY IVV', '^IXIC': 'QQC ZQQ XQQ QQQ QQQM', '^NDX': 'QQC ZQQ XQQ QQQ QQQM', '^DJI': 'DIA', '^RUT': 'IWM VTWO',
+  '^GSPTSE': 'XIC VCN ZCN XIU', '^VIX': 'VXX UVXY', '^FTSE': 'EWU', '^GDAXI': 'EWG', '^FCHI': 'EZU', '^STOXX50E': 'EZU VGK', '^N225': 'EWJ ZJPN', '^HSI': 'FXI KWEB',
+  '000001.SS': 'MCHI FXI', '^AXJO': 'EWA', '^KS11': 'EWY', '^NSEI': 'INDA', '^BVSP': 'EWZ', '^MXX': '', '^TNX': 'IEF', '^IRX': 'BIL SGOV', '^TYX': 'TLT', 'DX-Y.NYB': '' };
+function pfQType(q, type) {
+  const t = q.t || (q.x === 'TSX' || q.x === 'US' ? 's' : '');
+  if (type === 'stock') return t === 's';
+  if (type === 'etf') return t === 'e' && !q.b;
+  if (type === 'bond') return !!q.b;
+  if (type === 'ipo') return !!q.ipo;
+  if (type === 'index') return t === 'i';
+  if (type === 'future') return t === 'f';
+  if (type === 'option') return t === 's' || t === 'e';
+  return false;
+}
 function pfAddWidget(type) {
-  PF.addType = type || 'stock';
+  PF.addType = type || PF.addType || 'stock';
+  const T = PF.addType;
   const w = widgetShell('w-span-12 pf-add', 'coin', 'var(--pink-soft)', 'var(--pink-deep)', 'Add an investment');
-  const seg = el('div', { className: 'pf-seg' });
-  [['stock', 'Stock / ETF'], ['crypto', 'Crypto'], ['cash', 'Cash / GIC']].forEach(([k, label]) => {
-    const b = el('button', { className: 'chip' + (k === PF.addType ? ' active' : ''), text: label }); b.type = 'button';
-    b.onclick = () => { const nw = pfAddWidget(k); w.replaceWith(nw); };
+  const seg = el('div', { className: 'pf-seg pf-pills' });
+  PF_ADD_TYPES.forEach(([k, label]) => {
+    const b = el('button', { className: 'chip' + (k === T ? ' active' : ''), text: label }); b.type = 'button';
+    b.onclick = () => { const nw = pfAddWidget(k); w.replaceWith(nw); const s = nw.querySelector('.pf-search input'); if (s && matchMedia('(hover: hover)').matches) s.focus(); };
     seg.appendChild(b);
   });
   w.appendChild(seg);
@@ -3476,7 +3532,7 @@ function pfAddWidget(type) {
   const msg = el('p', { className: 'pf-msg' });
   let picked = null;
 
-  if (PF.addType === 'cash') {
+  if (T === 'cash') {
     const name = field('Name', inp('text', 'e.g. TFSA GIC, savings account'));
     const amt = field('Amount (C$)', inp('number', 'e.g. 5000'));
     const rate = field('Interest rate (% a year, optional)', inp('number', 'e.g. 3.5'));
@@ -3489,13 +3545,54 @@ function pfAddWidget(type) {
     w.appendChild(form); w.appendChild(add); w.appendChild(msg); return w;
   }
 
-  // Search box with suggestions (stocks/ETFs from quotes.json, crypto from CoinGecko's top 250)
-  const search = inp('text', PF.addType === 'crypto' ? 'Search, e.g. Bitcoin or ETH' : 'Search, e.g. RY, VFV, Apple', { autocomplete: 'off', spellcheck: false });
+  // Region filter for stocks, ETFs and bonds
+  if (['stock', 'etf', 'bond'].includes(T)) {
+    PF.region = PF.region || 'all';
+    const rg = el('div', { className: 'pf-region' });
+    [['all', 'All'], ['TSX', 'Canada'], ['US', 'U.S.']].forEach(([k, l]) => {
+      const b = el('button', { className: 'pf-rg' + (PF.region === k ? ' active' : ''), text: l }); b.type = 'button';
+      b.onclick = () => { PF.region = k; [...rg.children].forEach(c => c.classList.toggle('active', c === b)); showSug(true); };
+      rg.appendChild(b);
+    });
+    w.appendChild(rg);
+  }
+
+  const INTRO = { stock: 'Over 3,000 Canadian and U.S. companies. Search by symbol or name, or browse the biggest below.',
+    etf: 'Funds that hold a basket of investments, like VFV, XEQT or QQQ.', bond: 'Bond funds: steadier income, usually smaller swings than stocks.',
+    ipo: 'Companies that listed on U.S. exchanges this year or last, newest first.', index: 'An index tracks a group of stocks. You can’t buy one directly, so pick it to see funds that follow it.',
+    future: 'Futures contracts on stock indexes, oil, gold, grains, currencies and more. Your profit or loss is tracked from the price you entered at.',
+    option: 'Track an option you hold: pick the stock or ETF it’s on, then add the details.', crypto: 'The top 250 coins, priced live in Canadian dollars.' };
+  w.appendChild(el('p', { className: 'pf-add-intro', text: INTRO[T] || '' }));
+
+  const LBL = { stock: 'Stock', etf: 'ETF', bond: 'Bond fund', ipo: 'Recent IPO', index: 'Index', future: 'Futures contract', option: 'Stock or ETF the option is on', crypto: 'Coin' };
+  const PH = { stock: 'Search, e.g. RY, Shopify, Apple', etf: 'Search, e.g. VFV, XEQT, QQQ', bond: 'Search, e.g. ZAG, BND, TLT', ipo: 'Search recent IPOs', index: 'Search, e.g. S&P 500, TSX, Nikkei',
+    future: 'Search, e.g. oil, gold, S&P 500, corn', option: 'Search, e.g. AAPL, SPY, TD', crypto: 'Search, e.g. Bitcoin or ETH' };
+  const search = inp('text', PH[T], { autocomplete: 'off', spellcheck: false });
   const wrap = el('div', { className: 'pf-search' }); wrap.appendChild(search);
   const sug = el('div', { className: 'pf-sug' }); wrap.appendChild(sug);
-  const f1 = el('label', { className: 'pf-field' }); f1.appendChild(el('span', { text: PF.addType === 'crypto' ? 'Coin' : 'Stock or ETF' })); f1.appendChild(wrap); form.appendChild(f1);
-  const qty = field(PF.addType === 'crypto' ? 'How many coins' : 'Number of shares', inp('number', PF.addType === 'crypto' ? 'e.g. 0.05' : 'e.g. 10'));
-  const cost = field('Price you paid per ' + (PF.addType === 'crypto' ? 'coin (C$)' : 'share'), inp('number', 'optional'), 'Optional. Lets you see how much you’re up or down. Use the stock’s own currency.');
+  const f1 = el('label', { className: 'pf-field pf-field-wide' }); f1.appendChild(el('span', { text: LBL[T] })); f1.appendChild(wrap); form.appendChild(f1);
+
+  // Index: show the funds that follow it
+  const funds = el('div', { className: 'pf-funds' }); funds.hidden = true;
+  if (T === 'index') form.appendChild(funds);
+
+  // Option details
+  let right, strike, exp;
+  if (T === 'option') {
+    right = document.createElement('select');
+    [['C', 'Call (bet it goes up)'], ['P', 'Put (bet it goes down)']].forEach(([v, t]) => { const o = document.createElement('option'); o.value = v; o.textContent = t; right.appendChild(o); });
+    field('Type', right);
+    strike = field('Strike price', inp('number', 'e.g. 200'));
+    exp = field('Expiry date', inp('date', ''));
+  }
+  const QL = { future: 'Number of contracts', option: 'Number of contracts', crypto: 'How many coins' };
+  const qty = field(QL[T] || 'Number of shares', inp('number', T === 'crypto' ? 'e.g. 0.05' : T === 'future' || T === 'option' ? 'e.g. 1' : 'e.g. 10'),
+    T === 'option' ? 'One contract usually covers 100 shares.' : '');
+  const CL = { future: 'Price you entered at', option: 'Premium you paid per share', crypto: 'Price you paid per coin (C$)' };
+  const cost = field(CL[T] || 'Price you paid per share', inp('number', T === 'future' ? 'required' : 'optional'),
+    T === 'future' ? 'Needed to work out your profit or loss.' : T === 'option' ? 'Optional, e.g. 2.50 if you paid $250 for one contract.' : 'Optional. Lets you see how much you’re up or down. Use its own currency.');
+  let optNow = null;
+  if (T === 'option') optNow = field('Current premium per share (optional)', inp('number', 'leave blank to estimate'), 'Blank = we estimate from the stock price (intrinsic value only, so it may read low).');
   const manual = el('div', { className: 'pf-manual' }); manual.hidden = true;
   const mPrice = inp('number', 'Current price'); const mCur = document.createElement('select');
   ['CAD', 'USD'].forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c === 'CAD' ? 'C$' : 'US$'; mCur.appendChild(o); });
@@ -3504,36 +3601,64 @@ function pfAddWidget(type) {
   form.appendChild(manual);
   const acct = field('Account (optional)', pfAcctSelect(), 'TFSA, RRSP, FHSA, etc. Shown next to the holding.');
   const prev = el('p', { className: 'pf-preview' });
+  const build = () => {
+    const q = parseFloat(qty.value); if (!picked || !(q > 0) || picked.type === 'index') return null;
+    const h = { ...picked, qty: q, cost: parseFloat(cost.value) || null };
+    if (picked.manual) { h.manualPrice = parseFloat(mPrice.value) || null; h.cur = mCur.value; h.x = mCur.value === 'USD' ? 'US' : 'TSX'; }
+    if (T === 'option') { h.type = 'option'; h.right = right.value; h.strike = parseFloat(strike.value) || 0; h.exp = exp.value || ''; const n = parseFloat(optNow.value); if (n >= 0 && optNow.value !== '') h.manualPrice = n; }
+    return h;
+  };
   const preview = () => {
-    const q = parseFloat(qty.value); prev.textContent = '';
-    if (!picked || !(q > 0)) return;
-    const t = { ...picked, qty: q, cost: parseFloat(cost.value) || null, manualPrice: parseFloat(mPrice.value) || null, cur: mCur.value };
-    const v = pfValue(t, pfFx()); if (!(v.value > 0)) return;
-    prev.textContent = 'Worth about ' + pfMoney(v.value) + ' today' + (v.gain != null ? ' · ' + (v.gain >= 0 ? 'up ' : 'down ') + pfMoney(Math.abs(v.gain)) + ' since you bought' : '');
+    prev.textContent = ''; const h = build(); if (!h) return;
+    if (T === 'option' && !(h.strike > 0)) return;
+    const v = pfValue(h, pfFx());
+    if (T === 'future') { prev.textContent = 'Controls about ' + pfMoney(v.notional || 0) + ' of ' + h.name + (h.cost ? ' · ' + (v.value >= 0 ? 'up ' : 'down ') + pfMoney(Math.abs(v.value)) + ' so far' : ''); return; }
+    if (!(v.value > 0) && T !== 'option') return;
+    prev.textContent = 'Worth about ' + pfMoney(v.value) + ' today' + (v.est ? ' (estimate)' : '') + (v.gain != null ? ' · ' + (v.gain >= 0 ? 'up ' : 'down ') + pfMoney(Math.abs(v.gain)) + ' since you bought' : '');
   };
-  [qty, cost, mPrice].forEach(i => i.addEventListener('input', preview)); mCur.addEventListener('change', preview);
+  [qty, cost, mPrice, strike, optNow].filter(Boolean).forEach(i => i.addEventListener('input', preview));
+  [mCur, right].filter(Boolean).forEach(i => i.addEventListener('change', preview));
 
-  const options = () => {
-    const t = search.value.trim().toLowerCase(); if (!t) return [];
-    if (PF.addType === 'crypto') return (PF.coins || []).filter(c => c.symbol.toLowerCase().startsWith(t) || (' ' + c.name.toLowerCase()).includes(' ' + t)).slice(0, 8)
-      .map(c => ({ key: c.id, title: c.symbol.toUpperCase(), sub: c.name, right: pfMoney(c.current_price), pick: { type: 'crypto', cgId: c.id, sym: c.symbol.toUpperCase(), name: c.name, lastPrice: c.current_price } }));
-    const qs = (PF.quotes && PF.quotes.quotes) || [];
-    const score = q => q.s.toLowerCase() === t ? 0 : q.s.toLowerCase().startsWith(t) ? 1 : q.n.toLowerCase().startsWith(t) ? 2 : (' ' + q.n.toLowerCase()).includes(' ' + t) ? 3 : 9;
-    return qs.map(q => [score(q), q]).filter(([s]) => s < 9).sort((a, b) => a[0] - b[0] || (a[1].x === 'TSX' ? -1 : 1)).slice(0, 8).map(([, q]) => ({
-      key: q.x + q.s, title: q.s, sub: pfNice(q.n) + ' · ' + (q.x === 'TSX' ? 'TSX' : 'U.S.'), right: pfMoney(q.p, q.c), pick: { type: 'stock', sym: q.s, x: q.x, name: pfNice(q.n), cur: q.c } }));
+  const regionOk = q => !['stock', 'etf', 'bond'].includes(T) || !PF.region || PF.region === 'all' || q.x === PF.region;
+  const browseSort = (a, b) => {
+    if (T === 'ipo') return (b.ipo || 0) - (a.ipo || 0) || (b.m || 0) - (a.m || 0);
+    if (a.r != null || b.r != null) { if (a.r != null && b.r != null && a.x === b.x) return a.r - b.r; }
+    return (b.m || 0) - (a.m || 0) || (a.r ?? 999) - (b.r ?? 999);
   };
-  const showSug = () => {
-    sug.innerHTML = ''; const opts = options();
+  const tag = q => q.x === 'TSX' ? 'TSX' : q.x === 'US' ? 'U.S.' : q.x === 'FUT' ? (q.k ? '×' + q.k.toLocaleString('en-CA') + ' per point' : 'Futures') : 'Index';
+  const toOpt = q => ({ key: q.x + q.s, title: q.x === 'IDX' || q.x === 'FUT' ? q.n : q.s, sub: (q.x === 'IDX' || q.x === 'FUT' ? q.s : pfNice(q.n)) + ' · ' + tag(q) + (q.ipo ? ' · IPO ' + q.ipo : ''),
+    right: q.x === 'IDX' ? q.p.toLocaleString('en-CA', { maximumFractionDigits: 2 }) : pfMoney(q.p, q.c),
+    pick: T === 'index' ? { type: 'index', sym: q.s, name: q.n } : T === 'future' ? { type: 'future', sym: q.s, x: 'FUT', name: q.n, k: q.k, cur: q.c } : { type: 'stock', sym: q.s, x: q.x, name: pfNice(q.n), cur: q.c } });
+  const options = () => {
+    const t = search.value.trim().toLowerCase();
+    if (T === 'crypto') return (PF.coins || []).filter(c => !t || c.symbol.toLowerCase().startsWith(t) || (' ' + c.name.toLowerCase()).includes(' ' + t)).slice(0, t ? 12 : 30)
+      .map(c => ({ key: c.id, title: c.symbol.toUpperCase(), sub: c.name, right: pfMoney(c.current_price), pick: { type: 'crypto', cgId: c.id, sym: c.symbol.toUpperCase(), name: c.name, lastPrice: c.current_price } }));
+    const qs = ((PF.quotes && PF.quotes.quotes) || []).filter(q => pfQType(q, T) && regionOk(q) && typeof q.p === 'number');
+    if (!t) {
+      let list = qs.slice().sort(browseSort);
+      if (['stock', 'etf', 'bond'].includes(T) && (PF.region || 'all') === 'all') { // mix Canada and U.S. when browsing
+        const ca = list.filter(q => q.x === 'TSX'), us = list.filter(q => q.x === 'US'); list = [];
+        for (let i = 0; i < Math.max(ca.length, us.length); i++) { if (ca[i]) list.push(ca[i]); if (us[i]) list.push(us[i]); }
+      }
+      return list.slice(0, 40).map(toOpt);
+    }
+    const score = q => { const s = q.s.toLowerCase(), n = (q.n || '').toLowerCase(); return s === t ? 0 : s.startsWith(t) ? 1 : n.startsWith(t) ? 2 : (' ' + n).includes(' ' + t) ? 3 : n.includes(t) ? 4 : 9; };
+    return qs.map(q => [score(q), q]).filter(([s]) => s < 9).sort((a, b) => a[0] - b[0] || (b[1].m || 0) - (a[1].m || 0) || (a[1].r ?? 999) - (b[1].r ?? 999) || (a[1].x === 'TSX' ? -1 : 1)).slice(0, 25).map(([, q]) => toOpt(q));
+  };
+  const showSug = keepOpen => {
+    if (keepOpen !== true && document.activeElement !== search) return;
+    sug.innerHTML = ''; const opts = options(); const t = search.value.trim();
+    if (!t && opts.length) sug.appendChild(el('div', { className: 'pf-sug-head', text: T === 'ipo' ? 'Newest listings' : T === 'stock' ? 'Biggest companies' : T === 'crypto' ? 'Biggest coins' : 'Popular' }));
     opts.forEach(o => {
       const b = el('button', { className: 'pf-sug-item' }); b.type = 'button';
       const l = el('span'); l.appendChild(el('b', { text: o.title })); l.appendChild(el('span', { text: ' ' + o.sub })); b.appendChild(l);
       b.appendChild(el('span', { className: 'pf-sug-price', text: o.right }));
       b.onmousedown = e => e.preventDefault();
-      b.onclick = () => { picked = o.pick; search.value = o.title + ' · ' + o.pick.name; sug.innerHTML = ''; manual.hidden = true; qty.focus(); preview(); };
+      b.onclick = () => choose(o);
       sug.appendChild(b);
     });
-    const t = search.value.trim();
-    if (PF.addType === 'stock' && t && !opts.some(o => o.title.toLowerCase() === t.toLowerCase())) {
+    if (t && !opts.length) sug.appendChild(el('div', { className: 'pf-sug-head', text: 'No matches in ' + (PF_ADD_TYPES.find(x => x[0] === T) || [, ''])[1] + '. Try another pill.' }));
+    if (['stock', 'etf', 'bond', 'ipo'].includes(T) && t && !opts.some(o => o.title.toLowerCase() === t.toLowerCase())) {
       const b = el('button', { className: 'pf-sug-item pf-sug-other' }); b.type = 'button';
       b.textContent = 'Not listed? Add “' + t.toUpperCase() + '” with your own price';
       b.onmousedown = e => e.preventDefault();
@@ -3541,21 +3666,43 @@ function pfAddWidget(type) {
       sug.appendChild(b);
     }
   };
-  search.addEventListener('input', () => { picked = null; manual.hidden = true; showSug(); });
-  search.addEventListener('focus', showSug);
+  const choose = o => {
+    picked = o.pick; search.value = o.title + ' · ' + (T === 'index' || T === 'future' ? o.pick.sym : (o.pick.name || '')); sug.innerHTML = ''; manual.hidden = true;
+    if (T === 'index') {
+      funds.innerHTML = ''; funds.hidden = false;
+      const list = (PF_INDEX_FUNDS[o.pick.sym] || '').split(' ').filter(Boolean)
+        .map(s => ((PF.quotes && PF.quotes.quotes) || []).find(q => q.s === s && (q.t === 'e' || !q.t))).filter(Boolean);
+      funds.appendChild(el('small', { text: list.length ? 'You can’t buy an index itself. Funds that follow ' + o.pick.name + ':' : 'No fund in our list follows this index closely.' }));
+      const row = el('div', { className: 'pf-fund-row' });
+      list.forEach(q => {
+        const b = el('button', { className: 'chip', text: q.s + ' · ' + pfMoney(q.p, q.c) }); b.type = 'button'; b.title = pfNice(q.n);
+        b.onclick = () => { picked = { type: 'stock', sym: q.s, x: q.x, name: pfNice(q.n), cur: q.c }; [...row.children].forEach(c => c.classList.toggle('active', c === b)); search.value = q.s + ' · ' + pfNice(q.n); qty.focus(); preview(); };
+        row.appendChild(b);
+      });
+      funds.appendChild(row); return;
+    }
+    (T === 'option' ? strike : qty).focus(); preview();
+  };
+  search.addEventListener('input', () => { picked = null; manual.hidden = true; funds.hidden = true; showSug(true); });
+  search.addEventListener('focus', () => showSug(true));
+  search.addEventListener('click', () => { if (!sug.children.length) showSug(true); });
   search.addEventListener('blur', () => setTimeout(() => { sug.innerHTML = ''; }, 150));
 
   const add = el('button', { className: 'gen-btn pf-go', text: 'Add to my portfolio' }); add.type = 'button';
   add.onclick = () => {
     if (!picked) { msg.textContent = 'Pick one from the list as you type.'; search.focus(); return; }
+    if (picked.type === 'index') { msg.textContent = 'Pick one of the funds that follow this index.'; return; }
     const q = parseFloat(qty.value); if (!(q > 0)) { msg.textContent = 'Enter how many you own.'; qty.focus(); return; }
-    const h = { id: Date.now() + '', ...picked, qty: q, cost: parseFloat(cost.value) || null };
-    if (picked.manual) { const p = parseFloat(mPrice.value); if (!(p > 0)) { msg.textContent = 'Enter its current price.'; mPrice.focus(); return; } h.manualPrice = p; h.cur = mCur.value; h.x = mCur.value === 'USD' ? 'US' : 'TSX'; delete h.manual; }
+    if (picked.manual && !(parseFloat(mPrice.value) > 0)) { msg.textContent = 'Enter its current price.'; mPrice.focus(); return; }
+    if (T === 'future' && !(parseFloat(cost.value) > 0)) { msg.textContent = 'Enter the price you entered at.'; cost.focus(); return; }
+    if (T === 'option' && !(parseFloat(strike.value) > 0)) { msg.textContent = 'Enter the strike price.'; strike.focus(); return; }
+    const h = build(); h.id = Date.now() + ''; delete h.manual;
+    if (T === 'option') h.name = (h.right === 'P' ? 'Put' : 'Call') + ' · $' + h.strike + ' strike' + (h.exp ? ' · expires ' + new Date(h.exp + 'T12:00:00').toLocaleDateString('en-CA', { month: 'short', day: 'numeric', year: 'numeric' }) : '') + ' · on ' + picked.name;
     if (acct.value) h.acct = acct.value;
     pfAdded(h);
   };
-  if (PF.addType === 'stock' && !(PF.quotes && PF.quotes.quotes && PF.quotes.quotes.length)) msg.textContent = 'The stock list is still loading. You can still add any stock with your own price.';
-  if (PF.addType === 'crypto' && !(PF.coins && PF.coins.length)) msg.textContent = 'Couldn’t reach CoinGecko just now. Try again in a minute.';
+  if (T !== 'crypto' && !(PF.quotes && PF.quotes.quotes && PF.quotes.quotes.length)) msg.textContent = 'The list is still loading. You can still add a stock with your own price.';
+  if (T === 'crypto' && !(PF.coins && PF.coins.length)) msg.textContent = 'Couldn’t reach CoinGecko just now. Try again in a minute.';
   w.appendChild(form); w.appendChild(prev); w.appendChild(add); w.appendChild(msg);
   return w;
 }

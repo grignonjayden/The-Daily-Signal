@@ -35,7 +35,8 @@ function stats(r, m) { // r: asset returns, m: market returns (same length, null
   return { beta: +(cov / vm).toFixed(3), vol: +Math.sqrt(vx / (pairs.length - 1) * 52).toFixed(4) };
 }
 
-const quotes = existsSync('quotes.json') ? JSON.parse(readFileSync('quotes.json', 'utf8')).quotes || [] : [];
+// Only the core set flagged h:1 in quotes.json (TSX, popular ETFs, U.S. $50B+ and the original list) gets history, to keep history.json small.
+const quotes = (existsSync('quotes.json') ? JSON.parse(readFileSync('quotes.json', 'utf8')).quotes || [] : []).filter(q => q.h || (!q.t && (q.x === 'TSX' || q.x === 'US')));
 if (!quotes.length) { console.error('No quotes.json yet; skipping history.'); process.exit(0); }
 
 const sp = await weekly('^GSPC'), tsx = await weekly('^GSPTSE');
