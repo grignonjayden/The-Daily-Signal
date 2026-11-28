@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 7:30 AM ET",
+  "generated_at": "Nov 28, 2026, 7:33 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795869006761,
+  "updated_ts": 1795869207294,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -224,6 +224,14 @@
   ],
   "ticker": [
     {
+      "time": "7:30 AM",
+      "title": "MarketWatch — These tech stocks may let you play defense without giving up on AI",
+      "url": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
+      "ts": 1795869000000,
+      "snippet": "Amphenol, CDW, Sensata Technologies and TE Connectivity stood out when an Evercore analyst did a stress test of the hardware-related stocks he covers.",
+      "image": "https://images.mktw.net/im-13138384"
+    },
+    {
       "time": "6:56 AM",
       "title": "Bloomberg — India’s SEBI Weighs Exchange Platform for Pre-IPO Shares",
       "url": "https://www.bloomberg.com/news/articles/2026-11-28/india-s-sebi-weighs-exchange-platform-for-pre-ipo-shares",
@@ -313,14 +321,6 @@
       "ts": 1795845601000,
       "snippet": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
       "image": "https://image.cnbcfm.com/api/v1/image/108560129-1795788133101-gettyimages-2242624345-GERMANY_BGD2025.jpeg?v=1795788271&w=1920&h=1080"
-    },
-    {
-      "time": "1:00 AM",
-      "title": "CNBC — Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
-      "url": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
-      "ts": 1795845601000,
-      "snippet": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108559960-1795761342779-gettyimages-2299595583-NIGERIA_DANGOTE.jpeg?v=1795761503&w=1920&h=1080"
     }
   ]
 }
