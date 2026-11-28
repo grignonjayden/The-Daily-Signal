@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 9:34 AM ET",
+  "generated_at": "Nov 28, 2026, 9:37 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795876468574,
+  "updated_ts": 1795876667315,
   "articles": [
     {
       "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
@@ -224,20 +224,28 @@
   ],
   "ticker": [
     {
+      "time": "9:34 AM",
+      "title": "CNBC — He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
+      "url": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html",
+      "ts": 1795876497000,
+      "snippet": "After the Education Department cut his PSLF count, Nicholas Yund fought to restore it, documenting his payments and seeking help from lawmakers.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108366791-1790167959009-Untitled-4.jpg?v=1790167986&w=1920&h=1080"
+    },
+    {
+      "time": "9:34 AM",
+      "title": "CNBC — The Iran war could shatter rising expectations of surplus oil supply in coming months",
+      "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
+      "ts": 1795876491000,
+      "snippet": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108481442-1793289930383-gettyimages-2301997925-koutsokostas-notitle261029_nplpg.jpeg?v=1793290000&w=1920&h=1080"
+    },
+    {
       "time": "9:27 AM",
       "title": "MarketWatch — What’s the most tax-efficient way to donate to charity?",
       "url": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
       "ts": 1795876020000,
       "snippet": "How to make your donations beneficial for both you and the recipient",
       "image": "https://images.mktw.net/im-62972885"
-    },
-    {
-      "time": "9:11 AM",
-      "title": "CNBC — The Iran war could shatter rising expectations of surplus oil supply in coming months",
-      "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
-      "ts": 1795875070000,
-      "snippet": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108481442-1793289930383-gettyimages-2301997925-koutsokostas-notitle261029_nplpg.jpeg?v=1793290000&w=1920&h=1080"
     },
     {
       "time": "9:08 AM",
@@ -308,13 +316,6 @@
       "url": "https://www.investing.com/news/stock-market-news/international-court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands-5054314",
       "ts": 1795872265000,
       "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR07W_L.jpg"
-    },
-    {
-      "time": "8:13 AM",
-      "title": "Investing.com — Where does last week’s selloff stand in history, and what’s driven bigger ones?",
-      "url": "https://www.investing.com/news/stock-market-news/where-does-last-weeks-selloff-stand-in-history-and-whats-driven-bigger-ones-5054320",
-      "ts": 1795871595000,
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg"
     }
   ]
 }
