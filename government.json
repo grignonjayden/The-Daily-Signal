@@ -1,8 +1,20 @@
 {
-  "generated_at": "Nov 28, 2026, 3:34 AM ET",
+  "generated_at": "Nov 28, 2026, 4:08 AM ET",
   "date_key": "2026-11-28",
   "caption": "Federal decisions and Canadian economic policy from CBC, CP24, ISED, Finance Canada, the Bank of Canada, CDEV, the Canada Media Fund and the C.D. Howe Institute · updates a few times a day",
   "items": [
+    {
+      "title": "Canada is spending billions on defence. But is it getting ready for war?",
+      "url": "https://www.cbc.ca/news/politics/defence-canada-nato-europe-war-russia-9.7439845?cmp=rss",
+      "image": "https://i.cbc.ca/ais/f28fb50a-1d81-48d8-a013-855920226c7f,1795826143370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C502%2C8485%2C4772%29%3B",
+      "source": "CBC News",
+      "badge": "CBC",
+      "analysis": false,
+      "sector": "Defence",
+      "time": "Nov 28",
+      "date": "2026-11-28T09:00:00.000Z",
+      "group": "sector"
+    },
     {
       "title": "Alberta-to-B.C. pipeline project to increase flow has been completed",
       "url": "https://www.cp24.com/news/canada/2026/11/27/project-to-increase-trans-mountain-pipeline-flows-starts-up-ahead-of-schedule/",
@@ -37,18 +49,6 @@
       "sector": "General",
       "time": "Nov 27",
       "date": "2026-11-27T22:30:36.000Z",
-      "group": "sector"
-    },
-    {
-      "title": "Carney says vote on controversial bill to fast-track projects will be whipped for Liberal MPs",
-      "url": "https://www.cbc.ca/news/politics/bil-c-39-major-projects-vote-9.7439299?cmp=rss",
-      "image": "https://i.cbc.ca/ais/6d00906a-2dd7-486d-9cd3-3f596d32442d,1795813492898/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C4901%2C2756%29%3B",
-      "source": "CBC News",
-      "badge": "CBC",
-      "analysis": false,
-      "sector": "Infrastructure",
-      "time": "Nov 27",
-      "date": "2026-11-27T21:23:57.000Z",
       "group": "sector"
     },
     {
@@ -237,14 +237,14 @@
       "kept": 3
     },
     {
-      "source": "Finance Canada",
-      "fetched": 20,
-      "kept": 4
-    },
-    {
       "source": "CBC News",
       "fetched": 40,
       "kept": 3
+    },
+    {
+      "source": "Finance Canada",
+      "fetched": 20,
+      "kept": 4
     },
     {
       "source": "CDEV",

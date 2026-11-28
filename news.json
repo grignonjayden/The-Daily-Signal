@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 4:04 AM ET",
+  "generated_at": "Nov 28, 2026, 4:08 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795856687016,
+  "updated_ts": 1795856887799,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -228,6 +228,22 @@
   ],
   "ticker": [
     {
+      "time": "4:00 AM",
+      "title": "Bloomberg — Eisenkot Edging Closer to Leading Israel With Talks Progressing",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/eisenkot-edging-closer-to-leading-israel-with-talks-progressing",
+      "ts": 1795856400000,
+      "snippet": "With just over a week to go, Gadi Eisenkot is within striking distance of a coalition breakthrough that could secure him a parliamentary majority and loosen Benjamin Netanyahu’s three-decade grip on Israeli politics.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true
+    },
+    {
+      "time": "3:48 AM",
+      "title": "Investing.com — CYBER MONDAY IS LIVE: Everything you can get with InvestingPro under $7.50/month",
+      "url": "https://www.investing.com/news/stock-market-news/cyber-monday-is-live-everything-you-can-get-with-investingpro-under-750month-5053718",
+      "ts": 1795855688000,
+      "image": "https://content-media.investing.com/news/HappyTrader_800x533_L_1661164904.jpg"
+    },
+    {
       "time": "2:40 AM",
       "title": "CNBC — U.S. military repelled drones at UK airbase this month, FT reports",
       "url": "https://www.cnbc.com/2026/11/28/us-military-repelled-drones-at-uk-airbase-this-month-ft-reports.html",
@@ -303,21 +319,6 @@
       "ts": 1795831200000,
       "snippet": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
       "image": "https://images.wsj.net/im-11530422"
-    },
-    {
-      "time": "Nov 27",
-      "title": "WSJ Markets — Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks",
-      "url": "https://www.wsj.com/finance/banking/citigroups-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-71d8afe9?mod=rss_markets_main",
-      "ts": 1795830240000,
-      "snippet": "Several London-based executives are leaving as a top risk official oversees the cleanup from the bank’s trading hub.",
-      "image": "https://images.wsj.net/im-34902810"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Investing.com — ECB officials signal further rate hikes as inflation remains elevated",
-      "url": "https://www.investing.com/news/stock-market-news/ecb-officials-signal-further-rate-hikes-as-inflation-remains-elevated-5054086",
-      "ts": 1795830011000,
-      "image": "https://content-media.investing.com/news/LYNXMPED3R0M8_M.jpg"
     }
   ]
 }
