@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 1:26 AM ET",
+  "generated_at": "Nov 28, 2026, 1:29 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795847173337,
+  "updated_ts": 1795847374173,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -243,6 +243,14 @@
       "image": "https://image.cnbcfm.com/api/v1/image/108560129-1795788133101-gettyimages-2242624345-GERMANY_BGD2025.jpeg?v=1795788271&w=1920&h=1080"
     },
     {
+      "time": "1:00 AM",
+      "title": "CNBC — Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+      "url": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+      "ts": 1795845601000,
+      "snippet": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108559960-1795761342779-gettyimages-2299595583-NIGERIA_DANGOTE.jpeg?v=1795761503&w=1920&h=1080"
+    },
+    {
       "time": "Nov 27",
       "title": "Investing.com — Are recent outages bad for software?",
       "url": "https://www.investing.com/news/stock-market-news/are-recent-outages-bad-for-software-5054117",
@@ -307,13 +315,6 @@
       "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
       "ts": 1795827406000,
       "image": "https://content-media.investing.com/news/moved_LYNXMPEHAQ0BJ_L.jpg"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Investing.com — US Black Friday online sales to cross $13 billion, Adobe says",
-      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
-      "ts": 1795825121000,
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR006_L.jpg"
     }
   ]
 }
