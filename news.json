@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 4:20 PM ET",
+  "generated_at": "Nov 28, 2026, 4:24 PM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795900845188,
+  "updated_ts": 1795901044249,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -44,16 +44,6 @@
       "ts": 1795881264000
     },
     {
-      "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
-      "snippet": "",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEHAQ0BJ_L.jpg",
-      "time": "Nov 28, 10:41 AM",
-      "coverage": 3,
-      "ts": 1795880481000
-    },
-    {
       "title": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html",
@@ -72,6 +62,16 @@
       "time": "Nov 28, 5:50 AM",
       "coverage": 3,
       "ts": 1795863044000
+    },
+    {
+      "title": "Thailand eyes EU trade deal by end of 2027, PM says after U.S. pact",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/thailand-eyes-eu-trade-deal-by-end-of-2027-pm-says-after-us-pact-93CH-5054382",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "time": "Nov 28, 2:40 PM",
+      "coverage": 2,
+      "ts": 1795894821000
     },
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -224,6 +224,13 @@
   ],
   "ticker": [
     {
+      "time": "4:20 PM",
+      "title": "Investing.com — Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5054407",
+      "ts": 1795900804000,
+      "image": "https://content-media.investing.com/news/LYNXNPEC1112Z_M.jpg"
+    },
+    {
       "time": "4:01 PM",
       "title": "Investing.com — Taiwan’s ruling party gains ground in local elections watched by China",
       "url": "https://www.investing.com/news/stock-market-news/taiwans-ruling-party-gains-ground-in-local-elections-watched-by-china-93CH-5054403",
@@ -243,13 +250,6 @@
       "url": "https://www.investing.com/news/stock-market-news/50-earthquake-strikes-near-los-angeles-no-major-damage-reported-93CH-5054384",
       "ts": 1795895695000,
       "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
-    },
-    {
-      "time": "2:40 PM",
-      "title": "Investing.com — Thailand eyes EU trade deal by end of 2027, PM says after U.S. pact",
-      "url": "https://www.investing.com/news/stock-market-news/thailand-eyes-eu-trade-deal-by-end-of-2027-pm-says-after-us-pact-93CH-5054382",
-      "ts": 1795894821000,
-      "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg"
     },
     {
       "time": "2:17 PM",
