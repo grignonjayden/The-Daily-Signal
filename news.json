@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 10:01 AM ET",
+  "generated_at": "Nov 28, 2026, 10:04 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795878083447,
+  "updated_ts": 1795878282933,
   "articles": [
     {
       "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
@@ -224,6 +224,14 @@
   ],
   "ticker": [
     {
+      "time": "10:00 AM",
+      "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "ts": 1795878000000,
+      "snippet": "“Given my age, I never make a major new purchase without thinking about the future.”",
+      "image": "https://images.mktw.net/im-34995811"
+    },
+    {
       "time": "9:34 AM",
       "title": "CNBC — He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
       "url": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html",
@@ -309,13 +317,6 @@
       "url": "https://www.investing.com/news/stock-market-news/indias-sebi-weighs-exchange-platform-for-preipo-shares-5054322",
       "ts": 1795872547000,
       "image": "https://content-media.investing.com/news/LYNXMPED770B6_M.jpg"
-    },
-    {
-      "time": "8:24 AM",
-      "title": "Investing.com — Argentina’s bid to stop UK oil activity near Falklands rejected by international court",
-      "url": "https://www.investing.com/news/stock-market-news/international-court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands-5054314",
-      "ts": 1795872265000,
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR07W_L.jpg"
     }
   ]
 }
