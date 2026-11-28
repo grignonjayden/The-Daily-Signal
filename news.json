@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 9:44 AM ET",
+  "generated_at": "Nov 28, 2026, 9:47 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795877078828,
+  "updated_ts": 1795877278268,
   "articles": [
     {
       "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
@@ -44,6 +44,16 @@
       "ts": 1795857861000
     },
     {
+      "title": "Black Friday online shopping rises to $13.1 billion in the US, Adobe Analytics data shows",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/black-friday-online-shopping-rises-to-131-billion-in-the-us-adobe-analytics-data-shows-5054328",
+      "snippet": "",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR09W_L.jpg",
+      "time": "Nov 28, 9:30 AM",
+      "coverage": 3,
+      "ts": 1795876218000
+    },
+    {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
@@ -52,16 +62,6 @@
       "time": "Nov 27, 3:16 PM",
       "coverage": 5,
       "ts": 1795810560000
-    },
-    {
-      "title": "Black Friday online shopping rises to $13.1 billion in the US, Adobe Analytics data shows",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/black-friday-online-shopping-rises-to-131-billion-in-the-us-adobe-analytics-data-shows-5054328",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR09W_L.jpg",
-      "time": "Nov 28, 9:12 AM",
-      "coverage": 3,
-      "ts": 1795875138000
     },
     {
       "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
