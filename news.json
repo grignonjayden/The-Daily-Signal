@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 8:30 PM ET",
+  "generated_at": "Nov 27, 2026, 8:34 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795829450812,
+  "updated_ts": 1795829651511,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -228,6 +228,13 @@
   ],
   "ticker": [
     {
+      "time": "8:18 PM",
+      "title": "Investing.com — China’s premium puffer jacket push meets consumer resistance",
+      "url": "https://www.investing.com/news/stock-market-news/chinas-premium-puffer-jacketpush-meets-consumer-resistance-5054071",
+      "ts": 1795828696000,
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR01N_L.jpg"
+    },
+    {
       "time": "7:18 PM",
       "title": "Investing.com — US Black Friday online sales to cross $13 billion, Adobe says",
       "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
@@ -311,13 +318,6 @@
       "snippet": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true
-    },
-    {
-      "time": "5:24 PM",
-      "title": "Investing.com — Glass Lewis backs Vail Resorts board in proxy fight with activist Oasis",
-      "url": "https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
-      "ts": 1795818283000,
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ1RH_L.jpg"
     }
   ]
 }
