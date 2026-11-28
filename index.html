@@ -6,6 +6,7 @@
 <title>The Daily Signal</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script>/* No card boxes by default; add ?boxes=1 to the link to see the old boxed look */try{if(new URLSearchParams(location.search).get('boxes')!=='1')document.documentElement.classList.add('no-boxes');}catch(e){document.documentElement.classList.add('no-boxes');}</script>
 <script>/* Night mode: saved choice, else the device setting */try{var t=localStorage.getItem('ds-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.dataset.theme=t;}catch(e){}</script>
 <style>
   :root {
@@ -983,6 +984,25 @@
   .sectors-float .sector-tag { background: color-mix(in srgb, currentColor 9%, transparent) !important; border: 1px solid color-mix(in srgb, currentColor 22%, transparent); -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); }
   .sectors-float .sector-icon { background: color-mix(in srgb, currentColor 14%, transparent); }
   .sectors-float .sector-tag .name { color: inherit; }
+
+  /* ---------- Open look (Nov 28): no card boxes; sections sit on the moving background, split by hairlines ---------- */
+  html.no-boxes { --surface-alt: rgba(255,255,255,.42); }
+  html.no-boxes[data-theme="dark"] { --surface-alt: rgba(255,255,255,.055); }
+  html.no-boxes .widget:not(.story-hero), html.no-boxes[data-theme="dark"] .widget:not(.story-hero) {
+    background: none; border: none; box-shadow: none; border-radius: 0; padding: 22px 4px 24px;
+    border-bottom: 1px solid color-mix(in srgb, var(--ink) 10%, transparent);
+  }
+  html.no-boxes .widget:not(.story-hero):hover { box-shadow: none; }
+  html.no-boxes .widget.ring-widget, html.no-boxes .widget.is-collapsed { border-bottom-color: color-mix(in srgb, var(--ink) 10%, transparent); }
+  html.no-boxes .widget.ring-widget { border-bottom: none; }
+  html.no-boxes .widget.is-collapsed { padding-top: 16px; padding-bottom: 16px; }
+  html.no-boxes .widget-title h2 { font-size: 18px; }
+  html.no-boxes .pulse-chip, html.no-boxes .pf-stat, html.no-boxes .pf-ind-card, html.no-boxes .pf-sugg-row, html.no-boxes .sector-tag:not([style*="--"]) { -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); }
+  html.no-boxes .pulse-chip, html.no-boxes .pf-ind-card { border: 1px solid color-mix(in srgb, var(--ink) 8%, transparent); }
+  html.no-boxes .error-box.note-box { background: none; padding-left: 4px; padding-right: 4px; }
+  html.no-boxes .pf-add-pop .widget, html.no-boxes[data-theme="dark"] .pf-add-pop .widget { padding: 0; border-bottom: none; }
+  html.no-boxes .info-box, html.no-boxes .pf-sug { --surface-alt: #E8E8EC; }
+  html.no-boxes[data-theme="dark"] .info-box, html.no-boxes[data-theme="dark"] .pf-sug { --surface-alt: #232731; }
 </style>
 <script>try{var L=new URLSearchParams(location.search).get('layout');if(L==='flow'||L==='cards')localStorage.setItem('ds-layout',L);if((L||localStorage.getItem('ds-layout'))==='flow')document.documentElement.classList.add('flow');}catch(e){}</script>
 </head>
