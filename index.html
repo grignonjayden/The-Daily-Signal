@@ -1908,7 +1908,7 @@ function renderCrypto(data, dateKey) {
 
   // Categories
   if (Array.isArray(data.categories) && data.categories.length) {
-    const widget = widgetShell('w-span-12', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Crypto Categories in Motion'); widget.dataset.motion = '1';
+    const widget = widgetShell('w-span-12 sectors-float', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Crypto Categories in Motion'); widget.dataset.motion = '1';
     const cloud = el('div', { className: 'sector-cloud' });
     data.categories.forEach((s, i) => {
       const palette = SECTOR_PALETTE[i % SECTOR_PALETTE.length];
