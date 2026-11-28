@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 11:25 AM ET",
+  "generated_at": "Nov 28, 2026, 11:28 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795883124517,
+  "updated_ts": 1795883324317,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -224,6 +224,14 @@
   ],
   "ticker": [
     {
+      "time": "11:25 AM",
+      "title": "CNBC — Supreme Court will decide whether assault weapons bans violate the Second Amendment",
+      "url": "https://www.cnbc.com/2026/11/28/supreme-court-to-decide-if-assault-weapons-bans-violate-2nd-amendment.html",
+      "ts": 1795883140000,
+      "snippet": "The Supreme Court will hear arguments Wednesday over whether state and local assault weapons bans violate the Second Amendment's right \"to keep and bear arms.\"",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326901-1782402782515-gettyimages-2282733148-AFP_B8BN4GJ.jpeg?v=1782405357&w=1920&h=1080"
+    },
+    {
       "time": "10:53 AM",
       "title": "Investing.com — China’s Chery Automobile moves into police and nurse robots, FT reports",
       "url": "https://www.investing.com/news/stock-market-news/chinas-chery-automobile-moves-into-police-and-nurse-robots-ft-reports-5054345",
@@ -308,14 +316,6 @@
       "ts": 1795874175000,
       "snippet": "The investment bank highlighted picks across the technology universe.",
       "image": "https://image.cnbcfm.com/api/v1/image/108201324-17582960822025-09-19t152728z_626607790_rc21vga54a26_rtrmadp_0_pattern-ipo.jpeg?v=1758296118&w=1920&h=1080"
-    },
-    {
-      "time": "8:46 AM",
-      "title": "CNBC — Billions on the line for Berkshire utility as Oregon's high court reviews wildfire claims",
-      "url": "https://www.cnbc.com/2026/11/28/berkshire-utility-wildfire-claims.html",
-      "ts": 1795873606000,
-      "snippet": "Berkshire Hathaway's PacifiCorp and attorneys for thousands of plaintiffs are welcoming a decision by Oregon's Supreme Court to widen its review of a 2023 lower court trial in which a jury awarded more than one…",
-      "image": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080"
     }
   ]
 }
