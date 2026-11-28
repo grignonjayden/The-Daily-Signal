@@ -1646,7 +1646,7 @@ function buildCryptoLeaderboard(movers) {
   const gaugeFill = (pct) => Math.max(5, Math.min(95, 50 + pct * 3));
   const fmtPct = (pct) => (pct >= 0 ? '+' : '') + pct.toFixed(2) + '%';
 
-  const widget = widgetShell('w-span-5', 'trophy', 'var(--peach-soft)', 'var(--lavender)', "Today's Biggest Movers");
+  const widget = widgetShell('w-span-12', 'trophy', 'var(--peach-soft)', 'var(--lavender)', "Today's Biggest Movers");
 
   const feature = el('div', { className: 'leader-feature' });
   const ringWrap = el('div', { className: 'leader-ring-wrap' });
@@ -1760,7 +1760,7 @@ function renderBriefing(data, dateKey) {
 
   // Sectors
   if (Array.isArray(data.sectors) && data.sectors.length) {
-    const widget = widgetShell('w-span-12 sectors-float', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Sectors in Motion');
+    const widget = widgetShell('w-span-12 sectors-float', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Sectors in Motion'); widget.dataset.motion = '1';
     const cloud = el('div', { className: 'sector-cloud' });
     data.sectors.forEach((s, i) => {
       const palette = SECTOR_PALETTE[i % SECTOR_PALETTE.length];
@@ -1805,7 +1805,8 @@ function renderBriefing(data, dateKey) {
   ringAboveThemes();
 }
 // The "confirmed today" ring sits right above Today's Themes (Markets and Crypto).
-function ringAboveThemes() { const r = mainPanel.querySelector('.ring-widget'), t = mainPanel.querySelector('[data-top="2"]'); if (r && t) t.before(r); }
+// "In Motion" (sectors / crypto categories) sits right above the ring.
+function ringAboveThemes() { const r = mainPanel.querySelector('.ring-widget'), t = mainPanel.querySelector('[data-top="2"]'), m = mainPanel.querySelector('[data-motion="1"]'); if (r && t) t.before(r); if (m && r) r.before(m); }
 
 function buildHistoryWidget() {
   const historyWidget = widgetShell('w-span-12', 'history', 'var(--surface-alt)', 'var(--ink-soft)', 'Past Dispatches');
@@ -1907,7 +1908,7 @@ function renderCrypto(data, dateKey) {
 
   // Categories
   if (Array.isArray(data.categories) && data.categories.length) {
-    const widget = widgetShell('w-span-7', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Crypto Categories in Motion');
+    const widget = widgetShell('w-span-12', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Crypto Categories in Motion'); widget.dataset.motion = '1';
     const cloud = el('div', { className: 'sector-cloud' });
     data.categories.forEach((s, i) => {
       const palette = SECTOR_PALETTE[i % SECTOR_PALETTE.length];
