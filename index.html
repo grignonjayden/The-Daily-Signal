@@ -250,41 +250,62 @@
   .story-entry-row { display: flex; align-items: center; justify-content: space-between; gap: 14px; }
   .story-entry-sub { margin: 0; font-size: 14px; line-height: 1.5; color: var(--ink-soft); font-weight: 500; }
   .story-go { flex: none; padding: 11px 22px; }
-  .story-ov { position: fixed; inset: 0; z-index: 990; color: #fff; overflow: hidden; user-select: none; -webkit-user-select: none; touch-action: none; display: flex; flex-direction: column; height: 100vh; height: 100dvh; background: #0F1116; }
-  .story-bg { position: absolute; inset: -40%; z-index: 0; pointer-events: none; transition: filter .6s;
-    background: radial-gradient(closest-side at 30% 30%, rgba(47,99,214,.55), transparent), radial-gradient(closest-side at 75% 35%, rgba(217,114,44,.45), transparent), radial-gradient(closest-side at 50% 80%, rgba(123,79,184,.5), transparent), #10192E;
-    animation: heroSwirl 40s linear infinite; }
-  .story-ov[data-tone="1"] .story-bg { background: radial-gradient(closest-side at 30% 30%, rgba(217,114,44,.5), transparent), radial-gradient(closest-side at 75% 60%, rgba(28,46,82,.8), transparent), radial-gradient(closest-side at 40% 85%, rgba(123,79,184,.45), transparent), #14101C; }
-  .story-ov[data-tone="2"] .story-bg { background: radial-gradient(closest-side at 25% 40%, rgba(123,79,184,.55), transparent), radial-gradient(closest-side at 70% 25%, rgba(47,99,214,.45), transparent), radial-gradient(closest-side at 60% 80%, rgba(217,114,44,.35), transparent), #0F1222; }
-  .story-ov[data-tone="3"] .story-bg { background: radial-gradient(closest-side at 70% 30%, rgba(30,158,90,.35), transparent), radial-gradient(closest-side at 30% 60%, rgba(47,99,214,.5), transparent), radial-gradient(closest-side at 60% 85%, rgba(217,114,44,.4), transparent), #0E141C; }
-  .story-ov > *:not(.story-bg) { position: relative; z-index: 1; }
-  .story-bars { display: flex; gap: 3px; padding: max(12px, env(safe-area-inset-top)) 14px 0; }
-  .story-bars span { flex: 1; height: 3px; border-radius: 2px; background: rgba(255,255,255,.25); }
-  .story-bars span.done { background: rgba(255,255,255,.85); }
-  .story-bars span.on { background: #fff; box-shadow: 0 0 8px rgba(255,255,255,.6); }
-  .story-top { display: flex; justify-content: space-between; align-items: center; padding: 10px 14px 0; }
-  .story-count { font-size: 12.5px; font-weight: 700; opacity: .8; font-variant-numeric: tabular-nums; }
-  .story-x { all: unset; cursor: pointer; width: 40px; height: 40px; border-radius: 50%; text-align: center; line-height: 40px; font-size: 26px; background: rgba(255,255,255,.12); -webkit-tap-highlight-color: transparent; }
-  .story-stage { flex: 1; display: flex; align-items: center; justify-content: center; padding: 10px 22px 30px; min-height: 0; }
-  .story-card { width: 100%; max-width: 560px; max-height: 100%; overflow-y: auto; }
-  .story-card.in-up { animation: storyUp .38s var(--ease) both; } .story-card.in-down { animation: storyDown .38s var(--ease) both; }
-  @keyframes storyUp { from { opacity: 0; transform: translateY(46px); } } @keyframes storyDown { from { opacity: 0; transform: translateY(-46px); } }
-  .story-meta { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 10px; margin-bottom: 14px; }
-  .story-tag { font-size: 12px; font-weight: 800; letter-spacing: .02em; background: rgba(255,255,255,.16); border: 1px solid rgba(255,255,255,.22); border-radius: 999px; padding: 4px 11px; }
-  .story-src { font-size: 13px; font-weight: 600; opacity: .8; }
-  .story-title { font-family: 'Manrope', sans-serif; font-size: clamp(26px, 6.4vw, 38px); line-height: 1.15; font-weight: 800; letter-spacing: -0.02em; margin: 0 0 18px; color: #fff; }
-  .story-line { font-size: 16.5px !important; line-height: 1.55 !important; color: rgba(255,255,255,.92) !important; margin: 0 0 12px !important; font-weight: 500; }
-  .story-line b { color: #fff; font-weight: 800; }
-  .story-line .gl-term { color: #FFD3B0; background: rgba(217,114,44,.25); }
-  .story-read { display: inline-block; margin-top: 10px; font-size: 14.5px; font-weight: 800; color: #10192E; background: #fff; border-radius: 999px; padding: 11px 18px; text-decoration: none; }
-  .story-hint { text-align: center; font-size: 12.5px; font-weight: 700; opacity: .7; padding: 0 0 max(18px, env(safe-area-inset-bottom)); animation: pfBlink 2.4s ease-in-out infinite; }
-  .story-hint[hidden] { display: none; }
-  .story-end { text-align: center; }
-  .story-end-ic { width: 58px; height: 58px; margin: 0 auto 16px; border-radius: 50%; background: rgba(255,255,255,.16); font-size: 28px; line-height: 58px; font-weight: 800; }
-  .story-end-row { display: flex; gap: 10px; justify-content: center; margin-top: 18px; flex-wrap: wrap; }
-  .story-btn { all: unset; cursor: pointer; font-size: 14.5px; font-weight: 800; color: #10192E; background: #fff; border-radius: 999px; padding: 11px 20px; }
-  .story-btn.ghost { color: #fff; background: rgba(255,255,255,.14); }
-  @media (max-width: 600px) { .story-entry-row { gap: 10px; } .story-line { font-size: 15.5px !important; } }
+  /* Reels viewer */
+  .reels-ov { position: fixed; inset: 0; z-index: 990; background: #000; display: flex; justify-content: center; height: 100vh; height: 100dvh; color: #fff; }
+  .reels-frame { position: relative; height: 100%; width: 100%; max-width: calc(100dvh * 9 / 16); overflow: hidden; background: #0F1116; }
+  @media (min-width: 700px) { .reels-ov { background: radial-gradient(closest-side at 30% 40%, rgba(47,99,214,.25), transparent), radial-gradient(closest-side at 70% 60%, rgba(217,114,44,.18), transparent), #07080B; padding: 2dvh 0; }
+    .reels-frame { border-radius: 18px; height: 96dvh; max-width: calc(96dvh * 9 / 16); box-shadow: 0 30px 80px rgba(0,0,0,.6); } }
+  .reels-scroll { position: absolute; inset: 0; overflow-y: scroll; scroll-snap-type: y mandatory; overscroll-behavior: contain; scrollbar-width: none; -webkit-overflow-scrolling: touch; outline: none; }
+  .reels-scroll::-webkit-scrollbar { display: none; }
+  .reel { position: relative; height: 100%; scroll-snap-align: start; scroll-snap-stop: always; overflow: hidden; cursor: pointer; user-select: none; -webkit-user-select: none; }
+  .reel-media { position: absolute; inset: 0; background: radial-gradient(closest-side at 30% 30%, rgba(47,99,214,.6), transparent), radial-gradient(closest-side at 75% 45%, rgba(217,114,44,.5), transparent), radial-gradient(closest-side at 45% 85%, rgba(123,79,184,.55), transparent), #10192E; }
+  .reel[data-tone="1"] .reel-media { background: radial-gradient(closest-side at 30% 30%, rgba(217,114,44,.55), transparent), radial-gradient(closest-side at 70% 65%, rgba(47,99,214,.5), transparent), #14101C; }
+  .reel[data-tone="2"] .reel-media { background: radial-gradient(closest-side at 30% 40%, rgba(123,79,184,.6), transparent), radial-gradient(closest-side at 70% 25%, rgba(47,99,214,.45), transparent), #0F1222; }
+  .reel[data-tone="3"] .reel-media { background: radial-gradient(closest-side at 70% 30%, rgba(30,158,90,.35), transparent), radial-gradient(closest-side at 30% 60%, rgba(47,99,214,.55), transparent), #0E141C; }
+  .reel-media img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; animation: reelZoom 14s ease-out both; }
+  .reel-media.soft img { filter: saturate(.85) brightness(.85); }
+  @keyframes reelZoom { from { transform: scale(1.08); } to { transform: scale(1); } }
+  .reel-noimg { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; padding-bottom: 30%; font-family: 'Manrope', sans-serif; font-size: 64px; font-weight: 800; letter-spacing: -.02em; color: rgba(255,255,255,.18); }
+  .reel.has-img .reel-noimg { display: none; }
+  .reel-shade { position: absolute; inset: 0; pointer-events: none; background: linear-gradient(to bottom, rgba(0,0,0,.45) 0%, rgba(0,0,0,0) 18%, rgba(0,0,0,0) 38%, rgba(0,0,0,.55) 60%, rgba(0,0,0,.88) 100%); }
+  .reel-rail { position: absolute; right: 10px; bottom: 120px; display: flex; flex-direction: column; gap: 18px; align-items: center; z-index: 2; }
+  .reel-act { all: unset; cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: 4px; color: #fff; text-decoration: none; -webkit-tap-highlight-color: transparent; }
+  .reel-act span { font-size: 11.5px; font-weight: 700; text-shadow: 0 1px 3px rgba(0,0,0,.6); }
+  .reel-ic { width: 30px; height: 30px; filter: drop-shadow(0 1px 3px rgba(0,0,0,.5)); }
+  .reel-act:active .reel-ic { transform: scale(.88); }
+  .reel-act.liked .reel-ic { fill: #FF3B5C; stroke: #FF3B5C; animation: reelPop .35s cubic-bezier(.34,1.56,.64,1); }
+  @keyframes reelPop { 50% { transform: scale(1.3); } }
+  .reel-burst { position: absolute; left: 50%; top: 42%; z-index: 3; pointer-events: none; transform: translate(-50%, -50%); animation: reelBurst .9s ease-out both; }
+  .reel-burst .reel-ic { width: 110px; height: 110px; fill: #fff; stroke: #fff; filter: drop-shadow(0 6px 20px rgba(0,0,0,.4)); }
+  @keyframes reelBurst { 0% { opacity: 0; transform: translate(-50%, -50%) scale(.4); } 25% { opacity: 1; transform: translate(-50%, -50%) scale(1.1); } 45% { transform: translate(-50%, -50%) scale(.95); } 100% { opacity: 0; transform: translate(-50%, -80%) scale(1); } }
+  .reel-cap { position: absolute; left: 0; right: 64px; bottom: 0; padding: 0 16px max(26px, env(safe-area-inset-bottom)); z-index: 2; }
+  .reel-who { display: flex; align-items: center; flex-wrap: wrap; gap: 6px 8px; font-size: 13.5px; margin-bottom: 10px; text-shadow: 0 1px 3px rgba(0,0,0,.6); }
+  .reel-av { width: 32px; height: 32px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 800; background: linear-gradient(135deg, #D9722C, #7B4FB8 60%, #2F63D6); box-shadow: 0 0 0 2px #fff; text-shadow: none; }
+  .reel-who b { font-weight: 800; }
+  .reel-ago { opacity: .8; font-weight: 600; }
+  .reel-tag { font-size: 11px; font-weight: 800; border: 1px solid rgba(255,255,255,.55); border-radius: 6px; padding: 2px 7px; text-shadow: none; }
+  .reel-title { font-family: 'Manrope', sans-serif; font-size: clamp(20px, 5.6vw, 24px); line-height: 1.22; font-weight: 800; letter-spacing: -0.01em; margin: 0 0 10px; color: #fff; text-shadow: 0 1px 6px rgba(0,0,0,.5); }
+  .reel-line { font-size: 14px !important; line-height: 1.5 !important; color: rgba(255,255,255,.92) !important; margin: 0 0 8px !important; font-weight: 500; text-shadow: 0 1px 4px rgba(0,0,0,.6); }
+  .reel-line b { color: #fff; font-weight: 800; }
+  .reel-line .gl-term { color: #FFD3B0; background: rgba(217,114,44,.35); text-shadow: none; }
+  .reels-prog { position: absolute; top: 0; left: 0; right: 0; height: 3px; background: rgba(255,255,255,.18); z-index: 4; }
+  .reels-prog span { display: block; height: 100%; background: #fff; transition: width .3s var(--ease); }
+  .reels-top { position: absolute; top: 0; left: 0; right: 0; z-index: 4; display: flex; align-items: center; gap: 10px; padding: max(12px, env(safe-area-inset-top)) 12px 0 16px; pointer-events: none; }
+  .reels-brand { font-family: 'Manrope', sans-serif; font-size: 21px; font-weight: 800; letter-spacing: -.01em; text-shadow: 0 1px 4px rgba(0,0,0,.5); }
+  .reels-count { font-size: 12px; font-weight: 700; opacity: .85; margin-left: auto; font-variant-numeric: tabular-nums; text-shadow: 0 1px 3px rgba(0,0,0,.6); }
+  .reels-x { all: unset; pointer-events: auto; cursor: pointer; width: 38px; height: 38px; border-radius: 50%; text-align: center; line-height: 38px; font-size: 26px; background: rgba(0,0,0,.3); -webkit-tap-highlight-color: transparent; }
+  .reels-hint { position: absolute; left: 0; right: 0; bottom: 6px; text-align: center; font-size: 11.5px; font-weight: 700; opacity: .75; z-index: 4; pointer-events: none; transition: opacity .4s; }
+  .reels-hint.gone { opacity: 0; }
+  .reels-toast { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); z-index: 5; background: rgba(0,0,0,.75); padding: 10px 16px; border-radius: 12px; font-size: 13.5px; font-weight: 700; opacity: 0; pointer-events: none; transition: opacity .2s; }
+  .reels-toast.on { opacity: 1; }
+  .reel-end { display: flex; align-items: center; justify-content: center; cursor: default; }
+  .reel-end .reel-media { z-index: 0; }
+  .reel-endbox { position: relative; z-index: 2; text-align: center; padding: 0 28px; }
+  .reel-end-ic { width: 58px; height: 58px; margin: 0 auto 16px; border-radius: 50%; background: rgba(255,255,255,.16); font-size: 28px; line-height: 58px; font-weight: 800; }
+  .reel-end-row { display: flex; gap: 10px; justify-content: center; margin-top: 16px; flex-wrap: wrap; }
+  .reel-btn { all: unset; cursor: pointer; font-size: 14.5px; font-weight: 800; color: #10192E; background: #fff; border-radius: 999px; padding: 11px 20px; }
+  .reel-btn.ghost { color: #fff; background: rgba(255,255,255,.14); }
+  @media (max-width: 600px) { .story-entry-row { gap: 10px; } }
   /* ---------- News list ---------- */
   .news-list { display: flex; flex-direction: column; gap: 2px; }
   .news-card {
@@ -2002,71 +2023,128 @@ function storyAgo(a) {
   return a.time || '';
 }
 function openStories(startAt) {
+  // Instagram Reels-style viewer: full-screen photo per story, vertical snap scrolling, caption bottom-left,
+  // Like / Read / Share on the right. Tap = next story (left edge = back), double-tap = like, swipe/scroll = move.
   const list = storyList(); if (!list.length) return;
-  let i = Math.max(0, Math.min(startAt || 0, list.length));
-  const ov = el('div', { className: 'story-ov' }); ov.setAttribute('role', 'dialog'); ov.setAttribute('aria-modal', 'true'); ov.setAttribute('aria-label', 'News stories');
-  ov.appendChild(el('div', { className: 'story-bg' }));
-  const bars = el('div', { className: 'story-bars' }); list.forEach(() => bars.appendChild(el('span'))); ov.appendChild(bars);
-  const top = el('div', { className: 'story-top' });
-  const count = el('span', { className: 'story-count' }); top.appendChild(count);
-  const x = el('button', { className: 'story-x', text: '×' }); x.type = 'button'; x.setAttribute('aria-label', 'Close stories'); top.appendChild(x);
-  ov.appendChild(top);
-  const stage = el('div', { className: 'story-stage' }); ov.appendChild(stage);
-  const hint = el('div', { className: 'story-hint', text: 'Tap or swipe up for the next story' }); ov.appendChild(hint);
-  const prevOverflow = document.body.style.overflow; document.body.style.overflow = 'hidden';
-  const show = dir => {
-    glClose();
-    [...bars.children].forEach((b, j) => { b.className = j < i ? 'done' : j === i ? 'on' : ''; });
-    count.textContent = i < list.length ? (i + 1) + ' / ' + list.length : 'Done';
-    const card = el('div', { className: 'story-card ' + (dir < 0 ? 'in-down' : 'in-up') });
-    if (i >= list.length) {
-      card.classList.add('story-end');
-      card.appendChild(el('div', { className: 'story-end-ic', text: '✓' }));
-      card.appendChild(el('h2', { className: 'story-title', text: 'You’re all caught up' }));
-      card.appendChild(el('p', { className: 'story-line', text: 'That’s every story in today’s dispatch. New headlines arrive every few minutes.' }));
-      const row = el('div', { className: 'story-end-row' });
-      const again = el('button', { className: 'story-btn', text: 'Start over' }); again.type = 'button'; again.onclick = () => { i = 0; show(1); };
-      const back = el('button', { className: 'story-btn ghost', text: 'Back to News' }); back.type = 'button'; back.onclick = close;
-      row.appendChild(again); row.appendChild(back); card.appendChild(row);
-    } else {
-      const a = list[i], ex = storyExplain(a);
-      const meta = el('div', { className: 'story-meta' });
-      meta.appendChild(el('span', { className: 'story-tag', text: ex.tag }));
-      meta.appendChild(el('span', { className: 'story-src', text: [a.source, storyAgo(a)].filter(Boolean).join(' · ') }));
-      card.appendChild(meta);
-      card.appendChild(el('h2', { className: 'story-title', text: storyDec(a.title) }));
-      if (ex.what) { const p = el('p', { className: 'story-line item-summary' }); p.appendChild(el('b', { text: 'What happened: ' })); p.appendChild(document.createTextNode(ex.what)); card.appendChild(p); }
-      const w = el('p', { className: 'story-line item-summary' }); w.appendChild(el('b', { text: 'Why it matters: ' })); w.appendChild(document.createTextNode(ex.why)); card.appendChild(w);
-      if (a.url) { const r = el('a', { className: 'story-read', href: a.url, text: 'Read the full story ↗' }); r.target = '_blank'; r.rel = 'noopener'; card.appendChild(r); }
+  let liked = {}; try { liked = JSON.parse(localStorage.getItem('tds-liked') || '{}'); } catch (e) { /* storage blocked */ }
+  const saveLiked = () => { try { localStorage.setItem('tds-liked', JSON.stringify(liked)); } catch (e) { /* storage blocked */ } };
+  const svg = d => { const s = svgIcon(d); s.setAttribute('class', 'reel-ic'); return s; };
+  const IC = { heart: 'M12 21s-7.5-4.6-9.6-9.3C.9 8.3 3 4.5 6.7 4.5c2.1 0 3.6 1.2 4.3 2.4h2c.7-1.2 2.2-2.4 4.3-2.4 3.7 0 5.8 3.8 4.3 7.2C19.5 16.4 12 21 12 21z',
+    read: 'M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 01-1 1H5a1 1 0 01-1-1V7a1 1 0 011-1h5', share: 'M4 12v7a1 1 0 001 1h14a1 1 0 001-1v-7M12 3v12M7 8l5-5 5 5' };
+  const ov = el('div', { className: 'reels-ov' }); ov.setAttribute('role', 'dialog'); ov.setAttribute('aria-modal', 'true'); ov.setAttribute('aria-label', 'News reels');
+  const frame = el('div', { className: 'reels-frame' }); ov.appendChild(frame);
+  const prog = el('div', { className: 'reels-prog' }); const progFill = el('span'); prog.appendChild(progFill); frame.appendChild(prog);
+  const top = el('div', { className: 'reels-top' });
+  top.appendChild(el('span', { className: 'reels-brand', text: 'Reels' }));
+  const count = el('span', { className: 'reels-count' }); top.appendChild(count);
+  const x = el('button', { className: 'reels-x', text: '×' }); x.type = 'button'; x.setAttribute('aria-label', 'Close'); top.appendChild(x);
+  frame.appendChild(top);
+  const scroller = el('div', { className: 'reels-scroll' }); frame.appendChild(scroller);
+  const toast = el('div', { className: 'reels-toast' }); frame.appendChild(toast);
+  const say = t => { toast.textContent = t; toast.classList.add('on'); clearTimeout(say._t); say._t = setTimeout(() => toast.classList.remove('on'), 1600); };
+
+  list.forEach((a, j) => {
+    const ex = storyExplain(a), title = storyDec(a.title);
+    const r = el('section', { className: 'reel' }); r.dataset.tone = String(j % 4);
+    const media = el('div', { className: 'reel-media' });
+    const initials = el('div', { className: 'reel-noimg', text: SOURCE_BADGES[a.source] || (a.source || 'TDS').slice(0, 4).toUpperCase() });
+    media.appendChild(initials);
+    if (a.image) {
+      const img = document.createElement('img'); img.alt = ''; img.referrerPolicy = 'no-referrer'; img.decoding = 'async';
+      img.loading = j < 2 ? 'eager' : 'lazy';
+      img.onload = () => r.classList.add('has-img'); img.onerror = () => img.remove();
+      img.src = a.image; media.appendChild(img);
+      if (a.fallback_image) media.classList.add('soft'); // stock photo of the source, not the story itself
     }
-    stage.innerHTML = ''; stage.appendChild(card); applyGlossary(card);
-    ov.style.setProperty('--hue', String((i * 47) % 360));
-    ov.dataset.tone = String(i % 4);
-    hint.hidden = i > 0;
+    r.appendChild(media);
+    r.appendChild(el('div', { className: 'reel-shade' }));
+    // Right-side action rail
+    const rail = el('div', { className: 'reel-rail' });
+    const likeB = el('button', { className: 'reel-act' + (liked[a.url] ? ' liked' : '') }); likeB.type = 'button'; likeB.setAttribute('aria-label', 'Like');
+    likeB.appendChild(svg(IC.heart)); likeB.appendChild(el('span', { text: 'Like' }));
+    const toggleLike = force => { const on = force != null ? force : !liked[a.url]; if (on) liked[a.url] = 1; else delete liked[a.url]; likeB.classList.toggle('liked', on); saveLiked(); };
+    likeB.onclick = () => toggleLike();
+    r._like = () => { toggleLike(true); const h = el('div', { className: 'reel-burst' }); h.appendChild(svg(IC.heart)); r.appendChild(h); setTimeout(() => h.remove(), 900); };
+    rail.appendChild(likeB);
+    if (a.url) {
+      const rd = el('a', { className: 'reel-act', href: a.url }); rd.target = '_blank'; rd.rel = 'noopener'; rd.setAttribute('aria-label', 'Read the full story');
+      rd.appendChild(svg(IC.read)); rd.appendChild(el('span', { text: 'Read' })); rail.appendChild(rd);
+      const sh = el('button', { className: 'reel-act' }); sh.type = 'button'; sh.setAttribute('aria-label', 'Share');
+      sh.appendChild(svg(IC.share)); sh.appendChild(el('span', { text: 'Share' }));
+      sh.onclick = async () => {
+        try { if (navigator.share) { await navigator.share({ title, url: a.url }); return; } } catch (e) { return; }
+        try { await navigator.clipboard.writeText(a.url); say('Link copied'); } catch (e) { say('Couldn’t copy the link'); }
+      };
+      rail.appendChild(sh);
+    }
+    r.appendChild(rail);
+    // Caption (bottom-left), like a Reels post
+    const cap = el('div', { className: 'reel-cap' });
+    const who = el('div', { className: 'reel-who' });
+    who.appendChild(el('span', { className: 'reel-av', text: (SOURCE_BADGES[a.source] || (a.source || '?').slice(0, 2)).slice(0, 3).toUpperCase() }));
+    who.appendChild(el('b', { text: a.source || 'News' }));
+    const ago = storyAgo(a); if (ago) who.appendChild(el('span', { className: 'reel-ago', text: '· ' + ago }));
+    who.appendChild(el('span', { className: 'reel-tag', text: ex.tag }));
+    cap.appendChild(who);
+    cap.appendChild(el('h2', { className: 'reel-title', text: title }));
+    if (ex.what) { const p = el('p', { className: 'reel-line item-summary' }); p.appendChild(el('b', { text: 'What happened: ' })); p.appendChild(document.createTextNode(ex.what)); cap.appendChild(p); }
+    const w = el('p', { className: 'reel-line item-summary' }); w.appendChild(el('b', { text: 'Why it matters: ' })); w.appendChild(document.createTextNode(ex.why)); cap.appendChild(w);
+    r.appendChild(cap);
+    scroller.appendChild(r);
+    applyGlossary(cap);
+  });
+  // Last screen
+  const end = el('section', { className: 'reel reel-end' }); end.dataset.tone = '2';
+  const endBox = el('div', { className: 'reel-endbox' });
+  endBox.appendChild(el('div', { className: 'reel-end-ic', text: '✓' }));
+  endBox.appendChild(el('h2', { className: 'reel-title', text: 'You’re all caught up' }));
+  endBox.appendChild(el('p', { className: 'reel-line', text: 'That’s every story in today’s dispatch. New headlines arrive every few minutes.' }));
+  const row = el('div', { className: 'reel-end-row' });
+  const again = el('button', { className: 'reel-btn', text: 'Start over' }); again.type = 'button'; again.onclick = () => goTo(0, true);
+  const back = el('button', { className: 'reel-btn ghost', text: 'Back to News' }); back.type = 'button'; back.onclick = () => close();
+  row.appendChild(again); row.appendChild(back); endBox.appendChild(row); end.appendChild(endBox);
+  scroller.appendChild(end);
+  if (!list.length) return;
+  const hint = el('div', { className: 'reels-hint', text: 'Swipe up or tap for the next story' }); frame.appendChild(hint);
+
+  const total = list.length + 1;
+  let cur = 0, want = null; // want = where a smooth scroll is heading, so quick taps add up
+  const idx = () => Math.round(scroller.scrollTop / Math.max(1, scroller.clientHeight));
+  const update = () => {
+    cur = Math.max(0, Math.min(total - 1, idx()));
+    if (want != null && Math.abs(scroller.scrollTop - want * scroller.clientHeight) < 4) want = null;
+    count.textContent = cur < list.length ? (cur + 1) + ' / ' + list.length : 'Done';
+    progFill.style.width = ((Math.min(cur + 1, list.length)) / list.length * 100) + '%';
+    if (cur > 0) hint.classList.add('gone');
   };
-  const go = d => { const n = i + d; if (n < 0 || n > list.length) return; i = n; show(d); };
-  function close() { ov.remove(); document.body.style.overflow = prevOverflow; document.removeEventListener('keydown', onKey); glClose(); }
+  const at = () => want != null ? want : cur;
+  const goTo = (n, smooth) => { n = Math.max(0, Math.min(total - 1, n)); want = n; scroller.scrollTo({ top: n * scroller.clientHeight, behavior: smooth === false ? 'auto' : 'smooth' }); };
+  let raf = 0;
+  scroller.addEventListener('scroll', () => { glClose(); cancelAnimationFrame(raf); raf = requestAnimationFrame(update); }, { passive: true });
+  // Tap = next (left quarter = back); double-tap = like with a heart burst.
+  let lastTap = 0, tapTimer = 0;
+  scroller.addEventListener('click', e => {
+    if (e.target.closest('a, button, .gl-term, .gl-pop')) return;
+    const reel = e.target.closest('.reel'); if (!reel || reel.classList.contains('reel-end')) return;
+    const now = Date.now();
+    if (now - lastTap < 280) { clearTimeout(tapTimer); lastTap = 0; if (reel._like) reel._like(); return; }
+    lastTap = now;
+    const back = e.clientX - frame.getBoundingClientRect().left < frame.clientWidth * 0.25;
+    tapTimer = setTimeout(() => goTo(at() + (back ? -1 : 1)), 280);
+  });
   const onKey = e => {
     if (e.key === 'Escape') close();
-    else if (['ArrowRight', 'ArrowDown', ' ', 'PageDown'].includes(e.key)) { e.preventDefault(); go(1); }
-    else if (['ArrowLeft', 'ArrowUp', 'PageUp'].includes(e.key)) { e.preventDefault(); go(-1); }
+    else if (['ArrowDown', 'ArrowRight', ' ', 'PageDown'].includes(e.key)) { e.preventDefault(); goTo(at() + 1); }
+    else if (['ArrowUp', 'ArrowLeft', 'PageUp'].includes(e.key)) { e.preventDefault(); goTo(at() - 1); }
   };
-  document.addEventListener('keydown', onKey);
+  const prevOverflow = document.body.style.overflow;
+  function close() { ov.remove(); document.body.style.overflow = prevOverflow; document.removeEventListener('keydown', onKey); glClose(); }
   x.onclick = close;
-  let sx = 0, sy = 0, st = 0;
-  ov.addEventListener('pointerdown', e => { sx = e.clientX; sy = e.clientY; st = Date.now(); });
-  ov.addEventListener('pointerup', e => {
-    if (e.target.closest('a, button, .gl-term, .gl-pop')) return;
-    if (Date.now() < glSwallowUntil) return; // that tap just closed a definition bubble
-    const dx = e.clientX - sx, dy = e.clientY - sy;
-    if (Math.abs(dy) > 50 && Math.abs(dy) > Math.abs(dx)) { go(dy < 0 ? 1 : -1); return; } // swipe up = next, down = back
-    if (Math.abs(dx) > 50) { go(dx < 0 ? 1 : -1); return; }
-    if (Date.now() - st > 600) return; // long press = just reading
-    go(e.clientX < window.innerWidth * 0.3 ? -1 : 1); // tap left edge = back, anywhere else = next
-  });
-  let wheelAt = 0;
-  ov.addEventListener('wheel', e => { e.preventDefault(); if (Math.abs(e.deltaY) < 25 || Date.now() - wheelAt < 600) return; wheelAt = Date.now(); go(e.deltaY > 0 ? 1 : -1); }, { passive: false });
-  document.body.appendChild(ov); show(1); x.focus({ preventScroll: true });
+  document.addEventListener('keydown', onKey);
+  document.body.style.overflow = 'hidden';
+  document.body.appendChild(ov);
+  if (startAt) goTo(startAt, false);
+  update(); scroller.focus({ preventScroll: true });
 }
 function storyEntryWidget() {
   const n = storyList().length;

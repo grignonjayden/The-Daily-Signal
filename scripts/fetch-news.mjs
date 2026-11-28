@@ -157,7 +157,7 @@ const prevImages = {};
 try {
   if (existsSync('news.json')) {
     const prev = JSON.parse(readFileSync('news.json', 'utf8'));
-    [].concat(prev.articles || [], prev.official || []).forEach(a => { if (a.url && a.image && !a.fallback_image) prevImages[a.url] = a.image; });
+    [].concat(prev.articles || [], prev.official || [], prev.ticker || []).forEach(a => { if (a.url && a.image && !a.fallback_image) prevImages[a.url] = a.image; });
   }
 } catch (e) { /* first run */ }
 
@@ -234,7 +234,7 @@ async function fillImages(items) {
   const n = items.filter(i => i.image).length;
   console.log(`Images: ${n}/${items.length} (${items.filter(i => i.fallback_image).length} are source photos)`);
 }
-await fillImages([...articles, ...official]);
+await fillImages([...articles, ...official, ...ticker]); // ticker images feed the News story mode (Reels)
 
 const now = new Date();
 const card = a => ({
@@ -252,7 +252,8 @@ const out = {
   official: official.map(card),
   ticker: ticker.map(t => {
     const sameDay = t.date.toLocaleDateString('en-CA', { timeZone: TZ }) === now.toLocaleDateString('en-CA', { timeZone: TZ });
-    return { time: fmt(t.date, sameDay ? { hour: 'numeric', minute: '2-digit' } : { month: 'short', day: 'numeric' }), title: t.source + ' — ' + t.title, url: t.url, ts: t.date.getTime() };
+    return { time: fmt(t.date, sameDay ? { hour: 'numeric', minute: '2-digit' } : { month: 'short', day: 'numeric' }), title: t.source + ' — ' + t.title, url: t.url, ts: t.date.getTime(),
+      snippet: t.snippet || undefined, image: t.image || undefined, fallback_image: t.fallback_image || undefined };
   }),
 };
 
