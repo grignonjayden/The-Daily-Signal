@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 8:37 AM ET",
+  "generated_at": "Nov 28, 2026, 8:40 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795873041987,
+  "updated_ts": 1795873242715,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -224,6 +224,14 @@
   ],
   "ticker": [
     {
+      "time": "8:38 AM",
+      "title": "CNBC — Supreme Court will decide whether assault weapons bans violate the Second Amendment",
+      "url": "https://www.cnbc.com/2026/11/28/supreme-court-to-decide-if-assault-weapons-bans-violate-2nd-amendment.html",
+      "ts": 1795873098000,
+      "snippet": "The Supreme Court will hear arguments Wednesday over whether state and local assault weapons bans violate the Second Amendment's right \"to keep and bear arms.\"",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326901-1782402782515-gettyimages-2282733148-AFP_B8BN4GJ.jpeg?v=1782405357&w=1920&h=1080"
+    },
+    {
       "time": "8:13 AM",
       "title": "Investing.com — Where does last week’s selloff stand in history, and what’s driven bigger ones?",
       "url": "https://www.investing.com/news/stock-market-news/where-does-last-weeks-selloff-stand-in-history-and-whats-driven-bigger-ones-5054320",
@@ -309,15 +317,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-11-28/plunging-fuel-prices-bring-relief-for-drivers-and-central-banks",
       "ts": 1795860000000,
       "snippet": "In a few short weeks, global fuel markets have lurched out of crisis, for now at least.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true
-    },
-    {
-      "time": "4:00 AM",
-      "title": "Bloomberg — Eisenkot Edging Closer to Leading Israel With Talks Progressing",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-28/eisenkot-edging-closer-to-leading-israel-with-talks-progressing",
-      "ts": 1795856400000,
-      "snippet": "With just over a week to go, Gadi Eisenkot is within striking distance of a coalition breakthrough that could secure him a parliamentary majority and loosen Benjamin Netanyahu’s three-decade grip on Israeli politics.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true
     }
