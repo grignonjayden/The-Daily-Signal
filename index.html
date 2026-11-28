@@ -245,6 +245,46 @@
   }
   @media (max-width: 350px) { .tab-btn { font-size: 10.5px; padding: 9px 1px 8px; } .tab-bar { gap: 4px; } }
 
+
+  /* ---------- News story mode ---------- */
+  .story-entry-row { display: flex; align-items: center; justify-content: space-between; gap: 14px; }
+  .story-entry-sub { margin: 0; font-size: 14px; line-height: 1.5; color: var(--ink-soft); font-weight: 500; }
+  .story-go { flex: none; padding: 11px 22px; }
+  .story-ov { position: fixed; inset: 0; z-index: 990; color: #fff; overflow: hidden; user-select: none; -webkit-user-select: none; touch-action: none; display: flex; flex-direction: column; height: 100vh; height: 100dvh; background: #0F1116; }
+  .story-bg { position: absolute; inset: -40%; z-index: 0; pointer-events: none; transition: filter .6s;
+    background: radial-gradient(closest-side at 30% 30%, rgba(47,99,214,.55), transparent), radial-gradient(closest-side at 75% 35%, rgba(217,114,44,.45), transparent), radial-gradient(closest-side at 50% 80%, rgba(123,79,184,.5), transparent), #10192E;
+    animation: heroSwirl 40s linear infinite; }
+  .story-ov[data-tone="1"] .story-bg { background: radial-gradient(closest-side at 30% 30%, rgba(217,114,44,.5), transparent), radial-gradient(closest-side at 75% 60%, rgba(28,46,82,.8), transparent), radial-gradient(closest-side at 40% 85%, rgba(123,79,184,.45), transparent), #14101C; }
+  .story-ov[data-tone="2"] .story-bg { background: radial-gradient(closest-side at 25% 40%, rgba(123,79,184,.55), transparent), radial-gradient(closest-side at 70% 25%, rgba(47,99,214,.45), transparent), radial-gradient(closest-side at 60% 80%, rgba(217,114,44,.35), transparent), #0F1222; }
+  .story-ov[data-tone="3"] .story-bg { background: radial-gradient(closest-side at 70% 30%, rgba(30,158,90,.35), transparent), radial-gradient(closest-side at 30% 60%, rgba(47,99,214,.5), transparent), radial-gradient(closest-side at 60% 85%, rgba(217,114,44,.4), transparent), #0E141C; }
+  .story-ov > *:not(.story-bg) { position: relative; z-index: 1; }
+  .story-bars { display: flex; gap: 3px; padding: max(12px, env(safe-area-inset-top)) 14px 0; }
+  .story-bars span { flex: 1; height: 3px; border-radius: 2px; background: rgba(255,255,255,.25); }
+  .story-bars span.done { background: rgba(255,255,255,.85); }
+  .story-bars span.on { background: #fff; box-shadow: 0 0 8px rgba(255,255,255,.6); }
+  .story-top { display: flex; justify-content: space-between; align-items: center; padding: 10px 14px 0; }
+  .story-count { font-size: 12.5px; font-weight: 700; opacity: .8; font-variant-numeric: tabular-nums; }
+  .story-x { all: unset; cursor: pointer; width: 40px; height: 40px; border-radius: 50%; text-align: center; line-height: 40px; font-size: 26px; background: rgba(255,255,255,.12); -webkit-tap-highlight-color: transparent; }
+  .story-stage { flex: 1; display: flex; align-items: center; justify-content: center; padding: 10px 22px 30px; min-height: 0; }
+  .story-card { width: 100%; max-width: 560px; max-height: 100%; overflow-y: auto; }
+  .story-card.in-up { animation: storyUp .38s var(--ease) both; } .story-card.in-down { animation: storyDown .38s var(--ease) both; }
+  @keyframes storyUp { from { opacity: 0; transform: translateY(46px); } } @keyframes storyDown { from { opacity: 0; transform: translateY(-46px); } }
+  .story-meta { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 10px; margin-bottom: 14px; }
+  .story-tag { font-size: 12px; font-weight: 800; letter-spacing: .02em; background: rgba(255,255,255,.16); border: 1px solid rgba(255,255,255,.22); border-radius: 999px; padding: 4px 11px; }
+  .story-src { font-size: 13px; font-weight: 600; opacity: .8; }
+  .story-title { font-family: 'Manrope', sans-serif; font-size: clamp(26px, 6.4vw, 38px); line-height: 1.15; font-weight: 800; letter-spacing: -0.02em; margin: 0 0 18px; color: #fff; }
+  .story-line { font-size: 16.5px !important; line-height: 1.55 !important; color: rgba(255,255,255,.92) !important; margin: 0 0 12px !important; font-weight: 500; }
+  .story-line b { color: #fff; font-weight: 800; }
+  .story-line .gl-term { color: #FFD3B0; background: rgba(217,114,44,.25); }
+  .story-read { display: inline-block; margin-top: 10px; font-size: 14.5px; font-weight: 800; color: #10192E; background: #fff; border-radius: 999px; padding: 11px 18px; text-decoration: none; }
+  .story-hint { text-align: center; font-size: 12.5px; font-weight: 700; opacity: .7; padding: 0 0 max(18px, env(safe-area-inset-bottom)); animation: pfBlink 2.4s ease-in-out infinite; }
+  .story-hint[hidden] { display: none; }
+  .story-end { text-align: center; }
+  .story-end-ic { width: 58px; height: 58px; margin: 0 auto 16px; border-radius: 50%; background: rgba(255,255,255,.16); font-size: 28px; line-height: 58px; font-weight: 800; }
+  .story-end-row { display: flex; gap: 10px; justify-content: center; margin-top: 18px; flex-wrap: wrap; }
+  .story-btn { all: unset; cursor: pointer; font-size: 14.5px; font-weight: 800; color: #10192E; background: #fff; border-radius: 999px; padding: 11px 20px; }
+  .story-btn.ghost { color: #fff; background: rgba(255,255,255,.14); }
+  @media (max-width: 600px) { .story-entry-row { gap: 10px; } .story-line { font-size: 15.5px !important; } }
   /* ---------- News list ---------- */
   .news-list { display: flex; flex-direction: column; gap: 2px; }
   .news-card {
@@ -1905,7 +1945,137 @@ function renderNews(data, dateKey) {
     tickerBody.appendChild(el('div', { className: 'ticker-caption', text: "Updates automatically every few minutes from the Federal Reserve, Bank of Canada, Finance Canada, Statistics Canada and the SEC, plus a mix of U.S. and Canadian business outlets. Tap any headline to read the original source." }));
     mainPanel.appendChild(tickerWidget);
   }
+  if (storyList(data).length) mainPanel.prepend(storyEntryWidget()); // Story mode button at the top of News
+}
 
+// ---------- News story mode (TikTok-style): one story per screen, tap or swipe for the next ----------
+// Each story gets "What happened" (the outlet's own summary, trimmed) and "Why it matters" (TDS's plain-language
+// line for the story's theme, a big company it names, or where it comes from). Built from news.json in the browser.
+const STORY_WHY = {
+  rates: 'Interest rates set what mortgages, loans and lines of credit cost, and they sway both stock and bond prices.',
+  oil: 'Oil feeds into gas prices and inflation, and energy companies are one of the biggest parts of the TSX.',
+  trade: 'Tariffs and trade deals change costs for companies that sell across borders, and most Canadian exports go to the U.S.',
+  ai: 'Spending on AI is driving some of the market’s biggest companies, so news here can move whole index funds.',
+  loonie: 'The loonie’s value changes what imports cost and what U.S. investments are worth in Canadian dollars.',
+  housing: 'Housing is most Canadians’ biggest cost and a big part of bank lending, so it ripples through the economy.',
+  gold: 'Gold is often bought when investors are nervous, so its moves can be a sign of worry in markets.',
+  crypto: 'Crypto prices can swing fast on regulation news and big buyers, so moves are often large.',
+  consumer: 'Spending and jobs are the biggest drivers of the economy, so this is a clue to where things are heading.',
+  geo: 'Conflict and sanctions can disrupt supplies like oil and make markets jumpy for a while.',
+  health: 'Drug approvals and pricing rules decide how much drugmakers can sell.',
+};
+const STORY_TAG = { rates: 'Interest rates', oil: 'Energy', trade: 'Trade', ai: 'AI & tech', loonie: 'Loonie', housing: 'Housing', gold: 'Gold', crypto: 'Crypto', consumer: 'Economy', geo: 'World', health: 'Health' };
+function storyList(d) {
+  d = d || (TAB_CONFIG.news && TAB_CONFIG.news.data) || {};
+  const seen = new Set(), out = [];
+  const push = (a, kind) => { const k = (a.url || a.title || '').split('?')[0]; if (!a.title || seen.has(k)) return; seen.add(k); out.push({ ...a, kind }); };
+  freshOnly(d.articles || [], a => a.ts).forEach(a => push(a, 'news'));
+  freshOnly(d.official || [], a => a.ts, NEWS_DAYS.official).forEach(a => push(a, 'official'));
+  freshOnly(d.ticker || [], a => a.ts).forEach(t => { const m = /^(.+?) — (.+)$/.exec(t.title || ''); push({ ...t, source: m ? m[1] : (t.source || ''), title: m ? m[2] : t.title }, 'ticker'); });
+  return out;
+}
+const storyDec = s => { const t = document.createElement('textarea'); t.innerHTML = String(s || ''); return t.value; }; // &apos; → ’ etc.
+const STORY_STOP = new Set('about after again also because been before being could does from have into just more most much news over said says some than that their them then there these they this those very what when where which while will with would your year years week today'.split(' '));
+const storyWords = s => new Set((s.toLowerCase().match(/[a-z0-9']{4,}/g) || []).filter(w => !STORY_STOP.has(w)));
+function storyExplain(a) {
+  const title = storyDec(a.title), snip = storyDec(a.snippet);
+  const text = title + ' ' + snip;
+  const th = PF_THEMES.find(t => t.re.test(text));
+  let what = snip.replace(/\s+/g, ' ').trim();
+  // Skip teaser-style summaries that share no key word with the headline (they don't explain the story).
+  if (what) { const tw = storyWords(title); if (![...storyWords(what)].some(w => tw.has(w))) what = ''; }
+  if (what) {
+    const s = what.match(/[^.!?]+[.!?]+["”’)]?/g) || [what]; what = s[0].trim();
+    if (what.length < 90 && s[1]) what += ' ' + s[1].trim();
+    if (what.length > 220) what = what.slice(0, 217).replace(/\s+\S*$/, '') + '…';
+  }
+  let co = null;
+  for (const [sym, al] of Object.entries(PF_ALIASES)) { try { if (new RegExp('\\b(' + al.trim() + ')\\b').test(title)) { co = { sym, name: al.split('|')[0].trim() }; break; } } catch (e) { /* skip */ } }
+  const why = th ? STORY_WHY[th.key]
+    : co ? co.name + ' (' + co.sym + ') is one of the most widely held stocks, so news like this can move its shares and the funds that own them.'
+    : a.kind === 'official' ? 'This comes straight from a government agency or regulator, the original source other news reports quote.'
+    : 'Stories like this shape how investors feel about the market. Tap “Read the full story” for the details.';
+  return { what, why, tag: th ? STORY_TAG[th.key] : co ? co.sym : a.kind === 'official' ? 'Official' : 'Markets' };
+}
+function storyAgo(a) {
+  if (a.ts) { const m = Math.round((Date.now() - a.ts) / 60e3); if (m >= 0 && m < 60) return m <= 1 ? 'just now' : m + ' min ago'; const h = Math.round(m / 60); if (h < 24) return h + 'h ago'; if (h < 24 * 7) return Math.round(h / 24) + 'd ago'; }
+  return a.time || '';
+}
+function openStories(startAt) {
+  const list = storyList(); if (!list.length) return;
+  let i = Math.max(0, Math.min(startAt || 0, list.length));
+  const ov = el('div', { className: 'story-ov' }); ov.setAttribute('role', 'dialog'); ov.setAttribute('aria-modal', 'true'); ov.setAttribute('aria-label', 'News stories');
+  ov.appendChild(el('div', { className: 'story-bg' }));
+  const bars = el('div', { className: 'story-bars' }); list.forEach(() => bars.appendChild(el('span'))); ov.appendChild(bars);
+  const top = el('div', { className: 'story-top' });
+  const count = el('span', { className: 'story-count' }); top.appendChild(count);
+  const x = el('button', { className: 'story-x', text: '×' }); x.type = 'button'; x.setAttribute('aria-label', 'Close stories'); top.appendChild(x);
+  ov.appendChild(top);
+  const stage = el('div', { className: 'story-stage' }); ov.appendChild(stage);
+  const hint = el('div', { className: 'story-hint', text: 'Tap or swipe up for the next story' }); ov.appendChild(hint);
+  const prevOverflow = document.body.style.overflow; document.body.style.overflow = 'hidden';
+  const show = dir => {
+    glClose();
+    [...bars.children].forEach((b, j) => { b.className = j < i ? 'done' : j === i ? 'on' : ''; });
+    count.textContent = i < list.length ? (i + 1) + ' / ' + list.length : 'Done';
+    const card = el('div', { className: 'story-card ' + (dir < 0 ? 'in-down' : 'in-up') });
+    if (i >= list.length) {
+      card.classList.add('story-end');
+      card.appendChild(el('div', { className: 'story-end-ic', text: '✓' }));
+      card.appendChild(el('h2', { className: 'story-title', text: 'You’re all caught up' }));
+      card.appendChild(el('p', { className: 'story-line', text: 'That’s every story in today’s dispatch. New headlines arrive every few minutes.' }));
+      const row = el('div', { className: 'story-end-row' });
+      const again = el('button', { className: 'story-btn', text: 'Start over' }); again.type = 'button'; again.onclick = () => { i = 0; show(1); };
+      const back = el('button', { className: 'story-btn ghost', text: 'Back to News' }); back.type = 'button'; back.onclick = close;
+      row.appendChild(again); row.appendChild(back); card.appendChild(row);
+    } else {
+      const a = list[i], ex = storyExplain(a);
+      const meta = el('div', { className: 'story-meta' });
+      meta.appendChild(el('span', { className: 'story-tag', text: ex.tag }));
+      meta.appendChild(el('span', { className: 'story-src', text: [a.source, storyAgo(a)].filter(Boolean).join(' · ') }));
+      card.appendChild(meta);
+      card.appendChild(el('h2', { className: 'story-title', text: storyDec(a.title) }));
+      if (ex.what) { const p = el('p', { className: 'story-line item-summary' }); p.appendChild(el('b', { text: 'What happened: ' })); p.appendChild(document.createTextNode(ex.what)); card.appendChild(p); }
+      const w = el('p', { className: 'story-line item-summary' }); w.appendChild(el('b', { text: 'Why it matters: ' })); w.appendChild(document.createTextNode(ex.why)); card.appendChild(w);
+      if (a.url) { const r = el('a', { className: 'story-read', href: a.url, text: 'Read the full story ↗' }); r.target = '_blank'; r.rel = 'noopener'; card.appendChild(r); }
+    }
+    stage.innerHTML = ''; stage.appendChild(card); applyGlossary(card);
+    ov.style.setProperty('--hue', String((i * 47) % 360));
+    ov.dataset.tone = String(i % 4);
+    hint.hidden = i > 0;
+  };
+  const go = d => { const n = i + d; if (n < 0 || n > list.length) return; i = n; show(d); };
+  function close() { ov.remove(); document.body.style.overflow = prevOverflow; document.removeEventListener('keydown', onKey); glClose(); }
+  const onKey = e => {
+    if (e.key === 'Escape') close();
+    else if (['ArrowRight', 'ArrowDown', ' ', 'PageDown'].includes(e.key)) { e.preventDefault(); go(1); }
+    else if (['ArrowLeft', 'ArrowUp', 'PageUp'].includes(e.key)) { e.preventDefault(); go(-1); }
+  };
+  document.addEventListener('keydown', onKey);
+  x.onclick = close;
+  let sx = 0, sy = 0, st = 0;
+  ov.addEventListener('pointerdown', e => { sx = e.clientX; sy = e.clientY; st = Date.now(); });
+  ov.addEventListener('pointerup', e => {
+    if (e.target.closest('a, button, .gl-term, .gl-pop')) return;
+    if (Date.now() < glSwallowUntil) return; // that tap just closed a definition bubble
+    const dx = e.clientX - sx, dy = e.clientY - sy;
+    if (Math.abs(dy) > 50 && Math.abs(dy) > Math.abs(dx)) { go(dy < 0 ? 1 : -1); return; } // swipe up = next, down = back
+    if (Math.abs(dx) > 50) { go(dx < 0 ? 1 : -1); return; }
+    if (Date.now() - st > 600) return; // long press = just reading
+    go(e.clientX < window.innerWidth * 0.3 ? -1 : 1); // tap left edge = back, anywhere else = next
+  });
+  let wheelAt = 0;
+  ov.addEventListener('wheel', e => { e.preventDefault(); if (Math.abs(e.deltaY) < 25 || Date.now() - wheelAt < 600) return; wheelAt = Date.now(); go(e.deltaY > 0 ? 1 : -1); }, { passive: false });
+  document.body.appendChild(ov); show(1); x.focus({ preventScroll: true });
+}
+function storyEntryWidget() {
+  const n = storyList().length;
+  const w = widgetShell('w-span-12 story-entry', 'frontpage', 'var(--mint-soft)', 'var(--mint-deep)', 'Story mode');
+  const row = el('div', { className: 'story-entry-row' });
+  row.appendChild(el('p', { className: 'story-entry-sub', text: 'Tap through ' + n + ' of today’s stories one at a time, each with a quick plain-English explanation.' }));
+  const b = el('button', { className: 'gen-btn story-go', text: '▶ Start' }); b.type = 'button'; b.onclick = () => openStories(0);
+  row.appendChild(b); w.appendChild(row);
+  return w;
 }
 
 async function loadPastList(tab) {
