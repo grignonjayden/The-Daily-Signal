@@ -335,7 +335,8 @@
   .reel-title { font-family: 'Manrope', sans-serif; font-size: clamp(20px, 5.6vw, 24px); line-height: 1.22; font-weight: 800; letter-spacing: -0.01em; margin: 0 0 10px; color: #fff; text-shadow: 0 1px 6px rgba(0,0,0,.5); }
   .reel-line { font-size: 14px !important; line-height: 1.5 !important; color: rgba(255,255,255,.92) !important; margin: 0 0 8px !important; font-weight: 500; text-shadow: 0 1px 4px rgba(0,0,0,.6); }
   .reel-line b { color: #fff; font-weight: 800; }
-  .reel-line .gl-term { color: #FFD3B0; background: rgba(217,114,44,.35); text-shadow: none; }
+  .reel-line .gl-term { color: #fff; text-decoration-color: #FFB27A; }
+  .reel-line .gl-term.on, .reel-line .gl-term:hover { color: #FFD3B0; }
   .reels-prog { position: absolute; top: 0; left: 0; right: 0; height: 3px; background: rgba(255,255,255,.18); z-index: 4; }
   .reels-prog span { display: block; height: 100%; background: #fff; transition: width .3s var(--ease); }
   .reels-top { position: absolute; top: 0; left: 0; right: 0; z-index: 4; display: flex; align-items: center; gap: 10px; padding: max(12px, env(safe-area-inset-top)) 12px 0 16px; pointer-events: none; }
@@ -639,13 +640,11 @@
   .tldr-list { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 8px; }
   .tldr-list li { font-size: 15.5px; line-height: 1.55; font-weight: 600; color: var(--ink); }
   .tldr-list li::marker { color: var(--mint-deep); font-weight: 800; }
-  /* Key words: a soft highlighter swipe, and a chat-bubble that pops out of the word. */
-  .gl-term { all: unset; cursor: pointer; font-weight: 700; color: var(--pink-deep); padding: 0 2px; margin: 0 -1px; border-radius: 4px; background: linear-gradient(transparent 52%, var(--pink-soft) 52%); transition: background .2s var(--ease), color .2s var(--ease); -webkit-tap-highlight-color: transparent; animation: glGlow 1.6s ease-in-out .6s 2; }
-  .gl-term::after { content: '?'; display: inline-flex; align-items: center; justify-content: center; width: 13px; height: 13px; margin-left: 3px; border-radius: 50%; background: var(--pink); color: #fff; font-size: 9px; font-weight: 800; line-height: 1; vertical-align: 2px; }
-  .gl-term:hover, .gl-term:focus-visible, .gl-term.on { background: var(--pink-soft); }
-  @keyframes glGlow { 0%, 100% { box-shadow: 0 0 0 0 transparent; } 50% { box-shadow: 0 0 0 4px var(--pink-soft); } }
-  .gl-tip { display: flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600; color: var(--ink-soft); margin: 12px 0 0; }
-  .gl-tip b { display: inline-flex; align-items: center; justify-content: center; width: 15px; height: 15px; border-radius: 50%; background: var(--pink); color: #fff; font-size: 10px; }
+  /* Key words: bold with a dotted orange underline (like a dictionary link); tap for a plain-English bubble. */
+  .gl-term { all: unset; cursor: help; font-weight: 700; color: inherit; text-decoration: underline dotted var(--pink); text-decoration-thickness: 2px; text-underline-offset: 4px; transition: color .15s var(--ease), text-decoration-color .15s var(--ease); -webkit-tap-highlight-color: transparent; }
+  .gl-term:hover, .gl-term:focus-visible, .gl-term.on { color: var(--pink-deep); text-decoration-style: solid; }
+  .gl-tip { display: block; font-size: 12px; font-weight: 600; color: var(--ink-soft); margin: 12px 0 0; }
+  .gl-tip b { font-weight: 800; color: var(--ink); text-decoration: underline dotted var(--pink); text-decoration-thickness: 2px; text-underline-offset: 3px; }
   .gl-pop { position: absolute; z-index: 1000; max-width: 260px; background: #1C2E52; color: #fff; border-radius: 16px; box-shadow: 0 14px 32px rgba(28,46,82,.35); padding: 11px 14px 12px; font-size: 13.5px; line-height: 1.45; font-weight: 500; transform-origin: var(--ax, 50%) 0; animation: glPop .28s cubic-bezier(.34,1.56,.64,1) both; }
   .gl-pop.up { transform-origin: var(--ax, 50%) 100%; }
   .gl-pop::before { content: ''; position: absolute; left: var(--ax, 50%); top: -7px; margin-left: -8px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 8px solid #1C2E52; }
@@ -759,6 +758,32 @@
   .pf-msg { font-size: 13px; font-weight: 600; color: var(--ink-soft); margin: 10px 0 0; min-height: 1em; }
   .pf-why { display: flex; flex-direction: column; gap: 8px; }
   .pf-why .item-summary { font-size: 14.5px; line-height: 1.55; color: var(--ink); }
+  /* News that could reach your portfolio (Insights) */
+  .pf-ind-sum { display: flex; flex-direction: column; gap: 10px; background: linear-gradient(135deg, var(--mint-soft), var(--lavender-soft)); border-radius: 16px; padding: 16px 18px; margin-bottom: 16px; }
+  .pf-ind-big { display: flex; align-items: center; gap: 14px; }
+  .pf-ind-pct { font-family: 'Manrope', sans-serif; font-size: 40px; font-weight: 800; letter-spacing: -.03em; line-height: 1; color: var(--ink); flex: none; }
+  .pf-ind-pl { font-size: 14px; font-weight: 600; line-height: 1.45; color: var(--ink-soft); }
+  .pf-ind-bar { display: flex; gap: 3px; height: 10px; border-radius: 5px; overflow: hidden; }
+  .pf-ind-bar span { border-radius: 3px; }
+  .pf-ind-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+  .pf-ind-card { position: relative; background: var(--surface-alt); border-radius: 16px; padding: 14px 16px 14px 18px; overflow: hidden; display: flex; flex-direction: column; gap: 8px; }
+  .pf-ind-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 5px; background: var(--tc); }
+  .pf-ind-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+  .pf-ind-chip { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 800; color: var(--tc); background: color-mix(in srgb, var(--tc) 14%, transparent); border-radius: 999px; padding: 4px 10px 4px 8px; }
+  .pf-ind-chip svg { width: 14px; height: 14px; }
+  .pf-ind-risk { font-size: 10.5px; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; color: var(--ink-faint); }
+  .pf-ind-head { font-size: 15px; font-weight: 800; line-height: 1.35; color: var(--ink); text-decoration: none; }
+  .pf-ind-head:hover { text-decoration: underline; }
+  .pf-ind-src { font-size: 11.5px; font-weight: 600; color: var(--ink-faint); margin-top: -4px; }
+  .pf-ind-path { display: flex; align-items: center; gap: 8px; margin-top: 2px; }
+  .pf-ind-holds { display: flex; gap: 4px; flex-wrap: wrap; }
+  .pf-ind-h { font-size: 11.5px; font-weight: 800; background: var(--surface); color: var(--ink); border: 1px solid var(--line); border-radius: 7px; padding: 2px 7px; }
+  .pf-ind-h.more { color: var(--ink-soft); }
+  .pf-ind-meter { flex: 1; min-width: 40px; height: 6px; border-radius: 3px; background: color-mix(in srgb, var(--tc) 16%, transparent); overflow: hidden; }
+  .pf-ind-meter span { display: block; height: 100%; background: var(--tc); border-radius: 3px; }
+  .pf-ind-of { font-size: 11.5px; font-weight: 800; color: var(--tc); white-space: nowrap; }
+  .pf-ind-card .pf-ind-why { font-size: 13.5px; line-height: 1.5; margin: 0; color: var(--ink-soft); }
+  @media (max-width: 600px) { .pf-ind-pct { font-size: 34px; } .pf-ind-grid { grid-template-columns: 1fr; } }
   .pf-ind { padding: 14px 2px; border-bottom: 1px solid var(--line); }
   .pf-ind:last-of-type { border-bottom: none; }
   .pf-ind-title { display: block; font-size: 15px; font-weight: 700; color: var(--ink); text-decoration: none; line-height: 1.35; }
@@ -1617,7 +1642,7 @@ function renderBriefing(data, dateKey) {
 
   // Live prices
   if (PRICES && Array.isArray(PRICES.markets) && PRICES.markets.length) {
-    mainPanel.appendChild(buildLivePrices('Live Markets', PRICES.markets));
+    const liveW = buildLivePrices('Live Markets', PRICES.markets); liveW.dataset.live = 'markets'; mainPanel.appendChild(liveW);
     if (Array.isArray(PRICES.sectors) && PRICES.sectors.length) {
       const rows = PRICES.sectors.slice().sort((a, b) => (b.change_pct ?? 0) - (a.change_pct ?? 0))
         .map(s => ({ name: s.name, pct: s.change_pct, url: s.url, sub: s.symbol + ' sector ETF' }));
@@ -1637,7 +1662,7 @@ function renderBriefing(data, dateKey) {
 
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
-    const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', 'var(--lavender)', "Today's Themes", data.themes.length);
+    const widget = widgetShell('w-span-12', 'themes', 'var(--lavender-soft)', 'var(--lavender)', "Today's Themes", data.themes.length);
     widget.dataset.top = '2';
     const itemsWrap = el('div');
     buildFilterRow(widget, (key) => {
@@ -1650,19 +1675,7 @@ function renderBriefing(data, dateKey) {
     mainPanel.appendChild(widget);
   }
 
-  // Watch list
-  if (Array.isArray(data.watch_list) && data.watch_list.length) {
-    const widget = widgetShell('w-span-6', 'watch', 'var(--peach-soft)', 'var(--lavender)', 'Worth Researching', data.watch_list.length);
-    const itemsWrap = el('div');
-    buildFilterRow(widget, (key) => {
-      itemsWrap.querySelectorAll('.item').forEach(it => {
-        it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key);
-      });
-    });
-    data.watch_list.forEach((w, i) => itemsWrap.appendChild(makeItem(w.topic || '', w.why || '', w.confidence, i, w.detail)));
-    widget.appendChild(itemsWrap);
-    mainPanel.appendChild(widget);
-  }
+  // (Worth Researching removed from Markets, Nov 28)
 
   // Market pulse
   if (Array.isArray(data.market_pulse) && data.market_pulse.length) {
@@ -1689,8 +1702,8 @@ function renderBriefing(data, dateKey) {
     mainPanel.appendChild(widget);
   }
 
-  // Confidence ring
-  const allConfItems = [].concat(data.themes || [], data.watch_list || []);
+  // Confidence ring (Markets: themes only, since Worth Researching was removed)
+  const allConfItems = [].concat(data.themes || []);
   if (allConfItems.length) {
     const confirmedCount = allConfItems.filter(x => x.confidence === 'confirmed').length;
     const developingCount = allConfItems.length - confirmedCount;
@@ -1699,7 +1712,7 @@ function renderBriefing(data, dateKey) {
 
   // Sectors
   if (Array.isArray(data.sectors) && data.sectors.length) {
-    const widget = widgetShell('w-span-7', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Sectors in Motion');
+    const widget = widgetShell('w-span-8', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Sectors in Motion');
     const cloud = el('div', { className: 'sector-cloud' });
     data.sectors.forEach((s, i) => {
       const palette = SECTOR_PALETTE[i % SECTOR_PALETTE.length];
@@ -1718,10 +1731,7 @@ function renderBriefing(data, dateKey) {
     mainPanel.appendChild(widget);
   }
 
-  // Best performing sector (momentum leaderboard)
-  if (Array.isArray(data.sectors) && data.sectors.length) {
-    mainPanel.appendChild(buildSectorLeaderboard(data.sectors));
-  }
+  // (Best Performing Sector removed, Nov 28)
 
   // Sources
   if (Array.isArray(data.sources) && data.sources.length) {
@@ -1740,6 +1750,8 @@ function renderBriefing(data, dateKey) {
 
   // History
   moveToTop();
+  const lw = mainPanel.querySelector('[data-live="markets"]'), tw = mainPanel.querySelector('[data-top="2"]');
+  if (lw && tw) tw.before(lw); // Live Markets sits right above Today's Themes
 }
 
 function buildHistoryWidget() {
@@ -1862,7 +1874,7 @@ function renderCrypto(data, dateKey) {
 
   // Biggest movers
   if (Array.isArray(data.movers) && data.movers.length) {
-    mainPanel.appendChild(buildCryptoLeaderboard(data.movers));
+    const lb = buildCryptoLeaderboard(data.movers); collapseCard(lb, 'crypto-movers'); mainPanel.appendChild(lb);
   }
 
   // Sources
@@ -2022,17 +2034,21 @@ function renderNews(data, dateKey) {
 function collapseNewsWidgets() {
   mainPanel.querySelectorAll(':scope > .widget').forEach(w => {
     if (w.classList.contains('story-entry') || w.dataset.coll) return;
-    const head = w.querySelector(':scope > .widget-head'); if (!head) return;
-    const title = ((head.querySelector('h2') || {}).textContent || '').trim();
-    if (title === 'Throughout the Day') return; // already has its own Show/Hide
-    const body = el('div', { className: 'news-coll-body' });
-    [...w.childNodes].filter(n => n !== head).forEach(n => body.appendChild(n));
-    w.appendChild(body); w.dataset.coll = '1';
-    const set = open => { body.hidden = !open; w.classList.toggle('is-collapsed', !open); b.textContent = open ? 'Hide' : 'Show'; b.setAttribute('aria-expanded', String(open)); };
-    const b = el('button', { className: 'info-btn' }); b.type = 'button';
-    b.onclick = () => { NEWS_UI.open[title] = !NEWS_UI.open[title]; set(NEWS_UI.open[title]); };
-    head.appendChild(b); set(!!NEWS_UI.open[title]);
+    const title = ((w.querySelector(':scope > .widget-head h2') || {}).textContent || '').trim();
+    if (title && title !== 'Throughout the Day') collapseCard(w, title); // Throughout the Day has its own Show/Hide
   });
+}
+// Collapse a card to its title bar with a Show/Hide button; open/closed is remembered (by key) across auto-refreshes.
+function collapseCard(w, key) {
+  const head = w.querySelector(':scope > .widget-head'); if (!head || w.dataset.coll) return w;
+  const body = el('div', { className: 'news-coll-body' });
+  [...w.childNodes].filter(n => n !== head).forEach(n => body.appendChild(n));
+  w.appendChild(body); w.dataset.coll = '1';
+  const b = el('button', { className: 'info-btn' }); b.type = 'button';
+  const set = open => { body.hidden = !open; w.classList.toggle('is-collapsed', !open); b.textContent = open ? 'Hide' : 'Show'; b.setAttribute('aria-expanded', String(open)); };
+  b.onclick = () => { NEWS_UI.open[key] = !NEWS_UI.open[key]; set(NEWS_UI.open[key]); };
+  head.appendChild(b); set(!!NEWS_UI.open[key]);
+  return w;
 }
 
 // ---------- News story mode (TikTok-style): one story per screen, tap or swipe for the next ----------
@@ -2536,7 +2552,9 @@ function renderCanada(data, dateKey) {
     return;
   }
   const looks = { car: ['var(--pink-soft)', 'var(--pink-deep)'], bank: ['var(--mint-soft)', 'var(--mint-deep)'], cart: ['var(--lavender-soft)', 'var(--lavender)'], building: ['var(--sky-soft)', 'var(--sky)'] };
-  data.sections.forEach(sec => {
+  const secs = data.sections.filter(sec => sec.key !== 'living' && !/cost of living/i.test(sec.title || '')); // Cost of Living & Jobs removed (Nov 28)
+  secs.sort((a, b) => (b.key === 'daily') - (a.key === 'daily')); // Today in Canada first
+  secs.forEach(sec => {
     const c = looks[sec.icon] || looks.bank;
     const widget = widgetShell('w-span-12', ICONS[sec.icon] ? sec.icon : 'maple', c[0], c[1], sec.title, (sec.items || []).length);
     const scroll = el('div', { className: 'pulse-scroll' + ((sec.key || '').startsWith('invest') ? ' ca-fit' : '') }); // investing rows fit the screen
@@ -2659,8 +2677,8 @@ function buildTldr(data, title) {
   const ol = el('ol', { className: 'tldr-list' });
   data.tldr.slice(0, 3).forEach(t => ol.appendChild(el('li', { text: t })));
   w.appendChild(ol);
-  const tip = el('p', { className: 'gl-tip' }); tip.appendChild(el('b', { text: '?' }));
-  tip.appendChild(document.createTextNode('Tap any orange word for a quick, plain-English meaning.'));
+  const tip = el('p', { className: 'gl-tip' }); tip.appendChild(document.createTextNode('Tap any '));
+  tip.appendChild(el('b', { text: 'underlined word' })); tip.appendChild(document.createTextNode(' for a quick, plain-English meaning.'));
   w.appendChild(tip);
   return w;
 }
@@ -3374,7 +3392,7 @@ function pfNameRe(h) {
 function pfStories() {
   const n = (TAB_CONFIG.news && TAB_CONFIG.news.data) || {}, g = (TAB_CONFIG.government && TAB_CONFIG.government.data) || {};
   const out = [];
-  (n.articles || []).forEach(a => out.push({ title: a.title, url: a.url, source: a.source, time: a.time, ts: a.ts || 0 }));
+  (n.articles || []).forEach(a => out.push({ title: a.title, url: a.url, source: a.source, time: a.time, ts: a.ts || 0, image: a.image }));
   (n.ticker || []).forEach(a => { const m = (a.title || '').match(/^(.+?) — (.+)$/); out.push({ title: m ? m[2] : a.title, source: m ? m[1] : '', url: a.url, time: a.time, ts: a.ts || 0 }); });
   (n.official || []).forEach(a => out.push({ title: a.title, url: a.url, source: a.source, time: a.time, ts: a.ts || 0 }));
   (g.items || []).forEach(a => out.push({ title: a.title, url: a.url, source: a.source, time: a.time, ts: Date.parse(a.date || '') || 0 }));
@@ -3515,28 +3533,60 @@ function pfWhyWidget(vals, total) {
   w.appendChild(el('p', { className: 'live-updated', text: 'Based on today’s prices and TDS headlines. News that appears alongside a move isn’t always its cause.' }));
   return w;
 }
+// Theme look for the "News that could reach your portfolio" cards: label, colour, icon.
+const PF_IND_LOOK = {
+  rates: ['Interest rates', '#2F63D6', 'bank'], oil: ['Energy', '#D9722C', 'bolt'], trade: ['Trade & tariffs', '#7B4FB8', 'coin'],
+  ai: ['AI & tech', '#0F8B8D', 'chip'], loonie: ['Loonie', '#D52B1E', 'coin'], housing: ['Housing', '#1E9E5A', 'home'],
+  gold: ['Gold', '#C99A1A', 'gem'], crypto: ['Crypto', '#F2930F', 'bitcoin'], consumer: ['Spending & jobs', '#8E909A', 'cart'],
+  geo: ['World events', '#A6591F', 'shield'], health: ['Health', '#E5484D', 'pulse'],
+};
 function pfIndirectWidget(vals, total) {
   const picks = pfIndirect(vals, total);
-  const w = widgetShell('w-span-12', 'newspaper', 'var(--sky-soft)', 'var(--sky)', 'News that could reach your portfolio', picks.length || undefined);
-  w.appendChild(el('p', { className: 'item-summary gov-sub', text: 'Stories that don’t name what you own but can still affect it, through interest rates, oil, trade, the loonie and more. Market-wide stories are systematic risk (they hit almost everything); sector stories hit groups of companies. The orange tag shows which of your holdings and how much of your portfolio.' }));
-  if (!picks.length) { w.appendChild(el('p', { className: 'item-summary', text: 'No stories in today’s headlines connect to your holdings yet. This updates as news comes in.' })); return w; }
+  const w = widgetShell('w-span-12 pf-ind-w', 'newspaper', 'var(--sky-soft)', 'var(--sky)', 'News that could reach your portfolio', picks.length || undefined);
+  if (!picks.length) {
+    w.appendChild(el('p', { className: 'item-summary', text: 'No stories in today’s headlines connect to your holdings yet. This updates as news comes in.' }));
+    return collapseCard(w, 'pf-indirect');
+  }
+  // Summary strip: how much of your portfolio today's news reaches, split by theme
+  const reach = new Map(); picks.forEach(p => p.groups.forEach(g => g.items.forEach(x => reach.set(x.h.id, { x, theme: reach.has(x.h.id) ? reach.get(x.h.id).theme : p.theme }))));
+  const reachW = [...reach.values()].reduce((s, r) => s + r.x.v.value, 0) / (total || 1);
+  const sum = el('div', { className: 'pf-ind-sum' });
+  const big = el('div', { className: 'pf-ind-big' });
+  big.appendChild(el('span', { className: 'pf-ind-pct', text: Math.round(Math.min(1, reachW) * 100) + '%' }));
+  big.appendChild(el('span', { className: 'pf-ind-pl', text: 'of your portfolio is touched by ' + picks.length + ' of today’s stories, even though none of them name what you own.' }));
+  sum.appendChild(big);
+  const bar = el('div', { className: 'pf-ind-bar' });
+  picks.forEach(p => { const wt = p.groups.reduce((s, g) => s + g.w, 0); const seg = el('span'); seg.style.flex = String(Math.max(0.04, wt)); seg.style.background = (PF_IND_LOOK[p.theme] || ['', '#8E909A'])[1]; seg.title = (PF_IND_LOOK[p.theme] || [p.theme])[0]; bar.appendChild(seg); });
+  sum.appendChild(bar);
+  w.appendChild(sum);
+  const grid = el('div', { className: 'pf-ind-grid' });
   picks.forEach(p => {
-    const card = el('div', { className: 'pf-ind' });
-    const a = el('a', { className: 'pf-ind-title', href: p.st.url || '#', text: p.st.title }); card.appendChild(a);
-    const meta = el('div', { className: 'pf-ind-meta', text: [p.st.source, p.st.time].filter(Boolean).join(' · ') });
-    meta.appendChild(el('span', { className: 'pf-ind-tag', text: /^(rates|geo|consumer)$/.test(p.theme) ? 'Systematic: market-wide' : p.theme === 'loonie' ? 'Currency risk' : 'Sector-wide' }));
-    card.appendChild(meta);
+    const look = PF_IND_LOOK[p.theme] || [p.theme, '#8E909A', 'newspaper'];
+    const card = el('div', { className: 'pf-ind-card' }); card.style.setProperty('--tc', look[1]);
+    const top = el('div', { className: 'pf-ind-top' });
+    const chip = el('span', { className: 'pf-ind-chip' }); const ic = svgIcon(ICONS[look[2]] || ICONS.newspaper); chip.appendChild(ic); chip.appendChild(document.createTextNode(look[0])); top.appendChild(chip);
+    top.appendChild(el('span', { className: 'pf-ind-risk', text: /^(rates|geo|consumer)$/.test(p.theme) ? 'Market-wide' : p.theme === 'loonie' ? 'Currency' : 'Sector' }));
+    card.appendChild(top);
+    const a = el('a', { className: 'pf-ind-head', href: p.st.url || '#', text: storyDec(p.st.title) }); a.target = '_blank'; a.rel = 'noopener'; card.appendChild(a);
+    card.appendChild(el('div', { className: 'pf-ind-src', text: [p.st.source, p.st.time].filter(Boolean).join(' · ') }));
+    // "Story → your holdings" path
     p.groups.forEach(g => {
-      const names = g.items.map(x => x.h.sym || x.h.name);
-      const row = el('div', { className: 'pf-ind-row' });
-      row.appendChild(el('div', { className: 'pf-ind-you', text: names.slice(0, 3).join(', ') + (names.length > 3 ? ' +' + (names.length - 3) : '') + ' · ' + Math.max(1, Math.round(g.w * 100)) + '%' }));
-      row.appendChild(el('p', { className: 'item-summary pf-ind-why', text: g.why }));
-      card.appendChild(row);
+      const path = el('div', { className: 'pf-ind-path' });
+      const hold = el('div', { className: 'pf-ind-holds' });
+      g.items.slice(0, 4).forEach(x => hold.appendChild(el('span', { className: 'pf-ind-h', text: x.h.type === 'cash' ? (x.h.name || 'Cash') : (x.h.sym || x.h.name) })));
+      if (g.items.length > 4) hold.appendChild(el('span', { className: 'pf-ind-h more', text: '+' + (g.items.length - 4) }));
+      path.appendChild(hold);
+      const meter = el('div', { className: 'pf-ind-meter' }); const f = el('span'); f.style.width = Math.max(4, Math.round(g.w * 100)) + '%'; meter.appendChild(f);
+      path.appendChild(meter);
+      path.appendChild(el('span', { className: 'pf-ind-of', text: Math.max(1, Math.round(g.w * 100)) + '% of you' }));
+      card.appendChild(path);
+      card.appendChild(el('p', { className: 'item-summary pf-ind-why', text: g.why }));
     });
-    w.appendChild(card);
+    grid.appendChild(card);
   });
-  w.appendChild(el('p', { className: 'live-updated', text: 'General patterns, not predictions or advice. Real effects depend on many things at once.' }));
-  return w;
+  w.appendChild(grid);
+  w.appendChild(el('p', { className: 'live-updated', text: 'Market-wide stories are systematic risk (they hit almost everything); sector stories hit groups of companies. General patterns, not predictions or advice.' }));
+  return collapseCard(w, 'pf-indirect');
 }
 
 // ---------- Portfolio: risk & portfolio theory (CAPM, Sharpe, systematic vs idiosyncratic, Markowitz) ----------
