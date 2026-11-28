@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 8:23 AM ET",
+  "generated_at": "Nov 28, 2026, 8:27 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795872225576,
+  "updated_ts": 1795872426060,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -224,6 +224,13 @@
   ],
   "ticker": [
     {
+      "time": "8:13 AM",
+      "title": "Investing.com — Where does last week’s selloff stand in history, and what’s driven bigger ones?",
+      "url": "https://www.investing.com/news/stock-market-news/where-does-last-weeks-selloff-stand-in-history-and-whats-driven-bigger-ones-5054320",
+      "ts": 1795871595000,
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg"
+    },
+    {
       "time": "8:04 AM",
       "title": "Bloomberg — Higher Prices Test Holiday Shoppers",
       "url": "https://www.bloomberg.com/news/videos/2026-11-28/higher-prices-test-holiday-shoppers-video",
@@ -313,13 +320,6 @@
       "snippet": "With just over a week to go, Gadi Eisenkot is within striking distance of a coalition breakthrough that could secure him a parliamentary majority and loosen Benjamin Netanyahu’s three-decade grip on Israeli politics.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true
-    },
-    {
-      "time": "3:48 AM",
-      "title": "Investing.com — CYBER MONDAY IS LIVE: Everything you can get with InvestingPro under $7.50/month",
-      "url": "https://www.investing.com/news/stock-market-news/cyber-monday-is-live-everything-you-can-get-with-investingpro-under-750month-5053718",
-      "ts": 1795855688000,
-      "image": "https://content-media.investing.com/news/HappyTrader_800x533_L_1661164904.jpg"
     }
   ]
 }
