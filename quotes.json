@@ -1,4 +1,4 @@
-{"generated_at":"Nov 28, 3:17 AM ET","updated_ts":1795853858107,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
+{"generated_at":"Nov 28, 3:34 AM ET","updated_ts":1795854862551,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
 {"s":"6B=F","x":"FUT","t":"f","n":"British pound","k":62500,"r":33,"c":"USD","p":1.3099,"pc":1.3123},
 {"s":"6C=F","x":"FUT","t":"f","n":"Canadian dollar","k":100000,"r":30,"c":"USD","p":0.7024,"pc":0.7046},
 {"s":"6E=F","x":"FUT","t":"f","n":"Euro","k":125000,"r":31,"c":"USD","p":1.0944,"pc":1.0989},
@@ -48,7 +48,7 @@
 {"s":"^IRX","x":"IDX","t":"i","n":"U.S. 13-week T-bill yield","r":20,"c":"USD","p":4.153,"pc":4.155},
 {"s":"^IXIC","x":"IDX","t":"i","n":"Nasdaq Composite","r":1,"c":"USD","p":24129.5,"pc":23585.803},
 {"s":"^KS11","x":"IDX","t":"i","n":"KOSPI (South Korea)","r":15,"c":"KRW","p":4915.68,"pc":4711.21},
-{"s":"^MXX","x":"IDX","t":"i","n":"IPC (Mexico)","r":18,"c":"MXN","p":71657.9,"pc":70353.2},
+{"s":"^MXX","x":"IDX","t":"i","n":"IPC (Mexico)","r":18,"c":"MXN","p":71657.88,"pc":70353.2},
 {"s":"^N225","x":"IDX","t":"i","n":"Nikkei 225 (Japan)","r":11,"c":"JPY","p":58711.11,"pc":57499.16},
 {"s":"^NDX","x":"IDX","t":"i","n":"Nasdaq-100","r":2,"c":"USD","p":26726.389,"pc":26046.896},
 {"s":"^NSEI","x":"IDX","t":"i","n":"Nifty 50 (India)","r":16,"c":"INR","p":25607.2,"pc":25884.5},
@@ -58,7 +58,7 @@
 {"s":"^TYX","x":"IDX","t":"i","n":"U.S. 30-year Treasury yield","r":21,"c":"USD","p":5.325,"pc":5.235},
 {"s":"^VIX","x":"IDX","t":"i","n":"VIX (fear gauge)","r":6,"c":"USD","p":23.81,"pc":26.8},
 {"s":"000001.SS","x":"IDX","t":"i","n":"Shanghai Composite","r":13,"c":"CNY","p":3606.487,"pc":3476.88},
-{"s":"DX-Y.NYB","x":"IDX","t":"i","n":"U.S. Dollar Index","r":22,"c":"USD","p":104.01,"pc":103.78},
+{"s":"DX-Y.NYB","x":"IDX","t":"i","n":"U.S. Dollar Index","r":22,"c":"USD","p":104.014,"pc":104.014},
 {"s":"ABX","x":"TSX","t":"s","h":1,"r":23,"n":"BARRICK MINING CORPORATION","c":"CAD","p":51.98,"pc":49.84},
 {"s":"AC","x":"TSX","t":"s","h":1,"r":58,"n":"AIR CANADA","c":"CAD","p":21.61,"pc":21.95},
 {"s":"ACB","x":"TSX","t":"s","h":1,"r":205,"n":"AURORA CANNABIS INC","c":"CAD","p":6.08,"pc":5.98},
