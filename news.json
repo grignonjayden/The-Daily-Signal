@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 2:40 AM ET",
+  "generated_at": "Nov 28, 2026, 2:43 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795851633059,
+  "updated_ts": 1795851833606,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -105,16 +105,6 @@
       "ts": 1795814160000
     },
     {
-      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
-      "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac?mod=rss_markets_main",
-      "snippet": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
-      "image": "https://images.wsj.net/im-11530422",
-      "time": "Nov 27, 9:00 PM",
-      "coverage": 2,
-      "ts": 1795831200000
-    },
-    {
       "title": "Canadians expected to spend less on Black Friday this year",
       "source": "Globe and Mail",
       "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
@@ -133,6 +123,17 @@
       "fallback_image": true,
       "time": "Nov 28, 1:39 AM",
       "ts": 1795847948000
+    },
+    {
+      "title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
+      "source": "WSJ Markets",
+      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
+      "snippet": "U.S. natural gas futures settled lower with the Nymex January contract falling 4.5% to $3.491/mmBtu in its first trading day at the front of the curve.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true,
+      "time": "Nov 27, 3:44 PM",
+      "coverage": 2,
+      "ts": 1795812240000
     },
     {
       "title": "Number of temporary residents in Canada set to exceed federal target by end of 2027",
@@ -226,6 +227,14 @@
   ],
   "ticker": [
     {
+      "time": "2:40 AM",
+      "title": "CNBC — U.S. military repelled drones at UK airbase this month, FT reports",
+      "url": "https://www.cnbc.com/2026/11/28/us-military-repelled-drones-at-uk-airbase-this-month-ft-reports.html",
+      "ts": 1795851614000,
+      "snippet": "The newspaper, citing people familiar with the matter, said the U.S. deployed counter-drone technology to repel the unmanned aerial systems.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108560353-1795850379842-gettyimages-2297552102-3b9a1156_aeh9udyx.jpeg?v=1795850410&w=1920&h=1080"
+    },
+    {
       "time": "1:15 AM",
       "title": "CNBC — Defense company Chemring protects NATO fleets. Here's why an activist investor wants it to break up",
       "url": "https://www.cnbc.com/2026/11/28/defense-nato-activist-investor.html",
@@ -288,6 +297,14 @@
     },
     {
       "time": "Nov 27",
+      "title": "WSJ Markets — Americans Are More Exposed to the Stock Market Than Ever Before",
+      "url": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac?mod=rss_markets_main",
+      "ts": 1795831200000,
+      "snippet": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "image": "https://images.wsj.net/im-11530422"
+    },
+    {
+      "time": "Nov 27",
       "title": "WSJ Markets — Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks",
       "url": "https://www.wsj.com/finance/banking/citigroups-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-71d8afe9?mod=rss_markets_main",
       "ts": 1795830240000,
@@ -300,20 +317,6 @@
       "url": "https://www.investing.com/news/stock-market-news/ecb-officials-signal-further-rate-hikes-as-inflation-remains-elevated-5054086",
       "ts": 1795830011000,
       "image": "https://content-media.investing.com/news/LYNXMPED3R0M8_M.jpg"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Investing.com — China’s premium puffer jacket push meets consumer resistance",
-      "url": "https://www.investing.com/news/stock-market-news/chinas-premium-puffer-jacketpush-meets-consumer-resistance-5054071",
-      "ts": 1795828696000,
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR01N_L.jpg"
-    },
-    {
-      "time": "Nov 27",
-      "title": "Investing.com — U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
-      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
-      "ts": 1795827406000,
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEHAQ0BJ_L.jpg"
     }
   ]
 }
