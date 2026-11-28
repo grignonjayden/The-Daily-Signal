@@ -976,6 +976,13 @@
   .sh-stack:hover .sh-card-0 { transform: rotate(4deg); } .sh-stack:hover .sh-card-1 { transform: rotate(-5deg) translateY(6px); } .sh-stack:hover .sh-card-2 { transform: rotate(-13deg) translateY(14px); }
   .gen-btn:hover { background: var(--ink); } :root[data-theme="dark"] .gen-btn:hover { background: var(--ink); }
   :root[data-theme="dark"] .chip:hover:not(.active) { background: var(--line); }
+
+  /* Sectors in Motion (Markets): no card box; tinted see-through tags sit on the moving page background */
+  .widget.sectors-float, :root[data-theme="dark"] .widget.sectors-float { background: none; border: none; box-shadow: none; padding-left: 2px; padding-right: 2px; }
+  .widget.sectors-float:hover { box-shadow: none; }
+  .sectors-float .sector-tag { background: color-mix(in srgb, currentColor 9%, transparent) !important; border: 1px solid color-mix(in srgb, currentColor 22%, transparent); -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); }
+  .sectors-float .sector-icon { background: color-mix(in srgb, currentColor 14%, transparent); }
+  .sectors-float .sector-tag .name { color: inherit; }
 </style>
 <script>try{var L=new URLSearchParams(location.search).get('layout');if(L==='flow'||L==='cards')localStorage.setItem('ds-layout',L);if((L||localStorage.getItem('ds-layout'))==='flow')document.documentElement.classList.add('flow');}catch(e){}</script>
 </head>
@@ -1672,7 +1679,7 @@ function renderBriefing(data, dateKey) {
       const rows = PRICES.stock_movers.map(m => ({ name: m.name + (m.symbol ? ' (' + m.symbol + ')' : ''), pct: m.pct, url: m.url, sub: '$' + fmtNum(m.price) }));
       mainPanel.appendChild(buildLiveMoves("Today's Biggest Stock Moves (US$2B+ companies, live)", 'trophy', rows));
     }
-    if (Array.isArray(PRICES.stocks) && PRICES.stocks.length) mainPanel.appendChild(buildLivePrices('Big Names (live)', PRICES.stocks));
+    if (Array.isArray(PRICES.stocks) && PRICES.stocks.length) { const bn = buildLivePrices('Big Names (live)', PRICES.stocks); bn.dataset.live = 'bignames'; mainPanel.appendChild(bn); }
   }
 
   const tldr = buildTldr(data, 'The day in 3 sentences');
@@ -1733,7 +1740,7 @@ function renderBriefing(data, dateKey) {
 
   // Sectors
   if (Array.isArray(data.sectors) && data.sectors.length) {
-    const widget = widgetShell('w-span-12', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Sectors in Motion');
+    const widget = widgetShell('w-span-12 sectors-float', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Sectors in Motion');
     const cloud = el('div', { className: 'sector-cloud' });
     data.sectors.forEach((s, i) => {
       const palette = SECTOR_PALETTE[i % SECTOR_PALETTE.length];
@@ -1773,6 +1780,8 @@ function renderBriefing(data, dateKey) {
   moveToTop();
   const lw = mainPanel.querySelector('[data-live="markets"]'), tw = mainPanel.querySelector('[data-top="2"]');
   if (lw && tw) tw.before(lw); // Live Markets sits right above Today's Themes
+  const bnw = mainPanel.querySelector('[data-live="bignames"]');
+  if (lw && bnw) lw.after(bnw); // Big Names right after Live Markets
 }
 
 function buildHistoryWidget() {
