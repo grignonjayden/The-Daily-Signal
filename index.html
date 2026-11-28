@@ -994,7 +994,7 @@
   }
   html.no-boxes .widget:not(.story-hero):hover { box-shadow: none; }
   html.no-boxes .widget.ring-widget, html.no-boxes .widget.is-collapsed { border-bottom-color: color-mix(in srgb, var(--ink) 10%, transparent); }
-  html.no-boxes .widget.ring-widget { border-bottom: none; }
+  html.no-boxes .widget.ring-widget, html.no-boxes[data-theme="dark"] .widget.ring-widget { border-bottom: none; }
   html.no-boxes .widget.is-collapsed { padding-top: 16px; padding-bottom: 16px; }
   html.no-boxes .widget-title h2 { font-size: 18px; }
   html.no-boxes .pulse-chip, html.no-boxes .pf-stat, html.no-boxes .pf-ind-card, html.no-boxes .pf-sugg-row, html.no-boxes .sector-tag:not([style*="--"]) { -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); }
@@ -1802,7 +1802,10 @@ function renderBriefing(data, dateKey) {
   if (lw && tw) tw.before(lw); // Live Markets sits right above Today's Themes
   const bnw = mainPanel.querySelector('[data-live="bignames"]');
   if (lw && bnw) lw.after(bnw); // Big Names right after Live Markets
+  ringAboveThemes();
 }
+// The "confirmed today" ring sits right above Today's Themes (Markets and Crypto).
+function ringAboveThemes() { const r = mainPanel.querySelector('.ring-widget'), t = mainPanel.querySelector('[data-top="2"]'); if (r && t) t.before(r); }
 
 function buildHistoryWidget() {
   const historyWidget = widgetShell('w-span-12', 'history', 'var(--surface-alt)', 'var(--ink-soft)', 'Past Dispatches');
@@ -1944,6 +1947,7 @@ function renderCrypto(data, dateKey) {
   }
 
   moveToTop();
+  ringAboveThemes();
 }
 
 const SOURCE_BADGES = { 'Federal Reserve': 'FED', 'Bank of Canada': 'BoC', 'Finance Canada': 'FIN CA', 'Statistics Canada': 'StatCan', 'U.S. SEC': 'SEC', 'WSJ Markets': 'WSJ', 'CNBC': 'CNBC', 'MarketWatch': 'MW', 'Globe and Mail': 'G&M' };
