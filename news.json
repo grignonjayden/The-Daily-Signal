@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 1:16 PM ET",
+  "generated_at": "Nov 28, 2026, 1:19 PM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795889760073,
+  "updated_ts": 1795889959914,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -224,6 +224,14 @@
   ],
   "ticker": [
     {
+      "time": "1:15 PM",
+      "title": "MarketWatch — My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+      "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+      "ts": 1795889700000,
+      "snippet": "“We have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.”",
+      "image": "https://images.mktw.net/im-13717696"
+    },
+    {
       "time": "1:03 PM",
       "title": "MarketWatch — A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
       "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
@@ -309,14 +317,6 @@
       "snippet": "Travelers are heading into 2027 facing higher airfares and hotel rates, as strong demand boosts cruises and changing travel patterns put pressure on theme parks. On Bloomberg This Weekend, senior credit analyst of…",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true
-    },
-    {
-      "time": "9:01 AM",
-      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "ts": 1795874460000,
-      "snippet": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-      "image": "https://images.mktw.net/im-93318812"
     }
   ]
 }
