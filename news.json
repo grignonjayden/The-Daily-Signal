@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 10:25 PM ET",
+  "generated_at": "Nov 27, 2026, 10:29 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795836338466,
+  "updated_ts": 1795836547595,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -105,15 +105,14 @@
       "ts": 1795814160000
     },
     {
-      "title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
       "source": "WSJ Markets",
-      "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
-      "snippet": "U.S. natural gas futures settled lower with the Nymex January contract falling 4.5% to $3.491/mmBtu in its first trading day at the front of the curve.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wall_Street_%2855314253740%29.jpg/330px-Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true,
-      "time": "Nov 27, 3:44 PM",
-      "coverage": 3,
-      "ts": 1795812240000
+      "url": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac?mod=rss_markets_main",
+      "snippet": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "image": "https://images.wsj.net/im-11530422",
+      "time": "Nov 27, 9:00 PM",
+      "coverage": 2,
+      "ts": 1795831200000
     },
     {
       "title": "Canadians expected to spend less on Black Friday this year",
@@ -228,6 +227,13 @@
   ],
   "ticker": [
     {
+      "time": "10:09 PM",
+      "title": "Investing.com — Are recent outages bad for software?",
+      "url": "https://www.investing.com/news/stock-market-news/are-recent-outages-bad-for-software-5054117",
+      "ts": 1795835387000,
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEHB80JO_L.jpg"
+    },
+    {
       "time": "10:01 PM",
       "title": "Bloomberg — China Import Logistics Fell 0.6% in January-October, Xinhua Says",
       "url": "https://www.bloomberg.com/news/articles/2026-11-28/china-import-logistics-fell-0-6-in-january-october-xinhua-says",
@@ -256,14 +262,6 @@
       "url": "https://www.investing.com/news/stock-market-news/the-insane-savings-are-ending-investingpro-for-less-than-19week-5054096",
       "ts": 1795832278000,
       "image": "https://content-media.investing.com/news/moved_LYNXMPEGAQ11L_L.jpg"
-    },
-    {
-      "time": "9:00 PM",
-      "title": "WSJ Markets — Americans Are More Exposed to the Stock Market Than Ever Before",
-      "url": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac?mod=rss_markets_main",
-      "ts": 1795831200000,
-      "snippet": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
-      "image": "https://images.wsj.net/im-11530422"
     },
     {
       "time": "8:44 PM",
@@ -310,11 +308,12 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/QUGLQI34WVD2PMVYYSRCNPT4VQ.JPG?auth=51d22805ddf7ae2198f22c9bf8b008ffa4237e0d602ff60ee2ed1b8332572833&smart=true&width=7975&height=5319"
     },
     {
-      "time": "7:03 PM",
-      "title": "Investing.com — 2027 smartphone market outlook: Apple to outperform as shipments fall 5%",
-      "url": "https://www.investing.com/news/stock-market-news/2027-smartphone-market-outlook-apple-to-outperform-as-shipments-fall-5-5054028",
-      "ts": 1795824202000,
-      "image": "https://content-media.investing.com/news/LYNXNPEB880N1_M.jpg"
+      "time": "7:00 PM",
+      "title": "WSJ Markets — JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch",
+      "url": "https://www.wsj.com/finance/banking/jpmorgan-plans-a-private-club-for-well-heeled-clients-in-a-1930s-branch-c609a03c?mod=rss_markets_main",
+      "ts": 1795824000000,
+      "snippet": "The mansion-like historic structure is being renovated for lounges and a dining room, kitchen and bar, city documents show.",
+      "image": "https://images.wsj.net/im-96569150"
     }
   ]
 }
