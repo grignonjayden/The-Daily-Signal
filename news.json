@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 9:04 AM ET",
+  "generated_at": "Nov 28, 2026, 9:07 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795874646319,
+  "updated_ts": 1795874854854,
   "articles": [
     {
       "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
@@ -224,6 +224,14 @@
   ],
   "ticker": [
     {
+      "time": "9:01 AM",
+      "title": "MarketWatch — My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "ts": 1795874460000,
+      "snippet": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "image": "https://images.mktw.net/im-93318812"
+    },
+    {
       "time": "8:38 AM",
       "title": "CNBC — Supreme Court will decide whether assault weapons bans violate the Second Amendment",
       "url": "https://www.cnbc.com/2026/11/28/supreme-court-to-decide-if-assault-weapons-bans-violate-2nd-amendment.html",
@@ -307,15 +315,6 @@
       "url": "https://www.investing.com/news/stock-market-news/157-our-aipicked-stocks-for-december-will-be-out-soon--now-for-60-off-5054307",
       "ts": 1795866788000,
       "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg"
-    },
-    {
-      "time": "5:17 AM",
-      "title": "Bloomberg — Modi Nears Majority Needed to Increase India’s Parliament Seats",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-28/modi-nears-majority-needed-to-increase-india-s-parliament-seats",
-      "ts": 1795861059000,
-      "snippet": "Prime Minister Narendra Modi’s government moved closer to clearing a contentious law to expand the size of India’s parliament after a regional opposition party declared support for the legislation.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true
     }
   ]
 }
