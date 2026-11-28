@@ -484,6 +484,7 @@
     display: flex; flex-direction: column; align-items: center; text-align: center;
     justify-content: center;
     min-height: 260px;
+    grid-column: 1 / -1 !important; justify-self: center; width: 100%; max-width: 340px; /* compact centred box on its own row */
   }
   .ring-wrap { position: relative; width: 168px; height: 168px; margin-bottom: 14px; }
   .ring-wrap svg { transform: rotate(-90deg); }
@@ -1672,6 +1673,7 @@ function renderBriefing(data, dateKey) {
     });
     data.themes.forEach((t, i) => itemsWrap.appendChild(makeItem(t.title || '', t.summary || '', t.confidence, i, t.detail)));
     widget.appendChild(itemsWrap);
+    collapseCard(widget, 'themes-markets');
     mainPanel.appendChild(widget);
   }
 
@@ -1712,7 +1714,7 @@ function renderBriefing(data, dateKey) {
 
   // Sectors
   if (Array.isArray(data.sectors) && data.sectors.length) {
-    const widget = widgetShell('w-span-8', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Sectors in Motion');
+    const widget = widgetShell('w-span-12', 'sectors', 'var(--sky-soft)', 'var(--sky)', 'Sectors in Motion');
     const cloud = el('div', { className: 'sector-cloud' });
     data.sectors.forEach((s, i) => {
       const palette = SECTOR_PALETTE[i % SECTOR_PALETTE.length];
@@ -1795,7 +1797,7 @@ function renderCrypto(data, dateKey) {
 
   // Themes
   if (Array.isArray(data.themes) && data.themes.length) {
-    const widget = widgetShell('w-span-6', 'themes', 'var(--lavender-soft)', 'var(--lavender)', "Today's Crypto Themes", data.themes.length);
+    const widget = widgetShell('w-span-12', 'themes', 'var(--lavender-soft)', 'var(--lavender)', "Today's Crypto Themes", data.themes.length);
     widget.dataset.top = '2';
     const itemsWrap = el('div');
     buildFilterRow(widget, (key) => {
@@ -1803,12 +1805,13 @@ function renderCrypto(data, dateKey) {
     });
     data.themes.forEach((t, i) => itemsWrap.appendChild(makeItem(t.title || '', t.summary || '', t.confidence, i, t.detail)));
     widget.appendChild(itemsWrap);
+    collapseCard(widget, 'themes-crypto');
     mainPanel.appendChild(widget);
   }
 
   // Watch list
   if (Array.isArray(data.watch_list) && data.watch_list.length) {
-    const widget = widgetShell('w-span-6', 'watch', 'var(--peach-soft)', 'var(--lavender)', 'Worth Researching', data.watch_list.length);
+    const widget = widgetShell('w-span-12', 'watch', 'var(--peach-soft)', 'var(--lavender)', 'Worth Researching', data.watch_list.length);
     const itemsWrap = el('div');
     buildFilterRow(widget, (key) => {
       itemsWrap.querySelectorAll('.item').forEach(it => it.classList.toggle('filtered-out', key !== 'all' && it.dataset.confidence !== key));
