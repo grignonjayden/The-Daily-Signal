@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 9:14 AM ET",
+  "generated_at": "Nov 28, 2026, 9:17 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795875263999,
+  "updated_ts": 1795875463739,
   "articles": [
     {
       "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
@@ -64,16 +64,6 @@
       "ts": 1795803846000
     },
     {
-      "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/wall-street-stages-major-comeback-thanksgiving-shortened-trading-week",
-      "snippet": "Wall Street staged a strong comeback as the S&amp;P 500 posted its largest weekly gain in more than a year, with investors returning to battered AI stocks.",
-      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
-      "time": "Nov 27, 9:00 PM",
-      "coverage": 4,
-      "ts": 1795831210000
-    },
-    {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
       "source": "Fox Business",
       "url": "https://www.foxbusiness.com/markets/tech-founders-too-big-fail-jensen-huangs-nvidia-return-sparks-debate",
@@ -104,15 +94,25 @@
       "ts": 1795860953000
     },
     {
-      "title": "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+      "title": "India’s SEBI Weighs Exchange Platform for Pre-IPO Shares",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-s-ai-gambit-fuels-wild-thanksgiving-week-on-wall-street",
-      "snippet": "The message from Washington this week was unmistakable: America must do whatever it takes to win the artificial-intelligence race with China, and the government is prepared to intervene to make it happen.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/india-s-sebi-weighs-exchange-platform-for-pre-ipo-shares",
+      "snippet": "India’s markets regulator is weighing a specialized trading platform as part of efforts to rein in the grey market for shares of companies headed for initial public offerings.",
       "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "fallback_image": true,
-      "time": "Nov 27, 1:43 PM",
-      "coverage": 4,
-      "ts": 1795805016000
+      "time": "Nov 28, 6:56 AM",
+      "coverage": 2,
+      "ts": 1795866998000
+    },
+    {
+      "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/wall-street-stages-major-comeback-thanksgiving-shortened-trading-week",
+      "snippet": "Wall Street staged a strong comeback as the S&amp;P 500 posted its largest weekly gain in more than a year, with investors returning to battered AI stocks.",
+      "image": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/wall-street-ai-stock-market-crash-2026.jpg",
+      "time": "Nov 27, 9:00 PM",
+      "coverage": 3,
+      "ts": 1795831210000
     },
     {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
@@ -224,12 +224,21 @@
   ],
   "ticker": [
     {
-      "time": "9:06 AM",
-      "title": "CNBC — U.S. denies Iran claims over USS Abraham Lincoln strike and Hormuz tolls",
-      "url": "https://www.cnbc.com/2026/11/28/centcom-iran-abraham-lincoln-hormuz-tanker-claims.html",
-      "ts": 1795874803000,
-      "snippet": "Centcom denied a claim by the head of Iran's navy that his country's forces struck the USS Abraham Lincoln aircraft carrier on the first day of the war.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108560359-1795872235990-gettyimages-2306503388-IRAN-HORMOZGAN_PROVINCE-THE_STRAIT_OF_HORMUZ-MERCHANT_VESSELS.jpeg?v=1795872246&w=1920&h=1080"
+      "time": "9:11 AM",
+      "title": "CNBC — The Iran war could shatter rising expectations of surplus oil supply in coming months",
+      "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
+      "ts": 1795875070000,
+      "snippet": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108481442-1793289930383-gettyimages-2301997925-koutsokostas-notitle261029_nplpg.jpeg?v=1793290000&w=1920&h=1080"
+    },
+    {
+      "time": "9:08 AM",
+      "title": "Bloomberg — Travel Demand Holds Despite Higher Prices",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-28/travel-demand-holds-despite-higher-prices-video",
+      "ts": 1795874939000,
+      "snippet": "Travelers are heading into 2027 facing higher airfares and hotel rates, as strong demand boosts cruises and changing travel patterns put pressure on theme parks. On Bloomberg This Weekend, senior credit analyst of…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true
     },
     {
       "time": "9:01 AM",
@@ -238,6 +247,22 @@
       "ts": 1795874460000,
       "snippet": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
       "image": "https://images.mktw.net/im-93318812"
+    },
+    {
+      "time": "8:56 AM",
+      "title": "CNBC — Jefferies says this dip is a rare tech buying opportunity. 5 stocks to pick up now",
+      "url": "https://www.cnbc.com/2026/11/28/jefferies-says-this-dip-is-a-rare-tech-buying-opportunity-5-stocks-to-pick-up-now-.html",
+      "ts": 1795874175000,
+      "snippet": "The investment bank highlighted picks across the technology universe.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108201324-17582960822025-09-19t152728z_626607790_rc21vga54a26_rtrmadp_0_pattern-ipo.jpeg?v=1758296118&w=1920&h=1080"
+    },
+    {
+      "time": "8:46 AM",
+      "title": "CNBC — Billions on the line for Berkshire utility as Oregon's high court reviews wildfire claims",
+      "url": "https://www.cnbc.com/2026/11/28/berkshire-utility-wildfire-claims.html",
+      "ts": 1795873606000,
+      "snippet": "Berkshire Hathaway's PacifiCorp and attorneys for thousands of plaintiffs are welcoming a decision by Oregon's Supreme Court to widen its review of a 2023 lower court trial in which a jury awarded more than one…",
+      "image": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080"
     },
     {
       "time": "8:38 AM",
@@ -291,31 +316,6 @@
       "ts": 1795870802000,
       "snippet": "Many Americans use a smartwatch or fitness tracker to collect their health data, and doctors say the devices are increasingly becoming part of annual checkups.",
       "image": "https://image.cnbcfm.com/api/v1/image/108559464-1795626353817-gettyimages-2209671464-20250204_tuesdaydc_0889.jpeg?v=1795626423&w=1920&h=1080"
-    },
-    {
-      "time": "8:00 AM",
-      "title": "MarketWatch — Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
-      "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-      "ts": 1795870800000,
-      "snippet": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
-      "image": "https://images.mktw.net/im-71398430"
-    },
-    {
-      "time": "7:30 AM",
-      "title": "MarketWatch — These tech stocks may let you play defense without giving up on AI",
-      "url": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
-      "ts": 1795869000000,
-      "snippet": "Amphenol, CDW, Sensata Technologies and TE Connectivity stood out when an Evercore analyst did a stress test of the hardware-related stocks he covers.",
-      "image": "https://images.mktw.net/im-13138384"
-    },
-    {
-      "time": "6:56 AM",
-      "title": "Bloomberg — India’s SEBI Weighs Exchange Platform for Pre-IPO Shares",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-28/india-s-sebi-weighs-exchange-platform-for-pre-ipo-shares",
-      "ts": 1795866998000,
-      "snippet": "India’s markets regulator is weighing a specialized trading platform as part of efforts to rein in the grey market for shares of companies headed for initial public offerings.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true
     }
   ]
 }
