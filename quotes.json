@@ -1,4 +1,4 @@
-{"generated_at":"Nov 28, 4:08 AM ET","updated_ts":1795856893145,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
+{"generated_at":"Nov 28, 4:25 AM ET","updated_ts":1795857908868,"source":{"title":"Yahoo Finance","url":"https://finance.yahoo.com/"},"quotes":[
 {"s":"6B=F","x":"FUT","t":"f","n":"British pound","k":62500,"r":33,"c":"USD","p":1.3099,"pc":1.3123},
 {"s":"6C=F","x":"FUT","t":"f","n":"Canadian dollar","k":100000,"r":30,"c":"USD","p":0.7024,"pc":0.7046},
 {"s":"6E=F","x":"FUT","t":"f","n":"Euro","k":125000,"r":31,"c":"USD","p":1.0944,"pc":1.0989},
@@ -38,7 +38,7 @@
 {"s":"ZW=F","x":"FUT","t":"f","n":"Wheat","k":50,"r":18,"c":"USX","p":591,"pc":587.5},
 {"s":"^AXJO","x":"IDX","t":"i","n":"S&P/ASX 200 (Australia)","r":14,"c":"AUD","p":8833.6,"pc":8763.8},
 {"s":"^BVSP","x":"IDX","t":"i","n":"Bovespa (Brazil)","r":17,"c":"BRL","p":176573.34,"pc":176799.84},
-{"s":"^DJI","x":"IDX","t":"i","n":"Dow Jones Industrial Average","r":3,"c":"USD","p":50774.9,"pc":50182.9},
+{"s":"^DJI","x":"IDX","t":"i","n":"Dow Jones Industrial Average","r":3,"c":"USD","p":50774.94,"pc":50182.9},
 {"s":"^FCHI","x":"IDX","t":"i","n":"CAC 40 (France)","r":9,"c":"EUR","p":8156.09,"pc":8108.74},
 {"s":"^FTSE","x":"IDX","t":"i","n":"FTSE 100 (U.K.)","r":7,"c":"GBP","p":10698.81,"pc":10609.3},
 {"s":"^GDAXI","x":"IDX","t":"i","n":"DAX (Germany)","r":8,"c":"EUR","p":25441.24,"pc":25215.52},
