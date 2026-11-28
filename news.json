@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 9:01 PM ET",
+  "generated_at": "Nov 27, 2026, 9:04 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795831267287,
+  "updated_ts": 1795831472645,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -178,24 +178,6 @@
       "ts": 1795786383000
     },
     {
-      "title": "Canada's balance of international payments, third quarter 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261127/dq261127a-eng.htm",
-      "snippet": "Canada's current account surplus (on a seasonally adjusted basis) narrowed from $6.1 billion in the second quarter to $4.5 billion in the third quarter.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261127/cg261127a001-eng.png",
-      "time": "Nov 27, 8:30 AM",
-      "ts": 1795786200000
-    },
-    {
-      "title": "Railway carloadings, September 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261127/dq261127b-eng.htm",
-      "snippet": "In September, Canadian railways shipped 32.6 million tonnes of freight, up 3.8% compared with September 2025.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261127/cg261127b001-eng.png",
-      "time": "Nov 27, 8:30 AM",
-      "ts": 1795786200000
-    },
-    {
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
@@ -227,6 +209,14 @@
     }
   ],
   "ticker": [
+    {
+      "time": "9:00 PM",
+      "title": "WSJ Markets — Americans Are More Exposed to the Stock Market Than Ever Before",
+      "url": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac?mod=rss_markets_main",
+      "ts": 1795831200000,
+      "snippet": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "image": "https://images.wsj.net/im-11530422"
+    },
     {
       "time": "8:44 PM",
       "title": "WSJ Markets — Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks",
@@ -309,15 +299,6 @@
       "ts": 1795820833000,
       "snippet": "Apple in July sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner's foray into consumer hardware.",
       "image": "https://image.cnbcfm.com/api/v1/image/108074673-1733945784385-gettyimages-2160933099-AA_11072024_1770830.jpeg?v=1733945863&w=1920&h=1080"
-    },
-    {
-      "time": "5:29 PM",
-      "title": "Bloomberg — Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
-      "ts": 1795818596000,
-      "snippet": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true
     }
   ]
 }
