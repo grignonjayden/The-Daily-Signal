@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 7:16 AM ET",
+  "generated_at": "Nov 28, 2026, 7:20 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795868200403,
+  "updated_ts": 1795868401031,
   "articles": [
     {
       "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
@@ -172,24 +172,6 @@
       "fallback_image": true,
       "time": "Nov 27, 8:33 AM",
       "ts": 1795786383000
-    },
-    {
-      "title": "Canada's balance of international payments, third quarter 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261127/dq261127a-eng.htm",
-      "snippet": "Canada's current account surplus (on a seasonally adjusted basis) narrowed from $6.1 billion in the second quarter to $4.5 billion in the third quarter.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261127/cg261127a001-eng.png",
-      "time": "Nov 27, 8:30 AM",
-      "ts": 1795786200000
-    },
-    {
-      "title": "Railway carloadings, September 2026",
-      "source": "Statistics Canada",
-      "url": "https://www.statcan.gc.ca/daily-quotidien/261127/dq261127b-eng.htm",
-      "snippet": "In September, Canadian railways shipped 32.6 million tonnes of freight, up 3.8% compared with September 2025.",
-      "image": "https://www150.statcan.gc.ca/n1/daily-quotidien/261127/cg261127b001-eng.png",
-      "time": "Nov 27, 8:30 AM",
-      "ts": 1795786200000
     },
     {
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
