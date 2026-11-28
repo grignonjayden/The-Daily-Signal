@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 8:03 PM ET",
+  "generated_at": "Nov 27, 2026, 8:07 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795827837055,
+  "updated_ts": 1795828036728,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -75,14 +75,14 @@
       "ts": 1795803846000
     },
     {
-      "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+      "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
       "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR006_L.jpg",
-      "time": "Nov 27, 7:18 PM",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEHAQ0BJ_L.jpg",
+      "time": "Nov 27, 7:56 PM",
       "coverage": 3,
-      "ts": 1795825121000
+      "ts": 1795827406000
     },
     {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
@@ -127,14 +127,14 @@
       "ts": 1795814371000
     },
     {
-      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "title": "Number of temporary residents in Canada set to exceed federal target by end of 2027",
       "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-openai-countersues-apple-for-stealing-trade-secrets/",
-      "snippet": "Tensions between the companies have escalated amid intensifying race to develop AI products",
-      "image": "https://www.theglobeandmail.com/resizer/v2/2HU76QL435GANPQYJXKMPEO3TA.JPG?auth=9d80afe1364878cd6c10f306886e6bfe1081c14b4d0389ebccdadc317622ea14&smart=true&width=5000&height=3335",
-      "time": "Nov 27, 3:31 PM",
+      "url": "https://www.theglobeandmail.com/business/article-ottawa-temporary-residents-target-diab-november-27/",
+      "snippet": "Current immigration plan projects share will be roughly ‘5.5% or less’ of the total population, Metlege Diab says",
+      "image": "https://www.theglobeandmail.com/resizer/v2/4JJLUXVHNFB3LBITVRVJU5YXCA.JPG?auth=63c35cd887b4bacd5cfff9b98fe3fee6c28ac3bf9a95e0d212ab48c516fe67d8&smart=true&width=7128&height=4995",
+      "time": "Nov 27, 3:35 PM",
       "coverage": 2,
-      "ts": 1795811470000
+      "ts": 1795811718000
     },
     {
       "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
@@ -229,6 +229,13 @@
   "ticker": [
     {
       "time": "7:18 PM",
+      "title": "Investing.com — US Black Friday online sales to cross $13 billion, Adobe says",
+      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+      "ts": 1795825121000,
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAR006_L.jpg"
+    },
+    {
+      "time": "7:18 PM",
       "title": "Investing.com — US shoppers confront uphill battle in Black Friday discount quest",
       "url": "https://www.investing.com/news/stock-market-news/us-shoppers-confront-uphill-battle-in-black-friday-discount-quest-5054041",
       "ts": 1795825103000,
@@ -311,15 +318,6 @@
       "url": "https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
       "ts": 1795818283000,
       "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ1RH_L.jpg"
-    },
-    {
-      "time": "5:14 PM",
-      "title": "Bloomberg — Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
-      "ts": 1795817681000,
-      "snippet": "Barry speaks with Holly MacDonald, CEO of Bessemer Trust. They discuss her time working in Brazil and how investing in emerging markets shapes her investment philosophy. They also discuss the enduring strength of the…",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "fallback_image": true
     }
   ]
 }
