@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 28, 2026, 2:02 PM ET",
+  "generated_at": "Nov 28, 2026, 2:06 PM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795892563833,
+  "updated_ts": 1795892773380,
   "articles": [
     {
       "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
@@ -34,26 +34,6 @@
       "ts": 1795872600000
     },
     {
-      "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html",
-      "snippet": "Demand for computing infrastructure has surged since generative AI services were introduced, prompting technology companies to invest heavily in data centers.",
-      "image": "https://image.cnbcfm.com/api/v1/image/108476670-1793220059525-108476670-1793219835583-gettyimages-2286485713-ALPHABET_EARNS.jpeg?v=1793220075&w=1920&h=1080",
-      "time": "Nov 28, 5:50 AM",
-      "coverage": 4,
-      "ts": 1795863044000
-    },
-    {
-      "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/musk-says-google-is-interested-in-renting-more-computing-capacity-from-spacex-5054241",
-      "snippet": "",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEMAR04U_L.jpg",
-      "time": "Nov 28, 4:24 AM",
-      "coverage": 4,
-      "ts": 1795857861000
-    },
-    {
       "title": "US Black Friday online spend rises 11% to a new high of $13.1 billion",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/black-friday-online-shopping-rises-to-131-billion-in-the-us-adobe-analytics-data-shows-5054328",
@@ -64,6 +44,16 @@
       "ts": 1795881264000
     },
     {
+      "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
+      "snippet": "",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEHAQ0BJ_L.jpg",
+      "time": "Nov 28, 10:41 AM",
+      "coverage": 3,
+      "ts": 1795880481000
+    },
+    {
       "title": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html",
@@ -72,6 +62,16 @@
       "time": "Nov 28, 9:34 AM",
       "coverage": 3,
       "ts": 1795876497000
+    },
+    {
+      "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html",
+      "snippet": "Demand for computing infrastructure has surged since generative AI services were introduced, prompting technology companies to invest heavily in data centers.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108476670-1793220059525-108476670-1793219835583-gettyimages-2286485713-ALPHABET_EARNS.jpeg?v=1793220075&w=1920&h=1080",
+      "time": "Nov 28, 5:50 AM",
+      "coverage": 3,
+      "ts": 1795863044000
     },
     {
       "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -115,6 +115,15 @@
       "ts": 1795831210000
     },
     {
+      "title": "U.K. government department hit by cyberattack in latest series of incidents",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/world/article-uk-department-for-work-and-pensions-cyberattack/",
+      "snippet": "Country warned it will likely face AI cyberattacks on critical infrastructure by 2028",
+      "image": "https://www.theglobeandmail.com/resizer/v2/OWGU5TIXRVDUZIZCNQPBDGH7RU.jpg?auth=ec7b0bb07f4a44ee7757536bc5b1abe117b6af8475e9f4aee99c995aba71dda7&smart=true&width=3600&height=2400",
+      "time": "Nov 28, 2:02 PM",
+      "ts": 1795892561000
+    },
+    {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
       "source": "WSJ Markets",
       "url": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
@@ -132,15 +141,6 @@
       "image": "https://images.wsj.net/im-01144362",
       "time": "Nov 28, 7:02 AM",
       "ts": 1795867320000
-    },
-    {
-      "title": "Can you trust AI with complex money questions? Read three chatbots’ answers, rated by experts",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-ai-chatbot-money-questions-chatgpt-claude-gemini-experts/",
-      "snippet": "Have agents truly become good enough for you to rely on them for financial advice?",
-      "image": "https://www.theglobeandmail.com/resizer/v2/OB75D5TCTNFWBPITD3TKCFNVJQ.png?auth=4aa5ef855566aaee4d648fac213760983cafb4810533affe71b9716af38b917a&smart=true&width=1500&height=1000",
-      "time": "Nov 28, 6:00 AM",
-      "ts": 1795863600000
     }
   ],
   "outlets": [
@@ -224,6 +224,13 @@
   ],
   "ticker": [
     {
+      "time": "1:52 PM",
+      "title": "Investing.com — Saab wins €450M radar order from Ukraine",
+      "url": "https://www.investing.com/news/stock-market-news/saab-wins-450m-radar-order-from-ukraine-93CH-5054376",
+      "ts": 1795891970000,
+      "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg"
+    },
+    {
       "time": "1:19 PM",
       "title": "Investing.com — Indonesia weighs first subsidised fuel price hike in five years",
       "url": "https://www.investing.com/news/stock-market-news/indonesia-weighs-first-subsidised-fuel-price-hike-in-five-years-93CH-5054371",
@@ -269,13 +276,6 @@
       "url": "https://www.investing.com/news/stock-market-news/chinas-chery-automobile-moves-into-police-and-nurse-robots-ft-reports-5054345",
       "ts": 1795881206000,
       "image": "https://content-media.investing.com/news/Robots_800x533_L_1780416863.jpg"
-    },
-    {
-      "time": "10:41 AM",
-      "title": "Investing.com — U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
-      "url": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
-      "ts": 1795880481000,
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEHAQ0BJ_L.jpg"
     },
     {
       "time": "10:34 AM",
