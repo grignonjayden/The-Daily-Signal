@@ -1,8 +1,18 @@
 {
-  "generated_at": "Nov 28, 2026, 9:00 AM ET",
+  "generated_at": "Nov 28, 2026, 9:04 AM ET",
   "date_key": "2026-11-28",
-  "updated_ts": 1795874445717,
+  "updated_ts": 1795874646319,
   "articles": [
+    {
+      "title": "Nvidia reinstates Jensen Huang, Lululemon’s Chip Wilson sparks controversy and courting investors for Freedom Mobile: Must-read business and investing stories",
+      "source": "Globe and Mail",
+      "url": "https://www.theglobeandmail.com/business/article-nvidia-ceo-jensen-huang-donald-trump/",
+      "snippet": "Plus, mortgage arrears in Ontario are approaching levels last seen in 2008 financial crisis",
+      "image": "https://www.theglobeandmail.com/resizer/v2/ZBYY454MJ5E6NK65HT3Y4NQWRM.JPG?auth=9d72e73636cc62f3138d31fde412539f9bf7cb4d6a08e8a7ca4464b622f79ed0&smart=true&width=2468&height=1645",
+      "time": "Nov 28, 9:00 AM",
+      "coverage": 5,
+      "ts": 1795874400000
+    },
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
       "source": "MarketWatch",
@@ -131,16 +141,6 @@
       "image": "https://www.theglobeandmail.com/resizer/v2/OB75D5TCTNFWBPITD3TKCFNVJQ.png?auth=4aa5ef855566aaee4d648fac213760983cafb4810533affe71b9716af38b917a&smart=true&width=1500&height=1000",
       "time": "Nov 28, 6:00 AM",
       "ts": 1795863600000
-    },
-    {
-      "title": "Canadians expected to spend less on Black Friday this year",
-      "source": "Globe and Mail",
-      "url": "https://www.theglobeandmail.com/business/article-black-friday-2026-how-much-canadians-are-expected-to-spend/",
-      "snippet": "Over the weekend, shoppers are projected to spend an average of $259, down from $282 last year",
-      "image": "https://www.theglobeandmail.com/resizer/v2/BLKRVNOC4RGGJJLCHL6C2KRSRA.jpg?auth=5f312904e930edce40f81654526a4efa48476fd55456f667170daff3ac1c3986&smart=true&width=2000&height=1478",
-      "time": "Nov 27, 7:44 AM",
-      "coverage": 3,
-      "ts": 1795783448000
     }
   ],
   "outlets": [
