@@ -1,7 +1,7 @@
 {
-  "generated_at": "Nov 27, 2026, 7:30 PM ET",
+  "generated_at": "Nov 27, 2026, 7:33 PM ET",
   "date_key": "2026-11-27",
-  "updated_ts": 1795825804809,
+  "updated_ts": 1795826002597,
   "articles": [
     {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
@@ -231,73 +231,95 @@
       "time": "7:18 PM",
       "title": "Investing.com — US shoppers confront uphill battle in Black Friday discount quest",
       "url": "https://www.investing.com/news/stock-market-news/us-shoppers-confront-uphill-battle-in-black-friday-discount-quest-5054041",
-      "ts": 1795825103000
+      "ts": 1795825103000,
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ171_L.jpg"
     },
     {
       "time": "7:08 PM",
       "title": "Globe and Mail — Telus picks up pace on sale of health, agriculture and VC divisions",
       "url": "https://www.theglobeandmail.com/business/article-telus-divestiture-plan-health-agriculture-vc-divisions/",
-      "ts": 1795824529000
+      "ts": 1795824529000,
+      "snippet": "Telecom accelerates plan to divest of non-core assets after fielding Quebecor’s takeover proposal",
+      "image": "https://www.theglobeandmail.com/resizer/v2/QUGLQI34WVD2PMVYYSRCNPT4VQ.JPG?auth=51d22805ddf7ae2198f22c9bf8b008ffa4237e0d602ff60ee2ed1b8332572833&smart=true&width=7975&height=5319"
     },
     {
       "time": "7:03 PM",
       "title": "Investing.com — 2027 smartphone market outlook: Apple to outperform as shipments fall 5%",
       "url": "https://www.investing.com/news/stock-market-news/2027-smartphone-market-outlook-apple-to-outperform-as-shipments-fall-5-5054028",
-      "ts": 1795824202000
+      "ts": 1795824202000,
+      "image": "https://content-media.investing.com/news/LYNXNPEB880N1_M.jpg"
     },
     {
       "time": "7:00 PM",
       "title": "WSJ Markets — JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch",
       "url": "https://www.wsj.com/finance/banking/jpmorgan-plans-a-private-club-for-well-heeled-clients-in-a-1930s-branch-c609a03c?mod=rss_markets_main",
-      "ts": 1795824000000
+      "ts": 1795824000000,
+      "snippet": "The mansion-like historic structure is being renovated for lounges and a dining room, kitchen and bar, city documents show.",
+      "image": "https://images.wsj.net/im-96569150"
     },
     {
       "time": "7:00 PM",
       "title": "WSJ Markets — Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks",
       "url": "https://www.wsj.com/finance/banking/citigroups-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-71d8afe9?mod=rss_markets_main",
-      "ts": 1795824000000
+      "ts": 1795824000000,
+      "snippet": "Several London-based executives are leaving the bank, and a top risk official is overseeing the cleanup from the trading hub.",
+      "image": "https://images.wsj.net/im-34902810"
     },
     {
       "time": "7:00 PM",
       "title": "MarketWatch — I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "ts": 1795824000000
+      "ts": 1795824000000,
+      "snippet": "“Given my age, I never make a major new purchase without thinking about the future.”",
+      "image": "https://images.mktw.net/im-34995811"
     },
     {
       "time": "6:58 PM",
       "title": "Investing.com — Grupo Aeroportuario del Pacifico completes FIBRA GAP IPO at Ps. 7.82B",
       "url": "https://www.investing.com/news/stock-market-news/grupo-aeroportuario-del-pacifico-completes-fibra-gap-ipo-at-ps-782b-432SI-5054018",
-      "ts": 1795823881000
+      "ts": 1795823881000,
+      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
     },
     {
       "time": "6:15 PM",
       "title": "MarketWatch — Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
       "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
-      "ts": 1795821300000
+      "ts": 1795821300000,
+      "snippet": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+      "image": "https://images.mktw.net/im-71398430"
     },
     {
       "time": "6:07 PM",
       "title": "CNBC — OpenAI countersues Apple for stealing trade secrets",
       "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
-      "ts": 1795820833000
+      "ts": 1795820833000,
+      "snippet": "Apple in July sued OpenAI and two former employees, alleging misappropriation of its trade secrets to benefit the ChatGPT owner's foray into consumer hardware.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108074673-1733945784385-gettyimages-2160933099-AA_11072024_1770830.jpeg?v=1733945863&w=1920&h=1080"
     },
     {
       "time": "5:29 PM",
       "title": "Bloomberg — Jailed Brazil Beach Soccer Star Drawn Into Russia-US Spy Dispute",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
-      "ts": 1795818596000
+      "ts": 1795818596000,
+      "snippet": "A Brazilian beach soccer star has become an unlikely bargaining chip in a dispute over an alleged Russian spy who has been sought by both Moscow and Washington.",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true
     },
     {
       "time": "5:24 PM",
       "title": "Investing.com — Glass Lewis backs Vail Resorts board in proxy fight with activist Oasis",
       "url": "https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
-      "ts": 1795818283000
+      "ts": 1795818283000,
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEMAQ1RH_L.jpg"
     },
     {
       "time": "5:14 PM",
       "title": "Bloomberg — Managing $300B for Ultra Wealthy Families: Masters in Business with Holly MacDonald",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/masters-in-business-with-holly-macdonald-video",
-      "ts": 1795817681000
+      "ts": 1795817681000,
+      "snippet": "Barry speaks with Holly MacDonald, CEO of Bessemer Trust. They discuss her time working in Brazil and how investing in emerging markets shapes her investment philosophy. They also discuss the enduring strength of the…",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/330px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "fallback_image": true
     }
   ]
 }
